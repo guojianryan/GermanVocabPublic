@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fehlentwicklung",
+    "partOfSpeech": "noun, feminine (die Fehlentwicklung)",
+    "pronunciation": {
+      "respelling": "FAYL-ent-vik-lung",
+      "ipa": "ˈfeːlʔɛntˌvɪklʊŋ",
+      "notes": "Plural: die Fehlentwicklungen."
+    },
+    "meaning": "undesirable development, wrong turn",
+    "shortDefinition": "Undesirable development, wrong turn."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Fehlentwicklung, plural die Fehlentwicklungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Fehlentwicklung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Fehlentwicklungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Bericht warnt vor Fehlentwicklungen am Wohnungsmarkt.",
+      "english": "The report warns of undesirable trends on the housing market.",
+      "highlight": [
+        "Fehlentwicklungen"
+      ]
+    },
+    {
+      "german": "Wir müssen diese Fehlentwicklung rechtzeitig korrigieren.",
+      "english": "We must correct this wrong turn in time.",
+      "highlight": [
+        "Fehlentwicklung"
+      ]
+    }
+  ],
+  "forms": [
+    "Fehlentwicklungen",
+    "die Fehlentwicklungen",
+    "die Fehlentwicklung"
+  ],
+  "memoryHook": "Fehlentwicklung: an Entwicklung that went fehl (astray).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fehlentwicklung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Fehlentwicklung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Fehlentwicklung, zwei ___",
+      "answer": "Fehlentwicklungen",
+      "fullAnswer": "ein Fehlentwicklung, zwei Fehlentwicklungen",
+      "explanation": "The plural is Fehlentwicklungen.",
+      "acceptedAnswers": [
+        "Fehlentwicklungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fehlentwicklung mean?",
+      "options": [
+        "undesirable development",
+        "cheap",
+        "never"
+      ],
+      "answer": "undesirable development",
+      "explanation": "Fehlentwicklung: undesirable development, wrong turn.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fehl- as a prefix means…",
+      "options": [
+        "wrong, faulty",
+        "empty"
+      ],
+      "answer": "wrong, faulty",
+      "explanation": "Prefix.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Entwicklung means…",
+      "options": [
+        "development",
+        "envelope"
+      ],
+      "answer": "development",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fehlentscheidung means…",
+      "options": [
+        "wrong decision",
+        "final decision"
+      ],
+      "answer": "wrong decision",
+      "explanation": "Same prefix.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Fehlentwicklung is a development that has gone in the wrong direction: Fehlentwicklungen am Arbeitsmarkt, im Bildungssystem. It is a favourite of news and policy writing, often with korrigieren or gegensteuern (to counteract). The prefix Fehl- adds the idea of wrong or faulty, as in Fehlentscheidung, Fehlstart and Fehlzündung. Plural: die Fehlentwicklungen."
+}

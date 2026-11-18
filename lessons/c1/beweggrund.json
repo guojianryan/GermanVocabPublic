@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Beweggrund",
+    "partOfSpeech": "noun, masculine (der Beweggrund)",
+    "pronunciation": {
+      "respelling": "be-VAYG-grunt",
+      "ipa": "bəˈveːkˌɡʁʊnt",
+      "notes": "Plural: die Beweggründe."
+    },
+    "meaning": "motive, reason for acting",
+    "shortDefinition": "Motive, reason for acting."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Beweggrund, plural die Beweggründe.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Beweggrund"
+        },
+        {
+          "label": "More than one",
+          "value": "die Beweggründe"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sein Beweggrund war reine Neugier.",
+      "english": "His motive was pure curiosity.",
+      "highlight": [
+        "Beweggrund"
+      ]
+    },
+    {
+      "german": "Die Polizei kennt die Beweggründe des Täters noch nicht.",
+      "english": "The police don't yet know the offender's motives.",
+      "highlight": [
+        "Beweggründe"
+      ]
+    }
+  ],
+  "forms": [
+    "Beweggründe",
+    "die Beweggründe",
+    "der Beweggrund"
+  ],
+  "memoryHook": "Beweggrund: the Grund that bewegt (moves) you.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Beweggrund",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Beweggrund is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Beweggrund, zwei ___",
+      "answer": "Beweggründe",
+      "fullAnswer": "ein Beweggrund, zwei Beweggründe",
+      "explanation": "The plural is Beweggründe.",
+      "acceptedAnswers": [
+        "Beweggruende"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Beweggrund mean?",
+      "options": [
+        "the bed",
+        "motive",
+        "to buy"
+      ],
+      "answer": "motive",
+      "explanation": "Beweggrund: motive, reason for acting.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Beweggrund is made of…",
+      "options": [
+        "bewegen (to move) + Grund (reason)",
+        "Bewegung + Gruft"
+      ],
+      "answer": "bewegen (to move) + Grund (reason)",
+      "explanation": "Parts.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "das Motiv, der Anlass",
+        "der Umzug"
+      ],
+      "answer": "das Motiv, der Anlass",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Aus welchem Beweggrund? asks…",
+      "options": [
+        "for what reason?",
+        "in which direction?"
+      ],
+      "answer": "for what reason?",
+      "explanation": "Phrase.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Beweggrund is the motive that drives someone to act, literally the reason that moves (bewegt) you. It sounds a bit formal: aus welchem Beweggrund? In criminal law, niedrige Beweggründe (base motives) are one of the features that can turn a killing into murder (Mord). In everyday speech people more often say Motiv or Grund. Plural: die Beweggründe."
+}
