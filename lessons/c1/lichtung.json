@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Lichtung",
+    "partOfSpeech": "noun, feminine (die Lichtung)",
+    "pronunciation": {
+      "respelling": "LIKH-tung",
+      "ipa": "ˈlɪçtʊŋ",
+      "notes": "Plural: die Lichtungen."
+    },
+    "meaning": "clearing (in a forest)",
+    "shortDefinition": "Clearing (in a forest)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Lichtung, plural die Lichtungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Lichtung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Lichtungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Auf der Lichtung grasten Rehe.",
+      "english": "Deer were grazing in the clearing.",
+      "highlight": [
+        "Lichtung"
+      ]
+    },
+    {
+      "german": "Wir machten auf einer Lichtung Rast.",
+      "english": "We stopped for a rest in a clearing.",
+      "highlight": [
+        "Lichtung"
+      ]
+    }
+  ],
+  "forms": [
+    "Lichtungen",
+    "die Lichtung"
+  ],
+  "memoryHook": "Lichtung: a place where the forest is licht (thin, open).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Lichtung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Lichtung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Lichtung, zwei ___",
+      "answer": "Lichtungen",
+      "fullAnswer": "ein Lichtung, zwei Lichtungen",
+      "explanation": "The plural is Lichtungen.",
+      "acceptedAnswers": [
+        "Lichtungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Lichtung mean?",
+      "options": [
+        "to wait",
+        "to buy",
+        "clearing (in a forest)"
+      ],
+      "answer": "clearing (in a forest)",
+      "explanation": "Lichtung: clearing (in a forest).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Licht (adjective) can mean…",
+      "options": [
+        "sparse, thin (forest)",
+        "heavy"
+      ],
+      "answer": "sparse, thin (forest)",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Lichten means…",
+      "options": [
+        "to thin out; to weigh (anchor)",
+        "to light"
+      ],
+      "answer": "to thin out; to weigh (anchor)",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schneise is…",
+      "options": [
+        "firebreak, aisle (cut through forest)",
+        "a snake"
+      ],
+      "answer": "firebreak, aisle (cut through forest)",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Lichtung is a clearing in a forest, where light reaches the ground. It comes from licht in its sense of sparse or open (lichter Wald), not only bright; the verb lichten means to thin out (Die Reihen lichten sich) or to weigh anchor (den Anker lichten). Clearings feature in many fairy tales. Plural: die Lichtungen."
+}

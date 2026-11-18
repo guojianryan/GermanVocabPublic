@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "hindeuten",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "HIN-doy-ten",
+      "ipa": "ˈhɪnˌdɔɪ̯tn̩",
+      "notes": ""
+    },
+    "meaning": "to point to, suggest",
+    "shortDefinition": "To point to, suggest."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "deut|e … |hin"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "deut|est … |hin"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "deut|et … |hin"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "deut|en … |hin"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "deut|et … |hin"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "deut|en … |hin"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat hingedeutet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Alles deutet auf einen Unfall hin.",
+      "english": "Everything points to an accident.",
+      "highlight": [
+        "deutet",
+        "hin."
+      ]
+    },
+    {
+      "german": "Nichts hatte auf eine Krise hingedeutet.",
+      "english": "Nothing had suggested a crisis.",
+      "highlight": [
+        "hingedeutet."
+      ]
+    }
+  ],
+  "forms": [
+    "deute hin",
+    "deutest hin",
+    "deutet hin",
+    "deuten hin",
+    "hingedeutet",
+    "deutete hin"
+  ],
+  "memoryHook": "Hindeuten: deuten (point) towards (hin) something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … hin (hindeuten)",
+      "answer": "deutet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: deutet … hin.",
+      "acceptedAnswers": [
+        "deutet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (hindeuten, past)",
+      "answer": "hingedeutet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe hingedeutet.",
+      "acceptedAnswers": [
+        "hingedeutet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does hindeuten mean?",
+      "options": [
+        "to wait",
+        "to point to",
+        "the car"
+      ],
+      "answer": "to point to",
+      "explanation": "hindeuten: to point to, suggest.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hindeuten takes…",
+      "options": [
+        "auf + accusative",
+        "zu + dative"
+      ],
+      "answer": "auf + accusative",
+      "explanation": "Preposition.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Hinweis is…",
+      "options": [
+        "hint, clue",
+        "white"
+      ],
+      "answer": "hint, clue",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "hinweisen auf, sprechen für",
+        "ablenken"
+      ],
+      "answer": "hinweisen auf, sprechen für",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Hindeuten auf means to point to or suggest: Die Spuren deuten auf einen Einbruch hin, Alles deutet darauf hin, dass... It's common in news and science reports. Synonyms: hinweisen auf, sprechen für, schließen lassen auf. Deuten means to point and also to interpret: einen Traum deuten. Separable: deutete hin, hingedeutet."
+}

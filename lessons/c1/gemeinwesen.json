@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gemeinwesen",
+    "partOfSpeech": "noun, neuter (das Gemeinwesen)",
+    "pronunciation": {
+      "respelling": "ge-MAIN-vay-zen",
+      "ipa": "ɡəˈmaɪ̯nˌveːzn̩",
+      "notes": "Plural: die Gemeinwesen."
+    },
+    "meaning": "community, polity, commonwealth",
+    "shortDefinition": "Community, polity, commonwealth."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Gemeinwesen, plural die Gemeinwesen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Gemeinwesen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gemeinwesen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ehrenamt stärkt das Gemeinwesen.",
+      "english": "Volunteering strengthens the community.",
+      "highlight": [
+        "Gemeinwesen."
+      ]
+    },
+    {
+      "german": "Steuern finanzieren das Gemeinwesen.",
+      "english": "Taxes fund the common good.",
+      "highlight": [
+        "Gemeinwesen."
+      ]
+    }
+  ],
+  "forms": [
+    "das Gemeinwesen",
+    "Gemeinwesens"
+  ],
+  "memoryHook": "Gemeinwesen: the Wesen (being) of what is gemein (common).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gemeinwesen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Gemeinwesen is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gemeinwesen, zwei ___",
+      "answer": "Gemeinwesen",
+      "fullAnswer": "ein Gemeinwesen, zwei Gemeinwesen",
+      "explanation": "The plural is Gemeinwesen.",
+      "acceptedAnswers": [
+        "Gemeinwesen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gemeinwesen mean?",
+      "options": [
+        "community",
+        "slowly",
+        "tomorrow"
+      ],
+      "answer": "community",
+      "explanation": "Gemeinwesen: community, polity, commonwealth.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gemeinwohl is…",
+      "options": [
+        "the common good",
+        "a community centre"
+      ],
+      "answer": "the common good",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Ehrenamt is…",
+      "options": [
+        "voluntary (unpaid) work",
+        "a court"
+      ],
+      "answer": "voluntary (unpaid) work",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal, political",
+        "colloquial"
+      ],
+      "answer": "formal, political",
+      "explanation": "Register.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Gemeinwesen is the community or polity in a political sense, the state and society as a shared whole: Verantwortung für das Gemeinwesen, ein demokratisches Gemeinwesen. It's formal and appears in political speeches and constitutional texts. Das Gemeinwohl is the common good. Around 29 million people in Germany do some form of Ehrenamt (volunteering). The plural is the same."
+}

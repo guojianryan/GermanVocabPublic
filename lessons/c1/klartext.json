@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Klartext",
+    "partOfSpeech": "noun, masculine (der Klartext)",
+    "pronunciation": {
+      "respelling": "KLAAR-tekst",
+      "ipa": "ˈklaːɐ̯ˌtɛkst",
+      "notes": "Usually no plural."
+    },
+    "meaning": "plain language; plain text",
+    "shortDefinition": "Plain language; plain text."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Klartext, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Klartext"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Jetzt reden wir mal Klartext.",
+      "english": "Now let's speak plainly.",
+      "highlight": [
+        "Klartext."
+      ]
+    },
+    {
+      "german": "Das Passwort darf nicht im Klartext gespeichert werden.",
+      "english": "The password must not be stored in plain text.",
+      "highlight": [
+        "Klartext"
+      ]
+    }
+  ],
+  "forms": [
+    "der Klartext",
+    "im Klartext"
+  ],
+  "memoryHook": "Klartext: text that's klar (clear), not encoded.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Klartext",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Klartext is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Klartext mean?",
+      "options": [
+        "quiet",
+        "the street",
+        "plain language"
+      ],
+      "answer": "plain language",
+      "explanation": "Klartext: plain language; plain text.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Klartext reden means…",
+      "options": [
+        "to speak frankly",
+        "to read aloud"
+      ],
+      "answer": "to speak frankly",
+      "explanation": "Frank.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Im Klartext means…",
+      "options": [
+        "in plain terms; in plain text (IT)",
+        "in a clear voice"
+      ],
+      "answer": "in plain terms; in plain text (IT)",
+      "explanation": "Plain.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Originally, Klartext was…",
+      "options": [
+        "unencrypted text (opposite of code)",
+        "a TV show"
+      ],
+      "answer": "unencrypted text (opposite of code)",
+      "explanation": "Cryptography.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Klartext is plain language, and Klartext reden (or sprechen) means to speak frankly, to call a spade a spade, a quality many Germans prize. Im Klartext means in plain terms: Im Klartext heißt das: Wir müssen sparen. Originally a cryptography term, it means unencrypted text, and in IT, Passwörter im Klartext are plain-text passwords, a security no-go. It has no plural."
+}

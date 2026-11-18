@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Hornhaut",
+    "partOfSpeech": "noun, feminine (die Hornhaut)",
+    "pronunciation": {
+      "respelling": "HORN-haut",
+      "ipa": "ˈhɔʁnˌhaʊ̯t",
+      "notes": "Plural: die Hornhäute."
+    },
+    "meaning": "callus, hard skin; cornea",
+    "shortDefinition": "Callus, hard skin; cornea."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Hornhaut, plural die Hornhäute.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Hornhaut"
+        },
+        {
+          "label": "More than one",
+          "value": "die Hornhäute"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "An den Füßen hat sich Hornhaut gebildet.",
+      "english": "Hard skin has formed on my feet.",
+      "highlight": [
+        "Hornhaut"
+      ]
+    },
+    {
+      "german": "Die Hornhaut des Auges wurde verletzt.",
+      "english": "The cornea of the eye was injured.",
+      "highlight": [
+        "Hornhaut"
+      ]
+    }
+  ],
+  "forms": [
+    "Hornhäute",
+    "die Hornhaut"
+  ],
+  "memoryHook": "Hornhaut: skin as hard as Horn.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Hornhaut",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Hornhaut is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Hornhaut, zwei ___",
+      "answer": "Hornhäute",
+      "fullAnswer": "ein Hornhaut, zwei Hornhäute",
+      "explanation": "The plural is Hornhäute.",
+      "acceptedAnswers": [
+        "Hornhaeute"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Hornhaut mean?",
+      "options": [
+        "expensive",
+        "the car",
+        "callus"
+      ],
+      "answer": "callus",
+      "explanation": "Hornhaut: callus, hard skin; cornea.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Two meanings:",
+      "options": [
+        "callus; cornea",
+        "horn; skin rash"
+      ],
+      "answer": "callus; cornea",
+      "explanation": "Both.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Netzhaut is…",
+      "options": [
+        "retina",
+        "a fishing net"
+      ],
+      "answer": "retina",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Horn is…",
+      "options": [
+        "horn",
+        "hair"
+      ],
+      "answer": "horn",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Hornhaut has two meanings: hard skin or callus (Hornhaut an den Füßen, removed with a Hornhautraspel) and the cornea of the eye. Laser eye surgery reshapes the Hornhaut. Other parts of the eye: die Netzhaut (retina), die Linse, die Iris. Figuratively, sich eine Hornhaut zulegen means to grow a thick skin. Plural: die Hornhäute."
+}

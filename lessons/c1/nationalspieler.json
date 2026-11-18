@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Nationalspieler",
+    "partOfSpeech": "noun, masculine (der Nationalspieler)",
+    "pronunciation": {
+      "respelling": "na-tsyo-NAAL-shpee-ler",
+      "ipa": "nat͡si̯oˈnaːlˌʃpiːlɐ",
+      "notes": "Plural: die Nationalspieler."
+    },
+    "meaning": "international player (national team)",
+    "shortDefinition": "International player (national team)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Nationalspieler, plural die Nationalspieler.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Nationalspieler"
+        },
+        {
+          "label": "More than one",
+          "value": "die Nationalspieler"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er ist seit zehn Jahren Nationalspieler.",
+      "english": "He's been an international for ten years.",
+      "highlight": [
+        "Nationalspieler."
+      ]
+    },
+    {
+      "german": "Die Nationalspielerin erzielte zwei Tore.",
+      "english": "The international player scored two goals.",
+      "highlight": [
+        "Nationalspielerin"
+      ]
+    }
+  ],
+  "forms": [
+    "die Nationalspieler",
+    "der Nationalspieler",
+    "Nationalspielerin",
+    "Nationalmannschaft"
+  ],
+  "memoryHook": "Nationalspieler: a Spieler for the Nation.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Nationalspieler",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Nationalspieler is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Nationalspieler, zwei ___",
+      "answer": "Nationalspieler",
+      "fullAnswer": "ein Nationalspieler, zwei Nationalspieler",
+      "explanation": "The plural is Nationalspieler.",
+      "acceptedAnswers": [
+        "Nationalspieler"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Nationalspieler mean?",
+      "options": [
+        "international player (national team)",
+        "the shop",
+        "always"
+      ],
+      "answer": "international player (national team)",
+      "explanation": "Nationalspieler: international player (national team).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Nationalmannschaft is…",
+      "options": [
+        "the national team",
+        "the national anthem"
+      ],
+      "answer": "the national team",
+      "explanation": "Team.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The German men's team is nicknamed…",
+      "options": [
+        "die Mannschaft / DFB-Elf",
+        "die Adler"
+      ],
+      "answer": "die Mannschaft / DFB-Elf",
+      "explanation": "Nickname.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Bundestrainer is…",
+      "options": [
+        "the national team coach",
+        "a federal trainer for civil servants"
+      ],
+      "answer": "the national team coach",
+      "explanation": "Coach.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Nationalspieler (die Nationalspielerin) is an international player, someone who plays for the national team: die Nationalmannschaft. The men's football team is coached by the Bundestrainer and is often called die DFB-Elf; the women's team has won the European Championship eight times. Being nominated for the first time is called das Debüt in der Nationalmannschaft. Lothar Matthäus holds the German record with 150 international caps (Länderspiele)."
+}

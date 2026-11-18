@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rechnungshof",
+    "partOfSpeech": "noun, masculine (der Rechnungshof)",
+    "pronunciation": {
+      "respelling": "REKH-nungs-hohf",
+      "ipa": "ˈʁɛçnʊŋsˌhoːf",
+      "notes": "Plural: die Rechnungshöfe."
+    },
+    "meaning": "court of audit",
+    "shortDefinition": "Court of audit."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Rechnungshof, plural die Rechnungshöfe.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Rechnungshof"
+        },
+        {
+          "label": "More than one",
+          "value": "die Rechnungshöfe"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Bundesrechnungshof kritisiert die Ausgaben des Ministeriums.",
+      "english": "The Federal Court of Audit criticises the ministry's spending.",
+      "highlight": [
+        "Bundesrechnungshof"
+      ]
+    },
+    {
+      "german": "Jedes Bundesland hat einen eigenen Rechnungshof.",
+      "english": "Every federal state has its own court of audit.",
+      "highlight": [
+        "Rechnungshof."
+      ]
+    }
+  ],
+  "forms": [
+    "Rechnungshöfe",
+    "der Rechnungshof"
+  ],
+  "memoryHook": "Rechnungshof: a Hof (court) that checks the Rechnungen (accounts).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rechnungshof",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Rechnungshof is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Rechnungshof, zwei ___",
+      "answer": "Rechnungshöfe",
+      "fullAnswer": "ein Rechnungshof, zwei Rechnungshöfe",
+      "explanation": "The plural is Rechnungshöfe.",
+      "acceptedAnswers": [
+        "Rechnungshoefe"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rechnungshof mean?",
+      "options": [
+        "always",
+        "court of audit",
+        "the door"
+      ],
+      "answer": "court of audit",
+      "explanation": "Rechnungshof: court of audit.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Bundesrechnungshof is based in…",
+      "options": [
+        "Bonn",
+        "Berlin"
+      ],
+      "answer": "Bonn",
+      "explanation": "Bonn.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The annual Schwarzbuch on waste is published by…",
+      "options": [
+        "the Bund der Steuerzahler",
+        "the Rechnungshof"
+      ],
+      "answer": "the Bund der Steuerzahler",
+      "explanation": "Contrast.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Rechnung is…",
+      "options": [
+        "bill, invoice; calculation",
+        "a ring"
+      ],
+      "answer": "bill, invoice; calculation",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Rechnungshof is a court of audit that checks public spending. The Bundesrechnungshof in Bonn audits federal finances, and each state has its own Landesrechnungshof; their members are independent like judges. Its reports often criticise waste. Not to be confused with the Schwarzbuch, an annual list of wasted tax money from the lobby group Bund der Steuerzahler. Plural: die Rechnungshöfe."
+}

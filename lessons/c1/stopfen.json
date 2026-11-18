@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "stopfen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHTOP-fen",
+      "ipa": "ˈʃtɔp͡fn̩",
+      "notes": ""
+    },
+    "meaning": "to stuff; to darn; to fill",
+    "shortDefinition": "To stuff; to darn; to fill."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "stopf|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "stopf|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "stopf|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "stopf|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "stopf|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "stopf|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gestopft"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er stopfte die Kleider in den Koffer.",
+      "english": "He stuffed the clothes into the suitcase.",
+      "highlight": [
+        "stopfte"
+      ]
+    },
+    {
+      "german": "Oma hat die Socken gestopft.",
+      "english": "Grandma darned the socks.",
+      "highlight": [
+        "gestopft."
+      ]
+    }
+  ],
+  "forms": [
+    "stopfe",
+    "stopfst",
+    "stopft",
+    "stopfen",
+    "gestopft",
+    "Stopfen"
+  ],
+  "memoryHook": "Stopfen: stuff something in until it's full.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (stopfen)",
+      "answer": "stopft",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: stopft.",
+      "acceptedAnswers": [
+        "stopft"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (stopfen, past)",
+      "answer": "gestopft",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gestopft.",
+      "acceptedAnswers": [
+        "gestopft"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does stopfen mean?",
+      "options": [
+        "the bill",
+        "to stuff",
+        "slowly"
+      ],
+      "answer": "to stuff",
+      "explanation": "stopfen: to stuff; to darn; to fill.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Socken stopfen means…",
+      "options": [
+        "to darn socks",
+        "to stop socks"
+      ],
+      "answer": "to darn socks",
+      "explanation": "Darn.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Loch stopfen means…",
+      "options": [
+        "to plug a gap (also budget)",
+        "to make a hole"
+      ],
+      "answer": "to plug a gap (also budget)",
+      "explanation": "Plug.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandem das Maul stopfen means…",
+      "options": [
+        "to shut someone up",
+        "to feed someone"
+      ],
+      "answer": "to shut someone up",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Stopfen means to stuff or cram (Kleider in den Koffer stopfen, sich den Mund voll stopfen), to darn (Socken stopfen) and to plug a gap: ein Haushaltsloch stopfen (to plug a budget hole). Some foods are said to stopfen (cause constipation), like chocolate. Jemandem das Maul stopfen means to shut someone up. Regular: stopfte, gestopft. Not related to English stop."
+}

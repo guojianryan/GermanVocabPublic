@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "stationär",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "shta-tsyo-NAIR",
+      "ipa": "ʃtat͡si̯oˈnɛːɐ̯",
+      "notes": ""
+    },
+    "meaning": "inpatient; stationary",
+    "shortDefinition": "Inpatient; stationary."
+  },
+  "sampleSentences": [
+    {
+      "german": "Der Patient wird stationär behandelt.",
+      "english": "The patient is being treated as an inpatient.",
+      "highlight": [
+        "stationär"
+      ]
+    },
+    {
+      "german": "Der stationäre Handel leidet unter dem Onlinehandel.",
+      "english": "Bricks-and-mortar retail is suffering from online shopping.",
+      "highlight": [
+        "stationäre"
+      ]
+    }
+  ],
+  "forms": [
+    "stationäre",
+    "stationären",
+    "ambulant"
+  ],
+  "memoryHook": "Stationär: staying on the Station (hospital ward).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does stationär mean?",
+      "options": [
+        "the flower",
+        "the bread",
+        "inpatient"
+      ],
+      "answer": "inpatient",
+      "explanation": "stationär: inpatient; stationary.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stationär behandelt means…",
+      "options": [
+        "treated as an inpatient",
+        "treated standing still"
+      ],
+      "answer": "treated as an inpatient",
+      "explanation": "Inpatient.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ambulant means…",
+      "options": [
+        "outpatient",
+        "ambulance"
+      ],
+      "answer": "outpatient",
+      "explanation": "Opposite.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der stationäre Handel is…",
+      "options": [
+        "bricks-and-mortar retail",
+        "stationery shops"
+      ],
+      "answer": "bricks-and-mortar retail",
+      "explanation": "Retail.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Aufnahme (inpatient)",
+      "answer": "stationäre",
+      "fullAnswer": "eine stationäre Aufnahme",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Stationär means inpatient in medicine (stationär aufgenommen werden, to be admitted to hospital) and stationary or fixed elsewhere: der stationäre Handel (bricks-and-mortar shops), stationäre Blitzer (fixed speed cameras). The opposite in medicine is ambulant (outpatient). Die Station is a hospital ward. Stationery (paper goods) is Schreibwaren."
+}

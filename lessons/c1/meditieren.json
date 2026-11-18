@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "meditieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "me-di-TEE-ren",
+      "ipa": "mediˈtiːʁən",
+      "notes": ""
+    },
+    "meaning": "to meditate",
+    "shortDefinition": "To meditate."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "meditier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "meditier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "meditier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "meditier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "meditier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "meditier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat meditiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie meditiert jeden Morgen zwanzig Minuten.",
+      "english": "She meditates for twenty minutes every morning.",
+      "highlight": [
+        "meditiert"
+      ]
+    },
+    {
+      "german": "Er hat lange über die Frage meditiert.",
+      "english": "He pondered the question for a long time.",
+      "highlight": [
+        "meditiert."
+      ]
+    }
+  ],
+  "forms": [
+    "meditiere",
+    "meditierst",
+    "meditiert",
+    "meditieren",
+    "Meditation"
+  ],
+  "memoryHook": "Meditieren: reflect deeply (meditari).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (meditieren)",
+      "answer": "meditiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: meditiert.",
+      "acceptedAnswers": [
+        "meditiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (meditieren, past)",
+      "answer": "meditiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe meditiert.",
+      "acceptedAnswers": [
+        "meditiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does meditieren mean?",
+      "options": [
+        "the shop",
+        "the bill",
+        "to meditate"
+      ],
+      "answer": "to meditate",
+      "explanation": "meditieren: to meditate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Meditation is…",
+      "options": [
+        "meditation",
+        "medication"
+      ],
+      "answer": "meditation",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Meditieren über can mean…",
+      "options": [
+        "to ponder, reflect on",
+        "to treat medically"
+      ],
+      "answer": "to ponder, reflect on",
+      "explanation": "Ponder.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Achtsamkeit is…",
+      "options": [
+        "mindfulness",
+        "attention fee"
+      ],
+      "answer": "mindfulness",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Meditieren means to meditate, and also, in a more literary sense, to ponder: über eine Frage meditieren. Die Meditation is meditation; Achtsamkeit (mindfulness) courses are now often reimbursed in part by German health insurers. Don't confuse it with die Medikation (medication). Perfect without ge-: hat meditiert."
+}

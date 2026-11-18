@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Erledigung",
+    "partOfSpeech": "noun, feminine (die Erledigung)",
+    "pronunciation": {
+      "respelling": "er-LAY-di-gung",
+      "ipa": "ɛɐ̯ˈleːdɪɡʊŋ",
+      "notes": "Plural: die Erledigungen."
+    },
+    "meaning": "errand; completion, handling",
+    "shortDefinition": "Errand; completion, handling."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Erledigung, plural die Erledigungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Erledigung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Erledigungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich muss noch ein paar Erledigungen machen.",
+      "english": "I still have to run a few errands.",
+      "highlight": [
+        "Erledigungen"
+      ]
+    },
+    {
+      "german": "Wir bitten um rasche Erledigung.",
+      "english": "We request prompt handling.",
+      "highlight": [
+        "Erledigung."
+      ]
+    }
+  ],
+  "forms": [
+    "Erledigungen",
+    "die Erledigung"
+  ],
+  "memoryHook": "Erledigung: getting something erledigt (done).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Erledigung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Erledigung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Erledigung, zwei ___",
+      "answer": "Erledigungen",
+      "fullAnswer": "ein Erledigung, zwei Erledigungen",
+      "explanation": "The plural is Erledigungen.",
+      "acceptedAnswers": [
+        "Erledigungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Erledigung mean?",
+      "options": [
+        "errand",
+        "slowly",
+        "the door"
+      ],
+      "answer": "errand",
+      "explanation": "Erledigung: errand; completion, handling.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Erledigungen machen means…",
+      "options": [
+        "to run errands",
+        "to finish off enemies"
+      ],
+      "answer": "to run errands",
+      "explanation": "Errands.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Erledigt (colloquial) can mean…",
+      "options": [
+        "done; exhausted",
+        "deleted"
+      ],
+      "answer": "done; exhausted",
+      "explanation": "Colloquial.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Erledigen means…",
+      "options": [
+        "to deal with, get done",
+        "to read"
+      ],
+      "answer": "to deal with, get done",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Erledigung is the handling or completion of a task: zur Erledigung (for action, on office memos), um rasche Erledigung bitten. In the plural, Erledigungen are errands: Ich habe noch Erledigungen in der Stadt. Erledigen means to get something done, and erledigt can mean done or, colloquially, exhausted: Ich bin völlig erledigt. Plural: die Erledigungen."
+}

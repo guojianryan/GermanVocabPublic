@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fachwerk",
+    "partOfSpeech": "noun, neuter (das Fachwerk)",
+    "pronunciation": {
+      "respelling": "FAKH-verk",
+      "ipa": "ˈfaxˌvɛʁk",
+      "notes": "Usually no plural."
+    },
+    "meaning": "half-timbering, timber framing",
+    "shortDefinition": "Half-timbering, timber framing."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Fachwerk, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Fachwerk"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Altstadt ist voller Häuser mit Fachwerk.",
+      "english": "The old town is full of half-timbered houses.",
+      "highlight": [
+        "Fachwerk."
+      ]
+    },
+    {
+      "german": "Das Fachwerkhaus stammt aus dem 16. Jahrhundert.",
+      "english": "The half-timbered house dates from the 16th century.",
+      "highlight": [
+        "Fachwerkhaus"
+      ]
+    }
+  ],
+  "forms": [
+    "das Fachwerk",
+    "Fachwerks"
+  ],
+  "memoryHook": "Fachwerk: a framework of Fächer (panels) filled with clay or brick.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fachwerk",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Fachwerk is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fachwerk mean?",
+      "options": [
+        "to wait",
+        "slowly",
+        "half-timbering"
+      ],
+      "answer": "half-timbering",
+      "explanation": "Fachwerk: half-timbering, timber framing.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Fachwerkhaus is…",
+      "options": [
+        "half-timbered house",
+        "a specialist's office"
+      ],
+      "answer": "half-timbered house",
+      "explanation": "House.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Deutsche Fachwerkstraße is…",
+      "options": [
+        "a tourist route of timber-framed towns",
+        "a motorway"
+      ],
+      "answer": "a tourist route of timber-framed towns",
+      "explanation": "Route.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Fach is…",
+      "options": [
+        "compartment; subject",
+        "fact"
+      ],
+      "answer": "compartment; subject",
+      "explanation": "Root.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Fachwerk is half-timbering: a wooden frame whose panels (Fächer) are filled with wattle and daub or brick. Fachwerkhäuser shape towns such as Quedlinburg, Goslar, Celle and Wernigerode, linked by the Deutsche Fachwerkstraße, a 3,000-km tourist route. In engineering, ein Fachwerk is also a truss, as in bridges. It has no plural."
+}

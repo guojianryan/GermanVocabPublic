@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "erstarren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "er-SHTA-ren",
+      "ipa": "ɛɐ̯ˈʃtaʁən",
+      "notes": ""
+    },
+    "meaning": "to freeze, stiffen, go rigid",
+    "shortDefinition": "To freeze, stiffen, go rigid."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "erstarr|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "erstarr|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "erstarr|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "erstarr|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "erstarr|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "erstarr|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist erstarrt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Vor Schreck erstarrte sie.",
+      "english": "She froze in shock.",
+      "highlight": [
+        "erstarrte"
+      ]
+    },
+    {
+      "german": "Die Lava erstarrt beim Abkühlen zu Gestein.",
+      "english": "The lava solidifies into rock as it cools.",
+      "highlight": [
+        "erstarrt"
+      ]
+    }
+  ],
+  "forms": [
+    "erstarre",
+    "erstarrst",
+    "erstarrt",
+    "erstarren",
+    "erstarrte"
+  ],
+  "memoryHook": "Erstarren: become starr (rigid).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (erstarren)",
+      "answer": "erstarrt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: erstarrt.",
+      "acceptedAnswers": [
+        "erstarrt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (erstarren, past)",
+      "answer": "erstarrt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin erstarrt.",
+      "acceptedAnswers": [
+        "erstarrt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does erstarren mean?",
+      "options": [
+        "the flower",
+        "the job",
+        "to freeze"
+      ],
+      "answer": "to freeze",
+      "explanation": "erstarren: to freeze, stiffen, go rigid.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Erstarren takes…",
+      "options": [
+        "sein",
+        "haben"
+      ],
+      "answer": "sein",
+      "explanation": "Auxiliary.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Starr means…",
+      "options": [
+        "rigid, stiff; fixed",
+        "starry"
+      ],
+      "answer": "rigid, stiff; fixed",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, erstarrte Strukturen are…",
+      "options": [
+        "rigid, ossified structures",
+        "frozen food"
+      ],
+      "answer": "rigid, ossified structures",
+      "explanation": "Figurative.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Erstarren means to freeze, stiffen or go rigid: vor Angst, vor Schreck erstarren, and of liquids to solidify: Wachs erstarrt. Figuratively it describes institutions that have become rigid: in Ritualen erstarrt, erstarrte Strukturen. Starr means rigid or fixed: ein starrer Blick. Die Erstarrung is rigidity or paralysis. Regular with sein: erstarrte, ist erstarrt."
+}

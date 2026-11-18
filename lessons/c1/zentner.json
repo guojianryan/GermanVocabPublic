@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zentner",
+    "partOfSpeech": "noun, masculine (der Zentner)",
+    "pronunciation": {
+      "respelling": "TSENT-ner",
+      "ipa": "ˈt͡sɛntnɐ",
+      "notes": "Plural: die Zentner."
+    },
+    "meaning": "hundredweight (50 kg)",
+    "shortDefinition": "Hundredweight (50 kg)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Zentner, plural die Zentner.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Zentner"
+        },
+        {
+          "label": "More than one",
+          "value": "die Zentner"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Sack wiegt einen Zentner.",
+      "english": "The sack weighs fifty kilos.",
+      "highlight": [
+        "Zentner."
+      ]
+    },
+    {
+      "german": "Die Bauern ernteten zwanzig Zentner Kartoffeln.",
+      "english": "The farmers harvested a tonne of potatoes.",
+      "highlight": [
+        "Zentner"
+      ]
+    }
+  ],
+  "forms": [
+    "der Zentner",
+    "Zentners"
+  ],
+  "memoryHook": "Zentner: a hundred (centum) pounds.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zentner",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Zentner is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Zentner, zwei ___",
+      "answer": "Zentner",
+      "fullAnswer": "ein Zentner, zwei Zentner",
+      "explanation": "The plural is Zentner.",
+      "acceptedAnswers": [
+        "Zentner"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zentner mean?",
+      "options": [
+        "hundredweight (50 kg)",
+        "quiet",
+        "to sing"
+      ],
+      "answer": "hundredweight (50 kg)",
+      "explanation": "Zentner: hundredweight (50 kg).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Germany, ein Zentner is…",
+      "options": [
+        "50 kilograms",
+        "100 kilograms"
+      ],
+      "answer": "50 kilograms",
+      "explanation": "Germany.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Austria and Switzerland, ein Zentner is…",
+      "options": [
+        "100 kilograms",
+        "50 kilograms"
+      ],
+      "answer": "100 kilograms",
+      "explanation": "Regional.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Pfund is…",
+      "options": [
+        "500 grams (informal)",
+        "454 grams"
+      ],
+      "answer": "500 grams (informal)",
+      "explanation": "Pound.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Zentner is an old unit of weight: in Germany 50 kilograms (100 Pfund of 500 grams), while in Austria and Switzerland it's 100 kilograms. It's still used informally in farming and in idioms: zentnerschwer means extremely heavy, as in Mir fiel ein zentnerschwerer Stein vom Herzen (a huge weight was lifted from my mind). From Latin centenarius (of a hundred). The plural is the same."
+}

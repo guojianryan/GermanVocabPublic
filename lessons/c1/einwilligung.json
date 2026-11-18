@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Einwilligung",
+    "partOfSpeech": "noun, feminine (die Einwilligung)",
+    "pronunciation": {
+      "respelling": "AIN-vi-li-gung",
+      "ipa": "ˈaɪ̯nˌvɪlɪɡʊŋ",
+      "notes": "Plural: die Einwilligungen."
+    },
+    "meaning": "consent",
+    "shortDefinition": "Consent."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Einwilligung, plural die Einwilligungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Einwilligung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Einwilligungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Für die Operation braucht der Arzt Ihre Einwilligung.",
+      "english": "The doctor needs your consent for the operation.",
+      "highlight": [
+        "Einwilligung."
+      ]
+    },
+    {
+      "german": "Ohne Einwilligung dürfen keine Fotos veröffentlicht werden.",
+      "english": "No photos may be published without consent.",
+      "highlight": [
+        "Einwilligung"
+      ]
+    }
+  ],
+  "forms": [
+    "Einwilligungen",
+    "die Einwilligung",
+    "einwilligen"
+  ],
+  "memoryHook": "Einwilligung: giving your will (Wille) to something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Einwilligung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Einwilligung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Einwilligung, zwei ___",
+      "answer": "Einwilligungen",
+      "fullAnswer": "ein Einwilligung, zwei Einwilligungen",
+      "explanation": "The plural is Einwilligungen.",
+      "acceptedAnswers": [
+        "Einwilligungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Einwilligung mean?",
+      "options": [
+        "consent",
+        "the flower",
+        "the bill"
+      ],
+      "answer": "consent",
+      "explanation": "Einwilligung: consent.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einwilligen in means…",
+      "options": [
+        "to consent to",
+        "to be willing"
+      ],
+      "answer": "to consent to",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Under GDPR (DSGVO), Einwilligung is…",
+      "options": [
+        "one legal basis for processing data",
+        "never needed"
+      ],
+      "answer": "one legal basis for processing data",
+      "explanation": "Data.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Zustimmung",
+        "der Wille"
+      ],
+      "answer": "die Zustimmung",
+      "explanation": "Consent.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Einwilligung is consent, a key legal term: die Einwilligung des Patienten, die Einwilligungserklärung (consent form). Under the GDPR (in German: DSGVO), Einwilligung is one legal basis for processing personal data, hence the cookie banners. Germany also protects das Recht am eigenen Bild: generally, photos of people can't be published without their Einwilligung. The verb is einwilligen in. Plural: die Einwilligungen."
+}

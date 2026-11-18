@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Komet",
+    "partOfSpeech": "noun, masculine (der Komet)",
+    "pronunciation": {
+      "respelling": "ko-MAYT",
+      "ipa": "koˈmeːt",
+      "notes": "Plural: die Kometen."
+    },
+    "meaning": "comet",
+    "shortDefinition": "Comet."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Komet, plural die Kometen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Komet"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kometen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Komet war am Nachthimmel zu sehen.",
+      "english": "The comet was visible in the night sky.",
+      "highlight": [
+        "Komet"
+      ]
+    },
+    {
+      "german": "Sie hatte einen kometenhaften Aufstieg.",
+      "english": "She had a meteoric rise.",
+      "highlight": [
+        "kometenhaften"
+      ]
+    }
+  ],
+  "forms": [
+    "Kometen",
+    "die Kometen",
+    "der Komet",
+    "kometenhaft"
+  ],
+  "memoryHook": "Komet: a long-haired (Greek kometes) star.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Komet",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Komet is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Komet, zwei ___",
+      "answer": "Kometen",
+      "fullAnswer": "ein Komet, zwei Kometen",
+      "explanation": "The plural is Kometen.",
+      "acceptedAnswers": [
+        "Kometen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Komet mean?",
+      "options": [
+        "the shop",
+        "comet",
+        "the bread"
+      ],
+      "answer": "comet",
+      "explanation": "Komet: comet.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Komet is a weak noun:",
+      "options": [
+        "den Kometen",
+        "den Komet"
+      ],
+      "answer": "den Kometen",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kometenhaft means…",
+      "options": [
+        "meteoric, sudden",
+        "comic"
+      ],
+      "answer": "meteoric, sudden",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Meteorit is…",
+      "options": [
+        "meteorite",
+        "comet"
+      ],
+      "answer": "meteorite",
+      "explanation": "Meteorite.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Komet is a comet: der Halleysche Komet (Halley's Comet), der Kometenschweif (tail). Kometenhaft means meteoric: ein kometenhafter Aufstieg. It's a weak noun: den Kometen. The European Space Agency's Rosetta mission, controlled from Darmstadt, landed the probe Philae on a comet in 2014, a world first. From Greek kometes (long-haired). Plural: die Kometen."
+}

@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "speien",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHPAI-en",
+      "ipa": "ˈʃpaɪ̯ən",
+      "notes": ""
+    },
+    "meaning": "to spit, spew (literary)",
+    "shortDefinition": "To spit, spew (literary)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "spei|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "spei|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "spei|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "spei|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "spei|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "spei|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gespien"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Drache spie Feuer.",
+      "english": "The dragon breathed fire.",
+      "highlight": [
+        "spie"
+      ]
+    },
+    {
+      "german": "Der Vulkan speit Lava.",
+      "english": "The volcano spews lava.",
+      "highlight": [
+        "speit"
+      ]
+    }
+  ],
+  "forms": [
+    "speie",
+    "speist",
+    "speit",
+    "speien",
+    "gespien",
+    "spie",
+    "Wasserspeier"
+  ],
+  "memoryHook": "Speien: spit out with force.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (speien)",
+      "answer": "speit",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: speit.",
+      "acceptedAnswers": [
+        "speit"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (speien, past)",
+      "answer": "gespien",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gespien.",
+      "acceptedAnswers": [
+        "gespien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does speien mean?",
+      "options": [
+        "hot",
+        "to spit",
+        "to help"
+      ],
+      "answer": "to spit",
+      "explanation": "speien: to spit, spew (literary).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "spie, gespien",
+        "speite, gespeit"
+      ],
+      "answer": "spie, gespien",
+      "explanation": "Irregular.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Wasserspeier is…",
+      "options": [
+        "gargoyle",
+        "water pistol"
+      ],
+      "answer": "gargoyle",
+      "explanation": "Architecture.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday synonym:",
+      "options": [
+        "spucken",
+        "sprechen"
+      ],
+      "answer": "spucken",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Speien means to spit or spew, a literary or elevated word: Feuer speien (dragons), Lava speien (volcanoes), Gift und Galle speien (to rant furiously). It's irregular: spie, gespien. Der Wasserspeier is a gargoyle, as on Cologne Cathedral. Everyday German uses spucken (to spit) or, for vomiting, sich übergeben or kotzen (vulgar)."
+}

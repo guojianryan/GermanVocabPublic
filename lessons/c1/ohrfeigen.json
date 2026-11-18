@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ohrfeigen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "OHR-fai-gen",
+      "ipa": "ˈoːɐ̯ˌfaɪ̯ɡn̩",
+      "notes": ""
+    },
+    "meaning": "to slap (in the face)",
+    "shortDefinition": "To slap (in the face)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "ohrfeig|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "ohrfeig|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "ohrfeig|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "ohrfeig|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "ohrfeig|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "ohrfeig|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geohrfeigt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie ohrfeigte ihn vor allen Leuten.",
+      "english": "She slapped him in front of everyone.",
+      "highlight": [
+        "ohrfeigte"
+      ]
+    },
+    {
+      "german": "Ich könnte mich ohrfeigen!",
+      "english": "I could kick myself!",
+      "highlight": [
+        "ohrfeigen!"
+      ]
+    }
+  ],
+  "forms": [
+    "ohrfeige",
+    "ohrfeigst",
+    "ohrfeigt",
+    "ohrfeigen",
+    "geohrfeigt",
+    "Ohrfeige"
+  ],
+  "memoryHook": "Ohrfeigen: give someone an Ohrfeige (slap on the ear).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (ohrfeigen)",
+      "answer": "ohrfeigt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: ohrfeigt.",
+      "acceptedAnswers": [
+        "ohrfeigt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (ohrfeigen, past)",
+      "answer": "geohrfeigt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geohrfeigt.",
+      "acceptedAnswers": [
+        "geohrfeigt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does ohrfeigen mean?",
+      "options": [
+        "to slap (in the face)",
+        "to travel",
+        "the bill"
+      ],
+      "answer": "to slap (in the face)",
+      "explanation": "ohrfeigen: to slap (in the face).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Ohrfeige is…",
+      "options": [
+        "a slap in the face",
+        "an ear fig"
+      ],
+      "answer": "a slap in the face",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ich könnte mich ohrfeigen! means…",
+      "options": [
+        "I could kick myself!",
+        "I want to slap you!"
+      ],
+      "answer": "I could kick myself!",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The perfect is…",
+      "options": [
+        "geohrfeigt",
+        "ohrgefeigt"
+      ],
+      "answer": "geohrfeigt",
+      "explanation": "Not separable.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Ohrfeigen means to slap someone in the face; die Ohrfeige is a slap, figuratively a humiliation: eine Ohrfeige für die Regierung (a slap in the face for the government). Ich könnte mich ohrfeigen! means I could kick myself. In 1968, Beate Klarsfeld famously slapped Chancellor Kiesinger to protest his Nazi past. It's not separable: ohrfeigte, geohrfeigt."
+}

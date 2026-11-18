@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wiederherstellung",
+    "partOfSpeech": "noun, feminine (die Wiederherstellung)",
+    "pronunciation": {
+      "respelling": "VEE-der-hair-shtel-ung",
+      "ipa": "ˈviːdɐˌheːɐ̯ʃtɛlʊŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "restoration, recovery",
+    "shortDefinition": "Restoration, recovery."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Wiederherstellung, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Wiederherstellung"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Wiederherstellung der Daten dauerte Stunden.",
+      "english": "Recovering the data took hours.",
+      "highlight": [
+        "Wiederherstellung"
+      ]
+    },
+    {
+      "german": "Die Wiederherstellung des Schlosses kostete Millionen.",
+      "english": "Restoring the palace cost millions.",
+      "highlight": [
+        "Wiederherstellung"
+      ]
+    }
+  ],
+  "forms": [
+    "die Wiederherstellung",
+    "wiederherstellen"
+  ],
+  "memoryHook": "Wiederherstellung: putting things back (wieder her) in place.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wiederherstellung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Wiederherstellung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wiederherstellung mean?",
+      "options": [
+        "the door",
+        "the shop",
+        "restoration"
+      ],
+      "answer": "restoration",
+      "explanation": "Wiederherstellung: restoration, recovery.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wiederherstellen means…",
+      "options": [
+        "to restore, recover",
+        "to produce again (in a factory)"
+      ],
+      "answer": "to restore, recover",
+      "explanation": "Restore.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "On computers, Wiederherstellung is…",
+      "options": [
+        "recovery, restore",
+        "backup only"
+      ],
+      "answer": "recovery, restore",
+      "explanation": "Recovery.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Built from…",
+      "options": [
+        "wieder + her + stellen",
+        "Wieder + Herz + Stelle"
+      ],
+      "answer": "wieder + her + stellen",
+      "explanation": "Compound.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Wiederherstellung is restoration or recovery: die Wiederherstellung der Gesundheit, die Wiederherstellung der Ordnung, and on computers die Systemwiederherstellung (system restore). Wiederherstellen means to restore: Die Frauenkirche in Dresden, destroyed in 1945, was wiederhergestellt and reopened in 2005, a symbol of reconciliation. It's built from wieder (again), her (back here) and stellen (to put)."
+}

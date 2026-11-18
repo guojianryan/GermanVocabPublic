@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "schmelzen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHMEL-tsen",
+      "ipa": "ˈʃmɛlt͡sn̩",
+      "notes": ""
+    },
+    "meaning": "to melt",
+    "shortDefinition": "To melt."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schmelz|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schmilz|t"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schmilz|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schmelz|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schmelz|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schmelz|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist geschmolzen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Eis schmilzt in der Sonne.",
+      "english": "The ice is melting in the sun.",
+      "highlight": [
+        "schmilzt"
+      ]
+    },
+    {
+      "german": "Die Gletscher in den Alpen schmelzen.",
+      "english": "The glaciers in the Alps are melting.",
+      "highlight": [
+        "schmelzen."
+      ]
+    }
+  ],
+  "forms": [
+    "schmelze",
+    "schmilzt",
+    "schmelzen",
+    "schmelzt",
+    "geschmolzen",
+    "schmolz",
+    "Schmelze"
+  ],
+  "memoryHook": "Schmelzen: melt like snow in spring.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (schmelzen)",
+      "answer": "schmilzt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schmilzt.",
+      "acceptedAnswers": [
+        "schmilzt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (schmelzen, past)",
+      "answer": "geschmolzen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin geschmolzen.",
+      "acceptedAnswers": [
+        "geschmolzen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does schmelzen mean?",
+      "options": [
+        "tomorrow",
+        "to melt",
+        "expensive"
+      ],
+      "answer": "to melt",
+      "explanation": "schmelzen: to melt.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms (intransitive):",
+      "options": [
+        "schmolz, ist geschmolzen",
+        "schmelzte"
+      ],
+      "answer": "schmolz, ist geschmolzen",
+      "explanation": "Irregular.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Du ___ (schmelzen):",
+      "options": [
+        "schmilzt",
+        "schmelzt"
+      ],
+      "answer": "schmilzt",
+      "explanation": "Vowel change.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schmelzkäse is…",
+      "options": [
+        "processed cheese",
+        "fondue"
+      ],
+      "answer": "processed cheese",
+      "explanation": "Cheese.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Schmelzen means to melt: Der Schnee schmilzt, and transitively, Butter schmelzen. Intransitive is irregular with sein (schmolz, ist geschmolzen), with the vowel change du schmilzt, er schmilzt. Germany's few remaining glaciers are vanishing; the Südliche Schneeferner on the Zugspitze lost its glacier status in 2022. Die Schneeschmelze is the spring thaw. Der Schmelztiegel is a melting pot."
+}

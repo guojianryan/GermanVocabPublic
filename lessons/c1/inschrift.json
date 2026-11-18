@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Inschrift",
+    "partOfSpeech": "noun, feminine (die Inschrift)",
+    "pronunciation": {
+      "respelling": "IN-shrift",
+      "ipa": "ˈɪnˌʃʁɪft",
+      "notes": "Plural: die Inschriften."
+    },
+    "meaning": "inscription",
+    "shortDefinition": "Inscription."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Inschrift, plural die Inschriften.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Inschrift"
+        },
+        {
+          "label": "More than one",
+          "value": "die Inschriften"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Auf dem Grabstein steht eine Inschrift.",
+      "english": "There's an inscription on the gravestone.",
+      "highlight": [
+        "Inschrift."
+      ]
+    },
+    {
+      "german": "Die Inschrift ist auf Latein.",
+      "english": "The inscription is in Latin.",
+      "highlight": [
+        "Inschrift"
+      ]
+    }
+  ],
+  "forms": [
+    "Inschriften",
+    "die Inschriften",
+    "die Inschrift"
+  ],
+  "memoryHook": "Inschrift: Schrift carved in (in) stone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Inschrift",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Inschrift is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Inschrift, zwei ___",
+      "answer": "Inschriften",
+      "fullAnswer": "ein Inschrift, zwei Inschriften",
+      "explanation": "The plural is Inschriften.",
+      "acceptedAnswers": [
+        "Inschriften"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Inschrift mean?",
+      "options": [
+        "the family",
+        "to open",
+        "inscription"
+      ],
+      "answer": "inscription",
+      "explanation": "Inschrift: inscription.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schrift is…",
+      "options": [
+        "writing, script",
+        "a step"
+      ],
+      "answer": "writing, script",
+      "explanation": "Schrift.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "On the Reichstag the inscription reads…",
+      "options": [
+        "DEM DEUTSCHEN VOLKE",
+        "EINIGKEIT UND RECHT"
+      ],
+      "answer": "DEM DEUTSCHEN VOLKE",
+      "explanation": "To the German people.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Inschriften",
+        "die Inschrifte"
+      ],
+      "answer": "die Inschriften",
+      "explanation": "-en.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Inschrift is an inscription on stone, metal or a monument: eine lateinische Inschrift, die Inschrift auf dem Denkmal. Above the entrance to the Reichstag in Berlin, the inscription reads DEM DEUTSCHEN VOLKE (to the German people), added in 1916. Wedding rings in Germany often have an Inschrift (engraving) inside, usually the names and date. From in + die Schrift (writing). Plural: die Inschriften."
+}

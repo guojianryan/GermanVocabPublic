@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "austrocknen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AUS-trok-nen",
+      "ipa": "ˈaʊ̯sˌtʁɔknən",
+      "notes": ""
+    },
+    "meaning": "to dry out, dry up",
+    "shortDefinition": "To dry out, dry up."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "trockn|e … |aus"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "trockne|st … |aus"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "trockne|t … |aus"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "trockn|en … |aus"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "trockne|t … |aus"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "trockn|en … |aus"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist ausgetrocknet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Sommer trocknet der Fluss fast aus.",
+      "english": "In summer the river almost dries up.",
+      "highlight": [
+        "trocknet",
+        "aus."
+      ]
+    },
+    {
+      "german": "Die Hitze hat den Boden ausgetrocknet.",
+      "english": "The heat has dried out the soil.",
+      "highlight": [
+        "ausgetrocknet."
+      ]
+    }
+  ],
+  "forms": [
+    "trockne aus",
+    "trocknest aus",
+    "trocknet aus",
+    "trocknen aus",
+    "ausgetrocknet",
+    "trocknete aus"
+  ],
+  "memoryHook": "Austrocknen: become trocken (dry) completely (aus).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … aus (austrocknen)",
+      "answer": "trocknet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: trocknet … aus.",
+      "acceptedAnswers": [
+        "trocknet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (austrocknen, past)",
+      "answer": "ausgetrocknet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin ausgetrocknet.",
+      "acceptedAnswers": [
+        "ausgetrocknet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does austrocknen mean?",
+      "options": [
+        "the job",
+        "always",
+        "to dry out"
+      ],
+      "answer": "to dry out",
+      "explanation": "austrocknen: to dry out, dry up.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Auxiliary:",
+      "options": [
+        "sein (dry up) / haben (dry something out)",
+        "always haben"
+      ],
+      "answer": "sein (dry up) / haben (dry something out)",
+      "explanation": "Auxiliary.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Trocken means…",
+      "options": [
+        "dry",
+        "drunk"
+      ],
+      "answer": "dry",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einen Sumpf austrocknen (figurative) means…",
+      "options": [
+        "to clean up corruption",
+        "to drain a lake"
+      ],
+      "answer": "to clean up corruption",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Austrocknen means to dry out or dry up: Der See trocknet aus (with sein), and transitively Die Sonne hat den Boden ausgetrocknet (with haben). Dry summers since 2018 have left German soils and forests parched. Figuratively, den Sumpf austrocknen means to drain the swamp of corruption. Trocken means dry. Regular: trocknete aus."
+}

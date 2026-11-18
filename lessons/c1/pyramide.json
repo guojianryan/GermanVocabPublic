@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Pyramide",
+    "partOfSpeech": "noun, feminine (die Pyramide)",
+    "pronunciation": {
+      "respelling": "pü-ra-MEE-de",
+      "ipa": "pyʁaˈmiːdə",
+      "notes": "Plural: die Pyramiden."
+    },
+    "meaning": "pyramid",
+    "shortDefinition": "Pyramid."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Pyramide, plural die Pyramiden.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Pyramide"
+        },
+        {
+          "label": "More than one",
+          "value": "die Pyramiden"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Pyramiden von Gizeh sind über 4.500 Jahre alt.",
+      "english": "The pyramids of Giza are over 4,500 years old.",
+      "highlight": [
+        "Pyramiden"
+      ]
+    },
+    {
+      "german": "Die Alterspyramide zeigt eine alternde Gesellschaft.",
+      "english": "The population pyramid shows an ageing society.",
+      "highlight": [
+        "Alterspyramide"
+      ]
+    }
+  ],
+  "forms": [
+    "Pyramiden",
+    "die Pyramiden",
+    "die Pyramide"
+  ],
+  "memoryHook": "Pyramide: Egyptian tomb, from Greek pyramis.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Pyramide",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Pyramide is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Pyramide, zwei ___",
+      "answer": "Pyramiden",
+      "fullAnswer": "ein Pyramide, zwei Pyramiden",
+      "explanation": "The plural is Pyramiden.",
+      "acceptedAnswers": [
+        "Pyramiden"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Pyramide mean?",
+      "options": [
+        "the door",
+        "pyramid",
+        "the child"
+      ],
+      "answer": "pyramid",
+      "explanation": "Pyramide: pyramid.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Alterspyramide is…",
+      "options": [
+        "population/age pyramid",
+        "an old pyramid"
+      ],
+      "answer": "population/age pyramid",
+      "explanation": "Demography.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Schneeballsystem / Pyramidensystem is…",
+      "options": [
+        "a pyramid scheme",
+        "a ski slope"
+      ],
+      "answer": "a pyramid scheme",
+      "explanation": "Scam.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The y in Pyramide sounds like…",
+      "options": [
+        "ü",
+        "ai"
+      ],
+      "answer": "ü",
+      "explanation": "Sound.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Pyramide is a pyramid: die Pyramiden von Gizeh, and also die Weihnachtspyramide, a wooden carousel from the Erzgebirge turned by candle heat, a German Christmas tradition. Die Alterspyramide is the population pyramid; Germany's now looks more like an urn, because of low birth rates. A pyramid scheme is ein Schneeballsystem. The y sounds like ü. Plural: die Pyramiden."
+}

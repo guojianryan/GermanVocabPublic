@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Einzugsgebiet",
+    "partOfSpeech": "noun, neuter (das Einzugsgebiet)",
+    "pronunciation": {
+      "respelling": "AIN-tsooks-ge-beet",
+      "ipa": "ˈaɪ̯nt͡suːksɡəˌbiːt",
+      "notes": "Plural: die Einzugsgebiete."
+    },
+    "meaning": "catchment area",
+    "shortDefinition": "Catchment area."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Einzugsgebiet, plural die Einzugsgebiete.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Einzugsgebiet"
+        },
+        {
+          "label": "More than one",
+          "value": "die Einzugsgebiete"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Einzugsgebiet der Schule ist groß.",
+      "english": "The school's catchment area is large.",
+      "highlight": [
+        "Einzugsgebiet"
+      ]
+    },
+    {
+      "german": "Im Einzugsgebiet von Berlin leben sechs Millionen Menschen.",
+      "english": "Six million people live in Berlin's commuter belt.",
+      "highlight": [
+        "Einzugsgebiet"
+      ]
+    }
+  ],
+  "forms": [
+    "Einzugsgebiete",
+    "das Einzugsgebiet"
+  ],
+  "memoryHook": "Einzugsgebiet: the Gebiet from which people are drawn in (einziehen).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Einzugsgebiet",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Einzugsgebiet is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Einzugsgebiet, zwei ___",
+      "answer": "Einzugsgebiete",
+      "fullAnswer": "ein Einzugsgebiet, zwei Einzugsgebiete",
+      "explanation": "The plural is Einzugsgebiete.",
+      "acceptedAnswers": [
+        "Einzugsgebiete"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Einzugsgebiet mean?",
+      "options": [
+        "catchment area",
+        "tomorrow",
+        "cheap"
+      ],
+      "answer": "catchment area",
+      "explanation": "Einzugsgebiet: catchment area.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Einzugsgebiet of a river is…",
+      "options": [
+        "its drainage basin",
+        "its mouth"
+      ],
+      "answer": "its drainage basin",
+      "explanation": "River.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Einzug is…",
+      "options": [
+        "moving in; entry",
+        "a train"
+      ],
+      "answer": "moving in; entry",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Speckgürtel is…",
+      "options": [
+        "the affluent commuter belt",
+        "a belt"
+      ],
+      "answer": "the affluent commuter belt",
+      "explanation": "Belt.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Einzugsgebiet is a catchment area: of a school, a hospital, a shopping centre, or a river (its drainage basin). A city's commuter belt is also called the Einzugsgebiet, or jokingly der Speckgürtel (bacon belt), the wealthy suburbs around cities like Berlin and Munich. Der Einzug means moving in. Plural: die Einzugsgebiete."
+}

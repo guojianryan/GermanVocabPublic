@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sektion",
+    "partOfSpeech": "noun, feminine (die Sektion)",
+    "pronunciation": {
+      "respelling": "zek-TSYOHN",
+      "ipa": "zɛkˈt͡si̯oːn",
+      "notes": "Plural: die Sektionen."
+    },
+    "meaning": "section; department; autopsy",
+    "shortDefinition": "Section; department; autopsy."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Sektion, plural die Sektionen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Sektion"
+        },
+        {
+          "label": "More than one",
+          "value": "die Sektionen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er leitet die Sektion Nord des Vereins.",
+      "english": "He heads the northern section of the club.",
+      "highlight": [
+        "Sektion"
+      ]
+    },
+    {
+      "german": "Die Sektion ergab eine natürliche Todesursache.",
+      "english": "The autopsy showed a natural cause of death.",
+      "highlight": [
+        "Sektion"
+      ]
+    }
+  ],
+  "forms": [
+    "Sektionen",
+    "die Sektionen",
+    "die Sektion",
+    "Sektionschef"
+  ],
+  "memoryHook": "Sektion: a slice, and in medicine, a very thorough one.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sektion",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Sektion is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Sektion, zwei ___",
+      "answer": "Sektionen",
+      "fullAnswer": "ein Sektion, zwei Sektionen",
+      "explanation": "The plural is Sektionen.",
+      "acceptedAnswers": [
+        "Sektionen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sektion mean?",
+      "options": [
+        "the shop",
+        "the key",
+        "section"
+      ],
+      "answer": "section",
+      "explanation": "Sektion: section; department; autopsy.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sektion means…",
+      "options": [
+        "section, branch; also autopsy",
+        "sparkling wine"
+      ],
+      "answer": "section, branch; also autopsy",
+      "explanation": "Not Sekt.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Sekt is…",
+      "options": [
+        "sparkling wine",
+        "a section"
+      ],
+      "answer": "sparkling wine",
+      "explanation": "False friend by sound.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Switzerland and Austria, die Sektion is…",
+      "options": [
+        "a section or branch of an association",
+        "a surgery"
+      ],
+      "answer": "a section or branch of an association",
+      "explanation": "Alpine Club.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Sektionen",
+        "Sektione"
+      ],
+      "answer": "Sektionen",
+      "explanation": "-en.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Die Sektion is a section or branch of an organisation: the local Sektion of the Alpenverein (Alpine Club) in Germany, Austria and Switzerland is a typical example. In medicine, it's an autopsy, and die Obduktion is the more common word. In Austria, Sektion is also a department of a ministry, headed by a Sektionschef. Don't mix it up with der Sekt (sparkling wine)."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Doktorarbeit",
+    "partOfSpeech": "noun, feminine (die Doktorarbeit)",
+    "pronunciation": {
+      "respelling": "DOK-tor-ar-bait",
+      "ipa": "ˈdɔktoːɐ̯ˌʔaʁbaɪ̯t",
+      "notes": "Plural: die Doktorarbeiten."
+    },
+    "meaning": "doctoral thesis, dissertation",
+    "shortDefinition": "Doctoral thesis, dissertation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Doktorarbeit, plural die Doktorarbeiten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Doktorarbeit"
+        },
+        {
+          "label": "More than one",
+          "value": "die Doktorarbeiten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie schreibt ihre Doktorarbeit über Kafka.",
+      "english": "She's writing her doctoral thesis on Kafka.",
+      "highlight": [
+        "Doktorarbeit"
+      ]
+    },
+    {
+      "german": "Der Minister musste wegen seiner Doktorarbeit zurücktreten.",
+      "english": "The minister had to resign over his doctoral thesis.",
+      "highlight": [
+        "Doktorarbeit"
+      ]
+    }
+  ],
+  "forms": [
+    "Doktorarbeiten",
+    "die Doktorarbeit"
+  ],
+  "memoryHook": "Doktorarbeit: the Arbeit (work) that earns a Doktor title.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Doktorarbeit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Doktorarbeit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Doktorarbeit, zwei ___",
+      "answer": "Doktorarbeiten",
+      "fullAnswer": "ein Doktorarbeit, zwei Doktorarbeiten",
+      "explanation": "The plural is Doktorarbeiten.",
+      "acceptedAnswers": [
+        "Doktorarbeiten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Doktorarbeit mean?",
+      "options": [
+        "doctoral thesis",
+        "the job",
+        "to buy"
+      ],
+      "answer": "doctoral thesis",
+      "explanation": "Doktorarbeit: doctoral thesis, dissertation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Dissertation",
+        "die Masterarbeit"
+      ],
+      "answer": "die Dissertation",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Promovieren means…",
+      "options": [
+        "to do a doctorate",
+        "to promote a product"
+      ],
+      "answer": "to do a doctorate",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In 2011, Karl-Theodor zu Guttenberg resigned over…",
+      "options": [
+        "plagiarism in his thesis",
+        "a car accident"
+      ],
+      "answer": "plagiarism in his thesis",
+      "explanation": "Scandal.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Doktorarbeit is a doctoral thesis, officially die Dissertation; to do one is promovieren. The Dr. title is highly valued in Germany and appears on doorbells and ID cards. In 2011, defence minister Karl-Theodor zu Guttenberg resigned after large parts of his Doktorarbeit were found to be plagiarised, exposed by the online project GuttenPlag; other politicians followed. Plural: die Doktorarbeiten."
+}

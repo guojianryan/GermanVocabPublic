@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Melodie",
+    "partOfSpeech": "noun, feminine (die Melodie)",
+    "pronunciation": {
+      "respelling": "me-lo-DEE",
+      "ipa": "meloˈdiː",
+      "notes": "Plural: die Melodien."
+    },
+    "meaning": "melody, tune",
+    "shortDefinition": "Melody, tune."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Melodie, plural die Melodien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Melodie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Melodien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Melodie geht mir nicht aus dem Kopf.",
+      "english": "I can't get the tune out of my head.",
+      "highlight": [
+        "Melodie"
+      ]
+    },
+    {
+      "german": "Kennst du die Melodie?",
+      "english": "Do you know the tune?",
+      "highlight": [
+        "Melodie?"
+      ]
+    }
+  ],
+  "forms": [
+    "Melodien",
+    "die Melodien",
+    "die Melodie",
+    "melodisch"
+  ],
+  "memoryHook": "Melodie: the tune that becomes an Ohrwurm.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Melodie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Melodie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Melodie, zwei ___",
+      "answer": "Melodien",
+      "fullAnswer": "ein Melodie, zwei Melodien",
+      "explanation": "The plural is Melodien.",
+      "acceptedAnswers": [
+        "Melodien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Melodie mean?",
+      "options": [
+        "the bread",
+        "the door",
+        "melody"
+      ],
+      "answer": "melody",
+      "explanation": "Melodie: melody, tune.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Melodien",
+        "die Melodies"
+      ],
+      "answer": "die Melodien",
+      "explanation": "-ien.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Melodisch means…",
+      "options": [
+        "melodic",
+        "melodramatic"
+      ],
+      "answer": "melodic",
+      "explanation": "melodisch.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ohrwurm is…",
+      "options": [
+        "a catchy tune stuck in your head",
+        "an ear infection"
+      ],
+      "answer": "a catchy tune stuck in your head",
+      "explanation": "Earworm.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Melodie is a melody or tune. The plural is die Melodien, pronounced me-lo-DEE-en. A tune you can't get out of your head is der Ohrwurm (earworm), a German word English borrowed. The melody of Germany's national anthem comes from Joseph Haydn's Kaiserhymne of 1797; only the third verse of the Deutschlandlied is sung today. Melodisch means melodic."
+}

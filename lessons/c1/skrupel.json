@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Skrupel",
+    "partOfSpeech": "noun, masculine (der Skrupel)",
+    "pronunciation": {
+      "respelling": "SKROO-pel",
+      "ipa": "ˈskʁuːpl̩",
+      "notes": "Plural: die Skrupel."
+    },
+    "meaning": "scruple, qualm",
+    "shortDefinition": "Scruple, qualm."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Skrupel, plural die Skrupel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Skrupel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Skrupel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hatte keine Skrupel, sie zu belügen.",
+      "english": "He had no qualms about lying to her.",
+      "highlight": [
+        "Skrupel,"
+      ]
+    },
+    {
+      "german": "Nach langen Skrupeln sagte sie zu.",
+      "english": "After much hesitation she agreed.",
+      "highlight": [
+        "Skrupeln"
+      ]
+    }
+  ],
+  "forms": [
+    "der Skrupel",
+    "Skrupeln"
+  ],
+  "memoryHook": "Skrupel: a small stone (scrupulus) in the shoe of your conscience.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Skrupel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Skrupel is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Skrupel, zwei ___",
+      "answer": "Skrupel",
+      "fullAnswer": "ein Skrupel, zwei Skrupel",
+      "explanation": "The plural is Skrupel.",
+      "acceptedAnswers": [
+        "Skrupel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Skrupel mean?",
+      "options": [
+        "the family",
+        "scruple",
+        "always"
+      ],
+      "answer": "scruple",
+      "explanation": "Skrupel: scruple, qualm.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Usually used in…",
+      "options": [
+        "the plural",
+        "the singular"
+      ],
+      "answer": "the plural",
+      "explanation": "Plural.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Skrupellos means…",
+      "options": [
+        "unscrupulous",
+        "careful"
+      ],
+      "answer": "unscrupulous",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Bedenken, die Gewissensbisse",
+        "die Freude"
+      ],
+      "answer": "die Bedenken, die Gewissensbisse",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Skrupel is a scruple or qualm, mostly in the plural: keine Skrupel haben, moralische Skrupel. Skrupellos means unscrupulous: ein skrupelloser Geschäftsmann. It comes from Latin scrupulus, a small sharp stone, an image of something nagging the conscience. Synonyms: die Bedenken, die Gewissensbisse (pangs of conscience). The plural is the same: die Skrupel."
+}

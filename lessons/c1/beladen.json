@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "beladen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-LAA-den",
+      "ipa": "bəˈlaːdn̩",
+      "notes": ""
+    },
+    "meaning": "to load",
+    "shortDefinition": "To load."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "belad|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "beläd|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "beläd|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "belad|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "belad|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "belad|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat beladen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der LKW wird mit Kisten beladen.",
+      "english": "The lorry is being loaded with crates.",
+      "highlight": [
+        "beladen."
+      ]
+    },
+    {
+      "german": "Sie kam schwer beladen vom Einkaufen.",
+      "english": "She came back from shopping heavily laden.",
+      "highlight": [
+        "beladen"
+      ]
+    }
+  ],
+  "forms": [
+    "belade",
+    "belädst",
+    "belädt",
+    "beladen",
+    "beladet",
+    "belud",
+    "Beladung"
+  ],
+  "memoryHook": "Beladen: put a load (Ladung) onto something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (beladen)",
+      "answer": "belädt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: belädt.",
+      "acceptedAnswers": [
+        "belaedt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (beladen, past)",
+      "answer": "beladen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe beladen.",
+      "acceptedAnswers": [
+        "beladen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does beladen mean?",
+      "options": [
+        "to load",
+        "the job",
+        "to help"
+      ],
+      "answer": "to load",
+      "explanation": "beladen: to load.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Beladen vs. laden:",
+      "options": [
+        "beladen takes the vehicle as object",
+        "the same"
+      ],
+      "answer": "beladen takes the vehicle as object",
+      "explanation": "Grammar.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "belud, beladen",
+        "beladete"
+      ],
+      "answer": "belud, beladen",
+      "explanation": "Irregular.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Entladen means…",
+      "options": [
+        "to unload; to discharge",
+        "to invite"
+      ],
+      "answer": "to unload; to discharge",
+      "explanation": "Opposite.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Beladen means to load something: ein Schiff, einen Wagen beladen, with the vehicle as object; with laden, the goods are the object: Kisten auf den LKW laden. Schwer beladen means heavily laden, also emotionally: mit Schuld beladen. The opposite is entladen (to unload, also to discharge a battery). Irregular: belud, beladen."
+}

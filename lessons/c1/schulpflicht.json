@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schulpflicht",
+    "partOfSpeech": "noun, feminine (die Schulpflicht)",
+    "pronunciation": {
+      "respelling": "SHOOL-pflikht",
+      "ipa": "ˈʃuːlˌp͡flɪçt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "compulsory schooling",
+    "shortDefinition": "Compulsory schooling."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Schulpflicht, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Schulpflicht"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In Deutschland gilt die Schulpflicht.",
+      "english": "Schooling is compulsory in Germany.",
+      "highlight": [
+        "Schulpflicht."
+      ]
+    },
+    {
+      "german": "Homeschooling ist wegen der Schulpflicht nicht erlaubt.",
+      "english": "Homeschooling isn't allowed because of compulsory school attendance.",
+      "highlight": [
+        "Schulpflicht"
+      ]
+    }
+  ],
+  "forms": [
+    "die Schulpflicht"
+  ],
+  "memoryHook": "Schulpflicht: the Pflicht (duty) to attend Schule.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schulpflicht",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Schulpflicht is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schulpflicht mean?",
+      "options": [
+        "compulsory schooling",
+        "the evening",
+        "slowly"
+      ],
+      "answer": "compulsory schooling",
+      "explanation": "Schulpflicht: compulsory schooling.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Homeschooling in Germany is…",
+      "options": [
+        "generally not allowed",
+        "very common"
+      ],
+      "answer": "generally not allowed",
+      "explanation": "Law.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schulpflichtig means…",
+      "options": [
+        "of school age",
+        "obligatory school uniform"
+      ],
+      "answer": "of school age",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Pflicht is…",
+      "options": [
+        "duty, obligation",
+        "a plant"
+      ],
+      "answer": "duty, obligation",
+      "explanation": "Root.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Schulpflicht is compulsory schooling: in Germany, children must attend school, usually from age six for at least nine or ten years, plus vocational school or further schooling. Unlike in many countries, it's a duty to attend a school, so homeschooling is generally banned; parents can be fined for keeping children home. Schulpflichtig means of school age. It has no plural."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Anker",
+    "partOfSpeech": "noun, masculine (der Anker)",
+    "pronunciation": {
+      "respelling": "ANG-ker",
+      "ipa": "ˈaŋkɐ",
+      "notes": "Plural: die Anker."
+    },
+    "meaning": "anchor",
+    "shortDefinition": "Anchor."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Anker, plural die Anker.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Anker"
+        },
+        {
+          "label": "More than one",
+          "value": "die Anker"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Schiff warf den Anker.",
+      "english": "The ship dropped anchor.",
+      "highlight": [
+        "Anker."
+      ]
+    },
+    {
+      "german": "Die Familie ist ihr Anker.",
+      "english": "Her family is her anchor.",
+      "highlight": [
+        "Anker."
+      ]
+    }
+  ],
+  "forms": [
+    "die Anker",
+    "der Anker",
+    "ankern",
+    "verankern"
+  ],
+  "memoryHook": "Anker: holds a ship, or a person, steady.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Anker",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Anker is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Anker, zwei ___",
+      "answer": "Anker",
+      "fullAnswer": "ein Anker, zwei Anker",
+      "explanation": "The plural is Anker.",
+      "acceptedAnswers": [
+        "Anker"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Anker mean?",
+      "options": [
+        "the bread",
+        "the family",
+        "anchor"
+      ],
+      "answer": "anchor",
+      "explanation": "Anker: anchor.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vor Anker liegen means…",
+      "options": [
+        "to lie at anchor",
+        "to be stuck"
+      ],
+      "answer": "to lie at anchor",
+      "explanation": "At anchor.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ankern means…",
+      "options": [
+        "to anchor",
+        "to anger"
+      ],
+      "answer": "to anchor",
+      "explanation": "ankern.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "A TV news anchor in German is…",
+      "options": [
+        "der Nachrichtensprecher / Moderator",
+        "der Anker"
+      ],
+      "answer": "der Nachrichtensprecher / Moderator",
+      "explanation": "Not Anker!",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Anker is an anchor: den Anker werfen (to drop anchor), den Anker lichten (to weigh anchor), vor Anker liegen (to lie at anchor). Figuratively, it's something that gives stability: Sie ist mein Anker. Verankern means to anchor or embed: im Gesetz verankert (enshrined in law). Careful: a TV news anchor is not der Anker but der Nachrichtensprecher or Moderator. Anker is also a well-known German bread brand. The plural is the same."
+}

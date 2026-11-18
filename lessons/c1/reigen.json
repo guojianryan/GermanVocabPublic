@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Reigen",
+    "partOfSpeech": "noun, masculine (der Reigen)",
+    "pronunciation": {
+      "respelling": "RAI-gen",
+      "ipa": "ˈʁaɪ̯ɡn̩",
+      "notes": "Plural: die Reigen."
+    },
+    "meaning": "round dance; series, succession",
+    "shortDefinition": "Round dance; series, succession."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Reigen, plural die Reigen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Reigen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Reigen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Kinder tanzten einen Reigen.",
+      "english": "The children danced a round dance.",
+      "highlight": [
+        "Reigen."
+      ]
+    },
+    {
+      "german": "Den Reigen der Reden eröffnete der Bürgermeister.",
+      "english": "The mayor opened the series of speeches.",
+      "highlight": [
+        "Reigen"
+      ]
+    }
+  ],
+  "forms": [
+    "der Reigen",
+    "Reigens"
+  ],
+  "memoryHook": "Reigen: a circle dance, one after another.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Reigen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Reigen is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Reigen, zwei ___",
+      "answer": "Reigen",
+      "fullAnswer": "ein Reigen, zwei Reigen",
+      "explanation": "The plural is Reigen.",
+      "acceptedAnswers": [
+        "Reigen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Reigen mean?",
+      "options": [
+        "round dance",
+        "the door",
+        "the bed"
+      ],
+      "answer": "round dance",
+      "explanation": "Reigen: round dance; series, succession.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Reigen eröffnen means…",
+      "options": [
+        "to be the first in a series",
+        "to start a dance class"
+      ],
+      "answer": "to be the first in a series",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Arthur Schnitzler's play Reigen shows…",
+      "options": [
+        "a chain of ten couples",
+        "a ballet"
+      ],
+      "answer": "a chain of ten couples",
+      "explanation": "Literature.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ringelreihen is…",
+      "options": [
+        "a children's ring dance",
+        "a ring road"
+      ],
+      "answer": "a children's ring dance",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Reigen is a round dance in a circle, and figuratively a series or succession: den Reigen eröffnen (to lead off), ein bunter Reigen von Veranstaltungen. Arthur Schnitzler's play Reigen (written 1897) links ten couples in a chain of encounters; its 1920 Berlin premiere caused a scandal and a trial. The plural is the same: die Reigen."
+}

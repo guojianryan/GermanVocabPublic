@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "wortlos",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "VORT-lohs",
+      "ipa": "ˈvɔʁtloːs",
+      "notes": ""
+    },
+    "meaning": "wordless, silent",
+    "shortDefinition": "Wordless, silent."
+  },
+  "sampleSentences": [
+    {
+      "german": "Er verließ wortlos den Raum.",
+      "english": "He left the room without a word.",
+      "highlight": [
+        "wortlos"
+      ]
+    },
+    {
+      "german": "Sie verstanden sich wortlos.",
+      "english": "They understood each other without words.",
+      "highlight": [
+        "wortlos."
+      ]
+    }
+  ],
+  "forms": [
+    "wortlose",
+    "wortlosen",
+    "wortloser"
+  ],
+  "memoryHook": "Wortlos: without (-los) a Wort.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does wortlos mean?",
+      "options": [
+        "to open",
+        "wordless",
+        "to sing"
+      ],
+      "answer": "wordless",
+      "explanation": "wortlos: wordless, silent.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "schweigend, stumm, ohne ein Wort",
+        "gesprächig"
+      ],
+      "answer": "schweigend, stumm, ohne ein Wort",
+      "explanation": "Synonym.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sprachlos means…",
+      "options": [
+        "speechless (amazed)",
+        "wordless"
+      ],
+      "answer": "speechless (amazed)",
+      "explanation": "Contrast.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "-los means…",
+      "options": [
+        "without",
+        "loose"
+      ],
+      "answer": "without",
+      "explanation": "Suffix.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein ___ Abschied (wordless)",
+      "answer": "wortloser",
+      "fullAnswer": "ein wortloser Abschied",
+      "explanation": "Masculine -er.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Wortlos means wordless or without a word: wortlos gehen, ein wortloses Einverständnis (tacit understanding). Sprachlos is different: speechless with surprise. Synonyms: schweigend, stumm, kommentarlos. Ein Wort gab das andere means one thing led to another in an argument. The suffix -los means without."
+}

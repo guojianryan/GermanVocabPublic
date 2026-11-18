@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wasserversorgung",
+    "partOfSpeech": "noun, feminine (die Wasserversorgung)",
+    "pronunciation": {
+      "respelling": "VA-ser-fer-zor-gung",
+      "ipa": "ˈvasɐfɛɐ̯ˌzɔʁɡʊŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "water supply",
+    "shortDefinition": "Water supply."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Wasserversorgung, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Wasserversorgung"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Wasserversorgung wurde unterbrochen.",
+      "english": "The water supply was cut off.",
+      "highlight": [
+        "Wasserversorgung"
+      ]
+    },
+    {
+      "german": "Die Stadtwerke sind für die Wasserversorgung zuständig.",
+      "english": "The municipal utility is responsible for the water supply.",
+      "highlight": [
+        "Wasserversorgung"
+      ]
+    }
+  ],
+  "forms": [
+    "die Wasserversorgung",
+    "Versorgung"
+  ],
+  "memoryHook": "Wasserversorgung: supplying (versorgen) Wasser.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wasserversorgung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Wasserversorgung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wasserversorgung mean?",
+      "options": [
+        "the job",
+        "water supply",
+        "expensive"
+      ],
+      "answer": "water supply",
+      "explanation": "Wasserversorgung: water supply.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Versorgung is…",
+      "options": [
+        "supply, provision; care",
+        "a worry"
+      ],
+      "answer": "supply, provision; care",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "German tap water is…",
+      "options": [
+        "generally safe and strictly tested",
+        "not drinkable"
+      ],
+      "answer": "generally safe and strictly tested",
+      "explanation": "Tap water.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Stadtwerke are…",
+      "options": [
+        "municipal utilities",
+        "city factories"
+      ],
+      "answer": "municipal utilities",
+      "explanation": "Utilities.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Wasserversorgung is the water supply. In Germany, it's mostly run by municipal utilities (Stadtwerke), and tap water (Leitungswasser) is among the most strictly controlled foodstuffs under the Trinkwasserverordnung. Still, restaurants rarely serve free tap water, and Germans love sparkling mineral water (Sprudel). Die Versorgung means supply or care: die Stromversorgung, die medizinische Versorgung. It has no plural."
+}

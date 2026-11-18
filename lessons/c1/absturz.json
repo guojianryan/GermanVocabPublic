@@ -1,0 +1,155 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Absturz",
+    "partOfSpeech": "noun, masculine (der Absturz)",
+    "pronunciation": {
+      "respelling": "AP-shtoorts",
+      "ipa": "ˈapˌʃtʊʁt͡s",
+      "notes": "Plural: die Abstürze."
+    },
+    "meaning": "crash; fall; (computer) crash",
+    "shortDefinition": "Crash; fall; (computer) crash."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "ab",
+        "meaning": "down, off"
+      },
+      {
+        "part": "Sturz",
+        "meaning": "fall"
+      }
+    ],
+    "literalMeaning": "a falling-down"
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Absturz, plural die Abstürze.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Absturz"
+        },
+        {
+          "label": "More than one",
+          "value": "die Abstürze"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Beim Absturz des Flugzeugs gab es keine Überlebenden.",
+      "english": "There were no survivors in the plane crash.",
+      "highlight": [
+        "Absturz"
+      ]
+    },
+    {
+      "german": "Nach dem Absturz meines Computers waren die Daten weg.",
+      "english": "After my computer crashed, the data was gone.",
+      "highlight": [
+        "Absturz"
+      ]
+    }
+  ],
+  "forms": [
+    "Abstürze",
+    "die Abstürze",
+    "der Absturz",
+    "abstürzen"
+  ],
+  "memoryHook": "Absturz: a Sturz from the top.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Absturz",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Absturz is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Absturz, zwei ___",
+      "answer": "Abstürze",
+      "fullAnswer": "ein Absturz, zwei Abstürze",
+      "explanation": "The plural is Abstürze.",
+      "acceptedAnswers": [
+        "Abstuerze"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Absturz mean?",
+      "options": [
+        "crash",
+        "the door",
+        "tomorrow"
+      ],
+      "answer": "crash",
+      "explanation": "Absturz: crash; fall; (computer) crash.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Abstürze",
+        "Absturze"
+      ],
+      "answer": "Abstürze",
+      "explanation": "Umlaut.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Absturz can describe…",
+      "options": [
+        "planes and computers",
+        "only mountains"
+      ],
+      "answer": "planes and computers",
+      "explanation": "Both.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The verb is…",
+      "options": [
+        "abstürzen",
+        "ausstürzen"
+      ],
+      "answer": "abstürzen",
+      "explanation": "ab + stürzen.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zum Absturz bringen means…",
+      "options": [
+        "to bring down",
+        "to sell"
+      ],
+      "answer": "to bring down",
+      "explanation": "Make crash.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Der Absturz is a crash from a height: Flugzeugabsturz, Absturz beim Bergsteigen. It's also used for computers: Die Software verursacht regelmäßig Abstürze. Informally, es gab einen Absturz can also mean a night of heavy drinking, from the verb abstürzen. The verb is separable and the auxiliary is sein: Das Flugzeug ist abgestürzt. Der Sturz alone means a fall."
+}

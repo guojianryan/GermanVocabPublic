@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "untergraben",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "un-ter-GRAA-ben",
+      "ipa": "ʊntɐˈɡʁaːbn̩",
+      "notes": ""
+    },
+    "meaning": "to undermine",
+    "shortDefinition": "To undermine."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "untergrab|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "untergräb|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "untergräb|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "untergrab|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "untergrab|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "untergrab|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat untergraben"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Korruption untergräbt das Vertrauen in den Staat.",
+      "english": "Corruption undermines trust in the state.",
+      "highlight": [
+        "untergräbt"
+      ]
+    },
+    {
+      "german": "Er hat ihre Autorität systematisch untergraben.",
+      "english": "He systematically undermined her authority.",
+      "highlight": [
+        "untergraben."
+      ]
+    }
+  ],
+  "forms": [
+    "untergrabe",
+    "untergräbst",
+    "untergräbt",
+    "untergraben",
+    "untergrabt",
+    "untergrub"
+  ],
+  "memoryHook": "Untergraben: dig (graben) under (unter) the foundations.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (untergraben)",
+      "answer": "untergräbt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: untergräbt.",
+      "acceptedAnswers": [
+        "untergraebt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (untergraben, past)",
+      "answer": "untergraben",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe untergraben.",
+      "acceptedAnswers": [
+        "untergraben"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does untergraben mean?",
+      "options": [
+        "to sing",
+        "to undermine",
+        "always"
+      ],
+      "answer": "to undermine",
+      "explanation": "untergraben: to undermine.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Is untergraben (undermine) separable?",
+      "options": [
+        "no: er untergräbt",
+        "yes: er gräbt unter"
+      ],
+      "answer": "no: er untergräbt",
+      "explanation": "Inseparable.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "untergrub, untergraben",
+        "untergrabte"
+      ],
+      "answer": "untergrub, untergraben",
+      "explanation": "Irregular.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Graben means…",
+      "options": [
+        "to dig",
+        "to grab"
+      ],
+      "answer": "to dig",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Untergraben means to undermine: das Vertrauen, die Autorität, die Demokratie untergraben. It's inseparable and stressed on -gra-: Das untergräbt seine Glaubwürdigkeit. (The separable unter|graben, stressed on un-, means to dig something into the soil, as with fertiliser.) From graben (to dig). Irregular: untergräbt, untergrub, hat untergraben."
+}

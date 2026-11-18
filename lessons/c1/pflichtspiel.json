@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Pflichtspiel",
+    "partOfSpeech": "noun, neuter (das Pflichtspiel)",
+    "pronunciation": {
+      "respelling": "PFLIKHT-shpeel",
+      "ipa": "ˈp͡flɪçtˌʃpiːl",
+      "notes": "Plural: die Pflichtspiele."
+    },
+    "meaning": "competitive match",
+    "shortDefinition": "Competitive match."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Pflichtspiel, plural die Pflichtspiele.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Pflichtspiel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Pflichtspiele"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das erste Pflichtspiel der Saison ist im Pokal.",
+      "english": "The first competitive match of the season is in the cup.",
+      "highlight": [
+        "Pflichtspiel"
+      ]
+    },
+    {
+      "german": "Nach dem Testspiel folgt nun das Pflichtspiel.",
+      "english": "After the friendly comes the competitive match.",
+      "highlight": [
+        "Pflichtspiel."
+      ]
+    }
+  ],
+  "forms": [
+    "Pflichtspiele",
+    "das Pflichtspiel"
+  ],
+  "memoryHook": "Pflichtspiel: a Spiel that is Pflicht (mandatory, counts).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Pflichtspiel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Pflichtspiel is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Pflichtspiel, zwei ___",
+      "answer": "Pflichtspiele",
+      "fullAnswer": "ein Pflichtspiel, zwei Pflichtspiele",
+      "explanation": "The plural is Pflichtspiele.",
+      "acceptedAnswers": [
+        "Pflichtspiele"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Pflichtspiel mean?",
+      "options": [
+        "the key",
+        "the job",
+        "competitive match"
+      ],
+      "answer": "competitive match",
+      "explanation": "Pflichtspiel: competitive match.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Opposite:",
+      "options": [
+        "das Freundschaftsspiel, das Testspiel",
+        "das Heimspiel"
+      ],
+      "answer": "das Freundschaftsspiel, das Testspiel",
+      "explanation": "Opposite.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pflichtspiele are…",
+      "options": [
+        "league, cup and qualifying matches",
+        "training sessions"
+      ],
+      "answer": "league, cup and qualifying matches",
+      "explanation": "Definition.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Pflicht is…",
+      "options": [
+        "duty",
+        "plate"
+      ],
+      "answer": "duty",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Pflichtspiel is a competitive match, one that counts in a league, cup or qualification, as opposed to a Freundschaftsspiel or Testspiel (friendly). Sports reports often note that a team is unbeaten in so many Pflichtspiele. Similar: die Kür (free programme) and die Pflicht (compulsory part) in figure skating: erst die Pflicht, dann die Kür (work before pleasure). Plural: die Pflichtspiele."
+}

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rechtsstaat",
+    "partOfSpeech": "noun, masculine (der Rechtsstaat)",
+    "pronunciation": {
+      "respelling": "REKHTS-shtaat",
+      "ipa": "ˈʁɛçt͡sˌʃtaːt",
+      "notes": "Plural: die Rechtsstaaten."
+    },
+    "meaning": "state governed by the rule of law",
+    "shortDefinition": "State governed by the rule of law."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "Recht",
+        "meaning": "law, right"
+      },
+      {
+        "part": "s",
+        "meaning": "linking letter"
+      },
+      {
+        "part": "Staat",
+        "meaning": "state"
+      }
+    ],
+    "literalMeaning": "law state"
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Rechtsstaat, plural die Rechtsstaaten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Rechtsstaat"
+        },
+        {
+          "label": "More than one",
+          "value": "die Rechtsstaaten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Deutschland ist ein demokratischer Rechtsstaat.",
+      "english": "Germany is a democratic state governed by the rule of law.",
+      "highlight": [
+        "Rechtsstaat."
+      ]
+    },
+    {
+      "german": "Das Urteil zeigt, dass der Rechtsstaat funktioniert.",
+      "english": "The ruling shows that the rule of law works.",
+      "highlight": [
+        "Rechtsstaat"
+      ]
+    }
+  ],
+  "forms": [
+    "Rechtsstaaten",
+    "die Rechtsstaaten",
+    "der Rechtsstaat",
+    "Rechtsstaatlichkeit",
+    "rechtsstaatlich"
+  ],
+  "memoryHook": "Rechtsstaat: even the state has to obey.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rechtsstaat",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Rechtsstaat is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Rechtsstaat, zwei ___",
+      "answer": "Rechtsstaaten",
+      "fullAnswer": "ein Rechtsstaat, zwei Rechtsstaaten",
+      "explanation": "The plural is Rechtsstaaten.",
+      "acceptedAnswers": [
+        "Rechtsstaaten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rechtsstaat mean?",
+      "options": [
+        "to sleep",
+        "to help",
+        "state governed by the rule of law"
+      ],
+      "answer": "state governed by the rule of law",
+      "explanation": "Rechtsstaat: state governed by the rule of law.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The rule of law in German is…",
+      "options": [
+        "Rechtsstaatlichkeit",
+        "Rechtlichkeit"
+      ],
+      "answer": "Rechtsstaatlichkeit",
+      "explanation": "Abstract noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Rechtsstaat means…",
+      "options": [
+        "the state is bound by law",
+        "the right-wing state"
+      ],
+      "answer": "the state is bound by law",
+      "explanation": "Not about politics left/right.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Rechtsstaaten",
+        "Rechtsstaate"
+      ],
+      "answer": "Rechtsstaaten",
+      "explanation": "-en.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Article 20 of the Grundgesetz says…",
+      "options": [
+        "Germany is a democratic and social federal state",
+        "Germany is a monarchy"
+      ],
+      "answer": "Germany is a democratic and social federal state",
+      "explanation": "Basic principles.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Der Rechtsstaat is a state in which the government itself is bound by law, with independent courts and fundamental rights. Don't read Rechts- as the political right: here it's from das Recht (law). The Grundgesetz (Article 20) establishes Germany as a democratic and social federal state, with state power bound by law. The abstract noun is die Rechtsstaatlichkeit, and the adjective is rechtsstaatlich. It's often heard in news about the EU."
+}

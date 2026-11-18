@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ermessen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "er-ME-sen",
+      "ipa": "ɛɐ̯ˈmɛsn̩",
+      "notes": ""
+    },
+    "meaning": "to gauge, appreciate (the extent of)",
+    "shortDefinition": "To gauge, appreciate (the extent of)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "ermess|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "ermiss|t"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "ermiss|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "ermess|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "ermess|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "ermess|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat ermessen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Man kann kaum ermessen, wie groß der Schaden ist.",
+      "english": "One can hardly gauge how great the damage is.",
+      "highlight": [
+        "ermessen,"
+      ]
+    },
+    {
+      "german": "Das liegt im Ermessen des Richters.",
+      "english": "That is at the judge's discretion.",
+      "highlight": [
+        "Ermessen"
+      ]
+    }
+  ],
+  "forms": [
+    "ermesse",
+    "ermisst",
+    "ermessen",
+    "ermesst",
+    "ermaß",
+    "Ermessen"
+  ],
+  "memoryHook": "Ermessen: measure (messen) the full extent.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (ermessen)",
+      "answer": "ermisst",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: ermisst.",
+      "acceptedAnswers": [
+        "ermisst"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (ermessen, past)",
+      "answer": "ermessen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe ermessen.",
+      "acceptedAnswers": [
+        "ermessen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does ermessen mean?",
+      "options": [
+        "the shop",
+        "the weather",
+        "to gauge"
+      ],
+      "answer": "to gauge",
+      "explanation": "ermessen: to gauge, appreciate (the extent of).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Ermessen is…",
+      "options": [
+        "discretion",
+        "measurement"
+      ],
+      "answer": "discretion",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nach eigenem Ermessen means…",
+      "options": [
+        "at one's own discretion",
+        "by one's own measure"
+      ],
+      "answer": "at one's own discretion",
+      "explanation": "Discretion.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "ermaß, ermessen",
+        "ermesste"
+      ],
+      "answer": "ermaß, ermessen",
+      "explanation": "Irregular.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Ermessen means to gauge or appreciate the extent of something: Niemand kann ermessen, was sie durchgemacht hat. It's mostly used with können and kaum. Das Ermessen means discretion: nach eigenem Ermessen, im Ermessen der Behörde liegen. In administrative law, der Ermessensspielraum is the scope of discretion. Irregular like messen: ermaß, ermessen."
+}

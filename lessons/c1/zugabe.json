@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zugabe",
+    "partOfSpeech": "noun, feminine (die Zugabe)",
+    "pronunciation": {
+      "respelling": "TSOO-gaa-be",
+      "ipa": "ˈt͡suːˌɡaːbə",
+      "notes": "Plural: die Zugaben."
+    },
+    "meaning": "encore; bonus, extra",
+    "shortDefinition": "Encore; bonus, extra."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Zugabe, plural die Zugaben.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Zugabe"
+        },
+        {
+          "label": "More than one",
+          "value": "die Zugaben"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Publikum rief: Zugabe! Zugabe!",
+      "english": "The audience shouted: Encore! Encore!",
+      "highlight": [
+        "Zugabe!"
+      ]
+    },
+    {
+      "german": "Als Zugabe gibt es eine Tasse gratis.",
+      "english": "As an extra, there's a free mug.",
+      "highlight": [
+        "Zugabe"
+      ]
+    }
+  ],
+  "forms": [
+    "Zugaben",
+    "die Zugaben",
+    "die Zugabe"
+  ],
+  "memoryHook": "Zugabe: something given (geben) in addition (zu).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zugabe",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Zugabe is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Zugabe, zwei ___",
+      "answer": "Zugaben",
+      "fullAnswer": "ein Zugabe, zwei Zugaben",
+      "explanation": "The plural is Zugaben.",
+      "acceptedAnswers": [
+        "Zugaben"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zugabe mean?",
+      "options": [
+        "encore",
+        "to sleep",
+        "the shop"
+      ],
+      "answer": "encore",
+      "explanation": "Zugabe: encore; bonus, extra.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "At a concert, Zugabe! means…",
+      "options": [
+        "Encore!",
+        "Pay up!"
+      ],
+      "answer": "Encore!",
+      "explanation": "Encore.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In a recipe, unter Zugabe von means…",
+      "options": [
+        "while adding",
+        "without"
+      ],
+      "answer": "while adding",
+      "explanation": "Adding.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zugeben means…",
+      "options": [
+        "to admit; to add",
+        "to give up"
+      ],
+      "answer": "to admit; to add",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Zugabe is an encore: Zugabe! is what German audiences shout, often with rhythmic clapping. It's also an extra or bonus (als kostenlose Zugabe), and in recipes, an addition: unter Zugabe von Milch (while adding milk). The verb zugeben means to add, and much more often to admit: Gib's zu! (admit it!). In football, Nachspielzeit (stoppage time) is sometimes jokingly called Zugabe. Plural: die Zugaben."
+}

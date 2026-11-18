@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Historie",
+    "partOfSpeech": "noun, feminine (die Historie)",
+    "pronunciation": {
+      "respelling": "his-TOH-ri-e",
+      "ipa": "hɪsˈtoːʁi̯ə",
+      "notes": "Plural: die Historien."
+    },
+    "meaning": "history (formal); story",
+    "shortDefinition": "History (formal); story."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Historie, plural die Historien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Historie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Historien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Historie der Firma reicht bis 1850 zurück.",
+      "english": "The company's history goes back to 1850.",
+      "highlight": [
+        "Historie"
+      ]
+    },
+    {
+      "german": "Im Browser findest du die Historie.",
+      "english": "You'll find the history in the browser.",
+      "highlight": [
+        "Historie."
+      ]
+    }
+  ],
+  "forms": [
+    "Historien",
+    "die Historien",
+    "die Historie",
+    "historisch"
+  ],
+  "memoryHook": "Historie: a formal Geschichte.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Historie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Historie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Historie, zwei ___",
+      "answer": "Historien",
+      "fullAnswer": "ein Historie, zwei Historien",
+      "explanation": "The plural is Historien.",
+      "acceptedAnswers": [
+        "Historien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Historie mean?",
+      "options": [
+        "history (formal)",
+        "to travel",
+        "the street"
+      ],
+      "answer": "history (formal)",
+      "explanation": "Historie: history (formal); story.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The everyday word for history is…",
+      "options": [
+        "die Geschichte",
+        "die Historie"
+      ],
+      "answer": "die Geschichte",
+      "explanation": "Geschichte.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In computing, die Historie / der Verlauf is…",
+      "options": [
+        "the browsing history",
+        "an archive"
+      ],
+      "answer": "the browsing history",
+      "explanation": "History.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Historisch means…",
+      "options": [
+        "historic(al)",
+        "hysterical"
+      ],
+      "answer": "historic(al)",
+      "explanation": "historisch.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Historie is a formal or slightly old-fashioned word for history: die Historie eines Hauses, eine lange Historie. In everyday German, history is die Geschichte, which also means story. In software, die Historie (or der Verlauf) is the history of actions or visited pages. Historisch means historic or historical: ein historischer Moment. Stress: his-TOH-ri-e, four syllables. Plural: die Historien."
+}

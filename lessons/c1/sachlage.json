@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sachlage",
+    "partOfSpeech": "noun, feminine (die Sachlage)",
+    "pronunciation": {
+      "respelling": "ZAKH-laa-ge",
+      "ipa": "ˈzaxˌlaːɡə",
+      "notes": "Plural: die Sachlagen."
+    },
+    "meaning": "state of affairs, situation",
+    "shortDefinition": "State of affairs, situation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Sachlage, plural die Sachlagen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Sachlage"
+        },
+        {
+          "label": "More than one",
+          "value": "die Sachlagen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir müssen die Sachlage genau prüfen.",
+      "english": "We have to examine the situation carefully.",
+      "highlight": [
+        "Sachlage"
+      ]
+    },
+    {
+      "german": "Nach aktueller Sachlage ist das nicht möglich.",
+      "english": "As things stand, that's not possible.",
+      "highlight": [
+        "Sachlage"
+      ]
+    }
+  ],
+  "forms": [
+    "Sachlagen",
+    "die Sachlage"
+  ],
+  "memoryHook": "Sachlage: how the Sache (matter) lies (Lage).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sachlage",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Sachlage is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Sachlage, zwei ___",
+      "answer": "Sachlagen",
+      "fullAnswer": "ein Sachlage, zwei Sachlagen",
+      "explanation": "The plural is Sachlagen.",
+      "acceptedAnswers": [
+        "Sachlagen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sachlage mean?",
+      "options": [
+        "state of affairs",
+        "the bed",
+        "the bread"
+      ],
+      "answer": "state of affairs",
+      "explanation": "Sachlage: state of affairs, situation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nach Sachlage means…",
+      "options": [
+        "as things stand",
+        "after the case"
+      ],
+      "answer": "as things stand",
+      "explanation": "Phrase.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Rechtslage is…",
+      "options": [
+        "legal position",
+        "factual situation"
+      ],
+      "answer": "legal position",
+      "explanation": "Legal.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Sache is…",
+      "options": [
+        "thing; matter",
+        "a sack"
+      ],
+      "answer": "thing; matter",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Sachlage is the state of affairs or factual situation: die Sachlage prüfen, nach derzeitiger Sachlage (as things stand). Lawyers distinguish die Sachlage (facts) from die Rechtslage (legal position): Sach- und Rechtslage. Sachlich means objective or factual, an important German virtue in discussions: Bleiben wir sachlich. Plural: die Sachlagen."
+}

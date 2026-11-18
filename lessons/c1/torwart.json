@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Torwart",
+    "partOfSpeech": "noun, masculine (der Torwart)",
+    "pronunciation": {
+      "respelling": "TOR-vart",
+      "ipa": "ˈtoːɐ̯ˌvaʁt",
+      "notes": "Plural: die Torwarte."
+    },
+    "meaning": "goalkeeper",
+    "shortDefinition": "Goalkeeper."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Torwart, plural die Torwarte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Torwart"
+        },
+        {
+          "label": "More than one",
+          "value": "die Torwarte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Torwart hielt den Elfmeter.",
+      "english": "The goalkeeper saved the penalty.",
+      "highlight": [
+        "Torwart"
+      ]
+    },
+    {
+      "german": "Deutschland ist für seine guten Torwarte bekannt.",
+      "english": "Germany is known for its good goalkeepers.",
+      "highlight": [
+        "Torwarte"
+      ]
+    }
+  ],
+  "forms": [
+    "Torwarte",
+    "die Torwarte",
+    "der Torwart",
+    "Torhüter"
+  ],
+  "memoryHook": "Torwart: the Wart (guard) of the Tor (goal).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Torwart",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Torwart is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Torwart, zwei ___",
+      "answer": "Torwarte",
+      "fullAnswer": "ein Torwart, zwei Torwarte",
+      "explanation": "The plural is Torwarte.",
+      "acceptedAnswers": [
+        "Torwarte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Torwart mean?",
+      "options": [
+        "the station",
+        "goalkeeper",
+        "the evening"
+      ],
+      "answer": "goalkeeper",
+      "explanation": "Torwart: goalkeeper.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonyms:",
+      "options": [
+        "der Torhüter, der Keeper",
+        "der Stürmer"
+      ],
+      "answer": "der Torhüter, der Keeper",
+      "explanation": "Keeper.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Literally, Torwart means…",
+      "options": [
+        "goal guard",
+        "gate builder"
+      ],
+      "answer": "goal guard",
+      "explanation": "Wart = guard.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Ball halten means…",
+      "options": [
+        "to save the ball",
+        "to hold a party"
+      ],
+      "answer": "to save the ball",
+      "explanation": "Save.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Torwart is a goalkeeper: synonyms are der Torhüter and der Keeper, and in Austria der Tormann. Germany has a strong goalkeeping tradition, from Sepp Maier and Oliver Kahn to Manuel Neuer, who reshaped the role as a sweeper-keeper. Den Ball halten means to save it; ein Eigentor is an own goal. The old word Wart means guard or keeper, as in der Hauswart (caretaker). Plural: die Torwarte or die Torwärter."
+}

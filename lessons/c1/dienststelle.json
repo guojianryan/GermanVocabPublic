@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Dienststelle",
+    "partOfSpeech": "noun, feminine (die Dienststelle)",
+    "pronunciation": {
+      "respelling": "DEENST-shte-le",
+      "ipa": "ˈdiːnstˌʃtɛlə",
+      "notes": "Plural: die Dienststellen."
+    },
+    "meaning": "office, department (of an authority)",
+    "shortDefinition": "Office, department (of an authority)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Dienststelle, plural die Dienststellen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Dienststelle"
+        },
+        {
+          "label": "More than one",
+          "value": "die Dienststellen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wenden Sie sich an die zuständige Dienststelle.",
+      "english": "Please contact the responsible office.",
+      "highlight": [
+        "Dienststelle."
+      ]
+    },
+    {
+      "german": "Der Beamte wurde in eine andere Dienststelle versetzt.",
+      "english": "The official was transferred to another office.",
+      "highlight": [
+        "Dienststelle"
+      ]
+    }
+  ],
+  "forms": [
+    "Dienststellen",
+    "die Dienststelle"
+  ],
+  "memoryHook": "Dienststelle: the Stelle (place) where Dienst (service) is done.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Dienststelle",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Dienststelle is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Dienststelle, zwei ___",
+      "answer": "Dienststellen",
+      "fullAnswer": "ein Dienststelle, zwei Dienststellen",
+      "explanation": "The plural is Dienststellen.",
+      "acceptedAnswers": [
+        "Dienststellen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Dienststelle mean?",
+      "options": [
+        "slowly",
+        "office",
+        "to wait"
+      ],
+      "answer": "office",
+      "explanation": "Dienststelle: office, department (of an authority).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Dienststelle is used for…",
+      "options": [
+        "public authorities and police",
+        "shops"
+      ],
+      "answer": "public authorities and police",
+      "explanation": "Authorities.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Dienst is…",
+      "options": [
+        "service, duty",
+        "a servant only"
+      ],
+      "answer": "service, duty",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Behörde is…",
+      "options": [
+        "authority, public office",
+        "a herd"
+      ],
+      "answer": "authority, public office",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Dienststelle is an office or department of a public authority, police or military: die zuständige Dienststelle (the responsible office), eine Polizeidienststelle. It's typical of official German. Der Dienst means service or duty: im Dienst (on duty), der öffentliche Dienst (public sector). Die Behörde is an authority. Plural: die Dienststellen."
+}

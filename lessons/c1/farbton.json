@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Farbton",
+    "partOfSpeech": "noun, masculine (der Farbton)",
+    "pronunciation": {
+      "respelling": "FARP-tohn",
+      "ipa": "ˈfaʁpˌtoːn",
+      "notes": "Plural: die Farbtöne."
+    },
+    "meaning": "shade, hue",
+    "shortDefinition": "Shade, hue."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Farbton, plural die Farbtöne.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Farbton"
+        },
+        {
+          "label": "More than one",
+          "value": "die Farbtöne"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Wand ist in einem warmen Farbton gestrichen.",
+      "english": "The wall is painted in a warm shade.",
+      "highlight": [
+        "Farbton"
+      ]
+    },
+    {
+      "german": "Es gibt diesen Lippenstift in zehn Farbtönen.",
+      "english": "This lipstick comes in ten shades.",
+      "highlight": [
+        "Farbtönen."
+      ]
+    }
+  ],
+  "forms": [
+    "Farbtöne",
+    "der Farbton"
+  ],
+  "memoryHook": "Farbton: the Ton (tone) of a Farbe.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Farbton",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Farbton is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Farbton, zwei ___",
+      "answer": "Farbtöne",
+      "fullAnswer": "ein Farbton, zwei Farbtöne",
+      "explanation": "The plural is Farbtöne.",
+      "acceptedAnswers": [
+        "Farbtoene"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Farbton mean?",
+      "options": [
+        "shade",
+        "the evening",
+        "the job"
+      ],
+      "answer": "shade",
+      "explanation": "Farbton: shade, hue.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Farbton is…",
+      "options": [
+        "shade, hue",
+        "a colour sound"
+      ],
+      "answer": "shade, hue",
+      "explanation": "Meaning.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ton (art) is…",
+      "options": [
+        "tone, shade; clay",
+        "a ton"
+      ],
+      "answer": "tone, shade; clay",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ton in Ton means…",
+      "options": [
+        "in matching shades",
+        "loudly"
+      ],
+      "answer": "in matching shades",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Farbton is a shade or hue: ein heller, dunkler, warmer Farbton. Ton in Ton means in matching shades: Ton in Ton gekleidet. German standard colour shades are defined by RAL numbers, used for everything from post boxes to cars. Der Ton also means sound and clay. Plural: die Farbtöne."
+}

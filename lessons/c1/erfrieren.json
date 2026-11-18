@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "erfrieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "er-FREE-ren",
+      "ipa": "ɛɐ̯ˈfʁiːʁən",
+      "notes": ""
+    },
+    "meaning": "to freeze to death; to be killed by frost",
+    "shortDefinition": "To freeze to death; to be killed by frost."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "erfrier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "erfrier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "erfrier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "erfrier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "erfrier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "erfrier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist erfroren"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Winter erfrieren jedes Jahr Obdachlose.",
+      "english": "Every winter homeless people freeze to death.",
+      "highlight": [
+        "erfrieren"
+      ]
+    },
+    {
+      "german": "Die Blüten sind in der Nacht erfroren.",
+      "english": "The blossoms were killed by frost overnight.",
+      "highlight": [
+        "erfroren."
+      ]
+    }
+  ],
+  "forms": [
+    "erfriere",
+    "erfrierst",
+    "erfriert",
+    "erfrieren",
+    "erfroren",
+    "erfror",
+    "Erfrierung"
+  ],
+  "memoryHook": "Erfrieren: frieren (freeze) to the end.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (erfrieren)",
+      "answer": "erfriert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: erfriert.",
+      "acceptedAnswers": [
+        "erfriert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (erfrieren, past)",
+      "answer": "erfroren",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin erfroren.",
+      "acceptedAnswers": [
+        "erfroren"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does erfrieren mean?",
+      "options": [
+        "to freeze to death",
+        "the bill",
+        "the flower"
+      ],
+      "answer": "to freeze to death",
+      "explanation": "erfrieren: to freeze to death; to be killed by frost.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "erfror, ist erfroren",
+        "erfrierte"
+      ],
+      "answer": "erfror, ist erfroren",
+      "explanation": "Irregular.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Erfrierung is…",
+      "options": [
+        "frostbite",
+        "a freezer"
+      ],
+      "answer": "frostbite",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Frieren means…",
+      "options": [
+        "to be cold; to freeze",
+        "to fry"
+      ],
+      "answer": "to be cold; to freeze",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Erfrieren means to freeze to death, or of plants to be killed by frost: Die Tomaten sind erfroren. Erfrorene Finger are frostbitten. It takes sein and is irregular: erfror, ist erfroren. Die Erfrierung is frostbite. Cities run Kältebusse in winter to stop homeless people from erfrieren. Frieren means to be cold: Ich friere. Colloquially, Ich erfriere gleich! means I'm freezing."
+}

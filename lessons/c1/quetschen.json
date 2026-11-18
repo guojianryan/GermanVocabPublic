@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "quetschen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "KVET-shen",
+      "ipa": "ˈkvɛt͡ʃn̩",
+      "notes": ""
+    },
+    "meaning": "to squeeze, crush, squash",
+    "shortDefinition": "To squeeze, crush, squash."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "quetsch|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "quetsch|t"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "quetsch|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "quetsch|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "quetsch|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "quetsch|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gequetscht"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich habe mir den Finger in der Tür gequetscht.",
+      "english": "I squashed my finger in the door.",
+      "highlight": [
+        "gequetscht."
+      ]
+    },
+    {
+      "german": "Wir quetschten uns zu fünft ins Auto.",
+      "english": "Five of us squeezed into the car.",
+      "highlight": [
+        "quetschten"
+      ]
+    }
+  ],
+  "forms": [
+    "quetsche",
+    "quetscht",
+    "quetschen",
+    "gequetscht",
+    "Quetschung"
+  ],
+  "memoryHook": "Quetschen: press until it squashes.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (quetschen)",
+      "answer": "quetscht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: quetscht.",
+      "acceptedAnswers": [
+        "quetscht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (quetschen, past)",
+      "answer": "gequetscht",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gequetscht.",
+      "acceptedAnswers": [
+        "gequetscht"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does quetschen mean?",
+      "options": [
+        "to wait",
+        "the station",
+        "to squeeze"
+      ],
+      "answer": "to squeeze",
+      "explanation": "quetschen: to squeeze, crush, squash.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Quetschung is…",
+      "options": [
+        "bruise, crush injury",
+        "a squeeze bottle"
+      ],
+      "answer": "bruise, crush injury",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich in etwas quetschen means…",
+      "options": [
+        "to squeeze into something",
+        "to quit"
+      ],
+      "answer": "to squeeze into something",
+      "explanation": "Reflexive.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Quetschkommode (colloquial) is…",
+      "options": [
+        "accordion",
+        "a chest"
+      ],
+      "answer": "accordion",
+      "explanation": "Humour.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Quetschen means to squeeze, crush or squash: sich den Finger quetschen, Kartoffeln quetschen, sich in eine volle Bahn quetschen. Die Quetschung is a crush injury or bruise. Die Quetschkommode is a jokey name for the accordion. In the Rhineland, Quetschekuchen is plum cake, from Quetsche (plum). Regular: quetschte, gequetscht."
+}

@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "irreführen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "I-re-fü-ren",
+      "ipa": "ˈɪʁəˌfyːʁən",
+      "notes": ""
+    },
+    "meaning": "to mislead",
+    "shortDefinition": "To mislead."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "führ|e … |irre"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "führ|st … |irre"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "führ|t … |irre"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "führ|en … |irre"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "führ|t … |irre"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "führ|en … |irre"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat irregeführt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Werbung führt die Verbraucher irre.",
+      "english": "The advertising misleads consumers.",
+      "highlight": [
+        "führt",
+        "irre."
+      ]
+    },
+    {
+      "german": "Das ist eine irreführende Angabe.",
+      "english": "That's a misleading statement.",
+      "highlight": [
+        "irreführende"
+      ]
+    }
+  ],
+  "forms": [
+    "führe irre",
+    "führst irre",
+    "führt irre",
+    "führen irre",
+    "irregeführt",
+    "führte irre",
+    "irreführend",
+    "Irreführung"
+  ],
+  "memoryHook": "Irreführen: lead (führen) someone astray (irre).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … irre (irreführen)",
+      "answer": "führt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: führt … irre.",
+      "acceptedAnswers": [
+        "fuehrt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (irreführen, past)",
+      "answer": "irregeführt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe irregeführt.",
+      "acceptedAnswers": [
+        "irregefuehrt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does irreführen mean?",
+      "options": [
+        "to mislead",
+        "the street",
+        "tomorrow"
+      ],
+      "answer": "to mislead",
+      "explanation": "irreführen: to mislead.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Irreführend means…",
+      "options": [
+        "misleading",
+        "mad"
+      ],
+      "answer": "misleading",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Irre means…",
+      "options": [
+        "mad; (colloquial) amazing; astray",
+        "angry"
+      ],
+      "answer": "mad; (colloquial) amazing; astray",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Irreführung is…",
+      "options": [
+        "deception",
+        "a maze"
+      ],
+      "answer": "deception",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Irreführen means to mislead: die Öffentlichkeit irreführen. Irreführend means misleading: irreführende Werbung, banned under German competition law. Die Irreführung is deception. The root irre means astray or mad, and colloquially amazing: Das ist ja irre! Sich irren means to be mistaken, and der Irrtum is an error. Separable: führte irre, irregeführt."
+}

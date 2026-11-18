@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Feindbild",
+    "partOfSpeech": "noun, neuter (das Feindbild)",
+    "pronunciation": {
+      "respelling": "FAINT-bilt",
+      "ipa": "ˈfaɪ̯ntˌbɪlt",
+      "notes": "Plural: die Feindbilder."
+    },
+    "meaning": "image of the enemy, bogeyman",
+    "shortDefinition": "Image of the enemy, bogeyman."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Feindbild, plural die Feindbilder.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Feindbild"
+        },
+        {
+          "label": "More than one",
+          "value": "die Feindbilder"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Populisten brauchen ein Feindbild.",
+      "english": "Populists need a bogeyman.",
+      "highlight": [
+        "Feindbild."
+      ]
+    },
+    {
+      "german": "Die Propaganda schuf ein klares Feindbild.",
+      "english": "The propaganda created a clear image of the enemy.",
+      "highlight": [
+        "Feindbild."
+      ]
+    }
+  ],
+  "forms": [
+    "Feindbilder",
+    "das Feindbild"
+  ],
+  "memoryHook": "Feindbild: a Bild (picture) of the Feind (enemy).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Feindbild",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Feindbild is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Feindbild, zwei ___",
+      "answer": "Feindbilder",
+      "fullAnswer": "ein Feindbild, zwei Feindbilder",
+      "explanation": "The plural is Feindbilder.",
+      "acceptedAnswers": [
+        "Feindbilder"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Feindbild mean?",
+      "options": [
+        "image of the enemy",
+        "to open",
+        "to buy"
+      ],
+      "answer": "image of the enemy",
+      "explanation": "Feindbild: image of the enemy, bogeyman.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Feindbild is…",
+      "options": [
+        "a stereotyped picture of an enemy",
+        "an enemy's photo"
+      ],
+      "answer": "a stereotyped picture of an enemy",
+      "explanation": "Concept.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Feindbilder aufbauen means…",
+      "options": [
+        "to construct enemy images",
+        "to paint enemies"
+      ],
+      "answer": "to construct enemy images",
+      "explanation": "Phrase.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Feind is…",
+      "options": [
+        "enemy",
+        "friend"
+      ],
+      "answer": "enemy",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Feindbild is a stereotyped image of an enemy, a group onto which fears and hatred are projected: Feindbilder aufbauen, schüren (stoke), abbauen (dismantle). It's a key term in political analysis of propaganda and populism: Für viele ist der Staat das Feindbild. Der Feind means enemy. Plural: die Feindbilder."
+}

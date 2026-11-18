@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Klimaschutz",
+    "partOfSpeech": "noun, masculine (der Klimaschutz)",
+    "pronunciation": {
+      "respelling": "KLEE-ma-shuts",
+      "ipa": "ˈkliːmaˌʃʊt͡s",
+      "notes": "Usually no plural."
+    },
+    "meaning": "climate protection, climate action",
+    "shortDefinition": "Climate protection, climate action."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Klimaschutz, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Klimaschutz"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Klimaschutz ist ein wichtiges Thema.",
+      "english": "Climate protection is an important topic.",
+      "highlight": [
+        "Klimaschutz"
+      ]
+    },
+    {
+      "german": "Die Stadt investiert in den Klimaschutz.",
+      "english": "The city is investing in climate action.",
+      "highlight": [
+        "Klimaschutz."
+      ]
+    }
+  ],
+  "forms": [
+    "der Klimaschutz",
+    "klimaneutral",
+    "Klimawandel"
+  ],
+  "memoryHook": "Klimaschutz: Schutz (protection) for the Klima.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Klimaschutz",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Klimaschutz is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Klimaschutz mean?",
+      "options": [
+        "the station",
+        "climate protection",
+        "to learn"
+      ],
+      "answer": "climate protection",
+      "explanation": "Klimaschutz: climate protection, climate action.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Klimawandel is…",
+      "options": [
+        "climate change",
+        "climate protection"
+      ],
+      "answer": "climate change",
+      "explanation": "Change.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Klimaneutral means…",
+      "options": [
+        "climate-neutral (net zero)",
+        "neutral weather"
+      ],
+      "answer": "climate-neutral (net zero)",
+      "explanation": "Net zero.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's target for climate neutrality:",
+      "options": [
+        "2045",
+        "2070"
+      ],
+      "answer": "2045",
+      "explanation": "Klimaschutzgesetz.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Klimaschutz is climate protection or climate action. Germany's Klimaschutzgesetz (Climate Protection Act) aims for the country to become klimaneutral (net zero) by 2045. In 2021, the Constitutional Court ruled that the original law didn't do enough to protect young people's freedoms, a landmark decision. Related words: der Klimawandel (climate change), die Klimakrise, der Klimaschützer (climate campaigner)."
+}

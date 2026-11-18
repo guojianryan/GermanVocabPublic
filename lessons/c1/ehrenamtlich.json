@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ehrenamtlich",
+    "partOfSpeech": "adjective / adverb",
+    "pronunciation": {
+      "respelling": "AY-ren-amt-likh",
+      "ipa": "ˈeːʁənˌʔamtlɪç",
+      "notes": ""
+    },
+    "meaning": "voluntary, honorary (unpaid)",
+    "shortDefinition": "Voluntary, honorary (unpaid)."
+  },
+  "sampleSentences": [
+    {
+      "german": "Sie arbeitet ehrenamtlich bei der Tafel.",
+      "english": "She volunteers at the food bank.",
+      "highlight": [
+        "ehrenamtlich"
+      ]
+    },
+    {
+      "german": "Ehrenamtliche Helfer sind unverzichtbar.",
+      "english": "Volunteer helpers are indispensable.",
+      "highlight": [
+        "Ehrenamtliche"
+      ]
+    }
+  ],
+  "forms": [
+    "ehrenamtliche",
+    "ehrenamtlichen",
+    "Ehrenamt",
+    "Ehrenamtliche"
+  ],
+  "memoryHook": "Ehrenamtlich: an Amt (office) held for Ehre (honour), not pay.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does ehrenamtlich mean?",
+      "options": [
+        "to buy",
+        "voluntary",
+        "the flower"
+      ],
+      "answer": "voluntary",
+      "explanation": "ehrenamtlich: voluntary, honorary (unpaid).",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Ehrenamt is…",
+      "options": [
+        "voluntary, unpaid work",
+        "an honorary title only"
+      ],
+      "answer": "voluntary, unpaid work",
+      "explanation": "Volunteering.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Roughly how many Germans volunteer?",
+      "options": [
+        "around a third or more",
+        "under 5 percent"
+      ],
+      "answer": "around a third or more",
+      "explanation": "Very common.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Tafel is…",
+      "options": [
+        "a food bank",
+        "a blackboard only"
+      ],
+      "answer": "a food bank",
+      "explanation": "Food bank.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Er ist ___ tätig. (as a volunteer)",
+      "answer": "ehrenamtlich",
+      "fullAnswer": "Er ist ehrenamtlich tätig.",
+      "explanation": "ehrenamtlich.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Ehrenamtlich means voluntary or unpaid, for work done out of public spirit: ehrenamtlich tätig sein. Das Ehrenamt is voluntary work, and German life depends on it: volunteer fire brigades (Freiwillige Feuerwehr) cover most of the country, coaches run sports clubs, and helpers staff the Tafeln (food banks). Studies show around a third or more of Germans volunteer. Literally, it's an office (Amt) held for honour (Ehre), not money."
+}

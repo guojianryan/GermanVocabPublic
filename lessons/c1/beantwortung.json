@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Beantwortung",
+    "partOfSpeech": "noun, feminine (die Beantwortung)",
+    "pronunciation": {
+      "respelling": "be-ANT-vor-tung",
+      "ipa": "bəˈʔantvɔʁtʊŋ",
+      "notes": "Plural: die Beantwortungen."
+    },
+    "meaning": "answering, reply (formal)",
+    "shortDefinition": "Answering, reply (formal)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Beantwortung, plural die Beantwortungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Beantwortung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Beantwortungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Für die Beantwortung Ihrer Fragen stehen wir gern zur Verfügung.",
+      "english": "We're happy to answer your questions.",
+      "highlight": [
+        "Beantwortung"
+      ]
+    },
+    {
+      "german": "Die Beantwortung der Anfrage dauerte Wochen.",
+      "english": "Replying to the enquiry took weeks.",
+      "highlight": [
+        "Beantwortung"
+      ]
+    }
+  ],
+  "forms": [
+    "Beantwortungen",
+    "die Beantwortung",
+    "beantworten"
+  ],
+  "memoryHook": "Beantwortung: the act of beantworten (answering).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Beantwortung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Beantwortung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Beantwortung, zwei ___",
+      "answer": "Beantwortungen",
+      "fullAnswer": "ein Beantwortung, zwei Beantwortungen",
+      "explanation": "The plural is Beantwortungen.",
+      "acceptedAnswers": [
+        "Beantwortungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Beantwortung mean?",
+      "options": [
+        "hot",
+        "to open",
+        "answering"
+      ],
+      "answer": "answering",
+      "explanation": "Beantwortung: answering, reply (formal).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Beantworten takes…",
+      "options": [
+        "an accusative object (eine Frage beantworten)",
+        "auf + acc."
+      ],
+      "answer": "an accusative object (eine Frage beantworten)",
+      "explanation": "Grammar.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Antworten auf + acc. means…",
+      "options": [
+        "to answer (to) something",
+        "to ask"
+      ],
+      "answer": "to answer (to) something",
+      "explanation": "Alternative.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal",
+        "slang"
+      ],
+      "answer": "formal",
+      "explanation": "Formal.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Beantwortung is the answering of a question or letter, a formal noun: die Beantwortung einer Anfrage, zur Beantwortung Ihrer Fragen. Grammar note: beantworten takes a direct object (eine Frage beantworten), while antworten needs auf (auf eine Frage antworten). In the Bundestag, parties submit Kleine Anfragen (written questions) to which the government must give a Beantwortung. Plural: die Beantwortungen."
+}

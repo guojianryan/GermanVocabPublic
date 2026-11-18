@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Abschiebung",
+    "partOfSpeech": "noun, feminine (die Abschiebung)",
+    "pronunciation": {
+      "respelling": "AP-shee-bung",
+      "ipa": "ˈapˌʃiːbʊŋ",
+      "notes": "Plural: die Abschiebungen."
+    },
+    "meaning": "deportation",
+    "shortDefinition": "Deportation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Abschiebung, plural die Abschiebungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Abschiebung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Abschiebungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ihm droht die Abschiebung.",
+      "english": "He's facing deportation.",
+      "highlight": [
+        "Abschiebung."
+      ]
+    },
+    {
+      "german": "Die Zahl der Abschiebungen ist gestiegen.",
+      "english": "The number of deportations has risen.",
+      "highlight": [
+        "Abschiebungen"
+      ]
+    }
+  ],
+  "forms": [
+    "Abschiebungen",
+    "die Abschiebungen",
+    "die Abschiebung",
+    "abschieben"
+  ],
+  "memoryHook": "Abschiebung: pushing (schieben) someone away (ab).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Abschiebung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Abschiebung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Abschiebung, zwei ___",
+      "answer": "Abschiebungen",
+      "fullAnswer": "ein Abschiebung, zwei Abschiebungen",
+      "explanation": "The plural is Abschiebungen.",
+      "acceptedAnswers": [
+        "Abschiebungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Abschiebung mean?",
+      "options": [
+        "the flower",
+        "deportation",
+        "to travel"
+      ],
+      "answer": "deportation",
+      "explanation": "Abschiebung: deportation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Abschieben means…",
+      "options": [
+        "to deport; to shove off",
+        "to postpone"
+      ],
+      "answer": "to deport; to shove off",
+      "explanation": "abschieben.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Duldung is…",
+      "options": [
+        "a temporary suspension of deportation",
+        "a visa"
+      ],
+      "answer": "a temporary suspension of deportation",
+      "explanation": "Toleration.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Abschiebehaft is…",
+      "options": [
+        "detention pending deportation",
+        "a border post"
+      ],
+      "answer": "detention pending deportation",
+      "explanation": "Detention.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Abschiebung is deportation: Ihm droht die Abschiebung. It applies to people without a right to stay, such as rejected asylum seekers. If deportation can't happen, for example because of illness or missing papers, they may get a Duldung (temporary suspension). Abschiebungen are a constant topic in German migration debates. The verb abschieben also means, casually, to shove off or offload: Verantwortung abschieben (to pass the buck)."
+}

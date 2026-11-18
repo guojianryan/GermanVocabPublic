@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Prädikat",
+    "partOfSpeech": "noun, neuter (das Prädikat)",
+    "pronunciation": {
+      "respelling": "prai-di-KAAT",
+      "ipa": "pʁɛdiˈkaːt",
+      "notes": "Plural: die Prädikate."
+    },
+    "meaning": "predicate; rating, label",
+    "shortDefinition": "Predicate; rating, label."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Prädikat, plural die Prädikate.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Prädikat"
+        },
+        {
+          "label": "More than one",
+          "value": "die Prädikate"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Satz ist das Verb das Prädikat.",
+      "english": "In a sentence the verb is the predicate.",
+      "highlight": [
+        "Prädikat."
+      ]
+    },
+    {
+      "german": "Der Wein trägt das Prädikat Spätlese.",
+      "english": "The wine bears the label Spätlese.",
+      "highlight": [
+        "Prädikat"
+      ]
+    }
+  ],
+  "forms": [
+    "Prädikate",
+    "die Prädikate",
+    "das Prädikat"
+  ],
+  "memoryHook": "Prädikat: what's said (praedicare) about the subject.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Prädikat",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Prädikat is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Prädikat, zwei ___",
+      "answer": "Prädikate",
+      "fullAnswer": "ein Prädikat, zwei Prädikate",
+      "explanation": "The plural is Prädikate.",
+      "acceptedAnswers": [
+        "Praedikate"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Prädikat mean?",
+      "options": [
+        "predicate",
+        "the child",
+        "quiet"
+      ],
+      "answer": "predicate",
+      "explanation": "Prädikat: predicate; rating, label.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In grammar, das Prädikat is…",
+      "options": [
+        "the verb part of the sentence",
+        "the subject"
+      ],
+      "answer": "the verb part of the sentence",
+      "explanation": "Grammar.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Prädikat: besonders wertvoll is…",
+      "options": [
+        "a German film rating label",
+        "a jewellery label"
+      ],
+      "answer": "a German film rating label",
+      "explanation": "Film.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Prädikatswein is…",
+      "options": [
+        "a top-quality German wine category",
+        "a cheap wine"
+      ],
+      "answer": "a top-quality German wine category",
+      "explanation": "Wine.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Prädikat is the predicate in grammar (the verb part: Er hat gelacht) and a rating or label: the German film rating agency awards Prädikat wertvoll or besonders wertvoll, and Prädikatswein is the top German wine category, with levels like Kabinett, Spätlese and Auslese. An exam passed mit Prädikat means with distinction. Plural: die Prädikate."
+}

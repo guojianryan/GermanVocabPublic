@@ -1,0 +1,156 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Lesung",
+    "partOfSpeech": "noun, feminine (die Lesung)",
+    "pronunciation": {
+      "respelling": "LAY-zoong",
+      "ipa": "ˈleːzʊŋ",
+      "notes": "Plural: die Lesungen."
+    },
+    "meaning": "reading (author reading); parliamentary reading",
+    "shortDefinition": "Reading (author reading); parliamentary reading."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "Les",
+        "meaning": "read",
+        "note": "From lesen."
+      },
+      {
+        "part": "ung",
+        "meaning": "noun ending: the act of"
+      }
+    ],
+    "literalMeaning": "a reading"
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Lesung, plural die Lesungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Lesung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Lesungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Autorin hält morgen eine Lesung in der Buchhandlung.",
+      "english": "The author gives a reading tomorrow at the bookshop.",
+      "highlight": [
+        "Lesung"
+      ]
+    },
+    {
+      "german": "Der Entwurf wurde in zweiter Lesung beschlossen.",
+      "english": "The bill was passed at its second reading.",
+      "highlight": [
+        "Lesung"
+      ]
+    }
+  ],
+  "forms": [
+    "Lesungen",
+    "die Lesungen",
+    "die Lesung",
+    "lesen"
+  ],
+  "memoryHook": "Lesung: reading aloud for an audience.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Lesung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Lesung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Lesung, zwei ___",
+      "answer": "Lesungen",
+      "fullAnswer": "ein Lesung, zwei Lesungen",
+      "explanation": "The plural is Lesungen.",
+      "acceptedAnswers": [
+        "Lesungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Lesung mean?",
+      "options": [
+        "never",
+        "reading (author reading)",
+        "the street"
+      ],
+      "answer": "reading (author reading)",
+      "explanation": "Lesung: reading (author reading); parliamentary reading.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Lesung is…",
+      "options": [
+        "an author reading from a book",
+        "a lecture"
+      ],
+      "answer": "an author reading from a book",
+      "explanation": "Event.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zweite Lesung is a stage in…",
+      "options": [
+        "lawmaking in parliament",
+        "a school exam"
+      ],
+      "answer": "lawmaking in parliament",
+      "explanation": "Bundestag procedure.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Lesungen",
+        "Lesunge"
+      ],
+      "answer": "Lesungen",
+      "explanation": "-en.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "In church, die Lesung is…",
+      "options": [
+        "a Bible reading",
+        "a sermon"
+      ],
+      "answer": "a Bible reading",
+      "explanation": "Liturgy.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Die Lesung is a public reading of an author from their own work, common in bookshops and at the Leipziger Buchmesse. It's also a reading in church (the Lesung from the Bible) and a stage in the legislative process: In the Bundestag, bills go through several readings (erste, zweite, dritte Lesung). The verb is lesen, but Vorlesung (university lecture) is a different event, so don't mix the two."
+}

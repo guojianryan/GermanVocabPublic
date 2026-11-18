@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Hebel",
+    "partOfSpeech": "noun, masculine (der Hebel)",
+    "pronunciation": {
+      "respelling": "HAY-bel",
+      "ipa": "ˈheːbl̩",
+      "notes": "Plural: die Hebel."
+    },
+    "meaning": "lever",
+    "shortDefinition": "Lever."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Hebel, plural die Hebel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Hebel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Hebel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Zieh den Hebel nach unten.",
+      "english": "Pull the lever down.",
+      "highlight": [
+        "Hebel"
+      ]
+    },
+    {
+      "german": "Wir müssen alle Hebel in Bewegung setzen.",
+      "english": "We must move heaven and earth.",
+      "highlight": [
+        "Hebel"
+      ]
+    }
+  ],
+  "forms": [
+    "die Hebel",
+    "der Hebel",
+    "Hebelwirkung"
+  ],
+  "memoryHook": "Hebel: what you use to heben (lift) things.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Hebel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Hebel is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Hebel, zwei ___",
+      "answer": "Hebel",
+      "fullAnswer": "ein Hebel, zwei Hebel",
+      "explanation": "The plural is Hebel.",
+      "acceptedAnswers": [
+        "Hebel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Hebel mean?",
+      "options": [
+        "the shop",
+        "lever",
+        "the flower"
+      ],
+      "answer": "lever",
+      "explanation": "Hebel: lever.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Alle Hebel in Bewegung setzen means…",
+      "options": [
+        "to do everything possible",
+        "to pull levers at random"
+      ],
+      "answer": "to do everything possible",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Am längeren Hebel sitzen means…",
+      "options": [
+        "to have the upper hand",
+        "to be lazy"
+      ],
+      "answer": "to have the upper hand",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "From…",
+      "options": [
+        "heben (to lift)",
+        "Himmel"
+      ],
+      "answer": "heben (to lift)",
+      "explanation": "heben.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Hebel is a lever: einen Hebel umlegen (to flip a lever), der Schalthebel (gear lever). Two idioms are very common: alle Hebel in Bewegung setzen (to pull out all the stops) and am längeren Hebel sitzen (to have the upper hand). Die Hebelwirkung is leverage, in physics and business. Archimedes' line give me a place to stand is about a Hebel. From heben (to lift). Plural: die Hebel."
+}

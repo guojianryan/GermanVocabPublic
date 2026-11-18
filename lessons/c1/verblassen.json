@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verblassen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-BLA-sen",
+      "ipa": "fɛɐ̯ˈblasn̩",
+      "notes": ""
+    },
+    "meaning": "to fade, pale",
+    "shortDefinition": "To fade, pale."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verblass|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verblass|t"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verblass|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verblass|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verblass|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verblass|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist verblasst"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Farben sind in der Sonne verblasst.",
+      "english": "The colours have faded in the sun.",
+      "highlight": [
+        "verblasst."
+      ]
+    },
+    {
+      "german": "Neben ihr verblassen alle anderen.",
+      "english": "Everyone else pales beside her.",
+      "highlight": [
+        "verblassen."
+      ]
+    }
+  ],
+  "forms": [
+    "verblasse",
+    "verblasst",
+    "verblassen",
+    "verblasste"
+  ],
+  "memoryHook": "Verblassen: become blass (pale).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verblassen)",
+      "answer": "verblasst",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verblasst.",
+      "acceptedAnswers": [
+        "verblasst"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (verblassen, past)",
+      "answer": "verblasst",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin verblasst.",
+      "acceptedAnswers": [
+        "verblasst"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verblassen mean?",
+      "options": [
+        "quiet",
+        "to fade",
+        "to learn"
+      ],
+      "answer": "to fade",
+      "explanation": "verblassen: to fade, pale.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Blass means…",
+      "options": [
+        "pale",
+        "bald"
+      ],
+      "answer": "pale",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Auxiliary:",
+      "options": [
+        "sein",
+        "haben"
+      ],
+      "answer": "sein",
+      "explanation": "Change of state.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Neben jemandem verblassen means…",
+      "options": [
+        "to pale in comparison",
+        "to disappear"
+      ],
+      "answer": "to pale in comparison",
+      "explanation": "Figurative.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verblassen means to fade or pale: verblasste Fotos, Die Erinnerung verblasst. Figuratively, neben jemandem verblassen means to pale in comparison. It takes sein. From blass (pale): blass vor Neid (green with envy). Synonyms: verbleichen, schwinden. Regular: verblasste, ist verblasst."
+}

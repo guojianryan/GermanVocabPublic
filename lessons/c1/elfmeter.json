@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Elfmeter",
+    "partOfSpeech": "noun, masculine (der Elfmeter)",
+    "pronunciation": {
+      "respelling": "ELF-may-ter",
+      "ipa": "ɛlfˈmeːtɐ",
+      "notes": "Plural: die Elfmeter."
+    },
+    "meaning": "penalty (kick)",
+    "shortDefinition": "Penalty (kick)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Elfmeter, plural die Elfmeter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Elfmeter"
+        },
+        {
+          "label": "More than one",
+          "value": "die Elfmeter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Schiedsrichter zeigt auf den Elfmeterpunkt.",
+      "english": "The referee points to the penalty spot.",
+      "highlight": [
+        "Elfmeterpunkt."
+      ]
+    },
+    {
+      "german": "Deutschland gewinnt oft im Elfmeterschießen.",
+      "english": "Germany often wins on penalties.",
+      "highlight": [
+        "Elfmeterschießen."
+      ]
+    }
+  ],
+  "forms": [
+    "die Elfmeter",
+    "der Elfmeter",
+    "Elfer",
+    "Elfmeterschießen"
+  ],
+  "memoryHook": "Elfmeter: a shot from elf (eleven) Meter.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Elfmeter",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Elfmeter is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Elfmeter, zwei ___",
+      "answer": "Elfmeter",
+      "fullAnswer": "ein Elfmeter, zwei Elfmeter",
+      "explanation": "The plural is Elfmeter.",
+      "acceptedAnswers": [
+        "Elfmeter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Elfmeter mean?",
+      "options": [
+        "the evening",
+        "to sing",
+        "penalty (kick)"
+      ],
+      "answer": "penalty (kick)",
+      "explanation": "Elfmeter: penalty (kick).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Elfmeter comes from…",
+      "options": [
+        "the 11-metre distance",
+        "eleven players"
+      ],
+      "answer": "the 11-metre distance",
+      "explanation": "11 metres.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Elfmeterschießen is…",
+      "options": [
+        "a penalty shoot-out",
+        "a free kick"
+      ],
+      "answer": "a penalty shoot-out",
+      "explanation": "Shoot-out.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Colloquial short form:",
+      "options": [
+        "der Elfer",
+        "der Elfi"
+      ],
+      "answer": "der Elfer",
+      "explanation": "Elfer.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Elfmeter (colloquially der Elfer, officially der Strafstoß) is a penalty kick, taken from eleven metres, the German rounding of the 12-yard mark. Germany has a famous record in penalty shoot-outs (Elfmeterschießen): it has never lost one at a World Cup, and in 2006 goalkeeper Jens Lehmann used a note in his sock against Argentina. Gary Lineker's quip about Germans always winning is well known. Plural: die Elfmeter."
+}

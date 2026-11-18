@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Nebensache",
+    "partOfSpeech": "noun, feminine (die Nebensache)",
+    "pronunciation": {
+      "respelling": "NAY-ben-za-khe",
+      "ipa": "ˈneːbn̩ˌzaxə",
+      "notes": "Plural: die Nebensachen."
+    },
+    "meaning": "minor matter, side issue",
+    "shortDefinition": "Minor matter, side issue."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Nebensache, plural die Nebensachen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Nebensache"
+        },
+        {
+          "label": "More than one",
+          "value": "die Nebensachen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Geld ist für ihn Nebensache.",
+      "english": "Money is a minor matter for him.",
+      "highlight": [
+        "Nebensache."
+      ]
+    },
+    {
+      "german": "Fußball ist die schönste Nebensache der Welt.",
+      "english": "Football is the most beautiful trivial pursuit in the world.",
+      "highlight": [
+        "Nebensache"
+      ]
+    }
+  ],
+  "forms": [
+    "Nebensachen",
+    "die Nebensache"
+  ],
+  "memoryHook": "Nebensache: a Sache on the side (neben).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Nebensache",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Nebensache is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Nebensache, zwei ___",
+      "answer": "Nebensachen",
+      "fullAnswer": "ein Nebensache, zwei Nebensachen",
+      "explanation": "The plural is Nebensachen.",
+      "acceptedAnswers": [
+        "Nebensachen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Nebensache mean?",
+      "options": [
+        "the bill",
+        "minor matter",
+        "quiet"
+      ],
+      "answer": "minor matter",
+      "explanation": "Nebensache: minor matter, side issue.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die schönste Nebensache der Welt usually means…",
+      "options": [
+        "football",
+        "love"
+      ],
+      "answer": "football",
+      "explanation": "Phrase.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nebensächlich means…",
+      "options": [
+        "minor, unimportant",
+        "neighbouring"
+      ],
+      "answer": "minor, unimportant",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Hauptsache is…",
+      "options": [
+        "the main thing",
+        "the head office"
+      ],
+      "answer": "the main thing",
+      "explanation": "Opposite.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Nebensache is a minor matter or side issue: Das ist Nebensache. Football is often called die schönste Nebensache der Welt (the most beautiful unimportant thing in the world). The opposite is die Hauptsache (the main thing): Hauptsache, du bist gesund! Nebensächlich means minor. Plural: die Nebensachen."
+}

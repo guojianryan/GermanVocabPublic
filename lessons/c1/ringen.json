@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ringen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "RING-en",
+      "ipa": "ˈʁɪŋən",
+      "notes": ""
+    },
+    "meaning": "to wrestle; to struggle",
+    "shortDefinition": "To wrestle; to struggle."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "ring|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "ring|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "ring|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "ring|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "ring|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "ring|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gerungen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er ringt um Fassung.",
+      "english": "He's struggling to keep his composure.",
+      "highlight": [
+        "ringt"
+      ]
+    },
+    {
+      "german": "Nach Luft ringen.",
+      "english": "To gasp for air.",
+      "highlight": [
+        "ringen."
+      ]
+    }
+  ],
+  "forms": [
+    "ringe",
+    "ringst",
+    "ringt",
+    "ringen",
+    "gerungen",
+    "rang",
+    "Ringer"
+  ],
+  "memoryHook": "Ringen: rang, gerungen, a struggle like singen.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (ringen)",
+      "answer": "ringt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: ringt.",
+      "acceptedAnswers": [
+        "ringt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (ringen, past)",
+      "answer": "gerungen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gerungen.",
+      "acceptedAnswers": [
+        "gerungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does ringen mean?",
+      "options": [
+        "to wrestle",
+        "the key",
+        "tomorrow"
+      ],
+      "answer": "to wrestle",
+      "explanation": "ringen: to wrestle; to struggle.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "rang, gerungen",
+        "ringte, geringt"
+      ],
+      "answer": "rang, gerungen",
+      "explanation": "Like singen.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mit sich ringen means…",
+      "options": [
+        "to wrestle with oneself, be torn",
+        "to box"
+      ],
+      "answer": "to wrestle with oneself, be torn",
+      "explanation": "Inner struggle.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Ringen in sport is…",
+      "options": [
+        "wrestling",
+        "boxing"
+      ],
+      "answer": "wrestling",
+      "explanation": "Wrestling.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Ringen means to wrestle: Das Ringen ist eine olympische Sportart. Figuratively, it means to struggle: um Worte ringen (to struggle for words), nach Luft ringen (to gasp for air), mit sich ringen (to be torn), die Hände ringen (to wring one's hands). It's irregular like singen: rang, gerungen. Der Ringer is a wrestler. Don't confuse it with der Ring (ring)."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Nachrichtendienst",
+    "partOfSpeech": "noun, masculine (der Nachrichtendienst)",
+    "pronunciation": {
+      "respelling": "NAAKH-rikh-ten-deenst",
+      "ipa": "ˈnaːxʁɪçtn̩ˌdiːnst",
+      "notes": "Plural: die Nachrichtendienste."
+    },
+    "meaning": "intelligence service",
+    "shortDefinition": "Intelligence service."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Nachrichtendienst, plural die Nachrichtendienste.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Nachrichtendienst"
+        },
+        {
+          "label": "More than one",
+          "value": "die Nachrichtendienste"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Bundesnachrichtendienst ist für das Ausland zuständig.",
+      "english": "The Federal Intelligence Service is responsible for abroad.",
+      "highlight": [
+        "Bundesnachrichtendienst"
+      ]
+    },
+    {
+      "german": "Die Nachrichtendienste warnen vor Cyberangriffen.",
+      "english": "The intelligence services warn of cyberattacks.",
+      "highlight": [
+        "Nachrichtendienste"
+      ]
+    }
+  ],
+  "forms": [
+    "Nachrichtendienste",
+    "der Nachrichtendienst"
+  ],
+  "memoryHook": "Nachrichtendienst: a Dienst (service) gathering Nachrichten (information).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Nachrichtendienst",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Nachrichtendienst is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Nachrichtendienst, zwei ___",
+      "answer": "Nachrichtendienste",
+      "fullAnswer": "ein Nachrichtendienst, zwei Nachrichtendienste",
+      "explanation": "The plural is Nachrichtendienste.",
+      "acceptedAnswers": [
+        "Nachrichtendienste"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Nachrichtendienst mean?",
+      "options": [
+        "the child",
+        "the car",
+        "intelligence service"
+      ],
+      "answer": "intelligence service",
+      "explanation": "Nachrichtendienst: intelligence service.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The BND covers…",
+      "options": [
+        "foreign intelligence",
+        "domestic intelligence"
+      ],
+      "answer": "foreign intelligence",
+      "explanation": "BND.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Domestic intelligence in Germany is…",
+      "options": [
+        "das Bundesamt für Verfassungsschutz",
+        "die Polizei"
+      ],
+      "answer": "das Bundesamt für Verfassungsschutz",
+      "explanation": "BfV.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Geheimdienst",
+        "die Nachrichtenagentur"
+      ],
+      "answer": "der Geheimdienst",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Nachrichtendienst is an intelligence service; colloquially der Geheimdienst. Germany has three federal ones: the Bundesnachrichtendienst (BND, foreign intelligence, headquartered in Berlin), the Bundesamt für Verfassungsschutz (BfV, domestic) and the Militärische Abschirmdienst (MAD, military). The Parliamentary Control Panel of the Bundestag oversees them. A news agency is a Nachrichtenagentur, like dpa. Plural: die Nachrichtendienste."
+}

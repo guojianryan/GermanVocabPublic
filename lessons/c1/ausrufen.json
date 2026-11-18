@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ausrufen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AUS-roo-fen",
+      "ipa": "ˈaʊ̯sˌʁuːfn̩",
+      "notes": ""
+    },
+    "meaning": "to proclaim, declare; to call out",
+    "shortDefinition": "To proclaim, declare; to call out."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "ruf|e … |aus"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "ruf|st … |aus"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "ruf|t … |aus"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "ruf|en … |aus"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "ruf|t … |aus"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "ruf|en … |aus"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat ausgerufen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Scheidemann rief 1918 die Republik aus.",
+      "english": "Scheidemann proclaimed the republic in 1918.",
+      "highlight": [
+        "rief",
+        "aus."
+      ]
+    },
+    {
+      "german": "Die Stadt hat den Klimanotstand ausgerufen.",
+      "english": "The city has declared a climate emergency.",
+      "highlight": [
+        "ausgerufen."
+      ]
+    }
+  ],
+  "forms": [
+    "rufe aus",
+    "rufst aus",
+    "ruft aus",
+    "rufen aus",
+    "ausgerufen",
+    "rief aus",
+    "Ausruf",
+    "Ausrufezeichen"
+  ],
+  "memoryHook": "Ausrufen: call (rufen) something out (aus) publicly.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … aus (ausrufen)",
+      "answer": "ruft",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: ruft … aus.",
+      "acceptedAnswers": [
+        "ruft"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (ausrufen, past)",
+      "answer": "ausgerufen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe ausgerufen.",
+      "acceptedAnswers": [
+        "ausgerufen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does ausrufen mean?",
+      "options": [
+        "to proclaim",
+        "quiet",
+        "the street"
+      ],
+      "answer": "to proclaim",
+      "explanation": "ausrufen: to proclaim, declare; to call out.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Notstand ausrufen means…",
+      "options": [
+        "to declare a state of emergency",
+        "to call for help"
+      ],
+      "answer": "to declare a state of emergency",
+      "explanation": "Declare.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Ausrufezeichen is…",
+      "options": [
+        "exclamation mark",
+        "a call sign"
+      ],
+      "answer": "exclamation mark",
+      "explanation": "Punctuation.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden ausrufen lassen (shop) means…",
+      "options": [
+        "to have someone paged",
+        "to fire someone"
+      ],
+      "answer": "to have someone paged",
+      "explanation": "Page.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Ausrufen means to proclaim or declare (die Republik, den Notstand, einen Streik ausrufen) and to call out: Haltestellen ausrufen. On 9 November 1918, Philipp Scheidemann proclaimed the German Republic from a Reichstag balcony, and hours later Karl Liebknecht proclaimed a socialist republic. Der Ausruf is an exclamation, and das Ausrufezeichen an exclamation mark. Separable: rief aus, ausgerufen."
+}

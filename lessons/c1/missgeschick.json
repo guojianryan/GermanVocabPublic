@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Missgeschick",
+    "partOfSpeech": "noun, neuter (das Missgeschick)",
+    "pronunciation": {
+      "respelling": "MIS-ge-shik",
+      "ipa": "ˈmɪsɡəˌʃɪk",
+      "notes": "Plural: die Missgeschicke."
+    },
+    "meaning": "mishap; misfortune",
+    "shortDefinition": "Mishap; misfortune."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Missgeschick, plural die Missgeschicke.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Missgeschick"
+        },
+        {
+          "label": "More than one",
+          "value": "die Missgeschicke"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Mir ist ein kleines Missgeschick passiert.",
+      "english": "I've had a little mishap.",
+      "highlight": [
+        "Missgeschick"
+      ]
+    },
+    {
+      "german": "Durch ein Missgeschick fiel die Torte auf den Boden.",
+      "english": "Through a mishap the cake fell on the floor.",
+      "highlight": [
+        "Missgeschick"
+      ]
+    }
+  ],
+  "forms": [
+    "Missgeschicke",
+    "das Missgeschick"
+  ],
+  "memoryHook": "Missgeschick: a miss- (bad) Geschick (fate).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Missgeschick",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Missgeschick is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Missgeschick, zwei ___",
+      "answer": "Missgeschicke",
+      "fullAnswer": "ein Missgeschick, zwei Missgeschicke",
+      "explanation": "The plural is Missgeschicke.",
+      "acceptedAnswers": [
+        "Missgeschicke"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Missgeschick mean?",
+      "options": [
+        "to buy",
+        "mishap",
+        "the bread"
+      ],
+      "answer": "mishap",
+      "explanation": "Missgeschick: mishap; misfortune.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Missgeschick means…",
+      "options": [
+        "a mishap",
+        "a bad gift"
+      ],
+      "answer": "a mishap",
+      "explanation": "Mishap.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Geschick is…",
+      "options": [
+        "skill; fate",
+        "a sending"
+      ],
+      "answer": "skill; fate",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "das Malheur, die Panne",
+        "der Erfolg"
+      ],
+      "answer": "das Malheur, die Panne",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Missgeschick is a mishap, usually small and a little embarrassing: ein Missgeschick beim Kochen, Mir ist ein Missgeschick passiert. Synonyms: das Malheur (from French), die Panne, das Pech (bad luck). Das Geschick means skill and also fate; geschickt means skilful. Since 1996 it's spelled with ss. Plural: die Missgeschicke."
+}

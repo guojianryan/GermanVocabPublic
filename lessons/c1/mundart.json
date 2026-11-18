@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mundart",
+    "partOfSpeech": "noun, feminine (die Mundart)",
+    "pronunciation": {
+      "respelling": "MUNT-aart",
+      "ipa": "ˈmʊntˌʔaːɐ̯t",
+      "notes": "Plural: die Mundarten."
+    },
+    "meaning": "dialect",
+    "shortDefinition": "Dialect."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Mundart, plural die Mundarten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Mundart"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mundarten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie spricht eine schwäbische Mundart.",
+      "english": "She speaks a Swabian dialect.",
+      "highlight": [
+        "Mundart."
+      ]
+    },
+    {
+      "german": "Das Theater spielt Stücke in Mundart.",
+      "english": "The theatre performs plays in dialect.",
+      "highlight": [
+        "Mundart."
+      ]
+    }
+  ],
+  "forms": [
+    "Mundarten",
+    "die Mundarten",
+    "die Mundart"
+  ],
+  "memoryHook": "Mundart: the Art (manner) of the Mund (mouth), how people really talk.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mundart",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Mundart is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mundart, zwei ___",
+      "answer": "Mundarten",
+      "fullAnswer": "ein Mundart, zwei Mundarten",
+      "explanation": "The plural is Mundarten.",
+      "acceptedAnswers": [
+        "Mundarten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mundart mean?",
+      "options": [
+        "dialect",
+        "to travel",
+        "the door"
+      ],
+      "answer": "dialect",
+      "explanation": "Mundart: dialect.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Dialekt",
+        "die Muttersprache"
+      ],
+      "answer": "der Dialekt",
+      "explanation": "Dialect.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Hochdeutsch is…",
+      "options": [
+        "standard German",
+        "mountain German only"
+      ],
+      "answer": "standard German",
+      "explanation": "Standard.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Swiss German (Schweizerdeutsch) is…",
+      "options": [
+        "a group of Alemannic dialects",
+        "standard German"
+      ],
+      "answer": "a group of Alemannic dialects",
+      "explanation": "Swiss.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Mundart is a dialect, a slightly more traditional word than der Dialekt: in Mundart sprechen, Mundartdichtung (dialect poetry). German has many dialects: Bairisch, Schwäbisch, Sächsisch, Kölsch, Plattdeutsch and Swiss German, some barely understandable to other Germans. Dialect use is strongest in the south and in Switzerland. Hochdeutsch is standard German. Plural: die Mundarten."
+}

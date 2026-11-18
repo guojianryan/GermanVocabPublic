@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Verabschiedung",
+    "partOfSpeech": "noun, feminine (die Verabschiedung)",
+    "pronunciation": {
+      "respelling": "fer-AP-shee-dung",
+      "ipa": "fɛɐ̯ˈʔapʃiːdʊŋ",
+      "notes": "Plural: die Verabschiedungen."
+    },
+    "meaning": "farewell; passing (of a law)",
+    "shortDefinition": "Farewell; passing (of a law)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Verabschiedung, plural die Verabschiedungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Verabschiedung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Verabschiedungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Verabschiedung des Gesetzes ist für Juni geplant.",
+      "english": "The law is due to be passed in June.",
+      "highlight": [
+        "Verabschiedung"
+      ]
+    },
+    {
+      "german": "Bei der Verabschiedung flossen Tränen.",
+      "english": "There were tears at the farewell.",
+      "highlight": [
+        "Verabschiedung"
+      ]
+    }
+  ],
+  "forms": [
+    "Verabschiedungen",
+    "die Verabschiedung",
+    "verabschieden"
+  ],
+  "memoryHook": "Verabschiedung: saying Abschied (farewell), or sending a law on its way.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Verabschiedung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Verabschiedung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Verabschiedung, zwei ___",
+      "answer": "Verabschiedungen",
+      "fullAnswer": "ein Verabschiedung, zwei Verabschiedungen",
+      "explanation": "The plural is Verabschiedungen.",
+      "acceptedAnswers": [
+        "Verabschiedungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Verabschiedung mean?",
+      "options": [
+        "farewell",
+        "the job",
+        "to sing"
+      ],
+      "answer": "farewell",
+      "explanation": "Verabschiedung: farewell; passing (of a law).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Gesetz verabschieden means…",
+      "options": [
+        "to pass a law",
+        "to say goodbye to a law"
+      ],
+      "answer": "to pass a law",
+      "explanation": "Pass.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich verabschieden means…",
+      "options": [
+        "to say goodbye",
+        "to leave a party"
+      ],
+      "answer": "to say goodbye",
+      "explanation": "Goodbye.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Abschied is…",
+      "options": [
+        "farewell",
+        "a shed"
+      ],
+      "answer": "farewell",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Verabschiedung has two meanings: a farewell (die Verabschiedung eines Kollegen in den Ruhestand) and the passing of a law or budget: die Verabschiedung des Haushalts. The verb verabschieden works the same way: sich verabschieden (to say goodbye) and ein Gesetz verabschieden (to pass a law). Der Abschied is farewell: Abschied nehmen. Plural: die Verabschiedungen."
+}

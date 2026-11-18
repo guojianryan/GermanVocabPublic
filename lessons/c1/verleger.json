@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Verleger",
+    "partOfSpeech": "noun, masculine (der Verleger)",
+    "pronunciation": {
+      "respelling": "fer-LAY-ger",
+      "ipa": "fɛɐ̯ˈleːɡɐ",
+      "notes": "Plural: die Verleger."
+    },
+    "meaning": "publisher",
+    "shortDefinition": "Publisher."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Verleger, plural die Verleger.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Verleger"
+        },
+        {
+          "label": "More than one",
+          "value": "die Verleger"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Verleger hat das Manuskript abgelehnt.",
+      "english": "The publisher rejected the manuscript.",
+      "highlight": [
+        "Verleger"
+      ]
+    },
+    {
+      "german": "Sie ist Verlegerin einer Tageszeitung.",
+      "english": "She's the publisher of a daily newspaper.",
+      "highlight": [
+        "Verlegerin"
+      ]
+    }
+  ],
+  "forms": [
+    "die Verleger",
+    "der Verleger",
+    "Verlegerin",
+    "Verlag",
+    "verlegen"
+  ],
+  "memoryHook": "Verleger: the person behind the Verlag.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Verleger",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Verleger is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Verleger, zwei ___",
+      "answer": "Verleger",
+      "fullAnswer": "ein Verleger, zwei Verleger",
+      "explanation": "The plural is Verleger.",
+      "acceptedAnswers": [
+        "Verleger"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Verleger mean?",
+      "options": [
+        "the street",
+        "the weather",
+        "publisher"
+      ],
+      "answer": "publisher",
+      "explanation": "Verleger: publisher.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Verlag is…",
+      "options": [
+        "the publishing house",
+        "the publisher (person)"
+      ],
+      "answer": "the publishing house",
+      "explanation": "Verlag.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verlegen (verb) means…",
+      "options": [
+        "to publish; to move; to mislay",
+        "to lie"
+      ],
+      "answer": "to publish; to move; to mislay",
+      "explanation": "Many meanings.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Verlegerin",
+        "die Verlegin"
+      ],
+      "answer": "die Verlegerin",
+      "explanation": "-in.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Verleger (die Verlegerin) is a publisher, the person who owns or runs a publishing house, der Verlag. Germany has a strong publishing tradition: the Frankfurter Buchmesse is the world's largest book fair, and Leipzig was the historic centre of the book trade. Verlegen means to publish, but also to move or postpone and to mislay: Ich habe meine Brille verlegt. Verlegen as an adjective means embarrassed."
+}

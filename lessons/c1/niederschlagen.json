@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "niederschlagen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "NEE-der-shlaa-gen",
+      "ipa": "ˈniːdɐˌʃlaːɡn̩",
+      "notes": ""
+    },
+    "meaning": "to knock down; to suppress; (sich) to be reflected",
+    "shortDefinition": "To knock down; to suppress; (sich) to be reflected."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schlag|e … |nieder"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schläg|st … |nieder"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schläg|t … |nieder"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schlag|en … |nieder"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schlag|t … |nieder"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schlag|en … |nieder"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat niedergeschlagen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Aufstand wurde blutig niedergeschlagen.",
+      "english": "The uprising was bloodily suppressed.",
+      "highlight": [
+        "niedergeschlagen."
+      ]
+    },
+    {
+      "german": "Das schlägt sich in den Zahlen nieder.",
+      "english": "That's reflected in the figures.",
+      "highlight": [
+        "schlägt",
+        "nieder."
+      ]
+    }
+  ],
+  "forms": [
+    "schlage nieder",
+    "schlägst nieder",
+    "schlägt nieder",
+    "schlagen nieder",
+    "schlagt nieder",
+    "niedergeschlagen",
+    "schlug nieder",
+    "Niederschlag"
+  ],
+  "memoryHook": "Niederschlagen: strike (schlagen) down (nieder).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … nieder (niederschlagen)",
+      "answer": "schlägt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schlägt … nieder.",
+      "acceptedAnswers": [
+        "schlaegt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (niederschlagen, past)",
+      "answer": "niedergeschlagen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe niedergeschlagen.",
+      "acceptedAnswers": [
+        "niedergeschlagen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does niederschlagen mean?",
+      "options": [
+        "to knock down",
+        "slowly",
+        "the key"
+      ],
+      "answer": "to knock down",
+      "explanation": "niederschlagen: to knock down; to suppress; (sich) to be reflected.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich niederschlagen in means…",
+      "options": [
+        "to be reflected in",
+        "to fall down"
+      ],
+      "answer": "to be reflected in",
+      "explanation": "Reflected.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Niedergeschlagen (adj.) means…",
+      "options": [
+        "dejected, downcast",
+        "knocked down only"
+      ],
+      "answer": "dejected, downcast",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Niederschlag is…",
+      "options": [
+        "precipitation (rain, snow)",
+        "a down payment"
+      ],
+      "answer": "precipitation (rain, snow)",
+      "explanation": "Weather.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Niederschlagen means to knock someone down, to suppress an uprising (Der Aufstand vom 17. Juni 1953 in der DDR wurde von sowjetischen Panzern niedergeschlagen), and to drop charges: ein Verfahren niederschlagen. Reflexively, sich niederschlagen in means to be reflected in. Niedergeschlagen means dejected. Der Niederschlag is precipitation: Regen, Schnee. Separable: schlug nieder, niedergeschlagen."
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verunsichern",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-UN-zi-khern",
+      "ipa": "fɛɐ̯ˈʔʊnzɪçɐn",
+      "notes": ""
+    },
+    "meaning": "to unsettle, make insecure",
+    "shortDefinition": "To unsettle, make insecure."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verunsichere"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verunsicher|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verunsicher|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verunsicher|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verunsicher|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verunsicher|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verunsichert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die widersprüchlichen Nachrichten verunsichern die Menschen.",
+      "english": "The contradictory news is unsettling people.",
+      "highlight": [
+        "verunsichern"
+      ]
+    },
+    {
+      "german": "Nach dem Unfall war sie sehr verunsichert.",
+      "english": "After the accident she was very shaken.",
+      "highlight": [
+        "verunsichert."
+      ]
+    }
+  ],
+  "forms": [
+    "verunsichere",
+    "verunsicherst",
+    "verunsichert",
+    "verunsichern",
+    "Verunsicherung"
+  ],
+  "memoryHook": "Verunsichern: make someone unsicher (unsure).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verunsichern)",
+      "answer": "verunsichert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verunsichert.",
+      "acceptedAnswers": [
+        "verunsichert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verunsichern, past)",
+      "answer": "verunsichert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verunsichert.",
+      "acceptedAnswers": [
+        "verunsichert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verunsichern mean?",
+      "options": [
+        "to unsettle",
+        "cheap",
+        "quiet"
+      ],
+      "answer": "to unsettle",
+      "explanation": "verunsichern: to unsettle, make insecure.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verunsichert means…",
+      "options": [
+        "unsettled, insecure",
+        "uninsured"
+      ],
+      "answer": "unsettled, insecure",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unsicher means…",
+      "options": [
+        "unsure; unsafe",
+        "unseen"
+      ],
+      "answer": "unsure; unsafe",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Verunsicherung is…",
+      "options": [
+        "uncertainty, unsettlement",
+        "insurance"
+      ],
+      "answer": "uncertainty, unsettlement",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verunsichern means to unsettle or make someone insecure: Die Debatte verunsichert Verbraucher, Lass dich nicht verunsichern! (don't let it throw you). Verunsichert means unsettled or shaken. Die Verunsicherung is uncertainty: große Verunsicherung bei den Mietern. From unsicher (unsure, unsafe), the opposite of sicher. Not separable: hat verunsichert."
+}

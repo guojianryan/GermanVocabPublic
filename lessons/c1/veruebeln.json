@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verübeln",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-Ü-beln",
+      "ipa": "fɛɐ̯ˈʔyːbl̩n",
+      "notes": ""
+    },
+    "meaning": "to hold against, take amiss",
+    "shortDefinition": "To hold against, take amiss."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verübl|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verübel|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verübel|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verübel|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verübel|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verübel|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verübelt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das kann man ihm nicht verübeln.",
+      "english": "You can't blame him for that.",
+      "highlight": [
+        "verübeln."
+      ]
+    },
+    {
+      "german": "Sie hat mir die Bemerkung lange verübelt.",
+      "english": "She held the remark against me for a long time.",
+      "highlight": [
+        "verübelt."
+      ]
+    }
+  ],
+  "forms": [
+    "verüble",
+    "verübelst",
+    "verübelt",
+    "verübeln"
+  ],
+  "memoryHook": "Verübeln: count something as übel (bad) against someone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verübeln)",
+      "answer": "verübelt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verübelt.",
+      "acceptedAnswers": [
+        "veruebelt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verübeln, past)",
+      "answer": "verübelt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verübelt.",
+      "acceptedAnswers": [
+        "veruebelt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verübeln mean?",
+      "options": [
+        "to travel",
+        "quiet",
+        "to hold against"
+      ],
+      "answer": "to hold against",
+      "explanation": "verübeln: to hold against, take amiss.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandem etwas verübeln means…",
+      "options": [
+        "to hold something against someone",
+        "to do evil"
+      ],
+      "answer": "to hold something against someone",
+      "explanation": "Meaning.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das kann man ihr nicht verübeln means…",
+      "options": [
+        "you can't blame her",
+        "she can't be forgiven"
+      ],
+      "answer": "you can't blame her",
+      "explanation": "Phrase.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "übelnehmen, krummnehmen",
+        "verzeihen"
+      ],
+      "answer": "übelnehmen, krummnehmen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verübeln means to hold something against someone or take it amiss, with dative person: Das kann man ihm nicht verübeln (you can't blame him), Nimm es mir nicht übel. Synonyms: übelnehmen, krummnehmen (colloquial), nachtragen. The opposite is verzeihen (to forgive). From übel (bad). Regular: verübelte, verübelt."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Prozentsatz",
+    "partOfSpeech": "noun, masculine (der Prozentsatz)",
+    "pronunciation": {
+      "respelling": "pro-TSENT-zats",
+      "ipa": "pʁoˈt͡sɛntˌzat͡s",
+      "notes": "Plural: die Prozentsätze."
+    },
+    "meaning": "percentage",
+    "shortDefinition": "Percentage."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Prozentsatz, plural die Prozentsätze.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Prozentsatz"
+        },
+        {
+          "label": "More than one",
+          "value": "die Prozentsätze"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ein hoher Prozentsatz der Bevölkerung ist dafür.",
+      "english": "A high percentage of the population is in favour.",
+      "highlight": [
+        "Prozentsatz"
+      ]
+    },
+    {
+      "german": "Der Prozentsatz der Raucher sinkt.",
+      "english": "The percentage of smokers is falling.",
+      "highlight": [
+        "Prozentsatz"
+      ]
+    }
+  ],
+  "forms": [
+    "Prozentsätze",
+    "die Prozentsätze",
+    "der Prozentsatz"
+  ],
+  "memoryHook": "Prozentsatz: the Satz (rate) in Prozent.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Prozentsatz",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Prozentsatz is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Prozentsatz, zwei ___",
+      "answer": "Prozentsätze",
+      "fullAnswer": "ein Prozentsatz, zwei Prozentsätze",
+      "explanation": "The plural is Prozentsätze.",
+      "acceptedAnswers": [
+        "Prozentsaetze"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Prozentsatz mean?",
+      "options": [
+        "the bread",
+        "the street",
+        "percentage"
+      ],
+      "answer": "percentage",
+      "explanation": "Prozentsatz: percentage.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Prozent is…",
+      "options": [
+        "per cent",
+        "percentage"
+      ],
+      "answer": "per cent",
+      "explanation": "Per cent.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Satz here means…",
+      "options": [
+        "rate",
+        "sentence"
+      ],
+      "answer": "rate",
+      "explanation": "Rate.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Prozentpunkt is…",
+      "options": [
+        "percentage point",
+        "percent mark"
+      ],
+      "answer": "percentage point",
+      "explanation": "Point.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Prozentsatz is a percentage: ein geringer Prozentsatz, der Prozentsatz der Wahlberechtigten. Das Prozent is a single per cent: 20 Prozent. Der Prozentpunkt is a percentage point, important in election reporting: Die Partei verlor drei Prozentpunkte. Der Satz here means rate, as in der Zinssatz (interest rate) and der Steuersatz (tax rate). Plural: die Prozentsätze."
+}

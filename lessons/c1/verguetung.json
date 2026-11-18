@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vergütung",
+    "partOfSpeech": "noun, feminine (die Vergütung)",
+    "pronunciation": {
+      "respelling": "fer-GÜ-tung",
+      "ipa": "fɛɐ̯ˈɡyːtʊŋ",
+      "notes": "Plural: die Vergütungen."
+    },
+    "meaning": "remuneration, pay, compensation",
+    "shortDefinition": "Remuneration, pay, compensation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Vergütung, plural die Vergütungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Vergütung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Vergütungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Vergütung erfolgt nach Tarif.",
+      "english": "Pay follows the collective agreement.",
+      "highlight": [
+        "Vergütung"
+      ]
+    },
+    {
+      "german": "Praktikanten erhalten eine angemessene Vergütung.",
+      "english": "Interns receive appropriate pay.",
+      "highlight": [
+        "Vergütung."
+      ]
+    }
+  ],
+  "forms": [
+    "Vergütungen",
+    "die Vergütungen",
+    "die Vergütung",
+    "vergüten"
+  ],
+  "memoryHook": "Vergütung: making it gut (good) for the worker.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vergütung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Vergütung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Vergütung, zwei ___",
+      "answer": "Vergütungen",
+      "fullAnswer": "ein Vergütung, zwei Vergütungen",
+      "explanation": "The plural is Vergütungen.",
+      "acceptedAnswers": [
+        "Verguetungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vergütung mean?",
+      "options": [
+        "remuneration",
+        "the car",
+        "hot"
+      ],
+      "answer": "remuneration",
+      "explanation": "Vergütung: remuneration, pay, compensation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vergüten means…",
+      "options": [
+        "to pay, reimburse",
+        "to make good"
+      ],
+      "answer": "to pay, reimburse",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal (contracts, job ads)",
+        "slang"
+      ],
+      "answer": "formal (contracts, job ads)",
+      "explanation": "Formal.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday word for salary:",
+      "options": [
+        "das Gehalt",
+        "die Vergütung"
+      ],
+      "answer": "das Gehalt",
+      "explanation": "Gehalt.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Vergütung is remuneration or pay, the formal word in contracts and job ads: eine attraktive Vergütung, die Vergütung nach TVöD (public-sector pay scale). Everyday words are das Gehalt (salary) and der Lohn (wage). Vergüten means to pay or reimburse: Überstunden werden vergütet. Die Einspeisevergütung is the feed-in tariff paid for solar power. Plural: die Vergütungen."
+}

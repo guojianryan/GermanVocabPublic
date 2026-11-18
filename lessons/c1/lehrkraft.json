@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Lehrkraft",
+    "partOfSpeech": "noun, feminine (die Lehrkraft)",
+    "pronunciation": {
+      "respelling": "LAIR-kraft",
+      "ipa": "ˈleːɐ̯ˌkʁaft",
+      "notes": "Plural: die Lehrkräfte."
+    },
+    "meaning": "teacher (formal)",
+    "shortDefinition": "Teacher (formal)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Lehrkraft, plural die Lehrkräfte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Lehrkraft"
+        },
+        {
+          "label": "More than one",
+          "value": "die Lehrkräfte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "An der Schule fehlen viele Lehrkräfte.",
+      "english": "The school is short of many teachers.",
+      "highlight": [
+        "Lehrkräfte."
+      ]
+    },
+    {
+      "german": "Sie ist Lehrkraft für Mathematik.",
+      "english": "She's a maths teacher.",
+      "highlight": [
+        "Lehrkraft"
+      ]
+    }
+  ],
+  "forms": [
+    "Lehrkräfte",
+    "die Lehrkräfte",
+    "die Lehrkraft"
+  ],
+  "memoryHook": "Lehrkraft: a Kraft (worker) who lehrt (teaches).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Lehrkraft",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Lehrkraft is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Lehrkraft, zwei ___",
+      "answer": "Lehrkräfte",
+      "fullAnswer": "ein Lehrkraft, zwei Lehrkräfte",
+      "explanation": "The plural is Lehrkräfte.",
+      "acceptedAnswers": [
+        "Lehrkraefte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Lehrkraft mean?",
+      "options": [
+        "teacher (formal)",
+        "never",
+        "expensive"
+      ],
+      "answer": "teacher (formal)",
+      "explanation": "Lehrkraft: teacher (formal).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Lehrkraft is used for…",
+      "options": [
+        "any teacher, gender-neutral",
+        "only female teachers"
+      ],
+      "answer": "any teacher, gender-neutral",
+      "explanation": "Neutral.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Lehrermangel is…",
+      "options": [
+        "teacher shortage",
+        "teaching material"
+      ],
+      "answer": "teacher shortage",
+      "explanation": "Shortage.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Quereinsteiger in schools are…",
+      "options": [
+        "career changers becoming teachers",
+        "transfer pupils"
+      ],
+      "answer": "career changers becoming teachers",
+      "explanation": "Lateral entry.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Lehrkraft is a formal, gender-neutral word for a teacher, used in official texts: Lehrkräfte an Grundschulen, eine Lehrkraft für Deutsch als Fremdsprache. Germany faces a serious Lehrkräftemangel (teacher shortage), so many schools hire Quereinsteiger (career changers). In many states, teachers are civil servants (Beamte). Similar: die Fachkraft, die Führungskraft. Plural: die Lehrkräfte."
+}

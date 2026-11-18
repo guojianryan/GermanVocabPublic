@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ausgangssperre",
+    "partOfSpeech": "noun, feminine (die Ausgangssperre)",
+    "pronunciation": {
+      "respelling": "AUS-gangs-shpe-re",
+      "ipa": "ˈaʊ̯sɡaŋsˌʃpɛʁə",
+      "notes": "Plural: die Ausgangssperren."
+    },
+    "meaning": "curfew",
+    "shortDefinition": "Curfew."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Ausgangssperre, plural die Ausgangssperren.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Ausgangssperre"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ausgangssperren"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Während der Unruhen galt eine nächtliche Ausgangssperre.",
+      "english": "A night curfew was in force during the unrest.",
+      "highlight": [
+        "Ausgangssperre."
+      ]
+    },
+    {
+      "german": "2021 gab es in Deutschland eine Ausgangssperre ab 22 Uhr.",
+      "english": "In 2021 Germany had a curfew from 10 pm.",
+      "highlight": [
+        "Ausgangssperre"
+      ]
+    }
+  ],
+  "forms": [
+    "Ausgangssperren",
+    "die Ausgangssperre"
+  ],
+  "memoryHook": "Ausgangssperre: a Sperre (ban) on Ausgang (going out).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ausgangssperre",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Ausgangssperre is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Ausgangssperre, zwei ___",
+      "answer": "Ausgangssperren",
+      "fullAnswer": "ein Ausgangssperre, zwei Ausgangssperren",
+      "explanation": "The plural is Ausgangssperren.",
+      "acceptedAnswers": [
+        "Ausgangssperren"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ausgangssperre mean?",
+      "options": [
+        "cheap",
+        "the bill",
+        "curfew"
+      ],
+      "answer": "curfew",
+      "explanation": "Ausgangssperre: curfew.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The 2021 federal curfew was part of…",
+      "options": [
+        "the Bundesnotbremse (emergency brake)",
+        "the Grundgesetz"
+      ],
+      "answer": "the Bundesnotbremse (emergency brake)",
+      "explanation": "2021.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kontaktbeschränkung is…",
+      "options": [
+        "contact restriction",
+        "a phone block"
+      ],
+      "answer": "contact restriction",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Hausarrest is…",
+      "options": [
+        "house arrest; grounding (child)",
+        "a house sale"
+      ],
+      "answer": "house arrest; grounding (child)",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Ausgangssperre is a curfew. In April 2021, the federal Bundesnotbremse imposed a nighttime curfew from 10 pm to 5 am in districts with high COVID infection rates; the Federal Constitutional Court later upheld it. Officially, the more precise term was Ausgangsbeschränkung (restriction). Grounding a teenager is Hausarrest. Plural: die Ausgangssperren."
+}

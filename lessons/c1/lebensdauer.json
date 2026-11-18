@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Lebensdauer",
+    "partOfSpeech": "noun, feminine (die Lebensdauer)",
+    "pronunciation": {
+      "respelling": "LAY-bens-dau-er",
+      "ipa": "ˈleːbn̩sˌdaʊ̯ɐ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "lifespan, service life",
+    "shortDefinition": "Lifespan, service life."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Lebensdauer, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Lebensdauer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Lebensdauer des Akkus beträgt etwa fünf Jahre.",
+      "english": "The battery's lifespan is about five years.",
+      "highlight": [
+        "Lebensdauer"
+      ]
+    },
+    {
+      "german": "Schildkröten haben eine lange Lebensdauer.",
+      "english": "Tortoises have a long lifespan.",
+      "highlight": [
+        "Lebensdauer."
+      ]
+    }
+  ],
+  "forms": [
+    "die Lebensdauer"
+  ],
+  "memoryHook": "Lebensdauer: how long (Dauer) something lives.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Lebensdauer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Lebensdauer is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Lebensdauer mean?",
+      "options": [
+        "lifespan",
+        "to buy",
+        "the child"
+      ],
+      "answer": "lifespan",
+      "explanation": "Lebensdauer: lifespan, service life.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Lebensdauer is mostly used for…",
+      "options": [
+        "devices, materials, animals",
+        "only humans"
+      ],
+      "answer": "devices, materials, animals",
+      "explanation": "Lifespan.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "For humans, Germans usually say…",
+      "options": [
+        "die Lebenserwartung",
+        "die Lebensdauer only"
+      ],
+      "answer": "die Lebenserwartung",
+      "explanation": "Life expectancy.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die geplante Obsoleszenz is…",
+      "options": [
+        "planned obsolescence",
+        "planned recycling"
+      ],
+      "answer": "planned obsolescence",
+      "explanation": "Obsolescence.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Lebensdauer is lifespan or service life, mainly of devices, materials or animals: die Lebensdauer einer Glühbirne, eines Akkus, einer Brücke. For people, the usual word is die Lebenserwartung (life expectancy), about 81 years in Germany. Debates about geplante Obsoleszenz (planned obsolescence) led the EU to introduce a right to repair. Die Dauer means duration: auf Dauer (in the long run). It has no plural."
+}

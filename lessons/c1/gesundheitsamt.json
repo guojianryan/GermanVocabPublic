@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gesundheitsamt",
+    "partOfSpeech": "noun, neuter (das Gesundheitsamt)",
+    "pronunciation": {
+      "respelling": "ge-ZUNT-haits-amt",
+      "ipa": "ɡəˈzʊnthaɪ̯t͡sˌʔamt",
+      "notes": "Plural: die Gesundheitsämter."
+    },
+    "meaning": "public health office",
+    "shortDefinition": "Public health office."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Gesundheitsamt, plural die Gesundheitsämter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Gesundheitsamt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gesundheitsämter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Gesundheitsamt verfolgt die Kontakte der Infizierten.",
+      "english": "The health office traces the contacts of infected people.",
+      "highlight": [
+        "Gesundheitsamt"
+      ]
+    },
+    {
+      "german": "Restaurants werden vom Gesundheitsamt kontrolliert.",
+      "english": "Restaurants are inspected by the health office.",
+      "highlight": [
+        "Gesundheitsamt"
+      ]
+    }
+  ],
+  "forms": [
+    "Gesundheitsämter",
+    "das Gesundheitsamt"
+  ],
+  "memoryHook": "Gesundheitsamt: the Amt (office) for Gesundheit (health).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gesundheitsamt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Gesundheitsamt is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gesundheitsamt, zwei ___",
+      "answer": "Gesundheitsämter",
+      "fullAnswer": "ein Gesundheitsamt, zwei Gesundheitsämter",
+      "explanation": "The plural is Gesundheitsämter.",
+      "acceptedAnswers": [
+        "Gesundheitsaemter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gesundheitsamt mean?",
+      "options": [
+        "public health office",
+        "the station",
+        "to sing"
+      ],
+      "answer": "public health office",
+      "explanation": "Gesundheitsamt: public health office.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gesundheitsämter are run by…",
+      "options": [
+        "districts and cities",
+        "the EU"
+      ],
+      "answer": "districts and cities",
+      "explanation": "Local.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Robert Koch-Institut is…",
+      "options": [
+        "the federal public health institute",
+        "a hospital"
+      ],
+      "answer": "the federal public health institute",
+      "explanation": "RKI.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Amt is…",
+      "options": [
+        "office, authority",
+        "a hat"
+      ],
+      "answer": "office, authority",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Gesundheitsamt is the local public health office, run by districts and cities. It handles infectious disease reporting, school health checks, hygiene inspections and vaccination advice. During the COVID-19 pandemic, Gesundheitsämter became famous for contact tracing, often still using fax. At federal level, the Robert Koch-Institut in Berlin monitors public health. Plural: die Gesundheitsämter."
+}

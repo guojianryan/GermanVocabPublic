@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schadensersatz",
+    "partOfSpeech": "noun, masculine (der Schadensersatz)",
+    "pronunciation": {
+      "respelling": "SHAA-dens-er-zats",
+      "ipa": "ˈʃaːdn̩sʔɛɐ̯ˌzat͡s",
+      "notes": "Usually no plural."
+    },
+    "meaning": "damages, compensation",
+    "shortDefinition": "Damages, compensation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schadensersatz, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schadensersatz"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie verlangt Schadensersatz von der Firma.",
+      "english": "She's claiming damages from the company.",
+      "highlight": [
+        "Schadensersatz"
+      ]
+    },
+    {
+      "german": "Das Gericht sprach ihm 10.000 Euro Schadensersatz zu.",
+      "english": "The court awarded him 10,000 euros in damages.",
+      "highlight": [
+        "Schadensersatz"
+      ]
+    }
+  ],
+  "forms": [
+    "der Schadensersatz",
+    "Schadenersatz"
+  ],
+  "memoryHook": "Schadensersatz: Ersatz (replacement) for a Schaden (damage).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schadensersatz",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schadensersatz is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schadensersatz mean?",
+      "options": [
+        "damages",
+        "the evening",
+        "to open"
+      ],
+      "answer": "damages",
+      "explanation": "Schadensersatz: damages, compensation.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Also spelled…",
+      "options": [
+        "Schadenersatz",
+        "Schadensatz"
+      ],
+      "answer": "Schadenersatz",
+      "explanation": "Spelling.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Schmerzensgeld is…",
+      "options": [
+        "compensation for pain and suffering",
+        "a fine"
+      ],
+      "answer": "compensation for pain and suffering",
+      "explanation": "Pain.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ersatz is…",
+      "options": [
+        "replacement, substitute",
+        "a sentence"
+      ],
+      "answer": "replacement, substitute",
+      "explanation": "Root.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Schadensersatz (also Schadenersatz) is damages or compensation: Schadensersatz fordern, verlangen, leisten. German courts award compensation for actual losses, but no punitive damages like in the US. Compensation for pain and suffering is das Schmerzensgeld. In the diesel scandal, the Federal Court ruled in 2020 that VW owed buyers Schadensersatz. Der Ersatz means replacement. It has no plural."
+}

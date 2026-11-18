@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "vortäuschen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "FOHR-toy-shen",
+      "ipa": "ˈfoːɐ̯ˌtɔɪ̯ʃn̩",
+      "notes": ""
+    },
+    "meaning": "to feign, fake",
+    "shortDefinition": "To feign, fake."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "täusch|e … |vor"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "täusch|st … |vor"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "täusch|t … |vor"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "täusch|en … |vor"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "täusch|t … |vor"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "täusch|en … |vor"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat vorgetäuscht"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hat eine Krankheit vorgetäuscht.",
+      "english": "He faked an illness.",
+      "highlight": [
+        "vorgetäuscht."
+      ]
+    },
+    {
+      "german": "Sie täuschte Interesse vor.",
+      "english": "She feigned interest.",
+      "highlight": [
+        "täuschte",
+        "vor."
+      ]
+    }
+  ],
+  "forms": [
+    "täusche vor",
+    "täuschst vor",
+    "täuscht vor",
+    "täuschen vor",
+    "vorgetäuscht",
+    "täuschte vor"
+  ],
+  "memoryHook": "Vortäuschen: täuschen (deceive) by putting something vor (in front).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … vor (vortäuschen)",
+      "answer": "täuscht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: täuscht … vor.",
+      "acceptedAnswers": [
+        "taeuscht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (vortäuschen, past)",
+      "answer": "vorgetäuscht",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe vorgetäuscht.",
+      "acceptedAnswers": [
+        "vorgetaeuscht"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does vortäuschen mean?",
+      "options": [
+        "to feign",
+        "the flower",
+        "the bill"
+      ],
+      "answer": "to feign",
+      "explanation": "vortäuschen: to feign, fake.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Täuschen means…",
+      "options": [
+        "to deceive",
+        "to swap"
+      ],
+      "answer": "to deceive",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vortäuschen einer Straftat (§145d StGB) is…",
+      "options": [
+        "faking a crime report",
+        "attempted crime"
+      ],
+      "answer": "faking a crime report",
+      "explanation": "Law.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "simulieren, heucheln",
+        "zugeben"
+      ],
+      "answer": "simulieren, heucheln",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Vortäuschen means to feign or fake: eine Krankheit, Interesse, einen Unfall vortäuschen. Reporting a crime that never happened is the offence Vortäuschen einer Straftat (§145d StGB). Synonyms: simulieren, heucheln (to feign feelings), so tun, als ob. From täuschen (to deceive). Separable: täuschte vor, vorgetäuscht."
+}

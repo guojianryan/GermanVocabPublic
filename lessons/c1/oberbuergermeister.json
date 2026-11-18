@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Oberbürgermeister",
+    "partOfSpeech": "noun, masculine (der Oberbürgermeister)",
+    "pronunciation": {
+      "respelling": "OH-ber-bür-ger-mai-ster",
+      "ipa": "ˈoːbɐˌbʏʁɡɐˌmaɪ̯stɐ",
+      "notes": "Plural: die Oberbürgermeister."
+    },
+    "meaning": "(lord) mayor of a city",
+    "shortDefinition": "(lord) mayor of a city."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Oberbürgermeister, plural die Oberbürgermeister.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Oberbürgermeister"
+        },
+        {
+          "label": "More than one",
+          "value": "die Oberbürgermeister"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Oberbürgermeister eröffnete das Fest.",
+      "english": "The mayor opened the festival.",
+      "highlight": [
+        "Oberbürgermeister"
+      ]
+    },
+    {
+      "german": "Sie wurde zur Oberbürgermeisterin gewählt.",
+      "english": "She was elected mayor.",
+      "highlight": [
+        "Oberbürgermeisterin"
+      ]
+    }
+  ],
+  "forms": [
+    "die Oberbürgermeister",
+    "Oberbürgermeisterin",
+    "OB"
+  ],
+  "memoryHook": "Oberbürgermeister: the 'upper' mayor of a big city, the OB.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Oberbürgermeister",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Oberbürgermeister is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Oberbürgermeister, zwei ___",
+      "answer": "Oberbürgermeister",
+      "fullAnswer": "ein Oberbürgermeister, zwei Oberbürgermeister",
+      "explanation": "The plural is Oberbürgermeister.",
+      "acceptedAnswers": [
+        "Oberbuergermeister"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Oberbürgermeister mean?",
+      "options": [
+        "(lord) mayor of a city",
+        "the bed",
+        "the car"
+      ],
+      "answer": "(lord) mayor of a city",
+      "explanation": "Oberbürgermeister: (lord) mayor of a city.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Abbreviation:",
+      "options": [
+        "OB",
+        "OBM"
+      ],
+      "answer": "OB",
+      "explanation": "der OB.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Used for…",
+      "options": [
+        "larger cities",
+        "villages"
+      ],
+      "answer": "larger cities",
+      "explanation": "Cities.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In a small town:",
+      "options": [
+        "der Bürgermeister",
+        "der Landrat"
+      ],
+      "answer": "der Bürgermeister",
+      "explanation": "Bürgermeister.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Oberbürgermeister (die Oberbürgermeisterin), often just der OB, is the mayor of a larger city, while small towns have a Bürgermeister. In most German states, mayors are directly elected by the people. In Berlin, Hamburg and Bremen, which are also states, the head is called der Regierende or Erste Bürgermeister. A word with 17 letters and five syllables, typical of German titles."
+}

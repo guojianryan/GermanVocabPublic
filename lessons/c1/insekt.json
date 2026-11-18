@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Insekt",
+    "partOfSpeech": "noun, neuter (das Insekt)",
+    "pronunciation": {
+      "respelling": "in-ZEKT",
+      "ipa": "ɪnˈzɛkt",
+      "notes": "Plural: die Insekten."
+    },
+    "meaning": "insect",
+    "shortDefinition": "Insect."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Insekt, plural die Insekten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Insekt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Insekten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bienen sind wichtige Insekten.",
+      "english": "Bees are important insects.",
+      "highlight": [
+        "Insekten."
+      ]
+    },
+    {
+      "german": "Das Insektenspray hilft gegen Mücken.",
+      "english": "The insect spray helps against mosquitoes.",
+      "highlight": [
+        "Insektenspray"
+      ]
+    }
+  ],
+  "forms": [
+    "Insekten",
+    "die Insekten",
+    "das Insekt"
+  ],
+  "memoryHook": "Insekt: six legs, and fewer every year.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Insekt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Insekt is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Insekt, zwei ___",
+      "answer": "Insekten",
+      "fullAnswer": "ein Insekt, zwei Insekten",
+      "explanation": "The plural is Insekten.",
+      "acceptedAnswers": [
+        "Insekten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Insekt mean?",
+      "options": [
+        "always",
+        "insect",
+        "to sleep"
+      ],
+      "answer": "insect",
+      "explanation": "Insekt: insect.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Insektensterben is…",
+      "options": [
+        "the decline in insects",
+        "an insect bite"
+      ],
+      "answer": "the decline in insects",
+      "explanation": "Insect decline.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress on…",
+      "options": [
+        "-SEKT",
+        "IN-"
+      ],
+      "answer": "-SEKT",
+      "explanation": "in-ZEKT.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Colloquial word for small insects/bugs:",
+      "options": [
+        "das Ungeziefer / die Krabbeltiere",
+        "die Würmer"
+      ],
+      "answer": "das Ungeziefer / die Krabbeltiere",
+      "explanation": "Pests / creepy-crawlies.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Insekt is an insect. A 2017 study in the German region of Krefeld found that flying insects had declined by more than 75 percent in 27 years, and das Insektensterben became a major environmental topic. Bavaria's 2019 Rettet die Bienen referendum was one of the most successful ever. Der Insektenstich is an insect bite. Colloquially, small bugs are Krabbeltiere or, as pests, Ungeziefer."
+}

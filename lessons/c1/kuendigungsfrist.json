@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kündigungsfrist",
+    "partOfSpeech": "noun, feminine (die Kündigungsfrist)",
+    "pronunciation": {
+      "respelling": "KÜN-di-gungs-frist",
+      "ipa": "ˈkʏndɪɡʊŋsˌfʁɪst",
+      "notes": "Plural: die Kündigungsfristen."
+    },
+    "meaning": "notice period",
+    "shortDefinition": "Notice period."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kündigungsfrist, plural die Kündigungsfristen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kündigungsfrist"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kündigungsfristen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Kündigungsfrist beträgt drei Monate.",
+      "english": "The notice period is three months.",
+      "highlight": [
+        "Kündigungsfrist"
+      ]
+    },
+    {
+      "german": "Bitte beachten Sie die Kündigungsfrist.",
+      "english": "Please observe the notice period.",
+      "highlight": [
+        "Kündigungsfrist."
+      ]
+    }
+  ],
+  "forms": [
+    "Kündigungsfristen",
+    "die Kündigungsfrist"
+  ],
+  "memoryHook": "Kündigungsfrist: the Frist (period) before a Kündigung takes effect.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kündigungsfrist",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kündigungsfrist is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kündigungsfrist, zwei ___",
+      "answer": "Kündigungsfristen",
+      "fullAnswer": "ein Kündigungsfrist, zwei Kündigungsfristen",
+      "explanation": "The plural is Kündigungsfristen.",
+      "acceptedAnswers": [
+        "Kuendigungsfristen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kündigungsfrist mean?",
+      "options": [
+        "the family",
+        "to sing",
+        "notice period"
+      ],
+      "answer": "notice period",
+      "explanation": "Kündigungsfrist: notice period.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Statutory notice for employees in Germany:",
+      "options": [
+        "four weeks to the 15th or end of a month",
+        "one day"
+      ],
+      "answer": "four weeks to the 15th or end of a month",
+      "explanation": "Work.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Tenants usually give…",
+      "options": [
+        "three months' notice",
+        "one week's notice"
+      ],
+      "answer": "three months' notice",
+      "explanation": "Rent.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Frist is…",
+      "options": [
+        "deadline, period",
+        "first"
+      ],
+      "answer": "deadline, period",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kündigungsfrist is the notice period for ending a contract. By law (§622 BGB), employees can give four weeks' notice to the 15th or the end of a month, while employers' notice periods grow with length of service. Tenants generally give three months' notice. Since 2022, many consumer contracts like gym or phone plans can be cancelled monthly after the initial term. Die Frist means deadline. Plural: die Kündigungsfristen."
+}

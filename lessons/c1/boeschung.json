@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Böschung",
+    "partOfSpeech": "noun, feminine (die Böschung)",
+    "pronunciation": {
+      "respelling": "BÖ-shung",
+      "ipa": "ˈbœʃʊŋ",
+      "notes": "Plural: die Böschungen."
+    },
+    "meaning": "embankment, bank",
+    "shortDefinition": "Embankment, bank."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Böschung, plural die Böschungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Böschung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Böschungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Auto landete in der Böschung.",
+      "english": "The car ended up on the embankment.",
+      "highlight": [
+        "Böschung."
+      ]
+    },
+    {
+      "german": "Die Böschung am Bahndamm wurde gemäht.",
+      "english": "The railway embankment was mowed.",
+      "highlight": [
+        "Böschung"
+      ]
+    }
+  ],
+  "forms": [
+    "Böschungen",
+    "die Böschung"
+  ],
+  "memoryHook": "Böschung: a bank covered in Busch (bushes).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Böschung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Böschung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Böschung, zwei ___",
+      "answer": "Böschungen",
+      "fullAnswer": "ein Böschung, zwei Böschungen",
+      "explanation": "The plural is Böschungen.",
+      "acceptedAnswers": [
+        "Boeschungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Böschung mean?",
+      "options": [
+        "embankment",
+        "the key",
+        "the child"
+      ],
+      "answer": "embankment",
+      "explanation": "Böschung: embankment, bank.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Böschung is…",
+      "options": [
+        "a sloping bank beside a road, river or railway",
+        "a bush"
+      ],
+      "answer": "a sloping bank beside a road, river or railway",
+      "explanation": "Meaning.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Damm is…",
+      "options": [
+        "dam, embankment",
+        "a lady"
+      ],
+      "answer": "dam, embankment",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Abhang, der Hang",
+        "die Ebene"
+      ],
+      "answer": "der Abhang, der Hang",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Böschung is an embankment or bank, a sloping strip beside a road, railway, river or ditch: Das Auto kam von der Straße ab und landete in der Böschung, a common phrase in accident reports. Related: der Damm (embankment, dam), der Graben (ditch), der Abhang (slope). Böschungsbrände (embankment fires) are a risk in dry summers. Plural: die Böschungen."
+}

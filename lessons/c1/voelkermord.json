@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Völkermord",
+    "partOfSpeech": "noun, masculine (der Völkermord)",
+    "pronunciation": {
+      "respelling": "FÖL-ker-mort",
+      "ipa": "ˈfœlkɐˌmɔʁt",
+      "notes": "Plural: die Völkermorde."
+    },
+    "meaning": "genocide",
+    "shortDefinition": "Genocide."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Völkermord, plural die Völkermorde.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Völkermord"
+        },
+        {
+          "label": "More than one",
+          "value": "die Völkermorde"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Holocaust war ein Völkermord an den europäischen Juden.",
+      "english": "The Holocaust was a genocide of European Jews.",
+      "highlight": [
+        "Völkermord"
+      ]
+    },
+    {
+      "german": "Das Gericht verurteilte ihn wegen Völkermordes.",
+      "english": "The court convicted him of genocide.",
+      "highlight": [
+        "Völkermordes."
+      ]
+    }
+  ],
+  "forms": [
+    "Völkermorde",
+    "der Völkermord",
+    "Völkermordes",
+    "Genozid"
+  ],
+  "memoryHook": "Völkermord: the murder (Mord) of a people (Volk).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Völkermord",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Völkermord is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Völkermord, zwei ___",
+      "answer": "Völkermorde",
+      "fullAnswer": "ein Völkermord, zwei Völkermorde",
+      "explanation": "The plural is Völkermorde.",
+      "acceptedAnswers": [
+        "Voelkermorde"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Völkermord mean?",
+      "options": [
+        "to wait",
+        "genocide",
+        "the door"
+      ],
+      "answer": "genocide",
+      "explanation": "Völkermord: genocide.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym (from Greek/Latin):",
+      "options": [
+        "der Genozid",
+        "der Massenmord only"
+      ],
+      "answer": "der Genozid",
+      "explanation": "Genocide.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Volk is…",
+      "options": [
+        "people, nation",
+        "folk music only"
+      ],
+      "answer": "people, nation",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's 2016 Bundestag resolution recognised…",
+      "options": [
+        "the Armenian genocide",
+        "no genocide"
+      ],
+      "answer": "the Armenian genocide",
+      "explanation": "2016.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Völkermord is genocide; the synonym der Genozid is also used. The Holocaust, the murder of six million European Jews, is the central Völkermord of German history, and Holocaust denial is a crime in Germany. In 2016 the Bundestag recognised the Armenian genocide, and in 2021 Germany acknowledged the genocide of the Herero and Nama in colonial Namibia. Das Volk means people or nation. Plural: die Völkermorde."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Glücksfall",
+    "partOfSpeech": "noun, masculine (der Glücksfall)",
+    "pronunciation": {
+      "respelling": "GLÜKS-fal",
+      "ipa": "ˈɡlʏksˌfal",
+      "notes": "Plural: die Glücksfälle."
+    },
+    "meaning": "stroke of luck, godsend",
+    "shortDefinition": "Stroke of luck, godsend."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Glücksfall, plural die Glücksfälle.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Glücksfall"
+        },
+        {
+          "label": "More than one",
+          "value": "die Glücksfälle"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der neue Trainer ist ein Glücksfall für den Verein.",
+      "english": "The new coach is a godsend for the club.",
+      "highlight": [
+        "Glücksfall"
+      ]
+    },
+    {
+      "german": "Es war ein Glücksfall, dass niemand verletzt wurde.",
+      "english": "It was a stroke of luck that no one was hurt.",
+      "highlight": [
+        "Glücksfall,"
+      ]
+    }
+  ],
+  "forms": [
+    "Glücksfälle",
+    "der Glücksfall"
+  ],
+  "memoryHook": "Glücksfall: a Fall (case) of Glück (luck).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Glücksfall",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Glücksfall is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Glücksfall, zwei ___",
+      "answer": "Glücksfälle",
+      "fullAnswer": "ein Glücksfall, zwei Glücksfälle",
+      "explanation": "The plural is Glücksfälle.",
+      "acceptedAnswers": [
+        "Gluecksfaelle"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Glücksfall mean?",
+      "options": [
+        "stroke of luck",
+        "the bread",
+        "the child"
+      ],
+      "answer": "stroke of luck",
+      "explanation": "Glücksfall: stroke of luck, godsend.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Glücksfall is…",
+      "options": [
+        "a stroke of luck, godsend",
+        "a lottery"
+      ],
+      "answer": "a stroke of luck, godsend",
+      "explanation": "Luck.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Glücksbringer is…",
+      "options": [
+        "lucky charm",
+        "a winner"
+      ],
+      "answer": "lucky charm",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Opposite:",
+      "options": [
+        "der Unglücksfall (accident)",
+        "der Zufall"
+      ],
+      "answer": "der Unglücksfall (accident)",
+      "explanation": "Opposite.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Glücksfall is a stroke of luck or godsend: ein echter Glücksfall, ein Glücksfall für die Stadt. It's often said of people who turn out perfect for a role. The opposite, der Unglücksfall, is an accident. Related: der Glücksbringer (lucky charm), der Glückspilz (lucky person, literally lucky mushroom), and Glück im Unglück haben (to be lucky in misfortune). Plural: die Glücksfälle."
+}

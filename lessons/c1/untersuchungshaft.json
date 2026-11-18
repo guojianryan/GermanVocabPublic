@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Untersuchungshaft",
+    "partOfSpeech": "noun, feminine (die Untersuchungshaft)",
+    "pronunciation": {
+      "respelling": "un-ter-ZOO-khungs-haft",
+      "ipa": "ʊntɐˈzuːxʊŋsˌhaft",
+      "notes": "Usually no plural."
+    },
+    "meaning": "custody pending trial, remand",
+    "shortDefinition": "Custody pending trial, remand."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Untersuchungshaft, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Untersuchungshaft"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Verdächtige sitzt in Untersuchungshaft.",
+      "english": "The suspect is in custody awaiting trial.",
+      "highlight": [
+        "Untersuchungshaft."
+      ]
+    },
+    {
+      "german": "Der Richter ordnete Untersuchungshaft an.",
+      "english": "The judge ordered remand in custody.",
+      "highlight": [
+        "Untersuchungshaft"
+      ]
+    }
+  ],
+  "forms": [
+    "die Untersuchungshaft",
+    "U-Haft"
+  ],
+  "memoryHook": "Untersuchungshaft: Haft (custody) during the Untersuchung (investigation).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Untersuchungshaft",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Untersuchungshaft is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Untersuchungshaft mean?",
+      "options": [
+        "custody pending trial",
+        "to help",
+        "cheap"
+      ],
+      "answer": "custody pending trial",
+      "explanation": "Untersuchungshaft: custody pending trial, remand.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Abbreviation:",
+      "options": [
+        "U-Haft",
+        "UH"
+      ],
+      "answer": "U-Haft",
+      "explanation": "U-Haft.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "U-Haft requires…",
+      "options": [
+        "strong suspicion and e.g. risk of flight",
+        "a conviction"
+      ],
+      "answer": "strong suspicion and e.g. risk of flight",
+      "explanation": "Grounds.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Fluchtgefahr is…",
+      "options": [
+        "risk of flight",
+        "escape route"
+      ],
+      "answer": "risk of flight",
+      "explanation": "Flight risk.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Untersuchungshaft (U-Haft) is custody pending trial, or remand. A judge (Haftrichter) can order it if there is strong suspicion and a reason such as Fluchtgefahr (flight risk), Verdunkelungsgefahr (risk of tampering with evidence) or, for serious crimes, risk of reoffending. Suspects must be brought before a judge by the end of the day after arrest. It has no plural."
+}

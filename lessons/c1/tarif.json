@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Tarif",
+    "partOfSpeech": "noun, masculine (der Tarif)",
+    "pronunciation": {
+      "respelling": "ta-REEF",
+      "ipa": "taˈʁiːf",
+      "notes": "Plural: die Tarife."
+    },
+    "meaning": "rate, tariff; collective pay agreement",
+    "shortDefinition": "Rate, tariff; collective pay agreement."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Tarif, plural die Tarife.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Tarif"
+        },
+        {
+          "label": "More than one",
+          "value": "die Tarife"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich habe meinen Handytarif gewechselt.",
+      "english": "I've changed my mobile tariff.",
+      "highlight": [
+        "Handytarif"
+      ]
+    },
+    {
+      "german": "Die Mitarbeiter werden nach Tarif bezahlt.",
+      "english": "The staff are paid according to the collective agreement.",
+      "highlight": [
+        "Tarif"
+      ]
+    }
+  ],
+  "forms": [
+    "Tarife",
+    "die Tarife",
+    "der Tarif",
+    "tariflich"
+  ],
+  "memoryHook": "Tarif: the rate you pay, or the pay you get.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Tarif",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Tarif is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Tarif, zwei ___",
+      "answer": "Tarife",
+      "fullAnswer": "ein Tarif, zwei Tarife",
+      "explanation": "The plural is Tarife.",
+      "acceptedAnswers": [
+        "Tarife"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Tarif mean?",
+      "options": [
+        "the flower",
+        "rate",
+        "the car"
+      ],
+      "answer": "rate",
+      "explanation": "Tarif: rate, tariff; collective pay agreement.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nach Tarif bezahlt means…",
+      "options": [
+        "paid according to a union agreement",
+        "paid by the hour"
+      ],
+      "answer": "paid according to a union agreement",
+      "explanation": "Collective pay.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Tarifverhandlungen are…",
+      "options": [
+        "wage talks",
+        "customs talks"
+      ],
+      "answer": "wage talks",
+      "explanation": "Wage bargaining.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "A customs tariff is usually…",
+      "options": [
+        "der Zoll",
+        "der Tarif"
+      ],
+      "answer": "der Zoll",
+      "explanation": "False friend.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Tarif is a rate or price plan: der Handytarif, der Stromtarif. In the world of work, der Tarif or Tarifvertrag is a collective agreement between unions and employers that sets pay; nach Tarif bezahlt werden means to be paid on the agreed scale. Die Tarifrunde is a round of wage talks, often with Warnstreiks (warning strikes). Customs duties, however, are der Zoll: Trump's Zölle, not Tarife. Stress: ta-REEF."
+}

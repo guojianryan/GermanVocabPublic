@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Aufruhr",
+    "partOfSpeech": "noun, masculine (der Aufruhr)",
+    "pronunciation": {
+      "respelling": "AUF-roor",
+      "ipa": "ˈaʊ̯fˌʁuːɐ̯",
+      "notes": "Plural: die Aufruhre."
+    },
+    "meaning": "uproar, turmoil, riot",
+    "shortDefinition": "Uproar, turmoil, riot."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Aufruhr, plural die Aufruhre.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Aufruhr"
+        },
+        {
+          "label": "More than one",
+          "value": "die Aufruhre"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Nachricht versetzte die Stadt in Aufruhr.",
+      "english": "The news threw the city into turmoil.",
+      "highlight": [
+        "Aufruhr."
+      ]
+    },
+    {
+      "german": "Ihre Gefühle waren in Aufruhr.",
+      "english": "Her emotions were in turmoil.",
+      "highlight": [
+        "Aufruhr."
+      ]
+    }
+  ],
+  "forms": [
+    "Aufruhre",
+    "der Aufruhr"
+  ],
+  "memoryHook": "Aufruhr: when the Ruhe (calm) is stirred up (auf).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Aufruhr",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Aufruhr is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Aufruhr, zwei ___",
+      "answer": "Aufruhre",
+      "fullAnswer": "ein Aufruhr, zwei Aufruhre",
+      "explanation": "The plural is Aufruhre.",
+      "acceptedAnswers": [
+        "Aufruhre"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Aufruhr mean?",
+      "options": [
+        "the bill",
+        "the child",
+        "uproar"
+      ],
+      "answer": "uproar",
+      "explanation": "Aufruhr: uproar, turmoil, riot.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Aufruhr versetzen means…",
+      "options": [
+        "to throw into turmoil",
+        "to wake up"
+      ],
+      "answer": "to throw into turmoil",
+      "explanation": "Turmoil.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Ruhe is…",
+      "options": [
+        "calm, quiet",
+        "a rule"
+      ],
+      "answer": "calm, quiet",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Aufrührer is…",
+      "options": [
+        "an agitator, rebel",
+        "a cook"
+      ],
+      "answer": "an agitator, rebel",
+      "explanation": "Person.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Aufruhr is uproar, turmoil or riot: in Aufruhr geraten, die Stadt in Aufruhr versetzen, innerer Aufruhr (emotional turmoil). Historically, it meant rebellion against authority, and der Aufrührer is an agitator. It's related to rühren (to stir), not directly Ruhe, though the sense is the opposite of calm. Synonyms: der Tumult, die Unruhe. Plural (rare): die Aufruhre."
+}

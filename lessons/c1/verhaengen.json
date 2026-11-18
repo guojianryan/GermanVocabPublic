@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verhängen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-HENG-en",
+      "ipa": "fɛɐ̯ˈhɛŋən",
+      "notes": ""
+    },
+    "meaning": "to impose (a penalty, ban); to cover",
+    "shortDefinition": "To impose (a penalty, ban); to cover."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verhäng|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verhäng|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verhäng|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verhäng|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verhäng|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verhäng|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verhängt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Regierung verhängte eine Ausgangssperre.",
+      "english": "The government imposed a curfew.",
+      "highlight": [
+        "verhängte"
+      ]
+    },
+    {
+      "german": "Der Schiedsrichter verhängte einen Elfmeter.",
+      "english": "The referee awarded a penalty.",
+      "highlight": [
+        "verhängte"
+      ]
+    }
+  ],
+  "forms": [
+    "verhänge",
+    "verhängst",
+    "verhängt",
+    "verhängen",
+    "Verhängnis",
+    "verhängnisvoll"
+  ],
+  "memoryHook": "Verhängen: hang a penalty over someone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verhängen)",
+      "answer": "verhängt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verhängt.",
+      "acceptedAnswers": [
+        "verhaengt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verhängen, past)",
+      "answer": "verhängt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verhängt.",
+      "acceptedAnswers": [
+        "verhaengt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verhängen mean?",
+      "options": [
+        "the bill",
+        "to impose (a penalty",
+        "to wait"
+      ],
+      "answer": "to impose (a penalty",
+      "explanation": "verhängen: to impose (a penalty, ban); to cover.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sanktionen verhängen means…",
+      "options": [
+        "to impose sanctions",
+        "to lift sanctions"
+      ],
+      "answer": "to impose sanctions",
+      "explanation": "Impose.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Verhängnis is…",
+      "options": [
+        "doom, fate (bad)",
+        "a hanger"
+      ],
+      "answer": "doom, fate (bad)",
+      "explanation": "Fate.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verhängnisvoll means…",
+      "options": [
+        "fateful, disastrous",
+        "decorative"
+      ],
+      "answer": "fateful, disastrous",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verhängen means to impose: eine Strafe verhängen, Sanktionen verhängen, den Ausnahmezustand verhängen (to declare a state of emergency). In football, the referee verhängt einen Elfmeter (awards a penalty). Literally, it also means to cover by hanging something over: ein Fenster verhängen. Das Verhängnis is doom or fate: Das wurde ihm zum Verhängnis (that was his undoing). Not separable: hat verhängt."
+}

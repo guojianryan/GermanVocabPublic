@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Orden",
+    "partOfSpeech": "noun, masculine (der Orden)",
+    "pronunciation": {
+      "respelling": "OR-den",
+      "ipa": "ˈɔʁdn̩",
+      "notes": "Plural: die Orden."
+    },
+    "meaning": "religious order; medal, decoration",
+    "shortDefinition": "Religious order; medal, decoration."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Orden, plural die Orden.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Orden"
+        },
+        {
+          "label": "More than one",
+          "value": "die Orden"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er ist Mitglied eines katholischen Ordens.",
+      "english": "He's a member of a Catholic order.",
+      "highlight": [
+        "Ordens."
+      ]
+    },
+    {
+      "german": "Sie bekam einen Orden für ihre Verdienste.",
+      "english": "She received a decoration for her services.",
+      "highlight": [
+        "Orden"
+      ]
+    }
+  ],
+  "forms": [
+    "die Orden",
+    "der Orden",
+    "Ordensschwester"
+  ],
+  "memoryHook": "Orden: monks wear it as a name, soldiers on their chest.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Orden",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Orden is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Orden, zwei ___",
+      "answer": "Orden",
+      "fullAnswer": "ein Orden, zwei Orden",
+      "explanation": "The plural is Orden.",
+      "acceptedAnswers": [
+        "Orden"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Orden mean?",
+      "options": [
+        "religious order",
+        "the bill",
+        "the door"
+      ],
+      "answer": "religious order",
+      "explanation": "Orden: religious order; medal, decoration.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Two meanings:",
+      "options": [
+        "religious order and medal",
+        "order (command) and tidiness"
+      ],
+      "answer": "religious order and medal",
+      "explanation": "Not a command!",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A command is…",
+      "options": [
+        "ein Befehl",
+        "ein Orden"
+      ],
+      "answer": "ein Befehl",
+      "explanation": "Befehl.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Tidiness is…",
+      "options": [
+        "die Ordnung",
+        "der Orden"
+      ],
+      "answer": "die Ordnung",
+      "explanation": "Ordnung.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Orden is a religious order (der Benediktinerorden, der Jesuitenorden) or a medal: einen Orden verleihen. Germany's highest civilian honour is das Bundesverdienstkreuz, is also an Orden. It's a false friend for English order: a command is ein Befehl, an order in a shop eine Bestellung, and tidiness die Ordnung. Die Ordensschwester is a nun. The plural is the same: die Orden."
+}

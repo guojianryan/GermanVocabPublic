@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Finanzkrise",
+    "partOfSpeech": "noun, feminine (die Finanzkrise)",
+    "pronunciation": {
+      "respelling": "fi-NANTS-kree-ze",
+      "ipa": "fiˈnant͡sˌkʁiːzə",
+      "notes": "Plural: die Finanzkrisen."
+    },
+    "meaning": "financial crisis",
+    "shortDefinition": "Financial crisis."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Finanzkrise, plural die Finanzkrisen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Finanzkrise"
+        },
+        {
+          "label": "More than one",
+          "value": "die Finanzkrisen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Finanzkrise von 2008 erschütterte die Weltwirtschaft.",
+      "english": "The 2008 financial crisis shook the world economy.",
+      "highlight": [
+        "Finanzkrise"
+      ]
+    },
+    {
+      "german": "Viele verloren in der Finanzkrise ihr Erspartes.",
+      "english": "Many lost their savings in the financial crisis.",
+      "highlight": [
+        "Finanzkrise"
+      ]
+    }
+  ],
+  "forms": [
+    "Finanzkrisen",
+    "die Finanzkrisen",
+    "die Finanzkrise"
+  ],
+  "memoryHook": "Finanzkrise: a Krise of the Finanzen.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Finanzkrise",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Finanzkrise is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Finanzkrise, zwei ___",
+      "answer": "Finanzkrisen",
+      "fullAnswer": "ein Finanzkrise, zwei Finanzkrisen",
+      "explanation": "The plural is Finanzkrisen.",
+      "acceptedAnswers": [
+        "Finanzkrisen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Finanzkrise mean?",
+      "options": [
+        "the family",
+        "the car",
+        "financial crisis"
+      ],
+      "answer": "financial crisis",
+      "explanation": "Finanzkrise: financial crisis.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In 2008, Germany introduced…",
+      "options": [
+        "the Abwrackprämie (car scrappage bonus)",
+        "the euro"
+      ],
+      "answer": "the Abwrackprämie (car scrappage bonus)",
+      "explanation": "Stimulus.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Krise is…",
+      "options": [
+        "crisis",
+        "a cross"
+      ],
+      "answer": "crisis",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kurzarbeit means…",
+      "options": [
+        "short-time work (state-subsidised)",
+        "short breaks"
+      ],
+      "answer": "short-time work (state-subsidised)",
+      "explanation": "Kurzarbeit.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Finanzkrise is a financial crisis, especially that of 2008. Germany weathered it relatively well, partly thanks to Kurzarbeit (state-subsidised short-time work that kept people employed) and the Abwrackprämie (a car scrappage bonus). Angela Merkel and her finance minister publicly guaranteed all private savings deposits. The eurozone debt crisis (Eurokrise) followed from 2010. Plural: die Finanzkrisen."
+}

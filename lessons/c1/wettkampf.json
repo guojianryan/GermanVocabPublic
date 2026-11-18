@@ -1,0 +1,156 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wettkampf",
+    "partOfSpeech": "noun, masculine (der Wettkampf)",
+    "pronunciation": {
+      "respelling": "VET-kampf",
+      "ipa": "ˈvɛtˌkampf",
+      "notes": "Plural: die Wettkämpfe."
+    },
+    "meaning": "competition, contest, match",
+    "shortDefinition": "Competition, contest, match."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "Wett",
+        "meaning": "bet, contest",
+        "note": "From die Wette."
+      },
+      {
+        "part": "Kampf",
+        "meaning": "fight"
+      }
+    ],
+    "literalMeaning": "contest-fight"
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Wettkampf, plural die Wettkämpfe.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Wettkampf"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wettkämpfe"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Wettkampf beginnt um zehn Uhr.",
+      "english": "The competition begins at ten o'clock.",
+      "highlight": [
+        "Wettkampf"
+      ]
+    },
+    {
+      "german": "Sie trainiert für den nächsten Wettkampf.",
+      "english": "She's training for the next competition.",
+      "highlight": [
+        "Wettkampf."
+      ]
+    }
+  ],
+  "forms": [
+    "Wettkämpfe",
+    "die Wettkämpfe",
+    "der Wettkampf",
+    "Wettkämpfer"
+  ],
+  "memoryHook": "Wettkampf: a fight, with a bet on top.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wettkampf",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Wettkampf is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wettkampf, zwei ___",
+      "answer": "Wettkämpfe",
+      "fullAnswer": "ein Wettkampf, zwei Wettkämpfe",
+      "explanation": "The plural is Wettkämpfe.",
+      "acceptedAnswers": [
+        "Wettkaempfe"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wettkampf mean?",
+      "options": [
+        "the bread",
+        "competition",
+        "expensive"
+      ],
+      "answer": "competition",
+      "explanation": "Wettkampf: competition, contest, match.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Wettkämpfe",
+        "Wettkampfe"
+      ],
+      "answer": "Wettkämpfe",
+      "explanation": "Umlaut.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wettkampf is used mostly in…",
+      "options": [
+        "sport",
+        "politics"
+      ],
+      "answer": "sport",
+      "explanation": "Athletes.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Wettbewerb is…",
+      "options": [
+        "a competition, also in business",
+        "only a sport"
+      ],
+      "answer": "a competition, also in business",
+      "explanation": "Broader.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kampf means…",
+      "options": [
+        "fight",
+        "camp"
+      ],
+      "answer": "fight",
+      "explanation": "Base.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Der Wettkampf is a sporting competition: Schwimmwettkampf, ein Wettkampf im Turnen. The plural takes an umlaut: die Wettkämpfe. For competition in business or in a general sense, German prefers der Wettbewerb. The word comes from die Wette (bet) and der Kampf (fight). A competitor is der Wettkämpfer, or more commonly der Teilnehmer or der Sportler."
+}

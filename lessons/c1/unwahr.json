@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "unwahr",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "UN-vaar",
+      "ipa": "ˈʊnvaːɐ̯",
+      "notes": ""
+    },
+    "meaning": "untrue, false",
+    "shortDefinition": "Untrue, false."
+  },
+  "sampleSentences": [
+    {
+      "german": "Diese Behauptung ist unwahr.",
+      "english": "This claim is untrue.",
+      "highlight": [
+        "unwahr."
+      ]
+    },
+    {
+      "german": "Er verbreitete unwahre Tatsachen.",
+      "english": "He spread false facts.",
+      "highlight": [
+        "unwahre"
+      ]
+    }
+  ],
+  "forms": [
+    "unwahre",
+    "unwahren",
+    "Unwahrheit"
+  ],
+  "memoryHook": "Unwahr: not (un) wahr (true).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does unwahr mean?",
+      "options": [
+        "tomorrow",
+        "untrue",
+        "the evening"
+      ],
+      "answer": "untrue",
+      "explanation": "unwahr: untrue, false.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Unwahrheit sagen means…",
+      "options": [
+        "to lie, tell an untruth",
+        "to be unsure"
+      ],
+      "answer": "to lie, tell an untruth",
+      "explanation": "Phrase.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unwahrscheinlich means…",
+      "options": [
+        "unlikely",
+        "untrue"
+      ],
+      "answer": "unlikely",
+      "explanation": "Contrast.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unwahre Tatsachenbehauptungen are…",
+      "options": [
+        "false statements of fact (legal term)",
+        "fiction"
+      ],
+      "answer": "false statements of fact (legal term)",
+      "explanation": "Law.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Aussage (untrue)",
+      "answer": "unwahre",
+      "fullAnswer": "eine unwahre Aussage",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Unwahr means untrue or false: eine unwahre Behauptung. It's more formal than falsch and common in law: unwahre Tatsachenbehauptungen (false statements of fact) are not protected as free opinion and can be prohibited. Die Unwahrheit sagen is a polite way to say lügen. Don't confuse it with unwahrscheinlich (unlikely)."
+}

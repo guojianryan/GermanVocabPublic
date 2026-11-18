@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Verschleierung",
+    "partOfSpeech": "noun, feminine (die Verschleierung)",
+    "pronunciation": {
+      "respelling": "fer-SHLAI-e-rung",
+      "ipa": "fɛɐ̯ˈʃlaɪ̯əʁʊŋ",
+      "notes": "Plural: die Verschleierungen."
+    },
+    "meaning": "concealment, obfuscation; veiling",
+    "shortDefinition": "Concealment, obfuscation; veiling."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Verschleierung, plural die Verschleierungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Verschleierung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Verschleierungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ihm wird die Verschleierung von Bilanzen vorgeworfen.",
+      "english": "He's accused of concealing accounts.",
+      "highlight": [
+        "Verschleierung"
+      ]
+    },
+    {
+      "german": "Das ist eine Verschleierung der wahren Kosten.",
+      "english": "That's an obfuscation of the true costs.",
+      "highlight": [
+        "Verschleierung"
+      ]
+    }
+  ],
+  "forms": [
+    "Verschleierungen",
+    "die Verschleierung"
+  ],
+  "memoryHook": "Verschleierung: throwing a Schleier (veil) over the truth.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Verschleierung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Verschleierung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Verschleierung, zwei ___",
+      "answer": "Verschleierungen",
+      "fullAnswer": "ein Verschleierung, zwei Verschleierungen",
+      "explanation": "The plural is Verschleierungen.",
+      "acceptedAnswers": [
+        "Verschleierungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Verschleierung mean?",
+      "options": [
+        "to sleep",
+        "concealment",
+        "the flower"
+      ],
+      "answer": "concealment",
+      "explanation": "Verschleierung: concealment, obfuscation; veiling.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verschleiern means…",
+      "options": [
+        "to veil; to cover up",
+        "to sleep"
+      ],
+      "answer": "to veil; to cover up",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schleier is…",
+      "options": [
+        "veil",
+        "a sleigh"
+      ],
+      "answer": "veil",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schleierhaft means…",
+      "options": [
+        "mysterious, baffling",
+        "veiled woman"
+      ],
+      "answer": "mysterious, baffling",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Verschleierung is concealment or obfuscation: die Verschleierung von Tatsachen, Geldwäsche zur Verschleierung der Herkunft. It also means veiling, as with a face veil (die Vollverschleierung). Verschleiern means to veil or cover up. Der Schleier is a veil, and schleierhaft means baffling: Das ist mir schleierhaft (it's a mystery to me). Plural: die Verschleierungen."
+}

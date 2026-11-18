@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "beisteuern",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "BAI-shtoy-ern",
+      "ipa": "ˈbaɪ̯ˌʃtɔɪ̯ɐn",
+      "notes": ""
+    },
+    "meaning": "to contribute",
+    "shortDefinition": "To contribute."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "steuer|e … |bei"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "steuer|st … |bei"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "steuer|t … |bei"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "steuer|n … |bei"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "steuer|t … |bei"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "steuer|n … |bei"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat beigesteuert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Jeder steuert etwas zum Buffet bei.",
+      "english": "Everyone contributes something to the buffet.",
+      "highlight": [
+        "steuert",
+        "bei."
+      ]
+    },
+    {
+      "german": "Er hat zwei Songs zum Album beigesteuert.",
+      "english": "He contributed two songs to the album.",
+      "highlight": [
+        "beigesteuert."
+      ]
+    }
+  ],
+  "forms": [
+    "steuere bei",
+    "steuerst bei",
+    "steuert bei",
+    "steuern bei",
+    "beigesteuert",
+    "steuerte bei"
+  ],
+  "memoryHook": "Beisteuern: add (bei) your share, like a Steuer (tax).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … bei (beisteuern)",
+      "answer": "steuert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: steuert … bei.",
+      "acceptedAnswers": [
+        "steuert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (beisteuern, past)",
+      "answer": "beigesteuert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe beigesteuert.",
+      "acceptedAnswers": [
+        "beigesteuert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does beisteuern mean?",
+      "options": [
+        "to contribute",
+        "the bed",
+        "the window"
+      ],
+      "answer": "to contribute",
+      "explanation": "beisteuern: to contribute.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Beisteuern zu takes…",
+      "options": [
+        "zu + dative",
+        "für + accusative only"
+      ],
+      "answer": "zu + dative",
+      "explanation": "Preposition.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "beitragen",
+        "wegnehmen"
+      ],
+      "answer": "beitragen",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Steuer (f.) is…",
+      "options": [
+        "tax",
+        "steering wheel"
+      ],
+      "answer": "tax",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Beisteuern means to contribute: Geld, Ideen, einen Kuchen beisteuern, etwas zum Gelingen beisteuern. It's close to beitragen, but often more concrete. It comes from die Steuer (tax), originally a contribution. Das Steuer (neuter) is a steering wheel. Separable: steuerte bei, beigesteuert."
+}

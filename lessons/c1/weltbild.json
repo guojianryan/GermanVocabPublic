@@ -1,0 +1,155 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Weltbild",
+    "partOfSpeech": "noun, neuter (das Weltbild)",
+    "pronunciation": {
+      "respelling": "VELT-bilt",
+      "ipa": "ˈvɛltˌbɪlt",
+      "notes": "Plural: die Weltbilder."
+    },
+    "meaning": "worldview",
+    "shortDefinition": "Worldview."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "Welt",
+        "meaning": "world"
+      },
+      {
+        "part": "Bild",
+        "meaning": "picture"
+      }
+    ],
+    "literalMeaning": "world picture"
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Weltbild, plural die Weltbilder.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Weltbild"
+        },
+        {
+          "label": "More than one",
+          "value": "die Weltbilder"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sein Weltbild geriet ins Wanken.",
+      "english": "His worldview began to waver.",
+      "highlight": [
+        "Weltbild"
+      ]
+    },
+    {
+      "german": "Die Reise hat mein Weltbild verändert.",
+      "english": "The journey changed my view of the world.",
+      "highlight": [
+        "Weltbild"
+      ]
+    }
+  ],
+  "forms": [
+    "Weltbilder",
+    "die Weltbilder",
+    "das Weltbild",
+    "Weltanschauung"
+  ],
+  "memoryHook": "Weltbild: the picture you hold of the world.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Weltbild",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Weltbild is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Weltbild, zwei ___",
+      "answer": "Weltbilder",
+      "fullAnswer": "ein Weltbild, zwei Weltbilder",
+      "explanation": "The plural is Weltbilder.",
+      "acceptedAnswers": [
+        "Weltbilder"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Weltbild mean?",
+      "options": [
+        "worldview",
+        "always",
+        "the shop"
+      ],
+      "answer": "worldview",
+      "explanation": "Weltbild: worldview.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Literally:",
+      "options": [
+        "world picture",
+        "world map"
+      ],
+      "answer": "world picture",
+      "explanation": "Welt + Bild.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Weltbilder",
+        "Weltbilde"
+      ],
+      "answer": "Weltbilder",
+      "explanation": "-er.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Weltanschauung is…",
+      "options": [
+        "a related, more philosophical word",
+        "a travel guide"
+      ],
+      "answer": "a related, more philosophical word",
+      "explanation": "German loan in English.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein geschlossenes Weltbild means…",
+      "options": [
+        "a closed, rigid worldview",
+        "a closed picture"
+      ],
+      "answer": "a closed, rigid worldview",
+      "explanation": "Rigid.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Das Weltbild is a person's or a society's worldview, the picture of the world they carry: das mittelalterliche Weltbild, ein geschlossenes Weltbild. Das Weltbild geriet ins Wanken means that the worldview was shaken. A near synonym is die Weltanschauung, which English borrowed as a philosophical term. Also: das Menschenbild (the image of man). The plural is Weltbilder."
+}

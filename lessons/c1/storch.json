@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Storch",
+    "partOfSpeech": "noun, masculine (der Storch)",
+    "pronunciation": {
+      "respelling": "shtorkh",
+      "ipa": "ʃtɔʁç",
+      "notes": "Plural: die Störche."
+    },
+    "meaning": "stork",
+    "shortDefinition": "Stork."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Storch, plural die Störche.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Storch"
+        },
+        {
+          "label": "More than one",
+          "value": "die Störche"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Auf dem Kirchturm nistet ein Storch.",
+      "english": "A stork is nesting on the church tower.",
+      "highlight": [
+        "Storch."
+      ]
+    },
+    {
+      "german": "Die Störche kommen im März aus Afrika zurück.",
+      "english": "The storks come back from Africa in March.",
+      "highlight": [
+        "Störche"
+      ]
+    }
+  ],
+  "forms": [
+    "Störche",
+    "die Störche",
+    "der Storch"
+  ],
+  "memoryHook": "Storch: the bird that brings babies (in folklore).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Storch",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Storch is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Storch, zwei ___",
+      "answer": "Störche",
+      "fullAnswer": "ein Storch, zwei Störche",
+      "explanation": "The plural is Störche.",
+      "acceptedAnswers": [
+        "Stoerche"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Storch mean?",
+      "options": [
+        "to sing",
+        "stork",
+        "the child"
+      ],
+      "answer": "stork",
+      "explanation": "Storch: stork.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Störche",
+        "die Storche"
+      ],
+      "answer": "die Störche",
+      "explanation": "Umlaut.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Children were told babies were brought by…",
+      "options": [
+        "the stork",
+        "the hare"
+      ],
+      "answer": "the stork",
+      "explanation": "Folklore.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Klapperstorch is…",
+      "options": [
+        "a children's word for stork",
+        "a rattle"
+      ],
+      "answer": "a children's word for stork",
+      "explanation": "Clatter.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Storch is a stork; in German folklore, der Klapperstorch brings babies, and children were told so for generations. White storks nest on roofs and church towers, and the village of Rühstädt in Brandenburg calls itself Europe's stork village. Most German storks migrate to Africa in August and return in spring, though more now winter in Spain. Wie der Storch im Salat means walking stiffly. Plural: die Störche."
+}

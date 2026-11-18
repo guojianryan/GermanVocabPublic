@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "schleifen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHLAI-fen",
+      "ipa": "ˈʃlaɪ̯fn̩",
+      "notes": ""
+    },
+    "meaning": "to sharpen, grind; (regular) to drag",
+    "shortDefinition": "To sharpen, grind; (regular) to drag."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schleif|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schleif|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schleif|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schleif|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schleif|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schleif|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geschliffen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er schleift das Messer.",
+      "english": "He's sharpening the knife.",
+      "highlight": [
+        "schleift"
+      ]
+    },
+    {
+      "german": "Sie schleifte den schweren Koffer hinter sich her.",
+      "english": "She dragged the heavy suitcase behind her.",
+      "highlight": [
+        "schleifte"
+      ]
+    }
+  ],
+  "forms": [
+    "schleife",
+    "schleifst",
+    "schleift",
+    "schleifen",
+    "geschliffen",
+    "schliff",
+    "Schleife"
+  ],
+  "memoryHook": "Schleifen: sharpen (schliff) or drag (schleifte).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (schleifen)",
+      "answer": "schleift",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schleift.",
+      "acceptedAnswers": [
+        "schleift"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (schleifen, past)",
+      "answer": "geschliffen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geschliffen.",
+      "acceptedAnswers": [
+        "geschliffen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does schleifen mean?",
+      "options": [
+        "to help",
+        "to sharpen",
+        "to travel"
+      ],
+      "answer": "to sharpen",
+      "explanation": "schleifen: to sharpen, grind; (regular) to drag.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schleifen (to sharpen) past forms:",
+      "options": [
+        "schliff, geschliffen",
+        "schleifte, geschleift"
+      ],
+      "answer": "schliff, geschliffen",
+      "explanation": "Irregular.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schleifen (to drag) past forms:",
+      "options": [
+        "schleifte, geschleift",
+        "schliff, geschliffen"
+      ],
+      "answer": "schleifte, geschleift",
+      "explanation": "Regular.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schleife is…",
+      "options": [
+        "a bow, loop",
+        "a grinder"
+      ],
+      "answer": "a bow, loop",
+      "explanation": "Bow.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Schleifen has two meanings with different past forms. Irregular schleifen (schliff, geschliffen) means to sharpen, grind or polish: ein Messer schleifen, geschliffenes Glas, and geschliffen also means polished or elegant: eine geschliffene Rede. Regular schleifen (schleifte, geschleift) means to drag: etwas über den Boden schleifen. Die Schleife is a bow or loop: eine Schleife binden, in der Warteschleife (on hold)."
+}

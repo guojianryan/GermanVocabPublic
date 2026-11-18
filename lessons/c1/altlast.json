@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Altlast",
+    "partOfSpeech": "noun, feminine (die Altlast)",
+    "pronunciation": {
+      "respelling": "ALT-last",
+      "ipa": "ˈaltˌlast",
+      "notes": "Plural: die Altlasten."
+    },
+    "meaning": "contaminated site; legacy problem",
+    "shortDefinition": "Contaminated site; legacy problem."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Altlast, plural die Altlasten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Altlast"
+        },
+        {
+          "label": "More than one",
+          "value": "die Altlasten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Auf dem Gelände der alten Fabrik gibt es Altlasten.",
+      "english": "There is contamination on the site of the old factory.",
+      "highlight": [
+        "Altlasten."
+      ]
+    },
+    {
+      "german": "Die neue Regierung kämpft mit den Altlasten ihrer Vorgänger.",
+      "english": "The new government struggles with its predecessors' legacy problems.",
+      "highlight": [
+        "Altlasten"
+      ]
+    }
+  ],
+  "forms": [
+    "Altlasten",
+    "die Altlast"
+  ],
+  "memoryHook": "Altlast: an alte (old) Last (burden).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Altlast",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Altlast is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Altlast, zwei ___",
+      "answer": "Altlasten",
+      "fullAnswer": "ein Altlast, zwei Altlasten",
+      "explanation": "The plural is Altlasten.",
+      "acceptedAnswers": [
+        "Altlasten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Altlast mean?",
+      "options": [
+        "the window",
+        "contaminated site",
+        "the bill"
+      ],
+      "answer": "contaminated site",
+      "explanation": "Altlast: contaminated site; legacy problem.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Literally, Altlasten are…",
+      "options": [
+        "old burdens (polluted ground)",
+        "old loads of cargo"
+      ],
+      "answer": "old burdens (polluted ground)",
+      "explanation": "Meaning.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, Altlasten are…",
+      "options": [
+        "inherited problems",
+        "old friends"
+      ],
+      "answer": "inherited problems",
+      "explanation": "Figurative.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Last is…",
+      "options": [
+        "burden, load",
+        "the last"
+      ],
+      "answer": "burden, load",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Altlast, usually plural, is a contaminated site, soil or groundwater polluted by former industry, landfill or military use. Cleaning up Altlasten (Altlastensanierung) was a huge task in eastern Germany after 1990. Figuratively, Altlasten are inherited problems: Die Firma kämpft mit Altlasten. Die Last means burden or load. Plural: die Altlasten."
+}

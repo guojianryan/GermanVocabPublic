@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Biotechnologie",
+    "partOfSpeech": "noun, feminine (die Biotechnologie)",
+    "pronunciation": {
+      "respelling": "bee-o-tekh-no-lo-GEE",
+      "ipa": "ˈbiːotɛçnoloˌɡiː",
+      "notes": "Plural: die Biotechnologien."
+    },
+    "meaning": "biotechnology",
+    "shortDefinition": "Biotechnology."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Biotechnologie, plural die Biotechnologien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Biotechnologie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Biotechnologien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Mainz ist ein Zentrum der Biotechnologie.",
+      "english": "Mainz is a centre of biotechnology.",
+      "highlight": [
+        "Biotechnologie."
+      ]
+    },
+    {
+      "german": "Die Biotechnologie entwickelt neue Medikamente.",
+      "english": "Biotechnology develops new medicines.",
+      "highlight": [
+        "Biotechnologie"
+      ]
+    }
+  ],
+  "forms": [
+    "Biotechnologien",
+    "die Biotechnologie"
+  ],
+  "memoryHook": "Biotechnologie: Technologie using living (bio) systems.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Biotechnologie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Biotechnologie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Biotechnologie, zwei ___",
+      "answer": "Biotechnologien",
+      "fullAnswer": "ein Biotechnologie, zwei Biotechnologien",
+      "explanation": "The plural is Biotechnologien.",
+      "acceptedAnswers": [
+        "Biotechnologien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Biotechnologie mean?",
+      "options": [
+        "the window",
+        "the family",
+        "biotechnology"
+      ],
+      "answer": "biotechnology",
+      "explanation": "Biotechnologie: biotechnology.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "BioNTech, based in Mainz, developed…",
+      "options": [
+        "one of the first COVID-19 mRNA vaccines",
+        "the first antibiotic"
+      ],
+      "answer": "one of the first COVID-19 mRNA vaccines",
+      "explanation": "BioNTech.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gentechnik is…",
+      "options": [
+        "genetic engineering",
+        "gentle technology"
+      ],
+      "answer": "genetic engineering",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Short form:",
+      "options": [
+        "die Biotech",
+        "die Bio"
+      ],
+      "answer": "die Biotech",
+      "explanation": "Short.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Biotechnologie is biotechnology. Germany's best-known example is BioNTech in Mainz, founded by Uğur Şahin and Özlem Türeci, which with Pfizer developed one of the first approved COVID-19 mRNA vaccines in 2020. Rote Biotechnologie is medical, grüne agricultural, and weiße industrial. Genetically modified crops (Gentechnik) remain unpopular in Germany. Plural: die Biotechnologien."
+}

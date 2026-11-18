@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Chemikalie",
+    "partOfSpeech": "noun, feminine (die Chemikalie)",
+    "pronunciation": {
+      "respelling": "khe-mi-KAA-lye",
+      "ipa": "çemiˈkaːli̯ə",
+      "notes": "Plural: die Chemikalien."
+    },
+    "meaning": "chemical",
+    "shortDefinition": "Chemical."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Chemikalie, plural die Chemikalien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Chemikalie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Chemikalien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In der Fabrik werden giftige Chemikalien verwendet.",
+      "english": "Toxic chemicals are used in the factory.",
+      "highlight": [
+        "Chemikalien"
+      ]
+    },
+    {
+      "german": "Das Putzmittel enthält aggressive Chemikalien.",
+      "english": "The cleaning product contains harsh chemicals.",
+      "highlight": [
+        "Chemikalien."
+      ]
+    }
+  ],
+  "forms": [
+    "Chemikalien",
+    "die Chemikalien",
+    "die Chemikalie"
+  ],
+  "memoryHook": "Chemikalie: a substance from Chemie.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Chemikalie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Chemikalie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Chemikalie, zwei ___",
+      "answer": "Chemikalien",
+      "fullAnswer": "ein Chemikalie, zwei Chemikalien",
+      "explanation": "The plural is Chemikalien.",
+      "acceptedAnswers": [
+        "Chemikalien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Chemikalie mean?",
+      "options": [
+        "to open",
+        "quiet",
+        "chemical"
+      ],
+      "answer": "chemical",
+      "explanation": "Chemikalie: chemical.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mostly used in the…",
+      "options": [
+        "plural (Chemikalien)",
+        "singular"
+      ],
+      "answer": "plural (Chemikalien)",
+      "explanation": "Plural.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ch in Chemie is pronounced (standard)…",
+      "options": [
+        "like ch in ich",
+        "like k only"
+      ],
+      "answer": "like ch in ich",
+      "explanation": "Standard: çe-; south: ke-.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's largest chemical company:",
+      "options": [
+        "BASF",
+        "Siemens"
+      ],
+      "answer": "BASF",
+      "explanation": "BASF.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Chemikalie, mostly used in the plural Chemikalien, is a chemical: gefährliche Chemikalien, Haushaltschemikalien. Germany's chemical industry is huge, led by BASF in Ludwigshafen, Bayer and Evonik. The ch in Chemie is pronounced like in ich in the north (çe-MEE) and like k in the south and Austria (ke-MEE), and both are correct. The EU regulates chemicals under REACH, based in Helsinki. Plural: die Chemikalien."
+}

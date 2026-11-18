@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schelm",
+    "partOfSpeech": "noun, masculine (der Schelm)",
+    "pronunciation": {
+      "respelling": "SHELM",
+      "ipa": "ʃɛlm",
+      "notes": "Plural: die Schelme."
+    },
+    "meaning": "rogue, prankster, rascal",
+    "shortDefinition": "Rogue, prankster, rascal."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schelm, plural die Schelme.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schelm"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schelme"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der kleine Schelm hat meine Brille versteckt.",
+      "english": "The little rascal hid my glasses.",
+      "highlight": [
+        "Schelm"
+      ]
+    },
+    {
+      "german": "Till Eulenspiegel ist der bekannteste Schelm der deutschen Literatur.",
+      "english": "Till Eulenspiegel is the best-known prankster of German literature.",
+      "highlight": [
+        "Schelm"
+      ]
+    }
+  ],
+  "forms": [
+    "Schelme",
+    "der Schelm"
+  ],
+  "memoryHook": "Schelm: once a villain, now a playful rogue.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schelm",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schelm is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schelm, zwei ___",
+      "answer": "Schelme",
+      "fullAnswer": "ein Schelm, zwei Schelme",
+      "explanation": "The plural is Schelme.",
+      "acceptedAnswers": [
+        "Schelme"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schelm mean?",
+      "options": [
+        "tomorrow",
+        "expensive",
+        "rogue"
+      ],
+      "answer": "rogue",
+      "explanation": "Schelm: rogue, prankster, rascal.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schelmenroman is…",
+      "options": [
+        "picaresque novel",
+        "crime novel"
+      ],
+      "answer": "picaresque novel",
+      "explanation": "Literature.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schelmisch means…",
+      "options": [
+        "roguish, mischievous",
+        "shameful"
+      ],
+      "answer": "roguish, mischievous",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Schelm, wer Böses dabei denkt means…",
+      "options": [
+        "honi soit qui mal y pense",
+        "evil is good"
+      ],
+      "answer": "honi soit qui mal y pense",
+      "explanation": "Saying.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Schelm is a rogue, prankster or rascal, today usually affectionate: ein kleiner Schelm, ein schelmisches Lächeln. In the Middle Ages it was a harsh insult. Till Eulenspiegel is the classic German Schelm, and Grimmelshausen's Simplicissimus (1668) is the great German Schelmenroman (picaresque novel). Ein Schelm, wer Böses dabei denkt is an ironic way to hint at a suspicious coincidence. Plural: die Schelme."
+}

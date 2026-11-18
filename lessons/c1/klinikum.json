@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Klinikum",
+    "partOfSpeech": "noun, neuter (das Klinikum)",
+    "pronunciation": {
+      "respelling": "KLEE-ni-kum",
+      "ipa": "ˈkliːnikʊm",
+      "notes": "Plural: die Klinika."
+    },
+    "meaning": "hospital (large), medical centre",
+    "shortDefinition": "Hospital (large), medical centre."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Klinikum, plural die Klinika.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Klinikum"
+        },
+        {
+          "label": "More than one",
+          "value": "die Klinika"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie arbeitet als Ärztin im Klinikum.",
+      "english": "She works as a doctor at the hospital.",
+      "highlight": [
+        "Klinikum."
+      ]
+    },
+    {
+      "german": "Das Universitätsklinikum ist das größte der Region.",
+      "english": "The university hospital is the largest in the region.",
+      "highlight": [
+        "Universitätsklinikum"
+      ]
+    }
+  ],
+  "forms": [
+    "Klinika",
+    "Kliniken",
+    "das Klinikum",
+    "Universitätsklinikum"
+  ],
+  "memoryHook": "Klinikum: a big complex of Kliniken.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Klinikum",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Klinikum is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Klinikum, zwei ___",
+      "answer": "Klinika",
+      "fullAnswer": "ein Klinikum, zwei Klinika",
+      "explanation": "The plural is Klinika.",
+      "acceptedAnswers": [
+        "Klinika"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Klinikum mean?",
+      "options": [
+        "hospital (large)",
+        "to sing",
+        "cheap"
+      ],
+      "answer": "hospital (large)",
+      "explanation": "Klinikum: hospital (large), medical centre.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Klinika or Kliniken",
+        "die Klinikums"
+      ],
+      "answer": "die Klinika or Kliniken",
+      "explanation": "Latin.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Charité in Berlin is…",
+      "options": [
+        "a famous university hospital",
+        "a charity shop"
+      ],
+      "answer": "a famous university hospital",
+      "explanation": "Charité.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Klinik usually means…",
+      "options": [
+        "a (specialised) hospital, clinic",
+        "a doctor's practice"
+      ],
+      "answer": "a (specialised) hospital, clinic",
+      "explanation": "Klinik.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Klinikum is a large hospital or medical centre, often with many departments: das Universitätsklinikum (Uniklinik), das Städtische Klinikum. Berlin's Charité, founded in 1710, is one of Europe's largest university hospitals, where Robert Koch and Rudolf Virchow worked. Die Klinik is a hospital or specialised clinic; a doctor's practice is die Praxis. Plural: die Klinika or die Kliniken."
+}

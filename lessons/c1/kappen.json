@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "kappen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "KA-pen",
+      "ipa": "ˈkapn̩",
+      "notes": ""
+    },
+    "meaning": "to cut, sever; to cap",
+    "shortDefinition": "To cut, sever; to cap."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "kapp|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "kapp|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "kapp|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "kapp|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "kapp|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "kapp|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gekappt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Verbindung wurde gekappt.",
+      "english": "The connection was cut.",
+      "highlight": [
+        "gekappt."
+      ]
+    },
+    {
+      "german": "Die Regierung will die Managergehälter kappen.",
+      "english": "The government wants to cap executive salaries.",
+      "highlight": [
+        "kappen."
+      ]
+    }
+  ],
+  "forms": [
+    "kappe",
+    "kappst",
+    "kappt",
+    "kappen",
+    "gekappt",
+    "Kappung"
+  ],
+  "memoryHook": "Kappen: cut something off short.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (kappen)",
+      "answer": "kappt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: kappt.",
+      "acceptedAnswers": [
+        "kappt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (kappen, past)",
+      "answer": "gekappt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gekappt.",
+      "acceptedAnswers": [
+        "gekappt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does kappen mean?",
+      "options": [
+        "the flower",
+        "to cut",
+        "the street"
+      ],
+      "answer": "to cut",
+      "explanation": "kappen: to cut, sever; to cap.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Leinen kappen means…",
+      "options": [
+        "to cut the lines (cut ties)",
+        "to tie the lines"
+      ],
+      "answer": "to cut the lines (cut ties)",
+      "explanation": "Cut ties.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kappung is…",
+      "options": [
+        "capping, cut",
+        "a cap (hat)"
+      ],
+      "answer": "capping, cut",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kappe is…",
+      "options": [
+        "cap (hat, lid)",
+        "cape"
+      ],
+      "answer": "cap (hat, lid)",
+      "explanation": "Different.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Kappen means to cut or sever (ein Seil, ein Kabel, die Verbindung kappen) and to cap: Gehälter, Mieten kappen. Die Kappungsgrenze in German rental law limits rent increases to 15 to 20 percent over three years. Die Leinen kappen means to cut ties, originally a sailor's term. Die Kappe is a cap or lid: auf meine Kappe (my responsibility). Regular: kappte, gekappt."
+}

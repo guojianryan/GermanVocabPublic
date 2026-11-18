@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Leerlauf",
+    "partOfSpeech": "noun, masculine (der Leerlauf)",
+    "pronunciation": {
+      "respelling": "LAYR-lauf",
+      "ipa": "ˈleːɐ̯ˌlaʊ̯f",
+      "notes": "Usually no plural."
+    },
+    "meaning": "neutral (gear); idle time",
+    "shortDefinition": "Neutral (gear); idle time."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Leerlauf, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Leerlauf"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Schalte in den Leerlauf, bevor du startest.",
+      "english": "Put it in neutral before you start.",
+      "highlight": [
+        "Leerlauf,"
+      ]
+    },
+    {
+      "german": "Im Büro gibt es viel Leerlauf.",
+      "english": "There's a lot of idle time in the office.",
+      "highlight": [
+        "Leerlauf."
+      ]
+    }
+  ],
+  "forms": [
+    "der Leerlauf",
+    "Leerlaufs"
+  ],
+  "memoryHook": "Leerlauf: running (Lauf) empty (leer).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Leerlauf",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Leerlauf is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Leerlauf mean?",
+      "options": [
+        "expensive",
+        "neutral (gear)",
+        "the job"
+      ],
+      "answer": "neutral (gear)",
+      "explanation": "Leerlauf: neutral (gear); idle time.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "In a car, der Leerlauf is…",
+      "options": [
+        "neutral",
+        "reverse"
+      ],
+      "answer": "neutral",
+      "explanation": "Car.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, Leerlauf means…",
+      "options": [
+        "unproductive idle time",
+        "a jogging route"
+      ],
+      "answer": "unproductive idle time",
+      "explanation": "Figurative.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Leer means…",
+      "options": [
+        "empty",
+        "learn"
+      ],
+      "answer": "empty",
+      "explanation": "Root.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Leerlauf is neutral in a car, when the engine runs without driving the wheels: in den Leerlauf schalten. Figuratively, it's idle, unproductive time: Leerlauf im Job, im Projekt. Leer means empty: leer ausgehen (to come away empty-handed). Synonyms for the figurative sense: der Stillstand, die Flaute (lull). It has no plural."
+}

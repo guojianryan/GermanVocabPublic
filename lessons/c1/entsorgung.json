@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Entsorgung",
+    "partOfSpeech": "noun, feminine (die Entsorgung)",
+    "pronunciation": {
+      "respelling": "ent-ZOR-gung",
+      "ipa": "ɛntˈzɔʁɡʊŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "disposal (of waste)",
+    "shortDefinition": "Disposal (of waste)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Entsorgung, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Entsorgung"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Entsorgung von Sondermüll ist teuer.",
+      "english": "Disposing of hazardous waste is expensive.",
+      "highlight": [
+        "Entsorgung"
+      ]
+    },
+    {
+      "german": "Die Stadt kümmert sich um die Entsorgung des Sperrmülls.",
+      "english": "The city takes care of disposing of bulky waste.",
+      "highlight": [
+        "Entsorgung"
+      ]
+    }
+  ],
+  "forms": [
+    "die Entsorgung",
+    "entsorgen"
+  ],
+  "memoryHook": "Entsorgung: freeing (ent-) you of a Sorge (care).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Entsorgung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Entsorgung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Entsorgung mean?",
+      "options": [
+        "cheap",
+        "disposal (of waste)",
+        "the bread"
+      ],
+      "answer": "disposal (of waste)",
+      "explanation": "Entsorgung: disposal (of waste).",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Entsorgen means…",
+      "options": [
+        "to dispose of",
+        "to worry"
+      ],
+      "answer": "to dispose of",
+      "explanation": "Verb.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Sperrmüll is…",
+      "options": [
+        "bulky waste (furniture etc.)",
+        "locked rubbish"
+      ],
+      "answer": "bulky waste (furniture etc.)",
+      "explanation": "Bulky.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Wertstoffhof is…",
+      "options": [
+        "a recycling centre",
+        "a treasury"
+      ],
+      "answer": "a recycling centre",
+      "explanation": "Recycling.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Entsorgung is waste disposal: die Entsorgung von Altöl, Elektroschrott, Sperrmüll (bulky items like furniture, collected by appointment). Germany has an elaborate sorting system: Restmüll, Biomüll, Papier, Gelber Sack (packaging) and bottles via Pfand (deposit). Der Wertstoffhof is a recycling centre. Entsorgen means to dispose of, literally to free from worry (Sorge). The search for a nuclear waste site (Endlager) continues. It has no plural."
+}

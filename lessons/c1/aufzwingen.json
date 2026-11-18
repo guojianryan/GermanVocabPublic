@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "aufzwingen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AUF-tsving-en",
+      "ipa": "ˈaʊ̯fˌt͡svɪŋən",
+      "notes": ""
+    },
+    "meaning": "to force (something) on (someone)",
+    "shortDefinition": "To force (something) on (someone)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "zwing|e … |auf"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "zwing|st … |auf"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "zwing|t … |auf"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "zwing|en … |auf"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "zwing|t … |auf"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "zwing|en … |auf"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat aufgezwungen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Man kann niemandem seine Meinung aufzwingen.",
+      "english": "You can't force your opinion on anyone.",
+      "highlight": [
+        "aufzwingen."
+      ]
+    },
+    {
+      "german": "Die Sieger zwangen dem Land einen harten Frieden auf.",
+      "english": "The victors imposed a harsh peace on the country.",
+      "highlight": [
+        "zwangen",
+        "auf."
+      ]
+    }
+  ],
+  "forms": [
+    "zwinge auf",
+    "zwingst auf",
+    "zwingt auf",
+    "zwingen auf",
+    "aufgezwungen",
+    "zwang auf"
+  ],
+  "memoryHook": "Aufzwingen: zwingen (force) something auf (onto) someone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … auf (aufzwingen)",
+      "answer": "zwingt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: zwingt … auf.",
+      "acceptedAnswers": [
+        "zwingt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (aufzwingen, past)",
+      "answer": "aufgezwungen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe aufgezwungen.",
+      "acceptedAnswers": [
+        "aufgezwungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does aufzwingen mean?",
+      "options": [
+        "the window",
+        "expensive",
+        "to force (something) on (someone)"
+      ],
+      "answer": "to force (something) on (someone)",
+      "explanation": "aufzwingen: to force (something) on (someone).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Aufzwingen takes…",
+      "options": [
+        "dative person + accusative thing",
+        "two accusatives"
+      ],
+      "answer": "dative person + accusative thing",
+      "explanation": "Grammar.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "zwang auf, aufgezwungen",
+        "zwingte auf"
+      ],
+      "answer": "zwang auf, aufgezwungen",
+      "explanation": "Irregular.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "aufdrängen, aufnötigen",
+        "anbieten"
+      ],
+      "answer": "aufdrängen, aufnötigen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Aufzwingen means to force something on someone, with dative person and accusative thing: jemandem seinen Willen, eine Lösung, ein System aufzwingen. A milder synonym is aufdrängen (to push on someone). Sich aufzwingen also means to impose itself: Der Gedanke zwingt sich auf. Separable and irregular like zwingen: zwang auf, aufgezwungen."
+}

@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "erkaufen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "er-KAU-fen",
+      "ipa": "ɛɐ̯ˈkaʊ̯fn̩",
+      "notes": ""
+    },
+    "meaning": "to buy, gain at a price",
+    "shortDefinition": "To buy, gain at a price."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "erkauf|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "erkauf|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "erkauf|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "erkauf|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "erkauf|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "erkauf|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat erkauft"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Sieg wurde teuer erkauft.",
+      "english": "The victory was dearly bought.",
+      "highlight": [
+        "erkauft."
+      ]
+    },
+    {
+      "german": "Er versuchte, sich Freundschaft zu erkaufen.",
+      "english": "He tried to buy friendship.",
+      "highlight": [
+        "erkaufen."
+      ]
+    }
+  ],
+  "forms": [
+    "erkaufe",
+    "erkaufst",
+    "erkauft",
+    "erkaufen"
+  ],
+  "memoryHook": "Erkaufen: obtain by kaufen (paying), often a price in sacrifice.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (erkaufen)",
+      "answer": "erkauft",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: erkauft.",
+      "acceptedAnswers": [
+        "erkauft"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (erkaufen, past)",
+      "answer": "erkauft",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe erkauft.",
+      "acceptedAnswers": [
+        "erkauft"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does erkaufen mean?",
+      "options": [
+        "the family",
+        "to wait",
+        "to buy"
+      ],
+      "answer": "to buy",
+      "explanation": "erkaufen: to buy, gain at a price.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Teuer erkauft means…",
+      "options": [
+        "won at a high price",
+        "bought expensively in a shop"
+      ],
+      "answer": "won at a high price",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Erkaufen vs. kaufen:",
+      "options": [
+        "gain something (often non-material) at a cost vs. buy",
+        "the same"
+      ],
+      "answer": "gain something (often non-material) at a cost vs. buy",
+      "explanation": "Nuance.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich Zeit erkaufen means…",
+      "options": [
+        "to buy time",
+        "to buy a watch"
+      ],
+      "answer": "to buy time",
+      "explanation": "Phrase.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Erkaufen means to buy or gain something, often non-material, at a price: sich Zeit, Schweigen, Zustimmung erkaufen. Teuer erkauft means dearly bought: ein teuer erkaufter Frieden. Unlike kaufen, it often implies that the price was too high or the method dubious, as in bribery. Regular: erkaufte, erkauft."
+}

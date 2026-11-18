@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "alarmieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "a-lar-MEE-ren",
+      "ipa": "alaʁˈmiːʁən",
+      "notes": ""
+    },
+    "meaning": "to alert, call out; to alarm",
+    "shortDefinition": "To alert, call out; to alarm."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "alarmier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "alarmier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "alarmier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "alarmier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "alarmier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "alarmier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat alarmiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nachbarn alarmierten die Feuerwehr.",
+      "english": "Neighbours called the fire brigade.",
+      "highlight": [
+        "alarmierten"
+      ]
+    },
+    {
+      "german": "Die Zahlen sind alarmierend.",
+      "english": "The figures are alarming.",
+      "highlight": [
+        "alarmierend."
+      ]
+    }
+  ],
+  "forms": [
+    "alarmiere",
+    "alarmierst",
+    "alarmiert",
+    "alarmieren",
+    "alarmierend"
+  ],
+  "memoryHook": "Alarmieren: raise the Alarm.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (alarmieren)",
+      "answer": "alarmiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: alarmiert.",
+      "acceptedAnswers": [
+        "alarmiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (alarmieren, past)",
+      "answer": "alarmiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe alarmiert.",
+      "acceptedAnswers": [
+        "alarmiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does alarmieren mean?",
+      "options": [
+        "the bed",
+        "the key",
+        "to alert"
+      ],
+      "answer": "to alert",
+      "explanation": "alarmieren: to alert, call out; to alarm.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Alarmierend means…",
+      "options": [
+        "alarming",
+        "alerted"
+      ],
+      "answer": "alarming",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The European emergency number is…",
+      "options": [
+        "112",
+        "999"
+      ],
+      "answer": "112",
+      "explanation": "Number.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The German police number is…",
+      "options": [
+        "110",
+        "112"
+      ],
+      "answer": "110",
+      "explanation": "Police.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Alarmieren means to alert or call out emergency services (die Polizei, den Notarzt, die Feuerwehr alarmieren) and to alarm: alarmiert sein (to be alarmed). Alarmierend means alarming: alarmierende Zahlen. In Germany, dial 112 for fire and ambulance and 110 for the police. Many volunteer firefighters are alarmiert by pager. Perfect without ge-: hat alarmiert."
+}

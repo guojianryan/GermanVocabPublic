@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Quartier",
+    "partOfSpeech": "noun, neuter (das Quartier)",
+    "pronunciation": {
+      "respelling": "kvar-TEER",
+      "ipa": "kvaʁˈtiːɐ̯",
+      "notes": "Plural: die Quartiere."
+    },
+    "meaning": "quarters, accommodation; neighbourhood",
+    "shortDefinition": "Quarters, accommodation; neighbourhood."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Quartier, plural die Quartiere.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Quartier"
+        },
+        {
+          "label": "More than one",
+          "value": "die Quartiere"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir haben ein Quartier für die Nacht gefunden.",
+      "english": "We found somewhere to stay for the night.",
+      "highlight": [
+        "Quartier"
+      ]
+    },
+    {
+      "german": "Im neuen Quartier entstehen 500 Wohnungen.",
+      "english": "500 flats are being built in the new neighbourhood.",
+      "highlight": [
+        "Quartier"
+      ]
+    }
+  ],
+  "forms": [
+    "Quartiere",
+    "die Quartiere",
+    "das Quartier",
+    "Hauptquartier"
+  ],
+  "memoryHook": "Quartier: where you lodge, or the quarter you live in.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Quartier",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Quartier is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Quartier, zwei ___",
+      "answer": "Quartiere",
+      "fullAnswer": "ein Quartier, zwei Quartiere",
+      "explanation": "The plural is Quartiere.",
+      "acceptedAnswers": [
+        "Quartiere"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Quartier mean?",
+      "options": [
+        "quiet",
+        "never",
+        "quarters"
+      ],
+      "answer": "quarters",
+      "explanation": "Quartier: quarters, accommodation; neighbourhood.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Quartier can mean…",
+      "options": [
+        "lodging; a city quarter",
+        "a quarter of an hour"
+      ],
+      "answer": "lodging; a city quarter",
+      "explanation": "Two meanings.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Hauptquartier is…",
+      "options": [
+        "headquarters",
+        "the main square"
+      ],
+      "answer": "headquarters",
+      "explanation": "HQ.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pronunciation of Qu:",
+      "options": [
+        "kv",
+        "kw as in English"
+      ],
+      "answer": "kv",
+      "explanation": "kvar-TEER.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Quartier means lodging or quarters: ein Quartier für die Nacht, Soldaten ins Quartier legen. In urban planning and Switzerland, it's also a neighbourhood or district: ein neues Stadtquartier. Das Hauptquartier is headquarters. German Qu is pronounced kv: kvar-TEER. Don't confuse it with das Quartal (quarter of a year) or das Viertel (quarter of a city, or a quarter in general)."
+}

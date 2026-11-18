@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "vereidigen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-AI-di-gen",
+      "ipa": "fɛɐ̯ˈʔaɪ̯dɪɡn̩",
+      "notes": ""
+    },
+    "meaning": "to swear in",
+    "shortDefinition": "To swear in."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "vereidig|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "vereidig|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "vereidig|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "vereidig|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "vereidig|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "vereidig|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat vereidigt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die neue Kanzlerin wurde im Bundestag vereidigt.",
+      "english": "The new chancellor was sworn in at the Bundestag.",
+      "highlight": [
+        "vereidigt."
+      ]
+    },
+    {
+      "german": "Rekruten werden feierlich vereidigt.",
+      "english": "Recruits are formally sworn in.",
+      "highlight": [
+        "vereidigt."
+      ]
+    }
+  ],
+  "forms": [
+    "vereidige",
+    "vereidigst",
+    "vereidigt",
+    "vereidigen",
+    "Vereidigung"
+  ],
+  "memoryHook": "Vereidigen: bind someone by Eid (oath).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (vereidigen)",
+      "answer": "vereidigt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: vereidigt.",
+      "acceptedAnswers": [
+        "vereidigt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (vereidigen, past)",
+      "answer": "vereidigt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe vereidigt.",
+      "acceptedAnswers": [
+        "vereidigt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does vereidigen mean?",
+      "options": [
+        "to sleep",
+        "the street",
+        "to swear in"
+      ],
+      "answer": "to swear in",
+      "explanation": "vereidigen: to swear in.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Eid is…",
+      "options": [
+        "oath",
+        "egg"
+      ],
+      "answer": "oath",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The religious formula in the oath of office is…",
+      "options": [
+        "optional (So wahr mir Gott helfe)",
+        "mandatory"
+      ],
+      "answer": "optional (So wahr mir Gott helfe)",
+      "explanation": "Oath.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Amtseid is…",
+      "options": [
+        "oath of office",
+        "an official egg"
+      ],
+      "answer": "oath of office",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Vereidigen means to swear someone in: den Bundespräsidenten, die Minister, Soldaten, Zeugen vereidigen. The oath of office in Article 56 of the Grundgesetz ends with So wahr mir Gott helfe, but the religious formula is optional; Gerhard Schröder, for example, left it out in 1998. Der Eid is an oath, and die Vereidigung a swearing-in. Not separable: hat vereidigt."
+}

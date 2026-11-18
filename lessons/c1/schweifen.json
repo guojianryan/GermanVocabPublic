@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "schweifen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHVAI-fen",
+      "ipa": "ˈʃvaɪ̯fn̩",
+      "notes": ""
+    },
+    "meaning": "to roam, wander",
+    "shortDefinition": "To roam, wander."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schweif|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schweif|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schweif|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schweif|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schweif|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schweif|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist geschweift"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie ließ den Blick über das Tal schweifen.",
+      "english": "She let her gaze wander over the valley.",
+      "highlight": [
+        "schweifen."
+      ]
+    },
+    {
+      "german": "Seine Gedanken schweiften in die Kindheit.",
+      "english": "His thoughts wandered back to childhood.",
+      "highlight": [
+        "schweiften"
+      ]
+    }
+  ],
+  "forms": [
+    "schweife",
+    "schweifst",
+    "schweift",
+    "schweifen",
+    "geschweift",
+    "schweifte"
+  ],
+  "memoryHook": "Schweifen: sweep along like a comet's Schweif (tail).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (schweifen)",
+      "answer": "schweift",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schweift.",
+      "acceptedAnswers": [
+        "schweift"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (schweifen, past)",
+      "answer": "geschweift",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin geschweift.",
+      "acceptedAnswers": [
+        "geschweift"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does schweifen mean?",
+      "options": [
+        "to roam",
+        "the window",
+        "the family"
+      ],
+      "answer": "to roam",
+      "explanation": "schweifen: to roam, wander.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Blick schweifen lassen means…",
+      "options": [
+        "to let one's gaze wander",
+        "to look away"
+      ],
+      "answer": "to let one's gaze wander",
+      "explanation": "Phrase.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Abschweifen means…",
+      "options": [
+        "to digress",
+        "to wipe off"
+      ],
+      "answer": "to digress",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schweif is…",
+      "options": [
+        "tail (of a comet, horse)",
+        "sweat"
+      ],
+      "answer": "tail (of a comet, horse)",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Schweifen means to roam or wander, literary: durch die Wälder schweifen, den Blick schweifen lassen, seine Gedanken schweifen lassen. Abschweifen means to digress: vom Thema abschweifen. Der Schweif is a tail, of a horse or a comet. When it describes moving about, it takes sein: ist geschweift."
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "adaptieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "a-dap-TEE-ren",
+      "ipa": "adapˈtiːʁən",
+      "notes": ""
+    },
+    "meaning": "to adapt",
+    "shortDefinition": "To adapt."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "adaptier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "adaptier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "adaptier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "adaptier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "adaptier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "adaptier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat adaptiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Roman wurde fürs Kino adaptiert.",
+      "english": "The novel was adapted for the cinema.",
+      "highlight": [
+        "adaptiert."
+      ]
+    },
+    {
+      "german": "Wir haben das Konzept für den deutschen Markt adaptiert.",
+      "english": "We adapted the concept for the German market.",
+      "highlight": [
+        "adaptiert."
+      ]
+    }
+  ],
+  "forms": [
+    "adaptiere",
+    "adaptierst",
+    "adaptiert",
+    "adaptieren",
+    "Adaption"
+  ],
+  "memoryHook": "Adaptieren: fit (aptus) something to (ad) new conditions.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (adaptieren)",
+      "answer": "adaptiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: adaptiert.",
+      "acceptedAnswers": [
+        "adaptiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (adaptieren, past)",
+      "answer": "adaptiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe adaptiert.",
+      "acceptedAnswers": [
+        "adaptiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does adaptieren mean?",
+      "options": [
+        "quiet",
+        "the bread",
+        "to adapt"
+      ],
+      "answer": "to adapt",
+      "explanation": "adaptieren: to adapt.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Adaption / Adaptation is…",
+      "options": [
+        "adaptation (film, biology)",
+        "adoption"
+      ],
+      "answer": "adaptation (film, biology)",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Native synonym:",
+      "options": [
+        "anpassen, bearbeiten",
+        "adoptieren"
+      ],
+      "answer": "anpassen, bearbeiten",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Adoptieren means…",
+      "options": [
+        "to adopt (a child)",
+        "to adapt"
+      ],
+      "answer": "to adopt (a child)",
+      "explanation": "Contrast.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Adaptieren means to adapt, especially a work for another medium: einen Roman fürs Theater, einen Film adaptieren. Die Adaption (also Adaptation) is an adaptation, and in biology Organismen adaptieren sich. The native word is anpassen. Don't confuse it with adoptieren (to adopt a child). Perfect without ge-: hat adaptiert."
+}

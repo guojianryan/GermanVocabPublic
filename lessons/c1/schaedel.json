@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schädel",
+    "partOfSpeech": "noun, masculine (der Schädel)",
+    "pronunciation": {
+      "respelling": "SHAY-del",
+      "ipa": "ˈʃɛːdl̩",
+      "notes": "Plural: die Schädel."
+    },
+    "meaning": "skull",
+    "shortDefinition": "Skull."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schädel, plural die Schädel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schädel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schädel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hat sich den Schädel gebrochen.",
+      "english": "He fractured his skull.",
+      "highlight": [
+        "Schädel"
+      ]
+    },
+    {
+      "german": "Mir brummt der Schädel.",
+      "english": "My head is pounding.",
+      "highlight": [
+        "Schädel."
+      ]
+    }
+  ],
+  "forms": [
+    "die Schädel",
+    "der Schädel",
+    "Schädelbruch"
+  ],
+  "memoryHook": "Schädel: the bony helmet inside your head.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schädel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schädel is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schädel, zwei ___",
+      "answer": "Schädel",
+      "fullAnswer": "ein Schädel, zwei Schädel",
+      "explanation": "The plural is Schädel.",
+      "acceptedAnswers": [
+        "Schaedel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schädel mean?",
+      "options": [
+        "skull",
+        "the door",
+        "tomorrow"
+      ],
+      "answer": "skull",
+      "explanation": "Schädel: skull.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mir brummt der Schädel means…",
+      "options": [
+        "I have a headache",
+        "I'm hungry"
+      ],
+      "answer": "I have a headache",
+      "explanation": "Headache.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einen dicken Schädel haben means…",
+      "options": [
+        "to be stubborn",
+        "to be clever"
+      ],
+      "answer": "to be stubborn",
+      "explanation": "Stubborn.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Schädel-Hirn-Trauma is…",
+      "options": [
+        "a head injury",
+        "a horror film"
+      ],
+      "answer": "a head injury",
+      "explanation": "Traumatic brain injury.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Schädel is the skull: der Totenschädel (death's head). Casually, it also means head: Mir brummt der Schädel (my head is pounding), einen dicken Schädel haben (to be stubborn), sich den Schädel einrennen (to bang one's head against a wall). Das Schädel-Hirn-Trauma is a traumatic brain injury. The plural is the same: die Schädel."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schadstoff",
+    "partOfSpeech": "noun, masculine (der Schadstoff)",
+    "pronunciation": {
+      "respelling": "SHAAT-shtof",
+      "ipa": "ˈʃaːtˌʃtɔf",
+      "notes": "Plural: die Schadstoffe."
+    },
+    "meaning": "pollutant, harmful substance",
+    "shortDefinition": "Pollutant, harmful substance."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schadstoff, plural die Schadstoffe.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schadstoff"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schadstoffe"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Auto stößt weniger Schadstoffe aus.",
+      "english": "The car emits fewer pollutants.",
+      "highlight": [
+        "Schadstoffe"
+      ]
+    },
+    {
+      "german": "Im Spielzeug wurden Schadstoffe gefunden.",
+      "english": "Harmful substances were found in the toy.",
+      "highlight": [
+        "Schadstoffe"
+      ]
+    }
+  ],
+  "forms": [
+    "Schadstoffe",
+    "der Schadstoff"
+  ],
+  "memoryHook": "Schadstoff: a Stoff (substance) that schadet (harms).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schadstoff",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schadstoff is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schadstoff, zwei ___",
+      "answer": "Schadstoffe",
+      "fullAnswer": "ein Schadstoff, zwei Schadstoffe",
+      "explanation": "The plural is Schadstoffe.",
+      "acceptedAnswers": [
+        "Schadstoffe"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schadstoff mean?",
+      "options": [
+        "pollutant",
+        "to learn",
+        "to help"
+      ],
+      "answer": "pollutant",
+      "explanation": "Schadstoff: pollutant, harmful substance.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schadstoffarm means…",
+      "options": [
+        "low-emission",
+        "pollutant-rich"
+      ],
+      "answer": "low-emission",
+      "explanation": "Low.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Umweltzone requires…",
+      "options": [
+        "a green emissions sticker",
+        "an electric car"
+      ],
+      "answer": "a green emissions sticker",
+      "explanation": "Zone.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schaden is…",
+      "options": [
+        "damage, harm",
+        "shadow"
+      ],
+      "answer": "damage, harm",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Schadstoff is a pollutant or harmful substance: Schadstoffe in der Luft, im Wasser, in Lebensmitteln. Cars are grouped by Schadstoffklasse, and many cities have Umweltzonen that only cars with a green Feinstaubplakette (emissions sticker) may enter. Schadstoffarm means low-emission. From der Schaden (harm) and der Stoff (substance). Plural: die Schadstoffe."
+}

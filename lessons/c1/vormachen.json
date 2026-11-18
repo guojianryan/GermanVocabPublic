@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "vormachen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "FOHR-ma-khen",
+      "ipa": "ˈfoːɐ̯ˌmaxn̩",
+      "notes": ""
+    },
+    "meaning": "to show how; to fool (someone)",
+    "shortDefinition": "To show how; to fool (someone)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "mach|e … |vor"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "mach|st … |vor"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "mach|t … |vor"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "mach|en … |vor"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "mach|t … |vor"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "mach|en … |vor"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat vorgemacht"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Kannst du mir die Übung mal vormachen?",
+      "english": "Can you show me how to do the exercise?",
+      "highlight": [
+        "vormachen?"
+      ]
+    },
+    {
+      "german": "Mach dir nichts vor!",
+      "english": "Don't kid yourself!",
+      "highlight": [
+        "Mach",
+        "vor!"
+      ]
+    }
+  ],
+  "forms": [
+    "mache vor",
+    "machst vor",
+    "macht vor",
+    "machen vor",
+    "vorgemacht",
+    "machte vor"
+  ],
+  "memoryHook": "Vormachen: machen (do) something vor (in front of) someone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … vor (vormachen)",
+      "answer": "macht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: macht … vor.",
+      "acceptedAnswers": [
+        "macht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (vormachen, past)",
+      "answer": "vorgemacht",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe vorgemacht.",
+      "acceptedAnswers": [
+        "vorgemacht"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does vormachen mean?",
+      "options": [
+        "to show how",
+        "expensive",
+        "the family"
+      ],
+      "answer": "to show how",
+      "explanation": "vormachen: to show how; to fool (someone).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandem etwas vormachen means…",
+      "options": [
+        "to fool someone; to show someone how",
+        "to do something before someone"
+      ],
+      "answer": "to fool someone; to show someone how",
+      "explanation": "Two senses.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich nichts vormachen means…",
+      "options": [
+        "not to kid oneself",
+        "to do nothing first"
+      ],
+      "answer": "not to kid oneself",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Dem macht keiner etwas vor means…",
+      "options": [
+        "nobody can beat him at it",
+        "nobody shows him"
+      ],
+      "answer": "nobody can beat him at it",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Vormachen has two meanings: to demonstrate (Ich mach's dir vor) and to fool or kid someone: Mach mir nichts vor! (don't give me that), Wir sollten uns nichts vormachen (let's not kid ourselves). In der Küche macht ihr keiner etwas vor means nobody can beat her in the kitchen. Separable: machte vor, vorgemacht."
+}

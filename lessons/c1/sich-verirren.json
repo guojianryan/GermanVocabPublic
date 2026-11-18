@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "(sich) verirren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-I-ren",
+      "ipa": "fɛɐ̯ˈʔɪʁən",
+      "notes": ""
+    },
+    "meaning": "to get lost, lose one's way",
+    "shortDefinition": "To get lost, lose one's way."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verirr|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verirr|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verirr|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verirr|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verirr|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verirr|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verirrt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir haben uns im Wald verirrt.",
+      "english": "We got lost in the forest.",
+      "highlight": [
+        "verirrt."
+      ]
+    },
+    {
+      "german": "Eine verirrte Kugel traf das Fenster.",
+      "english": "A stray bullet hit the window.",
+      "highlight": [
+        "verirrte"
+      ]
+    }
+  ],
+  "forms": [
+    "verirre",
+    "verirrst",
+    "verirrt",
+    "verirren",
+    "verirrte"
+  ],
+  "memoryHook": "Sich verirren: irren (wander) off the right path.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ ((sich) verirren)",
+      "answer": "verirrt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verirrt.",
+      "acceptedAnswers": [
+        "verirrt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe mich schon ___. ((sich) verirren, past)",
+      "answer": "verirrt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe mich verirrt.",
+      "acceptedAnswers": [
+        "verirrt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does (sich) verirren mean?",
+      "options": [
+        "to get lost",
+        "the car",
+        "the door"
+      ],
+      "answer": "to get lost",
+      "explanation": "(sich) verirren: to get lost, lose one's way.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich verirren means…",
+      "options": [
+        "to get lost",
+        "to be wrong"
+      ],
+      "answer": "to get lost",
+      "explanation": "Lost.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine verirrte Kugel is…",
+      "options": [
+        "a stray bullet",
+        "a wrong answer"
+      ],
+      "answer": "a stray bullet",
+      "explanation": "Stray.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Irren means…",
+      "options": [
+        "to err; to wander",
+        "to annoy"
+      ],
+      "answer": "to err; to wander",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Sich verirren means to get lost: sich im Wald, in der Stadt verirren. Sich verlaufen (on foot) and sich verfahren (by car) are everyday alternatives. Verirrt also means stray: ein verirrter Vogel, eine verirrte Kugel. In the Grimms' Hänsel und Gretel, the children verirren sich in the forest. From irren (to err, wander). Not separable: hat sich verirrt."
+}

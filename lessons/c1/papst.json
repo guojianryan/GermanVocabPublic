@@ -1,0 +1,119 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Papst",
+    "partOfSpeech": "noun, masculine (der Papst)",
+    "pronunciation": {
+      "respelling": "paapst",
+      "ipa": "paːpst",
+      "notes": "Plural: die Päpste."
+    },
+    "meaning": "pope",
+    "shortDefinition": "Pope."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Papst, plural die Päpste.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Papst"
+        },
+        {
+          "label": "More than one",
+          "value": "die Päpste"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Papst lebt im Vatikan.",
+      "english": "The Pope lives in the Vatican.",
+      "highlight": [
+        "Papst"
+      ]
+    },
+    {
+      "german": "Er ist der Papst der Fotografie.",
+      "english": "He's the pope of photography.",
+      "highlight": [
+        "Papst"
+      ]
+    }
+  ],
+  "forms": [
+    "Päpste",
+    "die Päpste",
+    "der Papst",
+    "päpstlich"
+  ],
+  "memoryHook": "Papst: the head in Rome, and the top expert anywhere.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Papst",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Papst is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Papst, zwei ___",
+      "answer": "Päpste",
+      "fullAnswer": "ein Papst, zwei Päpste",
+      "explanation": "The plural is Päpste.",
+      "acceptedAnswers": [
+        "Paepste"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Papst mean?",
+      "options": [
+        "the weather",
+        "pope",
+        "the station"
+      ],
+      "answer": "pope",
+      "explanation": "Papst: pope.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Päpstlich means…",
+      "options": [
+        "papal",
+        "Protestant"
+      ],
+      "answer": "papal",
+      "explanation": "päpstlich.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Päpstlicher als der Papst sein means…",
+      "options": [
+        "to be more Catholic than the Pope",
+        "to be very lazy"
+      ],
+      "answer": "to be more Catholic than the Pope",
+      "explanation": "Over-zealous.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Papst is the Pope. Benedikt XVI (Joseph Ratzinger), Pope from 2005 to 2013, was German, and the Bild headline Wir sind Papst! (We are Pope!) became famous. Figuratively, der Papst is a leading authority: der Literaturpapst Marcel Reich-Ranicki. Päpstlicher als der Papst sein means to be more Catholic than the Pope, overly strict. The plural is die Päpste, with an umlaut."
+}

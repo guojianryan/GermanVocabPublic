@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "nähren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "NAY-ren",
+      "ipa": "ˈnɛːʁən",
+      "notes": ""
+    },
+    "meaning": "to nourish, feed; to fuel (suspicion)",
+    "shortDefinition": "To nourish, feed; to fuel (suspicion)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "nähr|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "nähr|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "nähr|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "nähr|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "nähr|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "nähr|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat genährt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Mutter nährt ihr Baby.",
+      "english": "The mother feeds her baby.",
+      "highlight": [
+        "nährt"
+      ]
+    },
+    {
+      "german": "Seine Aussagen nährten den Verdacht.",
+      "english": "His statements fuelled the suspicion.",
+      "highlight": [
+        "nährten"
+      ]
+    }
+  ],
+  "forms": [
+    "nähre",
+    "nährst",
+    "nährt",
+    "nähren",
+    "genährt",
+    "nährte"
+  ],
+  "memoryHook": "Nähren: give Nahrung (food).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (nähren)",
+      "answer": "nährt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: nährt.",
+      "acceptedAnswers": [
+        "naehrt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (nähren, past)",
+      "answer": "genährt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe genährt.",
+      "acceptedAnswers": [
+        "genaehrt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does nähren mean?",
+      "options": [
+        "the weather",
+        "the family",
+        "to nourish"
+      ],
+      "answer": "to nourish",
+      "explanation": "nähren: to nourish, feed; to fuel (suspicion).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, nähren means…",
+      "options": [
+        "to fuel (hopes, doubts)",
+        "to sew"
+      ],
+      "answer": "to fuel (hopes, doubts)",
+      "explanation": "Figurative.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nahrhaft means…",
+      "options": [
+        "nutritious",
+        "close by"
+      ],
+      "answer": "nutritious",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Nahrung is…",
+      "options": [
+        "food, nourishment",
+        "seam"
+      ],
+      "answer": "food, nourishment",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Nähren means to nourish or feed, a slightly elevated word: Die Muttermilch nährt das Kind. Figuratively, it means to fuel: Hoffnungen, Zweifel, einen Verdacht nähren. Sich nähren von means to live on. Related: die Nahrung (food), nahrhaft (nutritious), die Nährstoffe (nutrients). Don't confuse it with nähen (to sew) or sich nähern (to approach). Regular: nährte, genährt."
+}

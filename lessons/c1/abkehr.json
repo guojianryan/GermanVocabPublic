@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Abkehr",
+    "partOfSpeech": "noun, feminine (die Abkehr)",
+    "pronunciation": {
+      "respelling": "AP-kair",
+      "ipa": "ˈapˌkeːɐ̯",
+      "notes": "Usually no plural."
+    },
+    "meaning": "turning away, departure (from)",
+    "shortDefinition": "Turning away, departure (from)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Abkehr, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Abkehr"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Partei fordert eine Abkehr von der Atomkraft.",
+      "english": "The party demands a move away from nuclear power.",
+      "highlight": [
+        "Abkehr"
+      ]
+    },
+    {
+      "german": "Das bedeutet eine Abkehr von alten Traditionen.",
+      "english": "That means a break with old traditions.",
+      "highlight": [
+        "Abkehr"
+      ]
+    }
+  ],
+  "forms": [
+    "die Abkehr",
+    "abkehren"
+  ],
+  "memoryHook": "Abkehr: turning (kehren) away (ab).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Abkehr",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Abkehr is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Abkehr mean?",
+      "options": [
+        "always",
+        "to wait",
+        "turning away"
+      ],
+      "answer": "turning away",
+      "explanation": "Abkehr: turning away, departure (from).",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Abkehr von means…",
+      "options": [
+        "a turning away from",
+        "a return to"
+      ],
+      "answer": "a turning away from",
+      "explanation": "Away.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich abkehren means…",
+      "options": [
+        "to turn away",
+        "to sweep"
+      ],
+      "answer": "to turn away",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite:",
+      "options": [
+        "die Hinwendung",
+        "die Abfahrt"
+      ],
+      "answer": "die Hinwendung",
+      "explanation": "Opposite.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Abkehr is a turning away or departure from something: die Abkehr von fossilen Brennstoffen, von der Schuldenbremse, eine Abkehr von bisherigen Positionen. It's a common word in political and economic news. The opposite is die Hinwendung or Rückkehr. Sich abkehren means to turn away. Kehren also means to sweep: Kehrwoche, the Swabian rota for cleaning the stairs. It has no plural."
+}

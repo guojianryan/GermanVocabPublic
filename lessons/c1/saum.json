@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Saum",
+    "partOfSpeech": "noun, masculine (der Saum)",
+    "pronunciation": {
+      "respelling": "ZAUM",
+      "ipa": "zaʊ̯m",
+      "notes": "Plural: die Säume."
+    },
+    "meaning": "hem; edge, fringe",
+    "shortDefinition": "Hem; edge, fringe."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Saum, plural die Säume.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Saum"
+        },
+        {
+          "label": "More than one",
+          "value": "die Säume"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Saum der Hose ist zu lang.",
+      "english": "The hem of the trousers is too long.",
+      "highlight": [
+        "Saum"
+      ]
+    },
+    {
+      "german": "Am Saum des Waldes stand ein Reh.",
+      "english": "A deer stood at the edge of the forest.",
+      "highlight": [
+        "Saum"
+      ]
+    }
+  ],
+  "forms": [
+    "Säume",
+    "der Saum"
+  ],
+  "memoryHook": "Saum: the folded edge of cloth.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Saum",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Saum is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Saum, zwei ___",
+      "answer": "Säume",
+      "fullAnswer": "ein Saum, zwei Säume",
+      "explanation": "The plural is Säume.",
+      "acceptedAnswers": [
+        "Saeume"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Saum mean?",
+      "options": [
+        "hem",
+        "never",
+        "the window"
+      ],
+      "answer": "hem",
+      "explanation": "Saum: hem; edge, fringe.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Säumen means…",
+      "options": [
+        "to hem; to line (a street)",
+        "to sow"
+      ],
+      "answer": "to hem; to line (a street)",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Waldsaum is…",
+      "options": [
+        "edge of the forest",
+        "a forest path"
+      ],
+      "answer": "edge of the forest",
+      "explanation": "Edge.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Säumig means…",
+      "options": [
+        "late (with payment)",
+        "hemmed"
+      ],
+      "answer": "late (with payment)",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Saum is a hem: den Saum kürzen (to take up the hem), or an edge or fringe: der Saum des Waldes. Säumen means to hem, and also to line: Tausende säumten die Straßen (thousands lined the streets). A separate old verb säumen meant to delay, giving säumig (late with payment) and der Säumniszuschlag (late fee). Plural: die Säume."
+}

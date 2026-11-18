@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "überführen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ü-ber-FÜ-ren",
+      "ipa": "yːbɐˈfyːʁən",
+      "notes": ""
+    },
+    "meaning": "to convict, prove guilty; to transfer",
+    "shortDefinition": "To convict, prove guilty; to transfer."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "überführ|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "überführ|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "überführ|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "überführ|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "überführ|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "überführ|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat überführt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Täter wurde durch DNA-Spuren überführt.",
+      "english": "The offender was convicted on DNA evidence.",
+      "highlight": [
+        "überführt."
+      ]
+    },
+    {
+      "german": "Der Leichnam wurde in die Heimat überführt.",
+      "english": "The body was transferred to his home country.",
+      "highlight": [
+        "überführt."
+      ]
+    }
+  ],
+  "forms": [
+    "überführe",
+    "überführst",
+    "überführt",
+    "überführen",
+    "Überführung"
+  ],
+  "memoryHook": "Überführen: lead (führen) across (über), to guilt or to a new place.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (überführen)",
+      "answer": "überführt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: überführt.",
+      "acceptedAnswers": [
+        "ueberfuehrt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (überführen, past)",
+      "answer": "überführt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe überführt.",
+      "acceptedAnswers": [
+        "ueberfuehrt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does überführen mean?",
+      "options": [
+        "to sleep",
+        "to convict",
+        "the car"
+      ],
+      "answer": "to convict",
+      "explanation": "überführen: to convict, prove guilty; to transfer.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden eines Verbrechens überführen means…",
+      "options": [
+        "to prove someone guilty of a crime",
+        "to drive someone over"
+      ],
+      "answer": "to prove someone guilty of a crime",
+      "explanation": "Convict.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Überführen (transfer) is used for…",
+      "options": [
+        "bodies, vehicles, patients",
+        "money"
+      ],
+      "answer": "bodies, vehicles, patients",
+      "explanation": "Transfer.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Überführung is also…",
+      "options": [
+        "a bridge over a road (flyover)",
+        "an underpass"
+      ],
+      "answer": "a bridge over a road (flyover)",
+      "explanation": "Flyover.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Überführen (stressed on füh, not separable) means to prove someone guilty: einen Täter überführen, jemanden der Lüge überführen. It also means to transfer: ein Auto, einen Patienten, einen Leichnam überführen. Die Überführung is a conviction, a transfer, or a flyover bridge (opposite: die Unterführung, underpass). Not separable: hat überführt."
+}

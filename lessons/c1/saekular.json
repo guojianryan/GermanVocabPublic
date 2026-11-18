@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "säkular",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "zay-ku-LAAR",
+      "ipa": "zɛkuˈlaːɐ̯",
+      "notes": ""
+    },
+    "meaning": "secular",
+    "shortDefinition": "Secular."
+  },
+  "sampleSentences": [
+    {
+      "german": "Deutschland ist ein säkularer Staat mit Kirchensteuer.",
+      "english": "Germany is a secular state with a church tax.",
+      "highlight": [
+        "säkularer"
+      ]
+    },
+    {
+      "german": "Die Gesellschaft wird immer säkularer.",
+      "english": "Society is becoming increasingly secular.",
+      "highlight": [
+        "säkularer."
+      ]
+    }
+  ],
+  "forms": [
+    "säkulare",
+    "säkularen",
+    "säkularer"
+  ],
+  "memoryHook": "Säkular: of the saeculum (worldly age), not the church.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does säkular mean?",
+      "options": [
+        "secular",
+        "expensive",
+        "never"
+      ],
+      "answer": "secular",
+      "explanation": "säkular: secular.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Säkularisierung is…",
+      "options": [
+        "secularisation",
+        "a century"
+      ],
+      "answer": "secularisation",
+      "explanation": "Noun.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Säkularisation (1803) was…",
+      "options": [
+        "the seizure of church lands",
+        "a new church"
+      ],
+      "answer": "the seizure of church lands",
+      "explanation": "History.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "weltlich",
+        "geistlich"
+      ],
+      "answer": "weltlich",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein ___ Staat (secular)",
+      "answer": "säkularer",
+      "fullAnswer": "ein säkularer Staat",
+      "explanation": "Masculine -er.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Säkular means secular, not religious: ein säkularer Staat, die säkulare Gesellschaft. The native synonym is weltlich. Germany separates church and state but cooperates with churches: the state collects Kirchensteuer for them. In 2022, for the first time, fewer than half of Germans belonged to the two major churches. Die Säkularisation of 1803 transferred church lands to secular rulers. In older German, säkular also meant once a century."
+}

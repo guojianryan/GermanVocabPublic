@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Biodiversität",
+    "partOfSpeech": "noun, feminine (die Biodiversität)",
+    "pronunciation": {
+      "respelling": "bee-o-di-ver-zi-TAYT",
+      "ipa": "bioˌdivɛʁziˈtɛːt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "biodiversity",
+    "shortDefinition": "Biodiversity."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Biodiversität, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Biodiversität"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Biodiversität nimmt weltweit ab.",
+      "english": "Biodiversity is declining worldwide.",
+      "highlight": [
+        "Biodiversität"
+      ]
+    },
+    {
+      "german": "Blühstreifen fördern die Biodiversität.",
+      "english": "Wildflower strips promote biodiversity.",
+      "highlight": [
+        "Biodiversität."
+      ]
+    }
+  ],
+  "forms": [
+    "die Biodiversität"
+  ],
+  "memoryHook": "Biodiversität: the diversity of bios (life).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Biodiversität",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Biodiversität is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Biodiversität mean?",
+      "options": [
+        "hot",
+        "the job",
+        "biodiversity"
+      ],
+      "answer": "biodiversity",
+      "explanation": "Biodiversität: biodiversity.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Artenvielfalt",
+        "die Artenreinheit"
+      ],
+      "answer": "die Artenvielfalt",
+      "explanation": "Synonym.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Insektensterben refers to…",
+      "options": [
+        "the decline of insects",
+        "insecticide"
+      ],
+      "answer": "the decline of insects",
+      "explanation": "Insects.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bavaria's 2019 citizens' initiative was called…",
+      "options": [
+        "Rettet die Bienen",
+        "Rettet die Bäume"
+      ],
+      "answer": "Rettet die Bienen",
+      "explanation": "Bavaria.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Biodiversität is biodiversity; the everyday German word is die Artenvielfalt. A 2017 study based on data from amateur entomologists in Krefeld found that flying insect biomass in German nature reserves had fallen by more than 75 percent in 27 years, sparking debate about das Insektensterben. In 2019 Bavaria's citizens' initiative Rettet die Bienen gathered about 1.7 million signatures. It has no plural."
+}

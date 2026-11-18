@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Juwel",
+    "partOfSpeech": "noun, neuter (das Juwel)",
+    "pronunciation": {
+      "respelling": "yu-VAYL",
+      "ipa": "juˈveːl",
+      "notes": "Plural: die Juwelen."
+    },
+    "meaning": "jewel, gem",
+    "shortDefinition": "Jewel, gem."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Juwel, plural die Juwelen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Juwel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Juwelen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Diebe erbeuteten wertvolle Juwelen.",
+      "english": "The thieves stole valuable jewels.",
+      "highlight": [
+        "Juwelen."
+      ]
+    },
+    {
+      "german": "Die Altstadt ist ein echtes Juwel.",
+      "english": "The old town is a real gem.",
+      "highlight": [
+        "Juwel."
+      ]
+    }
+  ],
+  "forms": [
+    "Juwelen",
+    "das Juwel"
+  ],
+  "memoryHook": "Juwel: a precious jewel (Old French joel).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Juwel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Juwel is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Juwel, zwei ___",
+      "answer": "Juwelen",
+      "fullAnswer": "ein Juwel, zwei Juwelen",
+      "explanation": "The plural is Juwelen.",
+      "acceptedAnswers": [
+        "Juwelen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Juwel mean?",
+      "options": [
+        "never",
+        "jewel",
+        "the weather"
+      ],
+      "answer": "jewel",
+      "explanation": "Juwel: jewel, gem.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Juwelier is…",
+      "options": [
+        "jeweller",
+        "jewel box"
+      ],
+      "answer": "jeweller",
+      "explanation": "Person.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, ein Juwel is…",
+      "options": [
+        "a gem (special place or person)",
+        "a rich person"
+      ],
+      "answer": "a gem (special place or person)",
+      "explanation": "Figurative.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kronjuwelen are…",
+      "options": [
+        "crown jewels",
+        "royal servants"
+      ],
+      "answer": "crown jewels",
+      "explanation": "Compound.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Juwel is a jewel or gem, and figuratively a gem of a place or person: ein architektonisches Juwel. In 2019 thieves stole 18th-century jewels from the Grünes Gewölbe in Dresden in one of Germany's biggest museum heists; most were recovered in 2022. Der Juwelier is a jeweller. Plural: die Juwelen."
+}

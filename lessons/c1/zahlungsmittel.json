@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zahlungsmittel",
+    "partOfSpeech": "noun, neuter (das Zahlungsmittel)",
+    "pronunciation": {
+      "respelling": "TSAA-lungs-mi-tel",
+      "ipa": "ˈt͡saːlʊŋsˌmɪtl̩",
+      "notes": "Plural: die Zahlungsmittel."
+    },
+    "meaning": "means of payment, currency",
+    "shortDefinition": "Means of payment, currency."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Zahlungsmittel, plural die Zahlungsmittel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Zahlungsmittel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Zahlungsmittel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Euro ist das gesetzliche Zahlungsmittel in Deutschland.",
+      "english": "The euro is legal tender in Germany.",
+      "highlight": [
+        "Zahlungsmittel"
+      ]
+    },
+    {
+      "german": "Bargeld ist immer noch ein beliebtes Zahlungsmittel.",
+      "english": "Cash is still a popular means of payment.",
+      "highlight": [
+        "Zahlungsmittel."
+      ]
+    }
+  ],
+  "forms": [
+    "das Zahlungsmittel",
+    "Zahlungsmittels"
+  ],
+  "memoryHook": "Zahlungsmittel: a Mittel (means) of Zahlung (payment).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zahlungsmittel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Zahlungsmittel is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Zahlungsmittel, zwei ___",
+      "answer": "Zahlungsmittel",
+      "fullAnswer": "ein Zahlungsmittel, zwei Zahlungsmittel",
+      "explanation": "The plural is Zahlungsmittel.",
+      "acceptedAnswers": [
+        "Zahlungsmittel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zahlungsmittel mean?",
+      "options": [
+        "the street",
+        "means of payment",
+        "to help"
+      ],
+      "answer": "means of payment",
+      "explanation": "Zahlungsmittel: means of payment, currency.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gesetzliches Zahlungsmittel means…",
+      "options": [
+        "legal tender",
+        "legal fee"
+      ],
+      "answer": "legal tender",
+      "explanation": "Legal tender.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Bargeld is…",
+      "options": [
+        "cash",
+        "bar money"
+      ],
+      "answer": "cash",
+      "explanation": "Cash.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Zahlung is…",
+      "options": [
+        "payment",
+        "number"
+      ],
+      "answer": "payment",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Zahlungsmittel is a means of payment: Bargeld, Karte, Überweisung. Euro notes are the only unrestricted gesetzliches Zahlungsmittel (legal tender) in Germany. Germans have long preferred cash; though card payments now dominate in value, many small cafés and bakeries still say Nur Barzahlung. The EU is preparing a digital euro as an additional Zahlungsmittel. The plural is the same."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Verräter",
+    "partOfSpeech": "noun, masculine (der Verräter)",
+    "pronunciation": {
+      "respelling": "fer-RAI-ter",
+      "ipa": "fɛɐ̯ˈʁɛːtɐ",
+      "notes": "Plural: die Verräter."
+    },
+    "meaning": "traitor",
+    "shortDefinition": "Traitor."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Verräter, plural die Verräter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Verräter"
+        },
+        {
+          "label": "More than one",
+          "value": "die Verräter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er gilt in seiner Partei als Verräter.",
+      "english": "He's seen as a traitor in his party.",
+      "highlight": [
+        "Verräter."
+      ]
+    },
+    {
+      "german": "Die Verräterin wurde enttarnt.",
+      "english": "The traitor was unmasked.",
+      "highlight": [
+        "Verräterin"
+      ]
+    }
+  ],
+  "forms": [
+    "die Verräter",
+    "der Verräter",
+    "Verräterin",
+    "Verrat"
+  ],
+  "memoryHook": "Verräter: one who verrät (betrays).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Verräter",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Verräter is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Verräter, zwei ___",
+      "answer": "Verräter",
+      "fullAnswer": "ein Verräter, zwei Verräter",
+      "explanation": "The plural is Verräter.",
+      "acceptedAnswers": [
+        "Verraeter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Verräter mean?",
+      "options": [
+        "traitor",
+        "tomorrow",
+        "to buy"
+      ],
+      "answer": "traitor",
+      "explanation": "Verräter: traitor.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verraten means…",
+      "options": [
+        "to betray; to give away (a secret)",
+        "to advise"
+      ],
+      "answer": "to betray; to give away (a secret)",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verrat mir nichts! means…",
+      "options": [
+        "Don't tell me (spoilers)!",
+        "Don't betray me!"
+      ],
+      "answer": "Don't tell me (spoilers)!",
+      "explanation": "Spoiler.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verräterisch means…",
+      "options": [
+        "treacherous; telltale",
+        "advisory"
+      ],
+      "answer": "treacherous; telltale",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Verräter (die Verräterin) is a traitor. The verb verraten means to betray (sein Land verraten) but also simply to tell or give away: Verrat mir nicht das Ende! (don't spoil the ending!), Kannst du mir verraten, wie spät es ist? Der Verrat is betrayal or treason; der Landesverrat is treason. Verräterisch means treacherous or telltale: ein verräterisches Lächeln. Plural: die Verräter."
+}

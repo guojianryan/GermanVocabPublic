@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rolltreppe",
+    "partOfSpeech": "noun, feminine (die Rolltreppe)",
+    "pronunciation": {
+      "respelling": "ROL-tre-pe",
+      "ipa": "ˈʁɔlˌtʁɛpə",
+      "notes": "Plural: die Rolltreppen."
+    },
+    "meaning": "escalator",
+    "shortDefinition": "Escalator."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Rolltreppe, plural die Rolltreppen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Rolltreppe"
+        },
+        {
+          "label": "More than one",
+          "value": "die Rolltreppen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Rolltreppe ist leider außer Betrieb.",
+      "english": "Unfortunately the escalator is out of order.",
+      "highlight": [
+        "Rolltreppe"
+      ]
+    },
+    {
+      "german": "Auf der Rolltreppe steht man rechts und geht links.",
+      "english": "On the escalator you stand on the right and walk on the left.",
+      "highlight": [
+        "Rolltreppe"
+      ]
+    }
+  ],
+  "forms": [
+    "Rolltreppen",
+    "die Rolltreppe"
+  ],
+  "memoryHook": "Rolltreppe: a Treppe (staircase) that rollt (rolls).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rolltreppe",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Rolltreppe is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Rolltreppe, zwei ___",
+      "answer": "Rolltreppen",
+      "fullAnswer": "ein Rolltreppe, zwei Rolltreppen",
+      "explanation": "The plural is Rolltreppen.",
+      "acceptedAnswers": [
+        "Rolltreppen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rolltreppe mean?",
+      "options": [
+        "to wait",
+        "the car",
+        "escalator"
+      ],
+      "answer": "escalator",
+      "explanation": "Rolltreppe: escalator.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Escalator etiquette:",
+      "options": [
+        "rechts stehen, links gehen",
+        "links stehen, rechts gehen"
+      ],
+      "answer": "rechts stehen, links gehen",
+      "explanation": "Etiquette.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Aufzug / Fahrstuhl is…",
+      "options": [
+        "lift, elevator",
+        "escalator"
+      ],
+      "answer": "lift, elevator",
+      "explanation": "Contrast.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Treppe is…",
+      "options": [
+        "stairs",
+        "a trap"
+      ],
+      "answer": "stairs",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Rolltreppe is an escalator: mit der Rolltreppe fahren, Die Rolltreppe ist defekt, a frequent sight at German stations. The unwritten rule is rechts stehen, links gehen. A lift is der Aufzug or der Fahrstuhl, and das Laufband is a moving walkway. Die Treppe means stairs: die Treppe hinaufgehen. Plural: die Rolltreppen."
+}

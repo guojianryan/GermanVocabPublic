@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mikrofon",
+    "partOfSpeech": "noun, neuter (das Mikrofon)",
+    "pronunciation": {
+      "respelling": "mi-kro-FOHN",
+      "ipa": "mikʁoˈfoːn",
+      "notes": "Plural: die Mikrofone."
+    },
+    "meaning": "microphone",
+    "shortDefinition": "Microphone."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Mikrofon, plural die Mikrofone.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Mikrofon"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mikrofone"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Mikrofon ist nicht eingeschaltet.",
+      "english": "The microphone isn't switched on.",
+      "highlight": [
+        "Mikrofon"
+      ]
+    },
+    {
+      "german": "Du bist stumm geschaltet, schalte dein Mikro ein!",
+      "english": "You're on mute, turn your mic on!",
+      "highlight": [
+        "Mikro"
+      ]
+    }
+  ],
+  "forms": [
+    "Mikrofone",
+    "die Mikrofone",
+    "das Mikrofon",
+    "Mikro"
+  ],
+  "memoryHook": "Mikrofon: a small (mikro) sound (phon) catcher.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mikrofon",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Mikrofon is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mikrofon, zwei ___",
+      "answer": "Mikrofone",
+      "fullAnswer": "ein Mikrofon, zwei Mikrofone",
+      "explanation": "The plural is Mikrofone.",
+      "acceptedAnswers": [
+        "Mikrofone"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mikrofon mean?",
+      "options": [
+        "the weather",
+        "to wait",
+        "microphone"
+      ],
+      "answer": "microphone",
+      "explanation": "Mikrofon: microphone.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Short form:",
+      "options": [
+        "das Mikro",
+        "der Mike"
+      ],
+      "answer": "das Mikro",
+      "explanation": "Mikro.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Spelling variants:",
+      "options": [
+        "Mikrofon or Mikrophon",
+        "only Microphone"
+      ],
+      "answer": "Mikrofon or Mikrophon",
+      "explanation": "Both.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stummschalten means…",
+      "options": [
+        "to mute",
+        "to switch off the light"
+      ],
+      "answer": "to mute",
+      "explanation": "Mute.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Mikrofon (also spelled Mikrophon) is a microphone, often shortened to das Mikro. Online-meeting German: Du bist stummgeschaltet (you're on mute), Mach dein Mikro an! German companies such as Sennheiser and Neumann (whose U 47 is a studio classic) are world-famous for microphones. From Greek mikros (small) and phone (sound). Stressed on the last syllable. Plural: die Mikrofone."
+}

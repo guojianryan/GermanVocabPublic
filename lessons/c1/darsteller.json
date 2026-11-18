@@ -1,0 +1,145 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Darsteller",
+    "partOfSpeech": "noun, masculine (der Darsteller)",
+    "pronunciation": {
+      "respelling": "DAR-shtel-er",
+      "ipa": "ˈdaːɐ̯ˌʃtɛlɐ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "actor, performer",
+    "shortDefinition": "Actor, performer."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "Dar",
+        "meaning": "forth, there"
+      },
+      {
+        "part": "stell",
+        "meaning": "place, put"
+      },
+      {
+        "part": "er",
+        "meaning": "person who does it"
+      }
+    ],
+    "literalMeaning": "one who puts it forth"
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Darsteller, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Darsteller"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Darsteller des Hamlet wurde gefeiert.",
+      "english": "The actor playing Hamlet was celebrated.",
+      "highlight": [
+        "Darsteller"
+      ]
+    },
+    {
+      "german": "Die Darstellerin spielt zum ersten Mal im Theater.",
+      "english": "The actress is performing in a theatre for the first time.",
+      "highlight": [
+        "Darstellerin"
+      ]
+    }
+  ],
+  "forms": [
+    "die Darsteller",
+    "der Darsteller",
+    "Darstellerin",
+    "Hauptdarsteller",
+    "darstellen"
+  ],
+  "memoryHook": "Darsteller: the one who puts the role on stage.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Darsteller",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Darsteller is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Darsteller mean?",
+      "options": [
+        "actor",
+        "the family",
+        "the door"
+      ],
+      "answer": "actor",
+      "explanation": "Darsteller: actor, performer.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "The feminine form is…",
+      "options": [
+        "die Darstellerin",
+        "die Darstellerinne"
+      ],
+      "answer": "die Darstellerin",
+      "explanation": "-in.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Darstellen means…",
+      "options": [
+        "to portray, represent",
+        "to put in front"
+      ],
+      "answer": "to portray, represent",
+      "explanation": "Role.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Hauptdarsteller is…",
+      "options": [
+        "the lead actor",
+        "the main director"
+      ],
+      "answer": "the lead actor",
+      "explanation": "Lead.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schauspieler is…",
+      "options": [
+        "the everyday word for actor",
+        "a dancer"
+      ],
+      "answer": "the everyday word for actor",
+      "explanation": "More common.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Darsteller is a performer who portrays a character, from darstellen (to portray). It's often used in credits and reviews: die Hauptdarsteller (lead actors), der Nebendarsteller (supporting actor), die Laiendarsteller (amateur actors). The everyday word for an actor is der Schauspieler. Darstellung is the matching noun for portrayal or depiction. No plural ending is added: die Darsteller."
+}

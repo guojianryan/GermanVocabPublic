@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Astronomie",
+    "partOfSpeech": "noun, feminine (die Astronomie)",
+    "pronunciation": {
+      "respelling": "as-tro-no-MEE",
+      "ipa": "astʁonoˈmiː",
+      "notes": "Usually no plural."
+    },
+    "meaning": "astronomy",
+    "shortDefinition": "Astronomy."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Astronomie, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Astronomie"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie interessiert sich für Astronomie.",
+      "english": "She's interested in astronomy.",
+      "highlight": [
+        "Astronomie."
+      ]
+    },
+    {
+      "german": "Die Astronomie erforscht Sterne und Galaxien.",
+      "english": "Astronomy studies stars and galaxies.",
+      "highlight": [
+        "Astronomie"
+      ]
+    }
+  ],
+  "forms": [
+    "die Astronomie",
+    "Astronom",
+    "astronomisch"
+  ],
+  "memoryHook": "Astronomie: the law (nomos) of the stars (astron).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Astronomie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Astronomie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Astronomie mean?",
+      "options": [
+        "astronomy",
+        "the station",
+        "the child"
+      ],
+      "answer": "astronomy",
+      "explanation": "Astronomie: astronomy.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Astronom is…",
+      "options": [
+        "astronomer (weak noun)",
+        "astronaut"
+      ],
+      "answer": "astronomer (weak noun)",
+      "explanation": "Person.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Astronomisch (colloquial) means…",
+      "options": [
+        "astronomical, huge (prices)",
+        "starry"
+      ],
+      "answer": "astronomical, huge (prices)",
+      "explanation": "Huge.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Astrologie is…",
+      "options": [
+        "astrology",
+        "astronomy"
+      ],
+      "answer": "astrology",
+      "explanation": "Different.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Astronomie is astronomy; der Astronom (weak noun) is an astronomer. Johannes Kepler, working in Prague and Linz, discovered the laws of planetary motion in the early 1600s, and Germany's Max Planck institutes are leaders in astronomy today. Astronomisch also means astronomical: astronomische Preise. Don't confuse it with die Astrologie (astrology, horoscopes). It has no plural."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Seefahrt",
+    "partOfSpeech": "noun, feminine (die Seefahrt)",
+    "pronunciation": {
+      "respelling": "ZAY-faart",
+      "ipa": "ˈzeːˌfaːɐ̯t",
+      "notes": "Plural: die Seefahrten."
+    },
+    "meaning": "seafaring, navigation; sea voyage",
+    "shortDefinition": "Seafaring, navigation; sea voyage."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Seefahrt, plural die Seefahrten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Seefahrt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Seefahrten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Hamburg ist seit Jahrhunderten von der Seefahrt geprägt.",
+      "english": "Hamburg has been shaped by seafaring for centuries.",
+      "highlight": [
+        "Seefahrt"
+      ]
+    },
+    {
+      "german": "Eine Seefahrt, die ist lustig.",
+      "english": "A sea voyage is merry (song title).",
+      "highlight": [
+        "Seefahrt,"
+      ]
+    }
+  ],
+  "forms": [
+    "Seefahrten",
+    "die Seefahrt"
+  ],
+  "memoryHook": "Seefahrt: a Fahrt (journey) on the See (sea).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Seefahrt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Seefahrt is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Seefahrt, zwei ___",
+      "answer": "Seefahrten",
+      "fullAnswer": "ein Seefahrt, zwei Seefahrten",
+      "explanation": "The plural is Seefahrten.",
+      "acceptedAnswers": [
+        "Seefahrten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Seefahrt mean?",
+      "options": [
+        "quiet",
+        "seafaring",
+        "the car"
+      ],
+      "answer": "seafaring",
+      "explanation": "Seefahrt: seafaring, navigation; sea voyage.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die See (feminine) is…",
+      "options": [
+        "the sea",
+        "a lake"
+      ],
+      "answer": "the sea",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der See (masculine) is…",
+      "options": [
+        "a lake",
+        "the sea"
+      ],
+      "answer": "a lake",
+      "explanation": "Contrast.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Hanse was…",
+      "options": [
+        "a medieval trade league of seafaring cities",
+        "a ship"
+      ],
+      "answer": "a medieval trade league of seafaring cities",
+      "explanation": "History.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Seefahrt is seafaring or navigation, and a sea voyage: die christliche Seefahrt (merchant shipping, an old expression), eine Seefahrt machen. Northern cities like Hamburg, Bremen and Lübeck grew rich through the Hanse. Note die See (the sea) versus der See (a lake). Der Seefahrer is a seafarer. Plural: die Seefahrten."
+}

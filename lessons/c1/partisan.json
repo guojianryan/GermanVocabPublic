@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Partisan",
+    "partOfSpeech": "noun, masculine (der Partisan)",
+    "pronunciation": {
+      "respelling": "par-ti-ZAAN",
+      "ipa": "paʁtiˈzaːn",
+      "notes": "Plural: die Partisanen."
+    },
+    "meaning": "partisan, guerrilla fighter",
+    "shortDefinition": "Partisan, guerrilla fighter."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Partisan, plural die Partisanen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Partisan"
+        },
+        {
+          "label": "More than one",
+          "value": "die Partisanen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Zweiten Weltkrieg kämpften Partisanen gegen die Besatzer.",
+      "english": "In WWII partisans fought against the occupiers.",
+      "highlight": [
+        "Partisanen"
+      ]
+    },
+    {
+      "german": "Der Partisanenkrieg war besonders grausam.",
+      "english": "The partisan war was especially brutal.",
+      "highlight": [
+        "Partisanenkrieg"
+      ]
+    }
+  ],
+  "forms": [
+    "Partisanen",
+    "der Partisan",
+    "Partisanin"
+  ],
+  "memoryHook": "Partisan: a fighter for a party (Italian partigiano).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Partisan",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Partisan is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Partisan, zwei ___",
+      "answer": "Partisanen",
+      "fullAnswer": "ein Partisan, zwei Partisanen",
+      "explanation": "The plural is Partisanen.",
+      "acceptedAnswers": [
+        "Partisanen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Partisan mean?",
+      "options": [
+        "partisan",
+        "the flower",
+        "to wait"
+      ],
+      "answer": "partisan",
+      "explanation": "Partisan: partisan, guerrilla fighter.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Partisan is declined…",
+      "options": [
+        "weakly (den Partisanen)",
+        "strongly only"
+      ],
+      "answer": "weakly (den Partisanen)",
+      "explanation": "Declension.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In German, Partisan mainly means…",
+      "options": [
+        "guerrilla fighter",
+        "a party supporter"
+      ],
+      "answer": "guerrilla fighter",
+      "explanation": "False friend.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Guerillakämpfer is…",
+      "options": [
+        "guerrilla fighter",
+        "a gorilla keeper"
+      ],
+      "answer": "guerrilla fighter",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Partisan (die Partisanin) is a partisan or guerrilla fighter, especially resistance fighters against occupying forces in WWII in Yugoslavia, Italy, the Soviet Union and elsewhere. In German it doesn't mean a party supporter (that's der Anhänger). Wehrmacht crimes in so-called Partisanenbekämpfung were exposed in the 1990s Wehrmachtsausstellung. It's declined weakly: den Partisanen. Plural: die Partisanen."
+}

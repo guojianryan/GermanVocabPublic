@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "unterteilen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "un-ter-TAI-len",
+      "ipa": "ʊntɐˈtaɪ̯lən",
+      "notes": ""
+    },
+    "meaning": "to subdivide, divide up",
+    "shortDefinition": "To subdivide, divide up."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "unterteil|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "unterteil|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "unterteil|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "unterteil|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "unterteil|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "unterteil|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat unterteilt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Buch ist in drei Teile unterteilt.",
+      "english": "The book is divided into three parts.",
+      "highlight": [
+        "unterteilt."
+      ]
+    },
+    {
+      "german": "Man unterteilt die Tiere in Gruppen.",
+      "english": "Animals are divided into groups.",
+      "highlight": [
+        "unterteilt"
+      ]
+    }
+  ],
+  "forms": [
+    "unterteile",
+    "unterteilst",
+    "unterteilt",
+    "unterteilen",
+    "Unterteilung"
+  ],
+  "memoryHook": "Unterteilen: divide (teilen) further down (unter).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (unterteilen)",
+      "answer": "unterteilt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: unterteilt.",
+      "acceptedAnswers": [
+        "unterteilt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (unterteilen, past)",
+      "answer": "unterteilt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe unterteilt.",
+      "acceptedAnswers": [
+        "unterteilt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does unterteilen mean?",
+      "options": [
+        "the flower",
+        "the job",
+        "to subdivide"
+      ],
+      "answer": "to subdivide",
+      "explanation": "unterteilen: to subdivide, divide up.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unterteilen in + accusative means…",
+      "options": [
+        "to divide into",
+        "to share with"
+      ],
+      "answer": "to divide into",
+      "explanation": "Divide.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unterteilen is…",
+      "options": [
+        "not separable",
+        "separable"
+      ],
+      "answer": "not separable",
+      "explanation": "hat unterteilt.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Unterteilung is…",
+      "options": [
+        "subdivision",
+        "underpart"
+      ],
+      "answer": "subdivision",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Unterteilen means to subdivide or divide into parts: einen Text in Abschnitte unterteilen, Die Stadt ist in zwölf Bezirke unterteilt. Die Unterteilung is a subdivision. It's not separable: hat unterteilt. Compare einteilen (to divide up, plan), aufteilen (to share out), verteilen (to distribute) and teilen (to share, divide). All use the root der Teil (part)."
+}

@@ -1,0 +1,143 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kult",
+    "partOfSpeech": "noun, masculine (der Kult)",
+    "pronunciation": {
+      "respelling": "KULT",
+      "ipa": "kʊlt",
+      "notes": "Plural: die Kulte."
+    },
+    "meaning": "cult; cult status; worship",
+    "shortDefinition": "Cult; cult status; worship."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kult, plural die Kulte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kult"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kulte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Film hat Kultstatus erreicht.",
+      "english": "The film has reached cult status.",
+      "highlight": [
+        "Kultstatus"
+      ]
+    },
+    {
+      "german": "Um den Fußball wird ein regelrechter Kult betrieben.",
+      "english": "A real cult is made around football.",
+      "highlight": [
+        "Kult"
+      ]
+    }
+  ],
+  "forms": [
+    "Kulte",
+    "die Kulte",
+    "der Kult",
+    "Kultfilm",
+    "Kultstatus",
+    "Kultobjekt"
+  ],
+  "memoryHook": "Kult: from worship to being really cool.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kult",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kult is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kult, zwei ___",
+      "answer": "Kulte",
+      "fullAnswer": "ein Kult, zwei Kulte",
+      "explanation": "The plural is Kulte.",
+      "acceptedAnswers": [
+        "Kulte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kult mean?",
+      "options": [
+        "the street",
+        "to sing",
+        "cult"
+      ],
+      "answer": "cult",
+      "explanation": "Kult: cult; cult status; worship.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kult in German is…",
+      "options": [
+        "often positive (cult status)",
+        "always negative (sect)"
+      ],
+      "answer": "often positive (cult status)",
+      "explanation": "Not only religious.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A religious sect is usually called…",
+      "options": [
+        "die Sekte",
+        "der Kult"
+      ],
+      "answer": "die Sekte",
+      "explanation": "Negative sense.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kultfilm means…",
+      "options": [
+        "a film with a devoted following",
+        "a religious film"
+      ],
+      "answer": "a film with a devoted following",
+      "explanation": "Cult film.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Kulte",
+        "Kulten"
+      ],
+      "answer": "Kulte",
+      "explanation": "-e.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Der Kult has an old religious sense (worship, rite), but today it mostly means something that has a devoted following: Kultfilm, Kultserie, Kultbuch, Kultstatus. Das ist Kult! is a way of saying something is legendary. A dubious religious group, on the other hand, is not usually called a Kult but die Sekte. The adjective kultig describes something quirky and loved by fans: ein kultiges Café."
+}

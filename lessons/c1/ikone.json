@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ikone",
+    "partOfSpeech": "noun, feminine (die Ikone)",
+    "pronunciation": {
+      "respelling": "i-KOH-ne",
+      "ipa": "iˈkoːnə",
+      "notes": "Plural: die Ikonen."
+    },
+    "meaning": "icon",
+    "shortDefinition": "Icon."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Ikone, plural die Ikonen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Ikone"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ikonen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In der Kirche hängen alte Ikonen.",
+      "english": "Old icons hang in the church.",
+      "highlight": [
+        "Ikonen."
+      ]
+    },
+    {
+      "german": "Marlene Dietrich ist eine Ikone des Films.",
+      "english": "Marlene Dietrich is a film icon.",
+      "highlight": [
+        "Ikone"
+      ]
+    }
+  ],
+  "forms": [
+    "Ikonen",
+    "die Ikone"
+  ],
+  "memoryHook": "Ikone: an image (Greek eikon).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ikone",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Ikone is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Ikone, zwei ___",
+      "answer": "Ikonen",
+      "fullAnswer": "ein Ikone, zwei Ikonen",
+      "explanation": "The plural is Ikonen.",
+      "acceptedAnswers": [
+        "Ikonen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ikone mean?",
+      "options": [
+        "cheap",
+        "expensive",
+        "icon"
+      ],
+      "answer": "icon",
+      "explanation": "Ikone: icon.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Original meaning:",
+      "options": [
+        "a religious image (Orthodox church)",
+        "a computer symbol"
+      ],
+      "answer": "a religious image (Orthodox church)",
+      "explanation": "Origin.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A computer icon is usually…",
+      "options": [
+        "das Icon / das Symbol",
+        "die Ikone"
+      ],
+      "answer": "das Icon / das Symbol",
+      "explanation": "IT.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ikonisch means…",
+      "options": [
+        "iconic",
+        "ironic"
+      ],
+      "answer": "iconic",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Ikone is an icon: a painted religious image in Orthodox churches, and figuratively a cultural icon: eine Stilikone, eine Ikone der Popmusik. Berlin-born Marlene Dietrich is a classic Hollywood Ikone. On computers, people say das Icon or das Symbol. Ikonisch means iconic. Plural: die Ikonen."
+}

@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ausspionieren",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AUS-shpi-o-nee-ren",
+      "ipa": "ˈaʊ̯sʃpi̯oˌniːʁən",
+      "notes": ""
+    },
+    "meaning": "to spy on",
+    "shortDefinition": "To spy on."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "spionier|e … |aus"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "spionier|st … |aus"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "spionier|t … |aus"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "spionier|en … |aus"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "spionier|t … |aus"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "spionier|en … |aus"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat ausspioniert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Stasi spionierte Millionen Bürger aus.",
+      "english": "The Stasi spied on millions of citizens.",
+      "highlight": [
+        "spionierte",
+        "aus."
+      ]
+    },
+    {
+      "german": "Die App spioniert die Nutzer aus.",
+      "english": "The app spies on its users.",
+      "highlight": [
+        "spioniert",
+        "aus."
+      ]
+    }
+  ],
+  "forms": [
+    "spioniere aus",
+    "spionierst aus",
+    "spioniert aus",
+    "spionieren aus",
+    "ausspioniert",
+    "spionierte aus"
+  ],
+  "memoryHook": "Ausspionieren: spionieren (spy) to find everything out (aus).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … aus (ausspionieren)",
+      "answer": "spioniert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: spioniert … aus.",
+      "acceptedAnswers": [
+        "spioniert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (ausspionieren, past)",
+      "answer": "ausspioniert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe ausspioniert.",
+      "acceptedAnswers": [
+        "ausspioniert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does ausspionieren mean?",
+      "options": [
+        "to spy on",
+        "the job",
+        "the shop"
+      ],
+      "answer": "to spy on",
+      "explanation": "ausspionieren: to spy on.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Spion is…",
+      "options": [
+        "spy",
+        "a spoon"
+      ],
+      "answer": "spy",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Participle:",
+      "options": [
+        "ausspioniert (no ge-)",
+        "ausgespioniert"
+      ],
+      "answer": "ausspioniert (no ge-)",
+      "explanation": "Grammar.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "bespitzeln, überwachen, ausforschen",
+        "ignorieren"
+      ],
+      "answer": "bespitzeln, überwachen, ausforschen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Ausspionieren means to spy on someone or something: Nachbarn, Firmen, Daten ausspionieren. In the GDR, the Stasi spied on a large part of the population; after 1990 people could read their own files. The 2013 revelation that the NSA had tapped Angela Merkel's phone caused outrage. Der Spion is a spy. Participle: ausspioniert."
+}

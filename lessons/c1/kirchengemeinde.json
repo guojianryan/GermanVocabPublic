@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kirchengemeinde",
+    "partOfSpeech": "noun, feminine (die Kirchengemeinde)",
+    "pronunciation": {
+      "respelling": "KIR-khen-ge-main-de",
+      "ipa": "ˈkɪʁçn̩ɡəˌmaɪ̯ndə",
+      "notes": "Plural: die Kirchengemeinden."
+    },
+    "meaning": "parish, congregation",
+    "shortDefinition": "Parish, congregation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kirchengemeinde, plural die Kirchengemeinden.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kirchengemeinde"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kirchengemeinden"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Kirchengemeinde organisiert ein Sommerfest.",
+      "english": "The parish is organising a summer party.",
+      "highlight": [
+        "Kirchengemeinde"
+      ]
+    },
+    {
+      "german": "Sie ist in der Kirchengemeinde aktiv.",
+      "english": "She's active in the parish.",
+      "highlight": [
+        "Kirchengemeinde"
+      ]
+    }
+  ],
+  "forms": [
+    "Kirchengemeinden",
+    "die Kirchengemeinden",
+    "die Kirchengemeinde"
+  ],
+  "memoryHook": "Kirchengemeinde: the Gemeinde that gathers around a Kirche.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kirchengemeinde",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kirchengemeinde is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kirchengemeinde, zwei ___",
+      "answer": "Kirchengemeinden",
+      "fullAnswer": "ein Kirchengemeinde, zwei Kirchengemeinden",
+      "explanation": "The plural is Kirchengemeinden.",
+      "acceptedAnswers": [
+        "Kirchengemeinden"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kirchengemeinde mean?",
+      "options": [
+        "parish",
+        "slowly",
+        "to learn"
+      ],
+      "answer": "parish",
+      "explanation": "Kirchengemeinde: parish, congregation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gemeinde alone also means…",
+      "options": [
+        "municipality",
+        "church tower"
+      ],
+      "answer": "municipality",
+      "explanation": "Gemeinde.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gemeindehaus is…",
+      "options": [
+        "the parish hall",
+        "the town hall"
+      ],
+      "answer": "the parish hall",
+      "explanation": "Parish hall.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Members pay…",
+      "options": [
+        "Kirchensteuer",
+        "Rundfunkbeitrag"
+      ],
+      "answer": "Kirchensteuer",
+      "explanation": "Church tax.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kirchengemeinde is a parish or congregation, the local community of a church: die evangelische Kirchengemeinde. On its own, die Gemeinde also means a municipality, so the full compound avoids confusion. Kirchengemeinden run kindergartens, choirs and youth groups, funded partly by the Kirchensteuer that registered members pay. Das Gemeindehaus is the parish hall, and der Gemeinderat can be either council."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sportverein",
+    "partOfSpeech": "noun, masculine (der Sportverein)",
+    "pronunciation": {
+      "respelling": "SHPORT-fer-ain",
+      "ipa": "ˈʃpɔʁtfɛɐ̯ˌʔaɪ̯n",
+      "notes": "Plural: die Sportvereine."
+    },
+    "meaning": "sports club",
+    "shortDefinition": "Sports club."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Sportverein, plural die Sportvereine.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Sportverein"
+        },
+        {
+          "label": "More than one",
+          "value": "die Sportvereine"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Mein Sohn ist im Sportverein.",
+      "english": "My son is in a sports club.",
+      "highlight": [
+        "Sportverein."
+      ]
+    },
+    {
+      "german": "Deutschland hat rund 87.000 Sportvereine.",
+      "english": "Germany has around 87,000 sports clubs.",
+      "highlight": [
+        "Sportvereine."
+      ]
+    }
+  ],
+  "forms": [
+    "Sportvereine",
+    "die Sportvereine",
+    "der Sportverein"
+  ],
+  "memoryHook": "Sportverein: a Verein (club) for Sport.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sportverein",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Sportverein is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Sportverein, zwei ___",
+      "answer": "Sportvereine",
+      "fullAnswer": "ein Sportverein, zwei Sportvereine",
+      "explanation": "The plural is Sportvereine.",
+      "acceptedAnswers": [
+        "Sportvereine"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sportverein mean?",
+      "options": [
+        "sports club",
+        "to sing",
+        "never"
+      ],
+      "answer": "sports club",
+      "explanation": "Sportverein: sports club.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Most German sports are organised in…",
+      "options": [
+        "non-profit clubs (Vereine)",
+        "schools"
+      ],
+      "answer": "non-profit clubs (Vereine)",
+      "explanation": "Clubs.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "e.V. means…",
+      "options": [
+        "eingetragener Verein (registered association)",
+        "extra Verein"
+      ],
+      "answer": "eingetragener Verein (registered association)",
+      "explanation": "e.V.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "TSV, SV, FC are…",
+      "options": [
+        "typical club name abbreviations",
+        "TV channels"
+      ],
+      "answer": "typical club name abbreviations",
+      "explanation": "Names.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Sportverein is a sports club. In Germany, most sport is organised not by schools but by about 87,000 non-profit clubs with over 27 million memberships, run largely by volunteers. Names like TSV (Turn- und Sportverein), SV, FC or SC are typical, often with a founding year: TSV 1860 München. The Deutscher Olympischer Sportbund (DOSB) is the umbrella organisation. Plural: die Sportvereine."
+}

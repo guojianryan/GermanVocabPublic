@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "(sich) vergewissern",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-ge-VI-sern",
+      "ipa": "fɛɐ̯ɡəˈvɪsɐn",
+      "notes": ""
+    },
+    "meaning": "to make sure, check",
+    "shortDefinition": "To make sure, check."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "vergewisser|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "vergewisser|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "vergewisser|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "vergewisser|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "vergewisser|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "vergewisser|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat vergewissert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Vergewissern Sie sich, dass die Tür abgeschlossen ist.",
+      "english": "Make sure the door is locked.",
+      "highlight": [
+        "Vergewissern"
+      ]
+    },
+    {
+      "german": "Er vergewisserte sich, ob alle da waren.",
+      "english": "He checked whether everyone was there.",
+      "highlight": [
+        "vergewisserte"
+      ]
+    }
+  ],
+  "forms": [
+    "vergewissere",
+    "vergewisserst",
+    "vergewissert",
+    "vergewissern"
+  ],
+  "memoryHook": "Sich vergewissern: make yourself gewiss (certain).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ ((sich) vergewissern)",
+      "answer": "vergewissert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: vergewissert.",
+      "acceptedAnswers": [
+        "vergewissert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe mich schon ___. ((sich) vergewissern, past)",
+      "answer": "vergewissert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe mich vergewissert.",
+      "acceptedAnswers": [
+        "vergewissert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does (sich) vergewissern mean?",
+      "options": [
+        "to make sure",
+        "the bill",
+        "the shop"
+      ],
+      "answer": "to make sure",
+      "explanation": "(sich) vergewissern: to make sure, check.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich einer Sache vergewissern takes…",
+      "options": [
+        "the genitive",
+        "the dative"
+      ],
+      "answer": "the genitive",
+      "explanation": "Genitive.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gewiss means…",
+      "options": [
+        "certain, sure",
+        "conscience"
+      ],
+      "answer": "certain, sure",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday synonym:",
+      "options": [
+        "sich versichern, nachsehen",
+        "vergessen"
+      ],
+      "answer": "sich versichern, nachsehen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Sich vergewissern means to make sure or check: sich vergewissern, dass / ob..., or with the genitive: sich einer Sache vergewissern. From gewiss (certain). Everyday alternatives: nachsehen, nachprüfen, sich überzeugen. Don't confuse it with vergessen (to forget). Regular and reflexive: vergewisserte sich, hat sich vergewissert."
+}

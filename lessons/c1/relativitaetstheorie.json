@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Relativitätstheorie",
+    "partOfSpeech": "noun, feminine (die Relativitätstheorie)",
+    "pronunciation": {
+      "respelling": "re-la-ti-vi-TAYTS-te-o-ree",
+      "ipa": "ʁelativiˈtɛːt͡steoˌʁiː",
+      "notes": "Usually no plural."
+    },
+    "meaning": "theory of relativity",
+    "shortDefinition": "Theory of relativity."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Relativitätstheorie, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Relativitätstheorie"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Einstein veröffentlichte 1905 die spezielle Relativitätstheorie.",
+      "english": "Einstein published the special theory of relativity in 1905.",
+      "highlight": [
+        "Relativitätstheorie."
+      ]
+    },
+    {
+      "german": "Ohne die Relativitätstheorie würde GPS nicht genau funktionieren.",
+      "english": "Without relativity, GPS wouldn't work accurately.",
+      "highlight": [
+        "Relativitätstheorie"
+      ]
+    }
+  ],
+  "forms": [
+    "die Relativitätstheorie"
+  ],
+  "memoryHook": "Relativitätstheorie: the Theorie of Relativität.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Relativitätstheorie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Relativitätstheorie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Relativitätstheorie mean?",
+      "options": [
+        "never",
+        "theory of relativity",
+        "to travel"
+      ],
+      "answer": "theory of relativity",
+      "explanation": "Relativitätstheorie: theory of relativity.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "The general theory of relativity dates from…",
+      "options": [
+        "1915",
+        "1905"
+      ],
+      "answer": "1915",
+      "explanation": "1915.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "E = mc² comes from…",
+      "options": [
+        "special relativity",
+        "quantum theory"
+      ],
+      "answer": "special relativity",
+      "explanation": "Formula.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Relativ means…",
+      "options": [
+        "relative",
+        "related"
+      ],
+      "answer": "relative",
+      "explanation": "Root.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Relativitätstheorie is the theory of relativity: Albert Einstein published the spezielle Relativitätstheorie in 1905, his Wunderjahr, including E = mc², and the allgemeine Relativitätstheorie in Berlin in 1915. It's essential for GPS satellites. Alles ist relativ (everything is relative) is a popular, loose summary. It has no plural."
+}

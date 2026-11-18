@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "schrumpfen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHRUMP-fen",
+      "ipa": "ˈʃʁʊmp͡fn̩",
+      "notes": ""
+    },
+    "meaning": "to shrink",
+    "shortDefinition": "To shrink."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schrumpf|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schrumpf|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schrumpf|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schrumpf|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schrumpf|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schrumpf|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist geschrumpft"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Pullover ist in der Wäsche geschrumpft.",
+      "english": "The jumper shrank in the wash.",
+      "highlight": [
+        "geschrumpft."
+      ]
+    },
+    {
+      "german": "Die Bevölkerung im Osten schrumpft.",
+      "english": "The population in the east is shrinking.",
+      "highlight": [
+        "schrumpft."
+      ]
+    }
+  ],
+  "forms": [
+    "schrumpfe",
+    "schrumpfst",
+    "schrumpft",
+    "schrumpfen",
+    "geschrumpft",
+    "schrumpfte"
+  ],
+  "memoryHook": "Schrumpfen: get smaller and wrinkled.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (schrumpfen)",
+      "answer": "schrumpft",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schrumpft.",
+      "acceptedAnswers": [
+        "schrumpft"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (schrumpfen, past)",
+      "answer": "geschrumpft",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin geschrumpft.",
+      "acceptedAnswers": [
+        "geschrumpft"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does schrumpfen mean?",
+      "options": [
+        "the flower",
+        "quiet",
+        "to shrink"
+      ],
+      "answer": "to shrink",
+      "explanation": "schrumpfen: to shrink.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schrumpfen takes the auxiliary…",
+      "options": [
+        "sein",
+        "haben"
+      ],
+      "answer": "sein",
+      "explanation": "Change of state.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schrumpfung is…",
+      "options": [
+        "shrinkage, contraction",
+        "a shrimp"
+      ],
+      "answer": "shrinkage, contraction",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schrumpfkur means…",
+      "options": [
+        "drastic downsizing",
+        "a diet"
+      ],
+      "answer": "drastic downsizing",
+      "explanation": "Figurative.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Schrumpfen means to shrink: Die Hose ist geschrumpft, Die Wirtschaft schrumpft (contracts). It takes sein. Many towns in eastern Germany are schrumpfende Städte, having lost population since 1990. Die Schrumpfkur is drastic downsizing, and die Schrumpffolie shrink wrap. Regular: schrumpfte, ist geschrumpft."
+}

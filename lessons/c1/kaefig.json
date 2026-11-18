@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Käfig",
+    "partOfSpeech": "noun, masculine (der Käfig)",
+    "pronunciation": {
+      "respelling": "KAI-fikh",
+      "ipa": "ˈkɛːfɪç",
+      "notes": "Plural: die Käfige."
+    },
+    "meaning": "cage",
+    "shortDefinition": "Cage."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Käfig, plural die Käfige.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Käfig"
+        },
+        {
+          "label": "More than one",
+          "value": "die Käfige"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Vogel sitzt im Käfig.",
+      "english": "The bird is sitting in the cage.",
+      "highlight": [
+        "Käfig."
+      ]
+    },
+    {
+      "german": "Die EU hat die Käfighaltung von Legehennen verboten.",
+      "english": "The EU has banned keeping laying hens in battery cages.",
+      "highlight": [
+        "Käfighaltung"
+      ]
+    }
+  ],
+  "forms": [
+    "Käfige",
+    "die Käfige",
+    "der Käfig",
+    "Käfighaltung"
+  ],
+  "memoryHook": "Käfig: where animals are kept (Latin cavea).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Käfig",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Käfig is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Käfig, zwei ___",
+      "answer": "Käfige",
+      "fullAnswer": "ein Käfig, zwei Käfige",
+      "explanation": "The plural is Käfige.",
+      "acceptedAnswers": [
+        "Kaefige"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Käfig mean?",
+      "options": [
+        "the flower",
+        "the weather",
+        "cage"
+      ],
+      "answer": "cage",
+      "explanation": "Käfig: cage.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Käfighaltung is…",
+      "options": [
+        "cage farming (hens)",
+        "a zoo"
+      ],
+      "answer": "cage farming (hens)",
+      "explanation": "Farming.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Egg codes: 0 means…",
+      "options": [
+        "organic",
+        "cage"
+      ],
+      "answer": "organic",
+      "explanation": "0 = Bio.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der faradaysche Käfig is…",
+      "options": [
+        "a Faraday cage",
+        "a bird cage"
+      ],
+      "answer": "a Faraday cage",
+      "explanation": "Physics.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Käfig is a cage: ein Vogelkäfig, ein goldener Käfig (a gilded cage, comfortable but unfree). In Germany, conventional battery cages for hens (Käfighaltung) were banned in 2010, ahead of the EU. Eggs carry a code: 0 = Bio, 1 = Freiland (free range), 2 = Bodenhaltung (barn), 3 = Käfig. In physics, a car protects you from lightning as a faradayscher Käfig. Plural: die Käfige."
+}

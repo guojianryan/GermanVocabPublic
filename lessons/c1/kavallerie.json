@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kavallerie",
+    "partOfSpeech": "noun, feminine (die Kavallerie)",
+    "pronunciation": {
+      "respelling": "ka-va-le-REE",
+      "ipa": "kavaləˈʁiː",
+      "notes": "Plural: die Kavallerien."
+    },
+    "meaning": "cavalry",
+    "shortDefinition": "Cavalry."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kavallerie, plural die Kavallerien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kavallerie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kavallerien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Kavallerie griff von der Flanke an.",
+      "english": "The cavalry attacked from the flank.",
+      "highlight": [
+        "Kavallerie"
+      ]
+    },
+    {
+      "german": "Im Ersten Weltkrieg verlor die Kavallerie an Bedeutung.",
+      "english": "In the First World War the cavalry lost importance.",
+      "highlight": [
+        "Kavallerie"
+      ]
+    }
+  ],
+  "forms": [
+    "Kavallerien",
+    "die Kavallerie"
+  ],
+  "memoryHook": "Kavallerie: soldiers on horseback (Italian cavallo).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kavallerie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kavallerie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kavallerie, zwei ___",
+      "answer": "Kavallerien",
+      "fullAnswer": "ein Kavallerie, zwei Kavallerien",
+      "explanation": "The plural is Kavallerien.",
+      "acceptedAnswers": [
+        "Kavallerien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kavallerie mean?",
+      "options": [
+        "cavalry",
+        "never",
+        "to help"
+      ],
+      "answer": "cavalry",
+      "explanation": "Kavallerie: cavalry.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kavalier is…",
+      "options": [
+        "a gentleman",
+        "a cavalryman only"
+      ],
+      "answer": "a gentleman",
+      "explanation": "Gentleman.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Kavaliersdelikt is…",
+      "options": [
+        "a trivial offence (wrongly seen as harmless)",
+        "a duel"
+      ],
+      "answer": "a trivial offence (wrongly seen as harmless)",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress:",
+      "options": [
+        "ka-va-le-RIE",
+        "KA-va-le-rie"
+      ],
+      "answer": "ka-va-le-RIE",
+      "explanation": "Last syllable.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kavallerie is cavalry, soldiers on horseback; with machine guns and trenches in WWI, it lost its role. Related: der Kavalier, originally a horseman, now a gentleman: Kavalier der alten Schule. Das Kavaliersdelikt is an offence people wrongly treat as trivial: Schwarzfahren ist kein Kavaliersdelikt. From Italian cavallo (horse). Stressed on the last syllable. Plural: die Kavallerien."
+}

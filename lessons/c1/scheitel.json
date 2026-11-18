@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Scheitel",
+    "partOfSpeech": "noun, masculine (der Scheitel)",
+    "pronunciation": {
+      "respelling": "SHAI-tel",
+      "ipa": "ˈʃaɪ̯tl̩",
+      "notes": "Plural: die Scheitel."
+    },
+    "meaning": "parting (hair); crown; apex",
+    "shortDefinition": "Parting (hair); crown; apex."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Scheitel, plural die Scheitel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Scheitel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Scheitel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er trägt den Scheitel links.",
+      "english": "He parts his hair on the left.",
+      "highlight": [
+        "Scheitel"
+      ]
+    },
+    {
+      "german": "Sie war vom Scheitel bis zur Sohle durchnässt.",
+      "english": "She was soaked from head to toe.",
+      "highlight": [
+        "Scheitel"
+      ]
+    }
+  ],
+  "forms": [
+    "der Scheitel",
+    "Scheitels"
+  ],
+  "memoryHook": "Scheitel: the line where hair is scheitelt (divided).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Scheitel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Scheitel is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Scheitel, zwei ___",
+      "answer": "Scheitel",
+      "fullAnswer": "ein Scheitel, zwei Scheitel",
+      "explanation": "The plural is Scheitel.",
+      "acceptedAnswers": [
+        "Scheitel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Scheitel mean?",
+      "options": [
+        "to open",
+        "parting (hair)",
+        "hot"
+      ],
+      "answer": "parting (hair)",
+      "explanation": "Scheitel: parting (hair); crown; apex.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vom Scheitel bis zur Sohle means…",
+      "options": [
+        "from head to toe",
+        "from top to bottom of a page"
+      ],
+      "answer": "from head to toe",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In maths, der Scheitelpunkt is…",
+      "options": [
+        "vertex",
+        "a line"
+      ],
+      "answer": "vertex",
+      "explanation": "Maths.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Scheiteln means…",
+      "options": [
+        "to part (hair)",
+        "to fail"
+      ],
+      "answer": "to part (hair)",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Scheitel is a parting in the hair: ein Mittelscheitel (centre parting), ein Seitenscheitel. It also means the crown of the head: vom Scheitel bis zur Sohle (from head to toe, through and through). In maths, der Scheitelpunkt is a vertex. Don't confuse it with scheitern (to fail). The plural is the same: die Scheitel."
+}

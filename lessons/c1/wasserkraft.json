@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wasserkraft",
+    "partOfSpeech": "noun, feminine (die Wasserkraft)",
+    "pronunciation": {
+      "respelling": "VA-ser-kraft",
+      "ipa": "ˈvasɐˌkʁaft",
+      "notes": "Usually no plural."
+    },
+    "meaning": "hydropower",
+    "shortDefinition": "Hydropower."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Wasserkraft, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Wasserkraft"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Norwegen erzeugt fast seinen gesamten Strom aus Wasserkraft.",
+      "english": "Norway generates almost all its electricity from hydropower.",
+      "highlight": [
+        "Wasserkraft."
+      ]
+    },
+    {
+      "german": "Das Wasserkraftwerk liegt an der Donau.",
+      "english": "The hydroelectric plant is on the Danube.",
+      "highlight": [
+        "Wasserkraftwerk"
+      ]
+    }
+  ],
+  "forms": [
+    "die Wasserkraft",
+    "Wasserkraftwerk"
+  ],
+  "memoryHook": "Wasserkraft: the Kraft (power) of Wasser.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wasserkraft",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Wasserkraft is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wasserkraft mean?",
+      "options": [
+        "hydropower",
+        "to learn",
+        "the flower"
+      ],
+      "answer": "hydropower",
+      "explanation": "Wasserkraft: hydropower.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Wasserkraftwerk is…",
+      "options": [
+        "hydroelectric power station",
+        "water works"
+      ],
+      "answer": "hydroelectric power station",
+      "explanation": "Plant.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Most German hydropower comes from…",
+      "options": [
+        "Bavaria and Baden-Württemberg",
+        "the North Sea coast"
+      ],
+      "answer": "Bavaria and Baden-Württemberg",
+      "explanation": "Regions.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kraft is…",
+      "options": [
+        "power, strength",
+        "a craft"
+      ],
+      "answer": "power, strength",
+      "explanation": "Root.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Wasserkraft is hydropower: Strom aus Wasserkraft, das Wasserkraftwerk. In Germany, it supplies only a few percent of electricity, mostly from rivers in Bavaria and Baden-Württemberg, as the country is relatively flat. In Austria, Switzerland and Norway it dominates. Pumped-storage plants (Pumpspeicherkraftwerke) store energy. Die Kraft means power. It has no plural."
+}

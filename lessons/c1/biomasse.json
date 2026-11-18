@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Biomasse",
+    "partOfSpeech": "noun, feminine (die Biomasse)",
+    "pronunciation": {
+      "respelling": "BEE-o-ma-se",
+      "ipa": "ˈbiːoˌmasə",
+      "notes": "Usually no plural."
+    },
+    "meaning": "biomass",
+    "shortDefinition": "Biomass."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Biomasse, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Biomasse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Aus Biomasse wird Strom erzeugt.",
+      "english": "Electricity is generated from biomass.",
+      "highlight": [
+        "Biomasse"
+      ]
+    },
+    {
+      "german": "Mais wird oft als Biomasse für Biogasanlagen angebaut.",
+      "english": "Maize is often grown as biomass for biogas plants.",
+      "highlight": [
+        "Biomasse"
+      ]
+    }
+  ],
+  "forms": [
+    "die Biomasse"
+  ],
+  "memoryHook": "Biomasse: the Masse (mass) of living (bio) material.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Biomasse",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Biomasse is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Biomasse mean?",
+      "options": [
+        "the bed",
+        "the shop",
+        "biomass"
+      ],
+      "answer": "biomass",
+      "explanation": "Biomasse: biomass.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Biogasanlage is…",
+      "options": [
+        "biogas plant",
+        "a bio farm"
+      ],
+      "answer": "biogas plant",
+      "explanation": "Plant.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Critics of energy maize speak of…",
+      "options": [
+        "Vermaisung (maize monoculture)",
+        "Verwaldung"
+      ],
+      "answer": "Vermaisung (maize monoculture)",
+      "explanation": "Critique.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Erneuerbare Energien are…",
+      "options": [
+        "renewable energies",
+        "renewed laws"
+      ],
+      "answer": "renewable energies",
+      "explanation": "Renewables.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Biomasse is biomass, organic material such as wood, crops, manure and waste used for energy. Germany has thousands of Biogasanlagen (biogas plants), many fed with maize, which critics say leads to Vermaisung, landscapes dominated by maize monoculture. In ecology, Biomasse also means the total mass of living things in an area. It has no plural."
+}

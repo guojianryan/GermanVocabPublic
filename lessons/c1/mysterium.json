@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mysterium",
+    "partOfSpeech": "noun, neuter (das Mysterium)",
+    "pronunciation": {
+      "respelling": "mis-TAY-ri-um",
+      "ipa": "mʏsˈteːʁiʊm",
+      "notes": "Plural: die Mysterien."
+    },
+    "meaning": "mystery",
+    "shortDefinition": "Mystery."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Mysterium, plural die Mysterien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Mysterium"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mysterien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wie das passiert ist, bleibt ein Mysterium.",
+      "english": "How that happened remains a mystery.",
+      "highlight": [
+        "Mysterium."
+      ]
+    },
+    {
+      "german": "Die Mysterien des Universums faszinieren ihn.",
+      "english": "The mysteries of the universe fascinate him.",
+      "highlight": [
+        "Mysterien"
+      ]
+    }
+  ],
+  "forms": [
+    "Mysterien",
+    "die Mysterien",
+    "das Mysterium",
+    "mysteriös"
+  ],
+  "memoryHook": "Mysterium: a secret rite (Greek mysterion).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mysterium",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Mysterium is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mysterium, zwei ___",
+      "answer": "Mysterien",
+      "fullAnswer": "ein Mysterium, zwei Mysterien",
+      "explanation": "The plural is Mysterien.",
+      "acceptedAnswers": [
+        "Mysterien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mysterium mean?",
+      "options": [
+        "always",
+        "to travel",
+        "mystery"
+      ],
+      "answer": "mystery",
+      "explanation": "Mysterium: mystery.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mysteriös means…",
+      "options": [
+        "mysterious",
+        "miserable"
+      ],
+      "answer": "mysterious",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday synonym:",
+      "options": [
+        "das Rätsel",
+        "die Mystik"
+      ],
+      "answer": "das Rätsel",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Mysterien",
+        "die Mysteriums"
+      ],
+      "answer": "die Mysterien",
+      "explanation": "Latin.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Mysterium is a mystery, often with a religious or grand tone: das Mysterium des Lebens, das Mysterium der Dreifaltigkeit. Everyday, Germans say das Rätsel: Das ist mir ein Rätsel. Mysteriös means mysterious. In the Middle Ages, Mysterienspiele were religious plays; Oberammergau's Passion Play, performed every ten years since 1634, continues that tradition. Plural: die Mysterien."
+}

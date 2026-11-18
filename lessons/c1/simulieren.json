@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "simulieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "zi-mu-LEE-ren",
+      "ipa": "zimuˈliːʁən",
+      "notes": ""
+    },
+    "meaning": "to simulate; to fake (illness)",
+    "shortDefinition": "To simulate; to fake (illness)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "simulier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "simulier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "simulier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "simulier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "simulier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "simulier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat simuliert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Computer simuliert den Flug.",
+      "english": "The computer simulates the flight.",
+      "highlight": [
+        "simuliert"
+      ]
+    },
+    {
+      "german": "Er hat die Krankheit nur simuliert.",
+      "english": "He was only faking the illness.",
+      "highlight": [
+        "simuliert."
+      ]
+    }
+  ],
+  "forms": [
+    "simuliere",
+    "simulierst",
+    "simuliert",
+    "simulieren",
+    "Simulation",
+    "Simulant"
+  ],
+  "memoryHook": "Simulieren: make something look similar (similis) to reality.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (simulieren)",
+      "answer": "simuliert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: simuliert.",
+      "acceptedAnswers": [
+        "simuliert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (simulieren, past)",
+      "answer": "simuliert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe simuliert.",
+      "acceptedAnswers": [
+        "simuliert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does simulieren mean?",
+      "options": [
+        "the station",
+        "to simulate",
+        "to learn"
+      ],
+      "answer": "to simulate",
+      "explanation": "simulieren: to simulate; to fake (illness).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Simulant is…",
+      "options": [
+        "malingerer (fakes illness)",
+        "simulator"
+      ],
+      "answer": "malingerer (fakes illness)",
+      "explanation": "Person.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Simulation is…",
+      "options": [
+        "simulation",
+        "stimulation"
+      ],
+      "answer": "simulation",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Flugsimulator is…",
+      "options": [
+        "flight simulator",
+        "a plane"
+      ],
+      "answer": "flight simulator",
+      "explanation": "Simulator.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Simulieren means to simulate (ein Szenario, einen Unfall simulieren) and to fake an illness: Er simuliert doch nur! Der Simulant is a malingerer. Die Simulation is a simulation: die Computersimulation. In football, faking a foul is die Schwalbe (swallow), and simulieren is the official word. Perfect without ge-: hat simuliert."
+}

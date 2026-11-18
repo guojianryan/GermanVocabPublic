@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "feilen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "FAI-len",
+      "ipa": "ˈfaɪ̯lən",
+      "notes": ""
+    },
+    "meaning": "to file; to polish, refine",
+    "shortDefinition": "To file; to polish, refine."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "feil|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "feil|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "feil|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "feil|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "feil|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "feil|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gefeilt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie feilt sich die Nägel.",
+      "english": "She's filing her nails.",
+      "highlight": [
+        "feilt"
+      ]
+    },
+    {
+      "german": "Er feilt noch an seiner Rede.",
+      "english": "He's still polishing his speech.",
+      "highlight": [
+        "feilt"
+      ]
+    }
+  ],
+  "forms": [
+    "feile",
+    "feilst",
+    "feilt",
+    "feilen",
+    "gefeilt",
+    "feilte",
+    "Feile"
+  ],
+  "memoryHook": "Feilen: rub with a Feile (file).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (feilen)",
+      "answer": "feilt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: feilt.",
+      "acceptedAnswers": [
+        "feilt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (feilen, past)",
+      "answer": "gefeilt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gefeilt.",
+      "acceptedAnswers": [
+        "gefeilt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does feilen mean?",
+      "options": [
+        "tomorrow",
+        "the flower",
+        "to file"
+      ],
+      "answer": "to file",
+      "explanation": "feilen: to file; to polish, refine.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "An etwas feilen means…",
+      "options": [
+        "to polish, refine something",
+        "to fail at something"
+      ],
+      "answer": "to polish, refine something",
+      "explanation": "Refine.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Feile is…",
+      "options": [
+        "file (tool)",
+        "a file folder"
+      ],
+      "answer": "file (tool)",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "A file folder is…",
+      "options": [
+        "der Ordner, die Akte",
+        "die Feile"
+      ],
+      "answer": "der Ordner, die Akte",
+      "explanation": "False friend.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Feilen means to file with a tool: die Nägel feilen, Metall feilen. Figuratively, an etwas feilen means to polish or refine it: an einem Text, einer Strategie, der Technik feilen. Die Feile is the tool (die Nagelfeile); a document file is die Akte or die Datei. Regular: feilte, gefeilt. Not to be confused with feil (old: for sale), as in feilbieten."
+}

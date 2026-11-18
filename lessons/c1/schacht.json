@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schacht",
+    "partOfSpeech": "noun, masculine (der Schacht)",
+    "pronunciation": {
+      "respelling": "shakht",
+      "ipa": "ʃaxt",
+      "notes": "Plural: die Schächte."
+    },
+    "meaning": "shaft (mine, lift)",
+    "shortDefinition": "Shaft (mine, lift)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schacht, plural die Schächte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schacht"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schächte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Bergleute fuhren in den Schacht ein.",
+      "english": "The miners went down the shaft.",
+      "highlight": [
+        "Schacht."
+      ]
+    },
+    {
+      "german": "Der Aufzug steckt im Schacht fest.",
+      "english": "The lift is stuck in the shaft.",
+      "highlight": [
+        "Schacht"
+      ]
+    }
+  ],
+  "forms": [
+    "Schächte",
+    "die Schächte",
+    "der Schacht"
+  ],
+  "memoryHook": "Schacht: a deep vertical passage.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schacht",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schacht is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schacht, zwei ___",
+      "answer": "Schächte",
+      "fullAnswer": "ein Schacht, zwei Schächte",
+      "explanation": "The plural is Schächte.",
+      "acceptedAnswers": [
+        "Schaechte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schacht mean?",
+      "options": [
+        "shaft (mine",
+        "the flower",
+        "always"
+      ],
+      "answer": "shaft (mine",
+      "explanation": "Schacht: shaft (mine, lift).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Aufzugsschacht is…",
+      "options": [
+        "a lift shaft",
+        "a lift button"
+      ],
+      "answer": "a lift shaft",
+      "explanation": "Lift.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Gully / Kanalschacht is…",
+      "options": [
+        "a drain, manhole",
+        "a mineshaft"
+      ],
+      "answer": "a drain, manhole",
+      "explanation": "Drain.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Schächte",
+        "die Schachten"
+      ],
+      "answer": "die Schächte",
+      "explanation": "Umlaut.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Schacht is a shaft: der Aufzugsschacht (lift shaft), der Lüftungsschacht (ventilation shaft), and in mining, der Förderschacht. The Zeche Zollverein in Essen, once Europe's largest coal mine, with its famous Schacht XII winding tower, is now a UNESCO World Heritage Site and design centre. Don't confuse it with das Schach (chess). Plural: die Schächte."
+}

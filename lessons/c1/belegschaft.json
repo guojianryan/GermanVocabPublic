@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Belegschaft",
+    "partOfSpeech": "noun, feminine (die Belegschaft)",
+    "pronunciation": {
+      "respelling": "be-LAYK-shaft",
+      "ipa": "bəˈleːkʃaft",
+      "notes": "Plural: die Belegschaften."
+    },
+    "meaning": "workforce, staff",
+    "shortDefinition": "Workforce, staff."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Belegschaft, plural die Belegschaften.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Belegschaft"
+        },
+        {
+          "label": "More than one",
+          "value": "die Belegschaften"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Belegschaft protestiert gegen die Schließung.",
+      "english": "The workforce is protesting against the closure.",
+      "highlight": [
+        "Belegschaft"
+      ]
+    },
+    {
+      "german": "Der Chef informierte die gesamte Belegschaft.",
+      "english": "The boss informed the entire staff.",
+      "highlight": [
+        "Belegschaft."
+      ]
+    }
+  ],
+  "forms": [
+    "Belegschaften",
+    "die Belegschaft"
+  ],
+  "memoryHook": "Belegschaft: everyone who works at a company.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Belegschaft",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Belegschaft is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Belegschaft, zwei ___",
+      "answer": "Belegschaften",
+      "fullAnswer": "ein Belegschaft, zwei Belegschaften",
+      "explanation": "The plural is Belegschaften.",
+      "acceptedAnswers": [
+        "Belegschaften"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Belegschaft mean?",
+      "options": [
+        "the door",
+        "workforce",
+        "to travel"
+      ],
+      "answer": "workforce",
+      "explanation": "Belegschaft: workforce, staff.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Belegschaft is…",
+      "options": [
+        "all employees of a company",
+        "a document"
+      ],
+      "answer": "all employees of a company",
+      "explanation": "Staff.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Betriebsrat represents…",
+      "options": [
+        "the workforce",
+        "the shareholders"
+      ],
+      "answer": "the workforce",
+      "explanation": "Works council.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Betriebsversammlung is…",
+      "options": [
+        "a staff meeting of the whole workforce",
+        "a board meeting"
+      ],
+      "answer": "a staff meeting of the whole workforce",
+      "explanation": "Meeting.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Belegschaft is the workforce or staff of a company: die gesamte Belegschaft. In Germany, the Belegschaft elects a Betriebsrat (works council) in companies with five or more employees, which has strong rights to be consulted on hiring, firing and working hours. In large companies, employees also sit on the supervisory board (Mitbestimmung). Plural: die Belegschaften."
+}

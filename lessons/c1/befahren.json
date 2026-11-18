@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "befahren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-FAA-ren",
+      "ipa": "bəˈfaːʁən",
+      "notes": ""
+    },
+    "meaning": "to drive on, travel on, use (a road)",
+    "shortDefinition": "To drive on, travel on, use (a road)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "befahr|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "befähr|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "befähr|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "befahr|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "befahr|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "befahr|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat befahren"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Straße ist stark befahren.",
+      "english": "The road is very busy.",
+      "highlight": [
+        "befahren."
+      ]
+    },
+    {
+      "german": "Dieser Weg darf nicht mit dem Auto befahren werden.",
+      "english": "This path may not be used by cars.",
+      "highlight": [
+        "befahren"
+      ]
+    }
+  ],
+  "forms": [
+    "befahre",
+    "befährst",
+    "befährt",
+    "befahren",
+    "befahrt",
+    "befuhr",
+    "befahrbar"
+  ],
+  "memoryHook": "Befahren: drive (fahren) on something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (befahren)",
+      "answer": "befährt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: befährt.",
+      "acceptedAnswers": [
+        "befaehrt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (befahren, past)",
+      "answer": "befahren",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe befahren.",
+      "acceptedAnswers": [
+        "befahren"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does befahren mean?",
+      "options": [
+        "to drive on",
+        "to travel",
+        "the evening"
+      ],
+      "answer": "to drive on",
+      "explanation": "befahren: to drive on, travel on, use (a road).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine stark befahrene Straße is…",
+      "options": [
+        "a busy road",
+        "a fast road"
+      ],
+      "answer": "a busy road",
+      "explanation": "Busy.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Befahren takes…",
+      "options": [
+        "an accusative object (the road)",
+        "auf + dative"
+      ],
+      "answer": "an accusative object (the road)",
+      "explanation": "Grammar.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "befuhr, befahren",
+        "befahrte"
+      ],
+      "answer": "befuhr, befahren",
+      "explanation": "Irregular.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Befahren means to drive or travel on a road or waterway, with a direct object: eine Straße befahren, den Rhein befahren. Stark befahren means busy: eine stark befahrene Kreuzung. Befahrbar means passable: Die Straße ist wieder befahrbar. Signs read Befahren verboten (no driving). Irregular and not separable: befuhr, befahren."
+}

@@ -1,0 +1,159 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bundesstaat",
+    "partOfSpeech": "noun, masculine (der Bundesstaat)",
+    "pronunciation": {
+      "respelling": "BUN-des-shtaat",
+      "ipa": "ˈbʊndəsˌʃtaːt",
+      "notes": "Plural: die Bundesstaaten."
+    },
+    "meaning": "federal state; federation",
+    "shortDefinition": "Federal state; federation."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "Bund",
+        "meaning": "federation"
+      },
+      {
+        "part": "es",
+        "meaning": "linking letter"
+      },
+      {
+        "part": "Staat",
+        "meaning": "state"
+      }
+    ],
+    "literalMeaning": "federation state"
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Bundesstaat, plural die Bundesstaaten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Bundesstaat"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bundesstaaten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die USA bestehen aus fünfzig Bundesstaaten.",
+      "english": "The USA consists of fifty states.",
+      "highlight": [
+        "Bundesstaaten."
+      ]
+    },
+    {
+      "german": "Deutschland ist ein Bundesstaat mit sechzehn Ländern.",
+      "english": "Germany is a federal state with sixteen Länder.",
+      "highlight": [
+        "Bundesstaat"
+      ]
+    }
+  ],
+  "forms": [
+    "Bundesstaaten",
+    "die Bundesstaaten",
+    "der Bundesstaat",
+    "Bundesland"
+  ],
+  "memoryHook": "Bundesstaat: a state made of states.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bundesstaat",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Bundesstaat is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bundesstaat, zwei ___",
+      "answer": "Bundesstaaten",
+      "fullAnswer": "ein Bundesstaat, zwei Bundesstaaten",
+      "explanation": "The plural is Bundesstaaten.",
+      "acceptedAnswers": [
+        "Bundesstaaten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bundesstaat mean?",
+      "options": [
+        "to learn",
+        "hot",
+        "federal state"
+      ],
+      "answer": "federal state",
+      "explanation": "Bundesstaat: federal state; federation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "For Germany's 16 states, the usual word is…",
+      "options": [
+        "Bundesland / Land",
+        "Bundesstaat"
+      ],
+      "answer": "Bundesland / Land",
+      "explanation": "Not Bundesstaat.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bundesstaat is used for…",
+      "options": [
+        "the USA, India, Brazil…",
+        "Germany's Länder"
+      ],
+      "answer": "the USA, India, Brazil…",
+      "explanation": "Other federations.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Bundesstaaten",
+        "Bundesstaate"
+      ],
+      "answer": "Bundesstaaten",
+      "explanation": "-en.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Bundesstaat can also mean…",
+      "options": [
+        "a federation as a whole",
+        "a federal tax"
+      ],
+      "answer": "a federation as a whole",
+      "explanation": "Type of state.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Der Bundesstaat has two meanings: a federal state as a type (Deutschland, Österreich and die Schweiz sind Bundesstaaten) and a member state of a federation, such as the US states or Indian states. For Germany's sixteen member states, German uses das Bundesland or simply das Land (plural Länder). In Switzerland, the member states are Kantone. So California is ein US-Bundesstaat, while Bavaria is ein Bundesland."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Indikator",
+    "partOfSpeech": "noun, masculine (der Indikator)",
+    "pronunciation": {
+      "respelling": "in-di-KAA-tor",
+      "ipa": "ɪndiˈkaːtoːɐ̯",
+      "notes": "Plural: die Indikatoren."
+    },
+    "meaning": "indicator",
+    "shortDefinition": "Indicator."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Indikator, plural die Indikatoren.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Indikator"
+        },
+        {
+          "label": "More than one",
+          "value": "die Indikatoren"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Arbeitslosenquote ist ein wichtiger Indikator.",
+      "english": "The unemployment rate is an important indicator.",
+      "highlight": [
+        "Indikator."
+      ]
+    },
+    {
+      "german": "Diese Indikatoren deuten auf eine Rezession hin.",
+      "english": "These indicators point to a recession.",
+      "highlight": [
+        "Indikatoren"
+      ]
+    }
+  ],
+  "forms": [
+    "Indikatoren",
+    "die Indikatoren",
+    "der Indikator"
+  ],
+  "memoryHook": "Indikator: something that indicates (indicare).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Indikator",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Indikator is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Indikator, zwei ___",
+      "answer": "Indikatoren",
+      "fullAnswer": "ein Indikator, zwei Indikatoren",
+      "explanation": "The plural is Indikatoren.",
+      "acceptedAnswers": [
+        "Indikatoren"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Indikator mean?",
+      "options": [
+        "indicator",
+        "to open",
+        "the station"
+      ],
+      "answer": "indicator",
+      "explanation": "Indikator: indicator.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Indikatoren",
+        "die Indikators"
+      ],
+      "answer": "die Indikatoren",
+      "explanation": "Stress shift.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A car indicator is…",
+      "options": [
+        "der Blinker",
+        "der Indikator"
+      ],
+      "answer": "der Blinker",
+      "explanation": "Car.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der ifo-Geschäftsklimaindex is…",
+      "options": [
+        "a key German economic indicator",
+        "a weather index"
+      ],
+      "answer": "a key German economic indicator",
+      "explanation": "ifo.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Indikator is an indicator, in economics (Konjunkturindikatoren), science and statistics. A key German indicator is the ifo-Geschäftsklimaindex, a monthly business confidence survey from Munich. In chemistry, litmus is an Indikator. A car's indicator is der Blinker. Note the stress shift: in-di-KAA-tor, but in-di-ka-TOH-ren. Plural: die Indikatoren."
+}

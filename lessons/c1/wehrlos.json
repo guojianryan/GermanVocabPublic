@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "wehrlos",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "VAYR-lohs",
+      "ipa": "ˈveːɐ̯ˌloːs",
+      "notes": ""
+    },
+    "meaning": "defenceless",
+    "shortDefinition": "Defenceless."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die Täter griffen ein wehrloses Opfer an.",
+      "english": "The attackers set upon a defenceless victim.",
+      "highlight": [
+        "wehrloses"
+      ]
+    },
+    {
+      "german": "Gegen den Sturm war das Dorf wehrlos.",
+      "english": "The village was defenceless against the storm.",
+      "highlight": [
+        "wehrlos."
+      ]
+    }
+  ],
+  "forms": [
+    "wehrlose",
+    "wehrlosen",
+    "wehrloses"
+  ],
+  "memoryHook": "Wehrlos: without (los) Wehr (defence).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does wehrlos mean?",
+      "options": [
+        "to help",
+        "defenceless",
+        "always"
+      ],
+      "answer": "defenceless",
+      "explanation": "wehrlos: defenceless.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich wehren means…",
+      "options": [
+        "to defend oneself",
+        "to weigh"
+      ],
+      "answer": "to defend oneself",
+      "explanation": "Root.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Wehr is…",
+      "options": [
+        "defence (Feuerwehr, Bundeswehr)",
+        "a weir only"
+      ],
+      "answer": "defence (Feuerwehr, Bundeswehr)",
+      "explanation": "Related.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "schutzlos, hilflos",
+        "wehrhaft"
+      ],
+      "answer": "schutzlos, hilflos",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein ___ Tier (defenceless)",
+      "answer": "wehrloses",
+      "fullAnswer": "ein wehrloses Tier",
+      "explanation": "Neuter -es.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Wehrlos means defenceless: ein wehrloses Opfer, jemandem wehrlos ausgeliefert sein. Die Wehr means defence, as in die Feuerwehr (fire brigade) and die Bundeswehr, and sich wehren means to defend oneself. The opposite is wehrhaft, as in die wehrhafte Demokratie, a democracy able to defend itself against its enemies. Synonyms: schutzlos, hilflos."
+}

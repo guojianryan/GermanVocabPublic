@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bekenntnis",
+    "partOfSpeech": "noun, neuter (das Bekenntnis)",
+    "pronunciation": {
+      "respelling": "be-KENT-nis",
+      "ipa": "bəˈkɛntnɪs",
+      "notes": "Plural: die Bekenntnisse."
+    },
+    "meaning": "confession; commitment; denomination",
+    "shortDefinition": "Confession; commitment; denomination."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Bekenntnis, plural die Bekenntnisse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Bekenntnis"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bekenntnisse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das war ein klares Bekenntnis zur Demokratie.",
+      "english": "That was a clear commitment to democracy.",
+      "highlight": [
+        "Bekenntnis"
+      ]
+    },
+    {
+      "german": "Welchem Bekenntnis gehören Sie an?",
+      "english": "What denomination do you belong to?",
+      "highlight": [
+        "Bekenntnis"
+      ]
+    }
+  ],
+  "forms": [
+    "Bekenntnisse",
+    "die Bekenntnisse",
+    "das Bekenntnis",
+    "bekennen"
+  ],
+  "memoryHook": "Bekenntnis: what you bekennen (confess, stand by).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bekenntnis",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Bekenntnis is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bekenntnis, zwei ___",
+      "answer": "Bekenntnisse",
+      "fullAnswer": "ein Bekenntnis, zwei Bekenntnisse",
+      "explanation": "The plural is Bekenntnisse.",
+      "acceptedAnswers": [
+        "Bekenntnisse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bekenntnis mean?",
+      "options": [
+        "to wait",
+        "always",
+        "confession"
+      ],
+      "answer": "confession",
+      "explanation": "Bekenntnis: confession; commitment; denomination.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Bekenntnis zu means…",
+      "options": [
+        "a commitment to",
+        "a confession about"
+      ],
+      "answer": "a commitment to",
+      "explanation": "Commitment.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bekennen means…",
+      "options": [
+        "to confess, profess",
+        "to recognise"
+      ],
+      "answer": "to confess, profess",
+      "explanation": "bekennen.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "das Bekenntnis",
+        "die Bekenntnis"
+      ],
+      "answer": "das Bekenntnis",
+      "explanation": "Neuter.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Bekenntnis is a confession, a commitment, or a religious denomination: ein Bekenntnis zu Europa, das christliche Bekenntnis. Politicians often make a Bekenntnis zu something, a public declaration of support. Bekennen means to confess or profess: sich zu etwas bekennen (to stand up for something, or to claim responsibility). Bekennerschreiben is a letter claiming responsibility for an attack. Augustine's Confessions are Die Bekenntnisse in German."
+}

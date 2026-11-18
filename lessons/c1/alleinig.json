@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "alleinig",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "a-LAI-nikh",
+      "ipa": "aˈlaɪ̯nɪç",
+      "notes": ""
+    },
+    "meaning": "sole, exclusive",
+    "shortDefinition": "Sole, exclusive."
+  },
+  "sampleSentences": [
+    {
+      "german": "Er ist der alleinige Erbe.",
+      "english": "He's the sole heir.",
+      "highlight": [
+        "alleinige"
+      ]
+    },
+    {
+      "german": "Sie trägt die alleinige Verantwortung.",
+      "english": "She bears sole responsibility.",
+      "highlight": [
+        "alleinige"
+      ]
+    }
+  ],
+  "forms": [
+    "alleinige",
+    "alleinigen",
+    "alleiniger"
+  ],
+  "memoryHook": "Alleinig: the only (allein) one.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does alleinig mean?",
+      "options": [
+        "tomorrow",
+        "slowly",
+        "sole"
+      ],
+      "answer": "sole",
+      "explanation": "alleinig: sole, exclusive.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Alleinig is used…",
+      "options": [
+        "before nouns",
+        "as an adverb"
+      ],
+      "answer": "before nouns",
+      "explanation": "Attributive.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Alleinerbe is…",
+      "options": [
+        "the sole heir",
+        "a lonely heir"
+      ],
+      "answer": "the sole heir",
+      "explanation": "Heir.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Allein means…",
+      "options": [
+        "alone; only",
+        "all"
+      ],
+      "answer": "alone; only",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "der ___ Eigentümer (sole)",
+      "answer": "alleinige",
+      "fullAnswer": "der alleinige Eigentümer",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Alleinig means sole or exclusive, used before nouns in formal German: der alleinige Eigentümer, das alleinige Sorgerecht (sole custody), die alleinige Schuld. Allein means alone or only: allein wohnen, allein in Berlin. Compounds are common: alleinerziehend (single parent), der Alleinverdiener (sole earner), die Alleinherrschaft (autocracy)."
+}

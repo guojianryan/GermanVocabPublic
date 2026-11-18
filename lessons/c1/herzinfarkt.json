@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Herzinfarkt",
+    "partOfSpeech": "noun, masculine (der Herzinfarkt)",
+    "pronunciation": {
+      "respelling": "HERTS-in-farkt",
+      "ipa": "ˈhɛʁt͡sʔɪnˌfaʁkt",
+      "notes": "Plural: die Herzinfarkte."
+    },
+    "meaning": "heart attack",
+    "shortDefinition": "Heart attack."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Herzinfarkt, plural die Herzinfarkte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Herzinfarkt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Herzinfarkte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hatte einen Herzinfarkt.",
+      "english": "He had a heart attack.",
+      "highlight": [
+        "Herzinfarkt."
+      ]
+    },
+    {
+      "german": "Bei Verdacht auf Herzinfarkt sofort 112 wählen!",
+      "english": "If you suspect a heart attack, call 112 at once!",
+      "highlight": [
+        "Herzinfarkt"
+      ]
+    }
+  ],
+  "forms": [
+    "Herzinfarkte",
+    "die Herzinfarkte",
+    "der Herzinfarkt"
+  ],
+  "memoryHook": "Herzinfarkt: an Infarkt of the Herz; call 112.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Herzinfarkt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Herzinfarkt is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Herzinfarkt, zwei ___",
+      "answer": "Herzinfarkte",
+      "fullAnswer": "ein Herzinfarkt, zwei Herzinfarkte",
+      "explanation": "The plural is Herzinfarkte.",
+      "acceptedAnswers": [
+        "Herzinfarkte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Herzinfarkt mean?",
+      "options": [
+        "to wait",
+        "the street",
+        "heart attack"
+      ],
+      "answer": "heart attack",
+      "explanation": "Herzinfarkt: heart attack.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Emergency number in Germany:",
+      "options": [
+        "112",
+        "911"
+      ],
+      "answer": "112",
+      "explanation": "112.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Casually, Germans say…",
+      "options": [
+        "der Infarkt / ein Herzkasper",
+        "der Herzschlag only"
+      ],
+      "answer": "der Infarkt / ein Herzkasper",
+      "explanation": "Colloquial.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schlaganfall is…",
+      "options": [
+        "a stroke",
+        "a heart attack"
+      ],
+      "answer": "a stroke",
+      "explanation": "Stroke.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Herzinfarkt is a heart attack: einen Herzinfarkt erleiden. If you suspect one in Germany, call 112, the European emergency number. Typical signs are chest pain spreading to the arm, shortness of breath and nausea, and in women often less typical symptoms. A stroke is der Schlaganfall, and cardiac arrest der Herzstillstand. Casually, Germans joke Ich krieg gleich einen Herzinfarkt! (I'm going to have a heart attack!). Plural: die Herzinfarkte."
+}

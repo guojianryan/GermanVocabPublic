@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "anheben",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AN-hay-ben",
+      "ipa": "ˈanˌheːbn̩",
+      "notes": ""
+    },
+    "meaning": "to lift; to raise (prices, rates)",
+    "shortDefinition": "To lift; to raise (prices, rates)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "heb|e … |an"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "heb|st … |an"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "heb|t … |an"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "heb|en … |an"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "heb|t … |an"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "heb|en … |an"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat angehoben"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Zentralbank hat die Zinsen angehoben.",
+      "english": "The central bank has raised interest rates.",
+      "highlight": [
+        "angehoben."
+      ]
+    },
+    {
+      "german": "Kannst du das Sofa kurz anheben?",
+      "english": "Can you lift the sofa for a moment?",
+      "highlight": [
+        "anheben?"
+      ]
+    }
+  ],
+  "forms": [
+    "hebe an",
+    "hebst an",
+    "hebt an",
+    "heben an",
+    "angehoben",
+    "hob an",
+    "Anhebung"
+  ],
+  "memoryHook": "Anheben: lift (heben) up.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … an (anheben)",
+      "answer": "hebt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: hebt … an.",
+      "acceptedAnswers": [
+        "hebt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (anheben, past)",
+      "answer": "angehoben",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe angehoben.",
+      "acceptedAnswers": [
+        "angehoben"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does anheben mean?",
+      "options": [
+        "to lift",
+        "the bed",
+        "hot"
+      ],
+      "answer": "to lift",
+      "explanation": "anheben: to lift; to raise (prices, rates).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Mindestlohn anheben means…",
+      "options": [
+        "to raise the minimum wage",
+        "to abolish it"
+      ],
+      "answer": "to raise the minimum wage",
+      "explanation": "Raise.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Anhebung is…",
+      "options": [
+        "increase, raise",
+        "a lift (elevator)"
+      ],
+      "answer": "increase, raise",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "hob an, angehoben",
+        "hebte an"
+      ],
+      "answer": "hob an, angehoben",
+      "explanation": "Irregular.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Anheben means to lift something slightly (den Tisch anheben) and to raise prices, taxes or rates: die Mehrwertsteuer anheben, das Rentenalter anheben. Germany's minimum wage was angehoben (raised) to €12 in 2022 and has risen further since. Die Anhebung is an increase. The opposite is senken. Separable and irregular: hob an, angehoben."
+}

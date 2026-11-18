@@ -1,0 +1,156 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schließung",
+    "partOfSpeech": "noun, feminine (die Schließung)",
+    "pronunciation": {
+      "respelling": "SHLEE-soong",
+      "ipa": "ˈʃliːsʊŋ",
+      "notes": "Plural: die Schließungen."
+    },
+    "meaning": "closure, closing",
+    "shortDefinition": "Closure, closing."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "Schließ",
+        "meaning": "close",
+        "note": "From schließen."
+      },
+      {
+        "part": "ung",
+        "meaning": "noun ending: the act of"
+      }
+    ],
+    "literalMeaning": "a closing"
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Schließung, plural die Schließungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Schließung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schließungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Schließung der Fabrik kostet 300 Arbeitsplätze.",
+      "english": "The closure of the factory costs 300 jobs.",
+      "highlight": [
+        "Schließung"
+      ]
+    },
+    {
+      "german": "Wegen der Schließung bleibt das Museum heute zu.",
+      "english": "The museum is closed today because of the closure.",
+      "highlight": [
+        "Schließung"
+      ]
+    }
+  ],
+  "forms": [
+    "Schließungen",
+    "die Schließungen",
+    "die Schließung",
+    "schließen"
+  ],
+  "memoryHook": "Schließung: the door, forever.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schließung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Schließung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schließung, zwei ___",
+      "answer": "Schließungen",
+      "fullAnswer": "ein Schließung, zwei Schließungen",
+      "explanation": "The plural is Schließungen.",
+      "acceptedAnswers": [
+        "Schließungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schließung mean?",
+      "options": [
+        "to learn",
+        "the shop",
+        "closure"
+      ],
+      "answer": "closure",
+      "explanation": "Schließung: closure, closing.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The verb is…",
+      "options": [
+        "schließen",
+        "schlissen"
+      ],
+      "answer": "schließen",
+      "explanation": "To close.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schließzeit is…",
+      "options": [
+        "closing time",
+        "closed account"
+      ],
+      "answer": "closing time",
+      "explanation": "Compound.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Schließungen",
+        "Schließunge"
+      ],
+      "answer": "Schließungen",
+      "explanation": "-en.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Betriebsschließung means…",
+      "options": [
+        "the shutting down of a business",
+        "opening a business"
+      ],
+      "answer": "the shutting down of a business",
+      "explanation": "Closure.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Die Schließung is the closure of a shop, school, factory or border: die Schließung der Grenze, die Schließung des Werks. It describes the act, usually the official one. For a daily closing (a shop shutting for the night), German says Ladenschluss or Feierabend. Note the ß after the long ie: Schließung, schließen. In Switzerland, where ß isn't used, it's written Schliessung."
+}

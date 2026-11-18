@@ -1,0 +1,176 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "leugnen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "LOYG-nen",
+      "ipa": "ˈlɔɪ̯ɡnən",
+      "notes": ""
+    },
+    "meaning": "to deny",
+    "shortDefinition": "To deny."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "leugn|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "leugn|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "leugn|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "leugn|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "leugn|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "leugn|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geleugnet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Angeklagte leugnet die Tat.",
+      "english": "The defendant denies the crime.",
+      "highlight": [
+        "leugnet"
+      ]
+    },
+    {
+      "german": "Es lässt sich nicht leugnen, dass er recht hat.",
+      "english": "There's no denying that he's right.",
+      "highlight": [
+        "leugnen,"
+      ]
+    }
+  ],
+  "forms": [
+    "leugne",
+    "leugnest",
+    "leugnet",
+    "leugnen",
+    "geleugnet",
+    "Leugnung",
+    "Leugner"
+  ],
+  "memoryHook": "Leugnen: denying what's true; lügen means telling what isn't.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (leugnen)",
+      "answer": "leugnet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: leugnet.",
+      "acceptedAnswers": [
+        "leugnet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (leugnen, past)",
+      "answer": "geleugnet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geleugnet.",
+      "acceptedAnswers": [
+        "geleugnet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does leugnen mean?",
+      "options": [
+        "to deny",
+        "the job",
+        "quiet"
+      ],
+      "answer": "to deny",
+      "explanation": "leugnen: to deny.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Holocaustleugnung is…",
+      "options": [
+        "a crime in Germany",
+        "a legal opinion"
+      ],
+      "answer": "a crime in Germany",
+      "explanation": "§130 StGB.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Klimaleugner is…",
+      "options": [
+        "a climate change denier",
+        "a meteorologist"
+      ],
+      "answer": "a climate change denier",
+      "explanation": "Denier.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "abstreiten",
+        "zugeben"
+      ],
+      "answer": "abstreiten",
+      "explanation": "Deny.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Opposite:",
+      "options": [
+        "gestehen / zugeben",
+        "lügen"
+      ],
+      "answer": "gestehen / zugeben",
+      "explanation": "Admit.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Leugnen means to deny something, especially facts or guilt: die Tat leugnen, die Existenz Gottes leugnen. Es ist nicht zu leugnen means it can't be denied. Der Leugner is a denier: der Klimawandelleugner. In Germany, die Holocaustleugnung is a crime under § 130 of the criminal code. It's related to lügen (to lie). Everyday synonyms: abstreiten, bestreiten. The opposite is zugeben or gestehen."
+}

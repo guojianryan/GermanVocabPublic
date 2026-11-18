@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Lagerstätte",
+    "partOfSpeech": "noun, feminine (die Lagerstätte)",
+    "pronunciation": {
+      "respelling": "LAA-ger-shte-te",
+      "ipa": "ˈlaːɡɐˌʃtɛtə",
+      "notes": "Plural: die Lagerstätten."
+    },
+    "meaning": "deposit (mineral); storage site",
+    "shortDefinition": "Deposit (mineral); storage site."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Lagerstätte, plural die Lagerstätten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Lagerstätte"
+        },
+        {
+          "label": "More than one",
+          "value": "die Lagerstätten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In der Region gibt es große Lagerstätten von Lithium.",
+      "english": "There are large lithium deposits in the region.",
+      "highlight": [
+        "Lagerstätten"
+      ]
+    },
+    {
+      "german": "Die Suche nach einer Lagerstätte für Atommüll läuft noch.",
+      "english": "The search for a nuclear waste repository is still under way.",
+      "highlight": [
+        "Lagerstätte"
+      ]
+    }
+  ],
+  "forms": [
+    "Lagerstätten",
+    "die Lagerstätte"
+  ],
+  "memoryHook": "Lagerstätte: a Stätte where things lagern (lie, are stored).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Lagerstätte",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Lagerstätte is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Lagerstätte, zwei ___",
+      "answer": "Lagerstätten",
+      "fullAnswer": "ein Lagerstätte, zwei Lagerstätten",
+      "explanation": "The plural is Lagerstätten.",
+      "acceptedAnswers": [
+        "Lagerstaetten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Lagerstätte mean?",
+      "options": [
+        "deposit (mineral)",
+        "the evening",
+        "cheap"
+      ],
+      "answer": "deposit (mineral)",
+      "explanation": "Lagerstätte: deposit (mineral); storage site.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Endlager is…",
+      "options": [
+        "final repository (nuclear waste)",
+        "a last warehouse"
+      ],
+      "answer": "final repository (nuclear waste)",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Stätte is…",
+      "options": [
+        "place, site (formal)",
+        "a city"
+      ],
+      "answer": "place, site (formal)",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym (mineral):",
+      "options": [
+        "das Vorkommen",
+        "die Mine only"
+      ],
+      "answer": "das Vorkommen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Lagerstätte is a mineral deposit: Lagerstätten von Kohle, Erz, Erdgas, Lithium. A synonym is das Vorkommen. It also means a storage site, and Germany is still searching for an Endlager (final repository) for high-level nuclear waste after the Gorleben site was ruled out in 2020. Die Stätte means site: Gedenkstätte, Arbeitsstätte. Plural: die Lagerstätten."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Aufenthaltsort",
+    "partOfSpeech": "noun, masculine (der Aufenthaltsort)",
+    "pronunciation": {
+      "respelling": "AUF-ent-halts-ort",
+      "ipa": "ˈaʊ̯fʔɛnthalt͡sˌʔɔʁt",
+      "notes": "Plural: die Aufenthaltsorte."
+    },
+    "meaning": "whereabouts, place of residence",
+    "shortDefinition": "Whereabouts, place of residence."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Aufenthaltsort, plural die Aufenthaltsorte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Aufenthaltsort"
+        },
+        {
+          "label": "More than one",
+          "value": "die Aufenthaltsorte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sein Aufenthaltsort ist unbekannt.",
+      "english": "His whereabouts are unknown.",
+      "highlight": [
+        "Aufenthaltsort"
+      ]
+    },
+    {
+      "german": "Bitte geben Sie Ihren derzeitigen Aufenthaltsort an.",
+      "english": "Please state your current place of residence.",
+      "highlight": [
+        "Aufenthaltsort"
+      ]
+    }
+  ],
+  "forms": [
+    "Aufenthaltsorte",
+    "der Aufenthaltsort"
+  ],
+  "memoryHook": "Aufenthaltsort: the Ort where you have your Aufenthalt (stay).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Aufenthaltsort",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Aufenthaltsort is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Aufenthaltsort, zwei ___",
+      "answer": "Aufenthaltsorte",
+      "fullAnswer": "ein Aufenthaltsort, zwei Aufenthaltsorte",
+      "explanation": "The plural is Aufenthaltsorte.",
+      "acceptedAnswers": [
+        "Aufenthaltsorte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Aufenthaltsort mean?",
+      "options": [
+        "whereabouts",
+        "tomorrow",
+        "the station"
+      ],
+      "answer": "whereabouts",
+      "explanation": "Aufenthaltsort: whereabouts, place of residence.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Aufenthalt is…",
+      "options": [
+        "stay; stop",
+        "an attitude"
+      ],
+      "answer": "stay; stop",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Aufenthaltserlaubnis is…",
+      "options": [
+        "residence permit",
+        "parking permit"
+      ],
+      "answer": "residence permit",
+      "explanation": "Permit.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unbekannten Aufenthalts means…",
+      "options": [
+        "whereabouts unknown",
+        "unknown stay length"
+      ],
+      "answer": "whereabouts unknown",
+      "explanation": "Unknown.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Aufenthaltsort is someone's whereabouts or place of residence: Sein Aufenthaltsort ist unbekannt, typical of police reports. Der Aufenthalt means a stay (ein kurzer Aufenthalt in Berlin) or a train stop (Der Zug hat fünf Minuten Aufenthalt). Die Aufenthaltserlaubnis is a residence permit for foreigners, issued by the Ausländerbehörde. Plural: die Aufenthaltsorte."
+}

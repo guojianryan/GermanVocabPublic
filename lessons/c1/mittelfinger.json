@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mittelfinger",
+    "partOfSpeech": "noun, masculine (der Mittelfinger)",
+    "pronunciation": {
+      "respelling": "MI-tel-fing-er",
+      "ipa": "ˈmɪtl̩ˌfɪŋɐ",
+      "notes": "Plural: die Mittelfinger."
+    },
+    "meaning": "middle finger",
+    "shortDefinition": "Middle finger."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Mittelfinger, plural die Mittelfinger.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Mittelfinger"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mittelfinger"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hat sich den Mittelfinger gebrochen.",
+      "english": "He broke his middle finger.",
+      "highlight": [
+        "Mittelfinger"
+      ]
+    },
+    {
+      "german": "Der Autofahrer zeigte ihm den Mittelfinger.",
+      "english": "The driver gave him the finger.",
+      "highlight": [
+        "Mittelfinger."
+      ]
+    }
+  ],
+  "forms": [
+    "der Mittelfinger",
+    "Mittelfingers"
+  ],
+  "memoryHook": "Mittelfinger: the Finger in the Mitte (middle).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mittelfinger",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Mittelfinger is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mittelfinger, zwei ___",
+      "answer": "Mittelfinger",
+      "fullAnswer": "ein Mittelfinger, zwei Mittelfinger",
+      "explanation": "The plural is Mittelfinger.",
+      "acceptedAnswers": [
+        "Mittelfinger"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mittelfinger mean?",
+      "options": [
+        "the bed",
+        "the weather",
+        "middle finger"
+      ],
+      "answer": "middle finger",
+      "explanation": "Mittelfinger: middle finger.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Showing the middle finger in Germany can lead to…",
+      "options": [
+        "a fine for insult (Beleidigung)",
+        "nothing"
+      ],
+      "answer": "a fine for insult (Beleidigung)",
+      "explanation": "Law.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Zeigefinger is…",
+      "options": [
+        "index finger",
+        "middle finger"
+      ],
+      "answer": "index finger",
+      "explanation": "Fingers.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ringfinger is…",
+      "options": [
+        "ring finger",
+        "little finger"
+      ],
+      "answer": "ring finger",
+      "explanation": "Fingers.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Mittelfinger is the middle finger. Showing it (den Mittelfinger zeigen, also den Stinkefinger zeigen) counts as Beleidigung (insult) under §185 StGB and can lead to a heavy fine, especially towards police or in traffic. The other fingers: Daumen, Zeigefinger, Ringfinger, kleiner Finger. The plural is the same: die Mittelfinger."
+}

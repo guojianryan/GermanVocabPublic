@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Hilfsmittel",
+    "partOfSpeech": "noun, neuter (das Hilfsmittel)",
+    "pronunciation": {
+      "respelling": "HILFS-mi-tel",
+      "ipa": "ˈhɪlfsˌmɪtl̩",
+      "notes": "Plural: die Hilfsmittel."
+    },
+    "meaning": "aid, tool, resource",
+    "shortDefinition": "Aid, tool, resource."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Hilfsmittel, plural die Hilfsmittel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Hilfsmittel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Hilfsmittel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Test sind keine Hilfsmittel erlaubt.",
+      "english": "No aids are allowed in the test.",
+      "highlight": [
+        "Hilfsmittel"
+      ]
+    },
+    {
+      "german": "Ein Rollator ist ein wichtiges Hilfsmittel.",
+      "english": "A walking frame is an important aid.",
+      "highlight": [
+        "Hilfsmittel."
+      ]
+    }
+  ],
+  "forms": [
+    "die Hilfsmittel",
+    "das Hilfsmittel"
+  ],
+  "memoryHook": "Hilfsmittel: a Mittel (means) that helps (hilft).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Hilfsmittel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Hilfsmittel is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Hilfsmittel, zwei ___",
+      "answer": "Hilfsmittel",
+      "fullAnswer": "ein Hilfsmittel, zwei Hilfsmittel",
+      "explanation": "The plural is Hilfsmittel.",
+      "acceptedAnswers": [
+        "Hilfsmittel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Hilfsmittel mean?",
+      "options": [
+        "aid",
+        "to sleep",
+        "the station"
+      ],
+      "answer": "aid",
+      "explanation": "Hilfsmittel: aid, tool, resource.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In exams, Hilfsmittel are…",
+      "options": [
+        "permitted materials (dictionary, calculator)",
+        "teachers"
+      ],
+      "answer": "permitted materials (dictionary, calculator)",
+      "explanation": "Exam aids.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In medicine, Hilfsmittel are…",
+      "options": [
+        "aids like wheelchairs, hearing aids",
+        "medicines"
+      ],
+      "answer": "aids like wheelchairs, hearing aids",
+      "explanation": "Medical aids.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Hilfsmittel",
+        "die Hilfsmitteln"
+      ],
+      "answer": "die Hilfsmittel",
+      "explanation": "Unchanged.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Hilfsmittel is an aid or tool: technische Hilfsmittel. On German exam papers, Hilfsmittel: keine means no dictionaries, calculators or notes allowed. In health care, Hilfsmittel are items like wheelchairs, hearing aids and walking frames (Rollator), which health insurance often pays for with a prescription. From die Hilfe (help) and das Mittel (means), with a linking s. The plural is the same."
+}

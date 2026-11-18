@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Brandschutz",
+    "partOfSpeech": "noun, masculine (der Brandschutz)",
+    "pronunciation": {
+      "respelling": "BRANT-shuts",
+      "ipa": "ˈbʁantˌʃʊt͡s",
+      "notes": "Usually no plural."
+    },
+    "meaning": "fire safety, fire protection",
+    "shortDefinition": "Fire safety, fire protection."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Brandschutz, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Brandschutz"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wegen Mängeln beim Brandschutz wurde der Club geschlossen.",
+      "english": "The club was closed because of fire safety defects.",
+      "highlight": [
+        "Brandschutz"
+      ]
+    },
+    {
+      "german": "Rauchmelder sind ein wichtiger Teil des Brandschutzes.",
+      "english": "Smoke detectors are an important part of fire safety.",
+      "highlight": [
+        "Brandschutzes."
+      ]
+    }
+  ],
+  "forms": [
+    "der Brandschutz"
+  ],
+  "memoryHook": "Brandschutz: Schutz (protection) against Brand (fire).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Brandschutz",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Brandschutz is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Brandschutz mean?",
+      "options": [
+        "slowly",
+        "the key",
+        "fire safety"
+      ],
+      "answer": "fire safety",
+      "explanation": "Brandschutz: fire safety, fire protection.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rauchmelder in German homes are…",
+      "options": [
+        "compulsory in all states",
+        "optional"
+      ],
+      "answer": "compulsory in all states",
+      "explanation": "Smoke alarms.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Brandschutzbeauftragte is…",
+      "options": [
+        "a fire safety officer",
+        "a firefighter"
+      ],
+      "answer": "a fire safety officer",
+      "explanation": "Officer.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "BER airport's delays were largely due to…",
+      "options": [
+        "fire safety problems",
+        "strikes"
+      ],
+      "answer": "fire safety problems",
+      "explanation": "BER.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Brandschutz is fire safety or fire protection. German Brandschutz rules are famously strict: smoke detectors (Rauchmelder) are compulsory in homes in all 16 states, and buildings need fire doors and escape routes. The fire protection system was a main reason for the years of delays at Berlin's BER airport. Most German fire brigades are volunteer forces (Freiwillige Feuerwehr). It has no plural."
+}

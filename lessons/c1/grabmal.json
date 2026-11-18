@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Grabmal",
+    "partOfSpeech": "noun, neuter (das Grabmal)",
+    "pronunciation": {
+      "respelling": "GRAAP-maal",
+      "ipa": "ˈɡʁaːpˌmaːl",
+      "notes": "Plural: die Grabmäler."
+    },
+    "meaning": "tomb, monument",
+    "shortDefinition": "Tomb, monument."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Grabmal, plural die Grabmäler.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Grabmal"
+        },
+        {
+          "label": "More than one",
+          "value": "die Grabmäler"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Grabmal des Kaisers steht im Dom.",
+      "english": "The emperor's tomb is in the cathedral.",
+      "highlight": [
+        "Grabmal"
+      ]
+    },
+    {
+      "german": "Das Taj Mahal ist ein berühmtes Grabmal.",
+      "english": "The Taj Mahal is a famous mausoleum.",
+      "highlight": [
+        "Grabmal."
+      ]
+    }
+  ],
+  "forms": [
+    "Grabmäler",
+    "das Grabmal"
+  ],
+  "memoryHook": "Grabmal: a Mal (monument) on a Grab (grave).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Grabmal",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Grabmal is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Grabmal, zwei ___",
+      "answer": "Grabmäler",
+      "fullAnswer": "ein Grabmal, zwei Grabmäler",
+      "explanation": "The plural is Grabmäler.",
+      "acceptedAnswers": [
+        "Grabmaeler"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Grabmal mean?",
+      "options": [
+        "tomb",
+        "quiet",
+        "the evening"
+      ],
+      "answer": "tomb",
+      "explanation": "Grabmal: tomb, monument.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Grabmäler (also Grabmale)",
+        "die Grabmals"
+      ],
+      "answer": "die Grabmäler (also Grabmale)",
+      "explanation": "Plural.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Grab is…",
+      "options": [
+        "grave",
+        "grab"
+      ],
+      "answer": "grave",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Mausoleum is…",
+      "options": [
+        "a large tomb building",
+        "a museum"
+      ],
+      "answer": "a large tomb building",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Grabmal is a tomb or funerary monument, larger and grander than a simple Grabstein (gravestone): das Grabmal Theoderichs in Ravenna, the Kaisergräber in Speyer Cathedral. Germany's central memorial to the victims of war and tyranny is the Neue Wache in Berlin. Das Mal here means mark or monument, as in das Denkmal. Plural: die Grabmäler or Grabmale."
+}

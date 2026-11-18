@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "haftbar",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "HAFT-baar",
+      "ipa": "ˈhaftbaːɐ̯",
+      "notes": ""
+    },
+    "meaning": "liable",
+    "shortDefinition": "Liable."
+  },
+  "sampleSentences": [
+    {
+      "german": "Der Hersteller ist für Schäden haftbar.",
+      "english": "The manufacturer is liable for damage.",
+      "highlight": [
+        "haftbar."
+      ]
+    },
+    {
+      "german": "Man kann ihn nicht haftbar machen.",
+      "english": "He can't be held liable.",
+      "highlight": [
+        "haftbar"
+      ]
+    }
+  ],
+  "forms": [
+    "haftbare",
+    "haftbaren"
+  ],
+  "memoryHook": "Haftbar: able to be held to haften (be liable).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does haftbar mean?",
+      "options": [
+        "the family",
+        "liable",
+        "the weather"
+      ],
+      "answer": "liable",
+      "explanation": "haftbar: liable.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden haftbar machen means…",
+      "options": [
+        "to hold someone liable",
+        "to arrest someone"
+      ],
+      "answer": "to hold someone liable",
+      "explanation": "Phrase.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Haften für means…",
+      "options": [
+        "to be liable for; to stick",
+        "to hate"
+      ],
+      "answer": "to be liable for; to stick",
+      "explanation": "Verb.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Haftpflichtversicherung is…",
+      "options": [
+        "liability insurance",
+        "health insurance"
+      ],
+      "answer": "liability insurance",
+      "explanation": "Insurance.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Eltern sind für ihre Kinder ___. (liable)",
+      "answer": "haftbar",
+      "fullAnswer": "Eltern sind für ihre Kinder haftbar.",
+      "explanation": "haftbar.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Haftbar means liable: für etwas haftbar sein, jemanden haftbar machen. Haften für means to be liable for. The famous building-site sign Eltern haften für ihre Kinder is legally misleading: parents are only liable if they neglected supervision. Die Haftpflichtversicherung (personal liability insurance) is held by most Germans. Not to be confused with die Haft (detention)."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kragen",
+    "partOfSpeech": "noun, masculine (der Kragen)",
+    "pronunciation": {
+      "respelling": "KRAA-gen",
+      "ipa": "ˈkʁaːɡn̩",
+      "notes": "Plural: die Kragen."
+    },
+    "meaning": "collar",
+    "shortDefinition": "Collar."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kragen, plural die Kragen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kragen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kragen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Kragen des Hemdes ist zu eng.",
+      "english": "The shirt collar is too tight.",
+      "highlight": [
+        "Kragen"
+      ]
+    },
+    {
+      "german": "Jetzt platzt mir gleich der Kragen!",
+      "english": "I'm about to lose my temper!",
+      "highlight": [
+        "Kragen!"
+      ]
+    }
+  ],
+  "forms": [
+    "die Kragen",
+    "der Kragen",
+    "Krägen"
+  ],
+  "memoryHook": "Kragen: the collar that bursts when you're angry.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kragen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kragen is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kragen, zwei ___",
+      "answer": "Kragen",
+      "fullAnswer": "ein Kragen, zwei Kragen",
+      "explanation": "The plural is Kragen.",
+      "acceptedAnswers": [
+        "Kragen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kragen mean?",
+      "options": [
+        "the weather",
+        "to sleep",
+        "collar"
+      ],
+      "answer": "collar",
+      "explanation": "Kragen: collar.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mir platzt der Kragen means…",
+      "options": [
+        "I'm losing my temper",
+        "my shirt is torn"
+      ],
+      "answer": "I'm losing my temper",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Es geht ihm an den Kragen means…",
+      "options": [
+        "he's in serious trouble",
+        "he's getting dressed"
+      ],
+      "answer": "he's in serious trouble",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Kragen (also Krägen)",
+        "die Kragens"
+      ],
+      "answer": "die Kragen (also Krägen)",
+      "explanation": "Both exist.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Kragen is a collar: der Hemdkragen, den Kragen hochschlagen (to turn up your collar). Two vivid idioms: Mir platzt gleich der Kragen (I'm about to blow my top), and Es geht ihm an den Kragen (he's in for it, literally they're going for his neck). Die Kragenweite is collar size, and Das ist genau meine Kragenweite means that's exactly my cup of tea. The plural is die Kragen, in the south also die Krägen."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Landhaus",
+    "partOfSpeech": "noun, neuter (das Landhaus)",
+    "pronunciation": {
+      "respelling": "LANT-haus",
+      "ipa": "ˈlantˌhaʊ̯s",
+      "notes": "Plural: die Landhäuser."
+    },
+    "meaning": "country house",
+    "shortDefinition": "Country house."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Landhaus, plural die Landhäuser.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Landhaus"
+        },
+        {
+          "label": "More than one",
+          "value": "die Landhäuser"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie haben ein Landhaus in der Toskana.",
+      "english": "They have a country house in Tuscany.",
+      "highlight": [
+        "Landhaus"
+      ]
+    },
+    {
+      "german": "Das Hotel ist im Landhausstil eingerichtet.",
+      "english": "The hotel is furnished in country-house style.",
+      "highlight": [
+        "Landhausstil"
+      ]
+    }
+  ],
+  "forms": [
+    "Landhäuser",
+    "die Landhäuser",
+    "das Landhaus"
+  ],
+  "memoryHook": "Landhaus: a Haus in the country (auf dem Land).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Landhaus",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Landhaus is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Landhaus, zwei ___",
+      "answer": "Landhäuser",
+      "fullAnswer": "ein Landhaus, zwei Landhäuser",
+      "explanation": "The plural is Landhäuser.",
+      "acceptedAnswers": [
+        "Landhaeuser"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Landhaus mean?",
+      "options": [
+        "country house",
+        "expensive",
+        "the weather"
+      ],
+      "answer": "country house",
+      "explanation": "Landhaus: country house.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Landhausstil is…",
+      "options": [
+        "a rustic interior style",
+        "a farming method"
+      ],
+      "answer": "a rustic interior style",
+      "explanation": "Style.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Land (vs. die Stadt) means…",
+      "options": [
+        "the countryside",
+        "only a country"
+      ],
+      "answer": "the countryside",
+      "explanation": "Countryside.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Aufs Land ziehen means…",
+      "options": [
+        "to move to the country",
+        "to land a plane"
+      ],
+      "answer": "to move to the country",
+      "explanation": "Move.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Landhaus is a country house, often large or elegant: ein Landhaus mit Garten. Der Landhausstil is a rustic interior style with wood and natural fabrics. Das Land means country, state and countryside: auf dem Land wohnen (to live in the countryside). Since the pandemic, more Germans have moved aufs Land, helped by Homeoffice. In Austria, das Landhaus is a state parliament building. Plural: die Landhäuser."
+}

@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "schmieden",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHMEE-den",
+      "ipa": "ˈʃmiːdn̩",
+      "notes": ""
+    },
+    "meaning": "to forge; to hatch (plans)",
+    "shortDefinition": "To forge; to hatch (plans)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schmied|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schmied|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schmied|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schmied|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schmied|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schmied|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geschmiedet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Schmied schmiedet ein Hufeisen.",
+      "english": "The blacksmith is forging a horseshoe.",
+      "highlight": [
+        "schmiedet"
+      ]
+    },
+    {
+      "german": "Sie schmieden Pläne für die Zukunft.",
+      "english": "They're making plans for the future.",
+      "highlight": [
+        "schmieden"
+      ]
+    }
+  ],
+  "forms": [
+    "schmiede",
+    "schmiedest",
+    "schmiedet",
+    "schmieden",
+    "geschmiedet",
+    "Schmied",
+    "Schmiede"
+  ],
+  "memoryHook": "Schmieden: hammer hot metal into shape, like a Schmied.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (schmieden)",
+      "answer": "schmiedet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schmiedet.",
+      "acceptedAnswers": [
+        "schmiedet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (schmieden, past)",
+      "answer": "geschmiedet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geschmiedet.",
+      "acceptedAnswers": [
+        "geschmiedet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does schmieden mean?",
+      "options": [
+        "cheap",
+        "to forge",
+        "the flower"
+      ],
+      "answer": "to forge",
+      "explanation": "schmieden: to forge; to hatch (plans).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pläne schmieden means…",
+      "options": [
+        "to make plans",
+        "to break plans"
+      ],
+      "answer": "to make plans",
+      "explanation": "Plans.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Man muss das Eisen schmieden, solange es heiß ist means…",
+      "options": [
+        "strike while the iron is hot",
+        "work hard"
+      ],
+      "answer": "strike while the iron is hot",
+      "explanation": "Proverb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schmied is…",
+      "options": [
+        "blacksmith",
+        "a smith's cake"
+      ],
+      "answer": "blacksmith",
+      "explanation": "Person.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Schmieden means to forge metal: ein Schwert schmieden. Figuratively: Pläne schmieden (to make plans), ein Bündnis, eine Koalition schmieden (to forge an alliance), Ränke schmieden (to scheme). Man muss das Eisen schmieden, solange es heiß ist means strike while the iron is hot. Der Schmied is a blacksmith, and Schmidt and Schmitt are among the most common German surnames. Regular: schmiedete, geschmiedet."
+}

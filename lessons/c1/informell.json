@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "informell",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "IN-for-mel",
+      "ipa": "ˈɪnfɔʁˌmɛl",
+      "notes": ""
+    },
+    "meaning": "informal",
+    "shortDefinition": "Informal."
+  },
+  "sampleSentences": [
+    {
+      "german": "Das Treffen war ganz informell.",
+      "english": "The meeting was quite informal.",
+      "highlight": [
+        "informell."
+      ]
+    },
+    {
+      "german": "Sie sammelten informelle Informationen.",
+      "english": "They gathered informal information.",
+      "highlight": [
+        "informelle"
+      ]
+    }
+  ],
+  "forms": [
+    "informelle",
+    "informellen",
+    "informelles"
+  ],
+  "memoryHook": "Informell: not (in-) formell.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does informell mean?",
+      "options": [
+        "informal",
+        "to wait",
+        "to learn"
+      ],
+      "answer": "informal",
+      "explanation": "informell: informal.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Formell means…",
+      "options": [
+        "formal",
+        "formless"
+      ],
+      "answer": "formal",
+      "explanation": "Opposite.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "inoffiziell, zwanglos",
+        "offiziell"
+      ],
+      "answer": "inoffiziell, zwanglos",
+      "explanation": "Synonym.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Duzen vs. siezen:",
+      "options": [
+        "informal du vs. formal Sie",
+        "the same"
+      ],
+      "answer": "informal du vs. formal Sie",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein ___ Gespräch (informal)",
+      "answer": "informelles",
+      "fullAnswer": "ein informelles Gespräch",
+      "explanation": "Neuter -es.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Informell means informal: ein informelles Treffen, informelles Lernen, der informelle Sektor (informal economy). Synonyms: inoffiziell, zwanglos, locker. In German, the informal/formal distinction is clearest in du versus Sie; offering the du (das Du anbieten) is a step towards a more informal relationship. The opposite is formell or förmlich."
+}

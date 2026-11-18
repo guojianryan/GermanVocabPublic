@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verwunden",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-VUN-den",
+      "ipa": "fɛɐ̯ˈvʊndn̩",
+      "notes": ""
+    },
+    "meaning": "to wound, injure",
+    "shortDefinition": "To wound, injure."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verwund|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verwund|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verwund|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verwund|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verwund|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verwund|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verwundet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Zwei Soldaten wurden schwer verwundet.",
+      "english": "Two soldiers were seriously wounded.",
+      "highlight": [
+        "verwundet."
+      ]
+    },
+    {
+      "german": "Seine Worte haben sie tief verwundet.",
+      "english": "His words wounded her deeply.",
+      "highlight": [
+        "verwundet."
+      ]
+    }
+  ],
+  "forms": [
+    "verwunde",
+    "verwundest",
+    "verwundet",
+    "verwunden",
+    "Verwundete",
+    "verwundbar"
+  ],
+  "memoryHook": "Verwunden: to cause a Wunde (wound).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verwunden)",
+      "answer": "verwundet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verwundet.",
+      "acceptedAnswers": [
+        "verwundet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verwunden, past)",
+      "answer": "verwundet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verwundet.",
+      "acceptedAnswers": [
+        "verwundet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verwunden mean?",
+      "options": [
+        "the flower",
+        "to wound",
+        "the bill"
+      ],
+      "answer": "to wound",
+      "explanation": "verwunden: to wound, injure.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verwunden is mostly used for…",
+      "options": [
+        "war and weapon wounds",
+        "cooking"
+      ],
+      "answer": "war and weapon wounds",
+      "explanation": "War.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Verwundete is…",
+      "options": [
+        "the wounded person",
+        "the wonder"
+      ],
+      "answer": "the wounded person",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verwundbar means…",
+      "options": [
+        "vulnerable",
+        "wonderful"
+      ],
+      "answer": "vulnerable",
+      "explanation": "Vulnerable.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verwunden means to wound, especially in war or by weapons: schwer verwundet (seriously wounded), and figuratively, to hurt emotionally. For accidents, Germans say verletzen. Der/die Verwundete is a wounded person. Verwundbar means vulnerable, and die Achillesferse is everyone's weak spot. Don't confuse it with verwundern (to astonish): Es verwundert mich nicht. From die Wunde (wound)."
+}

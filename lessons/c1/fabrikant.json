@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fabrikant",
+    "partOfSpeech": "noun, masculine (der Fabrikant)",
+    "pronunciation": {
+      "respelling": "fa-bri-KANT",
+      "ipa": "fabʁiˈkant",
+      "notes": "Plural: die Fabrikanten."
+    },
+    "meaning": "manufacturer, factory owner",
+    "shortDefinition": "Manufacturer, factory owner."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Fabrikant, plural die Fabrikanten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Fabrikant"
+        },
+        {
+          "label": "More than one",
+          "value": "die Fabrikanten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sein Großvater war ein reicher Fabrikant.",
+      "english": "His grandfather was a wealthy factory owner.",
+      "highlight": [
+        "Fabrikant."
+      ]
+    },
+    {
+      "german": "Die Fabrikanten der Region lieferten Textilien in alle Welt.",
+      "english": "The region's manufacturers supplied textiles all over the world.",
+      "highlight": [
+        "Fabrikanten"
+      ]
+    }
+  ],
+  "forms": [
+    "Fabrikanten",
+    "der Fabrikant",
+    "Fabrikantin"
+  ],
+  "memoryHook": "Fabrikant: the owner of a Fabrik.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fabrikant",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Fabrikant is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Fabrikant, zwei ___",
+      "answer": "Fabrikanten",
+      "fullAnswer": "ein Fabrikant, zwei Fabrikanten",
+      "explanation": "The plural is Fabrikanten.",
+      "acceptedAnswers": [
+        "Fabrikanten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fabrikant mean?",
+      "options": [
+        "the bed",
+        "manufacturer",
+        "never"
+      ],
+      "answer": "manufacturer",
+      "explanation": "Fabrikant: manufacturer, factory owner.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fabrikant is a weak noun, so…",
+      "options": [
+        "den Fabrikanten",
+        "den Fabrikant"
+      ],
+      "answer": "den Fabrikanten",
+      "explanation": "Weak noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Fabrik is…",
+      "options": [
+        "factory",
+        "fabric"
+      ],
+      "answer": "factory",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Hersteller is…",
+      "options": [
+        "manufacturer (company)",
+        "a stand"
+      ],
+      "answer": "manufacturer (company)",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Fabrikant is a manufacturer or factory owner, a slightly old-fashioned word evoking 19th-century industrialists, whose Fabrikantenvillen still stand in many towns. Today, companies are called Hersteller and owners Unternehmer. Gerhart Hauptmann's play Die Weber (1892) shows weavers rising against a Fabrikant. It's a weak noun: den Fabrikanten. Plural: die Fabrikanten."
+}

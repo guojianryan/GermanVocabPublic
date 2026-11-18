@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Pakt",
+    "partOfSpeech": "noun, masculine (der Pakt)",
+    "pronunciation": {
+      "respelling": "pakt",
+      "ipa": "pakt",
+      "notes": "Plural: die Pakte."
+    },
+    "meaning": "pact",
+    "shortDefinition": "Pact."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Pakt, plural die Pakte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Pakt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Pakte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Länder schlossen einen Pakt.",
+      "english": "The countries made a pact.",
+      "highlight": [
+        "Pakt."
+      ]
+    },
+    {
+      "german": "Der Hitler-Stalin-Pakt wurde 1939 unterzeichnet.",
+      "english": "The Hitler–Stalin pact was signed in 1939.",
+      "highlight": [
+        "Hitler-Stalin-Pakt"
+      ]
+    }
+  ],
+  "forms": [
+    "Pakte",
+    "die Pakte",
+    "der Pakt",
+    "paktieren"
+  ],
+  "memoryHook": "Pakt: an agreement, sometimes with the devil.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Pakt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Pakt is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Pakt, zwei ___",
+      "answer": "Pakte",
+      "fullAnswer": "ein Pakt, zwei Pakte",
+      "explanation": "The plural is Pakte.",
+      "acceptedAnswers": [
+        "Pakte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Pakt mean?",
+      "options": [
+        "the evening",
+        "pact",
+        "the station"
+      ],
+      "answer": "pact",
+      "explanation": "Pakt: pact.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einen Pakt schließen means…",
+      "options": [
+        "to make a pact",
+        "to close a pact"
+      ],
+      "answer": "to make a pact",
+      "explanation": "Make.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Warschauer Pakt was…",
+      "options": [
+        "the Soviet-led military alliance",
+        "a trade deal"
+      ],
+      "answer": "the Soviet-led military alliance",
+      "explanation": "Warsaw Pact.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Paktieren means…",
+      "options": [
+        "to make a deal (often shady)",
+        "to pack"
+      ],
+      "answer": "to make a deal (often shady)",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Pakt is a pact: einen Pakt schließen. History: the Hitler-Stalin-Pakt of August 1939, with its secret protocol dividing Eastern Europe, and der Warschauer Pakt (Warsaw Pact, 1955–1991), which the GDR belonged to. Today: der Stabilitätspakt (EU fiscal rules), der Digitalpakt Schule (school digitalisation funding). Faust makes a famous Pakt mit dem Teufel. Paktieren means to collude. Plural: die Pakte."
+}

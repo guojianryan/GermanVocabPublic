@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gouverneur",
+    "partOfSpeech": "noun, masculine (der Gouverneur)",
+    "pronunciation": {
+      "respelling": "goo-ver-NÖR",
+      "ipa": "ɡuvɛʁˈnøːɐ̯",
+      "notes": "Plural: die Gouverneure."
+    },
+    "meaning": "governor",
+    "shortDefinition": "Governor."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Gouverneur, plural die Gouverneure.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Gouverneur"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gouverneure"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Gouverneur von Kalifornien hielt eine Rede.",
+      "english": "The governor of California gave a speech.",
+      "highlight": [
+        "Gouverneur"
+      ]
+    },
+    {
+      "german": "Die Gouverneurin wurde wiedergewählt.",
+      "english": "The governor was re-elected.",
+      "highlight": [
+        "Gouverneurin"
+      ]
+    }
+  ],
+  "forms": [
+    "Gouverneure",
+    "die Gouverneure",
+    "der Gouverneur",
+    "Gouverneurin"
+  ],
+  "memoryHook": "Gouverneur: a French word in a German coat.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gouverneur",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Gouverneur is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gouverneur, zwei ___",
+      "answer": "Gouverneure",
+      "fullAnswer": "ein Gouverneur, zwei Gouverneure",
+      "explanation": "The plural is Gouverneure.",
+      "acceptedAnswers": [
+        "Gouverneure"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gouverneur mean?",
+      "options": [
+        "governor",
+        "the car",
+        "the family"
+      ],
+      "answer": "governor",
+      "explanation": "Gouverneur: governor.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Gouverneure",
+        "Gouverneuren"
+      ],
+      "answer": "Gouverneure",
+      "explanation": "-e plural.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Feminine form:",
+      "options": [
+        "Gouverneurin",
+        "Gouverneuse"
+      ],
+      "answer": "Gouverneurin",
+      "explanation": "Add -in.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pronunciation of Gouverneur has…",
+      "options": [
+        "a French 'g' sound and stress at the end",
+        "a hard 'g' like Gut"
+      ],
+      "answer": "a French 'g' sound and stress at the end",
+      "explanation": "Loan from French.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "The German states are led by…",
+      "options": [
+        "Ministerpräsidenten",
+        "Gouverneure"
+      ],
+      "answer": "Ministerpräsidenten",
+      "explanation": "No governors in Germany.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Der Gouverneur is a loan from French, with stress on the last syllable. It's used for US state governors or colonial officials, but not for German states: they're led by a Ministerpräsident (or, in the city-states, a Regierender Bürgermeister or Bürgermeister). The female form is die Gouverneurin. Don't confuse it with Gouvernante, an old word for a governess."
+}

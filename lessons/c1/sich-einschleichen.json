@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "(sich) einschleichen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AIN-shlai-khen",
+      "ipa": "ˈaɪ̯nˌʃlaɪ̯çn̩",
+      "notes": ""
+    },
+    "meaning": "to sneak in, creep in",
+    "shortDefinition": "To sneak in, creep in."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schleich|e … |ein"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schleich|st … |ein"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schleich|t … |ein"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schleich|en … |ein"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schleich|t … |ein"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schleich|en … |ein"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat eingeschlichen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In den Text haben sich einige Fehler eingeschlichen.",
+      "english": "A few errors have crept into the text.",
+      "highlight": [
+        "eingeschlichen."
+      ]
+    },
+    {
+      "german": "Der Dieb schlich sich ins Haus ein.",
+      "english": "The thief sneaked into the house.",
+      "highlight": [
+        "schlich",
+        "ein."
+      ]
+    }
+  ],
+  "forms": [
+    "schleiche ein",
+    "schleichst ein",
+    "schleicht ein",
+    "schleichen ein",
+    "eingeschlichen",
+    "schlich ein"
+  ],
+  "memoryHook": "Sich einschleichen: schleichen (creep) in (ein).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ein ((sich) einschleichen)",
+      "answer": "schleicht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schleicht … ein.",
+      "acceptedAnswers": [
+        "schleicht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe mich schon ___. ((sich) einschleichen, past)",
+      "answer": "eingeschlichen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe mich eingeschlichen.",
+      "acceptedAnswers": [
+        "eingeschlichen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does (sich) einschleichen mean?",
+      "options": [
+        "tomorrow",
+        "the flower",
+        "to sneak in"
+      ],
+      "answer": "to sneak in",
+      "explanation": "(sich) einschleichen: to sneak in, creep in.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fehler schleichen sich ein means…",
+      "options": [
+        "errors creep in",
+        "errors sneak out"
+      ],
+      "answer": "errors creep in",
+      "explanation": "Errors.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "schlich ein, eingeschlichen",
+        "schleichte ein"
+      ],
+      "answer": "schlich ein, eingeschlichen",
+      "explanation": "Irregular.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich bei jemandem einschleichen means…",
+      "options": [
+        "to worm one's way into someone's favour",
+        "to visit secretly"
+      ],
+      "answer": "to worm one's way into someone's favour",
+      "explanation": "Figurative.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Sich einschleichen means to sneak or creep in: Der Einbrecher schlich sich ins Haus ein, and very often of errors or habits: Fehler, Routine, Zweifel schleichen sich ein. Sich in jemandes Vertrauen einschleichen means to worm one's way into someone's trust. From schleichen (to creep): schlich, geschlichen. Separable and reflexive: hat sich eingeschlichen."
+}

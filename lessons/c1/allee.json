@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Allee",
+    "partOfSpeech": "noun, feminine (die Allee)",
+    "pronunciation": {
+      "respelling": "a-LAY",
+      "ipa": "aˈleː",
+      "notes": "Plural: die Alleen."
+    },
+    "meaning": "avenue (lined with trees)",
+    "shortDefinition": "Avenue (lined with trees)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Allee, plural die Alleen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Allee"
+        },
+        {
+          "label": "More than one",
+          "value": "die Alleen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir fuhren eine lange Allee entlang.",
+      "english": "We drove along a long tree-lined avenue.",
+      "highlight": [
+        "Allee"
+      ]
+    },
+    {
+      "german": "Die Karl-Marx-Allee ist in Berlin.",
+      "english": "Karl-Marx-Allee is in Berlin.",
+      "highlight": [
+        "Karl-Marx-Allee"
+      ]
+    }
+  ],
+  "forms": [
+    "Alleen",
+    "die Alleen",
+    "die Allee"
+  ],
+  "memoryHook": "Allee: a road with an alley of trees.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Allee",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Allee is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Allee, zwei ___",
+      "answer": "Alleen",
+      "fullAnswer": "ein Allee, zwei Alleen",
+      "explanation": "The plural is Alleen.",
+      "acceptedAnswers": [
+        "Alleen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Allee mean?",
+      "options": [
+        "avenue (lined with trees)",
+        "the job",
+        "quiet"
+      ],
+      "answer": "avenue (lined with trees)",
+      "explanation": "Allee: avenue (lined with trees).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Alleen",
+        "die Allees"
+      ],
+      "answer": "die Alleen",
+      "explanation": "Two e's: Al-LE-en.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Typical of an Allee:",
+      "options": [
+        "trees on both sides",
+        "shops on both sides"
+      ],
+      "answer": "trees on both sides",
+      "explanation": "Tree-lined.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress on…",
+      "options": [
+        "-LEE",
+        "AL-"
+      ],
+      "answer": "-LEE",
+      "explanation": "a-LAY.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Allee is an avenue lined with trees on both sides. Germany, especially Brandenburg and Mecklenburg-Vorpommern, is famous for its country Alleen, and there's even a Deutsche Alleenstraße running about 2,900 km from the Baltic to Lake Constance. Many streets carry the name, like Berlin's Karl-Marx-Allee. It's from French allée, and stressed on the last syllable: a-LAY. Plural: die Alleen."
+}

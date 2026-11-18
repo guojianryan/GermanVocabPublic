@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Handgepäck",
+    "partOfSpeech": "noun, neuter (das Handgepäck)",
+    "pronunciation": {
+      "respelling": "HANT-ge-pek",
+      "ipa": "ˈhantɡəˌpɛk",
+      "notes": "Usually no plural."
+    },
+    "meaning": "hand luggage, carry-on",
+    "shortDefinition": "Hand luggage, carry-on."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Handgepäck, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Handgepäck"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Flüssigkeiten im Handgepäck sind begrenzt.",
+      "english": "Liquids in hand luggage are limited.",
+      "highlight": [
+        "Handgepäck"
+      ]
+    },
+    {
+      "german": "Ist das Handgepäck im Preis inbegriffen?",
+      "english": "Is carry-on luggage included in the price?",
+      "highlight": [
+        "Handgepäck"
+      ]
+    }
+  ],
+  "forms": [
+    "das Handgepäck",
+    "Handgepäcks"
+  ],
+  "memoryHook": "Handgepäck: Gepäck you carry in your Hand.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Handgepäck",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Handgepäck is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Handgepäck mean?",
+      "options": [
+        "hand luggage",
+        "the key",
+        "the bill"
+      ],
+      "answer": "hand luggage",
+      "explanation": "Handgepäck: hand luggage, carry-on.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gepäck is…",
+      "options": [
+        "luggage",
+        "a pack of cards"
+      ],
+      "answer": "luggage",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Checked luggage is…",
+      "options": [
+        "das aufgegebene Gepäck / der Koffer",
+        "das Handgepäck"
+      ],
+      "answer": "das aufgegebene Gepäck / der Koffer",
+      "explanation": "Contrast.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Number:",
+      "options": [
+        "uncountable (das Handgepäck)",
+        "plural Handgepäcke"
+      ],
+      "answer": "uncountable (das Handgepäck)",
+      "explanation": "Uncountable.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Handgepäck is hand luggage or carry-on: ein Stück Handgepäck. Like das Gepäck, it's uncountable. Security rules limit liquids, and airlines set their own size and weight limits. Checked luggage is das aufgegebene Gepäck, and you drop it at the Gepäckaufgabe. It has no plural."
+}

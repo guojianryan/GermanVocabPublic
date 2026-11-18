@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Dschungel",
+    "partOfSpeech": "noun, masculine (der Dschungel)",
+    "pronunciation": {
+      "respelling": "JUNG-el",
+      "ipa": "ˈd͡ʒʊŋl̩",
+      "notes": "Plural: die Dschungel."
+    },
+    "meaning": "jungle",
+    "shortDefinition": "Jungle."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Dschungel, plural die Dschungel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Dschungel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Dschungel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Dschungel leben viele Affenarten.",
+      "english": "Many species of monkey live in the jungle.",
+      "highlight": [
+        "Dschungel"
+      ]
+    },
+    {
+      "german": "Das ist ein Dschungel aus Vorschriften.",
+      "english": "It's a jungle of regulations.",
+      "highlight": [
+        "Dschungel"
+      ]
+    }
+  ],
+  "forms": [
+    "die Dschungel",
+    "der Dschungel",
+    "Dschungelcamp"
+  ],
+  "memoryHook": "Dschungel: four letters, dsch, for one English j.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Dschungel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Dschungel is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Dschungel, zwei ___",
+      "answer": "Dschungel",
+      "fullAnswer": "ein Dschungel, zwei Dschungel",
+      "explanation": "The plural is Dschungel.",
+      "acceptedAnswers": [
+        "Dschungel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Dschungel mean?",
+      "options": [
+        "to help",
+        "the weather",
+        "jungle"
+      ],
+      "answer": "jungle",
+      "explanation": "Dschungel: jungle.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "German spells the j-sound with…",
+      "options": [
+        "dsch",
+        "j"
+      ],
+      "answer": "dsch",
+      "explanation": "Dsch = English j.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Paragrafendschungel is…",
+      "options": [
+        "a jungle of rules and regulations",
+        "a law school"
+      ],
+      "answer": "a jungle of rules and regulations",
+      "explanation": "Red tape.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "der Dschungel",
+        "die Dschungel"
+      ],
+      "answer": "der Dschungel",
+      "explanation": "Masculine.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Dschungel is a jungle: im Dschungel, der Großstadtdschungel (urban jungle), der Paragrafendschungel (a jungle of regulations). German has no j sound as in English jam, so loanwords spell it dsch: Dschungel, Dschihad, Dschingis Khan. The TV reality show Ich bin ein Star – Holt mich hier raus! is popularly called das Dschungelcamp. It came from Hindi via English. The plural is the same."
+}

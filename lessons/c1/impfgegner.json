@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Impfgegner",
+    "partOfSpeech": "noun, masculine (der Impfgegner)",
+    "pronunciation": {
+      "respelling": "IMPF-gay-gner",
+      "ipa": "ˈɪmp͡fˌɡeːɡnɐ",
+      "notes": "Plural: die Impfgegner."
+    },
+    "meaning": "anti-vaxxer, vaccination opponent",
+    "shortDefinition": "Anti-vaxxer, vaccination opponent."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Impfgegner, plural die Impfgegner.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Impfgegner"
+        },
+        {
+          "label": "More than one",
+          "value": "die Impfgegner"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Impfgegner demonstrierten vor dem Rathaus.",
+      "english": "Anti-vaxxers demonstrated in front of the town hall.",
+      "highlight": [
+        "Impfgegner"
+      ]
+    },
+    {
+      "german": "Wegen Impfgegnern breiten sich Masern wieder aus.",
+      "english": "Measles is spreading again because of anti-vaxxers.",
+      "highlight": [
+        "Impfgegnern"
+      ]
+    }
+  ],
+  "forms": [
+    "Impfgegnerin",
+    "der Impfgegner"
+  ],
+  "memoryHook": "Impfgegner: a Gegner (opponent) of Impfung.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Impfgegner",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Impfgegner is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Impfgegner, zwei ___",
+      "answer": "Impfgegner",
+      "fullAnswer": "ein Impfgegner, zwei Impfgegner",
+      "explanation": "The plural is Impfgegner.",
+      "acceptedAnswers": [
+        "Impfgegner"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Impfgegner mean?",
+      "options": [
+        "cheap",
+        "anti-vaxxer",
+        "always"
+      ],
+      "answer": "anti-vaxxer",
+      "explanation": "Impfgegner: anti-vaxxer, vaccination opponent.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Impfung is…",
+      "options": [
+        "vaccination",
+        "a grafting"
+      ],
+      "answer": "vaccination",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Impfpflicht is…",
+      "options": [
+        "compulsory vaccination",
+        "an injection"
+      ],
+      "answer": "compulsory vaccination",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Gegner is…",
+      "options": [
+        "opponent",
+        "a friend"
+      ],
+      "answer": "opponent",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Impfgegner (die Impfgegnerin) is an anti-vaxxer. The Impfskeptiker (vaccine-hesitant) are a broader group with doubts. Since 2020, measles vaccination is required for children in Kitas and schools, while a general COVID-19 Impfpflicht failed in the Bundestag in 2022. Impfen means to vaccinate, and der Impfpass is the vaccination record booklet. The plural is the same."
+}

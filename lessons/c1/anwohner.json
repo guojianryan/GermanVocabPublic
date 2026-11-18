@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Anwohner",
+    "partOfSpeech": "noun, masculine (der Anwohner)",
+    "pronunciation": {
+      "respelling": "AN-voh-ner",
+      "ipa": "ˈanˌvoːnɐ",
+      "notes": "Plural: die Anwohner."
+    },
+    "meaning": "resident (of a street or area)",
+    "shortDefinition": "Resident (of a street or area)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Anwohner, plural die Anwohner.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Anwohner"
+        },
+        {
+          "label": "More than one",
+          "value": "die Anwohner"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Anwohner beschweren sich über den Lärm.",
+      "english": "The residents are complaining about the noise.",
+      "highlight": [
+        "Anwohner"
+      ]
+    },
+    {
+      "german": "Parken nur für Anwohner.",
+      "english": "Parking for residents only.",
+      "highlight": [
+        "Anwohner."
+      ]
+    }
+  ],
+  "forms": [
+    "die Anwohner",
+    "der Anwohner",
+    "Anwohnerin",
+    "Anwohnerparken"
+  ],
+  "memoryHook": "Anwohner: people who wohnen an (live by) the street.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Anwohner",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Anwohner is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Anwohner, zwei ___",
+      "answer": "Anwohner",
+      "fullAnswer": "ein Anwohner, zwei Anwohner",
+      "explanation": "The plural is Anwohner.",
+      "acceptedAnswers": [
+        "Anwohner"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Anwohner mean?",
+      "options": [
+        "to help",
+        "resident (of a street or area)",
+        "to buy"
+      ],
+      "answer": "resident (of a street or area)",
+      "explanation": "Anwohner: resident (of a street or area).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Anwohner frei on a sign means…",
+      "options": [
+        "residents exempt",
+        "free parking for all"
+      ],
+      "answer": "residents exempt",
+      "explanation": "Residents only.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Anwohnerin",
+        "die Anwohnin"
+      ],
+      "answer": "die Anwohnerin",
+      "explanation": "-in.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "From…",
+      "options": [
+        "an + wohnen",
+        "anwählen"
+      ],
+      "answer": "an + wohnen",
+      "explanation": "Living near.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Anwohner (die Anwohnerin) is a resident of a particular street or area: die Anwohner der Hauptstraße. You'll see it on traffic signs: Anlieger frei or Anwohner frei (access for residents only), and Anwohnerparken means residents' parking, which requires an Anwohnerparkausweis. In news, Anwohner often protest against noise, building sites or new wind farms. Plural: die Anwohner."
+}

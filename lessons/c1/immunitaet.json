@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Immunität",
+    "partOfSpeech": "noun, feminine (die Immunität)",
+    "pronunciation": {
+      "respelling": "i-mu-ni-TAIT",
+      "ipa": "ɪmuniˈtɛːt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "immunity",
+    "shortDefinition": "Immunity."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Immunität, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Immunität"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Bundestag hob die Immunität des Abgeordneten auf.",
+      "english": "The Bundestag lifted the MP's immunity.",
+      "highlight": [
+        "Immunität"
+      ]
+    },
+    {
+      "german": "Nach der Impfung entwickelt sich eine Immunität.",
+      "english": "Immunity develops after vaccination.",
+      "highlight": [
+        "Immunität."
+      ]
+    }
+  ],
+  "forms": [
+    "die Immunität",
+    "immun",
+    "Immunsystem"
+  ],
+  "memoryHook": "Immunität: being immun, in medicine or in law.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Immunität",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Immunität is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Immunität mean?",
+      "options": [
+        "to buy",
+        "hot",
+        "immunity"
+      ],
+      "answer": "immunity",
+      "explanation": "Immunität: immunity.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Immunität aufheben means…",
+      "options": [
+        "to lift immunity",
+        "to vaccinate"
+      ],
+      "answer": "to lift immunity",
+      "explanation": "Lift.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Immunsystem is…",
+      "options": [
+        "the immune system",
+        "an IT system"
+      ],
+      "answer": "the immune system",
+      "explanation": "Body.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Immun gegen means…",
+      "options": [
+        "immune to",
+        "immune from only"
+      ],
+      "answer": "immune to",
+      "explanation": "Adjective.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Immunität is immunity, medical (Herdenimmunität, herd immunity) and legal: Members of the Bundestag enjoy parliamentary immunity, which the Bundestag can lift (aufheben) to allow prosecution; this happens routinely, often for minor matters. Diplomats have diplomatische Immunität. Immun gegen means immune to: Ich bin immun gegen Kritik. Das Immunsystem is the immune system. It has no plural."
+}

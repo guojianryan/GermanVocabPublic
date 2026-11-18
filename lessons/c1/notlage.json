@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Notlage",
+    "partOfSpeech": "noun, feminine (die Notlage)",
+    "pronunciation": {
+      "respelling": "NOHT-laa-ge",
+      "ipa": "ˈnoːtˌlaːɡə",
+      "notes": "Plural: die Notlagen."
+    },
+    "meaning": "emergency, plight, distress",
+    "shortDefinition": "Emergency, plight, distress."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Notlage, plural die Notlagen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Notlage"
+        },
+        {
+          "label": "More than one",
+          "value": "die Notlagen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Familie ist in eine finanzielle Notlage geraten.",
+      "english": "The family has got into financial difficulties.",
+      "highlight": [
+        "Notlage"
+      ]
+    },
+    {
+      "german": "Er nutzte ihre Notlage aus.",
+      "english": "He took advantage of her plight.",
+      "highlight": [
+        "Notlage"
+      ]
+    }
+  ],
+  "forms": [
+    "Notlagen",
+    "die Notlage"
+  ],
+  "memoryHook": "Notlage: a Lage (situation) of Not (distress).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Notlage",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Notlage is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Notlage, zwei ___",
+      "answer": "Notlagen",
+      "fullAnswer": "ein Notlage, zwei Notlagen",
+      "explanation": "The plural is Notlagen.",
+      "acceptedAnswers": [
+        "Notlagen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Notlage mean?",
+      "options": [
+        "the bread",
+        "to wait",
+        "emergency"
+      ],
+      "answer": "emergency",
+      "explanation": "Notlage: emergency, plight, distress.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Not is…",
+      "options": [
+        "need, hardship, distress",
+        "a note"
+      ],
+      "answer": "need, hardship, distress",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Haushaltsnotlage is…",
+      "options": [
+        "budget emergency",
+        "a household chore"
+      ],
+      "answer": "budget emergency",
+      "explanation": "Politics.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Zwangslage, die Krise",
+        "der Wohlstand"
+      ],
+      "answer": "die Zwangslage, die Krise",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Notlage is an emergency, plight or predicament: in eine Notlage geraten, jemandes Notlage ausnutzen. Under the Schuldenbremse (debt brake), the Bundestag can declare an außergewöhnliche Notlage to allow extra borrowing, as it did during the pandemic. Die Not means need or hardship: Not macht erfinderisch (necessity is the mother of invention). Plural: die Notlagen."
+}

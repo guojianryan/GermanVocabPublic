@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Eingeständnis",
+    "partOfSpeech": "noun, neuter (das Eingeständnis)",
+    "pronunciation": {
+      "respelling": "AIN-ge-shtent-nis",
+      "ipa": "ˈaɪ̯nɡəˌʃtɛntnɪs",
+      "notes": "Plural: die Eingeständnisse."
+    },
+    "meaning": "admission, confession",
+    "shortDefinition": "Admission, confession."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Eingeständnis, plural die Eingeständnisse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Eingeständnis"
+        },
+        {
+          "label": "More than one",
+          "value": "die Eingeständnisse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sein Rücktritt war ein Eingeständnis des Scheiterns.",
+      "english": "His resignation was an admission of failure.",
+      "highlight": [
+        "Eingeständnis"
+      ]
+    },
+    {
+      "german": "Das ist ein spätes Eingeständnis.",
+      "english": "That's a late admission.",
+      "highlight": [
+        "Eingeständnis."
+      ]
+    }
+  ],
+  "forms": [
+    "Eingeständnisse",
+    "das Eingeständnis"
+  ],
+  "memoryHook": "Eingeständnis: what one eingesteht (admits).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Eingeständnis",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Eingeständnis is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Eingeständnis, zwei ___",
+      "answer": "Eingeständnisse",
+      "fullAnswer": "ein Eingeständnis, zwei Eingeständnisse",
+      "explanation": "The plural is Eingeständnisse.",
+      "acceptedAnswers": [
+        "Eingestaendnisse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Eingeständnis mean?",
+      "options": [
+        "the shop",
+        "slowly",
+        "admission"
+      ],
+      "answer": "admission",
+      "explanation": "Eingeständnis: admission, confession.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eingestehen means…",
+      "options": [
+        "to admit, confess",
+        "to stand in"
+      ],
+      "answer": "to admit, confess",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "das Geständnis, das Zugeständnis (partly)",
+        "die Leugnung"
+      ],
+      "answer": "das Geständnis, das Zugeständnis (partly)",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Zugeständnis is…",
+      "options": [
+        "concession",
+        "admission of guilt"
+      ],
+      "answer": "concession",
+      "explanation": "Contrast.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Eingeständnis is an admission, often reluctant: ein Eingeständnis der Schuld, des Scheiterns, der Niederlage. Sich etwas eingestehen means to admit something to oneself. Das Geständnis is a confession, especially in court, while das Zugeständnis is a concession. The opposite is die Leugnung (denial). Plural: die Eingeständnisse."
+}

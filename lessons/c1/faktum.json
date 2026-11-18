@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Faktum",
+    "partOfSpeech": "noun, neuter (das Faktum)",
+    "pronunciation": {
+      "respelling": "FAK-tum",
+      "ipa": "ˈfaktʊm",
+      "notes": "Plural: die Fakten."
+    },
+    "meaning": "fact (formal)",
+    "shortDefinition": "Fact (formal)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Faktum, plural die Fakten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Faktum"
+        },
+        {
+          "label": "More than one",
+          "value": "die Fakten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das ist ein unbestreitbares Faktum.",
+      "english": "That is an indisputable fact.",
+      "highlight": [
+        "Faktum."
+      ]
+    },
+    {
+      "german": "Wir müssen uns an die Fakten halten.",
+      "english": "We must stick to the facts.",
+      "highlight": [
+        "Fakten"
+      ]
+    }
+  ],
+  "forms": [
+    "Fakten",
+    "das Faktum",
+    "der Fakt"
+  ],
+  "memoryHook": "Faktum: Latin factum, something done.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Faktum",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Faktum is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Faktum, zwei ___",
+      "answer": "Fakten",
+      "fullAnswer": "ein Faktum, zwei Fakten",
+      "explanation": "The plural is Fakten.",
+      "acceptedAnswers": [
+        "Fakten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Faktum mean?",
+      "options": [
+        "expensive",
+        "fact (formal)",
+        "the bed"
+      ],
+      "answer": "fact (formal)",
+      "explanation": "Faktum: fact (formal).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Fakten",
+        "die Faktums"
+      ],
+      "answer": "die Fakten",
+      "explanation": "Plural.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday singular:",
+      "options": [
+        "die Tatsache, der Fakt",
+        "der Faktor"
+      ],
+      "answer": "die Tatsache, der Fakt",
+      "explanation": "Usage.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Faktisch means…",
+      "options": [
+        "actual, in fact, de facto",
+        "fake"
+      ],
+      "answer": "actual, in fact, de facto",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Faktum is a fact, a formal word; everyday German prefers die Tatsache or der Fakt (colloquial). The plural is die Fakten, very common: Fakten schaffen (to create facts on the ground), der Faktencheck. Faktisch means in fact or de facto: faktisch unmöglich. From Latin factum (something done)."
+}

@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "aufdecken",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AUF-de-ken",
+      "ipa": "ˈaʊ̯fˌdɛkn̩",
+      "notes": ""
+    },
+    "meaning": "to uncover, expose",
+    "shortDefinition": "To uncover, expose."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "deck|e … |auf"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "deck|st … |auf"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "deck|t … |auf"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "deck|en … |auf"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "deck|t … |auf"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "deck|en … |auf"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat aufgedeckt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Journalisten haben den Skandal aufgedeckt.",
+      "english": "Journalists uncovered the scandal.",
+      "highlight": [
+        "aufgedeckt."
+      ]
+    },
+    {
+      "german": "Deck deine Karten auf!",
+      "english": "Show your cards!",
+      "highlight": [
+        "Deck",
+        "auf!"
+      ]
+    }
+  ],
+  "forms": [
+    "decke auf",
+    "deckst auf",
+    "deckt auf",
+    "decken auf",
+    "aufgedeckt",
+    "deckte auf",
+    "Aufdeckung"
+  ],
+  "memoryHook": "Aufdecken: pull the Decke (cover) off.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … auf (aufdecken)",
+      "answer": "deckt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: deckt … auf.",
+      "acceptedAnswers": [
+        "deckt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (aufdecken, past)",
+      "answer": "aufgedeckt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe aufgedeckt.",
+      "acceptedAnswers": [
+        "aufgedeckt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does aufdecken mean?",
+      "options": [
+        "to uncover",
+        "to open",
+        "the bill"
+      ],
+      "answer": "to uncover",
+      "explanation": "aufdecken: to uncover, expose.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einen Skandal aufdecken means…",
+      "options": [
+        "to expose a scandal",
+        "to cover up a scandal"
+      ],
+      "answer": "to expose a scandal",
+      "explanation": "Expose.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite:",
+      "options": [
+        "vertuschen",
+        "entdecken"
+      ],
+      "answer": "vertuschen",
+      "explanation": "Cover up.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Decke is…",
+      "options": [
+        "blanket; ceiling",
+        "deck"
+      ],
+      "answer": "blanket; ceiling",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Aufdecken means to uncover or expose: einen Betrug aufdecken, Missstände aufdecken. In card games, die Karten aufdecken means to show one's cards, also figuratively. The opposite is vertuschen (to cover up). Investigative journalism that exposes wrongdoing is called aufdeckender Journalismus. Compare entdecken (to discover) and verdecken (to conceal). Separable: deckte auf, aufgedeckt."
+}

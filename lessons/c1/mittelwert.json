@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mittelwert",
+    "partOfSpeech": "noun, masculine (der Mittelwert)",
+    "pronunciation": {
+      "respelling": "MI-tel-vert",
+      "ipa": "ˈmɪtl̩ˌveːɐ̯t",
+      "notes": "Plural: die Mittelwerte."
+    },
+    "meaning": "mean, average",
+    "shortDefinition": "Mean, average."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Mittelwert, plural die Mittelwerte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Mittelwert"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mittelwerte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Mittelwert liegt bei 3,2.",
+      "english": "The mean is 3.2.",
+      "highlight": [
+        "Mittelwert"
+      ]
+    },
+    {
+      "german": "Bilde den Mittelwert aus allen Messungen.",
+      "english": "Calculate the mean of all measurements.",
+      "highlight": [
+        "Mittelwert"
+      ]
+    }
+  ],
+  "forms": [
+    "Mittelwerte",
+    "der Mittelwert"
+  ],
+  "memoryHook": "Mittelwert: the Wert (value) in the Mitte (middle).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mittelwert",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Mittelwert is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mittelwert, zwei ___",
+      "answer": "Mittelwerte",
+      "fullAnswer": "ein Mittelwert, zwei Mittelwerte",
+      "explanation": "The plural is Mittelwerte.",
+      "acceptedAnswers": [
+        "Mittelwerte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mittelwert mean?",
+      "options": [
+        "quiet",
+        "the weather",
+        "mean"
+      ],
+      "answer": "mean",
+      "explanation": "Mittelwert: mean, average.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Durchschnitt",
+        "der Median"
+      ],
+      "answer": "der Durchschnitt",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Median is…",
+      "options": [
+        "the middle value",
+        "the mean"
+      ],
+      "answer": "the middle value",
+      "explanation": "Contrast.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Mittelwert bilden means…",
+      "options": [
+        "to calculate the average",
+        "to build a middle"
+      ],
+      "answer": "to calculate the average",
+      "explanation": "Phrase.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Mittelwert is the mean or average in statistics: das arithmetische Mittel, den Mittelwert bilden or berechnen. In everyday speech, der Durchschnitt is more common. Der Median is the middle value, which is often used for incomes because a few very high earners distort the Mittelwert. Plural: die Mittelwerte."
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "archivieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ar-khi-VEE-ren",
+      "ipa": "aʁçiˈviːʁən",
+      "notes": ""
+    },
+    "meaning": "to archive",
+    "shortDefinition": "To archive."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "archivier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "archivier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "archivier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "archivier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "archivier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "archivier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat archiviert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die E-Mails werden automatisch archiviert.",
+      "english": "The emails are archived automatically.",
+      "highlight": [
+        "archiviert."
+      ]
+    },
+    {
+      "german": "Geschäftsunterlagen muss man jahrelang archivieren.",
+      "english": "Business records must be archived for years.",
+      "highlight": [
+        "archivieren."
+      ]
+    }
+  ],
+  "forms": [
+    "archiviere",
+    "archivierst",
+    "archiviert",
+    "archivieren",
+    "Archiv"
+  ],
+  "memoryHook": "Archivieren: put into the Archiv.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (archivieren)",
+      "answer": "archiviert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: archiviert.",
+      "acceptedAnswers": [
+        "archiviert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (archivieren, past)",
+      "answer": "archiviert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe archiviert.",
+      "acceptedAnswers": [
+        "archiviert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does archivieren mean?",
+      "options": [
+        "to learn",
+        "the bill",
+        "to archive"
+      ],
+      "answer": "to archive",
+      "explanation": "archivieren: to archive.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Archiv is…",
+      "options": [
+        "archive",
+        "arch"
+      ],
+      "answer": "archive",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pronunciation of ch in Archiv:",
+      "options": [
+        "like ich (or k)",
+        "like English ch"
+      ],
+      "answer": "like ich (or k)",
+      "explanation": "Pronunciation.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Archivar is…",
+      "options": [
+        "archivist",
+        "architect"
+      ],
+      "answer": "archivist",
+      "explanation": "Person.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Archivieren means to archive: Dokumente, Daten, E-Mails archivieren. German businesses must keep accounting records for several years under the Aufbewahrungspflicht, typically six to ten depending on the document. Das Archiv is an archive, der Archivar an archivist. The Bundesarchiv in Koblenz holds federal records, including those of the Stasi since 2021. Perfect without ge-: hat archiviert."
+}

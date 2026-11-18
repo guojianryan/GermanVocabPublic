@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Abteilungsleiter",
+    "partOfSpeech": "noun, masculine (der Abteilungsleiter)",
+    "pronunciation": {
+      "respelling": "ap-TAI-lungs-lai-ter",
+      "ipa": "apˈtaɪ̯lʊŋsˌlaɪ̯tɐ",
+      "notes": "Plural: die Abteilungsleiter."
+    },
+    "meaning": "head of department",
+    "shortDefinition": "Head of department."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Abteilungsleiter, plural die Abteilungsleiter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Abteilungsleiter"
+        },
+        {
+          "label": "More than one",
+          "value": "die Abteilungsleiter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie wurde zur Abteilungsleiterin befördert.",
+      "english": "She was promoted to head of department.",
+      "highlight": [
+        "Abteilungsleiterin"
+      ]
+    },
+    {
+      "german": "Der Abteilungsleiter hat die Besprechung abgesagt.",
+      "english": "The head of department cancelled the meeting.",
+      "highlight": [
+        "Abteilungsleiter"
+      ]
+    }
+  ],
+  "forms": [
+    "die Abteilungsleiter",
+    "der Abteilungsleiter",
+    "Abteilungsleiterin"
+  ],
+  "memoryHook": "Abteilungsleiter: the Leiter (head) of an Abteilung.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Abteilungsleiter",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Abteilungsleiter is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Abteilungsleiter, zwei ___",
+      "answer": "Abteilungsleiter",
+      "fullAnswer": "ein Abteilungsleiter, zwei Abteilungsleiter",
+      "explanation": "The plural is Abteilungsleiter.",
+      "acceptedAnswers": [
+        "Abteilungsleiter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Abteilungsleiter mean?",
+      "options": [
+        "tomorrow",
+        "the weather",
+        "head of department"
+      ],
+      "answer": "head of department",
+      "explanation": "Abteilungsleiter: head of department.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Abteilung is…",
+      "options": [
+        "department",
+        "a division sum"
+      ],
+      "answer": "department",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Leiter is…",
+      "options": [
+        "head, manager; (die Leiter) ladder",
+        "a reader"
+      ],
+      "answer": "head, manager; (die Leiter) ladder",
+      "explanation": "Leiter.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Abteilungsleiterin",
+        "die Abteilungsleiter"
+      ],
+      "answer": "die Abteilungsleiterin",
+      "explanation": "-in.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Abteilungsleiter (die Abteilungsleiterin) is a head of department, a typical middle-management title in companies and public administration. Die Abteilung is a department: die Personalabteilung (HR), die Rechtsabteilung (legal). Der Leiter means head or manager, while die Leiter (feminine) is a ladder. German workplaces are often seen as fairly hierarchical, with titles used carefully. Plural: die Abteilungsleiter."
+}

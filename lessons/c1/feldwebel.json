@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Feldwebel",
+    "partOfSpeech": "noun, masculine (der Feldwebel)",
+    "pronunciation": {
+      "respelling": "FELT-vay-bel",
+      "ipa": "ˈfɛltˌveːbl̩",
+      "notes": "Plural: die Feldwebel."
+    },
+    "meaning": "sergeant",
+    "shortDefinition": "Sergeant."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Feldwebel, plural die Feldwebel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Feldwebel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Feldwebel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Feldwebel brüllte Befehle.",
+      "english": "The sergeant barked orders.",
+      "highlight": [
+        "Feldwebel"
+      ]
+    },
+    {
+      "german": "Sie wurde zur Feldwebelin befördert.",
+      "english": "She was promoted to sergeant.",
+      "highlight": [
+        "Feldwebelin"
+      ]
+    }
+  ],
+  "forms": [
+    "Feldwebelin",
+    "der Feldwebel"
+  ],
+  "memoryHook": "Feldwebel: the Weibel (court official) of the Feld (army).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Feldwebel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Feldwebel is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Feldwebel, zwei ___",
+      "answer": "Feldwebel",
+      "fullAnswer": "ein Feldwebel, zwei Feldwebel",
+      "explanation": "The plural is Feldwebel.",
+      "acceptedAnswers": [
+        "Feldwebel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Feldwebel mean?",
+      "options": [
+        "to travel",
+        "slowly",
+        "sergeant"
+      ],
+      "answer": "sergeant",
+      "explanation": "Feldwebel: sergeant.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, ein Feldwebel is…",
+      "options": [
+        "a bossy, barking person",
+        "a farmer"
+      ],
+      "answer": "a bossy, barking person",
+      "explanation": "Figurative.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Feldwebel is a…",
+      "options": [
+        "non-commissioned officer (Unteroffizier)",
+        "general"
+      ],
+      "answer": "non-commissioned officer (Unteroffizier)",
+      "explanation": "Rank.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ton is like a Kasernenhof means…",
+      "options": [
+        "barked like on a parade ground",
+        "musical"
+      ],
+      "answer": "barked like on a parade ground",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Feldwebel is a sergeant, a non-commissioned officer rank in the Bundeswehr, with ranks like Oberfeldwebel and Hauptfeldwebel above it. Figuratively, someone with a Feldwebelton barks orders, and ein Feldwebel is a bossy person. The second part comes from an old word for court official, Weibel, still used in Switzerland. The plural is the same."
+}

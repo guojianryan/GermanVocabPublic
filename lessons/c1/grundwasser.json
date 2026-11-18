@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Grundwasser",
+    "partOfSpeech": "noun, neuter (das Grundwasser)",
+    "pronunciation": {
+      "respelling": "GRUNT-va-ser",
+      "ipa": "ˈɡʁʊntˌvasɐ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "groundwater",
+    "shortDefinition": "Groundwater."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Grundwasser, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Grundwasser"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Grundwasserspiegel ist gesunken.",
+      "english": "The groundwater level has fallen.",
+      "highlight": [
+        "Grundwasserspiegel"
+      ]
+    },
+    {
+      "german": "In Deutschland kommt das meiste Trinkwasser aus dem Grundwasser.",
+      "english": "In Germany, most drinking water comes from groundwater.",
+      "highlight": [
+        "Grundwasser."
+      ]
+    }
+  ],
+  "forms": [
+    "das Grundwasser",
+    "Grundwasserspiegel"
+  ],
+  "memoryHook": "Grundwasser: water deep in the Grund (ground).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Grundwasser",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Grundwasser is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Grundwasser mean?",
+      "options": [
+        "the bed",
+        "groundwater",
+        "quiet"
+      ],
+      "answer": "groundwater",
+      "explanation": "Grundwasser: groundwater.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Most German tap water comes from…",
+      "options": [
+        "groundwater (about 70%)",
+        "rivers"
+      ],
+      "answer": "groundwater (about 70%)",
+      "explanation": "Source.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Grundwasserspiegel is…",
+      "options": [
+        "the water table",
+        "a mirror"
+      ],
+      "answer": "the water table",
+      "explanation": "Water table.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nitrat im Grundwasser comes mainly from…",
+      "options": [
+        "fertiliser and manure",
+        "cars"
+      ],
+      "answer": "fertiliser and manure",
+      "explanation": "Nitrate.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Grundwasser is groundwater. In Germany, about 70 percent of drinking water comes from it. Dry summers since 2018 have lowered the Grundwasserspiegel (water table) in many regions. Nitrate pollution from farming (Gülle, liquid manure) led the EU to take Germany to court, and it lost in 2018. The water is still strictly tested and safe to drink. It has no plural."
+}

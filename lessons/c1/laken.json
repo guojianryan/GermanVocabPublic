@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Laken",
+    "partOfSpeech": "noun, neuter (das Laken)",
+    "pronunciation": {
+      "respelling": "LAA-ken",
+      "ipa": "ˈlaːkn̩",
+      "notes": "Plural: die Laken."
+    },
+    "meaning": "sheet (bed)",
+    "shortDefinition": "Sheet (bed)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Laken, plural die Laken.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Laken"
+        },
+        {
+          "label": "More than one",
+          "value": "die Laken"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich muss noch die Laken wechseln.",
+      "english": "I still have to change the sheets.",
+      "highlight": [
+        "Laken"
+      ]
+    },
+    {
+      "german": "Das Spannbettlaken passt nicht auf die Matratze.",
+      "english": "The fitted sheet doesn't fit the mattress.",
+      "highlight": [
+        "Spannbettlaken"
+      ]
+    }
+  ],
+  "forms": [
+    "das Laken",
+    "Lakens"
+  ],
+  "memoryHook": "Laken: a large cloth for the bed.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Laken",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Laken is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Laken, zwei ___",
+      "answer": "Laken",
+      "fullAnswer": "ein Laken, zwei Laken",
+      "explanation": "The plural is Laken.",
+      "acceptedAnswers": [
+        "Laken"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Laken mean?",
+      "options": [
+        "sheet (bed)",
+        "hot",
+        "the weather"
+      ],
+      "answer": "sheet (bed)",
+      "explanation": "Laken: sheet (bed).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Spannbettlaken is…",
+      "options": [
+        "fitted sheet",
+        "a bedspread"
+      ],
+      "answer": "fitted sheet",
+      "explanation": "Compound.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "das Betttuch, das Leintuch",
+        "die Decke"
+      ],
+      "answer": "das Betttuch, das Leintuch",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Bettwäsche is…",
+      "options": [
+        "bed linen (duvet cover, pillowcase)",
+        "laundry"
+      ],
+      "answer": "bed linen (duvet cover, pillowcase)",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Laken is a bed sheet, also das Betttuch or, in the south, das Leintuch. Most German beds use a Spannbettlaken (fitted sheet) and separate duvets for each person, rather than a top sheet; the duvet cover and pillowcase are die Bettwäsche. Das Leichentuch is a shroud. The plural is the same: die Laken."
+}

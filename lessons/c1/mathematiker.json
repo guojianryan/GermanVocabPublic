@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mathematiker",
+    "partOfSpeech": "noun, masculine (der Mathematiker)",
+    "pronunciation": {
+      "respelling": "ma-te-MAA-ti-ker",
+      "ipa": "mateˈmaːtikɐ",
+      "notes": "Plural: die Mathematiker."
+    },
+    "meaning": "mathematician",
+    "shortDefinition": "Mathematician."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Mathematiker, plural die Mathematiker.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Mathematiker"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mathematiker"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Gauß war einer der größten Mathematiker.",
+      "english": "Gauss was one of the greatest mathematicians.",
+      "highlight": [
+        "Mathematiker."
+      ]
+    },
+    {
+      "german": "Sie arbeitet als Mathematikerin bei einer Versicherung.",
+      "english": "She works as a mathematician at an insurance company.",
+      "highlight": [
+        "Mathematikerin"
+      ]
+    }
+  ],
+  "forms": [
+    "die Mathematiker",
+    "der Mathematiker",
+    "Mathematikerin"
+  ],
+  "memoryHook": "Mathematiker: a specialist in Mathematik.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mathematiker",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Mathematiker is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mathematiker, zwei ___",
+      "answer": "Mathematiker",
+      "fullAnswer": "ein Mathematiker, zwei Mathematiker",
+      "explanation": "The plural is Mathematiker.",
+      "acceptedAnswers": [
+        "Mathematiker"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mathematiker mean?",
+      "options": [
+        "mathematician",
+        "the child",
+        "the station"
+      ],
+      "answer": "mathematician",
+      "explanation": "Mathematiker: mathematician.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Carl Friedrich Gauß appeared on…",
+      "options": [
+        "the 10 Deutsche Mark note",
+        "the euro coin"
+      ],
+      "answer": "the 10 Deutsche Mark note",
+      "explanation": "Banknote.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Mathematikerin",
+        "die Mathematikin"
+      ],
+      "answer": "die Mathematikerin",
+      "explanation": "-in.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "School slang for Mathematik:",
+      "options": [
+        "Mathe",
+        "Mathi"
+      ],
+      "answer": "Mathe",
+      "explanation": "Slang.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Mathematiker (die Mathematikerin) is a mathematician. Germany produced many famous ones: Carl Friedrich Gauss (on the old 10 DM note), Leibniz, Riemann, Hilbert and Emmy Noether, a pioneer of abstract algebra. In schools, Mathematik is shortened to Mathe. Many mathematicians work in insurance as actuaries (Aktuare) or in IT. Plural: die Mathematiker."
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "knebeln",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "KNAY-beln",
+      "ipa": "ˈkneːbl̩n",
+      "notes": ""
+    },
+    "meaning": "to gag; to muzzle, restrict",
+    "shortDefinition": "To gag; to muzzle, restrict."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "knebl|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "knebel|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "knebel|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "knebel|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "knebel|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "knebel|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geknebelt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Täter fesselten und knebelten das Opfer.",
+      "english": "The perpetrators tied up and gagged the victim.",
+      "highlight": [
+        "knebelten"
+      ]
+    },
+    {
+      "german": "Die Regierung knebelt die Presse.",
+      "english": "The government is muzzling the press.",
+      "highlight": [
+        "knebelt"
+      ]
+    }
+  ],
+  "forms": [
+    "kneble",
+    "knebelst",
+    "knebelt",
+    "knebeln",
+    "geknebelt",
+    "Knebel"
+  ],
+  "memoryHook": "Knebeln: stuff a Knebel (gag) in someone's mouth.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (knebeln)",
+      "answer": "knebelt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: knebelt.",
+      "acceptedAnswers": [
+        "knebelt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (knebeln, past)",
+      "answer": "geknebelt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geknebelt.",
+      "acceptedAnswers": [
+        "geknebelt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does knebeln mean?",
+      "options": [
+        "the evening",
+        "to gag",
+        "the job"
+      ],
+      "answer": "to gag",
+      "explanation": "knebeln: to gag; to muzzle, restrict.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Knebel is…",
+      "options": [
+        "gag",
+        "a knob"
+      ],
+      "answer": "gag",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Knebelvertrag is…",
+      "options": [
+        "a one-sided, restrictive contract",
+        "a marriage contract"
+      ],
+      "answer": "a one-sided, restrictive contract",
+      "explanation": "Contract.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, knebeln means…",
+      "options": [
+        "to suppress, muzzle",
+        "to free"
+      ],
+      "answer": "to suppress, muzzle",
+      "explanation": "Figurative.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Knebeln means to gag someone: gefesselt und geknebelt (bound and gagged), and figuratively to muzzle or restrict: die Presse, die Opposition knebeln. Der Knebelvertrag is a gagging, extremely one-sided contract, often ruled sittenwidrig (contrary to public policy) by courts. Der Knebel is a gag. Regular: knebelte, geknebelt."
+}

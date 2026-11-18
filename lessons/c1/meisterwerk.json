@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Meisterwerk",
+    "partOfSpeech": "noun, neuter (das Meisterwerk)",
+    "pronunciation": {
+      "respelling": "MAI-ster-verk",
+      "ipa": "ˈmaɪ̯stɐˌvɛʁk",
+      "notes": "Plural: die Meisterwerke."
+    },
+    "meaning": "masterpiece",
+    "shortDefinition": "Masterpiece."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Meisterwerk, plural die Meisterwerke.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Meisterwerk"
+        },
+        {
+          "label": "More than one",
+          "value": "die Meisterwerke"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Roman gilt als Meisterwerk der Weltliteratur.",
+      "english": "The novel is considered a masterpiece of world literature.",
+      "highlight": [
+        "Meisterwerk"
+      ]
+    },
+    {
+      "german": "Das Tor war ein Meisterwerk.",
+      "english": "The goal was a masterpiece.",
+      "highlight": [
+        "Meisterwerk."
+      ]
+    }
+  ],
+  "forms": [
+    "Meisterwerke",
+    "die Meisterwerke",
+    "das Meisterwerk"
+  ],
+  "memoryHook": "Meisterwerk: a work (Werk) worthy of a Meister.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Meisterwerk",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Meisterwerk is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Meisterwerk, zwei ___",
+      "answer": "Meisterwerke",
+      "fullAnswer": "ein Meisterwerk, zwei Meisterwerke",
+      "explanation": "The plural is Meisterwerke.",
+      "acceptedAnswers": [
+        "Meisterwerke"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Meisterwerk mean?",
+      "options": [
+        "masterpiece",
+        "to travel",
+        "slowly"
+      ],
+      "answer": "masterpiece",
+      "explanation": "Meisterwerk: masterpiece.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Meisterstück originally was…",
+      "options": [
+        "the piece a craftsman made to become a master",
+        "a chess move"
+      ],
+      "answer": "the piece a craftsman made to become a master",
+      "explanation": "Crafts.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Meister is…",
+      "options": [
+        "master; champion; master craftsman",
+        "a mister"
+      ],
+      "answer": "master; champion; master craftsman",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Meisterwerke",
+        "die Meisterwerken"
+      ],
+      "answer": "die Meisterwerke",
+      "explanation": "-e.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Meisterwerk is a masterpiece: ein Meisterwerk der Architektur, Goethes Faust gilt als Meisterwerk. In the German crafts tradition, das Meisterstück was the piece an apprentice had to make to become a Meister (master craftsman), a title still required to run a business in many trades. Der Meister also means champion: der Deutsche Meister. Plural: die Meisterwerke."
+}

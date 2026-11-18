@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ausstehend",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "AUS-shtay-ent",
+      "ipa": "ˈaʊ̯sˌʃteːənt",
+      "notes": ""
+    },
+    "meaning": "outstanding, pending",
+    "shortDefinition": "Outstanding, pending."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die ausstehenden Zahlungen müssen bis Freitag eingehen.",
+      "english": "The outstanding payments must arrive by Friday.",
+      "highlight": [
+        "ausstehenden"
+      ]
+    },
+    {
+      "german": "Die Entscheidung steht noch aus.",
+      "english": "The decision is still pending.",
+      "highlight": [
+        "steht",
+        "aus."
+      ]
+    }
+  ],
+  "forms": [
+    "ausstehende",
+    "ausstehenden"
+  ],
+  "memoryHook": "Ausstehend: still standing out (aussteht).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does ausstehend mean?",
+      "options": [
+        "the station",
+        "outstanding",
+        "the window"
+      ],
+      "answer": "outstanding",
+      "explanation": "ausstehend: outstanding, pending.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ausstehen (separable) means…",
+      "options": [
+        "to be outstanding; to endure",
+        "to stand out"
+      ],
+      "answer": "to be outstanding; to endure",
+      "explanation": "Verb.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ich kann ihn nicht ausstehen means…",
+      "options": [
+        "I can't stand him",
+        "I can't wait for him"
+      ],
+      "answer": "I can't stand him",
+      "explanation": "Idiom.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "offen, noch nicht erledigt",
+        "bezahlt"
+      ],
+      "answer": "offen, noch nicht erledigt",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ Rechnungen (outstanding)",
+      "answer": "ausstehende",
+      "fullAnswer": "ausstehende Rechnungen",
+      "explanation": "Plural -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Ausstehend means outstanding or pending: ausstehende Zahlungen, Rechnungen, Ergebnisse. Etwas steht noch aus means it's still pending. Careful: outstanding in the sense of excellent is hervorragend. Ausstehen also means to endure: Ich kann ihn nicht ausstehen (I can't stand him), Angst ausstehen. Synonyms: offen, unerledigt."
+}

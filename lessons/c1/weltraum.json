@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Weltraum",
+    "partOfSpeech": "noun, masculine (der Weltraum)",
+    "pronunciation": {
+      "respelling": "VELT-raum",
+      "ipa": "ˈvɛltˌʁaʊ̯m",
+      "notes": "Usually no plural."
+    },
+    "meaning": "outer space",
+    "shortDefinition": "Outer space."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Weltraum, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Weltraum"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er war der erste Deutsche im Weltraum.",
+      "english": "He was the first German in space.",
+      "highlight": [
+        "Weltraum."
+      ]
+    },
+    {
+      "german": "Aus dem Weltraum sieht die Erde blau aus.",
+      "english": "From space, Earth looks blue.",
+      "highlight": [
+        "Weltraum"
+      ]
+    }
+  ],
+  "forms": [
+    "der Weltraum",
+    "Raumfahrt",
+    "Weltall"
+  ],
+  "memoryHook": "Weltraum: the space (Raum) around the world (Welt).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Weltraum",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Weltraum is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Weltraum mean?",
+      "options": [
+        "to open",
+        "the flower",
+        "outer space"
+      ],
+      "answer": "outer space",
+      "explanation": "Weltraum: outer space.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "The first German in space (1978) was…",
+      "options": [
+        "Sigmund Jähn (GDR)",
+        "Alexander Gerst"
+      ],
+      "answer": "Sigmund Jähn (GDR)",
+      "explanation": "Jähn.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Raumfahrt is…",
+      "options": [
+        "space travel",
+        "a parking space"
+      ],
+      "answer": "space travel",
+      "explanation": "Space travel.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das All is…",
+      "options": [
+        "(outer) space, universe",
+        "all of them"
+      ],
+      "answer": "(outer) space, universe",
+      "explanation": "Synonym.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Weltraum is outer space; das Weltall or simply das All is the universe or space. The first German in space was Sigmund Jähn from the GDR, who flew on a Soviet mission in 1978. Alexander Gerst later became famous for his ISS missions and photos. Die Raumfahrt is space travel, and der Astronaut or Raumfahrer an astronaut. The German Aerospace Center, the DLR, is based in Cologne. It has no plural."
+}

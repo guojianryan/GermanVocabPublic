@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "erstehen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "er-SHTAY-en",
+      "ipa": "ɛɐ̯ˈʃteːən",
+      "notes": ""
+    },
+    "meaning": "to buy, acquire; to arise",
+    "shortDefinition": "To buy, acquire; to arise."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "ersteh|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "ersteh|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "ersteh|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "ersteh|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "ersteh|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "ersteh|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat erstanden"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Auf dem Flohmarkt habe ich eine alte Uhr erstanden.",
+      "english": "I picked up an old clock at the flea market.",
+      "highlight": [
+        "erstanden."
+      ]
+    },
+    {
+      "german": "Aus den Ruinen erstand eine neue Stadt.",
+      "english": "A new city arose from the ruins.",
+      "highlight": [
+        "erstand"
+      ]
+    }
+  ],
+  "forms": [
+    "erstehe",
+    "erstehst",
+    "ersteht",
+    "erstehen",
+    "erstanden",
+    "erstand"
+  ],
+  "memoryHook": "Erstehen: stand up (stehen) as something new; get hold of.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (erstehen)",
+      "answer": "ersteht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: ersteht.",
+      "acceptedAnswers": [
+        "ersteht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (erstehen, past)",
+      "answer": "erstanden",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe erstanden.",
+      "acceptedAnswers": [
+        "erstanden"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does erstehen mean?",
+      "options": [
+        "to buy",
+        "to sing",
+        "quiet"
+      ],
+      "answer": "to buy",
+      "explanation": "erstehen: to buy, acquire; to arise.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Erstehen (buy) suggests…",
+      "options": [
+        "acquiring something, often with effort or luck",
+        "selling"
+      ],
+      "answer": "acquiring something, often with effort or luck",
+      "explanation": "Nuance.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "erstand, erstanden",
+        "erstehte"
+      ],
+      "answer": "erstand, erstanden",
+      "explanation": "Irregular.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Auferstehen means…",
+      "options": [
+        "to rise from the dead",
+        "to get up early"
+      ],
+      "answer": "to rise from the dead",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Erstehen means to acquire or buy, often after some effort or with luck: Karten für das Konzert erstehen, ein Schnäppchen erstehen. In elevated style, it means to arise: Eine neue Bewegung erstand. Die Auferstehung is the Resurrection, and the GDR anthem began Auferstanden aus Ruinen. Irregular like stehen: erstand, hat erstanden."
+}

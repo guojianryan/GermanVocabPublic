@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Staatssekretär",
+    "partOfSpeech": "noun, masculine (der Staatssekretär)",
+    "pronunciation": {
+      "respelling": "SHTAATS-ze-kre-tair",
+      "ipa": "ˈʃtaːt͡szekʁeˌtɛːɐ̯",
+      "notes": "Plural: die Staatssekretäre."
+    },
+    "meaning": "state secretary (senior civil servant or junior minister)",
+    "shortDefinition": "State secretary (senior civil servant or junior minister)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Staatssekretär, plural die Staatssekretäre.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Staatssekretär"
+        },
+        {
+          "label": "More than one",
+          "value": "die Staatssekretäre"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Staatssekretärin vertritt den Minister im Ausschuss.",
+      "english": "The state secretary represents the minister in the committee.",
+      "highlight": [
+        "Staatssekretärin"
+      ]
+    },
+    {
+      "german": "Er wurde zum Staatssekretär ernannt.",
+      "english": "He was appointed state secretary.",
+      "highlight": [
+        "Staatssekretär"
+      ]
+    }
+  ],
+  "forms": [
+    "Staatssekretäre",
+    "die Staatssekretäre",
+    "der Staatssekretär",
+    "Staatssekretärin"
+  ],
+  "memoryHook": "Staatssekretär: the Sekretär of the Staat, right below the minister.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Staatssekretär",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Staatssekretär is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Staatssekretär, zwei ___",
+      "answer": "Staatssekretäre",
+      "fullAnswer": "ein Staatssekretär, zwei Staatssekretäre",
+      "explanation": "The plural is Staatssekretäre.",
+      "acceptedAnswers": [
+        "Staatssekretaere"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Staatssekretär mean?",
+      "options": [
+        "to buy",
+        "to sing",
+        "state secretary (senior civil servant or junior minister)"
+      ],
+      "answer": "state secretary (senior civil servant or junior minister)",
+      "explanation": "Staatssekretär: state secretary (senior civil servant or junior minister).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Germany, a beamteter Staatssekretär is…",
+      "options": [
+        "a top civil servant in a ministry",
+        "a secretary who types letters"
+      ],
+      "answer": "a top civil servant in a ministry",
+      "explanation": "Top civil servant.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A parlamentarischer Staatssekretär is…",
+      "options": [
+        "an MP who supports a minister",
+        "the speaker of parliament"
+      ],
+      "answer": "an MP who supports a minister",
+      "explanation": "Junior minister.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Note the double s in…",
+      "options": [
+        "Staats-sekretär",
+        "Staat-sekretär"
+      ],
+      "answer": "Staats-sekretär",
+      "explanation": "Linking s + Sekretär.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Staatssekretär (die Staatssekretärin) ranks just below a minister. Germany has two kinds: the beamteter Staatssekretär, a senior civil servant who runs a ministry day to day, and the parlamentarischer Staatssekretär, a member of the Bundestag who supports the minister politically, much like a junior minister. Don't confuse it with a secretary who manages an office, which is die Sekretärin. Note the double s: Staat + s + Sekretär."
+}

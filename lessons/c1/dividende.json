@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Dividende",
+    "partOfSpeech": "noun, feminine (die Dividende)",
+    "pronunciation": {
+      "respelling": "di-vi-DEN-de",
+      "ipa": "diviˈdɛndə",
+      "notes": "Plural: die Dividenden."
+    },
+    "meaning": "dividend",
+    "shortDefinition": "Dividend."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Dividende, plural die Dividenden.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Dividende"
+        },
+        {
+          "label": "More than one",
+          "value": "die Dividenden"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Aktionäre erhalten eine hohe Dividende.",
+      "english": "Shareholders receive a high dividend.",
+      "highlight": [
+        "Dividende."
+      ]
+    },
+    {
+      "german": "Die Firma streicht die Dividende.",
+      "english": "The company is cutting its dividend.",
+      "highlight": [
+        "Dividende."
+      ]
+    }
+  ],
+  "forms": [
+    "Dividenden",
+    "die Dividenden",
+    "die Dividende"
+  ],
+  "memoryHook": "Dividende: the profit divided (dividere) among shareholders.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Dividende",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Dividende is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Dividende, zwei ___",
+      "answer": "Dividenden",
+      "fullAnswer": "ein Dividende, zwei Dividenden",
+      "explanation": "The plural is Dividenden.",
+      "acceptedAnswers": [
+        "Dividenden"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Dividende mean?",
+      "options": [
+        "the bread",
+        "dividend",
+        "to learn"
+      ],
+      "answer": "dividend",
+      "explanation": "Dividende: dividend.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Dividends are decided at…",
+      "options": [
+        "the Hauptversammlung (AGM)",
+        "the Bundestag"
+      ],
+      "answer": "the Hauptversammlung (AGM)",
+      "explanation": "AGM.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Aktionär is…",
+      "options": [
+        "shareholder",
+        "action hero"
+      ],
+      "answer": "shareholder",
+      "explanation": "Shareholder.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "German dividends are usually paid…",
+      "options": [
+        "once a year",
+        "monthly"
+      ],
+      "answer": "once a year",
+      "explanation": "Annually.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Dividende is a dividend: eine Dividende ausschütten (to pay out), die Dividende kürzen or streichen. German companies usually pay dividends once a year after the Hauptversammlung (AGM) approves them, unlike quarterly US payouts. Dividends are subject to Abgeltungsteuer (flat-rate capital gains tax) of 25 percent plus solidarity surcharge. Germans traditionally invest less in shares than Americans. Plural: die Dividenden."
+}

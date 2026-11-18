@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Chemotherapie",
+    "partOfSpeech": "noun, feminine (die Chemotherapie)",
+    "pronunciation": {
+      "respelling": "KHAY-mo-te-ra-pee",
+      "ipa": "ˈçeːmotəʁaˌpiː",
+      "notes": "Plural: die Chemotherapien."
+    },
+    "meaning": "chemotherapy",
+    "shortDefinition": "Chemotherapy."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Chemotherapie, plural die Chemotherapien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Chemotherapie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Chemotherapien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie hat eine Chemotherapie hinter sich.",
+      "english": "She's been through chemotherapy.",
+      "highlight": [
+        "Chemotherapie"
+      ]
+    },
+    {
+      "german": "Durch die Chemo hat er seine Haare verloren.",
+      "english": "He lost his hair because of the chemo.",
+      "highlight": [
+        "Chemo"
+      ]
+    }
+  ],
+  "forms": [
+    "Chemotherapien",
+    "die Chemotherapie",
+    "Chemo"
+  ],
+  "memoryHook": "Chemotherapie: Therapie with chemical drugs.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Chemotherapie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Chemotherapie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Chemotherapie, zwei ___",
+      "answer": "Chemotherapien",
+      "fullAnswer": "ein Chemotherapie, zwei Chemotherapien",
+      "explanation": "The plural is Chemotherapien.",
+      "acceptedAnswers": [
+        "Chemotherapien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Chemotherapie mean?",
+      "options": [
+        "the bread",
+        "chemotherapy",
+        "the weather"
+      ],
+      "answer": "chemotherapy",
+      "explanation": "Chemotherapie: chemotherapy.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Short form:",
+      "options": [
+        "die Chemo",
+        "die Therapie"
+      ],
+      "answer": "die Chemo",
+      "explanation": "Short.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Strahlentherapie is…",
+      "options": [
+        "radiotherapy",
+        "a sunbed"
+      ],
+      "answer": "radiotherapy",
+      "explanation": "Radio.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Onkologie is…",
+      "options": [
+        "oncology (cancer medicine)",
+        "ontology"
+      ],
+      "answer": "oncology (cancer medicine)",
+      "explanation": "Oncology.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Chemotherapie (colloquially die Chemo) is chemotherapy, treatment of cancer with drugs that kill fast-growing cells. Paul Ehrlich, a German Nobel laureate, coined the term Chemotherapie around 1906 and developed Salvarsan, an early targeted drug. Die Strahlentherapie is radiotherapy, and die Onkologie oncology. Plural: die Chemotherapien."
+}

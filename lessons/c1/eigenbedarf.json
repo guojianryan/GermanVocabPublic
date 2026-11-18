@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Eigenbedarf",
+    "partOfSpeech": "noun, masculine (der Eigenbedarf)",
+    "pronunciation": {
+      "respelling": "AI-gen-be-darf",
+      "ipa": "ˈaɪ̯ɡn̩bəˌdaʁf",
+      "notes": "Usually no plural."
+    },
+    "meaning": "own use, personal requirements",
+    "shortDefinition": "Own use, personal requirements."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Eigenbedarf, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Eigenbedarf"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Vermieter hat wegen Eigenbedarfs gekündigt.",
+      "english": "The landlord gave notice because he needs the flat himself.",
+      "highlight": [
+        "Eigenbedarfs"
+      ]
+    },
+    {
+      "german": "Das Gemüse ist nur für den Eigenbedarf.",
+      "english": "The vegetables are only for personal use.",
+      "highlight": [
+        "Eigenbedarf."
+      ]
+    }
+  ],
+  "forms": [
+    "der Eigenbedarf",
+    "Eigenbedarfs"
+  ],
+  "memoryHook": "Eigenbedarf: one's eigener (own) Bedarf (need).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Eigenbedarf",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Eigenbedarf is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Eigenbedarf mean?",
+      "options": [
+        "cheap",
+        "own use",
+        "the weather"
+      ],
+      "answer": "own use",
+      "explanation": "Eigenbedarf: own use, personal requirements.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Eigenbedarfskündigung is…",
+      "options": [
+        "landlord's notice for own use",
+        "a tenant's notice"
+      ],
+      "answer": "landlord's notice for own use",
+      "explanation": "Rent.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Bedarf is…",
+      "options": [
+        "need, demand",
+        "a bed"
+      ],
+      "answer": "need, demand",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Für den Eigenbedarf means…",
+      "options": [
+        "for personal use",
+        "for sale"
+      ],
+      "answer": "for personal use",
+      "explanation": "Phrase.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Eigenbedarf is one's own needs or personal use. In German tenancy law, a landlord can end a rental contract wegen Eigenbedarfs if they or close family need the flat, one of the few valid reasons for terminating an unlimited lease; tenants often contest it in court. In drug law, small amounts für den Eigenbedarf (for personal use) are treated more leniently. It has no plural."
+}

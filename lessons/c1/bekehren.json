@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "bekehren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-KAY-ren",
+      "ipa": "bəˈkeːʁən",
+      "notes": ""
+    },
+    "meaning": "to convert",
+    "shortDefinition": "To convert."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "bekehr|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "bekehr|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "bekehr|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "bekehr|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "bekehr|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "bekehr|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat bekehrt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Missionare wollten die Bevölkerung bekehren.",
+      "english": "Missionaries wanted to convert the population.",
+      "highlight": [
+        "bekehren."
+      ]
+    },
+    {
+      "german": "Sie hat mich zum Veganismus bekehrt.",
+      "english": "She converted me to veganism.",
+      "highlight": [
+        "bekehrt."
+      ]
+    }
+  ],
+  "forms": [
+    "bekehre",
+    "bekehrst",
+    "bekehrt",
+    "bekehren",
+    "Bekehrung"
+  ],
+  "memoryHook": "Bekehren: kehren (turn) someone towards a new faith.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (bekehren)",
+      "answer": "bekehrt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: bekehrt.",
+      "acceptedAnswers": [
+        "bekehrt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (bekehren, past)",
+      "answer": "bekehrt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe bekehrt.",
+      "acceptedAnswers": [
+        "bekehrt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does bekehren mean?",
+      "options": [
+        "the street",
+        "to convert",
+        "to sleep"
+      ],
+      "answer": "to convert",
+      "explanation": "bekehren: to convert.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Bekehrung is…",
+      "options": [
+        "conversion",
+        "a reversal"
+      ],
+      "answer": "conversion",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bekehren zu takes…",
+      "options": [
+        "zu + dative",
+        "in + accusative"
+      ],
+      "answer": "zu + dative",
+      "explanation": "Preposition.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Konvertieren means…",
+      "options": [
+        "to convert (religion; files)",
+        "to converse"
+      ],
+      "answer": "to convert (religion; files)",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Bekehren means to convert someone to a faith or opinion: jemanden zum Christentum bekehren, and humorously, zum Vegetarismus bekehren. Sich bekehren means to be converted. Die Bekehrung des Paulus (on the road to Damascus) gave English its Damascus moment. The Anglo-Saxon missionary Boniface worked to bekehren the Germanic tribes in the 8th century. Konvertieren is the neutral word for changing religion yourself."
+}

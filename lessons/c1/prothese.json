@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Prothese",
+    "partOfSpeech": "noun, feminine (die Prothese)",
+    "pronunciation": {
+      "respelling": "pro-TAY-ze",
+      "ipa": "pʁoˈteːzə",
+      "notes": "Plural: die Prothesen."
+    },
+    "meaning": "prosthesis; dentures",
+    "shortDefinition": "Prosthesis; dentures."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Prothese, plural die Prothesen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Prothese"
+        },
+        {
+          "label": "More than one",
+          "value": "die Prothesen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nach dem Unfall bekam er eine Beinprothese.",
+      "english": "After the accident he got a prosthetic leg.",
+      "highlight": [
+        "Beinprothese."
+      ]
+    },
+    {
+      "german": "Opa legt seine Prothese nachts ins Glas.",
+      "english": "Grandpa puts his dentures in a glass at night.",
+      "highlight": [
+        "Prothese"
+      ]
+    }
+  ],
+  "forms": [
+    "Prothesen",
+    "die Prothese"
+  ],
+  "memoryHook": "Prothese: something placed (thesis) before (pro) a missing part.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Prothese",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Prothese is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Prothese, zwei ___",
+      "answer": "Prothesen",
+      "fullAnswer": "ein Prothese, zwei Prothesen",
+      "explanation": "The plural is Prothesen.",
+      "acceptedAnswers": [
+        "Prothesen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Prothese mean?",
+      "options": [
+        "the door",
+        "prosthesis",
+        "the shop"
+      ],
+      "answer": "prosthesis",
+      "explanation": "Prothese: prosthesis; dentures.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Zahnprothese is…",
+      "options": [
+        "dentures",
+        "a tooth filling"
+      ],
+      "answer": "dentures",
+      "explanation": "Teeth.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Paralympic athletes often run with…",
+      "options": [
+        "Sportprothesen (blades)",
+        "crutches"
+      ],
+      "answer": "Sportprothesen (blades)",
+      "explanation": "Sport.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Implantat is…",
+      "options": [
+        "implant",
+        "a plant"
+      ],
+      "answer": "implant",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Prothese is a prosthesis: eine Arm-, Bein- or Hüftprothese, and colloquially dentures (Zahnprothese, also das Gebiss). German firm Ottobock, founded after WWI to help war amputees, is a world leader in prostheses. Paralympic long-jumper Markus Rehm competes with a carbon-fibre Sportprothese. Plural: die Prothesen."
+}

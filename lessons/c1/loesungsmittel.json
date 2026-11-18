@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Lösungsmittel",
+    "partOfSpeech": "noun, neuter (das Lösungsmittel)",
+    "pronunciation": {
+      "respelling": "LÖ-zungs-mi-tel",
+      "ipa": "ˈløːzʊŋsˌmɪtl̩",
+      "notes": "Plural: die Lösungsmittel."
+    },
+    "meaning": "solvent",
+    "shortDefinition": "Solvent."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Lösungsmittel, plural die Lösungsmittel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Lösungsmittel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Lösungsmittel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nagellackentferner enthält ein Lösungsmittel.",
+      "english": "Nail polish remover contains a solvent.",
+      "highlight": [
+        "Lösungsmittel."
+      ]
+    },
+    {
+      "german": "Diese Farbe ist frei von Lösungsmitteln.",
+      "english": "This paint is solvent-free.",
+      "highlight": [
+        "Lösungsmitteln."
+      ]
+    }
+  ],
+  "forms": [
+    "das Lösungsmittel",
+    "Lösungsmitteln"
+  ],
+  "memoryHook": "Lösungsmittel: a Mittel (agent) that löst (dissolves).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Lösungsmittel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Lösungsmittel is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Lösungsmittel, zwei ___",
+      "answer": "Lösungsmittel",
+      "fullAnswer": "ein Lösungsmittel, zwei Lösungsmittel",
+      "explanation": "The plural is Lösungsmittel.",
+      "acceptedAnswers": [
+        "Loesungsmittel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Lösungsmittel mean?",
+      "options": [
+        "to sleep",
+        "solvent",
+        "to help"
+      ],
+      "answer": "solvent",
+      "explanation": "Lösungsmittel: solvent.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Lösen (chemistry) means…",
+      "options": [
+        "to dissolve",
+        "to lose"
+      ],
+      "answer": "to dissolve",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Lösung is…",
+      "options": [
+        "solution (problem; chemistry)",
+        "a loss"
+      ],
+      "answer": "solution (problem; chemistry)",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Lösungsmittelfrei means…",
+      "options": [
+        "solvent-free",
+        "solution-free"
+      ],
+      "answer": "solvent-free",
+      "explanation": "Compound.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Lösungsmittel is a solvent, a liquid that dissolves other substances: Wasser ist das wichtigste Lösungsmittel; acetone and turpentine are others. Paints and glues are often labelled lösungsmittelfrei (solvent-free) for health reasons. Lösen means to dissolve and also to solve: ein Problem lösen, and die Lösung is both solution senses. The plural is the same."
+}

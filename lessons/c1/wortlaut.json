@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wortlaut",
+    "partOfSpeech": "noun, masculine (der Wortlaut)",
+    "pronunciation": {
+      "respelling": "VORT-laut",
+      "ipa": "ˈvɔʁtˌlaʊ̯t",
+      "notes": "Usually no plural."
+    },
+    "meaning": "wording, exact words",
+    "shortDefinition": "Wording, exact words."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Wortlaut, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Wortlaut"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Hier ist der genaue Wortlaut des Vertrags.",
+      "english": "Here is the exact wording of the contract.",
+      "highlight": [
+        "Wortlaut"
+      ]
+    },
+    {
+      "german": "Die Rede im Wortlaut finden Sie auf unserer Website.",
+      "english": "You can find the full text of the speech on our website.",
+      "highlight": [
+        "Wortlaut"
+      ]
+    }
+  ],
+  "forms": [
+    "der Wortlaut",
+    "im Wortlaut"
+  ],
+  "memoryHook": "Wortlaut: how the words (Wort) sound (Laut) exactly.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wortlaut",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Wortlaut is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wortlaut mean?",
+      "options": [
+        "the bed",
+        "wording",
+        "quiet"
+      ],
+      "answer": "wording",
+      "explanation": "Wortlaut: wording, exact words.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Im Wortlaut means…",
+      "options": [
+        "verbatim, in full",
+        "in a loud voice"
+      ],
+      "answer": "verbatim, in full",
+      "explanation": "Verbatim.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wörtlich means…",
+      "options": [
+        "literal(ly)",
+        "wordy"
+      ],
+      "answer": "literal(ly)",
+      "explanation": "Literal.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Laut is…",
+      "options": [
+        "sound",
+        "lute"
+      ],
+      "answer": "sound",
+      "explanation": "Root.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Wortlaut is the exact wording of a text: der Wortlaut des Gesetzes, die Rede im Wortlaut (the speech in full). In law, interpretation starts with der Wortlaut, the literal meaning of the words. Wörtlich means literally or verbatim: wörtlich zitieren. Der Laut is a sound, and laut means loud. It has no plural."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Heimatort",
+    "partOfSpeech": "noun, masculine (der Heimatort)",
+    "pronunciation": {
+      "respelling": "HAI-maat-ort",
+      "ipa": "ˈhaɪ̯maːtˌʔɔʁt",
+      "notes": "Plural: die Heimatorte."
+    },
+    "meaning": "home town, home village",
+    "shortDefinition": "Home town, home village."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Heimatort, plural die Heimatorte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Heimatort"
+        },
+        {
+          "label": "More than one",
+          "value": "die Heimatorte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nach dem Studium kehrte er in seinen Heimatort zurück.",
+      "english": "After university he returned to his home town.",
+      "highlight": [
+        "Heimatort"
+      ]
+    },
+    {
+      "german": "Ihr Heimatort liegt im Allgäu.",
+      "english": "Her home village is in the Allgäu.",
+      "highlight": [
+        "Heimatort"
+      ]
+    }
+  ],
+  "forms": [
+    "Heimatorte",
+    "der Heimatort"
+  ],
+  "memoryHook": "Heimatort: the Ort you call Heimat.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Heimatort",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Heimatort is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Heimatort, zwei ___",
+      "answer": "Heimatorte",
+      "fullAnswer": "ein Heimatort, zwei Heimatorte",
+      "explanation": "The plural is Heimatorte.",
+      "acceptedAnswers": [
+        "Heimatorte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Heimatort mean?",
+      "options": [
+        "home town",
+        "to open",
+        "expensive"
+      ],
+      "answer": "home town",
+      "explanation": "Heimatort: home town, home village.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Heimatstadt is…",
+      "options": [
+        "home town (city)",
+        "capital"
+      ],
+      "answer": "home town (city)",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ort is…",
+      "options": [
+        "place; village, town",
+        "a word"
+      ],
+      "answer": "place; village, town",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Switzerland, der Heimatort is…",
+      "options": [
+        "one's legal place of citizenship",
+        "birthplace"
+      ],
+      "answer": "one's legal place of citizenship",
+      "explanation": "Swiss.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Heimatort is one's home town or village: in den Heimatort zurückkehren. For cities, people say die Heimatstadt. In Switzerland, der Heimatort is a legal concept: the municipality where one holds citizenship, recorded in the passport, often a place the person has never lived. Die Heimat carries a strong emotional sense of belonging. Plural: die Heimatorte."
+}

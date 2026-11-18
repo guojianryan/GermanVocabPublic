@@ -1,0 +1,142 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kardinal",
+    "partOfSpeech": "noun, masculine (der Kardinal)",
+    "pronunciation": {
+      "respelling": "kar-dee-NAAL",
+      "ipa": "kaʁdiˈnaːl",
+      "notes": "Plural: die Kardinäle."
+    },
+    "meaning": "cardinal (church)",
+    "shortDefinition": "Cardinal (church)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kardinal, plural die Kardinäle.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kardinal"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kardinäle"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Kardinal wurde zum Papst gewählt.",
+      "english": "The cardinal was elected pope.",
+      "highlight": [
+        "Kardinal"
+      ]
+    },
+    {
+      "german": "Die Kardinäle trafen sich in Rom.",
+      "english": "The cardinals met in Rome.",
+      "highlight": [
+        "Kardinäle"
+      ]
+    }
+  ],
+  "forms": [
+    "Kardinäle",
+    "die Kardinäle",
+    "der Kardinal",
+    "Kardinalfehler",
+    "Kardinalzahl"
+  ],
+  "memoryHook": "Kardinal: a church official, and the root of 'fundamental'.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kardinal",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kardinal is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kardinal, zwei ___",
+      "answer": "Kardinäle",
+      "fullAnswer": "ein Kardinal, zwei Kardinäle",
+      "explanation": "The plural is Kardinäle.",
+      "acceptedAnswers": [
+        "Kardinaele"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kardinal mean?",
+      "options": [
+        "to travel",
+        "cardinal (church)",
+        "to buy"
+      ],
+      "answer": "cardinal (church)",
+      "explanation": "Kardinal: cardinal (church).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Kardinäle",
+        "Kardinale"
+      ],
+      "answer": "Kardinäle",
+      "explanation": "Umlaut.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kardinalfehler is…",
+      "options": [
+        "a cardinal (fundamental) error",
+        "a church mistake"
+      ],
+      "answer": "a cardinal (fundamental) error",
+      "explanation": "Figurative use.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Cardinals elect…",
+      "options": [
+        "den Papst",
+        "den Bundespräsidenten"
+      ],
+      "answer": "den Papst",
+      "explanation": "Papal conclave.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kardinalzahl means…",
+      "options": [
+        "cardinal number",
+        "church number"
+      ],
+      "answer": "cardinal number",
+      "explanation": "Grammar term.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Der Kardinal is a senior Catholic cleric, one of those who elect the pope: die Kardinäle. The word also gives German its prefix Kardinal- for something fundamental: der Kardinalfehler (cardinal mistake), die Kardinalfrage, die Kardinaltugend. In grammar, die Kardinalzahl is a cardinal number (eins, zwei), as opposed to die Ordinalzahl (erste, zweite)."
+}

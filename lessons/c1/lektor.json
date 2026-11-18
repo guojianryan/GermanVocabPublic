@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Lektor",
+    "partOfSpeech": "noun, masculine (der Lektor)",
+    "pronunciation": {
+      "respelling": "LEK-tohr",
+      "ipa": "ˈlɛktoːɐ̯",
+      "notes": "Plural: die Lektoren."
+    },
+    "meaning": "(publishing) editor; university language teacher",
+    "shortDefinition": "(publishing) editor; university language teacher."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Lektor, plural die Lektoren.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Lektor"
+        },
+        {
+          "label": "More than one",
+          "value": "die Lektoren"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Lektorin hat das Manuskript gründlich überarbeitet.",
+      "english": "The editor revised the manuscript thoroughly.",
+      "highlight": [
+        "Lektorin"
+      ]
+    },
+    {
+      "german": "Er arbeitet als Lektor für Englisch an der Universität.",
+      "english": "He works as an English language teacher at the university.",
+      "highlight": [
+        "Lektor"
+      ]
+    }
+  ],
+  "forms": [
+    "Lektoren",
+    "Lektorin",
+    "der Lektor"
+  ],
+  "memoryHook": "Lektor: a reader (Latin lector) of manuscripts.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Lektor",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Lektor is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Lektor, zwei ___",
+      "answer": "Lektoren",
+      "fullAnswer": "ein Lektor, zwei Lektoren",
+      "explanation": "The plural is Lektoren.",
+      "acceptedAnswers": [
+        "Lektoren"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Lektor mean?",
+      "options": [
+        "the evening",
+        "(publishing) editor",
+        "the window"
+      ],
+      "answer": "(publishing) editor",
+      "explanation": "Lektor: (publishing) editor; university language teacher.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Lektor at a publisher…",
+      "options": [
+        "edits and selects manuscripts",
+        "prints books"
+      ],
+      "answer": "edits and selects manuscripts",
+      "explanation": "Publishing.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Lektorieren means…",
+      "options": [
+        "to edit (a text)",
+        "to lecture"
+      ],
+      "answer": "to edit (a text)",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "A newspaper editor is…",
+      "options": [
+        "der Redakteur",
+        "der Lektor"
+      ],
+      "answer": "der Redakteur",
+      "explanation": "Contrast.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Lektor (die Lektorin) is an editor at a publishing house who selects and edits manuscripts: das Lektorat is the editorial department. At universities, a Lektor teaches a foreign language, often as a native speaker, for example through the DAAD. A newspaper or TV editor is der Redakteur. Lektorieren means to edit a text. Plural: die Lektoren, with stress moving to -to-."
+}

@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "absterben",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AP-shter-ben",
+      "ipa": "ˈapˌʃtɛʁbn̩",
+      "notes": ""
+    },
+    "meaning": "to die off, wither; to go numb",
+    "shortDefinition": "To die off, wither; to go numb."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "sterb|e … |ab"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "stirb|st … |ab"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "stirb|t … |ab"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "sterb|en … |ab"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "sterb|t … |ab"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "sterb|en … |ab"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist abgestorben"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Durch die Dürre sterben viele Bäume ab.",
+      "english": "Many trees are dying off due to the drought.",
+      "highlight": [
+        "sterben",
+        "ab."
+      ]
+    },
+    {
+      "german": "Meine Finger sind vor Kälte wie abgestorben.",
+      "english": "My fingers are numb with cold.",
+      "highlight": [
+        "abgestorben."
+      ]
+    }
+  ],
+  "forms": [
+    "sterbe ab",
+    "stirbst ab",
+    "stirbt ab",
+    "sterben ab",
+    "sterbt ab",
+    "abgestorben",
+    "starb ab"
+  ],
+  "memoryHook": "Absterben: sterben (die) away (ab).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ab (absterben)",
+      "answer": "stirbt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: stirbt … ab.",
+      "acceptedAnswers": [
+        "stirbt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (absterben, past)",
+      "answer": "abgestorben",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin abgestorben.",
+      "acceptedAnswers": [
+        "abgestorben"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does absterben mean?",
+      "options": [
+        "cheap",
+        "the shop",
+        "to die off"
+      ],
+      "answer": "to die off",
+      "explanation": "absterben: to die off, wither; to go numb.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Absterben takes…",
+      "options": [
+        "sein",
+        "haben"
+      ],
+      "answer": "sein",
+      "explanation": "Auxiliary.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Waldsterben refers to…",
+      "options": [
+        "forest dieback",
+        "a forest cemetery"
+      ],
+      "answer": "forest dieback",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "starb ab, abgestorben",
+        "sterbte ab"
+      ],
+      "answer": "starb ab, abgestorben",
+      "explanation": "Irregular.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Absterben means to die off or wither, used for plants, cells, tissue or limbs: abgestorbene Äste, Zellen sterben ab. Fingers can feel wie abgestorben (numb). In the 1980s, the fear of Waldsterben (forest dieback from acid rain) shaped German environmental politics, and the word entered other languages. Irregular: starb ab, ist abgestorben."
+}

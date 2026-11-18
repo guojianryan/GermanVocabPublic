@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gruppierung",
+    "partOfSpeech": "noun, feminine (die Gruppierung)",
+    "pronunciation": {
+      "respelling": "gru-PEE-rung",
+      "ipa": "ɡʁʊˈpiːʁʊŋ",
+      "notes": "Plural: die Gruppierungen."
+    },
+    "meaning": "group, faction; grouping",
+    "shortDefinition": "Group, faction; grouping."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Gruppierung, plural die Gruppierungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Gruppierung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gruppierungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Mehrere Gruppierungen haben zur Demo aufgerufen.",
+      "english": "Several groups have called for the demonstration.",
+      "highlight": [
+        "Gruppierungen"
+      ]
+    },
+    {
+      "german": "Die Gruppierung der Daten erfolgt nach Alter.",
+      "english": "The data is grouped by age.",
+      "highlight": [
+        "Gruppierung"
+      ]
+    }
+  ],
+  "forms": [
+    "Gruppierungen",
+    "die Gruppierungen",
+    "die Gruppierung",
+    "gruppieren"
+  ],
+  "memoryHook": "Gruppierung: a Gruppe, often a political one.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gruppierung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Gruppierung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gruppierung, zwei ___",
+      "answer": "Gruppierungen",
+      "fullAnswer": "ein Gruppierung, zwei Gruppierungen",
+      "explanation": "The plural is Gruppierungen.",
+      "acceptedAnswers": [
+        "Gruppierungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gruppierung mean?",
+      "options": [
+        "never",
+        "group",
+        "to sing"
+      ],
+      "answer": "group",
+      "explanation": "Gruppierung: group, faction; grouping.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In politics, eine Gruppierung is…",
+      "options": [
+        "a faction or group",
+        "a party congress"
+      ],
+      "answer": "a faction or group",
+      "explanation": "Faction.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gruppieren means…",
+      "options": [
+        "to group, arrange",
+        "to grip"
+      ],
+      "answer": "to group, arrange",
+      "explanation": "gruppieren.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal, news",
+        "slang"
+      ],
+      "answer": "formal, news",
+      "explanation": "Formal.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Gruppierung is a group or faction, often political: eine extremistische Gruppierung, linke und rechte Gruppierungen. It sounds more formal and loosely organised than eine Partei or ein Verein, so news reports use it for movements that aren't formal organisations. It also means a grouping or arrangement: die Gruppierung der Möbel. Gruppieren means to group. Plural: die Gruppierungen."
+}

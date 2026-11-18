@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Standardwerk",
+    "partOfSpeech": "noun, neuter (das Standardwerk)",
+    "pronunciation": {
+      "respelling": "SHTAN-dart-verk",
+      "ipa": "ˈʃtandaʁtˌvɛʁk",
+      "notes": "Plural: die Standardwerke."
+    },
+    "meaning": "standard work (reference book)",
+    "shortDefinition": "Standard work (reference book)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Standardwerk, plural die Standardwerke.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Standardwerk"
+        },
+        {
+          "label": "More than one",
+          "value": "die Standardwerke"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Buch gilt als Standardwerk der Soziologie.",
+      "english": "The book is considered a standard work of sociology.",
+      "highlight": [
+        "Standardwerk"
+      ]
+    },
+    {
+      "german": "Der Duden ist das Standardwerk zur Rechtschreibung.",
+      "english": "The Duden is the standard reference on spelling.",
+      "highlight": [
+        "Standardwerk"
+      ]
+    }
+  ],
+  "forms": [
+    "Standardwerke",
+    "das Standardwerk"
+  ],
+  "memoryHook": "Standardwerk: the Werk that sets the Standard.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Standardwerk",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Standardwerk is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Standardwerk, zwei ___",
+      "answer": "Standardwerke",
+      "fullAnswer": "ein Standardwerk, zwei Standardwerke",
+      "explanation": "The plural is Standardwerke.",
+      "acceptedAnswers": [
+        "Standardwerke"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Standardwerk mean?",
+      "options": [
+        "the car",
+        "to help",
+        "standard work (reference book)"
+      ],
+      "answer": "standard work (reference book)",
+      "explanation": "Standardwerk: standard work (reference book).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Werk here means…",
+      "options": [
+        "work (book, oeuvre)",
+        "factory only"
+      ],
+      "answer": "work (book, oeuvre)",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Nachschlagewerk is…",
+      "options": [
+        "reference work",
+        "a punchbag"
+      ],
+      "answer": "reference work",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "das Grundlagenwerk, der Klassiker",
+        "das Pamphlet"
+      ],
+      "answer": "das Grundlagenwerk, der Klassiker",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Standardwerk is a standard work, the authoritative book on a subject: das Standardwerk der Physik, zum Thema. The Duden is the Standardwerk for German spelling. Das Werk means a work (book, art, oeuvre) and also a factory or plant. Synonyms: das Grundlagenwerk, der Klassiker, das Nachschlagewerk (reference work). Plural: die Standardwerke."
+}

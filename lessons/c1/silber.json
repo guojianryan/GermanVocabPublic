@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Silber",
+    "partOfSpeech": "noun, neuter (das Silber)",
+    "pronunciation": {
+      "respelling": "ZIL-ber",
+      "ipa": "ˈzɪlbɐ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "silver",
+    "shortDefinition": "Silver."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Silber, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Silber"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie hat Silber gewonnen.",
+      "english": "She won silver.",
+      "highlight": [
+        "Silber"
+      ]
+    },
+    {
+      "german": "Ein Ring aus Silber.",
+      "english": "A ring made of silver.",
+      "highlight": [
+        "Silber."
+      ]
+    }
+  ],
+  "forms": [
+    "das Silber",
+    "silbern",
+    "Silbermedaille"
+  ],
+  "memoryHook": "Reden ist Silber, Schweigen ist Gold.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Silber",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Silber is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Silber mean?",
+      "options": [
+        "the door",
+        "the child",
+        "silver"
+      ],
+      "answer": "silver",
+      "explanation": "Silber: silver.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Adjective:",
+      "options": [
+        "silbern",
+        "silbrig only"
+      ],
+      "answer": "silbern",
+      "explanation": "Silbern = (made of) silver.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Silberhochzeit is…",
+      "options": [
+        "25 years of marriage",
+        "50 years of marriage"
+      ],
+      "answer": "25 years of marriage",
+      "explanation": "Gold is 50.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Reden ist Silber, Schweigen ist…",
+      "options": [
+        "Gold",
+        "Bronze"
+      ],
+      "answer": "Gold",
+      "explanation": "Speech is silver, silence is golden.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Silber is silver, the metal and the medal: Silber holen means to win silver. Silbern means made of silver, and silbrig silvery. Die Silberhochzeit is the 25th wedding anniversary; die goldene Hochzeit is the 50th. The proverb Reden ist Silber, Schweigen ist Gold means speech is silver, silence is golden. Silvester (New Year's Eve), though it sounds similar, comes from Pope Silvester I, not from the metal."
+}

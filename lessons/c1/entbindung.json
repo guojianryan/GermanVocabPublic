@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Entbindung",
+    "partOfSpeech": "noun, feminine (die Entbindung)",
+    "pronunciation": {
+      "respelling": "ent-BIN-dung",
+      "ipa": "ɛntˈbɪndʊŋ",
+      "notes": "Plural: die Entbindungen."
+    },
+    "meaning": "delivery, childbirth; release (from duty)",
+    "shortDefinition": "Delivery, childbirth; release (from duty)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Entbindung, plural die Entbindungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Entbindung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Entbindungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Entbindung verlief ohne Komplikationen.",
+      "english": "The delivery went without complications.",
+      "highlight": [
+        "Entbindung"
+      ]
+    },
+    {
+      "german": "Sie bat um Entbindung von ihren Pflichten.",
+      "english": "She asked to be released from her duties.",
+      "highlight": [
+        "Entbindung"
+      ]
+    }
+  ],
+  "forms": [
+    "Entbindungen",
+    "die Entbindung"
+  ],
+  "memoryHook": "Entbindung: releasing (ent-) the bond (Bindung).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Entbindung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Entbindung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Entbindung, zwei ___",
+      "answer": "Entbindungen",
+      "fullAnswer": "ein Entbindung, zwei Entbindungen",
+      "explanation": "The plural is Entbindungen.",
+      "acceptedAnswers": [
+        "Entbindungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Entbindung mean?",
+      "options": [
+        "the family",
+        "delivery",
+        "the street"
+      ],
+      "answer": "delivery",
+      "explanation": "Entbindung: delivery, childbirth; release (from duty).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Entbinden means…",
+      "options": [
+        "to deliver (a baby); to release",
+        "to bind"
+      ],
+      "answer": "to deliver (a baby); to release",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Entbindungstermin is…",
+      "options": [
+        "due date",
+        "a court date"
+      ],
+      "answer": "due date",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Hebamme is…",
+      "options": [
+        "midwife",
+        "a nurse in general"
+      ],
+      "answer": "midwife",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Entbindung is the delivery of a baby: die Entbindung im Krankenhaus, die Hausgeburt. In Germany every woman has a right to a Hebamme (midwife), and Mutterschutz gives eight weeks off after the birth. Entbinden also means to release from an obligation: von der Schweigepflicht entbinden. Plural: die Entbindungen."
+}

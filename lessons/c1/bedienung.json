@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bedienung",
+    "partOfSpeech": "noun, feminine (die Bedienung)",
+    "pronunciation": {
+      "respelling": "be-DEE-nung",
+      "ipa": "bəˈdiːnʊŋ",
+      "notes": "Plural: die Bedienungen."
+    },
+    "meaning": "service; waiter/waitress; operation",
+    "shortDefinition": "Service; waiter/waitress; operation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Bedienung, plural die Bedienungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Bedienung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bedienungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Bedienung war sehr freundlich.",
+      "english": "The service was very friendly.",
+      "highlight": [
+        "Bedienung"
+      ]
+    },
+    {
+      "german": "Die Bedienung des Geräts ist einfach.",
+      "english": "The device is easy to operate.",
+      "highlight": [
+        "Bedienung"
+      ]
+    }
+  ],
+  "forms": [
+    "Bedienungen",
+    "die Bedienungen",
+    "die Bedienung",
+    "bedienen",
+    "Bedienungsanleitung"
+  ],
+  "memoryHook": "Bedienung: serving customers, or operating a machine.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bedienung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Bedienung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bedienung, zwei ___",
+      "answer": "Bedienungen",
+      "fullAnswer": "ein Bedienung, zwei Bedienungen",
+      "explanation": "The plural is Bedienungen.",
+      "acceptedAnswers": [
+        "Bedienungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bedienung mean?",
+      "options": [
+        "the child",
+        "the street",
+        "service"
+      ],
+      "answer": "service",
+      "explanation": "Bedienung: service; waiter/waitress; operation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In a restaurant, die Bedienung can mean…",
+      "options": [
+        "the waiter or waitress",
+        "the bill"
+      ],
+      "answer": "the waiter or waitress",
+      "explanation": "Server.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Bedienungsanleitung is…",
+      "options": [
+        "the user manual",
+        "a recipe"
+      ],
+      "answer": "the user manual",
+      "explanation": "Manual.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bedienen means…",
+      "options": [
+        "to serve; to operate",
+        "to earn"
+      ],
+      "answer": "to serve; to operate",
+      "explanation": "bedienen.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Bedienung means service in a restaurant or shop, and also the waiter or waitress: Die Bedienung kommt gleich. Calling Bedienung! across the room is considered rude; better to make eye contact. It also means the operation of a machine: die Bedienung ist intuitiv, and die Bedienungsanleitung is the user manual. Bedienen means to serve or operate; sich bedienen means to help yourself: Bedienen Sie sich!"
+}

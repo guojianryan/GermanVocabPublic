@@ -1,0 +1,176 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "thematisieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "te-ma-ti-ZEE-ren",
+      "ipa": "tematiˈziːʁən",
+      "notes": ""
+    },
+    "meaning": "to bring up, to address (as a topic)",
+    "shortDefinition": "To bring up, to address (as a topic)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "thematisier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "thematisier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "thematisier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "thematisier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "thematisier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "thematisier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat thematisiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Film thematisiert die Wohnungsnot.",
+      "english": "The film addresses the housing shortage.",
+      "highlight": [
+        "thematisiert"
+      ]
+    },
+    {
+      "german": "Sie hat das Problem in der Sitzung thematisiert.",
+      "english": "She raised the problem in the meeting.",
+      "highlight": [
+        "thematisiert."
+      ]
+    }
+  ],
+  "forms": [
+    "thematisiere",
+    "thematisierst",
+    "thematisiert",
+    "thematisieren",
+    "thematisierte",
+    "Thema",
+    "Thematik"
+  ],
+  "memoryHook": "Thematisieren: turn it into a Thema.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (thematisieren)",
+      "answer": "thematisiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: thematisiert.",
+      "acceptedAnswers": [
+        "thematisiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (thematisieren, past)",
+      "answer": "thematisiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe thematisiert.",
+      "acceptedAnswers": [
+        "thematisiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does thematisieren mean?",
+      "options": [
+        "to bring up",
+        "quiet",
+        "the job"
+      ],
+      "answer": "to bring up",
+      "explanation": "thematisieren: to bring up, to address (as a topic).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Thematisieren means…",
+      "options": [
+        "to make something a topic of discussion",
+        "to write a theme tune"
+      ],
+      "answer": "to make something a topic of discussion",
+      "explanation": "Raise an issue.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Typical subjects:",
+      "options": [
+        "books, films, politicians",
+        "only animals"
+      ],
+      "answer": "books, films, politicians",
+      "explanation": "Things that address topics.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Participle:",
+      "options": [
+        "thematisiert",
+        "gethematisiert"
+      ],
+      "answer": "thematisiert",
+      "explanation": "-ieren: no ge-.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Thema is…",
+      "options": [
+        "the topic",
+        "the theme park"
+      ],
+      "answer": "the topic",
+      "explanation": "Base noun.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Thematisieren means to bring up or address something as a topic: Der Roman thematisiert die Flucht. In daily life, it often means to raise an uncomfortable matter: Das sollten wir mal thematisieren. Books, films and speeches thematisieren things. The verb ends in -ieren, so the participle is thematisiert, with no ge-. English has no neat equivalent; address or raise comes closest."
+}

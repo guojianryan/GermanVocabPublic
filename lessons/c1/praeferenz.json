@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Präferenz",
+    "partOfSpeech": "noun, feminine (die Präferenz)",
+    "pronunciation": {
+      "respelling": "pre-fe-RENTS",
+      "ipa": "pʁɛfeˈʁɛnt͡s",
+      "notes": "Plural: die Präferenzen."
+    },
+    "meaning": "preference",
+    "shortDefinition": "Preference."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Präferenz, plural die Präferenzen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Präferenz"
+        },
+        {
+          "label": "More than one",
+          "value": "die Präferenzen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Jeder hat andere Präferenzen.",
+      "english": "Everyone has different preferences.",
+      "highlight": [
+        "Präferenzen."
+      ]
+    },
+    {
+      "german": "Die Umfrage zeigt eine klare Präferenz für Bahnreisen.",
+      "english": "The survey shows a clear preference for rail travel.",
+      "highlight": [
+        "Präferenz"
+      ]
+    }
+  ],
+  "forms": [
+    "Präferenzen",
+    "die Präferenz"
+  ],
+  "memoryHook": "Präferenz: carrying (ferre) before (prae).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Präferenz",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Präferenz is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Präferenz, zwei ___",
+      "answer": "Präferenzen",
+      "fullAnswer": "ein Präferenz, zwei Präferenzen",
+      "explanation": "The plural is Präferenzen.",
+      "acceptedAnswers": [
+        "Praeferenzen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Präferenz mean?",
+      "options": [
+        "tomorrow",
+        "to sleep",
+        "preference"
+      ],
+      "answer": "preference",
+      "explanation": "Präferenz: preference.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal, technical",
+        "colloquial"
+      ],
+      "answer": "formal, technical",
+      "explanation": "Formal.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday word:",
+      "options": [
+        "die Vorliebe",
+        "die Abneigung"
+      ],
+      "answer": "die Vorliebe",
+      "explanation": "Everyday.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Präferieren means…",
+      "options": [
+        "to prefer",
+        "to prepare"
+      ],
+      "answer": "to prefer",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Präferenz is a preference, a formal or technical word in economics, politics and surveys: Wählerpräferenzen, Kundenpräferenzen, sexuelle Präferenz. In everyday German, people say die Vorliebe or say lieber: Ich trinke lieber Tee. The verb präferieren exists but sounds stiff; most people say bevorzugen. Plural: die Präferenzen."
+}

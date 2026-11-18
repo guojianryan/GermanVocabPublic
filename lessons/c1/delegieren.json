@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "delegieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "de-le-GEE-ren",
+      "ipa": "deleˈɡiːʁən",
+      "notes": ""
+    },
+    "meaning": "to delegate",
+    "shortDefinition": "To delegate."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "delegier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "delegier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "delegier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "delegier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "delegier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "delegier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat delegiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Eine gute Chefin kann Aufgaben delegieren.",
+      "english": "A good boss knows how to delegate tasks.",
+      "highlight": [
+        "delegieren."
+      ]
+    },
+    {
+      "german": "Er wurde zum Parteitag delegiert.",
+      "english": "He was sent as a delegate to the party conference.",
+      "highlight": [
+        "delegiert."
+      ]
+    }
+  ],
+  "forms": [
+    "delegiere",
+    "delegierst",
+    "delegiert",
+    "delegieren",
+    "Delegierte",
+    "Delegation"
+  ],
+  "memoryHook": "Delegieren: send (legare) tasks or people elsewhere.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (delegieren)",
+      "answer": "delegiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: delegiert.",
+      "acceptedAnswers": [
+        "delegiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (delegieren, past)",
+      "answer": "delegiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe delegiert.",
+      "acceptedAnswers": [
+        "delegiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does delegieren mean?",
+      "options": [
+        "to open",
+        "slowly",
+        "to delegate"
+      ],
+      "answer": "to delegate",
+      "explanation": "delegieren: to delegate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Delegierte is…",
+      "options": [
+        "delegate (adjectival noun)",
+        "delegation"
+      ],
+      "answer": "delegate (adjectival noun)",
+      "explanation": "Delegate.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Delegation is…",
+      "options": [
+        "delegation",
+        "a delicacy"
+      ],
+      "answer": "delegation",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "-ieren verbs form the perfect…",
+      "options": [
+        "without ge-",
+        "with ge-"
+      ],
+      "answer": "without ge-",
+      "explanation": "hat delegiert.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Delegieren means to delegate tasks (Aufgaben delegieren, a key leadership skill) or to send someone as a delegate: zum Parteitag delegiert werden. Der/die Delegierte is a delegate, and die Delegation a delegation. German parties choose leaders and candidates at party conferences (Parteitage) made up of Delegierte from local branches. Perfect without ge-: hat delegiert."
+}

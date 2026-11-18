@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "erschlagen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "er-SHLAA-gen",
+      "ipa": "ɛɐ̯ˈʃlaːɡn̩",
+      "notes": ""
+    },
+    "meaning": "to kill (by striking); to overwhelm",
+    "shortDefinition": "To kill (by striking); to overwhelm."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "erschlag|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "erschläg|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "erschläg|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "erschlag|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "erschlag|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "erschlag|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat erschlagen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er wurde von einem umstürzenden Baum erschlagen.",
+      "english": "He was killed by a falling tree.",
+      "highlight": [
+        "erschlagen."
+      ]
+    },
+    {
+      "german": "Ich bin völlig erschlagen.",
+      "english": "I'm completely shattered.",
+      "highlight": [
+        "erschlagen."
+      ]
+    }
+  ],
+  "forms": [
+    "erschlage",
+    "erschlägst",
+    "erschlägt",
+    "erschlagen",
+    "erschlagt",
+    "erschlug"
+  ],
+  "memoryHook": "Erschlagen: schlagen (strike) to the end (er-).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (erschlagen)",
+      "answer": "erschlägt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: erschlägt.",
+      "acceptedAnswers": [
+        "erschlaegt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (erschlagen, past)",
+      "answer": "erschlagen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe erschlagen.",
+      "acceptedAnswers": [
+        "erschlagen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does erschlagen mean?",
+      "options": [
+        "the station",
+        "the flower",
+        "to kill (by striking)"
+      ],
+      "answer": "to kill (by striking)",
+      "explanation": "erschlagen: to kill (by striking); to overwhelm.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Erschlagen sein (colloquial) means…",
+      "options": [
+        "to be exhausted",
+        "to be dead"
+      ],
+      "answer": "to be exhausted",
+      "explanation": "Shattered.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "erschlug, erschlagen",
+        "erschlagte"
+      ],
+      "answer": "erschlug, erschlagen",
+      "explanation": "Like schlagen.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Von Informationen erschlagen means…",
+      "options": [
+        "overwhelmed by information",
+        "hit with a book"
+      ],
+      "answer": "overwhelmed by information",
+      "explanation": "Overwhelmed.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Erschlagen means to kill someone by striking: vom Blitz erschlagen (killed by lightning), von einem Ast erschlagen. Figuratively, it means to overwhelm: Die Fülle an Angeboten erschlägt einen. Colloquially, ich bin wie erschlagen means I'm exhausted or stunned. The prefix er- often signals a result, sometimes death: erschießen (to shoot dead), ertrinken (to drown), ersticken (to suffocate). Irregular: erschlug, erschlagen."
+}

@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "mangelnd",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "MANG-elnt",
+      "ipa": "ˈmaŋl̩nt",
+      "notes": ""
+    },
+    "meaning": "lacking, insufficient",
+    "shortDefinition": "Lacking, insufficient."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "mangel",
+        "meaning": "lack"
+      },
+      {
+        "part": "nd",
+        "meaning": "-ing (present participle)"
+      }
+    ],
+    "literalMeaning": "lacking"
+  },
+  "sampleSentences": [
+    {
+      "german": "Wegen mangelnder Erfahrung bekam er die Stelle nicht.",
+      "english": "He didn't get the job because of a lack of experience.",
+      "highlight": [
+        "mangelnder"
+      ]
+    },
+    {
+      "german": "Mangelndes Interesse ist ein Problem.",
+      "english": "A lack of interest is a problem.",
+      "highlight": [
+        "Mangelndes"
+      ]
+    }
+  ],
+  "forms": [
+    "mangelnde",
+    "mangelnden",
+    "mangelnder",
+    "mangelndes",
+    "mangeln"
+  ],
+  "memoryHook": "Mangelnd: there isn't enough of it.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does mangelnd mean?",
+      "options": [
+        "the street",
+        "to sing",
+        "lacking"
+      ],
+      "answer": "lacking",
+      "explanation": "mangelnd: lacking, insufficient.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mangelnd is the present participle of…",
+      "options": [
+        "mangeln",
+        "mangeln sich"
+      ],
+      "answer": "mangeln",
+      "explanation": "Present participle.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mangelnde Erfahrung means…",
+      "options": [
+        "too little experience",
+        "great experience"
+      ],
+      "answer": "too little experience",
+      "explanation": "Lack.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mangelhaft means…",
+      "options": [
+        "defective, unsatisfactory",
+        "very good"
+      ],
+      "answer": "defective, unsatisfactory",
+      "explanation": "School grade 5.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Mangel means…",
+      "options": [
+        "lack, defect",
+        "the manger"
+      ],
+      "answer": "lack, defect",
+      "explanation": "Noun.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Mangelnd means lacking: mangelndes Interesse, wegen mangelnder Erfahrung. It's the present participle of mangeln (to be lacking, es mangelt an Geld). It's usually found before a noun and in formal, written German. Related: der Mangel (lack, shortage, defect) and mangelhaft, which is also the grade 5 on the German school scale of 1 to 6, one step above ungenügend."
+}

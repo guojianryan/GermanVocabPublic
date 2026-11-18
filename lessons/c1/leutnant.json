@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Leutnant",
+    "partOfSpeech": "noun, masculine (der Leutnant)",
+    "pronunciation": {
+      "respelling": "LOYT-nant",
+      "ipa": "ˈlɔɪ̯tnant",
+      "notes": "Plural: die Leutnants."
+    },
+    "meaning": "lieutenant",
+    "shortDefinition": "Lieutenant."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Leutnant, plural die Leutnants.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Leutnant"
+        },
+        {
+          "label": "More than one",
+          "value": "die Leutnants"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Leutnant gab seinen Soldaten Befehle.",
+      "english": "The lieutenant gave his soldiers orders.",
+      "highlight": [
+        "Leutnant"
+      ]
+    },
+    {
+      "german": "Sie wurde zum Leutnant befördert.",
+      "english": "She was promoted to lieutenant.",
+      "highlight": [
+        "Leutnant"
+      ]
+    }
+  ],
+  "forms": [
+    "Leutnants",
+    "die Leutnants",
+    "der Leutnant",
+    "Oberleutnant"
+  ],
+  "memoryHook": "Leutnant: German spelling of the French lieutenant.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Leutnant",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Leutnant is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Leutnant, zwei ___",
+      "answer": "Leutnants",
+      "fullAnswer": "ein Leutnant, zwei Leutnants",
+      "explanation": "The plural is Leutnants.",
+      "acceptedAnswers": [
+        "Leutnants"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Leutnant mean?",
+      "options": [
+        "the family",
+        "lieutenant",
+        "the bed"
+      ],
+      "answer": "lieutenant",
+      "explanation": "Leutnant: lieutenant.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Leutnants",
+        "die Leutnante"
+      ],
+      "answer": "die Leutnants",
+      "explanation": "-s.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "From French lieutenant, meaning…",
+      "options": [
+        "place-holder",
+        "lion"
+      ],
+      "answer": "place-holder",
+      "explanation": "Lieu + tenant.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Oberleutnant is…",
+      "options": [
+        "first lieutenant (higher)",
+        "a general"
+      ],
+      "answer": "first lieutenant (higher)",
+      "explanation": "Higher rank.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Leutnant is a lieutenant, the lowest officer rank in the Bundeswehr, followed by Oberleutnant and Hauptmann (captain). The word came from French lieutenant (one who holds the place of a superior), adapted to German spelling and pronounced LOYT-nant. Since 2001, women have been allowed to serve in all branches of the Bundeswehr, so Leutnant is used for both. The plural is die Leutnants."
+}

@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Akzent",
+    "partOfSpeech": "noun, masculine (der Akzent)",
+    "pronunciation": {
+      "respelling": "ak-TSENT",
+      "ipa": "akˈt͡sɛnt",
+      "notes": "Plural: die Akzente."
+    },
+    "meaning": "accent; emphasis",
+    "shortDefinition": "Accent; emphasis."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Akzent, plural die Akzente.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Akzent"
+        },
+        {
+          "label": "More than one",
+          "value": "die Akzente"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie spricht Deutsch mit leichtem englischem Akzent.",
+      "english": "She speaks German with a slight English accent.",
+      "highlight": [
+        "Akzent."
+      ]
+    },
+    {
+      "german": "Das Unternehmen setzt neue Akzente.",
+      "english": "The company is setting new priorities.",
+      "highlight": [
+        "Akzente."
+      ]
+    }
+  ],
+  "forms": [
+    "Akzente",
+    "die Akzente",
+    "der Akzent",
+    "akzentuieren"
+  ],
+  "memoryHook": "Akzent: how you sound, or what you stress.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Akzent",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Akzent is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Akzent, zwei ___",
+      "answer": "Akzente",
+      "fullAnswer": "ein Akzent, zwei Akzente",
+      "explanation": "The plural is Akzente.",
+      "acceptedAnswers": [
+        "Akzente"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Akzent mean?",
+      "options": [
+        "the job",
+        "accent",
+        "the street"
+      ],
+      "answer": "accent",
+      "explanation": "Akzent: accent; emphasis.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Akzente",
+        "Akzenten"
+      ],
+      "answer": "Akzente",
+      "explanation": "-e.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Akzente setzen means…",
+      "options": [
+        "to set priorities, emphasise",
+        "to speak with a foreign accent"
+      ],
+      "answer": "to set priorities, emphasise",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "A French accent mark (é) is…",
+      "options": [
+        "der Akzent / das Akzentzeichen",
+        "der Ton"
+      ],
+      "answer": "der Akzent / das Akzentzeichen",
+      "explanation": "Mark.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Betonen means…",
+      "options": [
+        "to stress, emphasise",
+        "to concrete"
+      ],
+      "answer": "to stress, emphasise",
+      "explanation": "Synonym.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Der Akzent has three common meanings: a regional or foreign accent (mit österreichischem Akzent), an emphasis or highlight (einen Akzent setzen), and an accent mark such as é or è. Akzente setzen means to set priorities or add highlights, in design too: ein roter Akzent im Raum. Note the stress on the last syllable: ak-ZENT. For a regional way of speaking, Germans also use der Dialekt."
+}

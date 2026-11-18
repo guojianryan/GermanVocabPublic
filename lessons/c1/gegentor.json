@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gegentor",
+    "partOfSpeech": "noun, neuter (das Gegentor)",
+    "pronunciation": {
+      "respelling": "GAY-gen-tohr",
+      "ipa": "ˈɡeːɡn̩ˌtoːɐ̯",
+      "notes": "Plural: die Gegentore."
+    },
+    "meaning": "goal conceded",
+    "shortDefinition": "Goal conceded."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Gegentor, plural die Gegentore.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Gegentor"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gegentore"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Mannschaft blieb ohne Gegentor.",
+      "english": "The team didn't concede a goal.",
+      "highlight": [
+        "Gegentor."
+      ]
+    },
+    {
+      "german": "Nach dem Gegentor verloren sie die Konzentration.",
+      "english": "After conceding the goal they lost concentration.",
+      "highlight": [
+        "Gegentor"
+      ]
+    }
+  ],
+  "forms": [
+    "Gegentore",
+    "das Gegentor"
+  ],
+  "memoryHook": "Gegentor: a Tor (goal) against (gegen) you.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gegentor",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Gegentor is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gegentor, zwei ___",
+      "answer": "Gegentore",
+      "fullAnswer": "ein Gegentor, zwei Gegentore",
+      "explanation": "The plural is Gegentore.",
+      "acceptedAnswers": [
+        "Gegentore"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gegentor mean?",
+      "options": [
+        "cheap",
+        "goal conceded",
+        "never"
+      ],
+      "answer": "goal conceded",
+      "explanation": "Gegentor: goal conceded.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Gegentor kassieren means…",
+      "options": [
+        "to concede a goal",
+        "to score a goal"
+      ],
+      "answer": "to concede a goal",
+      "explanation": "Concede.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Anschlusstreffer is…",
+      "options": [
+        "a goal that narrows the gap",
+        "the winning goal"
+      ],
+      "answer": "a goal that narrows the gap",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Eigentor is…",
+      "options": [
+        "own goal",
+        "home goal"
+      ],
+      "answer": "own goal",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Gegentor is a goal conceded: ein Gegentor kassieren, zu null spielen or ohne Gegentor bleiben (to keep a clean sheet). Other football words: das Eigentor (own goal), der Ausgleich (equaliser), der Anschlusstreffer (goal that pulls one back), der Siegtreffer (winner). Germany's famous 1–7 against Brazil in 2014 was for Brazil a record number of Gegentore at home. Plural: die Gegentore."
+}

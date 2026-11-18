@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Indiz",
+    "partOfSpeech": "noun, neuter (das Indiz)",
+    "pronunciation": {
+      "respelling": "in-DEETS",
+      "ipa": "ɪnˈdiːt͡s",
+      "notes": "Plural: die Indizien."
+    },
+    "meaning": "(circumstantial) evidence, indication",
+    "shortDefinition": "(circumstantial) evidence, indication."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Indiz, plural die Indizien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Indiz"
+        },
+        {
+          "label": "More than one",
+          "value": "die Indizien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Es gibt keine Beweise, nur Indizien.",
+      "english": "There's no proof, only circumstantial evidence.",
+      "highlight": [
+        "Indizien."
+      ]
+    },
+    {
+      "german": "Das ist ein Indiz dafür, dass er gelogen hat.",
+      "english": "That's an indication that he lied.",
+      "highlight": [
+        "Indiz"
+      ]
+    }
+  ],
+  "forms": [
+    "Indizien",
+    "die Indizien",
+    "das Indiz"
+  ],
+  "memoryHook": "Indiz: a pointer (Latin indicium) towards the truth.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Indiz",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Indiz is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Indiz, zwei ___",
+      "answer": "Indizien",
+      "fullAnswer": "ein Indiz, zwei Indizien",
+      "explanation": "The plural is Indizien.",
+      "acceptedAnswers": [
+        "Indizien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Indiz mean?",
+      "options": [
+        "the bed",
+        "(circumstantial) evidence",
+        "the weather"
+      ],
+      "answer": "(circumstantial) evidence",
+      "explanation": "Indiz: (circumstantial) evidence, indication.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Indizienprozess is…",
+      "options": [
+        "a trial based on circumstantial evidence",
+        "an index"
+      ],
+      "answer": "a trial based on circumstantial evidence",
+      "explanation": "Trial.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Indizien",
+        "die Indize"
+      ],
+      "answer": "die Indizien",
+      "explanation": "Latin.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Beweis is…",
+      "options": [
+        "proof",
+        "an indication"
+      ],
+      "answer": "proof",
+      "explanation": "Proof.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Indiz is an indication or piece of circumstantial evidence: ein Indiz für etwas, starke Indizien. Der Indizienprozess is a trial based on circumstantial evidence, without a confession or direct proof. Der Beweis is proof. Synonyms: der Hinweis, der Anhaltspunkt. From Latin indicium. Plural: die Indizien."
+}

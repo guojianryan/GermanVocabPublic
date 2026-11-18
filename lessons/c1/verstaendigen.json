@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verständigen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-SHTEN-di-gen",
+      "ipa": "fɛɐ̯ˈʃtɛndɪɡn̩",
+      "notes": ""
+    },
+    "meaning": "to notify; (sich) to communicate, agree",
+    "shortDefinition": "To notify; (sich) to communicate, agree."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verständig|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verständig|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verständig|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verständig|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verständig|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verständig|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verständigt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir haben sofort die Polizei verständigt.",
+      "english": "We notified the police immediately.",
+      "highlight": [
+        "verständigt."
+      ]
+    },
+    {
+      "german": "Sie verständigten sich mit Händen und Füßen.",
+      "english": "They communicated with gestures.",
+      "highlight": [
+        "verständigten"
+      ]
+    }
+  ],
+  "forms": [
+    "verständige",
+    "verständigst",
+    "verständigt",
+    "verständigen",
+    "Verständigung"
+  ],
+  "memoryHook": "Verständigen: make someone understand (verstehen).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verständigen)",
+      "answer": "verständigt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verständigt.",
+      "acceptedAnswers": [
+        "verstaendigt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verständigen, past)",
+      "answer": "verständigt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verständigt.",
+      "acceptedAnswers": [
+        "verstaendigt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verständigen mean?",
+      "options": [
+        "to buy",
+        "to notify",
+        "to wait"
+      ],
+      "answer": "to notify",
+      "explanation": "verständigen: to notify; (sich) to communicate, agree.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Polizei verständigen means…",
+      "options": [
+        "to notify the police",
+        "to understand the police"
+      ],
+      "answer": "to notify the police",
+      "explanation": "Notify.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich auf etwas verständigen means…",
+      "options": [
+        "to agree on something",
+        "to understand something"
+      ],
+      "answer": "to agree on something",
+      "explanation": "Agree.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Verständigung is…",
+      "options": [
+        "communication; agreement",
+        "understanding a text"
+      ],
+      "answer": "communication; agreement",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verständigen means to notify or inform: den Notarzt verständigen. Reflexively, sich verständigen means to communicate (sich auf Englisch verständigen, mit Händen und Füßen, using gestures) or to agree: sich auf einen Kompromiss verständigen. Die Verständigung is communication or agreement; die Völkerverständigung is international understanding. Not separable: hat verständigt."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Methodik",
+    "partOfSpeech": "noun, feminine (die Methodik)",
+    "pronunciation": {
+      "respelling": "me-TOH-dik",
+      "ipa": "meˈtoːdɪk",
+      "notes": "Plural: die Methodiken."
+    },
+    "meaning": "methodology",
+    "shortDefinition": "Methodology."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Methodik, plural die Methodiken.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Methodik"
+        },
+        {
+          "label": "More than one",
+          "value": "die Methodiken"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Methodik der Studie wurde kritisiert.",
+      "english": "The study's methodology was criticised.",
+      "highlight": [
+        "Methodik"
+      ]
+    },
+    {
+      "german": "Im Seminar lernen wir die Methodik wissenschaftlichen Arbeitens.",
+      "english": "In the seminar we learn the methodology of academic work.",
+      "highlight": [
+        "Methodik"
+      ]
+    }
+  ],
+  "forms": [
+    "Methodiken",
+    "die Methodik"
+  ],
+  "memoryHook": "Methodik: the system of Methoden.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Methodik",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Methodik is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Methodik, zwei ___",
+      "answer": "Methodiken",
+      "fullAnswer": "ein Methodik, zwei Methodiken",
+      "explanation": "The plural is Methodiken.",
+      "acceptedAnswers": [
+        "Methodiken"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Methodik mean?",
+      "options": [
+        "the car",
+        "never",
+        "methodology"
+      ],
+      "answer": "methodology",
+      "explanation": "Methodik: methodology.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Methode is…",
+      "options": [
+        "a method",
+        "methodology"
+      ],
+      "answer": "a method",
+      "explanation": "Method.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Methodisch means…",
+      "options": [
+        "methodical",
+        "medical"
+      ],
+      "answer": "methodical",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Didaktik und Methodik are…",
+      "options": [
+        "teaching theory and methods",
+        "medicine"
+      ],
+      "answer": "teaching theory and methods",
+      "explanation": "Teaching.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Methodik is methodology, the system of methods in a field: die Methodik einer Studie, Methodik und Didaktik (teaching methods and theory, studied by future teachers). Die Methode is a single method: eine bewährte Methode. Methodisch means methodical or methodological. German academic papers usually have a section on Methodik. Stressed on the second syllable. Plural: die Methodiken."
+}

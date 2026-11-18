@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Begrenzung",
+    "partOfSpeech": "noun, feminine (die Begrenzung)",
+    "pronunciation": {
+      "respelling": "be-GREN-tsung",
+      "ipa": "bəˈɡʁɛnt͡sʊŋ",
+      "notes": "Plural: die Begrenzungen."
+    },
+    "meaning": "limit, restriction",
+    "shortDefinition": "Limit, restriction."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Begrenzung, plural die Begrenzungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Begrenzung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Begrenzungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Begrenzung der Erderwärmung auf 1,5 Grad ist das Ziel.",
+      "english": "Limiting global warming to 1.5 degrees is the goal.",
+      "highlight": [
+        "Begrenzung"
+      ]
+    },
+    {
+      "german": "Auf der Autobahn gibt es oft keine Begrenzung.",
+      "english": "There's often no limit on the Autobahn.",
+      "highlight": [
+        "Begrenzung."
+      ]
+    }
+  ],
+  "forms": [
+    "Begrenzungen",
+    "die Begrenzungen",
+    "die Begrenzung",
+    "begrenzen"
+  ],
+  "memoryHook": "Begrenzung: setting a Grenze (limit, border).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Begrenzung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Begrenzung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Begrenzung, zwei ___",
+      "answer": "Begrenzungen",
+      "fullAnswer": "ein Begrenzung, zwei Begrenzungen",
+      "explanation": "The plural is Begrenzungen.",
+      "acceptedAnswers": [
+        "Begrenzungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Begrenzung mean?",
+      "options": [
+        "slowly",
+        "the street",
+        "limit"
+      ],
+      "answer": "limit",
+      "explanation": "Begrenzung: limit, restriction.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Begrenzen means…",
+      "options": [
+        "to limit",
+        "to border on"
+      ],
+      "answer": "to limit",
+      "explanation": "begrenzen.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Geschwindigkeitsbegrenzung is…",
+      "options": [
+        "the speed limit",
+        "the speedometer"
+      ],
+      "answer": "the speed limit",
+      "explanation": "Speed limit.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Begrenzt means…",
+      "options": [
+        "limited",
+        "bordered only"
+      ],
+      "answer": "limited",
+      "explanation": "Limited.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Begrenzung is a limit or restriction: die Begrenzung der Mieten, die Begrenzung der Erderwärmung. Die Geschwindigkeitsbegrenzung is a speed limit, and large stretches of the German Autobahn famously have none, only a recommended speed of 130 km/h; whether to introduce a Tempolimit is a long-running debate. Begrenzen means to limit, and begrenzt means limited: nur begrenzt verfügbar. From die Grenze (border, limit)."
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "geläufig",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "ge-LOY-fikh",
+      "ipa": "ɡəˈlɔɪ̯fɪç",
+      "notes": ""
+    },
+    "meaning": "common, familiar; fluent",
+    "shortDefinition": "Common, familiar; fluent."
+  },
+  "sampleSentences": [
+    {
+      "german": "Der Begriff ist mir nicht geläufig.",
+      "english": "I'm not familiar with the term.",
+      "highlight": [
+        "geläufig."
+      ]
+    },
+    {
+      "german": "Das ist eine geläufige Redewendung.",
+      "english": "That's a common saying.",
+      "highlight": [
+        "geläufige"
+      ]
+    }
+  ],
+  "forms": [
+    "geläufige",
+    "geläufigen",
+    "geläufiger"
+  ],
+  "memoryHook": "Geläufig: running (laufen) smoothly, often heard.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does geläufig mean?",
+      "options": [
+        "common",
+        "the door",
+        "to travel"
+      ],
+      "answer": "common",
+      "explanation": "geläufig: common, familiar; fluent.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das ist mir nicht geläufig means…",
+      "options": [
+        "I'm not familiar with that",
+        "I can't run"
+      ],
+      "answer": "I'm not familiar with that",
+      "explanation": "Familiar.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "gebräuchlich, bekannt",
+        "unbekannt"
+      ],
+      "answer": "gebräuchlich, bekannt",
+      "explanation": "Synonym.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Laufen means…",
+      "options": [
+        "to run; to work, go",
+        "to laugh"
+      ],
+      "answer": "to run; to work, go",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein ___ Name (common)",
+      "answer": "geläufiger",
+      "fullAnswer": "ein geläufiger Name",
+      "explanation": "Masculine -er.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Geläufig means common, familiar or current: ein geläufiger Ausdruck, Das Wort ist mir geläufig (I know it). It can also mean fluent: Sie spricht geläufig Englisch, though fließend is more common there. Synonyms: gebräuchlich, bekannt, vertraut. Die Geläufigkeit in music is finger dexterity. From laufen (to run)."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Spätzle",
+    "partOfSpeech": "noun, neuter (das Spätzle)",
+    "pronunciation": {
+      "respelling": "SHPETS-le",
+      "ipa": "ˈʃpɛt͡slə",
+      "notes": "Plural: die Spätzle."
+    },
+    "meaning": "Spätzle (Swabian egg noodles)",
+    "shortDefinition": "Spätzle (Swabian egg noodles)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Spätzle, plural die Spätzle.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Spätzle"
+        },
+        {
+          "label": "More than one",
+          "value": "die Spätzle"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Zu Kässpätzle gehören Röstzwiebeln.",
+      "english": "Cheese Spätzle come with fried onions.",
+      "highlight": [
+        "Kässpätzle"
+      ]
+    },
+    {
+      "german": "Oma schabt die Spätzle vom Brett.",
+      "english": "Grandma scrapes the Spätzle off the board.",
+      "highlight": [
+        "Spätzle"
+      ]
+    }
+  ],
+  "forms": [
+    "die Spätzle",
+    "Kässpätzle"
+  ],
+  "memoryHook": "Spätzle: Swabian for little sparrows (Spatzen).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Spätzle",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Spätzle is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Spätzle, zwei ___",
+      "answer": "Spätzle",
+      "fullAnswer": "ein Spätzle, zwei Spätzle",
+      "explanation": "The plural is Spätzle.",
+      "acceptedAnswers": [
+        "Spaetzle"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Spätzle mean?",
+      "options": [
+        "cheap",
+        "the weather",
+        "Spätzle (Swabian egg noodles)"
+      ],
+      "answer": "Spätzle (Swabian egg noodles)",
+      "explanation": "Spätzle: Spätzle (Swabian egg noodles).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Spätzle come from…",
+      "options": [
+        "Swabia (Baden-Württemberg)",
+        "Hamburg"
+      ],
+      "answer": "Swabia (Baden-Württemberg)",
+      "explanation": "Region.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kässpätzle are…",
+      "options": [
+        "Spätzle baked with cheese and onions",
+        "cheese biscuits"
+      ],
+      "answer": "Spätzle baked with cheese and onions",
+      "explanation": "Dish.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "-le is…",
+      "options": [
+        "a Swabian diminutive (like -chen)",
+        "a plural"
+      ],
+      "answer": "a Swabian diminutive (like -chen)",
+      "explanation": "Grammar.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Spätzle are soft Swabian egg noodles, traditionally scraped from a board into boiling water or pressed through a Spätzlepresse. Schwäbische Spätzle have had EU protected geographical status since 2012. Kässpätzle, baked with cheese and fried onions, are popular in Swabia and the Allgäu. The name probably means little sparrows, with the Swabian diminutive -le. The word is usually plural."
+}

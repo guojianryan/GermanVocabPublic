@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gewaltanwendung",
+    "partOfSpeech": "noun, feminine (die Gewaltanwendung)",
+    "pronunciation": {
+      "respelling": "ge-VALT-an-ven-dung",
+      "ipa": "ɡəˈvaltʔanˌvɛndʊŋ",
+      "notes": "Plural: die Gewaltanwendungen."
+    },
+    "meaning": "use of force",
+    "shortDefinition": "Use of force."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Gewaltanwendung, plural die Gewaltanwendungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Gewaltanwendung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gewaltanwendungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Polizei rechtfertigte die Gewaltanwendung.",
+      "english": "The police justified the use of force.",
+      "highlight": [
+        "Gewaltanwendung."
+      ]
+    },
+    {
+      "german": "Sie lehnen jede Gewaltanwendung ab.",
+      "english": "They reject any use of force.",
+      "highlight": [
+        "Gewaltanwendung"
+      ]
+    }
+  ],
+  "forms": [
+    "Gewaltanwendungen",
+    "die Gewaltanwendung"
+  ],
+  "memoryHook": "Gewaltanwendung: Anwendung (use) of Gewalt (force).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gewaltanwendung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Gewaltanwendung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gewaltanwendung, zwei ___",
+      "answer": "Gewaltanwendungen",
+      "fullAnswer": "ein Gewaltanwendung, zwei Gewaltanwendungen",
+      "explanation": "The plural is Gewaltanwendungen.",
+      "acceptedAnswers": [
+        "Gewaltanwendungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gewaltanwendung mean?",
+      "options": [
+        "use of force",
+        "to open",
+        "the window"
+      ],
+      "answer": "use of force",
+      "explanation": "Gewaltanwendung: use of force.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Anwendung is…",
+      "options": [
+        "use, application",
+        "a turn"
+      ],
+      "answer": "use, application",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gewaltmonopol is…",
+      "options": [
+        "the state's monopoly on force",
+        "a violent game"
+      ],
+      "answer": "the state's monopoly on force",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gewaltfrei means…",
+      "options": [
+        "non-violent",
+        "free violence"
+      ],
+      "answer": "non-violent",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Gewaltanwendung is the use of force: unter Gewaltanwendung, der Verzicht auf Gewaltanwendung (renunciation of force), a core principle of the UN Charter. In Germany the state holds das Gewaltmonopol (Max Weber's monopoly on legitimate force). Die Gewalt means violence or power; gewaltfrei means non-violent. Plural: die Gewaltanwendungen."
+}

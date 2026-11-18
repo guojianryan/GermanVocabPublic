@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "aushandeln",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AUS-han-deln",
+      "ipa": "ˈaʊ̯sˌhandl̩n",
+      "notes": ""
+    },
+    "meaning": "to negotiate, hammer out",
+    "shortDefinition": "To negotiate, hammer out."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "handl|e … |aus"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "handel|st … |aus"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "handel|t … |aus"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "handel|n … |aus"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "handel|t … |aus"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "handel|n … |aus"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat ausgehandelt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Gewerkschaft handelt einen neuen Tarifvertrag aus.",
+      "english": "The union is negotiating a new collective agreement.",
+      "highlight": [
+        "handelt",
+        "aus."
+      ]
+    },
+    {
+      "german": "Sie haben einen Kompromiss ausgehandelt.",
+      "english": "They hammered out a compromise.",
+      "highlight": [
+        "ausgehandelt."
+      ]
+    }
+  ],
+  "forms": [
+    "handle aus",
+    "handelst aus",
+    "handelt aus",
+    "handeln aus",
+    "ausgehandelt",
+    "handelte aus"
+  ],
+  "memoryHook": "Aushandeln: handeln (bargain) something out (aus).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … aus (aushandeln)",
+      "answer": "handelt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: handelt … aus.",
+      "acceptedAnswers": [
+        "handelt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (aushandeln, past)",
+      "answer": "ausgehandelt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe ausgehandelt.",
+      "acceptedAnswers": [
+        "ausgehandelt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does aushandeln mean?",
+      "options": [
+        "the car",
+        "to negotiate",
+        "to learn"
+      ],
+      "answer": "to negotiate",
+      "explanation": "aushandeln: to negotiate, hammer out.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Aushandeln emphasises…",
+      "options": [
+        "reaching a negotiated result",
+        "trading goods"
+      ],
+      "answer": "reaching a negotiated result",
+      "explanation": "Result.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verhandeln means…",
+      "options": [
+        "to negotiate (the process)",
+        "to sell"
+      ],
+      "answer": "to negotiate (the process)",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Tarifvertrag is…",
+      "options": [
+        "collective wage agreement",
+        "a tariff"
+      ],
+      "answer": "collective wage agreement",
+      "explanation": "Wages.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Aushandeln means to negotiate or hammer out an agreement: einen Vertrag, einen Kompromiss, einen Preis aushandeln. It focuses on the result, while verhandeln (über) is the process: Wir verhandeln noch. In Germany, unions and employers aushandeln wages in Tarifverträge (collective agreements), protected by Tarifautonomie. Separable: handelte aus, ausgehandelt."
+}

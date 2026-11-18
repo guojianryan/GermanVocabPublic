@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Aufteilung",
+    "partOfSpeech": "noun, feminine (die Aufteilung)",
+    "pronunciation": {
+      "respelling": "AUF-tai-lung",
+      "ipa": "ˈaʊ̯fˌtaɪ̯lʊŋ",
+      "notes": "Plural: die Aufteilungen."
+    },
+    "meaning": "division, allocation, split",
+    "shortDefinition": "Division, allocation, split."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Aufteilung, plural die Aufteilungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Aufteilung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Aufteilungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Aufteilung der Kosten ist fair.",
+      "english": "The split of the costs is fair.",
+      "highlight": [
+        "Aufteilung"
+      ]
+    },
+    {
+      "german": "Nach dem Krieg kam die Aufteilung in Besatzungszonen.",
+      "english": "After the war came the division into occupation zones.",
+      "highlight": [
+        "Aufteilung"
+      ]
+    }
+  ],
+  "forms": [
+    "Aufteilungen",
+    "die Aufteilungen",
+    "die Aufteilung",
+    "aufteilen"
+  ],
+  "memoryHook": "Aufteilung: dividing something up (aufteilen) into parts.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Aufteilung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Aufteilung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Aufteilung, zwei ___",
+      "answer": "Aufteilungen",
+      "fullAnswer": "ein Aufteilung, zwei Aufteilungen",
+      "explanation": "The plural is Aufteilungen.",
+      "acceptedAnswers": [
+        "Aufteilungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Aufteilung mean?",
+      "options": [
+        "division",
+        "tomorrow",
+        "quiet"
+      ],
+      "answer": "division",
+      "explanation": "Aufteilung: division, allocation, split.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Aufteilen means…",
+      "options": [
+        "to divide up, split",
+        "to tell"
+      ],
+      "answer": "to divide up, split",
+      "explanation": "aufteilen.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Aufteilung der Hausarbeit is…",
+      "options": [
+        "the division of housework",
+        "a cleaning product"
+      ],
+      "answer": "the division of housework",
+      "explanation": "Division.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "After 1945 Germany was split into…",
+      "options": [
+        "four occupation zones",
+        "two states immediately"
+      ],
+      "answer": "four occupation zones",
+      "explanation": "Four zones.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Aufteilung is division or allocation: die Aufteilung der Kosten, die Aufteilung der Aufgaben, die Aufteilung der Wohnung (the layout of a flat). After 1945, die Aufteilung Deutschlands in vier Besatzungszonen (American, British, French, Soviet) shaped the later division into two states. Aufteilen means to divide up: Wir teilen uns die Rechnung auf. Plural: die Aufteilungen."
+}

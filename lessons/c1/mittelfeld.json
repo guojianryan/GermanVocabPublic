@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mittelfeld",
+    "partOfSpeech": "noun, neuter (das Mittelfeld)",
+    "pronunciation": {
+      "respelling": "MIT-el-felt",
+      "ipa": "ˈmɪtl̩ˌfɛlt",
+      "notes": "Plural: die Mittelfelder."
+    },
+    "meaning": "midfield; middle of the table",
+    "shortDefinition": "Midfield; middle of the table."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Mittelfeld, plural die Mittelfelder.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Mittelfeld"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mittelfelder"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er spielt im Mittelfeld.",
+      "english": "He plays in midfield.",
+      "highlight": [
+        "Mittelfeld."
+      ]
+    },
+    {
+      "german": "Die Mannschaft liegt im Mittelfeld der Tabelle.",
+      "english": "The team is in mid-table.",
+      "highlight": [
+        "Mittelfeld"
+      ]
+    }
+  ],
+  "forms": [
+    "Mittelfelder",
+    "das Mittelfeld",
+    "Mittelfeldspieler"
+  ],
+  "memoryHook": "Mittelfeld: the middle (Mitte) of the pitch or the table.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mittelfeld",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Mittelfeld is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mittelfeld, zwei ___",
+      "answer": "Mittelfelder",
+      "fullAnswer": "ein Mittelfeld, zwei Mittelfelder",
+      "explanation": "The plural is Mittelfelder.",
+      "acceptedAnswers": [
+        "Mittelfelder"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mittelfeld mean?",
+      "options": [
+        "always",
+        "midfield",
+        "the key"
+      ],
+      "answer": "midfield",
+      "explanation": "Mittelfeld: midfield; middle of the table.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Mittelfeldspieler is…",
+      "options": [
+        "a midfielder",
+        "a referee"
+      ],
+      "answer": "a midfielder",
+      "explanation": "Midfielder.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Im Mittelfeld liegen can mean…",
+      "options": [
+        "to be average, mid-ranking",
+        "to be in the middle of a field of wheat"
+      ],
+      "answer": "to be average, mid-ranking",
+      "explanation": "Mid-ranking.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Feld means…",
+      "options": [
+        "field; pitch",
+        "mountain"
+      ],
+      "answer": "field; pitch",
+      "explanation": "Feld.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Mittelfeld is midfield in football: im Mittelfeld spielen, der Mittelfeldspieler (midfielder). It also means the middle of a ranking: im Mittelfeld der Tabelle (mid-table), or in comparisons: Deutschland liegt bei der Digitalisierung nur im Mittelfeld. In grammar, das Mittelfeld is the middle part of a German sentence, between the verb in second position and the verb at the end. Plural: die Mittelfelder."
+}

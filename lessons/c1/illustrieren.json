@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "illustrieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "i-lus-TREE-ren",
+      "ipa": "ɪlʊsˈtʁiːʁən",
+      "notes": ""
+    },
+    "meaning": "to illustrate",
+    "shortDefinition": "To illustrate."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "illustrier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "illustrier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "illustrier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "illustrier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "illustrier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "illustrier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat illustriert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Buch wurde von einer bekannten Künstlerin illustriert.",
+      "english": "The book was illustrated by a well-known artist.",
+      "highlight": [
+        "illustriert."
+      ]
+    },
+    {
+      "german": "Ein Beispiel soll das Problem illustrieren.",
+      "english": "An example should illustrate the problem.",
+      "highlight": [
+        "illustrieren."
+      ]
+    }
+  ],
+  "forms": [
+    "illustriere",
+    "illustrierst",
+    "illustriert",
+    "illustrieren",
+    "Illustration",
+    "Illustrierte"
+  ],
+  "memoryHook": "Illustrieren: throw light (lustrare) on something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (illustrieren)",
+      "answer": "illustriert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: illustriert.",
+      "acceptedAnswers": [
+        "illustriert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (illustrieren, past)",
+      "answer": "illustriert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe illustriert.",
+      "acceptedAnswers": [
+        "illustriert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does illustrieren mean?",
+      "options": [
+        "expensive",
+        "to illustrate",
+        "to help"
+      ],
+      "answer": "to illustrate",
+      "explanation": "illustrieren: to illustrate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Illustrierte is…",
+      "options": [
+        "a (picture) magazine",
+        "an illustration"
+      ],
+      "answer": "a (picture) magazine",
+      "explanation": "Magazine.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Illustration is…",
+      "options": [
+        "illustration",
+        "illusion"
+      ],
+      "answer": "illustration",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym (explain):",
+      "options": [
+        "veranschaulichen",
+        "verschleiern"
+      ],
+      "answer": "veranschaulichen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Illustrieren means to illustrate, with pictures (ein Kinderbuch illustrieren) or examples (einen Punkt illustrieren). The native German synonym is veranschaulichen. Die Illustration is an illustration, der Illustrator an illustrator, and die Illustrierte a glossy magazine such as Stern or Bunte. Perfect without ge-: hat illustriert."
+}

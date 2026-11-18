@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ersatzlos",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "er-ZATS-lohs",
+      "ipa": "ɛɐ̯ˈzat͡sloːs",
+      "notes": ""
+    },
+    "meaning": "without replacement",
+    "shortDefinition": "Without replacement."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die Zugverbindung wurde ersatzlos gestrichen.",
+      "english": "The train connection was cut without replacement.",
+      "highlight": [
+        "ersatzlos"
+      ]
+    },
+    {
+      "german": "Der Paragraf entfällt ersatzlos.",
+      "english": "The paragraph is deleted without replacement.",
+      "highlight": [
+        "ersatzlos."
+      ]
+    }
+  ],
+  "forms": [
+    "ersatzlose",
+    "ersatzlosen"
+  ],
+  "memoryHook": "Ersatzlos: without (-los) Ersatz.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does ersatzlos mean?",
+      "options": [
+        "without replacement",
+        "to travel",
+        "the child"
+      ],
+      "answer": "without replacement",
+      "explanation": "ersatzlos: without replacement.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ersatz is…",
+      "options": [
+        "replacement, substitute",
+        "a seat"
+      ],
+      "answer": "replacement, substitute",
+      "explanation": "Root.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ersatzlos streichen means…",
+      "options": [
+        "to cancel without replacement",
+        "to delete gratefully"
+      ],
+      "answer": "to cancel without replacement",
+      "explanation": "Phrase.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schienenersatzverkehr is…",
+      "options": [
+        "rail replacement bus service",
+        "a spare rail"
+      ],
+      "answer": "rail replacement bus service",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Die Stelle fällt ___ weg. (without replacement)",
+      "answer": "ersatzlos",
+      "fullAnswer": "Die Stelle fällt ersatzlos weg.",
+      "explanation": "ersatzlos.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Ersatzlos means without replacement: ersatzlos gestrichen, wegfallen, entfallen. It's common in official language and in rail announcements: Der Zug fällt heute ersatzlos aus. Der Ersatz is a replacement; der Schienenersatzverkehr is a rail replacement bus, and der Ersatzspieler a substitute. The suffix -los means without."
+}

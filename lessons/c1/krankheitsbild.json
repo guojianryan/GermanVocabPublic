@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Krankheitsbild",
+    "partOfSpeech": "noun, neuter (das Krankheitsbild)",
+    "pronunciation": {
+      "respelling": "KRANK-haits-bilt",
+      "ipa": "ˈkʁaŋkhaɪ̯t͡sˌbɪlt",
+      "notes": "Plural: die Krankheitsbilder."
+    },
+    "meaning": "clinical picture, syndrome",
+    "shortDefinition": "Clinical picture, syndrome."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Krankheitsbild, plural die Krankheitsbilder.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Krankheitsbild"
+        },
+        {
+          "label": "More than one",
+          "value": "die Krankheitsbilder"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Krankheitsbild ist sehr vielfältig.",
+      "english": "The clinical picture is very varied.",
+      "highlight": [
+        "Krankheitsbild"
+      ]
+    },
+    {
+      "german": "Burn-out ist kein offizielles Krankheitsbild.",
+      "english": "Burnout is not an official disease.",
+      "highlight": [
+        "Krankheitsbild."
+      ]
+    }
+  ],
+  "forms": [
+    "Krankheitsbilder",
+    "das Krankheitsbild"
+  ],
+  "memoryHook": "Krankheitsbild: the Bild (picture) of a Krankheit.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Krankheitsbild",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Krankheitsbild is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Krankheitsbild, zwei ___",
+      "answer": "Krankheitsbilder",
+      "fullAnswer": "ein Krankheitsbild, zwei Krankheitsbilder",
+      "explanation": "The plural is Krankheitsbilder.",
+      "acceptedAnswers": [
+        "Krankheitsbilder"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Krankheitsbild mean?",
+      "options": [
+        "always",
+        "clinical picture",
+        "the bill"
+      ],
+      "answer": "clinical picture",
+      "explanation": "Krankheitsbild: clinical picture, syndrome.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Symptom is…",
+      "options": [
+        "symptom",
+        "syndrome"
+      ],
+      "answer": "symptom",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Diagnose is…",
+      "options": [
+        "diagnosis",
+        "prognosis"
+      ],
+      "answer": "diagnosis",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Burnout in WHO's ICD-11 is…",
+      "options": [
+        "an occupational phenomenon, not a disease",
+        "a disease"
+      ],
+      "answer": "an occupational phenomenon, not a disease",
+      "explanation": "ICD-11.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Krankheitsbild is the clinical picture or syndrome: the typical set of symptoms of a disease. Doctors say Das Krankheitsbild ist unklar. In the WHO's ICD-11, burnout is classified as an occupational phenomenon rather than a disease in its own right, a frequent point in German debates. Das Symptom is a symptom, die Diagnose a diagnosis. Plural: die Krankheitsbilder."
+}

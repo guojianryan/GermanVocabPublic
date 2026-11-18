@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Liebhaber",
+    "partOfSpeech": "noun, masculine (der Liebhaber)",
+    "pronunciation": {
+      "respelling": "LEEP-haa-ber",
+      "ipa": "ˈliːpˌhaːbɐ",
+      "notes": "Plural: die Liebhaber."
+    },
+    "meaning": "lover; enthusiast",
+    "shortDefinition": "Lover; enthusiast."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Liebhaber, plural die Liebhaber.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Liebhaber"
+        },
+        {
+          "label": "More than one",
+          "value": "die Liebhaber"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie hat einen Liebhaber.",
+      "english": "She has a lover.",
+      "highlight": [
+        "Liebhaber."
+      ]
+    },
+    {
+      "german": "Das ist etwas für Liebhaber klassischer Musik.",
+      "english": "That's something for lovers of classical music.",
+      "highlight": [
+        "Liebhaber"
+      ]
+    }
+  ],
+  "forms": [
+    "die Liebhaber",
+    "Liebhaberin",
+    "der Liebhaber"
+  ],
+  "memoryHook": "Liebhaber: someone who 'has' love (liebhaben) for a person or a thing.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Liebhaber",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Liebhaber is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Liebhaber, zwei ___",
+      "answer": "Liebhaber",
+      "fullAnswer": "ein Liebhaber, zwei Liebhaber",
+      "explanation": "The plural is Liebhaber.",
+      "acceptedAnswers": [
+        "Liebhaber"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Liebhaber mean?",
+      "options": [
+        "to help",
+        "the street",
+        "lover"
+      ],
+      "answer": "lover",
+      "explanation": "Liebhaber: lover; enthusiast.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Weinliebhaber is…",
+      "options": [
+        "a wine lover",
+        "a wine seller"
+      ],
+      "answer": "a wine lover",
+      "explanation": "Enthusiast.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Liebhaberpreis is…",
+      "options": [
+        "a collector's price (high)",
+        "a discount"
+      ],
+      "answer": "a collector's price (high)",
+      "explanation": "Collector's price.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Liebhaberei is…",
+      "options": [
+        "a hobby, pastime",
+        "an affair"
+      ],
+      "answer": "a hobby, pastime",
+      "explanation": "Liebhaberei.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Liebhaber (die Liebhaberin) is a lover in a romantic sense, often secret, but also an enthusiast: ein Kunstliebhaber, Für Liebhaber! (for connoisseurs). Der Liebhaberpreis is a collector's price, higher than usual. From liebhaben (to be fond of). In theatre, der jugendliche Liebhaber was the role of the young romantic lead. Die Liebhaberei is a hobby done for love, not money."
+}

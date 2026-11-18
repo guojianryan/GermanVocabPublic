@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "zurückgewinnen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "tsu-RÜK-ge-vi-nen",
+      "ipa": "t͡suˈʁʏkɡəˌvɪnən",
+      "notes": ""
+    },
+    "meaning": "to win back, regain",
+    "shortDefinition": "To win back, regain."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "gewinn|e … |zurück"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "gewinn|st … |zurück"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "gewinn|t … |zurück"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "gewinn|en … |zurück"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "gewinn|t … |zurück"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "gewinn|en … |zurück"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat zurückgewonnen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Partei will verlorene Wähler zurückgewinnen.",
+      "english": "The party wants to win back lost voters.",
+      "highlight": [
+        "zurückgewinnen."
+      ]
+    },
+    {
+      "german": "Er hat ihr Vertrauen zurückgewonnen.",
+      "english": "He regained her trust.",
+      "highlight": [
+        "zurückgewonnen."
+      ]
+    }
+  ],
+  "forms": [
+    "gewinne zurück",
+    "gewinnst zurück",
+    "gewinnt zurück",
+    "gewinnen zurück",
+    "zurückgewonnen",
+    "gewann zurück"
+  ],
+  "memoryHook": "Zurückgewinnen: gewinnen (win) back (zurück).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … zurück (zurückgewinnen)",
+      "answer": "gewinnt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: gewinnt … zurück.",
+      "acceptedAnswers": [
+        "gewinnt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (zurückgewinnen, past)",
+      "answer": "zurückgewonnen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe zurückgewonnen.",
+      "acceptedAnswers": [
+        "zurueckgewonnen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does zurückgewinnen mean?",
+      "options": [
+        "the job",
+        "the child",
+        "to win back"
+      ],
+      "answer": "to win back",
+      "explanation": "zurückgewinnen: to win back, regain.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "gewann zurück, zurückgewonnen",
+        "gewinnte zurück"
+      ],
+      "answer": "gewann zurück, zurückgewonnen",
+      "explanation": "Irregular.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Rückgewinnung (recycling) is…",
+      "options": [
+        "recovery (of materials)",
+        "a rewind"
+      ],
+      "answer": "recovery (of materials)",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "wiedergewinnen, zurückerobern",
+        "verlieren"
+      ],
+      "answer": "wiedergewinnen, zurückerobern",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Zurückgewinnen means to win back or regain: Vertrauen, Wähler, Kunden, die Kontrolle zurückgewinnen. In recycling, Rohstoffe zurückgewinnen means to recover raw materials, die Rückgewinnung. Synonyms: wiedergewinnen, zurückerobern (to recapture). Separable and irregular like gewinnen: gewann zurück, zurückgewonnen."
+}

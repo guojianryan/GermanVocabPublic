@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Geschäftsmann",
+    "partOfSpeech": "noun, masculine (der Geschäftsmann)",
+    "pronunciation": {
+      "respelling": "ge-SHEFTS-man",
+      "ipa": "ɡəˈʃɛft͡sˌman",
+      "notes": "Plural: die Geschäftsleute."
+    },
+    "meaning": "businessman",
+    "shortDefinition": "Businessman."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Geschäftsmann, plural die Geschäftsleute.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Geschäftsmann"
+        },
+        {
+          "label": "More than one",
+          "value": "die Geschäftsleute"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er ist ein erfolgreicher Geschäftsmann.",
+      "english": "He's a successful businessman.",
+      "highlight": [
+        "Geschäftsmann."
+      ]
+    },
+    {
+      "german": "Viele Geschäftsleute fliegen nach Frankfurt.",
+      "english": "Many business people fly to Frankfurt.",
+      "highlight": [
+        "Geschäftsleute"
+      ]
+    }
+  ],
+  "forms": [
+    "Geschäftsleute",
+    "die Geschäftsleute",
+    "der Geschäftsmann",
+    "Geschäftsfrau"
+  ],
+  "memoryHook": "Geschäftsmann: a Mann of Geschäft (business).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Geschäftsmann",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Geschäftsmann is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Geschäftsmann, zwei ___",
+      "answer": "Geschäftsleute",
+      "fullAnswer": "ein Geschäftsmann, zwei Geschäftsleute",
+      "explanation": "The plural is Geschäftsleute.",
+      "acceptedAnswers": [
+        "Geschaeftsleute"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Geschäftsmann mean?",
+      "options": [
+        "quiet",
+        "hot",
+        "businessman"
+      ],
+      "answer": "businessman",
+      "explanation": "Geschäftsmann: businessman.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Geschäftsleute",
+        "die Geschäftsmänner"
+      ],
+      "answer": "die Geschäftsleute",
+      "explanation": "-leute.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Geschäftsfrau",
+        "die Geschäftsmännin"
+      ],
+      "answer": "die Geschäftsfrau",
+      "explanation": "Frau.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Geschäftlich means…",
+      "options": [
+        "on business",
+        "busy"
+      ],
+      "answer": "on business",
+      "explanation": "Adverb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Geschäftsmann is a businessman; die Geschäftsfrau a businesswoman. The plural is usually die Geschäftsleute, as with Kaufmann and Kaufleute, though Geschäftsmänner is also heard. Geschäftlich unterwegs sein means to be away on business. A more modern word is der Unternehmer (entrepreneur). The traditional ideal of der ehrbare Kaufmann (the honourable merchant) dates back to the Hanseatic League."
+}

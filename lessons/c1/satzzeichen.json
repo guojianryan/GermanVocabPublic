@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Satzzeichen",
+    "partOfSpeech": "noun, neuter (das Satzzeichen)",
+    "pronunciation": {
+      "respelling": "ZATS-tsai-khen",
+      "ipa": "ˈzat͡sˌt͡saɪ̯çn̩",
+      "notes": "Plural: die Satzzeichen."
+    },
+    "meaning": "punctuation mark",
+    "shortDefinition": "Punctuation mark."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Satzzeichen, plural die Satzzeichen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Satzzeichen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Satzzeichen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Punkt ist das häufigste Satzzeichen.",
+      "english": "The full stop is the most common punctuation mark.",
+      "highlight": [
+        "Satzzeichen."
+      ]
+    },
+    {
+      "german": "Achte auf die richtigen Satzzeichen!",
+      "english": "Pay attention to the correct punctuation!",
+      "highlight": [
+        "Satzzeichen!"
+      ]
+    }
+  ],
+  "forms": [
+    "das Satzzeichen",
+    "Satzzeichens"
+  ],
+  "memoryHook": "Satzzeichen: a Zeichen (sign) in a Satz (sentence).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Satzzeichen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Satzzeichen is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Satzzeichen, zwei ___",
+      "answer": "Satzzeichen",
+      "fullAnswer": "ein Satzzeichen, zwei Satzzeichen",
+      "explanation": "The plural is Satzzeichen.",
+      "acceptedAnswers": [
+        "Satzzeichen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Satzzeichen mean?",
+      "options": [
+        "quiet",
+        "punctuation mark",
+        "hot"
+      ],
+      "answer": "punctuation mark",
+      "explanation": "Satzzeichen: punctuation mark.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "German punctuation marks include…",
+      "options": [
+        "Punkt, Komma, Doppelpunkt, Anführungszeichen",
+        "Buchstaben"
+      ],
+      "answer": "Punkt, Komma, Doppelpunkt, Anführungszeichen",
+      "explanation": "Examples.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Zeichensetzung is…",
+      "options": [
+        "punctuation (the rules)",
+        "drawing"
+      ],
+      "answer": "punctuation (the rules)",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "German quotation marks often look like…",
+      "options": [
+        "„so“",
+        "\"so\" only"
+      ],
+      "answer": "„so“",
+      "explanation": "Quotes.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Satzzeichen is a punctuation mark: der Punkt, das Komma, das Semikolon, der Doppelpunkt, das Fragezeichen, das Ausrufezeichen, die Anführungszeichen („...“ in Germany, «...» in Switzerland). Die Zeichensetzung is punctuation; German puts commas before most subordinate clauses: Ich weiß, dass... The plural is the same: die Satzzeichen."
+}

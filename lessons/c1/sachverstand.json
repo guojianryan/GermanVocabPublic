@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sachverstand",
+    "partOfSpeech": "noun, masculine (der Sachverstand)",
+    "pronunciation": {
+      "respelling": "ZAKH-fer-shtant",
+      "ipa": "ˈzaxfɛɐ̯ˌʃtant",
+      "notes": "Usually no plural."
+    },
+    "meaning": "expertise, expert knowledge",
+    "shortDefinition": "Expertise, expert knowledge."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Sachverstand, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Sachverstand"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Für diese Aufgabe braucht man viel Sachverstand.",
+      "english": "This task requires a lot of expertise.",
+      "highlight": [
+        "Sachverstand."
+      ]
+    },
+    {
+      "german": "Die Kommission holte externen Sachverstand ein.",
+      "english": "The commission brought in outside expertise.",
+      "highlight": [
+        "Sachverstand"
+      ]
+    }
+  ],
+  "forms": [
+    "der Sachverstand",
+    "Sachverstands"
+  ],
+  "memoryHook": "Sachverstand: Verstand (understanding) of the Sache (matter).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sachverstand",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Sachverstand is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sachverstand mean?",
+      "options": [
+        "the car",
+        "expertise",
+        "to wait"
+      ],
+      "answer": "expertise",
+      "explanation": "Sachverstand: expertise, expert knowledge.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Sachverständige is…",
+      "options": [
+        "expert, assessor",
+        "a lawyer"
+      ],
+      "answer": "expert, assessor",
+      "explanation": "Person.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sachverständig means…",
+      "options": [
+        "expert, competent",
+        "materialistic"
+      ],
+      "answer": "expert, competent",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Fachkenntnis, die Expertise",
+        "die Ahnungslosigkeit"
+      ],
+      "answer": "die Fachkenntnis, die Expertise",
+      "explanation": "Synonym.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Sachverstand is expertise or expert knowledge: mit viel Sachverstand, externen Sachverstand einholen. Der/die Sachverständige (declined like an adjective) is an expert or assessor, for example in court or after a car accident (der Kfz-Sachverständige). The government's economic advisers are the Sachverständigenrat, nicknamed die Wirtschaftsweisen. It has no plural."
+}

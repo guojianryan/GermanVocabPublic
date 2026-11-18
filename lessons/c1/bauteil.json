@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bauteil",
+    "partOfSpeech": "noun, neuter (das Bauteil)",
+    "pronunciation": {
+      "respelling": "BAU-tail",
+      "ipa": "ˈbaʊ̯ˌtaɪ̯l",
+      "notes": "Plural: die Bauteile."
+    },
+    "meaning": "component, part",
+    "shortDefinition": "Component, part."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Bauteil, plural die Bauteile.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Bauteil"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bauteile"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ein Bauteil der Maschine ist defekt.",
+      "english": "A component of the machine is faulty.",
+      "highlight": [
+        "Bauteil"
+      ]
+    },
+    {
+      "german": "Die Bauteile werden in China gefertigt.",
+      "english": "The components are manufactured in China.",
+      "highlight": [
+        "Bauteile"
+      ]
+    }
+  ],
+  "forms": [
+    "Bauteile",
+    "die Bauteile",
+    "das Bauteil"
+  ],
+  "memoryHook": "Bauteil: a Teil (part) used to bauen (build).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bauteil",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Bauteil is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bauteil, zwei ___",
+      "answer": "Bauteile",
+      "fullAnswer": "ein Bauteil, zwei Bauteile",
+      "explanation": "The plural is Bauteile.",
+      "acceptedAnswers": [
+        "Bauteile"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bauteil mean?",
+      "options": [
+        "component",
+        "to travel",
+        "tomorrow"
+      ],
+      "answer": "component",
+      "explanation": "Bauteil: component, part.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender (component):",
+      "options": [
+        "das Bauteil",
+        "der Bauteil"
+      ],
+      "answer": "das Bauteil",
+      "explanation": "Neuter.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Ersatzteil is…",
+      "options": [
+        "spare part",
+        "a substitute"
+      ],
+      "answer": "spare part",
+      "explanation": "Spare.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Teil vs. das Teil:",
+      "options": [
+        "part of a whole vs. a single piece",
+        "the same always"
+      ],
+      "answer": "part of a whole vs. a single piece",
+      "explanation": "Gender.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Bauteil is a component or part of a machine, device or building: elektronische Bauteile, ein defektes Bauteil. Note the gender: das Teil means a single physical piece (das Ersatzteil, spare part), while der Teil is a portion of a whole (der größte Teil). During the 2021–22 chip shortage, missing Bauteile halted German car production. Plural: die Bauteile."
+}

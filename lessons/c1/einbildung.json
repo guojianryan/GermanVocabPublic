@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Einbildung",
+    "partOfSpeech": "noun, feminine (die Einbildung)",
+    "pronunciation": {
+      "respelling": "AIN-bil-dung",
+      "ipa": "ˈaɪ̯nˌbɪldʊŋ",
+      "notes": "Plural: die Einbildungen."
+    },
+    "meaning": "imagination, fancy; conceit",
+    "shortDefinition": "Imagination, fancy; conceit."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Einbildung, plural die Einbildungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Einbildung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Einbildungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das ist reine Einbildung.",
+      "english": "That's pure imagination.",
+      "highlight": [
+        "Einbildung."
+      ]
+    },
+    {
+      "german": "Seine Einbildung ist unerträglich.",
+      "english": "His conceit is unbearable.",
+      "highlight": [
+        "Einbildung"
+      ]
+    }
+  ],
+  "forms": [
+    "Einbildungen",
+    "die Einbildung"
+  ],
+  "memoryHook": "Einbildung: a Bild (picture) formed only in your head.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Einbildung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Einbildung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Einbildung, zwei ___",
+      "answer": "Einbildungen",
+      "fullAnswer": "ein Einbildung, zwei Einbildungen",
+      "explanation": "The plural is Einbildungen.",
+      "acceptedAnswers": [
+        "Einbildungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Einbildung mean?",
+      "options": [
+        "imagination",
+        "the bed",
+        "to buy"
+      ],
+      "answer": "imagination",
+      "explanation": "Einbildung: imagination, fancy; conceit.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich etwas einbilden means…",
+      "options": [
+        "to imagine something (wrongly)",
+        "to educate oneself"
+      ],
+      "answer": "to imagine something (wrongly)",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eingebildet means…",
+      "options": [
+        "conceited; imaginary",
+        "educated"
+      ],
+      "answer": "conceited; imaginary",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einbildung ist auch eine Bildung is…",
+      "options": [
+        "an ironic saying about conceit",
+        "a school motto"
+      ],
+      "answer": "an ironic saying about conceit",
+      "explanation": "Saying.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Einbildung is imagination or fancy, usually of something unreal: Das ist nur Einbildung. It also means conceit. Sich etwas einbilden means to imagine something: Ich habe mir das nur eingebildet. Sich etwas auf etwas einbilden means to be conceited about it, and eingebildet means conceited or imaginary: ein eingebildeter Kranker (a hypochondriac). The joke Einbildung ist auch eine Bildung plays on Bildung (education). Plural: die Einbildungen."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schatzmeister",
+    "partOfSpeech": "noun, masculine (der Schatzmeister)",
+    "pronunciation": {
+      "respelling": "SHATS-mai-ster",
+      "ipa": "ˈʃat͡sˌmaɪ̯stɐ",
+      "notes": "Plural: die Schatzmeister."
+    },
+    "meaning": "treasurer",
+    "shortDefinition": "Treasurer."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schatzmeister, plural die Schatzmeister.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schatzmeister"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schatzmeister"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Schatzmeister legte den Finanzbericht vor.",
+      "english": "The treasurer presented the financial report.",
+      "highlight": [
+        "Schatzmeister"
+      ]
+    },
+    {
+      "german": "Sie wurde zur Schatzmeisterin des Vereins gewählt.",
+      "english": "She was elected treasurer of the club.",
+      "highlight": [
+        "Schatzmeisterin"
+      ]
+    }
+  ],
+  "forms": [
+    "Schatzmeisterin",
+    "der Schatzmeister"
+  ],
+  "memoryHook": "Schatzmeister: Meister (master) of the Schatz (treasury).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schatzmeister",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schatzmeister is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schatzmeister, zwei ___",
+      "answer": "Schatzmeister",
+      "fullAnswer": "ein Schatzmeister, zwei Schatzmeister",
+      "explanation": "The plural is Schatzmeister.",
+      "acceptedAnswers": [
+        "Schatzmeister"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schatzmeister mean?",
+      "options": [
+        "the bill",
+        "the weather",
+        "treasurer"
+      ],
+      "answer": "treasurer",
+      "explanation": "Schatzmeister: treasurer.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "German clubs (Vereine) usually have…",
+      "options": [
+        "a Vorsitzender, Schatzmeister, Schriftführer",
+        "only a president"
+      ],
+      "answer": "a Vorsitzender, Schatzmeister, Schriftführer",
+      "explanation": "Club.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Kassenwart",
+        "der Kassierer at a supermarket"
+      ],
+      "answer": "der Kassenwart",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schatz is…",
+      "options": [
+        "treasure; darling",
+        "a skirt"
+      ],
+      "answer": "treasure; darling",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Schatzmeister (die Schatzmeisterin) is a treasurer of a party, foundation or club. In smaller Vereine, people often say der Kassenwart. Club boards typically include a Vorsitzender (chair), Schatzmeister and Schriftführer (secretary). Der Schatz means treasure, and also darling: Mein Schatz! The plural is the same: die Schatzmeister."
+}

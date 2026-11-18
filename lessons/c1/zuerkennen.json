@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "zuerkennen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "TSOO-er-ke-nen",
+      "ipa": "ˈt͡suːʔɛɐ̯ˌkɛnən",
+      "notes": ""
+    },
+    "meaning": "to award, grant (formally)",
+    "shortDefinition": "To award, grant (formally)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "erkenn|e … |zu"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "erkenn|st … |zu"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "erkenn|t … |zu"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "erkenn|en … |zu"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "erkenn|t … |zu"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "erkenn|en … |zu"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat zuerkannt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Gericht erkannte ihr Schadenersatz zu.",
+      "english": "The court awarded her damages.",
+      "highlight": [
+        "erkannte",
+        "zu."
+      ]
+    },
+    {
+      "german": "Ihm wurde der Preis zuerkannt.",
+      "english": "He was awarded the prize.",
+      "highlight": [
+        "zuerkannt."
+      ]
+    }
+  ],
+  "forms": [
+    "erkenne zu",
+    "erkennst zu",
+    "erkennt zu",
+    "erkennen zu",
+    "zuerkannt",
+    "erkannte zu"
+  ],
+  "memoryHook": "Zuerkennen: erkennen (recognise) something as due zu (to) someone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … zu (zuerkennen)",
+      "answer": "erkennt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: erkennt … zu.",
+      "acceptedAnswers": [
+        "erkennt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (zuerkennen, past)",
+      "answer": "zuerkannt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe zuerkannt.",
+      "acceptedAnswers": [
+        "zuerkannt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does zuerkennen mean?",
+      "options": [
+        "the family",
+        "cheap",
+        "to award"
+      ],
+      "answer": "to award",
+      "explanation": "zuerkennen: to award, grant (formally).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zuerkennen takes…",
+      "options": [
+        "dative person + accusative thing",
+        "two accusatives"
+      ],
+      "answer": "dative person + accusative thing",
+      "explanation": "Grammar.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Aberkennen means…",
+      "options": [
+        "to revoke, strip of",
+        "to recognise"
+      ],
+      "answer": "to revoke, strip of",
+      "explanation": "Opposite.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "erkannte zu, zuerkannt",
+        "zuerkennte"
+      ],
+      "answer": "erkannte zu, zuerkannt",
+      "explanation": "Mixed.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Zuerkennen means to award or grant formally: jemandem einen Preis, ein Recht, Schadenersatz zuerkennen. It's common in legal and official language. The opposite is aberkennen (to strip of): ihm wurde der Titel aberkannt. Separable and mixed like kennen: erkannte zu, zuerkannt; some speakers also say zuerkannte."
+}

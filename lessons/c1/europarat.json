@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Europarat",
+    "partOfSpeech": "noun, masculine (der Europarat)",
+    "pronunciation": {
+      "respelling": "oy-ROH-pa-raat",
+      "ipa": "ɔɪ̯ˈʁoːpaˌʁaːt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "Council of Europe",
+    "shortDefinition": "Council of Europe."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Europarat, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Europarat"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Europarat hat seinen Sitz in Straßburg.",
+      "english": "The Council of Europe has its seat in Strasbourg.",
+      "highlight": [
+        "Europarat"
+      ]
+    },
+    {
+      "german": "Der Europarat ist keine Institution der EU.",
+      "english": "The Council of Europe is not an EU institution.",
+      "highlight": [
+        "Europarat"
+      ]
+    }
+  ],
+  "forms": [
+    "der Europarat",
+    "Europarats"
+  ],
+  "memoryHook": "Europarat: a Rat (council) of European states.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Europarat",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Europarat is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Europarat mean?",
+      "options": [
+        "the street",
+        "Council of Europe",
+        "tomorrow"
+      ],
+      "answer": "Council of Europe",
+      "explanation": "Europarat: Council of Europe.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Europarat oversees…",
+      "options": [
+        "the European Convention on Human Rights",
+        "the euro"
+      ],
+      "answer": "the European Convention on Human Rights",
+      "explanation": "Role.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Europäische Rat is…",
+      "options": [
+        "the EU summit of heads of government",
+        "the Council of Europe"
+      ],
+      "answer": "the EU summit of heads of government",
+      "explanation": "Contrast.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Russia was expelled in…",
+      "options": [
+        "2022",
+        "2014"
+      ],
+      "answer": "2022",
+      "explanation": "2022.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Europarat is the Council of Europe, founded in 1949 and based in Strasbourg, with 46 member states since Russia's expulsion in 2022. It's not part of the EU; it guards the European Convention on Human Rights through the European Court of Human Rights. Don't confuse it with der Europäische Rat (EU heads of government) or der Rat der EU (EU ministers). It has no plural."
+}

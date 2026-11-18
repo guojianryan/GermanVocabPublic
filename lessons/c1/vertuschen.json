@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "vertuschen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-TU-shen",
+      "ipa": "fɛɐ̯ˈtʊʃn̩",
+      "notes": ""
+    },
+    "meaning": "to cover up, hush up",
+    "shortDefinition": "To cover up, hush up."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "vertusch|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "vertusch|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "vertusch|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "vertusch|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "vertusch|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "vertusch|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat vertuscht"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Firma versuchte, den Skandal zu vertuschen.",
+      "english": "The company tried to cover up the scandal.",
+      "highlight": [
+        "vertuschen."
+      ]
+    },
+    {
+      "german": "Die Fälle wurden jahrelang vertuscht.",
+      "english": "The cases were covered up for years.",
+      "highlight": [
+        "vertuscht."
+      ]
+    }
+  ],
+  "forms": [
+    "vertusche",
+    "vertuschst",
+    "vertuscht",
+    "vertuschen",
+    "Vertuschung"
+  ],
+  "memoryHook": "Vertuschen: cover up, as if with Tusche (ink).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (vertuschen)",
+      "answer": "vertuscht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: vertuscht.",
+      "acceptedAnswers": [
+        "vertuscht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (vertuschen, past)",
+      "answer": "vertuscht",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe vertuscht.",
+      "acceptedAnswers": [
+        "vertuscht"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does vertuschen mean?",
+      "options": [
+        "the door",
+        "to cover up",
+        "the job"
+      ],
+      "answer": "to cover up",
+      "explanation": "vertuschen: to cover up, hush up.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Vertuschung is…",
+      "options": [
+        "cover-up",
+        "a painting"
+      ],
+      "answer": "cover-up",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "verschleiern, unter den Teppich kehren",
+        "aufdecken"
+      ],
+      "answer": "verschleiern, unter den Teppich kehren",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Opposite:",
+      "options": [
+        "aufdecken, enthüllen",
+        "verstecken"
+      ],
+      "answer": "aufdecken, enthüllen",
+      "explanation": "Opposite.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Vertuschen means to cover up or hush up: einen Fehler, einen Skandal, Missbrauch vertuschen. Die Vertuschung is a cover-up, a key term in reports on abuse in churches and on the Dieselskandal. A colloquial synonym is etwas unter den Teppich kehren (to sweep under the carpet). The opposite is aufdecken (to uncover). Regular: vertuschte, vertuscht."
+}

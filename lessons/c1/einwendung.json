@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Einwendung",
+    "partOfSpeech": "noun, feminine (die Einwendung)",
+    "pronunciation": {
+      "respelling": "AIN-ven-dung",
+      "ipa": "ˈaɪ̯nˌvɛndʊŋ",
+      "notes": "Plural: die Einwendungen."
+    },
+    "meaning": "objection (formal)",
+    "shortDefinition": "Objection (formal)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Einwendung, plural die Einwendungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Einwendung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Einwendungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Gegen den Bauplan wurden zahlreiche Einwendungen erhoben.",
+      "english": "Numerous objections were raised against the building plan.",
+      "highlight": [
+        "Einwendungen"
+      ]
+    },
+    {
+      "german": "Haben Sie Einwendungen?",
+      "english": "Do you have any objections?",
+      "highlight": [
+        "Einwendungen?"
+      ]
+    }
+  ],
+  "forms": [
+    "Einwendungen",
+    "die Einwendung"
+  ],
+  "memoryHook": "Einwendung: what one einwendet (objects).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Einwendung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Einwendung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Einwendung, zwei ___",
+      "answer": "Einwendungen",
+      "fullAnswer": "ein Einwendung, zwei Einwendungen",
+      "explanation": "The plural is Einwendungen.",
+      "acceptedAnswers": [
+        "Einwendungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Einwendung mean?",
+      "options": [
+        "the bread",
+        "objection (formal)",
+        "the key"
+      ],
+      "answer": "objection (formal)",
+      "explanation": "Einwendung: objection (formal).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einwenden means…",
+      "options": [
+        "to object",
+        "to turn in"
+      ],
+      "answer": "to object",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal, legal",
+        "colloquial"
+      ],
+      "answer": "formal, legal",
+      "explanation": "Register.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday synonym:",
+      "options": [
+        "der Einwand",
+        "die Zustimmung"
+      ],
+      "answer": "der Einwand",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Einwendung is a formal objection, especially in planning and legal procedures: Einwendungen erheben, gegen ein Bauvorhaben. Citizens can submit Einwendungen during a Planfeststellungsverfahren. The everyday word is der Einwand: Hast du Einwände? Einwenden means to object: Dagegen ist nichts einzuwenden. Plural: die Einwendungen."
+}

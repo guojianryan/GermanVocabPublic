@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "derweil",
+    "partOfSpeech": "adverb",
+    "pronunciation": {
+      "respelling": "der-VAIL",
+      "ipa": "deːɐ̯ˈvaɪ̯l",
+      "notes": ""
+    },
+    "meaning": "meanwhile",
+    "shortDefinition": "Meanwhile."
+  },
+  "sampleSentences": [
+    {
+      "german": "Ich koche, du kannst derweil den Tisch decken.",
+      "english": "I'll cook; meanwhile you can set the table.",
+      "highlight": [
+        "derweil"
+      ]
+    },
+    {
+      "german": "Derweil stiegen die Preise weiter.",
+      "english": "Meanwhile prices continued to rise.",
+      "highlight": [
+        "Derweil"
+      ]
+    }
+  ],
+  "forms": [
+    "derweilen"
+  ],
+  "memoryHook": "Derweil: during the while (Weile).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does derweil mean?",
+      "options": [
+        "quiet",
+        "meanwhile",
+        "the car"
+      ],
+      "answer": "meanwhile",
+      "explanation": "derweil: meanwhile.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "währenddessen / inzwischen",
+        "deswegen"
+      ],
+      "answer": "währenddessen / inzwischen",
+      "explanation": "Meanwhile.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "slightly literary or journalistic",
+        "slang"
+      ],
+      "answer": "slightly literary or journalistic",
+      "explanation": "Written.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "After derweil at the start, the verb comes…",
+      "options": [
+        "next",
+        "at the end"
+      ],
+      "answer": "next",
+      "explanation": "Adverb.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ wartete sie draußen. (meanwhile)",
+      "answer": "Derweil",
+      "fullAnswer": "Derweil wartete sie draußen.",
+      "explanation": "derweil.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Derweil means meanwhile or in the meantime: Derweil kümmerte sich die Polizei um die Verletzten. It's common in news reports, where it links parallel events: Die Gespräche gehen weiter; derweil wächst der Druck. It's slightly literary; in speech, Germans say inzwischen or währenddessen. When it starts a sentence, the verb comes next. From der + Weile (a while), like die Langeweile (boredom)."
+}

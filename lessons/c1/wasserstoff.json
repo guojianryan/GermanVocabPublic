@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wasserstoff",
+    "partOfSpeech": "noun, masculine (der Wasserstoff)",
+    "pronunciation": {
+      "respelling": "VA-ser-shtof",
+      "ipa": "ˈvasɐˌʃtɔf",
+      "notes": "Usually no plural."
+    },
+    "meaning": "hydrogen",
+    "shortDefinition": "Hydrogen."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Wasserstoff, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Wasserstoff"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wasserstoff gilt als Energie der Zukunft.",
+      "english": "Hydrogen is seen as the energy of the future.",
+      "highlight": [
+        "Wasserstoff"
+      ]
+    },
+    {
+      "german": "Der Zug fährt mit Wasserstoff.",
+      "english": "The train runs on hydrogen.",
+      "highlight": [
+        "Wasserstoff."
+      ]
+    }
+  ],
+  "forms": [
+    "der Wasserstoff"
+  ],
+  "memoryHook": "Wasserstoff: the 'water-maker', H.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wasserstoff",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Wasserstoff is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wasserstoff mean?",
+      "options": [
+        "the car",
+        "the family",
+        "hydrogen"
+      ],
+      "answer": "hydrogen",
+      "explanation": "Wasserstoff: hydrogen.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Literally:",
+      "options": [
+        "water substance",
+        "water fabric"
+      ],
+      "answer": "water substance",
+      "explanation": "Wasser + Stoff.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grüner Wasserstoff is made…",
+      "options": [
+        "with renewable electricity",
+        "from natural gas"
+      ],
+      "answer": "with renewable electricity",
+      "explanation": "Green hydrogen.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Chemical symbol:",
+      "options": [
+        "H",
+        "W"
+      ],
+      "answer": "H",
+      "explanation": "H.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Wasserstoff is hydrogen. German translated its scientific name (hydrogen, from Greek water-maker) as water substance. It's a big part of Germany's energy plans: grüner Wasserstoff, made with renewable electricity, is meant to replace natural gas in industry. In 2018, Lower Saxony launched the world's first passenger trains running on Wasserstoff. Similar element names: Sauerstoff (oxygen), Stickstoff (nitrogen), Kohlenstoff (carbon)."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kolloquium",
+    "partOfSpeech": "noun, neuter (das Kolloquium)",
+    "pronunciation": {
+      "respelling": "ko-LOH-kvi-um",
+      "ipa": "kɔˈloːkvi̯ʊm",
+      "notes": "Plural: die Kolloquien."
+    },
+    "meaning": "colloquium, seminar; oral exam",
+    "shortDefinition": "Colloquium, seminar; oral exam."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Kolloquium, plural die Kolloquien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Kolloquium"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kolloquien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nächste Woche ist mein Kolloquium zur Bachelorarbeit.",
+      "english": "Next week is my oral defence of my bachelor's thesis.",
+      "highlight": [
+        "Kolloquium"
+      ]
+    },
+    {
+      "german": "Das Institut veranstaltet ein internationales Kolloquium.",
+      "english": "The institute is holding an international colloquium.",
+      "highlight": [
+        "Kolloquium."
+      ]
+    }
+  ],
+  "forms": [
+    "Kolloquien",
+    "das Kolloquium"
+  ],
+  "memoryHook": "Kolloquium: Latin colloquium, conversation.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kolloquium",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Kolloquium is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kolloquium, zwei ___",
+      "answer": "Kolloquien",
+      "fullAnswer": "ein Kolloquium, zwei Kolloquien",
+      "explanation": "The plural is Kolloquien.",
+      "acceptedAnswers": [
+        "Kolloquien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kolloquium mean?",
+      "options": [
+        "the family",
+        "cheap",
+        "colloquium"
+      ],
+      "answer": "colloquium",
+      "explanation": "Kolloquium: colloquium, seminar; oral exam.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Kolloquien",
+        "die Kolloquiums"
+      ],
+      "answer": "die Kolloquien",
+      "explanation": "Plural.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "At German universities, a Kolloquium can be…",
+      "options": [
+        "an oral exam on one's thesis",
+        "a party"
+      ],
+      "answer": "an oral exam on one's thesis",
+      "explanation": "University.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Latin colloquium means…",
+      "options": [
+        "conversation",
+        "college"
+      ],
+      "answer": "conversation",
+      "explanation": "Origin.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Kolloquium is a colloquium or academic seminar, and at German universities also the oral exam where students defend their thesis: das Kolloquium zur Masterarbeit. Doktoranden present in a Forschungskolloquium. From Latin colloquium (conversation), like English colloquial. Plural: die Kolloquien."
+}

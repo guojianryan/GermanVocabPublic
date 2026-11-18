@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wendung",
+    "partOfSpeech": "noun, feminine (die Wendung)",
+    "pronunciation": {
+      "respelling": "VEN-dung",
+      "ipa": "ˈvɛndʊŋ",
+      "notes": "Plural: die Wendungen."
+    },
+    "meaning": "turn, twist; expression",
+    "shortDefinition": "Turn, twist; expression."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Wendung, plural die Wendungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Wendung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wendungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Fall nahm eine überraschende Wendung.",
+      "english": "The case took a surprising turn.",
+      "highlight": [
+        "Wendung."
+      ]
+    },
+    {
+      "german": "Das ist eine feste Wendung im Deutschen.",
+      "english": "That's a set expression in German.",
+      "highlight": [
+        "Wendung"
+      ]
+    }
+  ],
+  "forms": [
+    "Wendungen",
+    "die Wendungen",
+    "die Wendung",
+    "Redewendung"
+  ],
+  "memoryHook": "Wendung: a turn (wenden) in events or in words.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wendung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Wendung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wendung, zwei ___",
+      "answer": "Wendungen",
+      "fullAnswer": "ein Wendung, zwei Wendungen",
+      "explanation": "The plural is Wendungen.",
+      "acceptedAnswers": [
+        "Wendungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wendung mean?",
+      "options": [
+        "the key",
+        "to travel",
+        "turn"
+      ],
+      "answer": "turn",
+      "explanation": "Wendung: turn, twist; expression.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Wendung nehmen means…",
+      "options": [
+        "to take a turn",
+        "to turn a page"
+      ],
+      "answer": "to take a turn",
+      "explanation": "Turn.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Redewendung is…",
+      "options": [
+        "idiom, expression",
+        "a speech"
+      ],
+      "answer": "idiom, expression",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Wende (1989) refers to…",
+      "options": [
+        "the turning point in the GDR",
+        "a U-turn"
+      ],
+      "answer": "the turning point in the GDR",
+      "explanation": "History.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Wendung is a turn or twist: eine überraschende Wendung, eine Wendung zum Besseren. In language, it's an expression: eine feste Wendung, die Redewendung (idiom). Related: die Wende, the 1989 turning point in the GDR leading to reunification, and wenden (to turn): ein Auto wenden. Plural: die Wendungen."
+}

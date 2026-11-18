@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Entwässerung",
+    "partOfSpeech": "noun, feminine (die Entwässerung)",
+    "pronunciation": {
+      "respelling": "ent-VES-se-rung",
+      "ipa": "ɛntˈvɛsəʁʊŋ",
+      "notes": "Plural: die Entwässerungen."
+    },
+    "meaning": "drainage; dehydration",
+    "shortDefinition": "Drainage; dehydration."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Entwässerung, plural die Entwässerungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Entwässerung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Entwässerungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Entwässerung der Moore setzt CO₂ frei.",
+      "english": "Draining the moors releases CO₂.",
+      "highlight": [
+        "Entwässerung"
+      ]
+    },
+    {
+      "german": "Die Straße braucht eine bessere Entwässerung.",
+      "english": "The road needs better drainage.",
+      "highlight": [
+        "Entwässerung."
+      ]
+    }
+  ],
+  "forms": [
+    "Entwässerungen",
+    "die Entwässerung"
+  ],
+  "memoryHook": "Entwässerung: taking the Wasser out (ent-).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Entwässerung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Entwässerung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Entwässerung, zwei ___",
+      "answer": "Entwässerungen",
+      "fullAnswer": "ein Entwässerung, zwei Entwässerungen",
+      "explanation": "The plural is Entwässerungen.",
+      "acceptedAnswers": [
+        "Entwaesserungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Entwässerung mean?",
+      "options": [
+        "to sing",
+        "the bread",
+        "drainage"
+      ],
+      "answer": "drainage",
+      "explanation": "Entwässerung: drainage; dehydration.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Entwässern means…",
+      "options": [
+        "to drain",
+        "to water"
+      ],
+      "answer": "to drain",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rewetting moors (Wiedervernässung) aims to…",
+      "options": [
+        "store carbon again",
+        "grow maize"
+      ],
+      "answer": "store carbon again",
+      "explanation": "Climate.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Medically, entwässernd means…",
+      "options": [
+        "diuretic",
+        "dehydrating only"
+      ],
+      "answer": "diuretic",
+      "explanation": "Medicine.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Entwässerung is drainage: die Entwässerung von Straßen, Feldern, Mooren. Most of Germany's moors were drained for farming, and drained peatlands now release several percent of the country's greenhouse gases, so rewetting (die Wiedervernässung) is a climate goal. Medically, entwässernd means diuretic. The opposite is die Bewässerung (irrigation). Plural: die Entwässerungen."
+}

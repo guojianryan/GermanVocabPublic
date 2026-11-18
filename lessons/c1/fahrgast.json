@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fahrgast",
+    "partOfSpeech": "noun, masculine (der Fahrgast)",
+    "pronunciation": {
+      "respelling": "FAAR-gast",
+      "ipa": "ˈfaːɐ̯ˌɡast",
+      "notes": "Plural: die Fahrgäste."
+    },
+    "meaning": "passenger (bus, train, taxi)",
+    "shortDefinition": "Passenger (bus, train, taxi)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Fahrgast, plural die Fahrgäste.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Fahrgast"
+        },
+        {
+          "label": "More than one",
+          "value": "die Fahrgäste"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Fahrgäste mussten aussteigen.",
+      "english": "The passengers had to get off.",
+      "highlight": [
+        "Fahrgäste"
+      ]
+    },
+    {
+      "german": "Sehr geehrte Fahrgäste, wir erreichen in Kürze Hamburg.",
+      "english": "Dear passengers, we will shortly arrive in Hamburg.",
+      "highlight": [
+        "Fahrgäste,"
+      ]
+    }
+  ],
+  "forms": [
+    "Fahrgäste",
+    "die Fahrgäste",
+    "der Fahrgast"
+  ],
+  "memoryHook": "Fahrgast: a guest (Gast) on the ride (Fahrt).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fahrgast",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Fahrgast is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Fahrgast, zwei ___",
+      "answer": "Fahrgäste",
+      "fullAnswer": "ein Fahrgast, zwei Fahrgäste",
+      "explanation": "The plural is Fahrgäste.",
+      "acceptedAnswers": [
+        "Fahrgaeste"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fahrgast mean?",
+      "options": [
+        "passenger (bus",
+        "the door",
+        "the family"
+      ],
+      "answer": "passenger (bus",
+      "explanation": "Fahrgast: passenger (bus, train, taxi).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plane passengers are usually…",
+      "options": [
+        "Passagiere / Fluggäste",
+        "Fahrgäste"
+      ],
+      "answer": "Passagiere / Fluggäste",
+      "explanation": "Air.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Fahrgastrechte are…",
+      "options": [
+        "passenger rights (e.g. delay compensation)",
+        "ticket prices"
+      ],
+      "answer": "passenger rights (e.g. delay compensation)",
+      "explanation": "Rights.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Fahrgäste",
+        "die Fahrgasten"
+      ],
+      "answer": "die Fahrgäste",
+      "explanation": "Umlaut.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Fahrgast is a passenger on public transport or in a taxi. Every Deutsche Bahn announcement starts with Sehr geehrte Fahrgäste or Liebe Fahrgäste. EU Fahrgastrechte (passenger rights) mean you can claim 25 percent of the fare back for a delay of over an hour and 50 percent for over two hours. On planes, Germans say Passagier or Fluggast. Literally, it's a guest on the ride. Plural: die Fahrgäste."
+}

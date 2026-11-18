@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Photovoltaik",
+    "partOfSpeech": "noun, feminine (die Photovoltaik)",
+    "pronunciation": {
+      "respelling": "fo-to-vol-TA-ik",
+      "ipa": "fotovɔlˈtaːɪk",
+      "notes": "Usually no plural."
+    },
+    "meaning": "photovoltaics, solar power",
+    "shortDefinition": "Photovoltaics, solar power."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Photovoltaik, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Photovoltaik"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Auf vielen Dächern gibt es Photovoltaikanlagen.",
+      "english": "There are solar panel systems on many roofs.",
+      "highlight": [
+        "Photovoltaikanlagen."
+      ]
+    },
+    {
+      "german": "Photovoltaik wandelt Licht in Strom um.",
+      "english": "Photovoltaics converts light into electricity.",
+      "highlight": [
+        "Photovoltaik"
+      ]
+    }
+  ],
+  "forms": [
+    "die Photovoltaik",
+    "Photovoltaikanlage",
+    "PV"
+  ],
+  "memoryHook": "Photovoltaik: light (photo) to voltage (Volta).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Photovoltaik",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Photovoltaik is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Photovoltaik mean?",
+      "options": [
+        "the bed",
+        "the family",
+        "photovoltaics"
+      ],
+      "answer": "photovoltaics",
+      "explanation": "Photovoltaik: photovoltaics, solar power.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Short form:",
+      "options": [
+        "PV",
+        "PF"
+      ],
+      "answer": "PV",
+      "explanation": "PV.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Balkonkraftwerk is…",
+      "options": [
+        "a small plug-in solar system for balconies",
+        "a balcony heater"
+      ],
+      "answer": "a small plug-in solar system for balconies",
+      "explanation": "Balcony.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Solarthermie produces…",
+      "options": [
+        "heat (hot water)",
+        "electricity"
+      ],
+      "answer": "heat (hot water)",
+      "explanation": "Thermal.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Photovoltaik (PV, also spelled Fotovoltaik) is photovoltaics, generating electricity from sunlight with Solarmodule. Germany pioneered it through the 2000 renewable energy law (EEG) with guaranteed feed-in tariffs. Balkonkraftwerke, small plug-in solar panels for balconies, have become hugely popular, and rules were simplified in 2024. Solarthermie produces heat instead. It has no plural."
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "begehren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-GAY-ren",
+      "ipa": "bəˈɡeːʁən",
+      "notes": ""
+    },
+    "meaning": "to desire, covet",
+    "shortDefinition": "To desire, covet."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "begehr|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "begehr|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "begehr|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "begehr|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "begehr|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "begehr|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat begehrt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Diese Wohnungen sind sehr begehrt.",
+      "english": "These flats are in great demand.",
+      "highlight": [
+        "begehrt."
+      ]
+    },
+    {
+      "german": "Er begehrte sie vom ersten Augenblick an.",
+      "english": "He desired her from the first moment.",
+      "highlight": [
+        "begehrte"
+      ]
+    }
+  ],
+  "forms": [
+    "begehre",
+    "begehrst",
+    "begehrt",
+    "begehren",
+    "Begehren",
+    "aufbegehren"
+  ],
+  "memoryHook": "Begehren: to want something badly.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (begehren)",
+      "answer": "begehrt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: begehrt.",
+      "acceptedAnswers": [
+        "begehrt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (begehren, past)",
+      "answer": "begehrt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe begehrt.",
+      "acceptedAnswers": [
+        "begehrt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does begehren mean?",
+      "options": [
+        "to desire",
+        "to wait",
+        "the family"
+      ],
+      "answer": "to desire",
+      "explanation": "begehren: to desire, covet.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Begehrt (adj.) means…",
+      "options": [
+        "sought-after, in demand",
+        "forbidden"
+      ],
+      "answer": "sought-after, in demand",
+      "explanation": "In demand.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Begehren is…",
+      "options": [
+        "desire; request",
+        "begging"
+      ],
+      "answer": "desire; request",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Aufbegehren means…",
+      "options": [
+        "to rebel",
+        "to beg"
+      ],
+      "answer": "to rebel",
+      "explanation": "Rebel.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Begehren means to desire or covet, and it's literary or formal: Du sollst nicht begehren deines Nächsten Haus, from the Ten Commandments. The participle begehrt is everyday: begehrt (sought-after) jobs, begehrte Tickets. Das Begehren is a desire, and in law a request: das Volksbegehren is a citizens' petition for a referendum. Aufbegehren means to rebel or protest. Not separable: hat begehrt."
+}

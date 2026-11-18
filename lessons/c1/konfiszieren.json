@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "konfiszieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "kon-fis-TSEE-ren",
+      "ipa": "kɔnfɪsˈt͡siːʁən",
+      "notes": ""
+    },
+    "meaning": "to confiscate",
+    "shortDefinition": "To confiscate."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "konfiszier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "konfiszier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "konfiszier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "konfiszier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "konfiszier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "konfiszier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat konfisziert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Zoll konfiszierte die gefälschten Waren.",
+      "english": "Customs confiscated the counterfeit goods.",
+      "highlight": [
+        "konfiszierte"
+      ]
+    },
+    {
+      "german": "Der Lehrer hat mein Handy konfisziert.",
+      "english": "The teacher confiscated my phone.",
+      "highlight": [
+        "konfisziert."
+      ]
+    }
+  ],
+  "forms": [
+    "konfisziere",
+    "konfiszierst",
+    "konfisziert",
+    "konfiszieren",
+    "Konfiszierung"
+  ],
+  "memoryHook": "Konfiszieren: take into the fiscus (state treasury).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (konfiszieren)",
+      "answer": "konfisziert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: konfisziert.",
+      "acceptedAnswers": [
+        "konfisziert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (konfiszieren, past)",
+      "answer": "konfisziert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe konfisziert.",
+      "acceptedAnswers": [
+        "konfisziert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does konfiszieren mean?",
+      "options": [
+        "slowly",
+        "to confiscate",
+        "the bed"
+      ],
+      "answer": "to confiscate",
+      "explanation": "konfiszieren: to confiscate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Native synonym:",
+      "options": [
+        "beschlagnahmen",
+        "verschenken"
+      ],
+      "answer": "beschlagnahmen",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Konfiszierung is…",
+      "options": [
+        "confiscation",
+        "a confession"
+      ],
+      "answer": "confiscation",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal",
+        "slang"
+      ],
+      "answer": "formal",
+      "explanation": "Register.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Konfiszieren means to confiscate: Waffen, Drogen, Vermögen, ein Handy konfiszieren. The legal and everyday German word is beschlagnahmen, and die Beschlagnahme is seizure. It comes from Latin fiscus, the state treasury. Since the 2017 reform, German courts can confiscate criminal assets more easily (Vermögensabschöpfung). Perfect: hat konfisziert."
+}

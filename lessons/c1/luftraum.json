@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Luftraum",
+    "partOfSpeech": "noun, masculine (der Luftraum)",
+    "pronunciation": {
+      "respelling": "LUFT-raum",
+      "ipa": "ˈlʊftˌʁaʊ̯m",
+      "notes": "Plural: die Lufträume."
+    },
+    "meaning": "airspace",
+    "shortDefinition": "Airspace."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Luftraum, plural die Lufträume.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Luftraum"
+        },
+        {
+          "label": "More than one",
+          "value": "die Lufträume"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Flugzeug verletzte den Luftraum des Nachbarlandes.",
+      "english": "The plane violated the neighbouring country's airspace.",
+      "highlight": [
+        "Luftraum"
+      ]
+    },
+    {
+      "german": "Der Luftraum über dem Flughafen wurde gesperrt.",
+      "english": "The airspace over the airport was closed.",
+      "highlight": [
+        "Luftraum"
+      ]
+    }
+  ],
+  "forms": [
+    "Lufträume",
+    "der Luftraum"
+  ],
+  "memoryHook": "Luftraum: the Raum (space) in the Luft (air).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Luftraum",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Luftraum is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Luftraum, zwei ___",
+      "answer": "Lufträume",
+      "fullAnswer": "ein Luftraum, zwei Lufträume",
+      "explanation": "The plural is Lufträume.",
+      "acceptedAnswers": [
+        "Luftraeume"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Luftraum mean?",
+      "options": [
+        "airspace",
+        "the window",
+        "to sing"
+      ],
+      "answer": "airspace",
+      "explanation": "Luftraum: airspace.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Flugsicherung is…",
+      "options": [
+        "air traffic control",
+        "flight insurance"
+      ],
+      "answer": "air traffic control",
+      "explanation": "Control.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Luftraum sperren means…",
+      "options": [
+        "to close the airspace",
+        "to air a room"
+      ],
+      "answer": "to close the airspace",
+      "explanation": "Close.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Raum is…",
+      "options": [
+        "room, space",
+        "a dream"
+      ],
+      "answer": "room, space",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Luftraum is airspace: den Luftraum überwachen, sperren, verletzen. German airspace is controlled by the Deutsche Flugsicherung (DFS) in Langen near Frankfurt. In 2010, the eruption of Iceland's Eyjafjallajökull closed much of European airspace, including Germany's, for days. Drones near airports frequently cause short closures. Plural: die Lufträume."
+}

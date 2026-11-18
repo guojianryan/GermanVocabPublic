@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Jahrestag",
+    "partOfSpeech": "noun, masculine (der Jahrestag)",
+    "pronunciation": {
+      "respelling": "YAA-res-taak",
+      "ipa": "ˈjaːʁəsˌtaːk",
+      "notes": "Plural: die Jahrestage."
+    },
+    "meaning": "anniversary",
+    "shortDefinition": "Anniversary."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Jahrestag, plural die Jahrestage.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Jahrestag"
+        },
+        {
+          "label": "More than one",
+          "value": "die Jahrestage"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Heute ist der 35. Jahrestag des Mauerfalls.",
+      "english": "Today is the 35th anniversary of the fall of the Wall.",
+      "highlight": [
+        "Jahrestag"
+      ]
+    },
+    {
+      "german": "Wir feiern unseren Jahrestag mit einem Essen.",
+      "english": "We're celebrating our anniversary with a meal.",
+      "highlight": [
+        "Jahrestag"
+      ]
+    }
+  ],
+  "forms": [
+    "Jahrestage",
+    "die Jahrestage",
+    "der Jahrestag"
+  ],
+  "memoryHook": "Jahrestag: the Tag that comes back every Jahr.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Jahrestag",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Jahrestag is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Jahrestag, zwei ___",
+      "answer": "Jahrestage",
+      "fullAnswer": "ein Jahrestag, zwei Jahrestage",
+      "explanation": "The plural is Jahrestage.",
+      "acceptedAnswers": [
+        "Jahrestage"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Jahrestag mean?",
+      "options": [
+        "the key",
+        "anniversary",
+        "the bed"
+      ],
+      "answer": "anniversary",
+      "explanation": "Jahrestag: anniversary.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "A wedding anniversary:",
+      "options": [
+        "der Hochzeitstag",
+        "der Geburtstag"
+      ],
+      "answer": "der Hochzeitstag",
+      "explanation": "Hochzeitstag.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Berlin Wall fell on…",
+      "options": [
+        "9 November 1989",
+        "3 October 1990"
+      ],
+      "answer": "9 November 1989",
+      "explanation": "Mauerfall.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Jubiläum is used more for…",
+      "options": [
+        "institutions, round numbers",
+        "couples"
+      ],
+      "answer": "institutions, round numbers",
+      "explanation": "Jubiläum.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Jahrestag is the anniversary of an event: der Jahrestag des Mauerfalls (9 November 1989), der Jahrestag der Befreiung (8 May 1945). Couples also celebrate their Jahrestag, the anniversary of getting together; a wedding anniversary is der Hochzeitstag. For institutions with round numbers, das Jubiläum is common. 9 November is a heavy date in German history: 1918, 1923, 1938 and 1989. Plural: die Jahrestage."
+}

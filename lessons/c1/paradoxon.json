@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Paradoxon",
+    "partOfSpeech": "noun, neuter (das Paradoxon)",
+    "pronunciation": {
+      "respelling": "pa-RA-do-kson",
+      "ipa": "paˈʁadɔksɔn",
+      "notes": "Plural: die Paradoxa."
+    },
+    "meaning": "paradox",
+    "shortDefinition": "Paradox."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Paradoxon, plural die Paradoxa.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Paradoxon"
+        },
+        {
+          "label": "More than one",
+          "value": "die Paradoxa"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das ist ein klassisches Paradoxon.",
+      "english": "That's a classic paradox.",
+      "highlight": [
+        "Paradoxon."
+      ]
+    },
+    {
+      "german": "Zenon formulierte berühmte Paradoxa.",
+      "english": "Zeno formulated famous paradoxes.",
+      "highlight": [
+        "Paradoxa."
+      ]
+    }
+  ],
+  "forms": [
+    "Paradoxa",
+    "das Paradoxon",
+    "paradox"
+  ],
+  "memoryHook": "Paradoxon: against (para) opinion (doxa).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Paradoxon",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Paradoxon is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Paradoxon, zwei ___",
+      "answer": "Paradoxa",
+      "fullAnswer": "ein Paradoxon, zwei Paradoxa",
+      "explanation": "The plural is Paradoxa.",
+      "acceptedAnswers": [
+        "Paradoxa"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Paradoxon mean?",
+      "options": [
+        "to open",
+        "paradox",
+        "the job"
+      ],
+      "answer": "paradox",
+      "explanation": "Paradoxon: paradox.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Paradoxa",
+        "die Paradoxons only"
+      ],
+      "answer": "die Paradoxa",
+      "explanation": "Greek plural.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Paradox (adjective) means…",
+      "options": [
+        "paradoxical",
+        "a paradox"
+      ],
+      "answer": "paradoxical",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Paradoxerweise means…",
+      "options": [
+        "paradoxically",
+        "pair of doxes"
+      ],
+      "answer": "paradoxically",
+      "explanation": "Adverb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Paradoxon (also das Paradox) is a paradox: ein logisches Paradoxon, das Paradoxon von Achilles und der Schildkröte (Zeno). The Greek plural is die Paradoxa, though Paradoxien and Paradoxe also occur. Paradox is also an adjective: eine paradoxe Situation, and paradoxerweise means paradoxically. From Greek para (against) and doxa (opinion)."
+}

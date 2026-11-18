@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Hierarchie",
+    "partOfSpeech": "noun, feminine (die Hierarchie)",
+    "pronunciation": {
+      "respelling": "hi-e-rar-KHEE",
+      "ipa": "hi̯eʁaʁˈçiː",
+      "notes": "Plural: die Hierarchien."
+    },
+    "meaning": "hierarchy",
+    "shortDefinition": "Hierarchy."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Hierarchie, plural die Hierarchien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Hierarchie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Hierarchien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In der Firma gibt es flache Hierarchien.",
+      "english": "The company has flat hierarchies.",
+      "highlight": [
+        "Hierarchien."
+      ]
+    },
+    {
+      "german": "Er steht ganz oben in der Hierarchie.",
+      "english": "He's at the very top of the hierarchy.",
+      "highlight": [
+        "Hierarchie."
+      ]
+    }
+  ],
+  "forms": [
+    "Hierarchien",
+    "die Hierarchien",
+    "die Hierarchie",
+    "hierarchisch"
+  ],
+  "memoryHook": "Hierarchie: holy (hieros) rule (archein), a ranked order.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Hierarchie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Hierarchie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Hierarchie, zwei ___",
+      "answer": "Hierarchien",
+      "fullAnswer": "ein Hierarchie, zwei Hierarchien",
+      "explanation": "The plural is Hierarchien.",
+      "acceptedAnswers": [
+        "Hierarchien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Hierarchie mean?",
+      "options": [
+        "hierarchy",
+        "hot",
+        "expensive"
+      ],
+      "answer": "hierarchy",
+      "explanation": "Hierarchie: hierarchy.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Flache Hierarchien means…",
+      "options": [
+        "flat hierarchies",
+        "low hierarchies"
+      ],
+      "answer": "flat hierarchies",
+      "explanation": "Flat.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hierarchisch means…",
+      "options": [
+        "hierarchical",
+        "historical"
+      ],
+      "answer": "hierarchical",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress:",
+      "options": [
+        "hi-e-rar-CHIE",
+        "HI-e-rar-chie"
+      ],
+      "answer": "hi-e-rar-CHIE",
+      "explanation": "Last syllable.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Hierarchie is a hierarchy: eine strenge Hierarchie, flache Hierarchien (flat hierarchies, which many startups advertise). German workplaces are traditionally seen as quite hierarchical, with titles (Herr Doktor) and the formal Sie, though younger companies increasingly use du. Hierarchisch means hierarchical. From Greek hieros (holy) and archein (to rule). Plural: die Hierarchien."
+}

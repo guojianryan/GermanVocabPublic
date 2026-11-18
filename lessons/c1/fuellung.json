@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Füllung",
+    "partOfSpeech": "noun, feminine (die Füllung)",
+    "pronunciation": {
+      "respelling": "FÜ-lung",
+      "ipa": "ˈfʏlʊŋ",
+      "notes": "Plural: die Füllungen."
+    },
+    "meaning": "filling",
+    "shortDefinition": "Filling."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Füllung, plural die Füllungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Füllung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Füllungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Zahnarzt hat mir eine neue Füllung gemacht.",
+      "english": "The dentist gave me a new filling.",
+      "highlight": [
+        "Füllung"
+      ]
+    },
+    {
+      "german": "Die Füllung der Pralinen ist aus Nougat.",
+      "english": "The chocolates' filling is nougat.",
+      "highlight": [
+        "Füllung"
+      ]
+    }
+  ],
+  "forms": [
+    "Füllungen",
+    "die Füllungen",
+    "die Füllung"
+  ],
+  "memoryHook": "Füllung: what's gefüllt (filled) in.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Füllung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Füllung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Füllung, zwei ___",
+      "answer": "Füllungen",
+      "fullAnswer": "ein Füllung, zwei Füllungen",
+      "explanation": "The plural is Füllungen.",
+      "acceptedAnswers": [
+        "Fuellungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Füllung mean?",
+      "options": [
+        "the bill",
+        "to travel",
+        "filling"
+      ],
+      "answer": "filling",
+      "explanation": "Füllung: filling.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Füllen means…",
+      "options": [
+        "to fill",
+        "to feel"
+      ],
+      "answer": "to fill",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "At the dentist, die Füllung is…",
+      "options": [
+        "a filling",
+        "a cleaning"
+      ],
+      "answer": "a filling",
+      "explanation": "Dentist.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Fülle is…",
+      "options": [
+        "abundance, fullness",
+        "filling"
+      ],
+      "answer": "abundance, fullness",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Füllung is a filling: in food (die Füllung des Kuchens, Gans mit Füllung, stuffing), at the dentist (eine Zahnfüllung, Plombe) and in bedding (Daunenfüllung, down filling). Füllen means to fill, and die Fülle abundance: in Hülle und Fülle (in abundance). German Christmas biscuits and Pralinen come with many Füllungen. Plural: die Füllungen."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gedenktafel",
+    "partOfSpeech": "noun, feminine (die Gedenktafel)",
+    "pronunciation": {
+      "respelling": "ge-DENK-taa-fel",
+      "ipa": "ɡəˈdɛŋkˌtaːfl̩",
+      "notes": "Plural: die Gedenktafeln."
+    },
+    "meaning": "memorial plaque",
+    "shortDefinition": "Memorial plaque."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Gedenktafel, plural die Gedenktafeln.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Gedenktafel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gedenktafeln"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Eine Gedenktafel erinnert an den Dichter.",
+      "english": "A memorial plaque commemorates the poet.",
+      "highlight": [
+        "Gedenktafel"
+      ]
+    },
+    {
+      "german": "An diesem Haus hängt eine Gedenktafel.",
+      "english": "There's a memorial plaque on this house.",
+      "highlight": [
+        "Gedenktafel."
+      ]
+    }
+  ],
+  "forms": [
+    "Gedenktafeln",
+    "die Gedenktafel"
+  ],
+  "memoryHook": "Gedenktafel: a Tafel (plaque) for gedenken (remembering).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gedenktafel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Gedenktafel is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gedenktafel, zwei ___",
+      "answer": "Gedenktafeln",
+      "fullAnswer": "ein Gedenktafel, zwei Gedenktafeln",
+      "explanation": "The plural is Gedenktafeln.",
+      "acceptedAnswers": [
+        "Gedenktafeln"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gedenktafel mean?",
+      "options": [
+        "the key",
+        "memorial plaque",
+        "to help"
+      ],
+      "answer": "memorial plaque",
+      "explanation": "Gedenktafel: memorial plaque.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gedenken (+ genitive) means…",
+      "options": [
+        "to commemorate",
+        "to think up"
+      ],
+      "answer": "to commemorate",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stolpersteine are…",
+      "options": [
+        "brass plaques in the pavement for Nazi victims",
+        "street signs"
+      ],
+      "answer": "brass plaques in the pavement for Nazi victims",
+      "explanation": "Memorial.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Tafel is…",
+      "options": [
+        "board, plaque; table",
+        "a towel"
+      ],
+      "answer": "board, plaque; table",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Gedenktafel is a memorial plaque on a building, marking where a famous person lived or an event took place. Related are the Stolpersteine, small brass plaques set into the pavement by artist Gunter Demnig since the 1990s, each naming a victim of Nazi persecution outside their last chosen home; there are now over 100,000 across Europe. Gedenken means to commemorate. Plural: die Gedenktafeln."
+}

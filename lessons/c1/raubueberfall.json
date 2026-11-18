@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Raubüberfall",
+    "partOfSpeech": "noun, masculine (der Raubüberfall)",
+    "pronunciation": {
+      "respelling": "RAUP-ü-ber-fal",
+      "ipa": "ˈʁaʊ̯pʔyːbɐˌfal",
+      "notes": "Plural: die Raubüberfälle."
+    },
+    "meaning": "robbery, hold-up",
+    "shortDefinition": "Robbery, hold-up."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Raubüberfall, plural die Raubüberfälle.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Raubüberfall"
+        },
+        {
+          "label": "More than one",
+          "value": "die Raubüberfälle"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bei dem Raubüberfall wurde niemand verletzt.",
+      "english": "No one was hurt in the robbery.",
+      "highlight": [
+        "Raubüberfall"
+      ]
+    },
+    {
+      "german": "Die Bank wurde Ziel eines Raubüberfalls.",
+      "english": "The bank was the target of a robbery.",
+      "highlight": [
+        "Raubüberfalls."
+      ]
+    }
+  ],
+  "forms": [
+    "Raubüberfälle",
+    "der Raubüberfall"
+  ],
+  "memoryHook": "Raubüberfall: an Überfall (attack) to rauben (rob).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Raubüberfall",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Raubüberfall is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Raubüberfall, zwei ___",
+      "answer": "Raubüberfälle",
+      "fullAnswer": "ein Raubüberfall, zwei Raubüberfälle",
+      "explanation": "The plural is Raubüberfälle.",
+      "acceptedAnswers": [
+        "Raubueberfaelle"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Raubüberfall mean?",
+      "options": [
+        "the flower",
+        "robbery",
+        "to sleep"
+      ],
+      "answer": "robbery",
+      "explanation": "Raubüberfall: robbery, hold-up.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Raub vs. der Diebstahl:",
+      "options": [
+        "robbery (force) vs. theft",
+        "the same"
+      ],
+      "answer": "robbery (force) vs. theft",
+      "explanation": "Difference.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Überfall is…",
+      "options": [
+        "attack, raid",
+        "overflow"
+      ],
+      "answer": "attack, raid",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Räuber is…",
+      "options": [
+        "robber",
+        "rubber"
+      ],
+      "answer": "robber",
+      "explanation": "Person.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Raubüberfall is a robbery or hold-up: ein bewaffneter Raubüberfall auf eine Tankstelle. Legally, der Raub involves force or threats, unlike der Diebstahl (theft) or der Einbruch (burglary). Der Räuber is a robber, as in Schiller's play Die Räuber and the children's game Räuber und Gendarm (cops and robbers). Plural: die Raubüberfälle."
+}

@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "unbefristet",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "UN-be-fris-tet",
+      "ipa": "ˈʊnbəˌfʁɪstət",
+      "notes": ""
+    },
+    "meaning": "permanent, open-ended",
+    "shortDefinition": "Permanent, open-ended."
+  },
+  "sampleSentences": [
+    {
+      "german": "Sie hat endlich einen unbefristeten Vertrag.",
+      "english": "She finally has a permanent contract.",
+      "highlight": [
+        "unbefristeten"
+      ]
+    },
+    {
+      "german": "Die Streiks gehen unbefristet weiter.",
+      "english": "The strikes continue indefinitely.",
+      "highlight": [
+        "unbefristet"
+      ]
+    }
+  ],
+  "forms": [
+    "unbefristete",
+    "unbefristeten"
+  ],
+  "memoryHook": "Unbefristet: without (un) a Frist (time limit).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does unbefristet mean?",
+      "options": [
+        "to wait",
+        "permanent",
+        "the shop"
+      ],
+      "answer": "permanent",
+      "explanation": "unbefristet: permanent, open-ended.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein unbefristeter Vertrag is…",
+      "options": [
+        "a permanent contract",
+        "a temporary contract"
+      ],
+      "answer": "a permanent contract",
+      "explanation": "Permanent.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein unbefristeter Streik is…",
+      "options": [
+        "an indefinite strike",
+        "a short strike"
+      ],
+      "answer": "an indefinite strike",
+      "explanation": "Strike.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Opposite:",
+      "options": [
+        "befristet",
+        "unbegrenzt"
+      ],
+      "answer": "befristet",
+      "explanation": "Opposite.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Stelle (permanent)",
+      "answer": "unbefristete",
+      "fullAnswer": "eine unbefristete Stelle",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Unbefristet means permanent or open-ended: ein unbefristeter Arbeitsvertrag (permanent contract), eine unbefristete Aufenthaltserlaubnis (permanent residence permit), ein unbefristeter Streik (indefinite strike). The opposite is befristet (fixed-term). Even unbefristete contracts can be ended with a Kündigung, subject to protection against dismissal."
+}

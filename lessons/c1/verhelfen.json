@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verhelfen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-HEL-fen",
+      "ipa": "fɛɐ̯ˈhɛlfn̩",
+      "notes": ""
+    },
+    "meaning": "to help (someone) to get",
+    "shortDefinition": "To help (someone) to get."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verhelf|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verhilf|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verhilf|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verhelf|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verhelf|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verhelf|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verholfen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Trainer verhalf dem Team zum Sieg.",
+      "english": "The coach helped the team to victory.",
+      "highlight": [
+        "verhalf"
+      ]
+    },
+    {
+      "german": "Ein Freund hat ihm zu dem Job verholfen.",
+      "english": "A friend helped him get the job.",
+      "highlight": [
+        "verholfen."
+      ]
+    }
+  ],
+  "forms": [
+    "verhelfe",
+    "verhilfst",
+    "verhilft",
+    "verhelfen",
+    "verhelft",
+    "verholfen",
+    "verhalf"
+  ],
+  "memoryHook": "Verhelfen: helfen someone towards (zu) something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verhelfen)",
+      "answer": "verhilft",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verhilft.",
+      "acceptedAnswers": [
+        "verhilft"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verhelfen, past)",
+      "answer": "verholfen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verholfen.",
+      "acceptedAnswers": [
+        "verholfen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verhelfen mean?",
+      "options": [
+        "never",
+        "the shop",
+        "to help (someone) to get"
+      ],
+      "answer": "to help (someone) to get",
+      "explanation": "verhelfen: to help (someone) to get.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandem zu etwas verhelfen takes…",
+      "options": [
+        "dative person + zu + dative thing",
+        "accusative person"
+      ],
+      "answer": "dative person + zu + dative thing",
+      "explanation": "Grammar.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "verhalf, verholfen",
+        "verhelfte"
+      ],
+      "answer": "verhalf, verholfen",
+      "explanation": "Irregular.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandem zur Flucht verhelfen means…",
+      "options": [
+        "to help someone escape",
+        "to flee with someone"
+      ],
+      "answer": "to help someone escape",
+      "explanation": "Escape.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verhelfen means to help someone get or achieve something: jemandem zu einem Job, zum Erfolg, zur Flucht verhelfen. Note the structure: dative person + zu + the goal. Einer Sache zum Durchbruch verhelfen means to help something make its breakthrough. Irregular like helfen: verhalf, verholfen, er verhilft. Not separable."
+}

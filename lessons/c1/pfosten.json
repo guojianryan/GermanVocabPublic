@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Pfosten",
+    "partOfSpeech": "noun, masculine (der Pfosten)",
+    "pronunciation": {
+      "respelling": "PFOS-ten",
+      "ipa": "ˈp͡fɔstn̩",
+      "notes": "Plural: die Pfosten."
+    },
+    "meaning": "post; goalpost",
+    "shortDefinition": "Post; goalpost."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Pfosten, plural die Pfosten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Pfosten"
+        },
+        {
+          "label": "More than one",
+          "value": "die Pfosten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Ball traf nur den Pfosten.",
+      "english": "The ball only hit the post.",
+      "highlight": [
+        "Pfosten."
+      ]
+    },
+    {
+      "german": "Der Zaun hat Holzpfosten.",
+      "english": "The fence has wooden posts.",
+      "highlight": [
+        "Holzpfosten."
+      ]
+    }
+  ],
+  "forms": [
+    "die Pfosten",
+    "der Pfosten",
+    "Torpfosten"
+  ],
+  "memoryHook": "Pfosten: say the p, the ball hits the post.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Pfosten",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Pfosten is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Pfosten, zwei ___",
+      "answer": "Pfosten",
+      "fullAnswer": "ein Pfosten, zwei Pfosten",
+      "explanation": "The plural is Pfosten.",
+      "acceptedAnswers": [
+        "Pfosten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Pfosten mean?",
+      "options": [
+        "post",
+        "the bed",
+        "tomorrow"
+      ],
+      "answer": "post",
+      "explanation": "Pfosten: post; goalpost.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pronounce pf as…",
+      "options": [
+        "p + f together",
+        "just f"
+      ],
+      "answer": "p + f together",
+      "explanation": "PF-osten.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The crossbar is…",
+      "options": [
+        "die Latte",
+        "der Pfosten"
+      ],
+      "answer": "die Latte",
+      "explanation": "Latte.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Related English word:",
+      "options": [
+        "post",
+        "poster"
+      ],
+      "answer": "post",
+      "explanation": "Same Latin root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Pfosten is a post: der Zaunpfosten, der Türpfosten. In football, der Pfosten is the goalpost, and die Latte the crossbar: Der Ball ging an den Pfosten. Say both sounds of pf at once: PFOS-ten. It comes from Latin postis, like English post, and shows the High German sound shift that turned p into pf: Pfund (pound), Pfeffer (pepper), Pflanze (plant). The plural is the same."
+}

@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Altersarmut",
+    "partOfSpeech": "noun, feminine (die Altersarmut)",
+    "pronunciation": {
+      "respelling": "AL-ters-ar-moot",
+      "ipa": "ˈaltɐsˌʔaʁmuːt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "old-age poverty",
+    "shortDefinition": "Old-age poverty."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Altersarmut, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Altersarmut"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Viele Frauen sind von Altersarmut bedroht.",
+      "english": "Many women are at risk of poverty in old age.",
+      "highlight": [
+        "Altersarmut"
+      ]
+    },
+    {
+      "german": "Die Grundrente soll Altersarmut verhindern.",
+      "english": "The basic pension is meant to prevent old-age poverty.",
+      "highlight": [
+        "Altersarmut"
+      ]
+    }
+  ],
+  "forms": [
+    "die Altersarmut"
+  ],
+  "memoryHook": "Altersarmut: Armut (poverty) in old age (Alter).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Altersarmut",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Altersarmut is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Altersarmut mean?",
+      "options": [
+        "the key",
+        "to open",
+        "old-age poverty"
+      ],
+      "answer": "old-age poverty",
+      "explanation": "Altersarmut: old-age poverty.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Armut is…",
+      "options": [
+        "poverty",
+        "army"
+      ],
+      "answer": "poverty",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Grundrente (2021) is…",
+      "options": [
+        "a pension top-up for long-term low earners",
+        "a basic income"
+      ],
+      "answer": "a pension top-up for long-term low earners",
+      "explanation": "Pension.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Women are more affected because of…",
+      "options": [
+        "part-time work and career breaks",
+        "longer working hours"
+      ],
+      "answer": "part-time work and career breaks",
+      "explanation": "Women.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Altersarmut is old-age poverty, a major social issue in Germany. Women are particularly affected because of part-time work, career breaks for children and lower wages, so their pensions are on average much lower than men's. Since 2021, the Grundrente tops up pensions for people with at least 33 years of contributions on low incomes. Many pensioners collect bottles for the Pfand. It has no plural."
+}

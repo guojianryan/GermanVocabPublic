@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kreuzzug",
+    "partOfSpeech": "noun, masculine (der Kreuzzug)",
+    "pronunciation": {
+      "respelling": "KROYTS-tsook",
+      "ipa": "ˈkʁɔɪ̯t͡sˌt͡suːk",
+      "notes": "Plural: die Kreuzzüge."
+    },
+    "meaning": "crusade",
+    "shortDefinition": "Crusade."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kreuzzug, plural die Kreuzzüge.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kreuzzug"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kreuzzüge"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Friedrich Barbarossa starb auf dem dritten Kreuzzug.",
+      "english": "Frederick Barbarossa died on the Third Crusade.",
+      "highlight": [
+        "Kreuzzug."
+      ]
+    },
+    {
+      "german": "Sie führt einen Kreuzzug gegen den Zucker.",
+      "english": "She's on a crusade against sugar.",
+      "highlight": [
+        "Kreuzzug"
+      ]
+    }
+  ],
+  "forms": [
+    "Kreuzzüge",
+    "der Kreuzzug"
+  ],
+  "memoryHook": "Kreuzzug: a Zug (campaign) under the Kreuz (cross).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kreuzzug",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kreuzzug is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kreuzzug, zwei ___",
+      "answer": "Kreuzzüge",
+      "fullAnswer": "ein Kreuzzug, zwei Kreuzzüge",
+      "explanation": "The plural is Kreuzzüge.",
+      "acceptedAnswers": [
+        "Kreuzzuege"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kreuzzug mean?",
+      "options": [
+        "crusade",
+        "to sing",
+        "to travel"
+      ],
+      "answer": "crusade",
+      "explanation": "Kreuzzug: crusade.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Barbarossa drowned in 1190 in…",
+      "options": [
+        "a river in Anatolia",
+        "the Rhine"
+      ],
+      "answer": "a river in Anatolia",
+      "explanation": "History.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kreuzritter is…",
+      "options": [
+        "crusader knight",
+        "a cross-country rider"
+      ],
+      "answer": "crusader knight",
+      "explanation": "Person.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, ein Kreuzzug is…",
+      "options": [
+        "a zealous campaign",
+        "a train journey"
+      ],
+      "answer": "a zealous campaign",
+      "explanation": "Figurative.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Kreuzzug is a crusade. The medieval Kreuzzüge (1096 onwards) also involved German rulers: Emperor Frederick Barbarossa drowned in 1190 in the Saleph river in Anatolia on the Third Crusade. The Crusades also brought massacres of Jewish communities in Rhineland cities like Mainz and Worms in 1096. Figuratively, einen Kreuzzug führen gegen means to campaign zealously. Plural: die Kreuzzüge."
+}

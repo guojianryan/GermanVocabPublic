@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Demokrat",
+    "partOfSpeech": "noun, masculine (der Demokrat)",
+    "pronunciation": {
+      "respelling": "de-mo-KRAAT",
+      "ipa": "demoˈkʁaːt",
+      "notes": "Plural: die Demokraten."
+    },
+    "meaning": "democrat",
+    "shortDefinition": "Democrat."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Demokrat, plural die Demokraten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Demokrat"
+        },
+        {
+          "label": "More than one",
+          "value": "die Demokraten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er ist ein überzeugter Demokrat.",
+      "english": "He's a committed democrat.",
+      "highlight": [
+        "Demokrat."
+      ]
+    },
+    {
+      "german": "Die Demokraten gewannen die Wahl.",
+      "english": "The Democrats won the election.",
+      "highlight": [
+        "Demokraten"
+      ]
+    }
+  ],
+  "forms": [
+    "Demokraten",
+    "die Demokraten",
+    "der Demokrat",
+    "Demokratin",
+    "demokratisch"
+  ],
+  "memoryHook": "Demokrat: rule (kratos) by the people (demos).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Demokrat",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Demokrat is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Demokrat, zwei ___",
+      "answer": "Demokraten",
+      "fullAnswer": "ein Demokrat, zwei Demokraten",
+      "explanation": "The plural is Demokraten.",
+      "acceptedAnswers": [
+        "Demokraten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Demokrat mean?",
+      "options": [
+        "hot",
+        "the bed",
+        "democrat"
+      ],
+      "answer": "democrat",
+      "explanation": "Demokrat: democrat.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Weak noun, accusative:",
+      "options": [
+        "den Demokraten",
+        "den Demokrat"
+      ],
+      "answer": "den Demokraten",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Demokratisch means…",
+      "options": [
+        "democratic",
+        "demographic"
+      ],
+      "answer": "democratic",
+      "explanation": "demokratisch.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress on…",
+      "options": [
+        "-KRAT",
+        "DE-"
+      ],
+      "answer": "-KRAT",
+      "explanation": "de-mo-KRAAT.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Demokrat (die Demokratin) is a democrat, someone who supports democracy: ein überzeugter Demokrat. In US politics, die Demokraten are the Democratic Party. It's a weak noun: den Demokraten. Germany calls itself a wehrhafte Demokratie (a democracy that can defend itself), meaning parties that fight the constitution can be banned. From Greek demos (people) and kratos (power)."
+}

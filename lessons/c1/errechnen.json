@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "errechnen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "er-REKH-nen",
+      "ipa": "ɛɐ̯ˈʁɛçnən",
+      "notes": ""
+    },
+    "meaning": "to calculate, work out",
+    "shortDefinition": "To calculate, work out."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "errechn|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "errechn|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "errechn|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "errechn|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "errechn|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "errechn|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat errechnet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Forscher haben den Schaden auf zwei Milliarden errechnet.",
+      "english": "Researchers calculated the damage at two billion.",
+      "highlight": [
+        "errechnet."
+      ]
+    },
+    {
+      "german": "Der errechnete Geburtstermin ist im Mai.",
+      "english": "The due date is in May.",
+      "highlight": [
+        "errechnete"
+      ]
+    }
+  ],
+  "forms": [
+    "errechne",
+    "errechnest",
+    "errechnet",
+    "errechnen"
+  ],
+  "memoryHook": "Errechnen: rechnen (calculate) until you have (er-) the result.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (errechnen)",
+      "answer": "errechnet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: errechnet.",
+      "acceptedAnswers": [
+        "errechnet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (errechnen, past)",
+      "answer": "errechnet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe errechnet.",
+      "acceptedAnswers": [
+        "errechnet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does errechnen mean?",
+      "options": [
+        "hot",
+        "to calculate",
+        "the bill"
+      ],
+      "answer": "to calculate",
+      "explanation": "errechnen: to calculate, work out.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Errechnen focuses on…",
+      "options": [
+        "the result of a calculation",
+        "the process only"
+      ],
+      "answer": "the result of a calculation",
+      "explanation": "Result.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der errechnete Geburtstermin is…",
+      "options": [
+        "the calculated due date",
+        "a birthday"
+      ],
+      "answer": "the calculated due date",
+      "explanation": "Due date.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rechnen means…",
+      "options": [
+        "to calculate, count",
+        "to be right"
+      ],
+      "answer": "to calculate, count",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Errechnen means to calculate or work out a result: die Kosten errechnen, Experten haben errechnet, dass... It's common in news about studies and statistics. Der errechnete Geburtstermin is a baby's calculated due date. Rechnen means to calculate in general, and berechnen to calculate or charge: Wir berechnen Ihnen 50 Euro. The prefix er- often signals reaching a result. Not separable: hat errechnet."
+}

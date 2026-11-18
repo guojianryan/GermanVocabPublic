@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Optik",
+    "partOfSpeech": "noun, feminine (die Optik)",
+    "pronunciation": {
+      "respelling": "OP-tik",
+      "ipa": "ˈɔptɪk",
+      "notes": "Plural: die Optiken."
+    },
+    "meaning": "optics; look, appearance",
+    "shortDefinition": "Optics; look, appearance."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Optik, plural die Optiken.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Optik"
+        },
+        {
+          "label": "More than one",
+          "value": "die Optiken"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das neue Design hat eine moderne Optik.",
+      "english": "The new design has a modern look.",
+      "highlight": [
+        "Optik."
+      ]
+    },
+    {
+      "german": "Er studiert Optik und Photonik.",
+      "english": "He's studying optics and photonics.",
+      "highlight": [
+        "Optik"
+      ]
+    }
+  ],
+  "forms": [
+    "Optiken",
+    "die Optiken",
+    "die Optik",
+    "optisch"
+  ],
+  "memoryHook": "Optik: the science of light, and how things look.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Optik",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Optik is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Optik, zwei ___",
+      "answer": "Optiken",
+      "fullAnswer": "ein Optik, zwei Optiken",
+      "explanation": "The plural is Optiken.",
+      "acceptedAnswers": [
+        "Optiken"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Optik mean?",
+      "options": [
+        "optics",
+        "the bill",
+        "the weather"
+      ],
+      "answer": "optics",
+      "explanation": "Optik: optics; look, appearance.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Casually, die Optik means…",
+      "options": [
+        "the look, visual appearance",
+        "the optician"
+      ],
+      "answer": "the look, visual appearance",
+      "explanation": "Look.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Optiker is…",
+      "options": [
+        "the optician",
+        "the optimist"
+      ],
+      "answer": "the optician",
+      "explanation": "Optiker.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Holzoptik means…",
+      "options": [
+        "wood look (imitation)",
+        "real wood"
+      ],
+      "answer": "wood look (imitation)",
+      "explanation": "Imitation.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Optik is optics, the science of light: Jena is a historic centre of German optics, home of Carl Zeiss. In everyday speech, it means the look or appearance: eine schicke Optik, Laminat in Holzoptik (wood-look laminate). In politics, die Optik means how something looks to the public: Die Optik ist schlecht (it looks bad). Der Optiker is an optician, where Germans buy glasses. Optisch means visual."
+}

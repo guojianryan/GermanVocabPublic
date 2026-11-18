@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kontostand",
+    "partOfSpeech": "noun, masculine (der Kontostand)",
+    "pronunciation": {
+      "respelling": "KON-to-shtant",
+      "ipa": "ˈkɔntoˌʃtant",
+      "notes": "Plural: die Kontostände."
+    },
+    "meaning": "account balance",
+    "shortDefinition": "Account balance."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kontostand, plural die Kontostände.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kontostand"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kontostände"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich prüfe meinen Kontostand in der App.",
+      "english": "I check my account balance in the app.",
+      "highlight": [
+        "Kontostand"
+      ]
+    },
+    {
+      "german": "Am Monatsende ist der Kontostand oft im Minus.",
+      "english": "At the end of the month the balance is often in the red.",
+      "highlight": [
+        "Kontostand"
+      ]
+    }
+  ],
+  "forms": [
+    "Kontostände",
+    "der Kontostand"
+  ],
+  "memoryHook": "Kontostand: the Stand (state) of your Konto (account).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kontostand",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kontostand is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kontostand, zwei ___",
+      "answer": "Kontostände",
+      "fullAnswer": "ein Kontostand, zwei Kontostände",
+      "explanation": "The plural is Kontostände.",
+      "acceptedAnswers": [
+        "Kontostaende"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kontostand mean?",
+      "options": [
+        "to wait",
+        "to buy",
+        "account balance"
+      ],
+      "answer": "account balance",
+      "explanation": "Kontostand: account balance.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Im Minus sein means…",
+      "options": [
+        "to be overdrawn, in the red",
+        "to be cold"
+      ],
+      "answer": "to be overdrawn, in the red",
+      "explanation": "Phrase.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Dispo is…",
+      "options": [
+        "overdraft facility",
+        "a disposal"
+      ],
+      "answer": "overdraft facility",
+      "explanation": "Banking.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Konto is…",
+      "options": [
+        "account",
+        "counter"
+      ],
+      "answer": "account",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Kontostand is an account balance: den Kontostand abfragen, ein Kontostand im Minus (overdrawn). German banks offer a Dispositionskredit (Dispo), an overdraft, often with high interest. Statements are der Kontoauszug, and transfers are Überweisungen. Das Konto is the account. Plural: die Kontostände."
+}

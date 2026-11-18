@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Herzstück",
+    "partOfSpeech": "noun, neuter (das Herzstück)",
+    "pronunciation": {
+      "respelling": "HERTS-shtük",
+      "ipa": "ˈhɛʁt͡sˌʃtʏk",
+      "notes": "Plural: die Herzstücke."
+    },
+    "meaning": "centrepiece, core",
+    "shortDefinition": "Centrepiece, core."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Herzstück, plural die Herzstücke.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Herzstück"
+        },
+        {
+          "label": "More than one",
+          "value": "die Herzstücke"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Küche ist das Herzstück der Wohnung.",
+      "english": "The kitchen is the heart of the flat.",
+      "highlight": [
+        "Herzstück"
+      ]
+    },
+    {
+      "german": "Das Herzstück der Reform ist die neue Rente.",
+      "english": "The core of the reform is the new pension.",
+      "highlight": [
+        "Herzstück"
+      ]
+    }
+  ],
+  "forms": [
+    "Herzstücke",
+    "das Herzstück"
+  ],
+  "memoryHook": "Herzstück: the Stück (piece) at the Herz (heart).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Herzstück",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Herzstück is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Herzstück, zwei ___",
+      "answer": "Herzstücke",
+      "fullAnswer": "ein Herzstück, zwei Herzstücke",
+      "explanation": "The plural is Herzstücke.",
+      "acceptedAnswers": [
+        "Herzstuecke"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Herzstück mean?",
+      "options": [
+        "to learn",
+        "centrepiece",
+        "the evening"
+      ],
+      "answer": "centrepiece",
+      "explanation": "Herzstück: centrepiece, core.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Herzstück is…",
+      "options": [
+        "the centrepiece, heart",
+        "a piece of heart"
+      ],
+      "answer": "the centrepiece, heart",
+      "explanation": "Core.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Kern, das Kernstück",
+        "der Rand"
+      ],
+      "answer": "der Kern, das Kernstück",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Herz is…",
+      "options": [
+        "heart",
+        "hearth"
+      ],
+      "answer": "heart",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Herzstück is the centrepiece or core: das Herzstück der Ausstellung, der Reform, des Programms. It's common in politics, marketing and architecture. Synonyms: das Kernstück, der Kern, das Zentrum. In railway engineering, das Herzstück is the frog of a switch. Plural: die Herzstücke."
+}

@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "schaufeln",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHAU-feln",
+      "ipa": "ˈʃaʊ̯fl̩n",
+      "notes": ""
+    },
+    "meaning": "to shovel, dig",
+    "shortDefinition": "To shovel, dig."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schaufl|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schaufel|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schaufel|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schaufel|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schaufel|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schaufel|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geschaufelt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er schaufelt Schnee vor der Haustür.",
+      "english": "He shovels snow in front of the door.",
+      "highlight": [
+        "schaufelt"
+      ]
+    },
+    {
+      "german": "Die Partei hat sich ihr eigenes Grab geschaufelt.",
+      "english": "The party has dug its own grave.",
+      "highlight": [
+        "geschaufelt."
+      ]
+    }
+  ],
+  "forms": [
+    "schaufle",
+    "schaufelst",
+    "schaufelt",
+    "schaufeln",
+    "geschaufelt",
+    "schaufelte",
+    "Schaufel"
+  ],
+  "memoryHook": "Schaufeln: work with a Schaufel (shovel).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (schaufeln)",
+      "answer": "schaufelt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schaufelt.",
+      "acceptedAnswers": [
+        "schaufelt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (schaufeln, past)",
+      "answer": "geschaufelt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geschaufelt.",
+      "acceptedAnswers": [
+        "geschaufelt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does schaufeln mean?",
+      "options": [
+        "to travel",
+        "to shovel",
+        "tomorrow"
+      ],
+      "answer": "to shovel",
+      "explanation": "schaufeln: to shovel, dig.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schaufel is…",
+      "options": [
+        "shovel",
+        "a rocking chair"
+      ],
+      "answer": "shovel",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich sein eigenes Grab schaufeln means…",
+      "options": [
+        "to dig one's own grave",
+        "to garden"
+      ],
+      "answer": "to dig one's own grave",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schaufelbagger is…",
+      "options": [
+        "excavator, digger",
+        "a shovel shop"
+      ],
+      "answer": "excavator, digger",
+      "explanation": "Compound.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Schaufeln means to shovel or dig: Schnee schaufeln, Sand schaufeln, ein Loch schaufeln. In many German towns, residents must clear snow from the pavement in front of their house (Räum- und Streupflicht). Sich sein eigenes Grab schaufeln means to dig one's own grave. Die Schaufel is a shovel, and die Schaufelradbagger are the giant excavators of lignite mines. Regular: schaufelte, geschaufelt."
+}

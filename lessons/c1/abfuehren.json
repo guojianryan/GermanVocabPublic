@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "abführen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AP-fü-ren",
+      "ipa": "ˈapˌfyːʁən",
+      "notes": ""
+    },
+    "meaning": "to lead away (arrest); to pay over; to purge",
+    "shortDefinition": "To lead away (arrest); to pay over; to purge."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "führ|e … |ab"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "führ|st … |ab"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "führ|t … |ab"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "führ|en … |ab"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "führ|t … |ab"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "führ|en … |ab"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat abgeführt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Verdächtige wurde in Handschellen abgeführt.",
+      "english": "The suspect was led away in handcuffs.",
+      "highlight": [
+        "abgeführt."
+      ]
+    },
+    {
+      "german": "Der Arbeitgeber führt die Steuern ans Finanzamt ab.",
+      "english": "The employer pays the taxes over to the tax office.",
+      "highlight": [
+        "führt",
+        "ab."
+      ]
+    }
+  ],
+  "forms": [
+    "führe ab",
+    "führst ab",
+    "führt ab",
+    "führen ab",
+    "abgeführt",
+    "führte ab",
+    "Abführmittel"
+  ],
+  "memoryHook": "Abführen: führen (lead) someone away (ab).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ab (abführen)",
+      "answer": "führt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: führt … ab.",
+      "acceptedAnswers": [
+        "fuehrt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (abführen, past)",
+      "answer": "abgeführt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe abgeführt.",
+      "acceptedAnswers": [
+        "abgefuehrt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does abführen mean?",
+      "options": [
+        "the street",
+        "to lead away (arrest)",
+        "to wait"
+      ],
+      "answer": "to lead away (arrest)",
+      "explanation": "abführen: to lead away (arrest); to pay over; to purge.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Steuern abführen means…",
+      "options": [
+        "to pay taxes over (to the authority)",
+        "to avoid taxes"
+      ],
+      "answer": "to pay taxes over (to the authority)",
+      "explanation": "Taxes.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Abführmittel is…",
+      "options": [
+        "laxative",
+        "a sedative"
+      ],
+      "answer": "laxative",
+      "explanation": "Medicine.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Abführend (medicine) means…",
+      "options": [
+        "laxative",
+        "leading"
+      ],
+      "answer": "laxative",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Abführen means to lead away, typically by police: in Handschellen abgeführt. In finance, it means to pay over money one has collected: Steuern, Sozialabgaben ans Finanzamt abführen; employers abführen wage tax directly. In medicine, abführend means laxative, and das Abführmittel is a laxative: Pflaumen wirken abführend. Separable: führte ab, abgeführt."
+}

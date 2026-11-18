@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Volatilität",
+    "partOfSpeech": "noun, feminine (die Volatilität)",
+    "pronunciation": {
+      "respelling": "vo-la-ti-li-TAIT",
+      "ipa": "volatiliˈtɛːt",
+      "notes": "Plural: die Volatilitäten."
+    },
+    "meaning": "volatility",
+    "shortDefinition": "Volatility."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Volatilität, plural die Volatilitäten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Volatilität"
+        },
+        {
+          "label": "More than one",
+          "value": "die Volatilitäten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Volatilität an den Börsen ist gestiegen.",
+      "english": "Volatility on the stock markets has risen.",
+      "highlight": [
+        "Volatilität"
+      ]
+    },
+    {
+      "german": "Kryptowährungen sind für ihre hohe Volatilität bekannt.",
+      "english": "Cryptocurrencies are known for their high volatility.",
+      "highlight": [
+        "Volatilität"
+      ]
+    }
+  ],
+  "forms": [
+    "Volatilitäten",
+    "die Volatilität"
+  ],
+  "memoryHook": "Volatilität: Latin volatilis, flying, fleeting.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Volatilität",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Volatilität is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Volatilität, zwei ___",
+      "answer": "Volatilitäten",
+      "fullAnswer": "ein Volatilität, zwei Volatilitäten",
+      "explanation": "The plural is Volatilitäten.",
+      "acceptedAnswers": [
+        "Volatilitaeten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Volatilität mean?",
+      "options": [
+        "the job",
+        "volatility",
+        "the station"
+      ],
+      "answer": "volatility",
+      "explanation": "Volatilität: volatility.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Volatil means…",
+      "options": [
+        "volatile",
+        "voluntary"
+      ],
+      "answer": "volatile",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Typical context:",
+      "options": [
+        "finance, markets",
+        "music"
+      ],
+      "answer": "finance, markets",
+      "explanation": "Usage.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Schwankungsanfälligkeit, die Unbeständigkeit",
+        "die Stabilität"
+      ],
+      "answer": "die Schwankungsanfälligkeit, die Unbeständigkeit",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Volatilität is volatility, the degree of fluctuation, mainly in finance: die Volatilität der Märkte, der Aktie. Volatil means volatile, also in politics: eine volatile Lage. Native synonyms are die Schwankungsbreite and die Unbeständigkeit. Germany's VDAX index measures expected volatility of the DAX. The opposite is die Stabilität. Plural: die Volatilitäten."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Entschluss",
+    "partOfSpeech": "noun, masculine (der Entschluss)",
+    "pronunciation": {
+      "respelling": "ent-SHLUS",
+      "ipa": "ɛntˈʃlʊs",
+      "notes": "Plural: die Entschlüsse."
+    },
+    "meaning": "decision, resolution",
+    "shortDefinition": "Decision, resolution."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Entschluss, plural die Entschlüsse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Entschluss"
+        },
+        {
+          "label": "More than one",
+          "value": "die Entschlüsse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich habe den Entschluss gefasst, umzuziehen.",
+      "english": "I've decided to move.",
+      "highlight": [
+        "Entschluss"
+      ]
+    },
+    {
+      "german": "Das war ein mutiger Entschluss.",
+      "english": "That was a brave decision.",
+      "highlight": [
+        "Entschluss."
+      ]
+    }
+  ],
+  "forms": [
+    "Entschlüsse",
+    "die Entschlüsse",
+    "der Entschluss",
+    "entschlossen"
+  ],
+  "memoryHook": "Entschluss: when you've closed (schließen) the question.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Entschluss",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Entschluss is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Entschluss, zwei ___",
+      "answer": "Entschlüsse",
+      "fullAnswer": "ein Entschluss, zwei Entschlüsse",
+      "explanation": "The plural is Entschlüsse.",
+      "acceptedAnswers": [
+        "Entschluesse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Entschluss mean?",
+      "options": [
+        "cheap",
+        "the street",
+        "decision"
+      ],
+      "answer": "decision",
+      "explanation": "Entschluss: decision, resolution.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einen Entschluss fassen means…",
+      "options": [
+        "to make a decision",
+        "to grab a resolution"
+      ],
+      "answer": "to make a decision",
+      "explanation": "Fixed phrase.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Entschlossen means…",
+      "options": [
+        "determined",
+        "closed"
+      ],
+      "answer": "determined",
+      "explanation": "Determined.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich entschließen means…",
+      "options": [
+        "to decide, make up one's mind",
+        "to unlock"
+      ],
+      "answer": "to decide, make up one's mind",
+      "explanation": "Decide.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Entschluss is a decision or resolution, usually a personal and firm one: einen Entschluss fassen (to make a decision). It's close to die Entscheidung, but Entschluss stresses the resolve behind it. Sich entschließen means to make up your mind: Ich habe mich entschlossen, Deutsch zu lernen. Entschlossen means determined, and die Entschlossenheit is determination. From schließen (to close). Plural: die Entschlüsse."
+}

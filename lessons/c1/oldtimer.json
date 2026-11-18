@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Oldtimer",
+    "partOfSpeech": "noun, masculine (der Oldtimer)",
+    "pronunciation": {
+      "respelling": "OLT-tai-mer",
+      "ipa": "ˈoːltˌtaɪ̯mɐ",
+      "notes": "Plural: die Oldtimer."
+    },
+    "meaning": "vintage car, classic car",
+    "shortDefinition": "Vintage car, classic car."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Oldtimer, plural die Oldtimer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Oldtimer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Oldtimer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er restauriert Oldtimer in seiner Garage.",
+      "english": "He restores vintage cars in his garage.",
+      "highlight": [
+        "Oldtimer"
+      ]
+    },
+    {
+      "german": "Der Käfer ist ein beliebter Oldtimer.",
+      "english": "The Beetle is a popular classic car.",
+      "highlight": [
+        "Oldtimer."
+      ]
+    }
+  ],
+  "forms": [
+    "die Oldtimer",
+    "der Oldtimer"
+  ],
+  "memoryHook": "Oldtimer: pseudo-English for a classic vehicle.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Oldtimer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Oldtimer is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Oldtimer, zwei ___",
+      "answer": "Oldtimer",
+      "fullAnswer": "ein Oldtimer, zwei Oldtimer",
+      "explanation": "The plural is Oldtimer.",
+      "acceptedAnswers": [
+        "Oldtimer"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Oldtimer mean?",
+      "options": [
+        "to help",
+        "vintage car",
+        "the door"
+      ],
+      "answer": "vintage car",
+      "explanation": "Oldtimer: vintage car, classic car.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In German, Oldtimer means…",
+      "options": [
+        "a vintage vehicle",
+        "an old person"
+      ],
+      "answer": "a vintage vehicle",
+      "explanation": "Pseudo-English.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "An H-Kennzeichen (H plate) is for cars…",
+      "options": [
+        "at least 30 years old",
+        "from Hamburg"
+      ],
+      "answer": "at least 30 years old",
+      "explanation": "H plate.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Käfer is…",
+      "options": [
+        "the VW Beetle",
+        "a Porsche"
+      ],
+      "answer": "the VW Beetle",
+      "explanation": "Beetle.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Oldtimer is a pseudo-English word for a vintage or classic vehicle, not an old person. In Germany, cars over 30 years old in good original condition can get an H-Kennzeichen (historic number plate) with lower tax and exemption from city low-emission zones. The VW Käfer (Beetle), built in Wolfsburg from 1945 and in Mexico until 2003, and the Mercedes 300 SL are classics. Plural: die Oldtimer."
+}

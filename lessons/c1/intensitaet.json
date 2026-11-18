@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Intensität",
+    "partOfSpeech": "noun, feminine (die Intensität)",
+    "pronunciation": {
+      "respelling": "in-ten-zi-TAIT",
+      "ipa": "ɪntɛnziˈtɛːt",
+      "notes": "Plural: die Intensitäten."
+    },
+    "meaning": "intensity",
+    "shortDefinition": "Intensity."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Intensität, plural die Intensitäten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Intensität"
+        },
+        {
+          "label": "More than one",
+          "value": "die Intensitäten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Intensität des Trainings wird gesteigert.",
+      "english": "The intensity of the training is being increased.",
+      "highlight": [
+        "Intensität"
+      ]
+    },
+    {
+      "german": "Der Sturm nahm an Intensität zu.",
+      "english": "The storm grew in intensity.",
+      "highlight": [
+        "Intensität"
+      ]
+    }
+  ],
+  "forms": [
+    "Intensitäten",
+    "die Intensität",
+    "intensiv"
+  ],
+  "memoryHook": "Intensität: how intensiv something is.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Intensität",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Intensität is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Intensität, zwei ___",
+      "answer": "Intensitäten",
+      "fullAnswer": "ein Intensität, zwei Intensitäten",
+      "explanation": "The plural is Intensitäten.",
+      "acceptedAnswers": [
+        "Intensitaeten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Intensität mean?",
+      "options": [
+        "to buy",
+        "always",
+        "intensity"
+      ],
+      "answer": "intensity",
+      "explanation": "Intensität: intensity.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Intensiv means…",
+      "options": [
+        "intense, intensive",
+        "intentional"
+      ],
+      "answer": "intense, intensive",
+      "explanation": "intensiv.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Intensivstation is…",
+      "options": [
+        "the intensive care unit",
+        "a gym"
+      ],
+      "answer": "the intensive care unit",
+      "explanation": "ICU.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "-tät nouns are…",
+      "options": [
+        "feminine",
+        "neuter"
+      ],
+      "answer": "feminine",
+      "explanation": "die Intensität.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Intensität is intensity: die Intensität des Lichts, an Intensität zunehmen (to grow in intensity). Intensiv means intense or intensive: ein intensiver Kurs, intensive Gespräche. Die Intensivstation is the intensive care unit, often shortened to die Intensiv. Like all nouns ending in -tät (Qualität, Realität, Universität), it's feminine and stressed on the last syllable: in-ten-zi-TAIT."
+}

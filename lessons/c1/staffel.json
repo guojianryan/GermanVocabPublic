@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Staffel",
+    "partOfSpeech": "noun, feminine (die Staffel)",
+    "pronunciation": {
+      "respelling": "SHTAF-el",
+      "ipa": "ˈʃtafl̩",
+      "notes": "Plural: die Staffeln."
+    },
+    "meaning": "season (TV series); relay team",
+    "shortDefinition": "Season (TV series); relay team."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Staffel, plural die Staffeln.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Staffel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Staffeln"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die dritte Staffel kommt im Herbst.",
+      "english": "The third season comes out in autumn.",
+      "highlight": [
+        "Staffel"
+      ]
+    },
+    {
+      "german": "Die deutsche Staffel gewann Gold.",
+      "english": "The German relay team won gold.",
+      "highlight": [
+        "Staffel"
+      ]
+    }
+  ],
+  "forms": [
+    "Staffeln",
+    "die Staffeln",
+    "die Staffel",
+    "Staffellauf"
+  ],
+  "memoryHook": "Staffel: series season or relay team, passing the baton.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Staffel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Staffel is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Staffel, zwei ___",
+      "answer": "Staffeln",
+      "fullAnswer": "ein Staffel, zwei Staffeln",
+      "explanation": "The plural is Staffeln.",
+      "acceptedAnswers": [
+        "Staffeln"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Staffel mean?",
+      "options": [
+        "season (TV series)",
+        "to open",
+        "to help"
+      ],
+      "answer": "season (TV series)",
+      "explanation": "Staffel: season (TV series); relay team.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "A TV season in German is…",
+      "options": [
+        "eine Staffel",
+        "eine Saison"
+      ],
+      "answer": "eine Staffel",
+      "explanation": "Series seasons are Staffeln.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Staffellauf is…",
+      "options": [
+        "a relay race",
+        "a staircase"
+      ],
+      "answer": "a relay race",
+      "explanation": "Relay.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Folge is…",
+      "options": [
+        "an episode",
+        "a season"
+      ],
+      "answer": "an episode",
+      "explanation": "Folge = episode.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Staffel is a season of a TV series: Ich schaue gerade die zweite Staffel. An episode is eine Folge. In sport, die Staffel is a relay team, and der Staffellauf a relay race. The football season, however, is die Saison. Die Staffelung is a gradation or scale, as in gestaffelte Preise (tiered prices). The word goes back to an old word for a step or rung: Staffel is related to English staple and stave."
+}

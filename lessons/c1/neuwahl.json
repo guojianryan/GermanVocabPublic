@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Neuwahl",
+    "partOfSpeech": "noun, feminine (die Neuwahl)",
+    "pronunciation": {
+      "respelling": "NOY-vaal",
+      "ipa": "ˈnɔɪ̯ˌvaːl",
+      "notes": "Plural: die Neuwahlen."
+    },
+    "meaning": "new election, snap election",
+    "shortDefinition": "New election, snap election."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Neuwahl, plural die Neuwahlen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Neuwahl"
+        },
+        {
+          "label": "More than one",
+          "value": "die Neuwahlen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nach dem Bruch der Koalition gab es Neuwahlen.",
+      "english": "After the coalition collapsed there were new elections.",
+      "highlight": [
+        "Neuwahlen."
+      ]
+    },
+    {
+      "german": "Die Opposition fordert Neuwahlen.",
+      "english": "The opposition is calling for new elections.",
+      "highlight": [
+        "Neuwahlen."
+      ]
+    }
+  ],
+  "forms": [
+    "Neuwahlen",
+    "die Neuwahlen",
+    "die Neuwahl"
+  ],
+  "memoryHook": "Neuwahl: a neue (new) Wahl before the term ends.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Neuwahl",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Neuwahl is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Neuwahl, zwei ___",
+      "answer": "Neuwahlen",
+      "fullAnswer": "ein Neuwahl, zwei Neuwahlen",
+      "explanation": "The plural is Neuwahlen.",
+      "acceptedAnswers": [
+        "Neuwahlen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Neuwahl mean?",
+      "options": [
+        "new election",
+        "quiet",
+        "the evening"
+      ],
+      "answer": "new election",
+      "explanation": "Neuwahl: new election, snap election.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mostly used in the…",
+      "options": [
+        "plural (Neuwahlen)",
+        "singular"
+      ],
+      "answer": "plural (Neuwahlen)",
+      "explanation": "Neuwahlen.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Can the Bundestag dissolve itself?",
+      "options": [
+        "No; the president dissolves it after a lost confidence vote",
+        "Yes, any time"
+      ],
+      "answer": "No; the president dissolves it after a lost confidence vote",
+      "explanation": "Vertrauensfrage.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Vertrauensfrage is…",
+      "options": [
+        "a confidence vote",
+        "a trust fund"
+      ],
+      "answer": "a confidence vote",
+      "explanation": "Confidence vote.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Neuwahl, usually plural Neuwahlen, is a new or early election: Neuwahlen fordern, vorgezogene Neuwahlen. The Bundestag can't simply dissolve itself; the chancellor must lose a Vertrauensfrage (confidence vote), after which the Bundespräsident may dissolve parliament. This happened in 1972, 1982, 2005 and in December 2024, after the traffic-light coalition collapsed, leading to the February 2025 election. In clubs, eine Neuwahl des Vorstands is a new board election."
+}

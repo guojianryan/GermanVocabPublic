@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verüben",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-Ü-ben",
+      "ipa": "fɛɐ̯ˈʔyːbn̩",
+      "notes": ""
+    },
+    "meaning": "to commit (a crime)",
+    "shortDefinition": "To commit (a crime)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verüb|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verüb|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verüb|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verüb|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verüb|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verüb|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verübt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Anschlag wurde von einer Terrorgruppe verübt.",
+      "english": "The attack was carried out by a terrorist group.",
+      "highlight": [
+        "verübt."
+      ]
+    },
+    {
+      "german": "Die Bande verübte mehrere Einbrüche.",
+      "english": "The gang committed several burglaries.",
+      "highlight": [
+        "verübte"
+      ]
+    }
+  ],
+  "forms": [
+    "verübe",
+    "verübst",
+    "verübt",
+    "verüben"
+  ],
+  "memoryHook": "Verüben: carry out a bad deed.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verüben)",
+      "answer": "verübt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verübt.",
+      "acceptedAnswers": [
+        "veruebt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verüben, past)",
+      "answer": "verübt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verübt.",
+      "acceptedAnswers": [
+        "veruebt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verüben mean?",
+      "options": [
+        "to commit (a crime)",
+        "the evening",
+        "the flower"
+      ],
+      "answer": "to commit (a crime)",
+      "explanation": "verüben: to commit (a crime).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verüben is used with…",
+      "options": [
+        "crimes, attacks",
+        "good deeds"
+      ],
+      "answer": "crimes, attacks",
+      "explanation": "Crimes.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "begehen",
+        "üben"
+      ],
+      "answer": "begehen",
+      "explanation": "Commit.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Üben alone means…",
+      "options": [
+        "to practise",
+        "to commit"
+      ],
+      "answer": "to practise",
+      "explanation": "Practise.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verüben means to commit or carry out, used with crimes and attacks: einen Anschlag verüben, ein Verbrechen verüben, Selbstmord verüben (though Suizid is now preferred). The common synonym is begehen: eine Straftat begehen. Üben alone means to practise: Klavier üben. In news German, Wer hat die Tat verübt? asks who carried out the act. Not separable: hat verübt."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Syndrom",
+    "partOfSpeech": "noun, neuter (das Syndrom)",
+    "pronunciation": {
+      "respelling": "zün-DROHM",
+      "ipa": "zʏnˈdʁoːm",
+      "notes": "Plural: die Syndrome."
+    },
+    "meaning": "syndrome",
+    "shortDefinition": "Syndrome."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Syndrom, plural die Syndrome.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Syndrom"
+        },
+        {
+          "label": "More than one",
+          "value": "die Syndrome"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie leidet am Burn-out-Syndrom.",
+      "english": "She suffers from burnout syndrome.",
+      "highlight": [
+        "Burn-out-Syndrom."
+      ]
+    },
+    {
+      "german": "Das Down-Syndrom wird auch Trisomie 21 genannt.",
+      "english": "Down syndrome is also called trisomy 21.",
+      "highlight": [
+        "Down-Syndrom"
+      ]
+    }
+  ],
+  "forms": [
+    "Syndrome",
+    "die Syndrome",
+    "das Syndrom"
+  ],
+  "memoryHook": "Syndrom: neuter, with a German ü-sound.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Syndrom",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Syndrom is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Syndrom, zwei ___",
+      "answer": "Syndrome",
+      "fullAnswer": "ein Syndrom, zwei Syndrome",
+      "explanation": "The plural is Syndrome.",
+      "acceptedAnswers": [
+        "Syndrome"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Syndrom mean?",
+      "options": [
+        "the child",
+        "syndrome",
+        "always"
+      ],
+      "answer": "syndrome",
+      "explanation": "Syndrom: syndrome.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The y is pronounced like…",
+      "options": [
+        "ü",
+        "i"
+      ],
+      "answer": "ü",
+      "explanation": "zün-DROHM.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "das Syndrom",
+        "der Syndrom"
+      ],
+      "answer": "das Syndrom",
+      "explanation": "Neuter.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Syndrome",
+        "die Syndromen"
+      ],
+      "answer": "die Syndrome",
+      "explanation": "-e.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Syndrom is a syndrome: das Down-Syndrom, das Burn-out-Syndrom, das Tourette-Syndrom. It's neuter, and the y is pronounced like ü: zün-DROHM. Casually, people use it for typical patterns: das Helfersyndrom (the need to help others at any cost), das Messie-Syndrom (compulsive hoarding). Several syndromes are named after German-speaking doctors, such as Alzheimer and Asperger. From Greek, running together."
+}

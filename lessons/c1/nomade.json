@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Nomade",
+    "partOfSpeech": "noun, masculine (der Nomade)",
+    "pronunciation": {
+      "respelling": "no-MAA-de",
+      "ipa": "noˈmaːdə",
+      "notes": "Plural: die Nomaden."
+    },
+    "meaning": "nomad",
+    "shortDefinition": "Nomad."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Nomade, plural die Nomaden.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Nomade"
+        },
+        {
+          "label": "More than one",
+          "value": "die Nomaden"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Nomaden ziehen mit ihren Herden durch die Steppe.",
+      "english": "The nomads move through the steppe with their herds.",
+      "highlight": [
+        "Nomaden"
+      ]
+    },
+    {
+      "german": "Als digitaler Nomade arbeitet er von überall.",
+      "english": "As a digital nomad he works from anywhere.",
+      "highlight": [
+        "Nomade"
+      ]
+    }
+  ],
+  "forms": [
+    "Nomaden",
+    "der Nomade",
+    "Nomadin"
+  ],
+  "memoryHook": "Nomade: a herder seeking pasture (Greek nomas).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Nomade",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Nomade is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Nomade, zwei ___",
+      "answer": "Nomaden",
+      "fullAnswer": "ein Nomade, zwei Nomaden",
+      "explanation": "The plural is Nomaden.",
+      "acceptedAnswers": [
+        "Nomaden"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Nomade mean?",
+      "options": [
+        "the shop",
+        "nomad",
+        "always"
+      ],
+      "answer": "nomad",
+      "explanation": "Nomade: nomad.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nomade is a weak noun, so…",
+      "options": [
+        "den Nomaden",
+        "den Nomade"
+      ],
+      "answer": "den Nomaden",
+      "explanation": "Weak noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nomadisch means…",
+      "options": [
+        "nomadic",
+        "normal"
+      ],
+      "answer": "nomadic",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sesshaft means…",
+      "options": [
+        "settled, sedentary",
+        "seated"
+      ],
+      "answer": "settled, sedentary",
+      "explanation": "Opposite.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Nomade (die Nomadin) is a nomad: Hirtennomaden, and today der digitale Nomade, who works online while travelling. It's a weak noun: den, dem, des Nomaden. Nomadisch means nomadic, and the opposite is sesshaft (settled): sesshaft werden. From Greek nomas (roaming for pasture). Plural: die Nomaden."
+}

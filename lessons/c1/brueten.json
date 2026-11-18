@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "brüten",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "BRÜ-ten",
+      "ipa": "ˈbʁyːtn̩",
+      "notes": ""
+    },
+    "meaning": "to brood, incubate; to ponder",
+    "shortDefinition": "To brood, incubate; to ponder."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "brüt|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "brüt|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "brüt|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "brüt|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "brüt|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "brüt|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gebrütet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Amsel brütet auf ihren Eiern.",
+      "english": "The blackbird is sitting on her eggs.",
+      "highlight": [
+        "brütet"
+      ]
+    },
+    {
+      "german": "Er brütet seit Stunden über der Aufgabe.",
+      "english": "He's been brooding over the task for hours.",
+      "highlight": [
+        "brütet"
+      ]
+    }
+  ],
+  "forms": [
+    "brüte",
+    "brütest",
+    "brütet",
+    "brüten",
+    "gebrütet",
+    "brütete",
+    "Brut"
+  ],
+  "memoryHook": "Brüten: keep eggs warm until they hatch.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (brüten)",
+      "answer": "brütet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: brütet.",
+      "acceptedAnswers": [
+        "bruetet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (brüten, past)",
+      "answer": "gebrütet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gebrütet.",
+      "acceptedAnswers": [
+        "gebruetet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does brüten mean?",
+      "options": [
+        "to brood",
+        "the window",
+        "to help"
+      ],
+      "answer": "to brood",
+      "explanation": "brüten: to brood, incubate; to ponder.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Über etwas brüten means…",
+      "options": [
+        "to ponder, brood over something",
+        "to cook"
+      ],
+      "answer": "to ponder, brood over something",
+      "explanation": "Ponder.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Brütende Hitze is…",
+      "options": [
+        "sweltering heat",
+        "breeding heat"
+      ],
+      "answer": "sweltering heat",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Brut is…",
+      "options": [
+        "brood (young animals)",
+        "bread"
+      ],
+      "answer": "brood (young animals)",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Brüten means to brood or incubate eggs: Die Henne brütet. Figuratively, über etwas brüten means to ponder or brood over: über einer Matheaufgabe brüten, and Unheil ausbrüten means to hatch mischief. Brütende Hitze is sweltering heat. Die Brut is a brood of young, and der Brutkasten an incubator. Regular: brütete, gebrütet."
+}

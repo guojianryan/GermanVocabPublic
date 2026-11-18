@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Einschaltquote",
+    "partOfSpeech": "noun, feminine (die Einschaltquote)",
+    "pronunciation": {
+      "respelling": "AIN-shalt-kvoh-te",
+      "ipa": "ˈaɪ̯nʃaltˌkvoːtə",
+      "notes": "Plural: die Einschaltquoten."
+    },
+    "meaning": "viewing figures, ratings",
+    "shortDefinition": "Viewing figures, ratings."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Einschaltquote, plural die Einschaltquoten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Einschaltquote"
+        },
+        {
+          "label": "More than one",
+          "value": "die Einschaltquoten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Tatort hatte am Sonntag eine hohe Einschaltquote.",
+      "english": "Sunday's Tatort had high ratings.",
+      "highlight": [
+        "Einschaltquote."
+      ]
+    },
+    {
+      "german": "Sender kämpfen um Einschaltquoten.",
+      "english": "Broadcasters fight for ratings.",
+      "highlight": [
+        "Einschaltquoten."
+      ]
+    }
+  ],
+  "forms": [
+    "Einschaltquoten",
+    "die Einschaltquote"
+  ],
+  "memoryHook": "Einschaltquote: the Quote of people who einschalten (switch on).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Einschaltquote",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Einschaltquote is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Einschaltquote, zwei ___",
+      "answer": "Einschaltquoten",
+      "fullAnswer": "ein Einschaltquote, zwei Einschaltquoten",
+      "explanation": "The plural is Einschaltquoten.",
+      "acceptedAnswers": [
+        "Einschaltquoten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Einschaltquote mean?",
+      "options": [
+        "to wait",
+        "viewing figures",
+        "never"
+      ],
+      "answer": "viewing figures",
+      "explanation": "Einschaltquote: viewing figures, ratings.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Short form:",
+      "options": [
+        "die Quote",
+        "die Schalte"
+      ],
+      "answer": "die Quote",
+      "explanation": "Short.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The most-watched German TV broadcast ever was…",
+      "options": [
+        "the 2014 World Cup final",
+        "a Christmas speech"
+      ],
+      "answer": "the 2014 World Cup final",
+      "explanation": "Record.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einschalten means…",
+      "options": [
+        "to switch on",
+        "to switch over"
+      ],
+      "answer": "to switch on",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Einschaltquote (often just die Quote) is the viewing figures or ratings of a TV programme, measured by the AGF using panel households. The Sunday crime series Tatort regularly draws high ratings. The most-watched broadcast in German TV history was the 2014 World Cup final, with about 34.6 million viewers. Critics complain about Quotendruck (pressure for ratings). Plural: die Einschaltquoten."
+}

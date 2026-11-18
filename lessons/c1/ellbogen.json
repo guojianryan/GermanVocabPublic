@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ellbogen",
+    "partOfSpeech": "noun, masculine (der Ellbogen)",
+    "pronunciation": {
+      "respelling": "EL-boh-gen",
+      "ipa": "ˈɛlˌboːɡn̩",
+      "notes": "Plural: die Ellbogen."
+    },
+    "meaning": "elbow",
+    "shortDefinition": "Elbow."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Ellbogen, plural die Ellbogen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Ellbogen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ellbogen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich habe mir den Ellbogen gestoßen.",
+      "english": "I banged my elbow.",
+      "highlight": [
+        "Ellbogen"
+      ]
+    },
+    {
+      "german": "Er setzt seine Ellbogen ein, um Karriere zu machen.",
+      "english": "He elbows his way up the career ladder.",
+      "highlight": [
+        "Ellbogen"
+      ]
+    }
+  ],
+  "forms": [
+    "der Ellbogen",
+    "Ellenbogen"
+  ],
+  "memoryHook": "Ellbogen: the Bogen (bend) of the Elle (ulna).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ellbogen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Ellbogen is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Ellbogen, zwei ___",
+      "answer": "Ellbogen",
+      "fullAnswer": "ein Ellbogen, zwei Ellbogen",
+      "explanation": "The plural is Ellbogen.",
+      "acceptedAnswers": [
+        "Ellbogen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ellbogen mean?",
+      "options": [
+        "the window",
+        "the evening",
+        "elbow"
+      ],
+      "answer": "elbow",
+      "explanation": "Ellbogen: elbow.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Variant form:",
+      "options": [
+        "der Ellenbogen",
+        "die Elle"
+      ],
+      "answer": "der Ellenbogen",
+      "explanation": "Variant.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Ellbogengesellschaft is…",
+      "options": [
+        "a dog-eat-dog society",
+        "an orthopaedic club"
+      ],
+      "answer": "a dog-eat-dog society",
+      "explanation": "Society.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Musikantenknochen is…",
+      "options": [
+        "funny bone",
+        "a violin part"
+      ],
+      "answer": "funny bone",
+      "explanation": "Funny bone.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Ellbogen (also Ellenbogen) is the elbow, from die Elle (ulna, and an old unit of length) and der Bogen (bend). Seine Ellbogen einsetzen means to use one's elbows to get ahead, and die Ellbogengesellschaft is a ruthless, dog-eat-dog society. The funny bone is der Musikantenknochen. During the pandemic, people greeted each other with den Ellbogengruß. The plural is the same: die Ellbogen."
+}

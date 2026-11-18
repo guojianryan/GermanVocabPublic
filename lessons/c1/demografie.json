@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Demografie",
+    "partOfSpeech": "noun, feminine (die Demografie)",
+    "pronunciation": {
+      "respelling": "de-mo-gra-FEE",
+      "ipa": "demoɡʁaˈfiː",
+      "notes": "Usually no plural."
+    },
+    "meaning": "demography, demographics",
+    "shortDefinition": "Demography, demographics."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Demografie, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Demografie"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Demografie verändert den Arbeitsmarkt.",
+      "english": "Demographics are changing the labour market.",
+      "highlight": [
+        "Demografie"
+      ]
+    },
+    {
+      "german": "Der demografische Wandel stellt die Rente vor Probleme.",
+      "english": "Demographic change poses problems for pensions.",
+      "highlight": [
+        "demografische"
+      ]
+    }
+  ],
+  "forms": [
+    "die Demografie",
+    "demografisch"
+  ],
+  "memoryHook": "Demografie: describing (graphein) the people (demos).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Demografie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Demografie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Demografie mean?",
+      "options": [
+        "demography",
+        "the car",
+        "slowly"
+      ],
+      "answer": "demography",
+      "explanation": "Demografie: demography, demographics.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der demografische Wandel is…",
+      "options": [
+        "demographic change (ageing society)",
+        "a census"
+      ],
+      "answer": "demographic change (ageing society)",
+      "explanation": "Change.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Spelling variants:",
+      "options": [
+        "Demografie / Demographie",
+        "Demografi"
+      ],
+      "answer": "Demografie / Demographie",
+      "explanation": "Spelling.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Babyboomer are retiring, so…",
+      "options": [
+        "fewer workers support more pensioners",
+        "pensions rise automatically"
+      ],
+      "answer": "fewer workers support more pensioners",
+      "explanation": "Pensions.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Demografie (also Demographie) is demography or demographics. Der demografische Wandel, Germany's ageing and shrinking working population, is a central political topic: as the Babyboomer generation retires, fewer contributors pay into the Rentenversicherung, and Fachkräftemangel (shortage of skilled workers) grows. Germany's population nonetheless rose to about 84 million through immigration. It has no plural."
+}

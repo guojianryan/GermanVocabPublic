@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mythologie",
+    "partOfSpeech": "noun, feminine (die Mythologie)",
+    "pronunciation": {
+      "respelling": "mü-to-lo-GEE",
+      "ipa": "mytoloˈɡiː",
+      "notes": "Plural: die Mythologien."
+    },
+    "meaning": "mythology",
+    "shortDefinition": "Mythology."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Mythologie, plural die Mythologien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Mythologie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mythologien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In der griechischen Mythologie ist Zeus der höchste Gott.",
+      "english": "In Greek mythology, Zeus is the supreme god.",
+      "highlight": [
+        "Mythologie"
+      ]
+    },
+    {
+      "german": "Die nordische Mythologie kennt Odin und Thor.",
+      "english": "Norse mythology has Odin and Thor.",
+      "highlight": [
+        "Mythologie"
+      ]
+    }
+  ],
+  "forms": [
+    "Mythologien",
+    "die Mythologie",
+    "Mythos",
+    "mythologisch"
+  ],
+  "memoryHook": "Mythologie: the study and body of Mythen.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mythologie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Mythologie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mythologie, zwei ___",
+      "answer": "Mythologien",
+      "fullAnswer": "ein Mythologie, zwei Mythologien",
+      "explanation": "The plural is Mythologien.",
+      "acceptedAnswers": [
+        "Mythologien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mythologie mean?",
+      "options": [
+        "the job",
+        "mythology",
+        "always"
+      ],
+      "answer": "mythology",
+      "explanation": "Mythologie: mythology.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Mythos is…",
+      "options": [
+        "myth",
+        "moth"
+      ],
+      "answer": "myth",
+      "explanation": "Myth.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Nibelungensage belongs to…",
+      "options": [
+        "Germanic legend",
+        "Greek mythology"
+      ],
+      "answer": "Germanic legend",
+      "explanation": "Germanic.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mythologisch means…",
+      "options": [
+        "mythological",
+        "methodical"
+      ],
+      "answer": "mythological",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Mythologie is mythology: die griechische, römische, nordische Mythologie. Der Mythos (plural Mythen) is a myth, also in the sense of a widely held false belief. Germanic legends like the Nibelungenlied, with Siegfried and the dragon, inspired Wagner's Ring. Jacob Grimm wrote a pioneering Deutsche Mythologie in 1835. The y sounds like ü. Plural: die Mythologien."
+}

@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Allgemeinbildung",
+    "partOfSpeech": "noun, feminine (die Allgemeinbildung)",
+    "pronunciation": {
+      "respelling": "al-ge-MAIN-bil-dung",
+      "ipa": "alɡəˈmaɪ̯nˌbɪldʊŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "general knowledge, general education",
+    "shortDefinition": "General knowledge, general education."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Allgemeinbildung, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Allgemeinbildung"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Frage gehört zur Allgemeinbildung.",
+      "english": "That question is general knowledge.",
+      "highlight": [
+        "Allgemeinbildung."
+      ]
+    },
+    {
+      "german": "Er hat eine solide Allgemeinbildung.",
+      "english": "He has a solid general education.",
+      "highlight": [
+        "Allgemeinbildung."
+      ]
+    }
+  ],
+  "forms": [
+    "die Allgemeinbildung"
+  ],
+  "memoryHook": "Allgemeinbildung: allgemeine (general) Bildung (education).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Allgemeinbildung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Allgemeinbildung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Allgemeinbildung mean?",
+      "options": [
+        "to sleep",
+        "general knowledge",
+        "always"
+      ],
+      "answer": "general knowledge",
+      "explanation": "Allgemeinbildung: general knowledge, general education.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Allgemeinbildend (school) means…",
+      "options": [
+        "providing general education (not vocational)",
+        "for everyone free"
+      ],
+      "answer": "providing general education (not vocational)",
+      "explanation": "School.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Bildung is…",
+      "options": [
+        "education; formation",
+        "a picture"
+      ],
+      "answer": "education; formation",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Humboldt's ideal was…",
+      "options": [
+        "broad, humanistic Bildung",
+        "vocational training"
+      ],
+      "answer": "broad, humanistic Bildung",
+      "explanation": "History.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Allgemeinbildung is general knowledge or a broad general education: zur Allgemeinbildung gehören, Lücken in der Allgemeinbildung. Allgemeinbildende Schulen (Gymnasium, Realschule) contrast with berufsbildende Schulen (vocational). Wilhelm von Humboldt's ideal of broad Bildung shaped German universities. Quiz shows test it, and Dietrich Schwanitz's bestseller Bildung (1999) tried to define it. It has no plural."
+}

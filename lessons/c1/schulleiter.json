@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schulleiter",
+    "partOfSpeech": "noun, masculine (der Schulleiter)",
+    "pronunciation": {
+      "respelling": "SHOOL-lai-ter",
+      "ipa": "ˈʃuːlˌlaɪ̯tɐ",
+      "notes": "Plural: die Schulleiter."
+    },
+    "meaning": "head teacher, principal",
+    "shortDefinition": "Head teacher, principal."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schulleiter, plural die Schulleiter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schulleiter"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schulleiter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Schulleiterin begrüßte die neuen Schüler.",
+      "english": "The head teacher welcomed the new pupils.",
+      "highlight": [
+        "Schulleiterin"
+      ]
+    },
+    {
+      "german": "Er musste zum Schulleiter.",
+      "english": "He had to go to the head teacher.",
+      "highlight": [
+        "Schulleiter."
+      ]
+    }
+  ],
+  "forms": [
+    "die Schulleiter",
+    "der Schulleiter",
+    "Schulleiterin",
+    "Schulleitung"
+  ],
+  "memoryHook": "Schulleiter: the Leiter (head) of a Schule.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schulleiter",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schulleiter is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schulleiter, zwei ___",
+      "answer": "Schulleiter",
+      "fullAnswer": "ein Schulleiter, zwei Schulleiter",
+      "explanation": "The plural is Schulleiter.",
+      "acceptedAnswers": [
+        "Schulleiter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schulleiter mean?",
+      "options": [
+        "the station",
+        "the key",
+        "head teacher"
+      ],
+      "answer": "head teacher",
+      "explanation": "Schulleiter: head teacher, principal.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym (older):",
+      "options": [
+        "der Rektor / Direktor",
+        "der Lehrer"
+      ],
+      "answer": "der Rektor / Direktor",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schulleitung is…",
+      "options": [
+        "school management",
+        "a school bus"
+      ],
+      "answer": "school management",
+      "explanation": "Management.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Schulleiterin",
+        "die Schulleitere"
+      ],
+      "answer": "die Schulleiterin",
+      "explanation": "-in.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Schulleiter (die Schulleiterin) is a head teacher or principal; traditional titles are Rektor (primary and secondary schools) and Direktor or Oberstudiendirektor (Gymnasium). Die Schulleitung is the school management. German head teachers still teach classes themselves, and many schools struggle to fill head positions because of heavy workloads. Plural: die Schulleiter."
+}

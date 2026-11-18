@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Tilgung",
+    "partOfSpeech": "noun, feminine (die Tilgung)",
+    "pronunciation": {
+      "respelling": "TIL-gung",
+      "ipa": "ˈtɪlɡʊŋ",
+      "notes": "Plural: die Tilgungen."
+    },
+    "meaning": "repayment (of debt); deletion",
+    "shortDefinition": "Repayment (of debt); deletion."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Tilgung, plural die Tilgungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Tilgung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Tilgungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die monatliche Rate besteht aus Zins und Tilgung.",
+      "english": "The monthly instalment consists of interest and repayment.",
+      "highlight": [
+        "Tilgung."
+      ]
+    },
+    {
+      "german": "Die Tilgung der Schulden dauert zwanzig Jahre.",
+      "english": "Paying off the debt takes twenty years.",
+      "highlight": [
+        "Tilgung"
+      ]
+    }
+  ],
+  "forms": [
+    "Tilgungen",
+    "die Tilgung"
+  ],
+  "memoryHook": "Tilgung: wiping out (tilgen) a debt.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Tilgung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Tilgung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Tilgung, zwei ___",
+      "answer": "Tilgungen",
+      "fullAnswer": "ein Tilgung, zwei Tilgungen",
+      "explanation": "The plural is Tilgungen.",
+      "acceptedAnswers": [
+        "Tilgungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Tilgung mean?",
+      "options": [
+        "quiet",
+        "repayment (of debt)",
+        "the flower"
+      ],
+      "answer": "repayment (of debt)",
+      "explanation": "Tilgung: repayment (of debt); deletion.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Tilgen means…",
+      "options": [
+        "to repay; to erase",
+        "to tilt"
+      ],
+      "answer": "to repay; to erase",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Sondertilgung is…",
+      "options": [
+        "an extra, unscheduled repayment",
+        "a special tax"
+      ],
+      "answer": "an extra, unscheduled repayment",
+      "explanation": "Mortgage.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Darlehen is…",
+      "options": [
+        "loan",
+        "rent"
+      ],
+      "answer": "loan",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Tilgung is the repayment of a debt or loan. A typical German mortgage rate (die Annuität) combines Zins (interest) and Tilgung; buyers often choose an initial Tilgung of two to three percent a year and may make Sondertilgungen (extra repayments). Tilgen also means to erase: Spuren tilgen, and entries in criminal records are getilgt after a set time. Plural: die Tilgungen."
+}

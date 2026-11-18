@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Arbeitsgemeinschaft",
+    "partOfSpeech": "noun, feminine (die Arbeitsgemeinschaft)",
+    "pronunciation": {
+      "respelling": "AR-baits-ge-main-shaft",
+      "ipa": "ˈaʁbaɪ̯t͡sɡəˌmaɪ̯nʃaft",
+      "notes": "Plural: die Arbeitsgemeinschaften."
+    },
+    "meaning": "working group; consortium; school club",
+    "shortDefinition": "Working group; consortium; school club."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Arbeitsgemeinschaft, plural die Arbeitsgemeinschaften.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Arbeitsgemeinschaft"
+        },
+        {
+          "label": "More than one",
+          "value": "die Arbeitsgemeinschaften"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "An unserer Schule gibt es eine Theater-AG.",
+      "english": "There's a drama club at our school.",
+      "highlight": [
+        "Theater-AG."
+      ]
+    },
+    {
+      "german": "Die ARD ist eine Arbeitsgemeinschaft von Rundfunkanstalten.",
+      "english": "ARD is a consortium of broadcasters.",
+      "highlight": [
+        "Arbeitsgemeinschaft"
+      ]
+    }
+  ],
+  "forms": [
+    "Arbeitsgemeinschaften",
+    "die Arbeitsgemeinschaften",
+    "die Arbeitsgemeinschaft",
+    "AG"
+  ],
+  "memoryHook": "Arbeitsgemeinschaft: a Gemeinschaft (community) for Arbeit, the AG.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Arbeitsgemeinschaft",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Arbeitsgemeinschaft is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Arbeitsgemeinschaft, zwei ___",
+      "answer": "Arbeitsgemeinschaften",
+      "fullAnswer": "ein Arbeitsgemeinschaft, zwei Arbeitsgemeinschaften",
+      "explanation": "The plural is Arbeitsgemeinschaften.",
+      "acceptedAnswers": [
+        "Arbeitsgemeinschaften"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Arbeitsgemeinschaft mean?",
+      "options": [
+        "working group",
+        "to open",
+        "the door"
+      ],
+      "answer": "working group",
+      "explanation": "Arbeitsgemeinschaft: working group; consortium; school club.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "ARD stands for…",
+      "options": [
+        "Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten…",
+        "Allgemeiner Rundfunk Deutschland"
+      ],
+      "answer": "Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten…",
+      "explanation": "ARD.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "At school, an AG is…",
+      "options": [
+        "an after-school club",
+        "an exam"
+      ],
+      "answer": "an after-school club",
+      "explanation": "Club.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gemeinschaft is…",
+      "options": [
+        "community",
+        "community service"
+      ],
+      "answer": "community",
+      "explanation": "Gemeinschaft.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Arbeitsgemeinschaft (AG) is a working group or consortium. At German schools, AGs are voluntary after-school clubs: die Schach-AG, die Chor-AG. Germany's first public TV channel, Das Erste, is run by the ARD, the Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland, one of the longest names in German broadcasting. Careful: after a company name, AG means Aktiengesellschaft."
+}

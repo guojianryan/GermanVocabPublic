@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Luftfahrt",
+    "partOfSpeech": "noun, feminine (die Luftfahrt)",
+    "pronunciation": {
+      "respelling": "LUFT-faart",
+      "ipa": "ˈlʊftˌfaːɐ̯t",
+      "notes": "Usually no plural."
+    },
+    "meaning": "aviation",
+    "shortDefinition": "Aviation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Luftfahrt, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Luftfahrt"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Luftfahrt verursacht viel CO₂.",
+      "english": "Aviation causes a lot of CO₂.",
+      "highlight": [
+        "Luftfahrt"
+      ]
+    },
+    {
+      "german": "Otto Lilienthal war ein Pionier der Luftfahrt.",
+      "english": "Otto Lilienthal was a pioneer of aviation.",
+      "highlight": [
+        "Luftfahrt."
+      ]
+    }
+  ],
+  "forms": [
+    "die Luftfahrt"
+  ],
+  "memoryHook": "Luftfahrt: travel (Fahrt) through the Luft (air).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Luftfahrt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Luftfahrt is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Luftfahrt mean?",
+      "options": [
+        "the bread",
+        "aviation",
+        "always"
+      ],
+      "answer": "aviation",
+      "explanation": "Luftfahrt: aviation.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Otto Lilienthal is known for…",
+      "options": [
+        "glider flights in the 1890s",
+        "the first car"
+      ],
+      "answer": "glider flights in the 1890s",
+      "explanation": "Pioneer.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Raumfahrt is…",
+      "options": [
+        "space travel",
+        "aviation"
+      ],
+      "answer": "space travel",
+      "explanation": "Space.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Fluggesellschaft is…",
+      "options": [
+        "airline",
+        "flight crew"
+      ],
+      "answer": "airline",
+      "explanation": "Airline.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Luftfahrt is aviation: die zivile Luftfahrt, die Luftfahrtindustrie. Otto Lilienthal made over 2,000 glider flights near Berlin in the 1890s and inspired the Wright brothers; Berlin's old Tegel airport was named after him. Germany is home to Lufthansa and Airbus sites in Hamburg and Bremen. Raumfahrt is space travel. It has no plural."
+}

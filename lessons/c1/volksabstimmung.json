@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Volksabstimmung",
+    "partOfSpeech": "noun, feminine (die Volksabstimmung)",
+    "pronunciation": {
+      "respelling": "FOLKS-ap-shtim-ung",
+      "ipa": "ˈfɔlksˌʔapʃtɪmʊŋ",
+      "notes": "Plural: die Volksabstimmungen."
+    },
+    "meaning": "referendum",
+    "shortDefinition": "Referendum."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Volksabstimmung, plural die Volksabstimmungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Volksabstimmung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Volksabstimmungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In der Schweiz gibt es oft Volksabstimmungen.",
+      "english": "In Switzerland there are often referendums.",
+      "highlight": [
+        "Volksabstimmungen."
+      ]
+    },
+    {
+      "german": "Über das Projekt wurde per Volksabstimmung entschieden.",
+      "english": "The project was decided by referendum.",
+      "highlight": [
+        "Volksabstimmung"
+      ]
+    }
+  ],
+  "forms": [
+    "Volksabstimmungen",
+    "die Volksabstimmung"
+  ],
+  "memoryHook": "Volksabstimmung: a vote (Abstimmung) by the people (Volk).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Volksabstimmung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Volksabstimmung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Volksabstimmung, zwei ___",
+      "answer": "Volksabstimmungen",
+      "fullAnswer": "ein Volksabstimmung, zwei Volksabstimmungen",
+      "explanation": "The plural is Volksabstimmungen.",
+      "acceptedAnswers": [
+        "Volksabstimmungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Volksabstimmung mean?",
+      "options": [
+        "the station",
+        "referendum",
+        "hot"
+      ],
+      "answer": "referendum",
+      "explanation": "Volksabstimmung: referendum.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "At the federal level, Germany has…",
+      "options": [
+        "almost no national referendums",
+        "frequent referendums"
+      ],
+      "answer": "almost no national referendums",
+      "explanation": "Federal.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Volksentscheid is…",
+      "options": [
+        "a referendum at state level",
+        "a people's party"
+      ],
+      "answer": "a referendum at state level",
+      "explanation": "State.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Switzerland holds national votes…",
+      "options": [
+        "several times a year",
+        "once a decade"
+      ],
+      "answer": "several times a year",
+      "explanation": "Swiss.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Volksabstimmung is a referendum. The Grundgesetz provides for national referendums only in very specific cases (like reorganising state borders), partly because of experiences in the Weimar Republic. At state and local level, Volksbegehren and Volksentscheide are common: in 2021, Berliners voted to expropriate large housing companies (not yet implemented). Switzerland is famous for direct democracy. Plural: die Volksabstimmungen."
+}

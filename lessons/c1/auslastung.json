@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Auslastung",
+    "partOfSpeech": "noun, feminine (die Auslastung)",
+    "pronunciation": {
+      "respelling": "AUS-las-tung",
+      "ipa": "ˈaʊ̯sˌlastʊŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "capacity utilisation, occupancy",
+    "shortDefinition": "Capacity utilisation, occupancy."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Auslastung, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Auslastung"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Auslastung der Hotels liegt bei 80 Prozent.",
+      "english": "Hotel occupancy is 80 percent.",
+      "highlight": [
+        "Auslastung"
+      ]
+    },
+    {
+      "german": "Der DB Navigator zeigt die erwartete Auslastung des Zuges.",
+      "english": "The DB app shows the train's expected occupancy.",
+      "highlight": [
+        "Auslastung"
+      ]
+    }
+  ],
+  "forms": [
+    "die Auslastung",
+    "auslasten",
+    "ausgelastet"
+  ],
+  "memoryHook": "Auslastung: how fully the Last (load) is used.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Auslastung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Auslastung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Auslastung mean?",
+      "options": [
+        "the bed",
+        "the family",
+        "capacity utilisation"
+      ],
+      "answer": "capacity utilisation",
+      "explanation": "Auslastung: capacity utilisation, occupancy.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ausgelastet sein means…",
+      "options": [
+        "to be fully occupied, at capacity",
+        "to be relaxed"
+      ],
+      "answer": "to be fully occupied, at capacity",
+      "explanation": "Busy.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Last is…",
+      "options": [
+        "load, burden",
+        "last"
+      ],
+      "answer": "load, burden",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hohe Auslastung on a train means…",
+      "options": [
+        "it will be crowded",
+        "it will be late"
+      ],
+      "answer": "it will be crowded",
+      "explanation": "Crowded.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Auslastung is capacity utilisation or occupancy: die Auslastung eines Krankenhauses, eines Hotels, einer Fabrik. Deutsche Bahn shows an expected Auslastung for each train, with one to four little figures. Ausgelastet sein means to be at full capacity or fully occupied: Ich bin völlig ausgelastet (I've got my hands full). The verb is auslasten. Die Last means load or burden. It has no plural."
+}

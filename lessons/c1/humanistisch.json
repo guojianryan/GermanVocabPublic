@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "humanistisch",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "hu-ma-NIS-tish",
+      "ipa": "humaˈnɪstɪʃ",
+      "notes": ""
+    },
+    "meaning": "humanist; classical (education)",
+    "shortDefinition": "Humanist; classical (education)."
+  },
+  "sampleSentences": [
+    {
+      "german": "Er hat ein humanistisches Gymnasium besucht.",
+      "english": "He attended a classical grammar school.",
+      "highlight": [
+        "humanistisches"
+      ]
+    },
+    {
+      "german": "Das ist ein humanistisches Menschenbild.",
+      "english": "That is a humanist view of humanity.",
+      "highlight": [
+        "humanistisches"
+      ]
+    }
+  ],
+  "forms": [
+    "humanistische",
+    "humanistischen",
+    "humanistisches",
+    "Humanismus"
+  ],
+  "memoryHook": "Humanistisch: inspired by humanitas and the classics.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does humanistisch mean?",
+      "options": [
+        "humanist",
+        "never",
+        "to help"
+      ],
+      "answer": "humanist",
+      "explanation": "humanistisch: humanist; classical (education).",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein humanistisches Gymnasium teaches…",
+      "options": [
+        "Latin and Ancient Greek",
+        "only sciences"
+      ],
+      "answer": "Latin and Ancient Greek",
+      "explanation": "Classical.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Humanismus (Renaissance) revived…",
+      "options": [
+        "classical antiquity",
+        "medieval theology"
+      ],
+      "answer": "classical antiquity",
+      "explanation": "History.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Famous German humanist:",
+      "options": [
+        "Johannes Reuchlin",
+        "Otto von Bismarck"
+      ],
+      "answer": "Johannes Reuchlin",
+      "explanation": "Humanist.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Bildung (classical)",
+      "answer": "humanistische",
+      "fullAnswer": "eine humanistische Bildung",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Humanistisch means humanist: ein humanistisches Weltbild. In education, ein humanistisches Gymnasium is a classical grammar school teaching Latin and Ancient Greek, and humanistische Bildung means a classical education. Der Humanismus was the Renaissance movement reviving antiquity; Erasmus and Johannes Reuchlin were leading figures. Don't confuse it with humanitär (humanitarian) or human (humane)."
+}

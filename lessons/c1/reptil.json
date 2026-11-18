@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Reptil",
+    "partOfSpeech": "noun, neuter (das Reptil)",
+    "pronunciation": {
+      "respelling": "rep-TEEL",
+      "ipa": "ʁɛpˈtiːl",
+      "notes": "Plural: die Reptilien."
+    },
+    "meaning": "reptile",
+    "shortDefinition": "Reptile."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Reptil, plural die Reptilien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Reptil"
+        },
+        {
+          "label": "More than one",
+          "value": "die Reptilien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Schlangen und Eidechsen sind Reptilien.",
+      "english": "Snakes and lizards are reptiles.",
+      "highlight": [
+        "Reptilien."
+      ]
+    },
+    {
+      "german": "Im Zoo gibt es ein Haus für Reptilien.",
+      "english": "The zoo has a reptile house.",
+      "highlight": [
+        "Reptilien."
+      ]
+    }
+  ],
+  "forms": [
+    "Reptilien",
+    "die Reptilien",
+    "das Reptil"
+  ],
+  "memoryHook": "Reptil: a creeping (Latin reptilis) animal.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Reptil",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Reptil is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Reptil, zwei ___",
+      "answer": "Reptilien",
+      "fullAnswer": "ein Reptil, zwei Reptilien",
+      "explanation": "The plural is Reptilien.",
+      "acceptedAnswers": [
+        "Reptilien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Reptil mean?",
+      "options": [
+        "reptile",
+        "the bed",
+        "the door"
+      ],
+      "answer": "reptile",
+      "explanation": "Reptil: reptile.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Reptilien",
+        "die Reptils"
+      ],
+      "answer": "die Reptilien",
+      "explanation": "Latin.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Eidechse is…",
+      "options": [
+        "lizard",
+        "egg"
+      ],
+      "answer": "lizard",
+      "explanation": "Lizard.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Kriechtier is…",
+      "options": [
+        "German synonym for reptile",
+        "a pet"
+      ],
+      "answer": "German synonym for reptile",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Reptil is a reptile: Schlangen (snakes), Eidechsen (lizards), Schildkröten (tortoises), Krokodile. The German synonym is das Kriechtier (creeping animal). Germany has only a few native reptiles, like the sand lizard and the adder (Kreuzotter), its most widespread venomous snake. Plural: die Reptilien (rep-TEE-li-en). Das Reptiliengehirn is the reptilian brain."
+}

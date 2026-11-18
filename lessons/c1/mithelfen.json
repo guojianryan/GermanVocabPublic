@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "mithelfen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "MIT-hel-fen",
+      "ipa": "ˈmɪtˌhɛlfn̩",
+      "notes": ""
+    },
+    "meaning": "to help (out), lend a hand",
+    "shortDefinition": "To help (out), lend a hand."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "helf|e … |mit"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "hilf|st … |mit"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "hilf|t … |mit"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "helf|en … |mit"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "helf|t … |mit"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "helf|en … |mit"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat mitgeholfen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Alle Kinder helfen im Haushalt mit.",
+      "english": "All the children help out at home.",
+      "highlight": [
+        "helfen",
+        "mit."
+      ]
+    },
+    {
+      "german": "Hast du beim Umzug mitgeholfen?",
+      "english": "Did you help with the move?",
+      "highlight": [
+        "mitgeholfen?"
+      ]
+    }
+  ],
+  "forms": [
+    "helfe mit",
+    "hilfst mit",
+    "hilft mit",
+    "helfen mit",
+    "helft mit",
+    "mitgeholfen",
+    "half mit",
+    "Mithilfe"
+  ],
+  "memoryHook": "Mithelfen: helfen along with (mit) others.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … mit (mithelfen)",
+      "answer": "hilft",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: hilft … mit.",
+      "acceptedAnswers": [
+        "hilft"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (mithelfen, past)",
+      "answer": "mitgeholfen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe mitgeholfen.",
+      "acceptedAnswers": [
+        "mitgeholfen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does mithelfen mean?",
+      "options": [
+        "the family",
+        "to help (out)",
+        "expensive"
+      ],
+      "answer": "to help (out)",
+      "explanation": "mithelfen: to help (out), lend a hand.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "half mit, mitgeholfen",
+        "helfte mit"
+      ],
+      "answer": "half mit, mitgeholfen",
+      "explanation": "Irregular.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mithelfen bei takes…",
+      "options": [
+        "bei + dative (bei der Arbeit)",
+        "für + accusative"
+      ],
+      "answer": "bei + dative (bei der Arbeit)",
+      "explanation": "Preposition.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Mithilfe is…",
+      "options": [
+        "assistance, cooperation",
+        "a remedy"
+      ],
+      "answer": "assistance, cooperation",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Mithelfen means to help out or lend a hand: im Haushalt mithelfen, beim Aufräumen mithelfen. Die Mithilfe is assistance: Police appeals ask for die Mithilfe der Bevölkerung (help from the public). German has many mit- verbs: mitmachen, mitkommen, mitarbeiten. Separable and irregular like helfen: hilft mit, half mit, mitgeholfen."
+}

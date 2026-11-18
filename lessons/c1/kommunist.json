@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kommunist",
+    "partOfSpeech": "noun, masculine (der Kommunist)",
+    "pronunciation": {
+      "respelling": "ko-mu-NIST",
+      "ipa": "kɔmuˈnɪst",
+      "notes": "Plural: die Kommunisten."
+    },
+    "meaning": "communist",
+    "shortDefinition": "Communist."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kommunist, plural die Kommunisten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kommunist"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kommunisten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er war in seiner Jugend Kommunist.",
+      "english": "He was a communist in his youth.",
+      "highlight": [
+        "Kommunist."
+      ]
+    },
+    {
+      "german": "Die Kommunisten regierten bis 1989.",
+      "english": "The communists ruled until 1989.",
+      "highlight": [
+        "Kommunisten"
+      ]
+    }
+  ],
+  "forms": [
+    "Kommunisten",
+    "die Kommunisten",
+    "der Kommunist",
+    "Kommunistin",
+    "kommunistisch"
+  ],
+  "memoryHook": "Kommunist: believer in what Marx (from Trier) wrote.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kommunist",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kommunist is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kommunist, zwei ___",
+      "answer": "Kommunisten",
+      "fullAnswer": "ein Kommunist, zwei Kommunisten",
+      "explanation": "The plural is Kommunisten.",
+      "acceptedAnswers": [
+        "Kommunisten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kommunist mean?",
+      "options": [
+        "to help",
+        "to sing",
+        "communist"
+      ],
+      "answer": "communist",
+      "explanation": "Kommunist: communist.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Weak noun, dative:",
+      "options": [
+        "dem Kommunisten",
+        "dem Kommunist"
+      ],
+      "answer": "dem Kommunisten",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Marx and Engels wrote…",
+      "options": [
+        "das Kommunistische Manifest (1848)",
+        "Das Kapital in 1900"
+      ],
+      "answer": "das Kommunistische Manifest (1848)",
+      "explanation": "1848.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The ruling party of the GDR:",
+      "options": [
+        "die SED",
+        "die KPD"
+      ],
+      "answer": "die SED",
+      "explanation": "SED.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Kommunist (die Kommunistin) is a communist. It's a weak noun: den Kommunisten. Communism has German roots: Karl Marx, born in Trier, and Friedrich Engels wrote the Kommunistisches Manifest in 1848. The KPD (Communist Party of Germany) was banned in West Germany in 1956, while East Germany was ruled by the SED until 1989. Kommunistisch means communist. Der Kommunismus is communism."
+}

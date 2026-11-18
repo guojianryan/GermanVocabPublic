@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "schimmern",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHI-mern",
+      "ipa": "ˈʃɪmɐn",
+      "notes": ""
+    },
+    "meaning": "to shimmer, gleam",
+    "shortDefinition": "To shimmer, gleam."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schimmere"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schimmer|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schimmer|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schimmer|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schimmer|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schimmer|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geschimmert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der See schimmert im Mondlicht.",
+      "english": "The lake shimmers in the moonlight.",
+      "highlight": [
+        "schimmert"
+      ]
+    },
+    {
+      "german": "Durch die Vorhänge schimmerte Licht.",
+      "english": "Light gleamed through the curtains.",
+      "highlight": [
+        "schimmerte"
+      ]
+    }
+  ],
+  "forms": [
+    "schimmere",
+    "schimmerst",
+    "schimmert",
+    "schimmern",
+    "geschimmert",
+    "Schimmer"
+  ],
+  "memoryHook": "Schimmern: give off a soft Schimmer (gleam).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (schimmern)",
+      "answer": "schimmert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schimmert.",
+      "acceptedAnswers": [
+        "schimmert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (schimmern, past)",
+      "answer": "geschimmert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geschimmert.",
+      "acceptedAnswers": [
+        "geschimmert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does schimmern mean?",
+      "options": [
+        "the job",
+        "to shimmer",
+        "expensive"
+      ],
+      "answer": "to shimmer",
+      "explanation": "schimmern: to shimmer, gleam.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Keinen (blassen) Schimmer haben means…",
+      "options": [
+        "to have no idea",
+        "to be pale"
+      ],
+      "answer": "to have no idea",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schimmer is…",
+      "options": [
+        "shimmer, glimmer; trace",
+        "mould"
+      ],
+      "answer": "shimmer, glimmer; trace",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schimmel is…",
+      "options": [
+        "mould; white horse",
+        "shimmer"
+      ],
+      "answer": "mould; white horse",
+      "explanation": "Different.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Schimmern means to shimmer or gleam softly: Das Wasser schimmert, schimmernde Seide. Der Schimmer is a shimmer or glimmer, also a trace: ein Schimmer Hoffnung. The idiom keinen (blassen) Schimmer haben means to have no idea: Ich hab keinen blassen Schimmer. Don't confuse it with der Schimmel (mould; white horse). Regular: schimmerte, geschimmert."
+}

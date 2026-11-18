@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gastwirt",
+    "partOfSpeech": "noun, masculine (der Gastwirt)",
+    "pronunciation": {
+      "respelling": "GAST-virt",
+      "ipa": "ˈɡastˌvɪʁt",
+      "notes": "Plural: die Gastwirte."
+    },
+    "meaning": "innkeeper, landlord (of a pub)",
+    "shortDefinition": "Innkeeper, landlord (of a pub)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Gastwirt, plural die Gastwirte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Gastwirt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gastwirte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Gastwirt begrüßt jeden Stammgast persönlich.",
+      "english": "The landlord greets every regular personally.",
+      "highlight": [
+        "Gastwirt"
+      ]
+    },
+    {
+      "german": "Viele Gastwirte auf dem Land finden keine Nachfolger.",
+      "english": "Many rural innkeepers can't find successors.",
+      "highlight": [
+        "Gastwirte"
+      ]
+    }
+  ],
+  "forms": [
+    "Gastwirte",
+    "der Gastwirt",
+    "Gastwirtin"
+  ],
+  "memoryHook": "Gastwirt: the Wirt (host) of Gäste (guests).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gastwirt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Gastwirt is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gastwirt, zwei ___",
+      "answer": "Gastwirte",
+      "fullAnswer": "ein Gastwirt, zwei Gastwirte",
+      "explanation": "The plural is Gastwirte.",
+      "acceptedAnswers": [
+        "Gastwirte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gastwirt mean?",
+      "options": [
+        "innkeeper",
+        "to buy",
+        "the car"
+      ],
+      "answer": "innkeeper",
+      "explanation": "Gastwirt: innkeeper, landlord (of a pub).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gastwirtschaft is…",
+      "options": [
+        "inn, pub, restaurant",
+        "economy of guests"
+      ],
+      "answer": "inn, pub, restaurant",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Wirt is…",
+      "options": [
+        "landlord, host",
+        "a worth"
+      ],
+      "answer": "landlord, host",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gastronomie is…",
+      "options": [
+        "the hospitality / restaurant industry",
+        "astronomy"
+      ],
+      "answer": "the hospitality / restaurant industry",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Gastwirt (die Gastwirtin) is an innkeeper or pub landlord, running a Gastwirtschaft, Gasthaus or Kneipe; short form der Wirt. Rural Gasthäuser, once the centre of village life, are closing in many regions because of staff shortages and few successors, a trend called Wirtshaussterben. Die Gastronomie is the hospitality industry. Plural: die Gastwirte."
+}

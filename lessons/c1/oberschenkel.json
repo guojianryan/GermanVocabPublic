@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Oberschenkel",
+    "partOfSpeech": "noun, masculine (der Oberschenkel)",
+    "pronunciation": {
+      "respelling": "OH-ber-shen-kel",
+      "ipa": "ˈoːbɐˌʃɛŋkl̩",
+      "notes": "Plural: die Oberschenkel."
+    },
+    "meaning": "thigh",
+    "shortDefinition": "Thigh."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Oberschenkel, plural die Oberschenkel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Oberschenkel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Oberschenkel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hat sich den Oberschenkel gebrochen.",
+      "english": "He broke his thigh.",
+      "highlight": [
+        "Oberschenkel"
+      ]
+    },
+    {
+      "german": "Die Übung trainiert die Oberschenkel.",
+      "english": "The exercise trains the thighs.",
+      "highlight": [
+        "Oberschenkel."
+      ]
+    }
+  ],
+  "forms": [
+    "die Oberschenkel",
+    "der Oberschenkel",
+    "Unterschenkel"
+  ],
+  "memoryHook": "Oberschenkel: the upper (ober) part of the leg (Schenkel).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Oberschenkel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Oberschenkel is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Oberschenkel, zwei ___",
+      "answer": "Oberschenkel",
+      "fullAnswer": "ein Oberschenkel, zwei Oberschenkel",
+      "explanation": "The plural is Oberschenkel.",
+      "acceptedAnswers": [
+        "Oberschenkel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Oberschenkel mean?",
+      "options": [
+        "thigh",
+        "the job",
+        "the shop"
+      ],
+      "answer": "thigh",
+      "explanation": "Oberschenkel: thigh.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Unterschenkel is…",
+      "options": [
+        "the lower leg",
+        "the thigh"
+      ],
+      "answer": "the lower leg",
+      "explanation": "Lower leg.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Oberschenkelhalsbruch is…",
+      "options": [
+        "a broken hip (femoral neck fracture)",
+        "a sprained ankle"
+      ],
+      "answer": "a broken hip (femoral neck fracture)",
+      "explanation": "Hip.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schenkel is…",
+      "options": [
+        "thigh, leg; side of an angle",
+        "a gift"
+      ],
+      "answer": "thigh, leg; side of an angle",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Oberschenkel is the thigh; der Unterschenkel is the lower leg. Der Oberschenkelknochen (femur) is the longest bone in the body, and der Oberschenkelhalsbruch (femoral neck fracture) is a common injury among older people after falls. Der Schenkel also means a chicken leg (Hähnchenschenkel) and a side of an angle in geometry. Sich auf die Schenkel klopfen means to slap one's thighs with laughter. Plural: die Oberschenkel."
+}

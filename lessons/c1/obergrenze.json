@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Obergrenze",
+    "partOfSpeech": "noun, feminine (die Obergrenze)",
+    "pronunciation": {
+      "respelling": "OH-ber-gren-tse",
+      "ipa": "ˈoːbɐˌɡʁɛnt͡sə",
+      "notes": "Plural: die Obergrenzen."
+    },
+    "meaning": "upper limit, cap",
+    "shortDefinition": "Upper limit, cap."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Obergrenze, plural die Obergrenzen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Obergrenze"
+        },
+        {
+          "label": "More than one",
+          "value": "die Obergrenzen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Für die Miete gibt es eine Obergrenze.",
+      "english": "There's an upper limit on the rent.",
+      "highlight": [
+        "Obergrenze."
+      ]
+    },
+    {
+      "german": "Die CSU forderte eine Obergrenze für Flüchtlinge.",
+      "english": "The CSU demanded a cap on refugees.",
+      "highlight": [
+        "Obergrenze"
+      ]
+    }
+  ],
+  "forms": [
+    "Obergrenzen",
+    "die Obergrenze"
+  ],
+  "memoryHook": "Obergrenze: the upper (ober) Grenze (limit).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Obergrenze",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Obergrenze is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Obergrenze, zwei ___",
+      "answer": "Obergrenzen",
+      "fullAnswer": "ein Obergrenze, zwei Obergrenzen",
+      "explanation": "The plural is Obergrenzen.",
+      "acceptedAnswers": [
+        "Obergrenzen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Obergrenze mean?",
+      "options": [
+        "upper limit",
+        "to buy",
+        "the shop"
+      ],
+      "answer": "upper limit",
+      "explanation": "Obergrenze: upper limit, cap.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite:",
+      "options": [
+        "die Untergrenze",
+        "die Außengrenze"
+      ],
+      "answer": "die Untergrenze",
+      "explanation": "Lower.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Grenze is…",
+      "options": [
+        "border, limit",
+        "greens"
+      ],
+      "answer": "border, limit",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Mietpreisbremse limits…",
+      "options": [
+        "rent increases for new contracts",
+        "speed"
+      ],
+      "answer": "rent increases for new contracts",
+      "explanation": "Rent.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Obergrenze is an upper limit or cap: eine Obergrenze festlegen, die Obergrenze überschreiten. From 2015, the CSU's demand for an Obergrenze of 200,000 refugees a year caused fierce debates with Angela Merkel. The opposite is die Untergrenze, as in the minimum wage. Die Mietpreisbremse limits rents for new tenancies in tight markets. Plural: die Obergrenzen."
+}

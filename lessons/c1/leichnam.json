@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Leichnam",
+    "partOfSpeech": "noun, masculine (der Leichnam)",
+    "pronunciation": {
+      "respelling": "LAIKH-naam",
+      "ipa": "ˈlaɪ̯çnaːm",
+      "notes": "Plural: die Leichname."
+    },
+    "meaning": "corpse, body (formal)",
+    "shortDefinition": "Corpse, body (formal)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Leichnam, plural die Leichname.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Leichnam"
+        },
+        {
+          "label": "More than one",
+          "value": "die Leichname"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Leichnam wurde in die Heimat überführt.",
+      "english": "The body was transferred to his home country.",
+      "highlight": [
+        "Leichnam"
+      ]
+    },
+    {
+      "german": "Die Polizei fand den Leichnam im Wald.",
+      "english": "The police found the body in the woods.",
+      "highlight": [
+        "Leichnam"
+      ]
+    }
+  ],
+  "forms": [
+    "Leichname",
+    "die Leichname",
+    "der Leichnam"
+  ],
+  "memoryHook": "Leichnam: a formal word for a dead body (Leiche).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Leichnam",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Leichnam is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Leichnam, zwei ___",
+      "answer": "Leichname",
+      "fullAnswer": "ein Leichnam, zwei Leichname",
+      "explanation": "The plural is Leichname.",
+      "acceptedAnswers": [
+        "Leichname"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Leichnam mean?",
+      "options": [
+        "to open",
+        "corpse",
+        "the bill"
+      ],
+      "answer": "corpse",
+      "explanation": "Leichnam: corpse, body (formal).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Leichnam vs. Leiche:",
+      "options": [
+        "Leichnam is more formal and respectful",
+        "they mean different things"
+      ],
+      "answer": "Leichnam is more formal and respectful",
+      "explanation": "Formal.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fronleichnam is…",
+      "options": [
+        "Corpus Christi (Catholic holiday)",
+        "a crime show"
+      ],
+      "answer": "Corpus Christi (Catholic holiday)",
+      "explanation": "Holiday.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Leichenhalle is…",
+      "options": [
+        "mortuary",
+        "a light hall"
+      ],
+      "answer": "mortuary",
+      "explanation": "Mortuary.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Leichnam is a formal, respectful word for a dead body; the everyday word is die Leiche: Nur über meine Leiche! (over my dead body!). Fronleichnam (Corpus Christi, from the old word fron, of the Lord) is a Catholic public holiday in several southern and western German states, celebrated with processions in June. Plural: die Leichname."
+}

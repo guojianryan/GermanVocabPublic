@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ausbeutung",
+    "partOfSpeech": "noun, feminine (die Ausbeutung)",
+    "pronunciation": {
+      "respelling": "AUS-boy-tung",
+      "ipa": "ˈaʊ̯sˌbɔɪ̯tʊŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "exploitation",
+    "shortDefinition": "Exploitation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Ausbeutung, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Ausbeutung"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Ausbeutung der Arbeiter muss aufhören.",
+      "english": "The exploitation of workers must stop.",
+      "highlight": [
+        "Ausbeutung"
+      ]
+    },
+    {
+      "german": "Das Lieferkettengesetz soll Ausbeutung verhindern.",
+      "english": "The supply chain law is meant to prevent exploitation.",
+      "highlight": [
+        "Ausbeutung"
+      ]
+    }
+  ],
+  "forms": [
+    "die Ausbeutung",
+    "ausbeuten"
+  ],
+  "memoryHook": "Ausbeutung: taking the Beute (loot) out (aus) of people or nature.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ausbeutung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Ausbeutung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ausbeutung mean?",
+      "options": [
+        "the bed",
+        "to buy",
+        "exploitation"
+      ],
+      "answer": "exploitation",
+      "explanation": "Ausbeutung: exploitation.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ausbeuten means…",
+      "options": [
+        "to exploit",
+        "to sell out"
+      ],
+      "answer": "to exploit",
+      "explanation": "ausbeuten.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Beute is…",
+      "options": [
+        "loot, prey",
+        "a bag"
+      ],
+      "answer": "loot, prey",
+      "explanation": "Beute.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Lieferkettengesetz is about…",
+      "options": [
+        "human rights in supply chains",
+        "delivery times"
+      ],
+      "answer": "human rights in supply chains",
+      "explanation": "2023 law.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Ausbeutung is exploitation: die Ausbeutung von Arbeitskräften, die Ausbeutung der Natur. The verb ausbeuten means to exploit; in mining, it also means simply to extract resources. Die Beute is loot or prey. Since 2023, Germany's Lieferkettengesetz (supply chain act) requires large companies to check their suppliers for human rights abuses such as Ausbeutung and child labour. Karl Marx made Ausbeutung a key concept."
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verstreichen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-SHTRAI-khen",
+      "ipa": "fɛɐ̯ˈʃtʁaɪ̯çn̩",
+      "notes": ""
+    },
+    "meaning": "to pass, elapse (time); to spread",
+    "shortDefinition": "To pass, elapse (time); to spread."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verstreich|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verstreich|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verstreich|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verstreich|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verstreich|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verstreich|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist verstrichen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Frist ist ungenutzt verstrichen.",
+      "english": "The deadline passed unused.",
+      "highlight": [
+        "verstrichen."
+      ]
+    },
+    {
+      "german": "Wertvolle Zeit verstrich.",
+      "english": "Valuable time slipped away.",
+      "highlight": [
+        "verstrich."
+      ]
+    }
+  ],
+  "forms": [
+    "verstreiche",
+    "verstreichst",
+    "verstreicht",
+    "verstreichen",
+    "verstrichen",
+    "verstrich"
+  ],
+  "memoryHook": "Verstreichen: time streicht (strokes, sweeps) past.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verstreichen)",
+      "answer": "verstreicht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verstreicht.",
+      "acceptedAnswers": [
+        "verstreicht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (verstreichen, past)",
+      "answer": "verstrichen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin verstrichen.",
+      "acceptedAnswers": [
+        "verstrichen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verstreichen mean?",
+      "options": [
+        "the child",
+        "to pass",
+        "the key"
+      ],
+      "answer": "to pass",
+      "explanation": "verstreichen: to pass, elapse (time); to spread.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Of time, verstreichen takes…",
+      "options": [
+        "sein",
+        "haben"
+      ],
+      "answer": "sein",
+      "explanation": "Auxiliary.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "verstrich, verstrichen",
+        "verstreichte"
+      ],
+      "answer": "verstrich, verstrichen",
+      "explanation": "Irregular.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Frist verstreichen lassen means…",
+      "options": [
+        "to let a deadline pass",
+        "to extend a deadline"
+      ],
+      "answer": "to let a deadline pass",
+      "explanation": "Phrase.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verstreichen means to pass or elapse, of time and deadlines: Die Frist ist verstrichen, eine Chance verstreichen lassen. With this meaning it takes sein. It also means to spread a substance: Butter, Farbe, Mörtel verstreichen, and then it takes haben. Irregular like streichen: verstrich, verstrichen."
+}

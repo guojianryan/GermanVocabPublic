@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "schimmeln",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHI-meln",
+      "ipa": "ˈʃɪml̩n",
+      "notes": ""
+    },
+    "meaning": "to go mouldy",
+    "shortDefinition": "To go mouldy."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schimm|le"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schimmel|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schimmel|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schimmel|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schimmel|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schimmel|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist geschimmelt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Brot ist geschimmelt.",
+      "english": "The bread has gone mouldy.",
+      "highlight": [
+        "geschimmelt."
+      ]
+    },
+    {
+      "german": "In feuchten Wohnungen schimmeln die Wände.",
+      "english": "In damp flats the walls go mouldy.",
+      "highlight": [
+        "schimmeln."
+      ]
+    }
+  ],
+  "forms": [
+    "schimmle",
+    "schimmelst",
+    "schimmelt",
+    "schimmeln",
+    "geschimmelt",
+    "Schimmel",
+    "schimmelig"
+  ],
+  "memoryHook": "Schimmeln: grow Schimmel (mould).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (schimmeln)",
+      "answer": "schimmelt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schimmelt.",
+      "acceptedAnswers": [
+        "schimmelt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (schimmeln, past)",
+      "answer": "geschimmelt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin geschimmelt.",
+      "acceptedAnswers": [
+        "geschimmelt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does schimmeln mean?",
+      "options": [
+        "to go mouldy",
+        "slowly",
+        "the bed"
+      ],
+      "answer": "to go mouldy",
+      "explanation": "schimmeln: to go mouldy.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schimmel is…",
+      "options": [
+        "mould; white horse",
+        "shimmer"
+      ],
+      "answer": "mould; white horse",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schimmelig means…",
+      "options": [
+        "mouldy",
+        "shiny"
+      ],
+      "answer": "mouldy",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Perfect with…",
+      "options": [
+        "sein (or haben)",
+        "werden"
+      ],
+      "answer": "sein (or haben)",
+      "explanation": "Aux.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Schimmeln means to go mouldy: Das Brot schimmelt, Die Marmelade ist geschimmelt. Der Schimmel is mould, a frequent problem in German flats due to poor ventilation; tenants are told to air rooms regularly (Stoßlüften). Confusingly, der Schimmel is also a white horse, so ein weißer Schimmel is the classic German example of a redundant phrase. Schimmelig means mouldy. Perfect with sein or haben."
+}

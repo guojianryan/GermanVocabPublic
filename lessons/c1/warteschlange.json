@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Warteschlange",
+    "partOfSpeech": "noun, feminine (die Warteschlange)",
+    "pronunciation": {
+      "respelling": "VAR-te-shlang-e",
+      "ipa": "ˈvaʁtəˌʃlaŋə",
+      "notes": "Plural: die Warteschlangen."
+    },
+    "meaning": "queue, line",
+    "shortDefinition": "Queue, line."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Warteschlange, plural die Warteschlangen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Warteschlange"
+        },
+        {
+          "label": "More than one",
+          "value": "die Warteschlangen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "An der Kasse bildete sich eine Warteschlange.",
+      "english": "A queue formed at the checkout.",
+      "highlight": [
+        "Warteschlange"
+      ]
+    },
+    {
+      "german": "Sie sind in der Warteschlange, bitte haben Sie etwas Geduld.",
+      "english": "You are in the queue, please be patient.",
+      "highlight": [
+        "Warteschlange,"
+      ]
+    }
+  ],
+  "forms": [
+    "Warteschlangen",
+    "die Warteschlange"
+  ],
+  "memoryHook": "Warteschlange: a Schlange (snake) of people warten (waiting).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Warteschlange",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Warteschlange is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Warteschlange, zwei ___",
+      "answer": "Warteschlangen",
+      "fullAnswer": "ein Warteschlange, zwei Warteschlangen",
+      "explanation": "The plural is Warteschlangen.",
+      "acceptedAnswers": [
+        "Warteschlangen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Warteschlange mean?",
+      "options": [
+        "the bed",
+        "queue",
+        "the window"
+      ],
+      "answer": "queue",
+      "explanation": "Warteschlange: queue, line.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schlange stehen means…",
+      "options": [
+        "to queue",
+        "to stand like a snake"
+      ],
+      "answer": "to queue",
+      "explanation": "Phrase.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schlange is…",
+      "options": [
+        "snake; queue",
+        "a sling"
+      ],
+      "answer": "snake; queue",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich anstellen means…",
+      "options": [
+        "to join a queue",
+        "to employ oneself"
+      ],
+      "answer": "to join a queue",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Warteschlange is a queue: in der Warteschlange stehen, and on the phone or online: Sie befinden sich in der Warteschlange. More common in speech is just die Schlange: Schlange stehen (to queue), sich hinten anstellen (to join the back). Die Schlange is also a snake. Germans are known for orderly queuing, though not always. Plural: die Warteschlangen."
+}

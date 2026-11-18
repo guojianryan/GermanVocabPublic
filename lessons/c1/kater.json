@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kater",
+    "partOfSpeech": "noun, masculine (der Kater)",
+    "pronunciation": {
+      "respelling": "KAA-ter",
+      "ipa": "ˈkaːtɐ",
+      "notes": "Plural: die Kater."
+    },
+    "meaning": "tomcat; hangover",
+    "shortDefinition": "Tomcat; hangover."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kater, plural die Kater.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kater"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kater"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Unser Kater heißt Felix.",
+      "english": "Our tomcat is called Felix.",
+      "highlight": [
+        "Kater"
+      ]
+    },
+    {
+      "german": "Nach der Party hatte ich einen Kater.",
+      "english": "After the party I had a hangover.",
+      "highlight": [
+        "Kater."
+      ]
+    }
+  ],
+  "forms": [
+    "die Kater",
+    "der Kater",
+    "Katerstimmung"
+  ],
+  "memoryHook": "Kater: the cat that sits on your head after a party.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kater",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kater is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kater, zwei ___",
+      "answer": "Kater",
+      "fullAnswer": "ein Kater, zwei Kater",
+      "explanation": "The plural is Kater.",
+      "acceptedAnswers": [
+        "Kater"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kater mean?",
+      "options": [
+        "the door",
+        "the family",
+        "tomcat"
+      ],
+      "answer": "tomcat",
+      "explanation": "Kater: tomcat; hangover.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einen Kater haben means…",
+      "options": [
+        "to have a hangover",
+        "to own a cat"
+      ],
+      "answer": "to have a hangover",
+      "explanation": "Hangover!",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Katze (female) vs der Kater…",
+      "options": [
+        "male cat",
+        "kitten"
+      ],
+      "answer": "male cat",
+      "explanation": "Tomcat.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Katerfrühstück is…",
+      "options": [
+        "a hangover breakfast",
+        "cat food"
+      ],
+      "answer": "a hangover breakfast",
+      "explanation": "Rollmops etc.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Kater is a male cat (tomcat), and also a hangover: Ich habe einen Kater. The hangover meaning probably comes from Katarrh (catarrh), not from the animal. Das Katerfrühstück is a hangover breakfast, traditionally with Rollmops or pickled herring. Die Katerstimmung is the gloomy mood after a big celebration, also used for markets after a boom. Der gestiefelte Kater is Puss in Boots."
+}

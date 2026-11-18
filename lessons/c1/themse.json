@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Themse",
+    "partOfSpeech": "noun, feminine (die Themse)",
+    "pronunciation": {
+      "respelling": "TEM-ze",
+      "ipa": "ˈtɛmzə",
+      "notes": "Usually no plural."
+    },
+    "meaning": "the Thames",
+    "shortDefinition": "The Thames."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Themse, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Themse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "London liegt an der Themse.",
+      "english": "London lies on the Thames.",
+      "highlight": [
+        "Themse."
+      ]
+    },
+    {
+      "german": "Wir machten eine Bootsfahrt auf der Themse.",
+      "english": "We took a boat trip on the Thames.",
+      "highlight": [
+        "Themse."
+      ]
+    }
+  ],
+  "forms": [
+    "die Themse"
+  ],
+  "memoryHook": "Themse: the German name for the Thames.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Themse",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Themse is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Themse mean?",
+      "options": [
+        "the Thames",
+        "quiet",
+        "never"
+      ],
+      "answer": "the Thames",
+      "explanation": "Themse: the Thames.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "die Themse",
+        "der Themse"
+      ],
+      "answer": "die Themse",
+      "explanation": "Gender.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Most German river names are…",
+      "options": [
+        "feminine (die Elbe, die Donau), but der Rhein, der Main",
+        "all masculine"
+      ],
+      "answer": "feminine (die Elbe, die Donau), but der Rhein, der Main",
+      "explanation": "Grammar.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Other German exonyms:",
+      "options": [
+        "Mailand (Milan), Venedig (Venice)",
+        "London (Londres)"
+      ],
+      "answer": "Mailand (Milan), Venedig (Venice)",
+      "explanation": "Exonyms.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Themse is the German name for the Thames, the river through London: an der Themse. German uses its own names (exonyms) for many foreign places: Mailand, Venedig, Lüttich, Genf. Most German rivers are feminine (die Elbe, die Donau, die Spree), but some are masculine: der Rhein, der Main, der Neckar. It has no plural."
+}

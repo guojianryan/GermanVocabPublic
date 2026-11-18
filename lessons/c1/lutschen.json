@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "lutschen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "LU-chen",
+      "ipa": "ˈlʊt͡ʃn̩",
+      "notes": ""
+    },
+    "meaning": "to suck (sweets, thumb)",
+    "shortDefinition": "To suck (sweets, thumb)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "lutsch|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "lutsch|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "lutsch|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "lutsch|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "lutsch|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "lutsch|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gelutscht"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Kind lutscht am Daumen.",
+      "english": "The child sucks its thumb.",
+      "highlight": [
+        "lutscht"
+      ]
+    },
+    {
+      "german": "Er hat ein Bonbon gelutscht.",
+      "english": "He sucked a sweet.",
+      "highlight": [
+        "gelutscht."
+      ]
+    }
+  ],
+  "forms": [
+    "lutsche",
+    "lutschst",
+    "lutscht",
+    "lutschen",
+    "gelutscht",
+    "Lutscher"
+  ],
+  "memoryHook": "Lutschen: the sound of sucking a sweet.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (lutschen)",
+      "answer": "lutscht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: lutscht.",
+      "acceptedAnswers": [
+        "lutscht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (lutschen, past)",
+      "answer": "gelutscht",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gelutscht.",
+      "acceptedAnswers": [
+        "gelutscht"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does lutschen mean?",
+      "options": [
+        "to open",
+        "to suck (sweets",
+        "always"
+      ],
+      "answer": "to suck (sweets",
+      "explanation": "lutschen: to suck (sweets, thumb).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Lutscher is…",
+      "options": [
+        "lollipop",
+        "sucker (person)"
+      ],
+      "answer": "lollipop",
+      "explanation": "Lolly.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Lutschen vs. saugen:",
+      "options": [
+        "lutschen = in the mouth (sweets); saugen = suck in, vacuum",
+        "the same"
+      ],
+      "answer": "lutschen = in the mouth (sweets); saugen = suck in, vacuum",
+      "explanation": "Difference.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Lutschbonbon is…",
+      "options": [
+        "a boiled sweet to suck",
+        "chewing gum"
+      ],
+      "answer": "a boiled sweet to suck",
+      "explanation": "Compound.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Lutschen means to suck something in the mouth: ein Bonbon lutschen, am Daumen lutschen (thumb-sucking). Der Lutscher is a lollipop, and Lutschtabletten are throat lozenges. Saugen is to suck in general, including vacuuming (Staub saugen). Das ist schon gelutscht (colloquial) means it's done and dusted. Regular: lutschte, gelutscht."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bauwerk",
+    "partOfSpeech": "noun, neuter (das Bauwerk)",
+    "pronunciation": {
+      "respelling": "BAU-verk",
+      "ipa": "ˈbaʊ̯ˌvɛʁk",
+      "notes": "Plural: die Bauwerke."
+    },
+    "meaning": "building, structure",
+    "shortDefinition": "Building, structure."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Bauwerk, plural die Bauwerke.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Bauwerk"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bauwerke"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Kölner Dom ist ein beeindruckendes Bauwerk.",
+      "english": "Cologne Cathedral is an impressive structure.",
+      "highlight": [
+        "Bauwerk."
+      ]
+    },
+    {
+      "german": "Brücken und Tunnel sind Bauwerke.",
+      "english": "Bridges and tunnels are structures.",
+      "highlight": [
+        "Bauwerke."
+      ]
+    }
+  ],
+  "forms": [
+    "Bauwerke",
+    "die Bauwerke",
+    "das Bauwerk"
+  ],
+  "memoryHook": "Bauwerk: a work (Werk) of building (bauen).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bauwerk",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Bauwerk is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bauwerk, zwei ___",
+      "answer": "Bauwerke",
+      "fullAnswer": "ein Bauwerk, zwei Bauwerke",
+      "explanation": "The plural is Bauwerke.",
+      "acceptedAnswers": [
+        "Bauwerke"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bauwerk mean?",
+      "options": [
+        "the street",
+        "building",
+        "quiet"
+      ],
+      "answer": "building",
+      "explanation": "Bauwerk: building, structure.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Bauwerk is broader than…",
+      "options": [
+        "das Gebäude (building with rooms)",
+        "das Haus"
+      ],
+      "answer": "das Gebäude (building with rooms)",
+      "explanation": "Broader.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bauen means…",
+      "options": [
+        "to build",
+        "to farm only"
+      ],
+      "answer": "to build",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Werk is…",
+      "options": [
+        "work; works, factory",
+        "worm"
+      ],
+      "answer": "work; works, factory",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Bauwerk is a building or structure, including bridges, towers, dams and monuments: historische Bauwerke, ein architektonisches Meisterwerk. It's broader than das Gebäude, which is a building with rooms. Germany's famous Bauwerke include Cologne Cathedral (Kölner Dom), the Brandenburg Gate and Neuschwanstein Castle, and the Elbphilharmonie in Hamburg became a landmark in 2017. Plural: die Bauwerke."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Hochrechnung",
+    "partOfSpeech": "noun, feminine (die Hochrechnung)",
+    "pronunciation": {
+      "respelling": "HOHKH-rekh-nung",
+      "ipa": "ˈhoːxˌʁɛçnʊŋ",
+      "notes": "Plural: die Hochrechnungen."
+    },
+    "meaning": "projection (election), extrapolation",
+    "shortDefinition": "Projection (election), extrapolation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Hochrechnung, plural die Hochrechnungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Hochrechnung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Hochrechnungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Laut erster Hochrechnung liegt die Partei vorn.",
+      "english": "According to the first projection the party is ahead.",
+      "highlight": [
+        "Hochrechnung"
+      ]
+    },
+    {
+      "german": "Die Hochrechnungen wurden im Laufe des Abends genauer.",
+      "english": "The projections became more accurate during the evening.",
+      "highlight": [
+        "Hochrechnungen"
+      ]
+    }
+  ],
+  "forms": [
+    "Hochrechnungen",
+    "die Hochrechnung"
+  ],
+  "memoryHook": "Hochrechnung: rechnen (calculating) hoch (up) from partial data.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Hochrechnung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Hochrechnung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Hochrechnung, zwei ___",
+      "answer": "Hochrechnungen",
+      "fullAnswer": "ein Hochrechnung, zwei Hochrechnungen",
+      "explanation": "The plural is Hochrechnungen.",
+      "acceptedAnswers": [
+        "Hochrechnungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Hochrechnung mean?",
+      "options": [
+        "projection (election)",
+        "expensive",
+        "the window"
+      ],
+      "answer": "projection (election)",
+      "explanation": "Hochrechnung: projection (election), extrapolation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Prognose at 18:00 on election night is based on…",
+      "options": [
+        "exit polls",
+        "counted votes"
+      ],
+      "answer": "exit polls",
+      "explanation": "Election.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Hochrechnung is based on…",
+      "options": [
+        "partial counted results",
+        "opinion polls"
+      ],
+      "answer": "partial counted results",
+      "explanation": "Election.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hochrechnen means…",
+      "options": [
+        "to extrapolate, project",
+        "to calculate high"
+      ],
+      "answer": "to extrapolate, project",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Hochrechnung is a projection or extrapolation, best known from election nights: at 18:00, ARD and ZDF show a Prognose based on exit polls, followed by Hochrechnungen based on partly counted votes, which grow more precise until das vorläufige Endergebnis. Hochrechnen means to extrapolate: die Kosten aufs Jahr hochrechnen. Plural: die Hochrechnungen."
+}

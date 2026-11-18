@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Verurteilung",
+    "partOfSpeech": "noun, feminine (die Verurteilung)",
+    "pronunciation": {
+      "respelling": "fer-UR-tai-lung",
+      "ipa": "fɛɐ̯ˈʔʊʁtaɪ̯lʊŋ",
+      "notes": "Plural: die Verurteilungen."
+    },
+    "meaning": "conviction, sentencing; condemnation",
+    "shortDefinition": "Conviction, sentencing; condemnation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Verurteilung, plural die Verurteilungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Verurteilung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Verurteilungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Verurteilung erfolgte wegen Betrugs.",
+      "english": "The conviction was for fraud.",
+      "highlight": [
+        "Verurteilung"
+      ]
+    },
+    {
+      "german": "Es gab eine scharfe Verurteilung des Angriffs.",
+      "english": "There was sharp condemnation of the attack.",
+      "highlight": [
+        "Verurteilung"
+      ]
+    }
+  ],
+  "forms": [
+    "Verurteilungen",
+    "die Verurteilungen",
+    "die Verurteilung",
+    "verurteilen"
+  ],
+  "memoryHook": "Verurteilung: the Urteil (verdict) goes against you.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Verurteilung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Verurteilung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Verurteilung, zwei ___",
+      "answer": "Verurteilungen",
+      "fullAnswer": "ein Verurteilung, zwei Verurteilungen",
+      "explanation": "The plural is Verurteilungen.",
+      "acceptedAnswers": [
+        "Verurteilungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Verurteilung mean?",
+      "options": [
+        "to buy",
+        "conviction",
+        "the car"
+      ],
+      "answer": "conviction",
+      "explanation": "Verurteilung: conviction, sentencing; condemnation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verurteilen means…",
+      "options": [
+        "to sentence; to condemn",
+        "to judge a contest"
+      ],
+      "answer": "to sentence; to condemn",
+      "explanation": "verurteilen.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Urteil is…",
+      "options": [
+        "the verdict, judgement",
+        "the jury"
+      ],
+      "answer": "the verdict, judgement",
+      "explanation": "Urteil.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite of a conviction:",
+      "options": [
+        "der Freispruch",
+        "die Anklage"
+      ],
+      "answer": "der Freispruch",
+      "explanation": "Acquittal.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Verurteilung is a conviction or sentencing in court: eine Verurteilung zu drei Jahren Haft. It's also condemnation in politics: die internationale Verurteilung des Angriffs. The verb verurteilen covers both: Er wurde zu einer Geldstrafe verurteilt; Wir verurteilen diese Gewalt. The opposite of a conviction is der Freispruch (acquittal). Das Urteil is the verdict, and der Richter the judge who passes it."
+}

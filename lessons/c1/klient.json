@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Klient",
+    "partOfSpeech": "noun, masculine (der Klient)",
+    "pronunciation": {
+      "respelling": "kli-ENT",
+      "ipa": "kliˈʔɛnt",
+      "notes": "Plural: die Klienten."
+    },
+    "meaning": "client",
+    "shortDefinition": "Client."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Klient, plural die Klienten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Klient"
+        },
+        {
+          "label": "More than one",
+          "value": "die Klienten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Anwalt trifft sich mit seinem Klienten.",
+      "english": "The lawyer is meeting his client.",
+      "highlight": [
+        "Klienten."
+      ]
+    },
+    {
+      "german": "Die Sozialarbeiterin betreut zwanzig Klientinnen.",
+      "english": "The social worker looks after twenty clients.",
+      "highlight": [
+        "Klientinnen."
+      ]
+    }
+  ],
+  "forms": [
+    "Klienten",
+    "die Klienten",
+    "der Klient",
+    "Klientin",
+    "Klientel"
+  ],
+  "memoryHook": "Klient: a client of a lawyer or counsellor, not a shop.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Klient",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Klient is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Klient, zwei ___",
+      "answer": "Klienten",
+      "fullAnswer": "ein Klient, zwei Klienten",
+      "explanation": "The plural is Klienten.",
+      "acceptedAnswers": [
+        "Klienten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Klient mean?",
+      "options": [
+        "the bed",
+        "the car",
+        "client"
+      ],
+      "answer": "client",
+      "explanation": "Klient: client.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Klient is a weak noun:",
+      "options": [
+        "den Klienten",
+        "den Klient"
+      ],
+      "answer": "den Klienten",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kunde is used for…",
+      "options": [
+        "shop and business customers",
+        "only lawyers' clients"
+      ],
+      "answer": "shop and business customers",
+      "explanation": "Customer.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Klientel is…",
+      "options": [
+        "clientele",
+        "a client's file"
+      ],
+      "answer": "clientele",
+      "explanation": "Clientele.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Klient (die Klientin) is a client, mainly of lawyers, counsellors, social workers or therapists. For shops and most businesses, German uses der Kunde. Lawyers also say der Mandant. It's a weak noun: den Klienten. Die Klientel is a clientele or, in politics, a party's core voters: Klientelpolitik means policies favouring one interest group. Stressed on the last syllable: kli-ENT. Plural: die Klienten."
+}

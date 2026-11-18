@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "zerbrechen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "tser-BRE-khen",
+      "ipa": "t͡sɛɐ̯ˈbʁɛçn̩",
+      "notes": ""
+    },
+    "meaning": "to break (into pieces); to break up",
+    "shortDefinition": "To break (into pieces); to break up."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "zerbrech|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "zerbrich|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "zerbrich|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "zerbrech|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "zerbrech|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "zerbrech|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist zerbrochen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Vase ist zerbrochen.",
+      "english": "The vase has broken.",
+      "highlight": [
+        "zerbrochen."
+      ]
+    },
+    {
+      "german": "Ihre Ehe zerbrach an der Eifersucht.",
+      "english": "Their marriage broke up because of jealousy.",
+      "highlight": [
+        "zerbrach"
+      ]
+    }
+  ],
+  "forms": [
+    "zerbreche",
+    "zerbrichst",
+    "zerbricht",
+    "zerbrechen",
+    "zerbrecht",
+    "zerbrochen",
+    "zerbrach",
+    "zerbrechlich"
+  ],
+  "memoryHook": "Zerbrechen: break (brechen) to pieces (zer-).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (zerbrechen)",
+      "answer": "zerbricht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: zerbricht.",
+      "acceptedAnswers": [
+        "zerbricht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (zerbrechen, past)",
+      "answer": "zerbrochen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin zerbrochen.",
+      "acceptedAnswers": [
+        "zerbrochen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does zerbrechen mean?",
+      "options": [
+        "to wait",
+        "to break (into pieces)",
+        "to sing"
+      ],
+      "answer": "to break (into pieces)",
+      "explanation": "zerbrechen: to break (into pieces); to break up.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zerbrechlich means…",
+      "options": [
+        "fragile",
+        "broken"
+      ],
+      "answer": "fragile",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich den Kopf zerbrechen means…",
+      "options": [
+        "to rack one's brains",
+        "to hurt one's head"
+      ],
+      "answer": "to rack one's brains",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms (intransitive):",
+      "options": [
+        "zerbrach, ist zerbrochen",
+        "zerbrechte"
+      ],
+      "answer": "zerbrach, ist zerbrochen",
+      "explanation": "Irregular.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Zerbrechen means to break into pieces: Das Glas zerbricht (with sein), Er hat den Teller zerbrochen (with haben). Figuratively, a marriage or coalition zerbricht an etwas (breaks up over something). Sich den Kopf zerbrechen means to rack one's brains. Zerbrechlich means fragile: Vorsicht, zerbrechlich! on parcels. Irregular: zerbrach, zerbrochen."
+}

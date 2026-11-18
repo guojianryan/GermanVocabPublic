@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "einatmen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AIN-aat-men",
+      "ipa": "ˈaɪ̯nˌʔaːtmən",
+      "notes": ""
+    },
+    "meaning": "to breathe in, inhale",
+    "shortDefinition": "To breathe in, inhale."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "atm|e … |ein"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "atm|est … |ein"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "atm|et … |ein"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "atm|en … |ein"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "atm|et … |ein"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "atm|en … |ein"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat eingeatmet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Tief einatmen und wieder ausatmen!",
+      "english": "Breathe in deeply and out again!",
+      "highlight": [
+        "einatmen"
+      ]
+    },
+    {
+      "german": "Er hat giftige Dämpfe eingeatmet.",
+      "english": "He inhaled toxic fumes.",
+      "highlight": [
+        "eingeatmet."
+      ]
+    }
+  ],
+  "forms": [
+    "atme ein",
+    "atmest ein",
+    "atmet ein",
+    "atmen ein",
+    "eingeatmet",
+    "atmete ein"
+  ],
+  "memoryHook": "Einatmen: breathe (atmen) in (ein).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ein (einatmen)",
+      "answer": "atmet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: atmet … ein.",
+      "acceptedAnswers": [
+        "atmet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (einatmen, past)",
+      "answer": "eingeatmet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe eingeatmet.",
+      "acceptedAnswers": [
+        "eingeatmet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does einatmen mean?",
+      "options": [
+        "to breathe in",
+        "to wait",
+        "to help"
+      ],
+      "answer": "to breathe in",
+      "explanation": "einatmen: to breathe in, inhale.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ausatmen means…",
+      "options": [
+        "to breathe out",
+        "to breathe in"
+      ],
+      "answer": "to breathe out",
+      "explanation": "Opposite.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Atem is…",
+      "options": [
+        "breath",
+        "atom"
+      ],
+      "answer": "breath",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Inhalieren means…",
+      "options": [
+        "to inhale (medicine)",
+        "to exhale"
+      ],
+      "answer": "to inhale (medicine)",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Einatmen means to breathe in or inhale: tief einatmen, Rauch einatmen. The opposite is ausatmen (to breathe out). Doctors say Bitte tief einatmen... und ausatmen. For medicines and steam, Germans say inhalieren. Durchatmen means to take a deep breath, also figuratively to relax: endlich durchatmen. Separable: atmete ein, eingeatmet."
+}

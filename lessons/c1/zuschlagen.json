@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "zuschlagen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "TSOO-shlaa-gen",
+      "ipa": "ˈt͡suːˌʃlaːɡn̩",
+      "notes": ""
+    },
+    "meaning": "to slam; to strike; to grab a bargain",
+    "shortDefinition": "To slam; to strike; to grab a bargain."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schlag|e … |zu"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schläg|st … |zu"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schläg|t … |zu"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schlag|en … |zu"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schlag|t … |zu"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schlag|en … |zu"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat zugeschlagen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Tür schlug mit einem Knall zu.",
+      "english": "The door slammed shut with a bang.",
+      "highlight": [
+        "schlug",
+        "zu."
+      ]
+    },
+    {
+      "german": "Bei dem Preis musste ich einfach zuschlagen.",
+      "english": "At that price I just had to snap it up.",
+      "highlight": [
+        "zuschlagen."
+      ]
+    }
+  ],
+  "forms": [
+    "schlage zu",
+    "schlägst zu",
+    "schlägt zu",
+    "schlagen zu",
+    "schlagt zu",
+    "zugeschlagen",
+    "schlug zu",
+    "Zuschlag"
+  ],
+  "memoryHook": "Zuschlagen: hit (schlagen) shut (zu), or strike when it's time.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … zu (zuschlagen)",
+      "answer": "schlägt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schlägt … zu.",
+      "acceptedAnswers": [
+        "schlaegt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (zuschlagen, past)",
+      "answer": "zugeschlagen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe zugeschlagen.",
+      "acceptedAnswers": [
+        "zugeschlagen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does zuschlagen mean?",
+      "options": [
+        "to buy",
+        "the bill",
+        "to slam"
+      ],
+      "answer": "to slam",
+      "explanation": "zuschlagen: to slam; to strike; to grab a bargain.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bei einem Angebot zuschlagen means…",
+      "options": [
+        "to snap up an offer",
+        "to reject an offer"
+      ],
+      "answer": "to snap up an offer",
+      "explanation": "Bargain.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Zuschlag is…",
+      "options": [
+        "surcharge; winning bid",
+        "a slam"
+      ],
+      "answer": "surcharge; winning bid",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Täter schlug zu means…",
+      "options": [
+        "the attacker struck",
+        "the attacker fled"
+      ],
+      "answer": "the attacker struck",
+      "explanation": "Strike.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Zuschlagen means to slam shut (die Tür zuschlagen), to strike (Der Täter schlug zu) and to snap up a bargain: Bei dem Preis habe ich zugeschlagen. Der Zuschlag is a surcharge (der ICE-Zuschlag, Nachtzuschlag) and the winning bid at an auction or tender: den Zuschlag erhalten. Separable and irregular: schlug zu, zugeschlagen."
+}

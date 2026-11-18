@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "zurückstellen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "tsu-RÜK-shte-len",
+      "ipa": "t͡suˈʁʏkˌʃtɛlən",
+      "notes": ""
+    },
+    "meaning": "to put back; to postpone, defer",
+    "shortDefinition": "To put back; to postpone, defer."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "stell|e … |zurück"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "stell|st … |zurück"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "stell|t … |zurück"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "stell|en … |zurück"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "stell|t … |zurück"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "stell|en … |zurück"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat zurückgestellt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Herbst werden die Uhren zurückgestellt.",
+      "english": "In autumn the clocks are put back.",
+      "highlight": [
+        "zurückgestellt."
+      ]
+    },
+    {
+      "german": "Er stellte seine eigenen Wünsche zurück.",
+      "english": "He put his own wishes aside.",
+      "highlight": [
+        "stellte",
+        "zurück."
+      ]
+    }
+  ],
+  "forms": [
+    "stelle zurück",
+    "stellst zurück",
+    "stellt zurück",
+    "stellen zurück",
+    "zurückgestellt",
+    "stellte zurück"
+  ],
+  "memoryHook": "Zurückstellen: stellen (put) something back (zurück).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … zurück (zurückstellen)",
+      "answer": "stellt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: stellt … zurück.",
+      "acceptedAnswers": [
+        "stellt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (zurückstellen, past)",
+      "answer": "zurückgestellt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe zurückgestellt.",
+      "acceptedAnswers": [
+        "zurueckgestellt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does zurückstellen mean?",
+      "options": [
+        "to put back",
+        "the job",
+        "quiet"
+      ],
+      "answer": "to put back",
+      "explanation": "zurückstellen: to put back; to postpone, defer.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Kind zurückstellen (school) means…",
+      "options": [
+        "to defer school entry by a year",
+        "to punish a child"
+      ],
+      "answer": "to defer school entry by a year",
+      "explanation": "School.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bedenken zurückstellen means…",
+      "options": [
+        "to set concerns aside",
+        "to return concerns"
+      ],
+      "answer": "to set concerns aside",
+      "explanation": "Figurative.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Rückstellung (finance) is…",
+      "options": [
+        "provision, reserve",
+        "a return"
+      ],
+      "answer": "provision, reserve",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Zurückstellen means to put back: das Buch ins Regal, die Uhr zurückstellen. Figuratively, it means to defer or set aside: eigene Interessen, Bedenken zurückstellen, eine Entscheidung zurückstellen. A child who isn't ready for school can be vom Schulbesuch zurückgestellt for a year. In accounting, eine Rückstellung is a provision. Separable: stellte zurück, zurückgestellt."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Netzhaut",
+    "partOfSpeech": "noun, feminine (die Netzhaut)",
+    "pronunciation": {
+      "respelling": "NETS-haut",
+      "ipa": "ˈnɛt͡sˌhaʊ̯t",
+      "notes": "Plural: die Netzhäute."
+    },
+    "meaning": "retina",
+    "shortDefinition": "Retina."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Netzhaut, plural die Netzhäute.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Netzhaut"
+        },
+        {
+          "label": "More than one",
+          "value": "die Netzhäute"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Netzhaut wandelt Licht in Nervensignale um.",
+      "english": "The retina converts light into nerve signals.",
+      "highlight": [
+        "Netzhaut"
+      ]
+    },
+    {
+      "german": "Er hatte eine Netzhautablösung.",
+      "english": "He had a detached retina.",
+      "highlight": [
+        "Netzhautablösung."
+      ]
+    }
+  ],
+  "forms": [
+    "Netzhäute",
+    "die Netzhaut"
+  ],
+  "memoryHook": "Netzhaut: a Haut (membrane) like a Netz (net).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Netzhaut",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Netzhaut is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Netzhaut, zwei ___",
+      "answer": "Netzhäute",
+      "fullAnswer": "ein Netzhaut, zwei Netzhäute",
+      "explanation": "The plural is Netzhäute.",
+      "acceptedAnswers": [
+        "Netzhaeute"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Netzhaut mean?",
+      "options": [
+        "retina",
+        "the job",
+        "the window"
+      ],
+      "answer": "retina",
+      "explanation": "Netzhaut: retina.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Medical term:",
+      "options": [
+        "die Retina",
+        "die Iris"
+      ],
+      "answer": "die Retina",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Hornhaut is…",
+      "options": [
+        "cornea; callus",
+        "retina"
+      ],
+      "answer": "cornea; callus",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Netz is…",
+      "options": [
+        "net, network",
+        "a nest"
+      ],
+      "answer": "net, network",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Netzhaut is the retina, the light-sensitive layer at the back of the eye; medically die Retina. Eye problems include die Netzhautablösung (detached retina). Other parts of the eye: die Hornhaut (cornea), die Linse (lens), die Iris, die Pupille. Das Netz means net and network. Plural: die Netzhäute."
+}

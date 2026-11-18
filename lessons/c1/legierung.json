@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Legierung",
+    "partOfSpeech": "noun, feminine (die Legierung)",
+    "pronunciation": {
+      "respelling": "le-GEE-rung",
+      "ipa": "leˈɡiːʁʊŋ",
+      "notes": "Plural: die Legierungen."
+    },
+    "meaning": "alloy",
+    "shortDefinition": "Alloy."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Legierung, plural die Legierungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Legierung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Legierungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bronze ist eine Legierung aus Kupfer und Zinn.",
+      "english": "Bronze is an alloy of copper and tin.",
+      "highlight": [
+        "Legierung"
+      ]
+    },
+    {
+      "german": "Die Felgen bestehen aus einer leichten Legierung.",
+      "english": "The wheel rims are made of a light alloy.",
+      "highlight": [
+        "Legierung."
+      ]
+    }
+  ],
+  "forms": [
+    "Legierungen",
+    "die Legierung"
+  ],
+  "memoryHook": "Legierung: metals bound (Latin ligare) together.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Legierung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Legierung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Legierung, zwei ___",
+      "answer": "Legierungen",
+      "fullAnswer": "ein Legierung, zwei Legierungen",
+      "explanation": "The plural is Legierungen.",
+      "acceptedAnswers": [
+        "Legierungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Legierung mean?",
+      "options": [
+        "to help",
+        "alloy",
+        "slowly"
+      ],
+      "answer": "alloy",
+      "explanation": "Legierung: alloy.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Messing is…",
+      "options": [
+        "brass (copper and zinc)",
+        "a mess"
+      ],
+      "answer": "brass (copper and zinc)",
+      "explanation": "Alloy.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Legieren (cooking) means…",
+      "options": [
+        "to thicken a sauce (with egg yolk)",
+        "to legalise"
+      ],
+      "answer": "to thicken a sauce (with egg yolk)",
+      "explanation": "Cooking.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Edelstahl is…",
+      "options": [
+        "stainless steel",
+        "noble gold"
+      ],
+      "answer": "stainless steel",
+      "explanation": "Steel.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Legierung is an alloy: Bronze (copper and tin), Messing (brass: copper and zinc), Stahl (iron and carbon), Edelstahl (stainless steel). Legieren means to alloy, and in cooking to thicken a sauce or soup with egg yolk or cream. From Latin ligare (to bind). Euro coins use the Nordic Gold alloy for the 10, 20 and 50 cent pieces. Plural: die Legierungen."
+}

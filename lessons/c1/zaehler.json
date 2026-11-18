@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zähler",
+    "partOfSpeech": "noun, masculine (der Zähler)",
+    "pronunciation": {
+      "respelling": "TSAI-ler",
+      "ipa": "ˈt͡sɛːlɐ",
+      "notes": "Plural: die Zähler."
+    },
+    "meaning": "meter, counter; numerator",
+    "shortDefinition": "Meter, counter; numerator."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Zähler, plural die Zähler.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Zähler"
+        },
+        {
+          "label": "More than one",
+          "value": "die Zähler"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Techniker liest den Stromzähler ab.",
+      "english": "The technician reads the electricity meter.",
+      "highlight": [
+        "Stromzähler"
+      ]
+    },
+    {
+      "german": "Im Bruch 3/4 ist 3 der Zähler.",
+      "english": "In the fraction 3/4, 3 is the numerator.",
+      "highlight": [
+        "Zähler."
+      ]
+    }
+  ],
+  "forms": [
+    "die Zähler",
+    "der Zähler",
+    "Stromzähler"
+  ],
+  "memoryHook": "Zähler: something that zählt (counts).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zähler",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Zähler is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Zähler, zwei ___",
+      "answer": "Zähler",
+      "fullAnswer": "ein Zähler, zwei Zähler",
+      "explanation": "The plural is Zähler.",
+      "acceptedAnswers": [
+        "Zaehler"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zähler mean?",
+      "options": [
+        "cheap",
+        "the bed",
+        "meter"
+      ],
+      "answer": "meter",
+      "explanation": "Zähler: meter, counter; numerator.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In a fraction, der Nenner is…",
+      "options": [
+        "the denominator",
+        "the numerator"
+      ],
+      "answer": "the denominator",
+      "explanation": "Denominator.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Auf einen gemeinsamen Nenner kommen means…",
+      "options": [
+        "to find common ground",
+        "to count together"
+      ],
+      "answer": "to find common ground",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zählen means…",
+      "options": [
+        "to count",
+        "to pay"
+      ],
+      "answer": "to count",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Zähler is a meter or counter: der Stromzähler, der Wasserzähler, der Gaszähler, read once a year, and a smart meter is ein intelligenter Zähler. In maths, it's the numerator of a fraction; the denominator is der Nenner, and auf einen gemeinsamen Nenner kommen means to find common ground. In sport, ein Zähler is a point. Zählen means to count. Plural: die Zähler."
+}

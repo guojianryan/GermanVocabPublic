@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ratgeber",
+    "partOfSpeech": "noun, masculine (der Ratgeber)",
+    "pronunciation": {
+      "respelling": "RAAT-gay-ber",
+      "ipa": "ˈʁaːtˌɡeːbɐ",
+      "notes": "Plural: die Ratgeber."
+    },
+    "meaning": "adviser; advice book, guide",
+    "shortDefinition": "Adviser; advice book, guide."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Ratgeber, plural die Ratgeber.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Ratgeber"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ratgeber"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er war ihr wichtigster Ratgeber.",
+      "english": "He was her most important adviser.",
+      "highlight": [
+        "Ratgeber."
+      ]
+    },
+    {
+      "german": "Ich habe einen Ratgeber zum Thema Schlaf gekauft.",
+      "english": "I bought a self-help book about sleep.",
+      "highlight": [
+        "Ratgeber"
+      ]
+    }
+  ],
+  "forms": [
+    "die Ratgeber",
+    "der Ratgeber",
+    "Ratgeberin"
+  ],
+  "memoryHook": "Ratgeber: someone or something that gives (gibt) Rat.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ratgeber",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Ratgeber is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Ratgeber, zwei ___",
+      "answer": "Ratgeber",
+      "fullAnswer": "ein Ratgeber, zwei Ratgeber",
+      "explanation": "The plural is Ratgeber.",
+      "acceptedAnswers": [
+        "Ratgeber"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ratgeber mean?",
+      "options": [
+        "to learn",
+        "to travel",
+        "adviser"
+      ],
+      "answer": "adviser",
+      "explanation": "Ratgeber: adviser; advice book, guide.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Ratgeber can be…",
+      "options": [
+        "a person or a book",
+        "only a person"
+      ],
+      "answer": "a person or a book",
+      "explanation": "Both.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Rat means…",
+      "options": [
+        "advice; council",
+        "rat"
+      ],
+      "answer": "advice; council",
+      "explanation": "Rat.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Ratgeberliteratur is…",
+      "options": [
+        "self-help literature",
+        "council minutes"
+      ],
+      "answer": "self-help literature",
+      "explanation": "Self-help.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Ratgeber (die Ratgeberin) is an adviser: ein politischer Ratgeber. It's also an advice book or guide: ein Ratgeber für Eltern, and German bookshops have whole Ratgeber sections for health, money and relationships. Magazines and websites run Ratgeber pages too. From der Rat (advice; also council) and geben (to give). Angst ist ein schlechter Ratgeber means fear is a bad adviser, a phrase politicians like to quote."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rettungswagen",
+    "partOfSpeech": "noun, masculine (der Rettungswagen)",
+    "pronunciation": {
+      "respelling": "RE-tungs-vaa-gen",
+      "ipa": "ˈʁɛtʊŋsˌvaːɡn̩",
+      "notes": "Plural: die Rettungswagen."
+    },
+    "meaning": "ambulance",
+    "shortDefinition": "Ambulance."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Rettungswagen, plural die Rettungswagen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Rettungswagen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Rettungswagen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Rettungswagen kam nach acht Minuten.",
+      "english": "The ambulance came after eight minutes.",
+      "highlight": [
+        "Rettungswagen"
+      ]
+    },
+    {
+      "german": "Sie wurde mit dem Rettungswagen ins Krankenhaus gebracht.",
+      "english": "She was taken to hospital by ambulance.",
+      "highlight": [
+        "Rettungswagen"
+      ]
+    }
+  ],
+  "forms": [
+    "der Rettungswagen",
+    "Rettungswagens"
+  ],
+  "memoryHook": "Rettungswagen: a Wagen for Rettung (rescue).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rettungswagen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Rettungswagen is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Rettungswagen, zwei ___",
+      "answer": "Rettungswagen",
+      "fullAnswer": "ein Rettungswagen, zwei Rettungswagen",
+      "explanation": "The plural is Rettungswagen.",
+      "acceptedAnswers": [
+        "Rettungswagen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rettungswagen mean?",
+      "options": [
+        "to sleep",
+        "ambulance",
+        "never"
+      ],
+      "answer": "ambulance",
+      "explanation": "Rettungswagen: ambulance.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Emergency number for an ambulance in Germany:",
+      "options": [
+        "112",
+        "110"
+      ],
+      "answer": "112",
+      "explanation": "112.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "110 is for…",
+      "options": [
+        "the police",
+        "the fire brigade"
+      ],
+      "answer": "the police",
+      "explanation": "Police.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Rettungsgasse is…",
+      "options": [
+        "emergency corridor on motorways",
+        "a rescue alley in town"
+      ],
+      "answer": "emergency corridor on motorways",
+      "explanation": "Corridor.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Rettungswagen (RTW) is an ambulance, called via 112, the number for fire and ambulance (110 is the police). Everyday speech also uses der Krankenwagen. In a traffic jam on the Autobahn, drivers must form a Rettungsgasse (emergency corridor) between the far-left lane and the others; not doing so can be fined. The plural is the same: die Rettungswagen."
+}

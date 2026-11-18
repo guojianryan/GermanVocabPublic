@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kapelle",
+    "partOfSpeech": "noun, feminine (die Kapelle)",
+    "pronunciation": {
+      "respelling": "ka-PEL-e",
+      "ipa": "kaˈpɛlə",
+      "notes": "Plural: die Kapellen."
+    },
+    "meaning": "chapel; band (music)",
+    "shortDefinition": "Chapel; band (music)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kapelle, plural die Kapellen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kapelle"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kapellen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Dorf steht eine kleine Kapelle.",
+      "english": "There's a small chapel in the village.",
+      "highlight": [
+        "Kapelle."
+      ]
+    },
+    {
+      "german": "Die Kapelle spielte einen Walzer.",
+      "english": "The band played a waltz.",
+      "highlight": [
+        "Kapelle"
+      ]
+    }
+  ],
+  "forms": [
+    "Kapellen",
+    "die Kapellen",
+    "die Kapelle",
+    "Blaskapelle",
+    "Kapellmeister"
+  ],
+  "memoryHook": "Kapelle: where you pray, or who plays the oompah.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kapelle",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kapelle is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kapelle, zwei ___",
+      "answer": "Kapellen",
+      "fullAnswer": "ein Kapelle, zwei Kapellen",
+      "explanation": "The plural is Kapellen.",
+      "acceptedAnswers": [
+        "Kapellen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kapelle mean?",
+      "options": [
+        "never",
+        "expensive",
+        "chapel"
+      ],
+      "answer": "chapel",
+      "explanation": "Kapelle: chapel; band (music).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Two meanings:",
+      "options": [
+        "chapel and band",
+        "chapel and choir only"
+      ],
+      "answer": "chapel and band",
+      "explanation": "Both.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kapellmeister is…",
+      "options": [
+        "a conductor/bandmaster",
+        "a priest"
+      ],
+      "answer": "a conductor/bandmaster",
+      "explanation": "Music director.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Blaskapelle is…",
+      "options": [
+        "a brass band",
+        "a church"
+      ],
+      "answer": "a brass band",
+      "explanation": "Blasen = blow.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kapelle has two meanings: a chapel (eine Kapelle im Wald) and a band, especially a traditional one: die Blaskapelle (brass band), which plays at every Bavarian festival. The musical meaning comes from church musicians who played in a chapel. Der Kapellmeister is a conductor or music director: Bach was Kapellmeister in Köthen. Die Kapelle in chemistry is a fume cupboard."
+}

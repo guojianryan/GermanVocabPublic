@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Apotheker",
+    "partOfSpeech": "noun, masculine (der Apotheker)",
+    "pronunciation": {
+      "respelling": "a-po-TAY-ker",
+      "ipa": "apoˈteːkɐ",
+      "notes": "Plural: die Apotheker."
+    },
+    "meaning": "pharmacist",
+    "shortDefinition": "Pharmacist."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Apotheker, plural die Apotheker.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Apotheker"
+        },
+        {
+          "label": "More than one",
+          "value": "die Apotheker"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Fragen Sie Ihren Arzt oder Apotheker.",
+      "english": "Ask your doctor or pharmacist.",
+      "highlight": [
+        "Apotheker."
+      ]
+    },
+    {
+      "german": "Sie arbeitet als Apothekerin.",
+      "english": "She works as a pharmacist.",
+      "highlight": [
+        "Apothekerin."
+      ]
+    }
+  ],
+  "forms": [
+    "die Apotheker",
+    "der Apotheker",
+    "Apothekerin",
+    "Apotheke"
+  ],
+  "memoryHook": "Apotheker: the expert in the Apotheke.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Apotheker",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Apotheker is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Apotheker, zwei ___",
+      "answer": "Apotheker",
+      "fullAnswer": "ein Apotheker, zwei Apotheker",
+      "explanation": "The plural is Apotheker.",
+      "acceptedAnswers": [
+        "Apotheker"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Apotheker mean?",
+      "options": [
+        "pharmacist",
+        "the weather",
+        "the bed"
+      ],
+      "answer": "pharmacist",
+      "explanation": "Apotheker: pharmacist.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "TV ads for medicines end with…",
+      "options": [
+        "Fragen Sie Ihren Arzt oder Apotheker",
+        "Gute Besserung"
+      ],
+      "answer": "Fragen Sie Ihren Arzt oder Apotheker",
+      "explanation": "Famous phrase.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Apotheke is…",
+      "options": [
+        "the pharmacy",
+        "the pharmacist"
+      ],
+      "answer": "the pharmacy",
+      "explanation": "Pharmacy.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Apothekenpreise means…",
+      "options": [
+        "very high prices",
+        "discounts"
+      ],
+      "answer": "very high prices",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Apotheker (die Apothekerin) is a pharmacist. Every German TV ad for medicine ends with the legally required line Zu Risiken und Nebenwirkungen lesen Sie die Packungsbeilage und fragen Sie Ihren Arzt oder Apotheker. German pharmacies (Apotheken) are recognisable by a red gothic A sign, and many medicines, even painkillers, are only sold there. Apothekenpreise means outrageously high prices. From Greek apotheke, storehouse."
+}

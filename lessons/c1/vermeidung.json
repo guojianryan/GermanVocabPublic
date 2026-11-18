@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vermeidung",
+    "partOfSpeech": "noun, feminine (die Vermeidung)",
+    "pronunciation": {
+      "respelling": "fer-MAI-dung",
+      "ipa": "fɛɐ̯ˈmaɪ̯dʊŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "avoidance, prevention",
+    "shortDefinition": "Avoidance, prevention."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Vermeidung, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Vermeidung"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Zur Vermeidung von Missverständnissen:",
+      "english": "To avoid misunderstandings:",
+      "highlight": [
+        "Vermeidung"
+      ]
+    },
+    {
+      "german": "Die Vermeidung von Müll ist am wichtigsten.",
+      "english": "Avoiding waste is the most important thing.",
+      "highlight": [
+        "Vermeidung"
+      ]
+    }
+  ],
+  "forms": [
+    "die Vermeidung",
+    "vermeiden",
+    "unvermeidlich"
+  ],
+  "memoryHook": "Vermeidung: the act of vermeiden (avoiding).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vermeidung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Vermeidung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vermeidung mean?",
+      "options": [
+        "the key",
+        "avoidance",
+        "to sleep"
+      ],
+      "answer": "avoidance",
+      "explanation": "Vermeidung: avoidance, prevention.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vermeiden means…",
+      "options": [
+        "to avoid",
+        "to rent"
+      ],
+      "answer": "to avoid",
+      "explanation": "Avoid.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unvermeidlich means…",
+      "options": [
+        "inevitable",
+        "unaware"
+      ],
+      "answer": "inevitable",
+      "explanation": "Inevitable.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zur Vermeidung von… is…",
+      "options": [
+        "formal 'to avoid…'",
+        "slang"
+      ],
+      "answer": "formal 'to avoid…'",
+      "explanation": "Formal.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Vermeidung is avoidance or prevention, and it's common in official language: zur Vermeidung von Fehlern, die Steuervermeidung (tax avoidance), Müllvermeidung (waste prevention). The verb is vermeiden (vermied, vermieden): Fehler vermeiden. Unvermeidlich or unvermeidbar means inevitable. In Germany's waste hierarchy, Vermeidung comes first, before recycling. It has no plural."
+}

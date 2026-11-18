@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Versicherer",
+    "partOfSpeech": "noun, masculine (der Versicherer)",
+    "pronunciation": {
+      "respelling": "fer-ZI-khe-rer",
+      "ipa": "fɛɐ̯ˈzɪçəʁɐ",
+      "notes": "Plural: die Versicherer."
+    },
+    "meaning": "insurer, insurance company",
+    "shortDefinition": "Insurer, insurance company."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Versicherer, plural die Versicherer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Versicherer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Versicherer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Versicherer zahlt den Schaden.",
+      "english": "The insurer pays for the damage.",
+      "highlight": [
+        "Versicherer"
+      ]
+    },
+    {
+      "german": "Allianz ist einer der größten Versicherer der Welt.",
+      "english": "Allianz is one of the world's biggest insurers.",
+      "highlight": [
+        "Versicherer"
+      ]
+    }
+  ],
+  "forms": [
+    "die Versicherer",
+    "der Versicherer"
+  ],
+  "memoryHook": "Versicherer: the one who versichert (insures).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Versicherer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Versicherer is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Versicherer, zwei ___",
+      "answer": "Versicherer",
+      "fullAnswer": "ein Versicherer, zwei Versicherer",
+      "explanation": "The plural is Versicherer.",
+      "acceptedAnswers": [
+        "Versicherer"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Versicherer mean?",
+      "options": [
+        "insurer",
+        "the car",
+        "the family"
+      ],
+      "answer": "insurer",
+      "explanation": "Versicherer: insurer, insurance company.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Versicherte is…",
+      "options": [
+        "the insured person",
+        "the insurer"
+      ],
+      "answer": "the insured person",
+      "explanation": "Insured.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Versichern also means…",
+      "options": [
+        "to assure, affirm",
+        "to insult"
+      ],
+      "answer": "to assure, affirm",
+      "explanation": "Assure.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Versicherer",
+        "die Versicherers"
+      ],
+      "answer": "die Versicherer",
+      "explanation": "Unchanged.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Versicherer is an insurer or insurance company: Allianz and Munich Re, both based in Munich, are among the world's largest. Der/die Versicherte is the insured person. The verb versichern means to insure and also to assure: Ich versichere Ihnen, dass... Germans typically hold many policies; Haftpflichtversicherung (personal liability) is considered a must. Plural: die Versicherer."
+}

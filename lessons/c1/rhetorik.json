@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rhetorik",
+    "partOfSpeech": "noun, feminine (die Rhetorik)",
+    "pronunciation": {
+      "respelling": "re-TOH-rik",
+      "ipa": "ʁeˈtoːʁɪk",
+      "notes": "Usually no plural."
+    },
+    "meaning": "rhetoric",
+    "shortDefinition": "Rhetoric."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Rhetorik, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Rhetorik"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Politiker beherrscht die Rhetorik.",
+      "english": "The politician has mastered rhetoric.",
+      "highlight": [
+        "Rhetorik."
+      ]
+    },
+    {
+      "german": "Das ist doch nur leere Rhetorik.",
+      "english": "That's just empty rhetoric.",
+      "highlight": [
+        "Rhetorik."
+      ]
+    }
+  ],
+  "forms": [
+    "die Rhetorik",
+    "rhetorisch"
+  ],
+  "memoryHook": "Rhetorik: the art of speaking well (or of sounding good).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rhetorik",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Rhetorik is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rhetorik mean?",
+      "options": [
+        "the evening",
+        "to wait",
+        "rhetoric"
+      ],
+      "answer": "rhetoric",
+      "explanation": "Rhetorik: rhetoric.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine rhetorische Frage is…",
+      "options": [
+        "a question that doesn't expect an answer",
+        "a difficult question"
+      ],
+      "answer": "a question that doesn't expect an answer",
+      "explanation": "Rhetorical.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rh is pronounced…",
+      "options": [
+        "like r (h silent)",
+        "like rh in rhyme with h"
+      ],
+      "answer": "like r (h silent)",
+      "explanation": "re-TOH-rik.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rhetorisch begabt means…",
+      "options": [
+        "good with words",
+        "very loud"
+      ],
+      "answer": "good with words",
+      "explanation": "Gifted speaker.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Rhetorik is rhetoric, the art of persuasive speaking: ein Rhetorikkurs, rhetorisch begabt. It can be negative too: leere Rhetorik (empty rhetoric). Eine rhetorische Frage is a question asked for effect, not for an answer. The Rh is just an r sound, as in Rhein and Rhythmus. From Greek rhetorike. German politicians famous for their Rhetorik include Willy Brandt and Gregor Gysi."
+}

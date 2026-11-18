@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kaff",
+    "partOfSpeech": "noun, neuter (das Kaff)",
+    "pronunciation": {
+      "respelling": "KAF",
+      "ipa": "kaf",
+      "notes": "Plural: die Käffer."
+    },
+    "meaning": "dump, one-horse town (colloquial)",
+    "shortDefinition": "Dump, one-horse town (colloquial)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Kaff, plural die Käffer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Kaff"
+        },
+        {
+          "label": "More than one",
+          "value": "die Käffer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich bin in einem kleinen Kaff aufgewachsen.",
+      "english": "I grew up in a little one-horse town.",
+      "highlight": [
+        "Kaff"
+      ]
+    },
+    {
+      "german": "In diesem Kaff ist abends nichts los.",
+      "english": "Nothing happens in this dump in the evening.",
+      "highlight": [
+        "Kaff"
+      ]
+    }
+  ],
+  "forms": [
+    "Käffer",
+    "Kaffs",
+    "das Kaff"
+  ],
+  "memoryHook": "Kaff: a sleepy village, from Romani for village.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kaff",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Kaff is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kaff, zwei ___",
+      "answer": "Käffer",
+      "fullAnswer": "ein Kaff, zwei Käffer",
+      "explanation": "The plural is Käffer.",
+      "acceptedAnswers": [
+        "Kaeffer"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kaff mean?",
+      "options": [
+        "dump",
+        "the family",
+        "the car"
+      ],
+      "answer": "dump",
+      "explanation": "Kaff: dump, one-horse town (colloquial).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "colloquial, disparaging",
+        "neutral"
+      ],
+      "answer": "colloquial, disparaging",
+      "explanation": "Colloquial.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Neutral word:",
+      "options": [
+        "das Dorf",
+        "die Stadt"
+      ],
+      "answer": "das Dorf",
+      "explanation": "Neutral.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Käffer or Kaffs",
+        "die Kaffe"
+      ],
+      "answer": "die Käffer or Kaffs",
+      "explanation": "Plural.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Kaff is a colloquial, slightly disparaging word for a small, boring village or town, like a one-horse town or a dump: ein Kaff am Ende der Welt. The neutral word is das Dorf. It's thought to come from Romani gav (village) via Yiddish or Rotwelsch. Not to be confused with der Kaffee. Plural: die Käffer or Kaffs."
+}

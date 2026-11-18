@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "programmieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "pro-gra-MEE-ren",
+      "ipa": "pʁoɡʁaˈmiːʁən",
+      "notes": ""
+    },
+    "meaning": "to program",
+    "shortDefinition": "To program."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "programmier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "programmier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "programmier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "programmier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "programmier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "programmier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat programmiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie programmiert in Python.",
+      "english": "She programs in Python.",
+      "highlight": [
+        "programmiert"
+      ]
+    },
+    {
+      "german": "Der Ärger war vorprogrammiert.",
+      "english": "Trouble was bound to happen.",
+      "highlight": [
+        "vorprogrammiert."
+      ]
+    }
+  ],
+  "forms": [
+    "programmiere",
+    "programmierst",
+    "programmiert",
+    "programmieren",
+    "Programmierer",
+    "vorprogrammiert"
+  ],
+  "memoryHook": "Programmieren: write a Programm.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (programmieren)",
+      "answer": "programmiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: programmiert.",
+      "acceptedAnswers": [
+        "programmiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (programmieren, past)",
+      "answer": "programmiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe programmiert.",
+      "acceptedAnswers": [
+        "programmiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does programmieren mean?",
+      "options": [
+        "to program",
+        "to sing",
+        "the door"
+      ],
+      "answer": "to program",
+      "explanation": "programmieren: to program.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vorprogrammiert means…",
+      "options": [
+        "inevitable, bound to happen",
+        "pre-installed only"
+      ],
+      "answer": "inevitable, bound to happen",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Programmierer is…",
+      "options": [
+        "a programmer",
+        "a TV schedule"
+      ],
+      "answer": "a programmer",
+      "explanation": "Person.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Programm also means…",
+      "options": [
+        "TV programme; schedule",
+        "only software"
+      ],
+      "answer": "TV programme; schedule",
+      "explanation": "Programme.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Programmieren means to program: eine App programmieren, Der Programmierer (also Entwickler, developer) writes code. Figuratively, vorprogrammiert means inevitable: Der Streit war vorprogrammiert. Konrad Zuse built the Z3 in Berlin in 1941, considered the first working programmable, fully automatic computer, and also designed Plankalkül, an early programming language. Perfect without ge-: hat programmiert."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sumpf",
+    "partOfSpeech": "noun, masculine (der Sumpf)",
+    "pronunciation": {
+      "respelling": "zumpf",
+      "ipa": "zʊmp͡f",
+      "notes": "Plural: die Sümpfe."
+    },
+    "meaning": "swamp, marsh; morass",
+    "shortDefinition": "Swamp, marsh; morass."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Sumpf, plural die Sümpfe.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Sumpf"
+        },
+        {
+          "label": "More than one",
+          "value": "die Sümpfe"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Sumpf leben viele Frösche.",
+      "english": "Lots of frogs live in the swamp.",
+      "highlight": [
+        "Sumpf"
+      ]
+    },
+    {
+      "german": "Die Partei steckt im Sumpf der Korruption.",
+      "english": "The party is mired in a swamp of corruption.",
+      "highlight": [
+        "Sumpf"
+      ]
+    }
+  ],
+  "forms": [
+    "Sümpfe",
+    "die Sümpfe",
+    "der Sumpf",
+    "sumpfig"
+  ],
+  "memoryHook": "Sumpf: wet, sinking ground, real or moral.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sumpf",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Sumpf is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Sumpf, zwei ___",
+      "answer": "Sümpfe",
+      "fullAnswer": "ein Sumpf, zwei Sümpfe",
+      "explanation": "The plural is Sümpfe.",
+      "acceptedAnswers": [
+        "Suempfe"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sumpf mean?",
+      "options": [
+        "the window",
+        "the job",
+        "swamp"
+      ],
+      "answer": "swamp",
+      "explanation": "Sumpf: swamp, marsh; morass.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Sümpfe",
+        "die Sumpfe"
+      ],
+      "answer": "die Sümpfe",
+      "explanation": "Umlaut.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, Sumpf means…",
+      "options": [
+        "a morass (of corruption, crime)",
+        "a holiday"
+      ],
+      "answer": "a morass (of corruption, crime)",
+      "explanation": "Morass.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Spreewald is known for…",
+      "options": [
+        "its waterways and wetlands",
+        "deserts"
+      ],
+      "answer": "its waterways and wetlands",
+      "explanation": "Spreewald.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Sumpf is a swamp or marsh: im Sumpf versinken. Figuratively, it's a morass of corruption or crime: den Sumpf trockenlegen (to drain the swamp). Much of northern Germany's wetland (Moor) was drained for farming, and today Moore are being rewetted to store carbon. Baron Münchhausen famously claimed to have pulled himself out of a swamp by his own hair. Sumpfig means marshy. Plural: die Sümpfe."
+}

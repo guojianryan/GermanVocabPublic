@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Leitstelle",
+    "partOfSpeech": "noun, feminine (die Leitstelle)",
+    "pronunciation": {
+      "respelling": "LAIT-shte-le",
+      "ipa": "ˈlaɪ̯tˌʃtɛlə",
+      "notes": "Plural: die Leitstellen."
+    },
+    "meaning": "control centre, dispatch centre",
+    "shortDefinition": "Control centre, dispatch centre."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Leitstelle, plural die Leitstellen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Leitstelle"
+        },
+        {
+          "label": "More than one",
+          "value": "die Leitstellen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Notruf ging bei der Leitstelle ein.",
+      "english": "The emergency call came in at the control centre.",
+      "highlight": [
+        "Leitstelle"
+      ]
+    },
+    {
+      "german": "Die Leitstelle schickte zwei Rettungswagen.",
+      "english": "The dispatch centre sent two ambulances.",
+      "highlight": [
+        "Leitstelle"
+      ]
+    }
+  ],
+  "forms": [
+    "Leitstellen",
+    "die Leitstelle"
+  ],
+  "memoryHook": "Leitstelle: the Stelle (post) that leitet (directs).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Leitstelle",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Leitstelle is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Leitstelle, zwei ___",
+      "answer": "Leitstellen",
+      "fullAnswer": "ein Leitstelle, zwei Leitstellen",
+      "explanation": "The plural is Leitstellen.",
+      "acceptedAnswers": [
+        "Leitstellen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Leitstelle mean?",
+      "options": [
+        "control centre",
+        "the door",
+        "the key"
+      ],
+      "answer": "control centre",
+      "explanation": "Leitstelle: control centre, dispatch centre.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Integrierte Leitstelle handles…",
+      "options": [
+        "112 calls for fire and ambulance",
+        "taxi bookings"
+      ],
+      "answer": "112 calls for fire and ambulance",
+      "explanation": "112.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Leiten means…",
+      "options": [
+        "to lead, direct",
+        "to suffer"
+      ],
+      "answer": "to lead, direct",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Einsatzzentrale is…",
+      "options": [
+        "operations centre (police)",
+        "a central bank"
+      ],
+      "answer": "operations centre (police)",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Leitstelle is a control or dispatch centre. In Germany, emergency calls to 112 go to the regional Integrierte Leitstelle, which dispatches fire engines and ambulances; police calls to 110 go to the Einsatzzentrale. Transport companies and power grids also have Leitstellen. From leiten (to direct) and die Stelle (post, office). Plural: die Leitstellen."
+}

@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "umklappen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "UM-kla-pen",
+      "ipa": "ˈʊmˌklapn̩",
+      "notes": ""
+    },
+    "meaning": "to fold down/over; (colloquial) to collapse",
+    "shortDefinition": "To fold down/over; (colloquial) to collapse."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "klapp|e … |um"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "klapp|st … |um"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "klapp|t … |um"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "klapp|en … |um"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "klapp|t … |um"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "klapp|en … |um"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat umgeklappt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Man kann die Rücksitze umklappen.",
+      "english": "You can fold down the back seats.",
+      "highlight": [
+        "umklappen."
+      ]
+    },
+    {
+      "german": "Bei der Hitze ist sie plötzlich umgeklappt.",
+      "english": "In the heat she suddenly keeled over.",
+      "highlight": [
+        "umgeklappt."
+      ]
+    }
+  ],
+  "forms": [
+    "klappe um",
+    "klappst um",
+    "klappt um",
+    "klappen um",
+    "umgeklappt",
+    "klappte um",
+    "umklappbar"
+  ],
+  "memoryHook": "Umklappen: klappen (flip) something um (over).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … um (umklappen)",
+      "answer": "klappt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: klappt … um.",
+      "acceptedAnswers": [
+        "klappt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (umklappen, past)",
+      "answer": "umgeklappt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe umgeklappt.",
+      "acceptedAnswers": [
+        "umgeklappt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does umklappen mean?",
+      "options": [
+        "the job",
+        "to fold down/over",
+        "hot"
+      ],
+      "answer": "to fold down/over",
+      "explanation": "umklappen: to fold down/over; (colloquial) to collapse.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Sitz umklappen means…",
+      "options": [
+        "to fold the seat down",
+        "to repair the seat"
+      ],
+      "answer": "to fold the seat down",
+      "explanation": "Fold.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Colloquially, umklappen (a person) means…",
+      "options": [
+        "to faint, keel over",
+        "to clap"
+      ],
+      "answer": "to faint, keel over",
+      "explanation": "Collapse.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "For a person collapsing, the perfect is…",
+      "options": [
+        "ist umgeklappt",
+        "hat umgeklappt"
+      ],
+      "answer": "ist umgeklappt",
+      "explanation": "Auxiliary.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Umklappen means to fold something down or over: die Rücksitze, einen Tisch, den Kragen umklappen; umklappbar means foldable. Colloquially, a person who umklappt faints or keels over, and then the perfect takes sein: Er ist im Gottesdienst umgeklappt. Klappen alone means to work out (Hat es geklappt?) or to flap shut. Separable: klappte um, umgeklappt."
+}

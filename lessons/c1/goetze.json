@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Götze",
+    "partOfSpeech": "noun, masculine (der Götze)",
+    "pronunciation": {
+      "respelling": "GÖT-se",
+      "ipa": "ˈɡœt͡sə",
+      "notes": "Plural: die Götzen."
+    },
+    "meaning": "idol, false god",
+    "shortDefinition": "Idol, false god."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Götze, plural die Götzen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Götze"
+        },
+        {
+          "label": "More than one",
+          "value": "die Götzen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie beteten einen Götzen an.",
+      "english": "They worshipped an idol.",
+      "highlight": [
+        "Götzen"
+      ]
+    },
+    {
+      "german": "Geld ist sein Götze.",
+      "english": "Money is his idol.",
+      "highlight": [
+        "Götze."
+      ]
+    }
+  ],
+  "forms": [
+    "Götzen",
+    "die Götzen",
+    "der Götze",
+    "Götzenbild"
+  ],
+  "memoryHook": "Götze: a false god, or Germany's 2014 hero.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Götze",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Götze is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Götze, zwei ___",
+      "answer": "Götzen",
+      "fullAnswer": "ein Götze, zwei Götzen",
+      "explanation": "The plural is Götzen.",
+      "acceptedAnswers": [
+        "Goetzen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Götze mean?",
+      "options": [
+        "to buy",
+        "idol",
+        "to sing"
+      ],
+      "answer": "idol",
+      "explanation": "Götze: idol, false god.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Weak noun, accusative:",
+      "options": [
+        "den Götzen",
+        "den Götze"
+      ],
+      "answer": "den Götzen",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Götzenbild is…",
+      "options": [
+        "an idol (image)",
+        "a family photo"
+      ],
+      "answer": "an idol (image)",
+      "explanation": "Idol.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mario Götze scored…",
+      "options": [
+        "the winning goal in the 2014 World Cup final",
+        "nothing"
+      ],
+      "answer": "the winning goal in the 2014 World Cup final",
+      "explanation": "Football history.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Götze is an idol or false god: Götzen anbeten (to worship idols), das Goldene Kalb als Götze. Figuratively, it's something treated like a god: Das Auto ist der Götze der Deutschen, as critics say. It's a weak noun: den Götzen. Götze is also a surname, and German football fans remember Mario Götze, who scored the winning goal in the 2014 World Cup final against Argentina in extra time. Plural: die Götzen."
+}

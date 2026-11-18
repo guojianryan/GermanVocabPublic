@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gegebenheit",
+    "partOfSpeech": "noun, feminine (die Gegebenheit)",
+    "pronunciation": {
+      "respelling": "ge-GAY-ben-hait",
+      "ipa": "ɡəˈɡeːbn̩haɪ̯t",
+      "notes": "Plural: die Gegebenheiten."
+    },
+    "meaning": "circumstance, condition (usually plural)",
+    "shortDefinition": "Circumstance, condition (usually plural)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Gegebenheit, plural die Gegebenheiten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Gegebenheit"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gegebenheiten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir müssen uns an die örtlichen Gegebenheiten anpassen.",
+      "english": "We have to adapt to local conditions.",
+      "highlight": [
+        "Gegebenheiten"
+      ]
+    },
+    {
+      "german": "Die baulichen Gegebenheiten lassen keinen Aufzug zu.",
+      "english": "The structure of the building doesn't allow a lift.",
+      "highlight": [
+        "Gegebenheiten"
+      ]
+    }
+  ],
+  "forms": [
+    "Gegebenheiten",
+    "die Gegebenheiten",
+    "die Gegebenheit"
+  ],
+  "memoryHook": "Gegebenheiten: the facts as they are given (gegeben).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gegebenheit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Gegebenheit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gegebenheit, zwei ___",
+      "answer": "Gegebenheiten",
+      "fullAnswer": "ein Gegebenheit, zwei Gegebenheiten",
+      "explanation": "The plural is Gegebenheiten.",
+      "acceptedAnswers": [
+        "Gegebenheiten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gegebenheit mean?",
+      "options": [
+        "circumstance",
+        "the bread",
+        "the window"
+      ],
+      "answer": "circumstance",
+      "explanation": "Gegebenheit: circumstance, condition (usually plural).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mostly used in the…",
+      "options": [
+        "plural",
+        "singular"
+      ],
+      "answer": "plural",
+      "explanation": "Gegebenheiten.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "From…",
+      "options": [
+        "gegeben (given)",
+        "geben (to give a present)"
+      ],
+      "answer": "gegeben (given)",
+      "explanation": "The given facts.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Umstände / Verhältnisse",
+        "die Geschenke"
+      ],
+      "answer": "die Umstände / Verhältnisse",
+      "explanation": "Conditions.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Gegebenheit is a given fact or circumstance, nearly always in the plural: die örtlichen Gegebenheiten (local conditions), die technischen Gegebenheiten, die räumlichen Gegebenheiten. It's typical of planning, reports and formal letters: Aufgrund der baulichen Gegebenheiten ist das nicht möglich. From gegeben (given), as in unter den gegebenen Umständen (under the given circumstances). Synonyms: die Umstände, die Verhältnisse."
+}

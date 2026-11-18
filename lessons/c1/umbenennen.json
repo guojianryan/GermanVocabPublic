@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "umbenennen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "UM-be-ne-nen",
+      "ipa": "ˈʊmbəˌnɛnən",
+      "notes": ""
+    },
+    "meaning": "to rename",
+    "shortDefinition": "To rename."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "benenn|e … |um"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "benenn|st … |um"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "benenn|t … |um"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "benenn|en … |um"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "benenn|t … |um"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "benenn|en … |um"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat umbenannt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Straße wurde umbenannt.",
+      "english": "The street was renamed.",
+      "highlight": [
+        "umbenannt."
+      ]
+    },
+    {
+      "german": "Die Stadt benannte den Platz nach einer Widerstandskämpferin um.",
+      "english": "The city renamed the square after a resistance fighter.",
+      "highlight": [
+        "benannte",
+        "um."
+      ]
+    }
+  ],
+  "forms": [
+    "benenne um",
+    "benennst um",
+    "benennt um",
+    "benennen um",
+    "umbenannt",
+    "benannte um",
+    "Umbenennung"
+  ],
+  "memoryHook": "Umbenennen: give a new (um) name (benennen).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … um (umbenennen)",
+      "answer": "benennt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: benennt … um.",
+      "acceptedAnswers": [
+        "benennt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (umbenennen, past)",
+      "answer": "umbenannt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe umbenannt.",
+      "acceptedAnswers": [
+        "umbenannt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does umbenennen mean?",
+      "options": [
+        "to travel",
+        "the door",
+        "to rename"
+      ],
+      "answer": "to rename",
+      "explanation": "umbenennen: to rename.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "benannte um, umbenannt",
+        "umbenennte"
+      ],
+      "answer": "benannte um, umbenannt",
+      "explanation": "Mixed verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Umbenennung is…",
+      "options": [
+        "renaming",
+        "rebranding only"
+      ],
+      "answer": "renaming",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Chemnitz was called… in the GDR.",
+      "options": [
+        "Karl-Marx-Stadt",
+        "Leninstadt"
+      ],
+      "answer": "Karl-Marx-Stadt",
+      "explanation": "History.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Umbenennen means to rename: eine Straße, eine Datei umbenennen. German history is full of renamings: Chemnitz was Karl-Marx-Stadt from 1953 to 1990, many GDR street names were changed after reunification, and today streets named after colonial figures are being renamed. Die Umbenennung is renaming. It's a mixed verb, separable: benannte um, umbenannt."
+}

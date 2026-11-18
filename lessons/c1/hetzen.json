@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "hetzen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "HET-sen",
+      "ipa": "ˈhɛt͡sn̩",
+      "notes": ""
+    },
+    "meaning": "to rush, hurry; to stir up hatred; to chase",
+    "shortDefinition": "To rush, hurry; to stir up hatred; to chase."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "hetz|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "hetz|t"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "hetz|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "hetz|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "hetz|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "hetz|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gehetzt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich musste zum Bahnhof hetzen.",
+      "english": "I had to rush to the station.",
+      "highlight": [
+        "hetzen."
+      ]
+    },
+    {
+      "german": "Er hetzt gegen Minderheiten.",
+      "english": "He stirs up hatred against minorities.",
+      "highlight": [
+        "hetzt"
+      ]
+    }
+  ],
+  "forms": [
+    "hetze",
+    "hetzt",
+    "hetzen",
+    "gehetzt",
+    "Hetze",
+    "Volksverhetzung"
+  ],
+  "memoryHook": "Hetzen: rushing yourself, or turning others against someone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (hetzen)",
+      "answer": "hetzt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: hetzt.",
+      "acceptedAnswers": [
+        "hetzt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (hetzen, past)",
+      "answer": "gehetzt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gehetzt.",
+      "acceptedAnswers": [
+        "gehetzt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does hetzen mean?",
+      "options": [
+        "to rush",
+        "slowly",
+        "to wait"
+      ],
+      "answer": "to rush",
+      "explanation": "hetzen: to rush, hurry; to stir up hatred; to chase.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gegen jemanden hetzen means…",
+      "options": [
+        "to incite hatred against someone",
+        "to run after someone"
+      ],
+      "answer": "to incite hatred against someone",
+      "explanation": "Incite.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gehetzt means…",
+      "options": [
+        "rushed, harried",
+        "relaxed"
+      ],
+      "answer": "rushed, harried",
+      "explanation": "Rushed.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Volksverhetzung is…",
+      "options": [
+        "incitement to hatred (a crime)",
+        "a folk festival"
+      ],
+      "answer": "incitement to hatred (a crime)",
+      "explanation": "§130 StGB.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Hetzen means to rush (Ich bin den ganzen Tag gehetzt), to chase, as with hounds, and to stir up hatred: gegen Ausländer hetzen. Die Hetze means both frantic haste and hate campaigning. Die Volksverhetzung, inciting hatred against groups, is a crime under § 130 of the German criminal code, which also covers Holocaust denial. When you mean to rush, the perfect takes sein if movement is involved: Ich bin zum Zug gehetzt."
+}

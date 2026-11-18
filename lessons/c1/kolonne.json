@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kolonne",
+    "partOfSpeech": "noun, feminine (die Kolonne)",
+    "pronunciation": {
+      "respelling": "ko-LO-ne",
+      "ipa": "koˈlɔnə",
+      "notes": "Plural: die Kolonnen."
+    },
+    "meaning": "convoy, column; queue",
+    "shortDefinition": "Convoy, column; queue."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kolonne, plural die Kolonnen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kolonne"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kolonnen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Fahrzeuge fuhren in einer Kolonne.",
+      "english": "The vehicles drove in a convoy.",
+      "highlight": [
+        "Kolonne."
+      ]
+    },
+    {
+      "german": "Auf der Autobahn bildete sich eine lange Kolonne.",
+      "english": "A long line of traffic formed on the motorway.",
+      "highlight": [
+        "Kolonne."
+      ]
+    }
+  ],
+  "forms": [
+    "Kolonnen",
+    "die Kolonnen",
+    "die Kolonne"
+  ],
+  "memoryHook": "Kolonne: vehicles or people in a column.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kolonne",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kolonne is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kolonne, zwei ___",
+      "answer": "Kolonnen",
+      "fullAnswer": "ein Kolonne, zwei Kolonnen",
+      "explanation": "The plural is Kolonnen.",
+      "acceptedAnswers": [
+        "Kolonnen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kolonne mean?",
+      "options": [
+        "convoy",
+        "to learn",
+        "the bread"
+      ],
+      "answer": "convoy",
+      "explanation": "Kolonne: convoy, column; queue.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Kolonne fahren means…",
+      "options": [
+        "to drive in convoy",
+        "to drive alone"
+      ],
+      "answer": "to drive in convoy",
+      "explanation": "Convoy.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die fünfte Kolonne is…",
+      "options": [
+        "fifth column (traitors within)",
+        "a number"
+      ],
+      "answer": "fifth column (traitors within)",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kolonne in printing is…",
+      "options": [
+        "a column of text",
+        "a printing press"
+      ],
+      "answer": "a column of text",
+      "explanation": "Text.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kolonne is a column of vehicles, a convoy or a line of traffic: in Kolonne fahren, eine Fahrzeugkolonne. It also means a work gang (die Putzkolonne, cleaning crew) and a column of figures. Die fünfte Kolonne means a group secretly working for the enemy. Pronounced ko-LO-ne. Plural: die Kolonnen."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Halluzination",
+    "partOfSpeech": "noun, feminine (die Halluzination)",
+    "pronunciation": {
+      "respelling": "ha-lu-tsi-na-TSYOHN",
+      "ipa": "halut͡sinaˈt͡si̯oːn",
+      "notes": "Plural: die Halluzinationen."
+    },
+    "meaning": "hallucination",
+    "shortDefinition": "Hallucination."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Halluzination, plural die Halluzinationen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Halluzination"
+        },
+        {
+          "label": "More than one",
+          "value": "die Halluzinationen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das hohe Fieber verursachte Halluzinationen.",
+      "english": "The high fever caused hallucinations.",
+      "highlight": [
+        "Halluzinationen."
+      ]
+    },
+    {
+      "german": "Ich dachte, ich hätte eine Halluzination.",
+      "english": "I thought I was hallucinating.",
+      "highlight": [
+        "Halluzination."
+      ]
+    }
+  ],
+  "forms": [
+    "Halluzinationen",
+    "die Halluzination"
+  ],
+  "memoryHook": "Halluzination: a wandering (alucinari) of the mind.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Halluzination",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Halluzination is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Halluzination, zwei ___",
+      "answer": "Halluzinationen",
+      "fullAnswer": "ein Halluzination, zwei Halluzinationen",
+      "explanation": "The plural is Halluzinationen.",
+      "acceptedAnswers": [
+        "Halluzinationen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Halluzination mean?",
+      "options": [
+        "the weather",
+        "to buy",
+        "hallucination"
+      ],
+      "answer": "hallucination",
+      "explanation": "Halluzination: hallucination.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Halluzinieren means…",
+      "options": [
+        "to hallucinate",
+        "to shout"
+      ],
+      "answer": "to hallucinate",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "AI 'hallucinations' are…",
+      "options": [
+        "confidently stated false outputs",
+        "dreams"
+      ],
+      "answer": "confidently stated false outputs",
+      "explanation": "AI.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Sinnestäuschung is…",
+      "options": [
+        "sensory illusion",
+        "a sense"
+      ],
+      "answer": "sensory illusion",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Halluzination is a hallucination: Halluzinationen haben, optische und akustische Halluzinationen. Halluzinieren means to hallucinate. Today the word is also used for AI systems that halluzinieren, inventing plausible but false facts. A related, milder term is die Sinnestäuschung (sensory illusion). Note the double l and single z. Plural: die Halluzinationen."
+}

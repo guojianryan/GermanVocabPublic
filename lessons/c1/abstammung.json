@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Abstammung",
+    "partOfSpeech": "noun, feminine (die Abstammung)",
+    "pronunciation": {
+      "respelling": "AP-shtam-ung",
+      "ipa": "ˈapˌʃtamʊŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "descent, ancestry, origin",
+    "shortDefinition": "Descent, ancestry, origin."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Abstammung, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Abstammung"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er ist türkischer Abstammung.",
+      "english": "He's of Turkish descent.",
+      "highlight": [
+        "Abstammung."
+      ]
+    },
+    {
+      "german": "Darwin schrieb über die Abstammung des Menschen.",
+      "english": "Darwin wrote about the descent of man.",
+      "highlight": [
+        "Abstammung"
+      ]
+    }
+  ],
+  "forms": [
+    "die Abstammung",
+    "abstammen"
+  ],
+  "memoryHook": "Abstammung: coming from (ab) a Stamm (stock).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Abstammung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Abstammung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Abstammung mean?",
+      "options": [
+        "to sing",
+        "descent",
+        "the weather"
+      ],
+      "answer": "descent",
+      "explanation": "Abstammung: descent, ancestry, origin.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Abstammen von means…",
+      "options": [
+        "to descend from",
+        "to stamp off"
+      ],
+      "answer": "to descend from",
+      "explanation": "Verb.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Türkischer Abstammung uses…",
+      "options": [
+        "the genitive",
+        "the dative"
+      ],
+      "answer": "the genitive",
+      "explanation": "Genitive.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Stamm is…",
+      "options": [
+        "trunk; tribe; stem",
+        "stamp"
+      ],
+      "answer": "trunk; tribe; stem",
+      "explanation": "Root.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Abstammung means descent or ancestry: deutscher Abstammung sein (to be of German descent, genitive). The verb is abstammen von: Der Mensch stammt vom Affen ab, a popular simplification of Darwin. Der Stamm means trunk, tribe and word stem. Until 2000, German citizenship was based almost entirely on descent (ius sanguinis); now children born in Germany can also become citizens. It has no plural."
+}

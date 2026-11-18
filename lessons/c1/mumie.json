@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mumie",
+    "partOfSpeech": "noun, feminine (die Mumie)",
+    "pronunciation": {
+      "respelling": "MOO-mye",
+      "ipa": "ˈmuːmi̯ə",
+      "notes": "Plural: die Mumien."
+    },
+    "meaning": "mummy",
+    "shortDefinition": "Mummy."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Mumie, plural die Mumien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Mumie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mumien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Museum sind ägyptische Mumien ausgestellt.",
+      "english": "Egyptian mummies are on display in the museum.",
+      "highlight": [
+        "Mumien"
+      ]
+    },
+    {
+      "german": "Ötzi ist eine über 5.000 Jahre alte Gletschermumie.",
+      "english": "Ötzi is a glacier mummy over 5,000 years old.",
+      "highlight": [
+        "Gletschermumie."
+      ]
+    }
+  ],
+  "forms": [
+    "Mumien",
+    "die Mumie"
+  ],
+  "memoryHook": "Mumie: from Persian mūm (wax).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mumie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Mumie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mumie, zwei ___",
+      "answer": "Mumien",
+      "fullAnswer": "ein Mumie, zwei Mumien",
+      "explanation": "The plural is Mumien.",
+      "acceptedAnswers": [
+        "Mumien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mumie mean?",
+      "options": [
+        "hot",
+        "mummy",
+        "the bill"
+      ],
+      "answer": "mummy",
+      "explanation": "Mumie: mummy.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ötzi was found in…",
+      "options": [
+        "the Ötztal Alps in 1991",
+        "Egypt"
+      ],
+      "answer": "the Ötztal Alps in 1991",
+      "explanation": "Ötzi.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mumifizieren means…",
+      "options": [
+        "to mummify",
+        "to murmur"
+      ],
+      "answer": "to mummify",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mother (colloquial) in German is…",
+      "options": [
+        "Mama, Mutti",
+        "Mumie"
+      ],
+      "answer": "Mama, Mutti",
+      "explanation": "False friend.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Mumie is a mummy, embalmed or naturally preserved: ägyptische Mumien, Moorleichen (bog bodies) in northern Germany. The most famous European one is Ötzi, a man over 5,000 years old, found by German hikers in the Ötztal Alps in 1991 and now shown in Bolzano. Mumifizieren means to mummify. Mum as a mother is Mama or Mutti. Plural: die Mumien."
+}

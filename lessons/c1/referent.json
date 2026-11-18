@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Referent",
+    "partOfSpeech": "noun, masculine (der Referent)",
+    "pronunciation": {
+      "respelling": "re-fe-RENT",
+      "ipa": "ʁefeˈʁɛnt",
+      "notes": "Plural: die Referenten."
+    },
+    "meaning": "speaker, presenter; adviser (in a ministry)",
+    "shortDefinition": "Speaker, presenter; adviser (in a ministry)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Referent, plural die Referenten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Referent"
+        },
+        {
+          "label": "More than one",
+          "value": "die Referenten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Referent hielt einen Vortrag über Klimapolitik.",
+      "english": "The speaker gave a talk on climate policy.",
+      "highlight": [
+        "Referent"
+      ]
+    },
+    {
+      "german": "Sie arbeitet als Referentin im Ministerium.",
+      "english": "She works as a policy adviser in the ministry.",
+      "highlight": [
+        "Referentin"
+      ]
+    }
+  ],
+  "forms": [
+    "Referenten",
+    "die Referenten",
+    "der Referent",
+    "Referentin",
+    "Referat"
+  ],
+  "memoryHook": "Referent: someone who gives a Referat or advises.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Referent",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Referent is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Referent, zwei ___",
+      "answer": "Referenten",
+      "fullAnswer": "ein Referent, zwei Referenten",
+      "explanation": "The plural is Referenten.",
+      "acceptedAnswers": [
+        "Referenten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Referent mean?",
+      "options": [
+        "slowly",
+        "the family",
+        "speaker"
+      ],
+      "answer": "speaker",
+      "explanation": "Referent: speaker, presenter; adviser (in a ministry).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Weak noun, accusative:",
+      "options": [
+        "den Referenten",
+        "den Referent"
+      ],
+      "answer": "den Referenten",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Referat is…",
+      "options": [
+        "a presentation (at school); a department",
+        "a reference"
+      ],
+      "answer": "a presentation (at school); a department",
+      "explanation": "Referat.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Pressereferent is…",
+      "options": [
+        "a press officer",
+        "a journalist"
+      ],
+      "answer": "a press officer",
+      "explanation": "Press officer.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Referent (die Referentin) is a speaker at an event or a presenter: der Referent des Abends. In ministries and organisations, a Referent is a policy officer or adviser responsible for a specific area, das Referat (department). German school pupils give a Referat, a class presentation. Der Pressereferent is a press officer. It's a weak noun: den Referenten. False friend: a reference is eine Referenz."
+}

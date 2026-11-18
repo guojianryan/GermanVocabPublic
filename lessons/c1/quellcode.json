@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Quellcode",
+    "partOfSpeech": "noun, masculine (der Quellcode)",
+    "pronunciation": {
+      "respelling": "KVEL-kohd",
+      "ipa": "ˈkvɛlˌkoːt",
+      "notes": "Plural: die Quellcodes."
+    },
+    "meaning": "source code",
+    "shortDefinition": "Source code."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Quellcode, plural die Quellcodes.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Quellcode"
+        },
+        {
+          "label": "More than one",
+          "value": "die Quellcodes"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Quellcode der Software ist offen.",
+      "english": "The software's source code is open.",
+      "highlight": [
+        "Quellcode"
+      ]
+    },
+    {
+      "german": "Hacker veröffentlichten den Quellcode.",
+      "english": "Hackers published the source code.",
+      "highlight": [
+        "Quellcode."
+      ]
+    }
+  ],
+  "forms": [
+    "Quellcodes",
+    "der Quellcode"
+  ],
+  "memoryHook": "Quellcode: the Code at the Quelle (source).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Quellcode",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Quellcode is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Quellcode, zwei ___",
+      "answer": "Quellcodes",
+      "fullAnswer": "ein Quellcode, zwei Quellcodes",
+      "explanation": "The plural is Quellcodes.",
+      "acceptedAnswers": [
+        "Quellcodes"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Quellcode mean?",
+      "options": [
+        "always",
+        "source code",
+        "the door"
+      ],
+      "answer": "source code",
+      "explanation": "Quellcode: source code.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Open-Source-Software has…",
+      "options": [
+        "publicly available source code",
+        "no code"
+      ],
+      "answer": "publicly available source code",
+      "explanation": "Open source.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Quelle is…",
+      "options": [
+        "source, spring",
+        "a quail"
+      ],
+      "answer": "source, spring",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Code is pronounced…",
+      "options": [
+        "like English code (kohd)",
+        "kode"
+      ],
+      "answer": "like English code (kohd)",
+      "explanation": "Pronunciation.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Quellcode is source code. Open-Source-Software makes its Quellcode public, and German public authorities increasingly use it, for example Schleswig-Holstein's move from Microsoft to open-source office software. Germany's Corona-Warn-App (2020) was published as open source. Die Quelle means source or spring. Plural: die Quellcodes."
+}

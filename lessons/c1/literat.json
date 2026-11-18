@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Literat",
+    "partOfSpeech": "noun, masculine (der Literat)",
+    "pronunciation": {
+      "respelling": "li-te-RAAT",
+      "ipa": "litəˈʁaːt",
+      "notes": "Plural: die Literaten."
+    },
+    "meaning": "man of letters, writer",
+    "shortDefinition": "Man of letters, writer."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Literat, plural die Literaten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Literat"
+        },
+        {
+          "label": "More than one",
+          "value": "die Literaten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Café trafen sich Literaten und Künstler.",
+      "english": "Writers and artists met in the café.",
+      "highlight": [
+        "Literaten"
+      ]
+    },
+    {
+      "german": "Er sieht sich als Literat, nicht als Journalist.",
+      "english": "He sees himself as a man of letters, not a journalist.",
+      "highlight": [
+        "Literat,"
+      ]
+    }
+  ],
+  "forms": [
+    "Literaten",
+    "Literatin",
+    "der Literat"
+  ],
+  "memoryHook": "Literat: Latin litteratus, lettered.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Literat",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Literat is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Literat, zwei ___",
+      "answer": "Literaten",
+      "fullAnswer": "ein Literat, zwei Literaten",
+      "explanation": "The plural is Literaten.",
+      "acceptedAnswers": [
+        "Literaten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Literat mean?",
+      "options": [
+        "man of letters",
+        "the door",
+        "to sing"
+      ],
+      "answer": "man of letters",
+      "explanation": "Literat: man of letters, writer.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Literaten (weak noun)",
+        "die Literate"
+      ],
+      "answer": "die Literaten (weak noun)",
+      "explanation": "Grammar.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Literatur is…",
+      "options": [
+        "literature",
+        "a litre"
+      ],
+      "answer": "literature",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Schriftsteller, der Autor",
+        "der Leser"
+      ],
+      "answer": "der Schriftsteller, der Autor",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Literat or die Literatin is a writer or man of letters, often with an intellectual, slightly bohemian ring: die Literaten im Wiener Kaffeehaus. It's a weak noun: den, dem, des Literaten. Neutral synonyms: der Schriftsteller, der Autor. Die Literatur is literature, and literarisch means literary. Plural: die Literaten."
+}

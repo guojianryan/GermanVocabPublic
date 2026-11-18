@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bildnis",
+    "partOfSpeech": "noun, neuter (das Bildnis)",
+    "pronunciation": {
+      "respelling": "BILT-nis",
+      "ipa": "ˈbɪltnɪs",
+      "notes": "Plural: die Bildnisse."
+    },
+    "meaning": "portrait, likeness (literary)",
+    "shortDefinition": "Portrait, likeness (literary)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Bildnis, plural die Bildnisse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Bildnis"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bildnisse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Museum hängt ein Bildnis des Kaisers.",
+      "english": "A portrait of the emperor hangs in the museum.",
+      "highlight": [
+        "Bildnis"
+      ]
+    },
+    {
+      "german": "Du sollst dir kein Bildnis machen.",
+      "english": "Thou shalt not make unto thee any graven image.",
+      "highlight": [
+        "Bildnis"
+      ]
+    }
+  ],
+  "forms": [
+    "Bildnisse",
+    "das Bildnis"
+  ],
+  "memoryHook": "Bildnis: a Bild (picture) of a person.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bildnis",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Bildnis is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bildnis, zwei ___",
+      "answer": "Bildnisse",
+      "fullAnswer": "ein Bildnis, zwei Bildnisse",
+      "explanation": "The plural is Bildnisse.",
+      "acceptedAnswers": [
+        "Bildnisse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bildnis mean?",
+      "options": [
+        "to sleep",
+        "portrait",
+        "never"
+      ],
+      "answer": "portrait",
+      "explanation": "Bildnis: portrait, likeness (literary).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "literary, art history",
+        "everyday"
+      ],
+      "answer": "literary, art history",
+      "explanation": "Literary.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday word:",
+      "options": [
+        "das Porträt",
+        "das Foto"
+      ],
+      "answer": "das Porträt",
+      "explanation": "Portrait.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Second Commandment in Luther's Bible mentions…",
+      "options": [
+        "kein Bildnis (no graven image)",
+        "kein Bild"
+      ],
+      "answer": "kein Bildnis (no graven image)",
+      "explanation": "Bible.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Bildnis is a portrait or likeness, a literary or art-historical word: das Bildnis eines jungen Mannes, Dürers Selbstbildnis. Everyday German says das Porträt. Du sollst dir kein Bildnis machen (thou shalt not make any graven image) is from the Ten Commandments, and Max Frisch used it to argue we shouldn't fix fixed images of others. Plural: die Bildnisse."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fahrverbot",
+    "partOfSpeech": "noun, neuter (das Fahrverbot)",
+    "pronunciation": {
+      "respelling": "FAAR-fer-boht",
+      "ipa": "ˈfaːɐ̯fɛɐ̯ˌboːt",
+      "notes": "Plural: die Fahrverbote."
+    },
+    "meaning": "driving ban",
+    "shortDefinition": "Driving ban."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Fahrverbot, plural die Fahrverbote.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Fahrverbot"
+        },
+        {
+          "label": "More than one",
+          "value": "die Fahrverbote"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hat einen Monat Fahrverbot bekommen.",
+      "english": "He got a one-month driving ban.",
+      "highlight": [
+        "Fahrverbot"
+      ]
+    },
+    {
+      "german": "In einigen Städten gibt es Fahrverbote für alte Diesel.",
+      "english": "Some cities have driving bans for old diesels.",
+      "highlight": [
+        "Fahrverbote"
+      ]
+    }
+  ],
+  "forms": [
+    "Fahrverbote",
+    "das Fahrverbot"
+  ],
+  "memoryHook": "Fahrverbot: a Verbot (ban) on fahren (driving).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fahrverbot",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Fahrverbot is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Fahrverbot, zwei ___",
+      "answer": "Fahrverbote",
+      "fullAnswer": "ein Fahrverbot, zwei Fahrverbote",
+      "explanation": "The plural is Fahrverbote.",
+      "acceptedAnswers": [
+        "Fahrverbote"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fahrverbot mean?",
+      "options": [
+        "the station",
+        "driving ban",
+        "the bread"
+      ],
+      "answer": "driving ban",
+      "explanation": "Fahrverbot: driving ban.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fahrverbot vs. Führerscheinentzug:",
+      "options": [
+        "temporary ban vs. licence revoked",
+        "the same"
+      ],
+      "answer": "temporary ban vs. licence revoked",
+      "explanation": "Difference.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A Fahrverbot usually lasts…",
+      "options": [
+        "one to three months (up to six)",
+        "a year minimum"
+      ],
+      "answer": "one to three months (up to six)",
+      "explanation": "Length.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Punkt in Flensburg is…",
+      "options": [
+        "a penalty point on one's driving record",
+        "a city"
+      ],
+      "answer": "a penalty point on one's driving record",
+      "explanation": "Points.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Fahrverbot is a driving ban: einen Monat Fahrverbot, for example for speeding over 31 km/h in town. Unlike a Führerscheinentzug (licence revoked), the licence is handed back after the ban. Penalty points are recorded at the Kraftfahrt-Bundesamt in Flensburg: Punkte in Flensburg. Cities like Stuttgart introduced Dieselfahrverbote after the 2018 court ruling. Plural: die Fahrverbote."
+}

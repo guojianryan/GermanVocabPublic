@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Markenzeichen",
+    "partOfSpeech": "noun, neuter (das Markenzeichen)",
+    "pronunciation": {
+      "respelling": "MAR-ken-tsai-khen",
+      "ipa": "ˈmaʁkn̩ˌt͡saɪ̯çn̩",
+      "notes": "Plural: die Markenzeichen."
+    },
+    "meaning": "trademark; hallmark",
+    "shortDefinition": "Trademark; hallmark."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Markenzeichen, plural die Markenzeichen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Markenzeichen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Markenzeichen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Stern ist das Markenzeichen von Mercedes.",
+      "english": "The star is Mercedes's trademark.",
+      "highlight": [
+        "Markenzeichen"
+      ]
+    },
+    {
+      "german": "Sein Hut ist sein Markenzeichen.",
+      "english": "His hat is his trademark.",
+      "highlight": [
+        "Markenzeichen."
+      ]
+    }
+  ],
+  "forms": [
+    "die Markenzeichen",
+    "das Markenzeichen"
+  ],
+  "memoryHook": "Markenzeichen: the Zeichen (sign) of a Marke (brand).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Markenzeichen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Markenzeichen is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Markenzeichen, zwei ___",
+      "answer": "Markenzeichen",
+      "fullAnswer": "ein Markenzeichen, zwei Markenzeichen",
+      "explanation": "The plural is Markenzeichen.",
+      "acceptedAnswers": [
+        "Markenzeichen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Markenzeichen mean?",
+      "options": [
+        "to learn",
+        "trademark",
+        "the bread"
+      ],
+      "answer": "trademark",
+      "explanation": "Markenzeichen: trademark; hallmark.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, Markenzeichen means…",
+      "options": [
+        "signature feature",
+        "a price tag"
+      ],
+      "answer": "signature feature",
+      "explanation": "Signature.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Marke is…",
+      "options": [
+        "brand; stamp; mark",
+        "market"
+      ],
+      "answer": "brand; stamp; mark",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Briefmarke is…",
+      "options": [
+        "postage stamp",
+        "a letter brand"
+      ],
+      "answer": "postage stamp",
+      "explanation": "Stamp.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Markenzeichen is a trademark or logo (der Mercedes-Stern, das Adidas-Logo with three stripes) and figuratively someone's signature feature: Die Raute (diamond hand gesture) war Merkels Markenzeichen. Die Marke means brand, and also postage stamp (Briefmarke) and the old Deutsche Mark. The legal term for a registered trademark is die eingetragene Marke. Plural: die Markenzeichen."
+}

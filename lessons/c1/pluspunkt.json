@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Pluspunkt",
+    "partOfSpeech": "noun, masculine (der Pluspunkt)",
+    "pronunciation": {
+      "respelling": "PLUS-punkt",
+      "ipa": "ˈplʊsˌpʊŋkt",
+      "notes": "Plural: die Pluspunkte."
+    },
+    "meaning": "plus, advantage",
+    "shortDefinition": "Plus, advantage."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Pluspunkt, plural die Pluspunkte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Pluspunkt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Pluspunkte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Gute Englischkenntnisse sind ein Pluspunkt.",
+      "english": "Good English is a plus.",
+      "highlight": [
+        "Pluspunkt."
+      ]
+    },
+    {
+      "german": "Mit seiner Erfahrung kann er Pluspunkte sammeln.",
+      "english": "He can score points with his experience.",
+      "highlight": [
+        "Pluspunkte"
+      ]
+    }
+  ],
+  "forms": [
+    "Pluspunkte",
+    "der Pluspunkt"
+  ],
+  "memoryHook": "Pluspunkt: a Punkt (point) on the plus side.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Pluspunkt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Pluspunkt is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Pluspunkt, zwei ___",
+      "answer": "Pluspunkte",
+      "fullAnswer": "ein Pluspunkt, zwei Pluspunkte",
+      "explanation": "The plural is Pluspunkte.",
+      "acceptedAnswers": [
+        "Pluspunkte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Pluspunkt mean?",
+      "options": [
+        "the family",
+        "the shop",
+        "plus"
+      ],
+      "answer": "plus",
+      "explanation": "Pluspunkt: plus, advantage.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pluspunkte sammeln means…",
+      "options": [
+        "to score points, make a good impression",
+        "to collect coupons"
+      ],
+      "answer": "to score points, make a good impression",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Minuspunkt is…",
+      "options": [
+        "minus, drawback",
+        "a penalty kick"
+      ],
+      "answer": "minus, drawback",
+      "explanation": "Opposite.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Vorteil, das Plus",
+        "der Nachteil"
+      ],
+      "answer": "der Vorteil, das Plus",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Pluspunkt is a plus or advantage: Das ist ein großer Pluspunkt, bei jemandem Pluspunkte sammeln (to score points with someone). Job ads often say Erfahrung im Ausland ist ein Pluspunkt (desirable). The opposite is der Minuspunkt. Synonyms: der Vorteil, das Plus, die Stärke. Plural: die Pluspunkte."
+}

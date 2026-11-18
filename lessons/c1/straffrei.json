@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "straffrei",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "SHTRAAF-frai",
+      "ipa": "ˈʃtʁaːfˌfʁaɪ̯",
+      "notes": ""
+    },
+    "meaning": "exempt from punishment, unpunished",
+    "shortDefinition": "Exempt from punishment, unpunished."
+  },
+  "sampleSentences": [
+    {
+      "german": "Der Kronzeuge bleibt straffrei.",
+      "english": "The key witness goes unpunished.",
+      "highlight": [
+        "straffrei."
+      ]
+    },
+    {
+      "german": "Die Handlung ist rechtswidrig, aber straffrei.",
+      "english": "The act is unlawful but not punishable.",
+      "highlight": [
+        "straffrei."
+      ]
+    }
+  ],
+  "forms": [
+    "straffreie",
+    "straffreien",
+    "Straffreiheit"
+  ],
+  "memoryHook": "Straffrei: frei (free) of Strafe (punishment).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does straffrei mean?",
+      "options": [
+        "hot",
+        "always",
+        "exempt from punishment"
+      ],
+      "answer": "exempt from punishment",
+      "explanation": "straffrei: exempt from punishment, unpunished.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rechtswidrig, aber straffrei means…",
+      "options": [
+        "unlawful but not punished",
+        "legal and free"
+      ],
+      "answer": "unlawful but not punished",
+      "explanation": "Law.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Straffreiheit is…",
+      "options": [
+        "impunity, exemption from punishment",
+        "freedom of the press"
+      ],
+      "answer": "impunity, exemption from punishment",
+      "explanation": "Noun.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Strafbar means…",
+      "options": [
+        "punishable",
+        "free"
+      ],
+      "answer": "punishable",
+      "explanation": "Opposite.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Er kam ___ davon. (unpunished)",
+      "answer": "straffrei",
+      "fullAnswer": "Er kam straffrei davon.",
+      "explanation": "straffrei.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Straffrei means exempt from punishment: straffrei bleiben, straffrei ausgehen. A well-known example is §218a of the criminal code: an abortion in the first twelve weeks after mandatory counselling is technically rechtswidrig but straffrei, a compromise from 1995 that is still debated. Die Straffreiheit is exemption from punishment. The opposite is strafbar (punishable)."
+}

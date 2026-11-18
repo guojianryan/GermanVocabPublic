@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Tageslicht",
+    "partOfSpeech": "noun, neuter (das Tageslicht)",
+    "pronunciation": {
+      "respelling": "TAA-ges-likht",
+      "ipa": "ˈtaːɡəsˌlɪçt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "daylight",
+    "shortDefinition": "Daylight."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Tageslicht, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Tageslicht"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bei Tageslicht sieht die Farbe anders aus.",
+      "english": "The colour looks different in daylight.",
+      "highlight": [
+        "Tageslicht"
+      ]
+    },
+    {
+      "german": "Die Wahrheit kam ans Tageslicht.",
+      "english": "The truth came to light.",
+      "highlight": [
+        "Tageslicht."
+      ]
+    }
+  ],
+  "forms": [
+    "das Tageslicht"
+  ],
+  "memoryHook": "Tageslicht: the Licht of the Tag.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Tageslicht",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Tageslicht is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Tageslicht mean?",
+      "options": [
+        "daylight",
+        "the station",
+        "to wait"
+      ],
+      "answer": "daylight",
+      "explanation": "Tageslicht: daylight.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ans Tageslicht kommen means…",
+      "options": [
+        "to come to light",
+        "to wake up"
+      ],
+      "answer": "to come to light",
+      "explanation": "Idiom.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Etwas das Tageslicht scheuen means…",
+      "options": [
+        "to be shady (shun the light of day)",
+        "to sleep late"
+      ],
+      "answer": "to be shady (shun the light of day)",
+      "explanation": "Shady.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Sommerzeit means…",
+      "options": [
+        "daylight saving time",
+        "summer holidays"
+      ],
+      "answer": "daylight saving time",
+      "explanation": "DST.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Tageslicht is daylight: bei Tageslicht, Tageslichtlampe (daylight lamp, popular in dark German winters). Figuratively, ans Tageslicht kommen means to come to light, and etwas scheut das Tageslicht means it's shady. Germany switches between Winterzeit and Sommerzeit (daylight saving time) each year, though the EU voted in 2019 to end the clock changes, a plan that has stalled. It has no plural."
+}

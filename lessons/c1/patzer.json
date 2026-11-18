@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Patzer",
+    "partOfSpeech": "noun, masculine (der Patzer)",
+    "pronunciation": {
+      "respelling": "PAT-ser",
+      "ipa": "ˈpat͡sɐ",
+      "notes": "Plural: die Patzer."
+    },
+    "meaning": "blunder, slip (colloquial)",
+    "shortDefinition": "Blunder, slip (colloquial)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Patzer, plural die Patzer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Patzer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Patzer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Dem Torwart unterlief ein schwerer Patzer.",
+      "english": "The goalkeeper made a bad blunder.",
+      "highlight": [
+        "Patzer."
+      ]
+    },
+    {
+      "german": "Ein kleiner Patzer in der Rede fiel niemandem auf.",
+      "english": "Nobody noticed a small slip in the speech.",
+      "highlight": [
+        "Patzer"
+      ]
+    }
+  ],
+  "forms": [
+    "der Patzer",
+    "Patzers"
+  ],
+  "memoryHook": "Patzer: a slip, from patzen (to bungle).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Patzer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Patzer is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Patzer, zwei ___",
+      "answer": "Patzer",
+      "fullAnswer": "ein Patzer, zwei Patzer",
+      "explanation": "The plural is Patzer.",
+      "acceptedAnswers": [
+        "Patzer"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Patzer mean?",
+      "options": [
+        "the family",
+        "blunder",
+        "to buy"
+      ],
+      "answer": "blunder",
+      "explanation": "Patzer: blunder, slip (colloquial).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Patzen means…",
+      "options": [
+        "to blunder, slip up",
+        "to pat"
+      ],
+      "answer": "to blunder, slip up",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Fehler, der Schnitzer, der Lapsus",
+        "der Erfolg"
+      ],
+      "answer": "der Fehler, der Schnitzer, der Lapsus",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Austria, der Patzer can also mean…",
+      "options": [
+        "a blot, a stain",
+        "a cake"
+      ],
+      "answer": "a blot, a stain",
+      "explanation": "Region.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Patzer is a blunder or slip, common in sports reporting: ein Torwartpatzer, sich einen Patzer leisten. Patzen means to slip up. In Austria, ein Patzen is also a blob or stain. In chess, a Patzer is a weak player, a sense English borrowed. Synonyms: der Schnitzer, der Lapsus, der Fauxpas. The plural is the same."
+}

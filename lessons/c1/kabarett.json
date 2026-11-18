@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kabarett",
+    "partOfSpeech": "noun, neuter (das Kabarett)",
+    "pronunciation": {
+      "respelling": "ka-ba-RET",
+      "ipa": "kabaˈʁɛt",
+      "notes": "Plural: die Kabaretts."
+    },
+    "meaning": "political satire, cabaret",
+    "shortDefinition": "Political satire, cabaret."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Kabarett, plural die Kabaretts.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Kabarett"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kabaretts"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir gehen heute Abend ins Kabarett.",
+      "english": "We're going to a satire show tonight.",
+      "highlight": [
+        "Kabarett."
+      ]
+    },
+    {
+      "german": "Das politische Kabarett hat in Deutschland Tradition.",
+      "english": "Political satire has a tradition in Germany.",
+      "highlight": [
+        "Kabarett"
+      ]
+    }
+  ],
+  "forms": [
+    "Kabaretts",
+    "die Kabaretts",
+    "das Kabarett",
+    "Kabarettist"
+  ],
+  "memoryHook": "Kabarett: sharp satire on a small stage.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kabarett",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Kabarett is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kabarett, zwei ___",
+      "answer": "Kabaretts",
+      "fullAnswer": "ein Kabarett, zwei Kabaretts",
+      "explanation": "The plural is Kabaretts.",
+      "acceptedAnswers": [
+        "Kabaretts"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kabarett mean?",
+      "options": [
+        "the child",
+        "political satire",
+        "the bed"
+      ],
+      "answer": "political satire",
+      "explanation": "Kabarett: political satire, cabaret.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "German Kabarett is mainly…",
+      "options": [
+        "political and social satire",
+        "a dance revue"
+      ],
+      "answer": "political and social satire",
+      "explanation": "Satire.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kabarettist is…",
+      "options": [
+        "a satirist performer",
+        "a bartender"
+      ],
+      "answer": "a satirist performer",
+      "explanation": "Performer.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Anstalt is…",
+      "options": [
+        "a well-known TV satire show",
+        "a pub"
+      ],
+      "answer": "a well-known TV satire show",
+      "explanation": "TV.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Kabarett in German-speaking countries is mainly political and social satire on stage, different from the glamorous cabaret of Liza Minnelli's film. It flourished in Weimar Berlin, was suppressed by the Nazis, and revived after the war with ensembles like the Münchner Lach- und Schießgesellschaft. Der Kabarettist (die Kabarettistin) performs it; TV shows like Die Anstalt keep the tradition. Plural: die Kabaretts."
+}

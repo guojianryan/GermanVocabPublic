@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schulung",
+    "partOfSpeech": "noun, feminine (die Schulung)",
+    "pronunciation": {
+      "respelling": "SHOO-lung",
+      "ipa": "ˈʃuːlʊŋ",
+      "notes": "Plural: die Schulungen."
+    },
+    "meaning": "training (course)",
+    "shortDefinition": "Training (course)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Schulung, plural die Schulungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Schulung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schulungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Alle Mitarbeiter müssen eine Schulung zum Datenschutz machen.",
+      "english": "All staff must take a data protection training.",
+      "highlight": [
+        "Schulung"
+      ]
+    },
+    {
+      "german": "Die Schulung dauert zwei Tage.",
+      "english": "The training lasts two days.",
+      "highlight": [
+        "Schulung"
+      ]
+    }
+  ],
+  "forms": [
+    "Schulungen",
+    "die Schulungen",
+    "die Schulung",
+    "geschult"
+  ],
+  "memoryHook": "Schulung: a short Schule for grown-ups.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schulung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Schulung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schulung, zwei ___",
+      "answer": "Schulungen",
+      "fullAnswer": "ein Schulung, zwei Schulungen",
+      "explanation": "The plural is Schulungen.",
+      "acceptedAnswers": [
+        "Schulungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schulung mean?",
+      "options": [
+        "cheap",
+        "training (course)",
+        "the job"
+      ],
+      "answer": "training (course)",
+      "explanation": "Schulung: training (course).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schulen (verb) means…",
+      "options": [
+        "to train",
+        "to go to school"
+      ],
+      "answer": "to train",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Fortbildung / das Training",
+        "die Schule"
+      ],
+      "answer": "die Fortbildung / das Training",
+      "explanation": "Training.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gut geschult means…",
+      "options": [
+        "well trained",
+        "well schooled in history only"
+      ],
+      "answer": "well trained",
+      "explanation": "Trained.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Schulung is a training course, often at work: eine Schulung zum Brandschutz, eine Software-Schulung. Synonyms: die Fortbildung (further training), die Weiterbildung, das Training. The verb schulen means to train: geschultes Personal (trained staff), ein geschultes Auge (a trained eye). In Germany, many workplace Schulungen, such as on safety, are legally required. Plural: die Schulungen."
+}

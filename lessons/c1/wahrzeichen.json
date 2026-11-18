@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wahrzeichen",
+    "partOfSpeech": "noun, neuter (das Wahrzeichen)",
+    "pronunciation": {
+      "respelling": "VAAR-tsai-khen",
+      "ipa": "ˈvaːɐ̯ˌt͡saɪ̯çn̩",
+      "notes": "Plural: die Wahrzeichen."
+    },
+    "meaning": "landmark, emblem",
+    "shortDefinition": "Landmark, emblem."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Wahrzeichen, plural die Wahrzeichen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Wahrzeichen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wahrzeichen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Brandenburger Tor ist das Wahrzeichen Berlins.",
+      "english": "The Brandenburg Gate is Berlin's landmark.",
+      "highlight": [
+        "Wahrzeichen"
+      ]
+    },
+    {
+      "german": "Der Dom ist das Wahrzeichen der Stadt.",
+      "english": "The cathedral is the city's emblem.",
+      "highlight": [
+        "Wahrzeichen"
+      ]
+    }
+  ],
+  "forms": [
+    "die Wahrzeichen",
+    "das Wahrzeichen"
+  ],
+  "memoryHook": "Wahrzeichen: a Zeichen (sign) to recognise (wahrnehmen) a place.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wahrzeichen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Wahrzeichen is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wahrzeichen, zwei ___",
+      "answer": "Wahrzeichen",
+      "fullAnswer": "ein Wahrzeichen, zwei Wahrzeichen",
+      "explanation": "The plural is Wahrzeichen.",
+      "acceptedAnswers": [
+        "Wahrzeichen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wahrzeichen mean?",
+      "options": [
+        "landmark",
+        "the window",
+        "the bill"
+      ],
+      "answer": "landmark",
+      "explanation": "Wahrzeichen: landmark, emblem.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hamburg's modern Wahrzeichen is…",
+      "options": [
+        "the Elbphilharmonie",
+        "the Zugspitze"
+      ],
+      "answer": "the Elbphilharmonie",
+      "explanation": "Hamburg.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Zeichen is…",
+      "options": [
+        "sign, symbol",
+        "drawing"
+      ],
+      "answer": "sign, symbol",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Wahrzeichen",
+        "die Wahrzeichens"
+      ],
+      "answer": "die Wahrzeichen",
+      "explanation": "Unchanged.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Wahrzeichen is a landmark or emblem that symbolises a place: das Brandenburger Tor (Berlin), der Kölner Dom, die Frauenkirche (Dresden and Munich), der Michel and the Elbphilharmonie (Hamburg), and Bremen's Stadtmusikanten statue. Wahr- here comes from old wahren (to watch, perceive), not wahr (true). Plural: die Wahrzeichen."
+}

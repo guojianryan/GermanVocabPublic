@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "entlohnen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ent-LOH-nen",
+      "ipa": "ɛntˈloːnən",
+      "notes": ""
+    },
+    "meaning": "to pay, remunerate",
+    "shortDefinition": "To pay, remunerate."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "entlohn|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "entlohn|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "entlohn|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "entlohn|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "entlohn|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "entlohn|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat entlohnt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Arbeiter werden nach Stunden entlohnt.",
+      "english": "The workers are paid by the hour.",
+      "highlight": [
+        "entlohnt."
+      ]
+    },
+    {
+      "german": "Pflegekräfte werden oft schlecht entlohnt.",
+      "english": "Care workers are often poorly paid.",
+      "highlight": [
+        "entlohnt."
+      ]
+    }
+  ],
+  "forms": [
+    "entlohne",
+    "entlohnst",
+    "entlohnt",
+    "entlohnen",
+    "entlohnte"
+  ],
+  "memoryHook": "Entlohnen: give Lohn (wages).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (entlohnen)",
+      "answer": "entlohnt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: entlohnt.",
+      "acceptedAnswers": [
+        "entlohnt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (entlohnen, past)",
+      "answer": "entlohnt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe entlohnt.",
+      "acceptedAnswers": [
+        "entlohnt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does entlohnen mean?",
+      "options": [
+        "cheap",
+        "the weather",
+        "to pay"
+      ],
+      "answer": "to pay",
+      "explanation": "entlohnen: to pay, remunerate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Lohn is…",
+      "options": [
+        "wage, pay; reward",
+        "a loan"
+      ],
+      "answer": "wage, pay; reward",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Lohn vs. Gehalt:",
+      "options": [
+        "Lohn: wage (hourly); Gehalt: salary",
+        "same thing"
+      ],
+      "answer": "Lohn: wage (hourly); Gehalt: salary",
+      "explanation": "Contrast.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "bezahlen, vergüten",
+        "kündigen"
+      ],
+      "answer": "bezahlen, vergüten",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Entlohnen means to pay or remunerate for work, slightly formal: fair, angemessen, schlecht entlohnt. Die Entlohnung is pay. Der Lohn is traditionally an hourly or weekly wage for manual work, das Gehalt a monthly salary; der Mindestlohn is the minimum wage. Belohnen means to reward. Synonyms: bezahlen, vergüten. Regular: entlohnte, entlohnt."
+}

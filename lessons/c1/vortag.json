@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vortag",
+    "partOfSpeech": "noun, masculine (der Vortag)",
+    "pronunciation": {
+      "respelling": "FOR-taak",
+      "ipa": "ˈfoːɐ̯ˌtaːk",
+      "notes": "Plural: die Vortage."
+    },
+    "meaning": "previous day, day before",
+    "shortDefinition": "Previous day, day before."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Vortag, plural die Vortage.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Vortag"
+        },
+        {
+          "label": "More than one",
+          "value": "die Vortage"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Am Vortag hatte es stark geregnet.",
+      "english": "It had rained heavily the day before.",
+      "highlight": [
+        "Vortag"
+      ]
+    },
+    {
+      "german": "Die Kurse stiegen gegenüber dem Vortag.",
+      "english": "Prices rose compared with the previous day.",
+      "highlight": [
+        "Vortag."
+      ]
+    }
+  ],
+  "forms": [
+    "Vortage",
+    "die Vortage",
+    "der Vortag"
+  ],
+  "memoryHook": "Vortag: the Tag before (vor).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vortag",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Vortag is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Vortag, zwei ___",
+      "answer": "Vortage",
+      "fullAnswer": "ein Vortag, zwei Vortage",
+      "explanation": "The plural is Vortage.",
+      "acceptedAnswers": [
+        "Vortage"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vortag mean?",
+      "options": [
+        "to learn",
+        "previous day",
+        "the child"
+      ],
+      "answer": "previous day",
+      "explanation": "Vortag: previous day, day before.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Am Vortag means…",
+      "options": [
+        "on the previous day",
+        "on the next day"
+      ],
+      "answer": "on the previous day",
+      "explanation": "Previous.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Folgetag is…",
+      "options": [
+        "the following day",
+        "a holiday"
+      ],
+      "answer": "the following day",
+      "explanation": "Following.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Vorabend is…",
+      "options": [
+        "the eve, evening before",
+        "early evening"
+      ],
+      "answer": "the eve, evening before",
+      "explanation": "Eve.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Vortag is the previous day: am Vortag, vom Vortag (from the day before), gegenüber dem Vortag (compared with the previous day, a stock market phrase). Bakeries sell Brot vom Vortag cheaply. The opposite is der Folgetag or der nächste Tag. Der Vorabend is the eve: am Vorabend der Wahl. Plural: die Vortage."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Achtelfinale",
+    "partOfSpeech": "noun, neuter (das Achtelfinale)",
+    "pronunciation": {
+      "respelling": "AKH-tel-fi-naa-le",
+      "ipa": "ˈaxtl̩fiˌnaːlə",
+      "notes": "Plural: die Achtelfinale."
+    },
+    "meaning": "round of 16",
+    "shortDefinition": "Round of 16."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Achtelfinale, plural die Achtelfinale.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Achtelfinale"
+        },
+        {
+          "label": "More than one",
+          "value": "die Achtelfinale"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Deutschland ist im Achtelfinale ausgeschieden.",
+      "english": "Germany was knocked out in the round of 16.",
+      "highlight": [
+        "Achtelfinale"
+      ]
+    },
+    {
+      "german": "Im Achtelfinale treffen sie auf Spanien.",
+      "english": "In the round of 16 they face Spain.",
+      "highlight": [
+        "Achtelfinale"
+      ]
+    }
+  ],
+  "forms": [
+    "die Achtelfinale",
+    "das Achtelfinale",
+    "Viertelfinale",
+    "Halbfinale"
+  ],
+  "memoryHook": "Achtelfinale: the final of the last eighth, 16 teams.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Achtelfinale",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Achtelfinale is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Achtelfinale, zwei ___",
+      "answer": "Achtelfinale",
+      "fullAnswer": "ein Achtelfinale, zwei Achtelfinale",
+      "explanation": "The plural is Achtelfinale.",
+      "acceptedAnswers": [
+        "Achtelfinale"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Achtelfinale mean?",
+      "options": [
+        "the car",
+        "always",
+        "round of 16"
+      ],
+      "answer": "round of 16",
+      "explanation": "Achtelfinale: round of 16.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Viertelfinale is…",
+      "options": [
+        "the quarter-final",
+        "the round of 4"
+      ],
+      "answer": "the quarter-final",
+      "explanation": "Quarter-final.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Halbfinale is…",
+      "options": [
+        "the semi-final",
+        "half-time"
+      ],
+      "answer": "the semi-final",
+      "explanation": "Semi-final.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Achtel is…",
+      "options": [
+        "an eighth",
+        "eight"
+      ],
+      "answer": "an eighth",
+      "explanation": "1/8.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Achtelfinale is the round of 16 in a tournament: im Achtelfinale ausscheiden (to be knocked out in the round of 16). German counts by fractions of the final: das Achtelfinale (eighth-final), das Viertelfinale (quarter-final), das Halbfinale (semi-final), das Finale or Endspiel. Das Achtel is an eighth, as in ein Achtel Wein (an eighth of a litre). Germany won the World Cup in 1954, 1974, 1990 and 2014."
+}

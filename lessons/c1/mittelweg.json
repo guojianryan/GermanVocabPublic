@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mittelweg",
+    "partOfSpeech": "noun, masculine (der Mittelweg)",
+    "pronunciation": {
+      "respelling": "MI-tel-vayk",
+      "ipa": "ˈmɪtl̩ˌveːk",
+      "notes": "Plural: die Mittelwege."
+    },
+    "meaning": "middle way, compromise",
+    "shortDefinition": "Middle way, compromise."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Mittelweg, plural die Mittelwege.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Mittelweg"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mittelwege"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir müssen einen Mittelweg finden.",
+      "english": "We need to find a middle way.",
+      "highlight": [
+        "Mittelweg"
+      ]
+    },
+    {
+      "german": "Der goldene Mittelweg ist oft der beste.",
+      "english": "The happy medium is often best.",
+      "highlight": [
+        "Mittelweg"
+      ]
+    }
+  ],
+  "forms": [
+    "Mittelwege",
+    "der Mittelweg"
+  ],
+  "memoryHook": "Mittelweg: the Weg (way) down the Mitte (middle).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mittelweg",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Mittelweg is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mittelweg, zwei ___",
+      "answer": "Mittelwege",
+      "fullAnswer": "ein Mittelweg, zwei Mittelwege",
+      "explanation": "The plural is Mittelwege.",
+      "acceptedAnswers": [
+        "Mittelwege"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mittelweg mean?",
+      "options": [
+        "middle way",
+        "to help",
+        "the bill"
+      ],
+      "answer": "middle way",
+      "explanation": "Mittelweg: middle way, compromise.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der goldene Mittelweg means…",
+      "options": [
+        "the happy medium",
+        "a golden road"
+      ],
+      "answer": "the happy medium",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Kompromiss",
+        "das Extrem"
+      ],
+      "answer": "der Kompromiss",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Mitte is…",
+      "options": [
+        "middle, centre",
+        "meeting"
+      ],
+      "answer": "middle, centre",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Mittelweg is a middle way or compromise: einen Mittelweg finden, der goldene Mittelweg (the happy medium, Aristotle's golden mean). In politics, die Mitte (the centre) is a coveted position: Wahlen werden in der Mitte gewonnen. Synonyms: der Kompromiss, die Mitte. Plural: die Mittelwege."
+}

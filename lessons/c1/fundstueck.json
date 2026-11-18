@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fundstück",
+    "partOfSpeech": "noun, neuter (das Fundstück)",
+    "pronunciation": {
+      "respelling": "FUNT-shtük",
+      "ipa": "ˈfʊntˌʃtʏk",
+      "notes": "Plural: die Fundstücke."
+    },
+    "meaning": "find, object found",
+    "shortDefinition": "Find, object found."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Fundstück, plural die Fundstücke.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Fundstück"
+        },
+        {
+          "label": "More than one",
+          "value": "die Fundstücke"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Fundstück stammt aus der Römerzeit.",
+      "english": "The find dates from Roman times.",
+      "highlight": [
+        "Fundstück"
+      ]
+    },
+    {
+      "german": "Auf dem Flohmarkt machte sie ein tolles Fundstück.",
+      "english": "She made a great find at the flea market.",
+      "highlight": [
+        "Fundstück."
+      ]
+    }
+  ],
+  "forms": [
+    "Fundstücke",
+    "das Fundstück"
+  ],
+  "memoryHook": "Fundstück: a Stück (piece) you found (finden).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fundstück",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Fundstück is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Fundstück, zwei ___",
+      "answer": "Fundstücke",
+      "fullAnswer": "ein Fundstück, zwei Fundstücke",
+      "explanation": "The plural is Fundstücke.",
+      "acceptedAnswers": [
+        "Fundstuecke"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fundstück mean?",
+      "options": [
+        "the family",
+        "find",
+        "to open"
+      ],
+      "answer": "find",
+      "explanation": "Fundstück: find, object found.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Fundbüro is…",
+      "options": [
+        "lost and found office",
+        "excavation site"
+      ],
+      "answer": "lost and found office",
+      "explanation": "Lost property.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Fund is…",
+      "options": [
+        "find, discovery",
+        "fun"
+      ],
+      "answer": "find, discovery",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Fundsache is…",
+      "options": [
+        "lost property item",
+        "a discovery story"
+      ],
+      "answer": "lost property item",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Fundstück is a find: an archaeological object (römische Fundstücke) or something nice you discover, at a flea market or online. Lost items handed in are Fundsachen at the Fundbüro (lost and found office); the finder can claim a Finderlohn (reward) of usually 5 percent of the value. Der Fund is a discovery. Plural: die Fundstücke."
+}

@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "hinrichten",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "HIN-rikh-ten",
+      "ipa": "ˈhɪnˌʁɪçtn̩",
+      "notes": ""
+    },
+    "meaning": "to execute (put to death)",
+    "shortDefinition": "To execute (put to death)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "richt|e … |hin"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "richt|est … |hin"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "richt|et … |hin"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "richt|en … |hin"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "richt|et … |hin"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "richt|en … |hin"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat hingerichtet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Gefangene wurde hingerichtet.",
+      "english": "The prisoner was executed.",
+      "highlight": [
+        "hingerichtet."
+      ]
+    },
+    {
+      "german": "Die Hinrichtung fand im Morgengrauen statt.",
+      "english": "The execution took place at dawn.",
+      "highlight": [
+        "Hinrichtung"
+      ]
+    }
+  ],
+  "forms": [
+    "richte hin",
+    "richtest hin",
+    "richtet hin",
+    "richten hin",
+    "hingerichtet",
+    "Hinrichtung",
+    "richtete hin"
+  ],
+  "memoryHook": "Hinrichten: to carry out a death sentence.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … hin (hinrichten)",
+      "answer": "richtet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: richtet … hin.",
+      "acceptedAnswers": [
+        "richtet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (hinrichten, past)",
+      "answer": "hingerichtet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe hingerichtet.",
+      "acceptedAnswers": [
+        "hingerichtet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does hinrichten mean?",
+      "options": [
+        "to travel",
+        "to execute (put to death)",
+        "the door"
+      ],
+      "answer": "to execute (put to death)",
+      "explanation": "hinrichten: to execute (put to death).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Hinrichtung is…",
+      "options": [
+        "execution",
+        "direction"
+      ],
+      "answer": "execution",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The death penalty was abolished in West Germany in…",
+      "options": [
+        "1949 (Grundgesetz)",
+        "1990"
+      ],
+      "answer": "1949 (Grundgesetz)",
+      "explanation": "Art. 102.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Todesstrafe is…",
+      "options": [
+        "the death penalty",
+        "a death certificate"
+      ],
+      "answer": "the death penalty",
+      "explanation": "Penalty.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Hinrichten means to execute, to carry out a death sentence. Die Hinrichtung is an execution. Article 102 of the Grundgesetz (1949) states Die Todesstrafe ist abgeschafft; the GDR abolished it in 1987. The members of the White Rose resistance group, including Sophie and Hans Scholl, were executed in Munich in 1943. Separable: richtete hin, hingerichtet. Don't confuse it with einrichten (to furnish)."
+}

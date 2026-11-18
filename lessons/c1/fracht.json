@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fracht",
+    "partOfSpeech": "noun, feminine (die Fracht)",
+    "pronunciation": {
+      "respelling": "frakht",
+      "ipa": "fʁaxt",
+      "notes": "Plural: die Frachten."
+    },
+    "meaning": "freight, cargo",
+    "shortDefinition": "Freight, cargo."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Fracht, plural die Frachten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Fracht"
+        },
+        {
+          "label": "More than one",
+          "value": "die Frachten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Schiff hat Container als Fracht.",
+      "english": "The ship is carrying containers as cargo.",
+      "highlight": [
+        "Fracht."
+      ]
+    },
+    {
+      "german": "Mehr Fracht soll auf die Schiene.",
+      "english": "More freight is to go by rail.",
+      "highlight": [
+        "Fracht"
+      ]
+    }
+  ],
+  "forms": [
+    "Frachten",
+    "die Fracht",
+    "Frachter"
+  ],
+  "memoryHook": "Fracht: goods carried for a fee.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fracht",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Fracht is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Fracht, zwei ___",
+      "answer": "Frachten",
+      "fullAnswer": "ein Fracht, zwei Frachten",
+      "explanation": "The plural is Frachten.",
+      "acceptedAnswers": [
+        "Frachten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fracht mean?",
+      "options": [
+        "the window",
+        "the bread",
+        "freight"
+      ],
+      "answer": "freight",
+      "explanation": "Fracht: freight, cargo.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Frachter is…",
+      "options": [
+        "freighter, cargo ship",
+        "a fridge"
+      ],
+      "answer": "freighter, cargo ship",
+      "explanation": "Ship.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Luftfracht is…",
+      "options": [
+        "air freight",
+        "air pollution"
+      ],
+      "answer": "air freight",
+      "explanation": "Air.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's largest port is…",
+      "options": [
+        "Hamburg",
+        "Bremen"
+      ],
+      "answer": "Hamburg",
+      "explanation": "Port.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Fracht is freight or cargo: die Fracht verladen, Luftfracht, Seefracht. Der Frachter is a cargo ship. Hamburg is Germany's largest port and one of Europe's biggest container ports; Frankfurt Airport handles huge amounts of Luftfracht. German transport policy aims to shift Güterverkehr (freight traffic) from road to rail. Plural: die Frachten."
+}

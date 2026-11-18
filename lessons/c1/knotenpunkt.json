@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Knotenpunkt",
+    "partOfSpeech": "noun, masculine (der Knotenpunkt)",
+    "pronunciation": {
+      "respelling": "KNOH-ten-punkt",
+      "ipa": "ˈknoːtn̩ˌpʊŋkt",
+      "notes": "Plural: die Knotenpunkte."
+    },
+    "meaning": "junction, hub",
+    "shortDefinition": "Junction, hub."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Knotenpunkt, plural die Knotenpunkte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Knotenpunkt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Knotenpunkte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Hannover ist ein wichtiger Knotenpunkt der Bahn.",
+      "english": "Hanover is an important rail hub.",
+      "highlight": [
+        "Knotenpunkt"
+      ]
+    },
+    {
+      "german": "Das Internet besteht aus vielen Knotenpunkten.",
+      "english": "The internet consists of many nodes.",
+      "highlight": [
+        "Knotenpunkten."
+      ]
+    }
+  ],
+  "forms": [
+    "Knotenpunkte",
+    "der Knotenpunkt"
+  ],
+  "memoryHook": "Knotenpunkt: the Punkt where lines meet like a Knoten (knot).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Knotenpunkt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Knotenpunkt is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Knotenpunkt, zwei ___",
+      "answer": "Knotenpunkte",
+      "fullAnswer": "ein Knotenpunkt, zwei Knotenpunkte",
+      "explanation": "The plural is Knotenpunkte.",
+      "acceptedAnswers": [
+        "Knotenpunkte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Knotenpunkt mean?",
+      "options": [
+        "the bill",
+        "the weather",
+        "junction"
+      ],
+      "answer": "junction",
+      "explanation": "Knotenpunkt: junction, hub.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Knoten is…",
+      "options": [
+        "knot; node; lump",
+        "a bone"
+      ],
+      "answer": "knot; node; lump",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Frankfurt's DE-CIX is…",
+      "options": [
+        "one of the world's largest internet exchange points",
+        "a train station"
+      ],
+      "answer": "one of the world's largest internet exchange points",
+      "explanation": "Internet.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Drehscheibe, das Drehkreuz",
+        "die Sackgasse"
+      ],
+      "answer": "die Drehscheibe, das Drehkreuz",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Knotenpunkt is a junction or hub where routes meet: ein Verkehrsknotenpunkt, ein Eisenbahnknotenpunkt. In networks, it's a node. Frankfurt's internet exchange DE-CIX is one of the world's largest Knotenpunkte for data traffic. Der Knoten is a knot, node or lump. Synonyms: die Drehscheibe, das Drehkreuz. Plural: die Knotenpunkte."
+}

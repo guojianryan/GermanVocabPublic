@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Befähigung",
+    "partOfSpeech": "noun, feminine (die Befähigung)",
+    "pronunciation": {
+      "respelling": "be-FAY-i-gung",
+      "ipa": "bəˈfɛːɪɡʊŋ",
+      "notes": "Plural: die Befähigungen."
+    },
+    "meaning": "qualification, capability",
+    "shortDefinition": "Qualification, capability."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Befähigung, plural die Befähigungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Befähigung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Befähigungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie hat die Befähigung zum Richteramt.",
+      "english": "She is qualified to serve as a judge.",
+      "highlight": [
+        "Befähigung"
+      ]
+    },
+    {
+      "german": "Ihm fehlt die Befähigung für diese Aufgabe.",
+      "english": "He lacks the capability for this task.",
+      "highlight": [
+        "Befähigung"
+      ]
+    }
+  ],
+  "forms": [
+    "Befähigungen",
+    "die Befähigung"
+  ],
+  "memoryHook": "Befähigung: being made fähig (capable).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Befähigung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Befähigung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Befähigung, zwei ___",
+      "answer": "Befähigungen",
+      "fullAnswer": "ein Befähigung, zwei Befähigungen",
+      "explanation": "The plural is Befähigungen.",
+      "acceptedAnswers": [
+        "Befaehigungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Befähigung mean?",
+      "options": [
+        "tomorrow",
+        "to buy",
+        "qualification"
+      ],
+      "answer": "qualification",
+      "explanation": "Befähigung: qualification, capability.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Befähigung zum Richteramt requires…",
+      "options": [
+        "two state law exams",
+        "a doctorate"
+      ],
+      "answer": "two state law exams",
+      "explanation": "Law.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Befähigen means…",
+      "options": [
+        "to enable, qualify",
+        "to fail"
+      ],
+      "answer": "to enable, qualify",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Qualifikation, die Eignung",
+        "die Unfähigkeit"
+      ],
+      "answer": "die Qualifikation, die Eignung",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Befähigung is qualification or capability, often in formal and legal language: die Befähigung zum Richteramt (qualification to be a judge, earned by passing two Staatsexamen), die Lehrbefähigung. Befähigen means to enable: Bildung befähigt Menschen. Synonyms: die Qualifikation, die Eignung, die Fähigkeit. Plural: die Befähigungen."
+}

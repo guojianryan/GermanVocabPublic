@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Postfach",
+    "partOfSpeech": "noun, neuter (das Postfach)",
+    "pronunciation": {
+      "respelling": "POST-fakh",
+      "ipa": "ˈpɔstˌfax",
+      "notes": "Plural: die Postfächer."
+    },
+    "meaning": "PO box; inbox; pigeonhole",
+    "shortDefinition": "PO box; inbox; pigeonhole."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Postfach, plural die Postfächer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Postfach"
+        },
+        {
+          "label": "More than one",
+          "value": "die Postfächer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Mein E-Mail-Postfach ist voll.",
+      "english": "My email inbox is full.",
+      "highlight": [
+        "E-Mail-Postfach"
+      ]
+    },
+    {
+      "german": "Schicken Sie die Unterlagen an unser Postfach.",
+      "english": "Send the documents to our PO box.",
+      "highlight": [
+        "Postfach."
+      ]
+    }
+  ],
+  "forms": [
+    "Postfächer",
+    "die Postfächer",
+    "das Postfach"
+  ],
+  "memoryHook": "Postfach: a Fach (compartment) for Post.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Postfach",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Postfach is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Postfach, zwei ___",
+      "answer": "Postfächer",
+      "fullAnswer": "ein Postfach, zwei Postfächer",
+      "explanation": "The plural is Postfächer.",
+      "acceptedAnswers": [
+        "Postfaecher"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Postfach mean?",
+      "options": [
+        "to wait",
+        "PO box",
+        "to sing"
+      ],
+      "answer": "PO box",
+      "explanation": "Postfach: PO box; inbox; pigeonhole.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Postfach in email means…",
+      "options": [
+        "the inbox / mailbox",
+        "the sent folder"
+      ],
+      "answer": "the inbox / mailbox",
+      "explanation": "Inbox.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Fach is…",
+      "options": [
+        "compartment; subject",
+        "a fact"
+      ],
+      "answer": "compartment; subject",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Briefkasten is…",
+      "options": [
+        "letterbox",
+        "PO box"
+      ],
+      "answer": "letterbox",
+      "explanation": "Letterbox.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Postfach is a PO box at the post office, an email inbox (das E-Mail-Postfach) or a pigeonhole at work. Since 2018, German lawyers must use a special electronic mailbox, the beA (besonderes elektronisches Anwaltspostfach). Das Fach means compartment and also school subject: Lieblingsfach. Der Briefkasten is a letterbox. Plural: die Postfächer."
+}

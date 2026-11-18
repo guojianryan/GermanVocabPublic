@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Belagerung",
+    "partOfSpeech": "noun, feminine (die Belagerung)",
+    "pronunciation": {
+      "respelling": "be-LAA-ge-rung",
+      "ipa": "bəˈlaːɡəʁʊŋ",
+      "notes": "Plural: die Belagerungen."
+    },
+    "meaning": "siege",
+    "shortDefinition": "Siege."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Belagerung, plural die Belagerungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Belagerung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Belagerungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Belagerung der Stadt dauerte Monate.",
+      "english": "The siege of the city lasted months.",
+      "highlight": [
+        "Belagerung"
+      ]
+    },
+    {
+      "german": "Die Belagerung Leningrads kostete eine Million Menschen das Leben.",
+      "english": "The siege of Leningrad cost a million people their lives.",
+      "highlight": [
+        "Belagerung"
+      ]
+    }
+  ],
+  "forms": [
+    "Belagerungen",
+    "die Belagerungen",
+    "die Belagerung",
+    "belagern"
+  ],
+  "memoryHook": "Belagerung: setting up camp (Lager) around a city.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Belagerung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Belagerung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Belagerung, zwei ___",
+      "answer": "Belagerungen",
+      "fullAnswer": "ein Belagerung, zwei Belagerungen",
+      "explanation": "The plural is Belagerungen.",
+      "acceptedAnswers": [
+        "Belagerungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Belagerung mean?",
+      "options": [
+        "siege",
+        "expensive",
+        "to buy"
+      ],
+      "answer": "siege",
+      "explanation": "Belagerung: siege.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Belagern means…",
+      "options": [
+        "to besiege; (colloq.) to crowd around",
+        "to store"
+      ],
+      "answer": "to besiege; (colloq.) to crowd around",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fans belagern den Star means…",
+      "options": [
+        "fans crowd around the star",
+        "fans attack the star"
+      ],
+      "answer": "fans crowd around the star",
+      "explanation": "Crowd.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Lager is…",
+      "options": [
+        "camp; warehouse; bearing",
+        "a beer only"
+      ],
+      "answer": "camp; warehouse; bearing",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Belagerung is a siege: die Belagerung Wiens (1683, by the Ottomans), die Belagerung Leningrads (1941–1944, by the German Wehrmacht, about a million civilians died). The verb belagern means to besiege, and colloquially to crowd around: Fans belagerten das Hotel. It comes from das Lager (camp), the camp set up around a city. Plural: die Belagerungen."
+}

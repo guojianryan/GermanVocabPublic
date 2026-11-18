@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schreiber",
+    "partOfSpeech": "noun, masculine (der Schreiber)",
+    "pronunciation": {
+      "respelling": "SHRAI-ber",
+      "ipa": "ˈʃʁaɪ̯bɐ",
+      "notes": "Plural: die Schreiber."
+    },
+    "meaning": "writer; scribe; (informal) pen",
+    "shortDefinition": "Writer; scribe; (informal) pen."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schreiber, plural die Schreiber.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schreiber"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schreiber"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Schreiber dieser Zeilen ist müde.",
+      "english": "The writer of these lines is tired.",
+      "highlight": [
+        "Schreiber"
+      ]
+    },
+    {
+      "german": "Hast du einen Schreiber für mich?",
+      "english": "Have you got a pen for me?",
+      "highlight": [
+        "Schreiber"
+      ]
+    }
+  ],
+  "forms": [
+    "die Schreiber",
+    "der Schreiber",
+    "Schreiberin"
+  ],
+  "memoryHook": "Schreiber: whoever or whatever schreibt.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schreiber",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schreiber is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schreiber, zwei ___",
+      "answer": "Schreiber",
+      "fullAnswer": "ein Schreiber, zwei Schreiber",
+      "explanation": "The plural is Schreiber.",
+      "acceptedAnswers": [
+        "Schreiber"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schreiber mean?",
+      "options": [
+        "to wait",
+        "the bread",
+        "writer"
+      ],
+      "answer": "writer",
+      "explanation": "Schreiber: writer; scribe; (informal) pen.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Colloquially, ein Schreiber can be…",
+      "options": [
+        "a pen",
+        "a printer"
+      ],
+      "answer": "a pen",
+      "explanation": "Southern German.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schriftsteller is…",
+      "options": [
+        "an author (literary)",
+        "a typist"
+      ],
+      "answer": "an author (literary)",
+      "explanation": "Author.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Historically, der Schreiber was…",
+      "options": [
+        "a scribe, clerk",
+        "a teacher"
+      ],
+      "answer": "a scribe, clerk",
+      "explanation": "Scribe.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Schreiber is someone who writes: der Schreiber dieses Briefes. Historically, it was a scribe or clerk. For literary authors, German uses der Schriftsteller or der Autor. Colloquially, especially in southern Germany and Austria, ein Schreiber is also a pen. Der Kugelschreiber (Kuli) is a ballpoint pen, and der Schreiberling is a hack writer. Schreiber is also a common German surname."
+}

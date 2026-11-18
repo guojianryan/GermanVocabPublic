@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "unterbinden",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "un-ter-BIN-den",
+      "ipa": "ʊntɐˈbɪndn̩",
+      "notes": ""
+    },
+    "meaning": "to stop, prevent, put a stop to",
+    "shortDefinition": "To stop, prevent, put a stop to."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "unterbind|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "unterbind|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "unterbind|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "unterbind|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "unterbind|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "unterbind|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat unterbunden"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Polizei unterband die Demonstration.",
+      "english": "The police put a stop to the demonstration.",
+      "highlight": [
+        "unterband"
+      ]
+    },
+    {
+      "german": "Das neue Gesetz soll den Missbrauch unterbinden.",
+      "english": "The new law is meant to prevent abuse.",
+      "highlight": [
+        "unterbinden."
+      ]
+    }
+  ],
+  "forms": [
+    "unterbinde",
+    "unterbindest",
+    "unterbindet",
+    "unterbinden",
+    "unterbunden",
+    "unterband"
+  ],
+  "memoryHook": "Unterbinden: tie (binden) something off from below (unter).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (unterbinden)",
+      "answer": "unterbindet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: unterbindet.",
+      "acceptedAnswers": [
+        "unterbindet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (unterbinden, past)",
+      "answer": "unterbunden",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe unterbunden.",
+      "acceptedAnswers": [
+        "unterbunden"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does unterbinden mean?",
+      "options": [
+        "to stop",
+        "expensive",
+        "the bed"
+      ],
+      "answer": "to stop",
+      "explanation": "unterbinden: to stop, prevent, put a stop to.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "unterband, unterbunden",
+        "unterbindete"
+      ],
+      "answer": "unterband, unterbunden",
+      "explanation": "Irregular.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "verhindern, stoppen",
+        "verbinden"
+      ],
+      "answer": "verhindern, stoppen",
+      "explanation": "Prevent.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In medicine, unterbinden means…",
+      "options": [
+        "to ligate (tie off)",
+        "to bandage"
+      ],
+      "answer": "to ligate (tie off)",
+      "explanation": "Medical.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Unterbinden means to put a stop to or prevent: Missbrauch unterbinden, den Handel unterbinden, Versuche unterbinden. In medicine, it means to tie off (ligate) a blood vessel. It's formal; everyday alternatives are stoppen and verhindern. Not separable, irregular like binden: unterband, unterbunden. Don't confuse it with verbinden (to connect, bandage)."
+}

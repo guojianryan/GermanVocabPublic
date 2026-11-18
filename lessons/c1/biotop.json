@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Biotop",
+    "partOfSpeech": "noun, neuter (das Biotop)",
+    "pronunciation": {
+      "respelling": "bi-o-TOHP",
+      "ipa": "bi̯oˈtoːp",
+      "notes": "Plural: die Biotope."
+    },
+    "meaning": "biotope, habitat",
+    "shortDefinition": "Biotope, habitat."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Biotop, plural die Biotope.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Biotop"
+        },
+        {
+          "label": "More than one",
+          "value": "die Biotope"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Teich ist ein wertvolles Biotop für Frösche.",
+      "english": "The pond is a valuable habitat for frogs.",
+      "highlight": [
+        "Biotop"
+      ]
+    },
+    {
+      "german": "Das Biotop steht unter Naturschutz.",
+      "english": "The biotope is a protected nature area.",
+      "highlight": [
+        "Biotop"
+      ]
+    }
+  ],
+  "forms": [
+    "Biotope",
+    "das Biotop"
+  ],
+  "memoryHook": "Biotop: Greek bios (life) + topos (place).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Biotop",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Biotop is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Biotop, zwei ___",
+      "answer": "Biotope",
+      "fullAnswer": "ein Biotop, zwei Biotope",
+      "explanation": "The plural is Biotope.",
+      "acceptedAnswers": [
+        "Biotope"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Biotop mean?",
+      "options": [
+        "always",
+        "to sing",
+        "biotope"
+      ],
+      "answer": "biotope",
+      "explanation": "Biotop: biotope, habitat.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "das Biotop (also der in Austria)",
+        "die Biotop"
+      ],
+      "answer": "das Biotop (also der in Austria)",
+      "explanation": "Gender.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Lebensraum, das Habitat",
+        "das Labor"
+      ],
+      "answer": "der Lebensraum, das Habitat",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, ein Biotop can be…",
+      "options": [
+        "a closed milieu, scene",
+        "a garden"
+      ],
+      "answer": "a closed milieu, scene",
+      "explanation": "Figurative.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Biotop is a biotope or habitat, a place with a particular community of living things: ein Feuchtbiotop, ein geschütztes Biotop. Many German gardens have a small pond called a Gartenbiotop. Figuratively it means a closed scene or milieu: das Berliner Politik-Biotop. From Greek bios (life) and topos (place). Synonym: der Lebensraum. Plural: die Biotope."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zeremonie",
+    "partOfSpeech": "noun, feminine (die Zeremonie)",
+    "pronunciation": {
+      "respelling": "tse-re-mo-NEE",
+      "ipa": "t͡seʁemoˈniː",
+      "notes": "Plural: die Zeremonien."
+    },
+    "meaning": "ceremony",
+    "shortDefinition": "Ceremony."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Zeremonie, plural die Zeremonien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Zeremonie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Zeremonien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Zeremonie fand in der Kirche statt.",
+      "english": "The ceremony took place in the church.",
+      "highlight": [
+        "Zeremonie"
+      ]
+    },
+    {
+      "german": "Bei der Eröffnungszeremonie gab es ein Feuerwerk.",
+      "english": "There were fireworks at the opening ceremony.",
+      "highlight": [
+        "Eröffnungszeremonie"
+      ]
+    }
+  ],
+  "forms": [
+    "Zeremonien",
+    "die Zeremonien",
+    "die Zeremonie",
+    "zeremoniell"
+  ],
+  "memoryHook": "Zeremonie: a formal ritual.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zeremonie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Zeremonie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Zeremonie, zwei ___",
+      "answer": "Zeremonien",
+      "fullAnswer": "ein Zeremonie, zwei Zeremonien",
+      "explanation": "The plural is Zeremonien.",
+      "acceptedAnswers": [
+        "Zeremonien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zeremonie mean?",
+      "options": [
+        "always",
+        "to wait",
+        "ceremony"
+      ],
+      "answer": "ceremony",
+      "explanation": "Zeremonie: ceremony.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress:",
+      "options": [
+        "tse-re-mo-NIE",
+        "tse-RE-mo-nie"
+      ],
+      "answer": "tse-re-mo-NIE",
+      "explanation": "Last syllable.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Zeremonien (-ni-en)",
+        "die Zeremonies"
+      ],
+      "answer": "die Zeremonien (-ni-en)",
+      "explanation": "-n.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zeremoniell means…",
+      "options": [
+        "ceremonial",
+        "cereal"
+      ],
+      "answer": "ceremonial",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Zeremonie is a ceremony: die Trauzeremonie (wedding ceremony), die Eröffnungszeremonie, die Preisverleihung. In Germany, only a civil marriage at the Standesamt is legally valid; church ceremonies are optional. Stressed on the last syllable: tse-re-mo-NEE; the plural Zeremonien has four syllables: -NEE-en. Zeremoniell means ceremonial, and das Zeremoniell is formal protocol."
+}

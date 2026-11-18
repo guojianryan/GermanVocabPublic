@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Geschäftsstelle",
+    "partOfSpeech": "noun, feminine (die Geschäftsstelle)",
+    "pronunciation": {
+      "respelling": "ge-SHEFTS-shtel-e",
+      "ipa": "ɡəˈʃɛft͡sˌʃtɛlə",
+      "notes": "Plural: die Geschäftsstellen."
+    },
+    "meaning": "office, branch (of an organisation)",
+    "shortDefinition": "Office, branch (of an organisation)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Geschäftsstelle, plural die Geschäftsstellen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Geschäftsstelle"
+        },
+        {
+          "label": "More than one",
+          "value": "die Geschäftsstellen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Geschäftsstelle ist montags geschlossen.",
+      "english": "The office is closed on Mondays.",
+      "highlight": [
+        "Geschäftsstelle"
+      ]
+    },
+    {
+      "german": "Der Verein hat eine neue Geschäftsstelle.",
+      "english": "The club has a new office.",
+      "highlight": [
+        "Geschäftsstelle."
+      ]
+    }
+  ],
+  "forms": [
+    "Geschäftsstellen",
+    "die Geschäftsstellen",
+    "die Geschäftsstelle"
+  ],
+  "memoryHook": "Geschäftsstelle: the Stelle (place) where business is done.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Geschäftsstelle",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Geschäftsstelle is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Geschäftsstelle, zwei ___",
+      "answer": "Geschäftsstellen",
+      "fullAnswer": "ein Geschäftsstelle, zwei Geschäftsstellen",
+      "explanation": "The plural is Geschäftsstellen.",
+      "acceptedAnswers": [
+        "Geschaeftsstellen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Geschäftsstelle mean?",
+      "options": [
+        "always",
+        "office",
+        "the key"
+      ],
+      "answer": "office",
+      "explanation": "Geschäftsstelle: office, branch (of an organisation).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Typical owners of a Geschäftsstelle:",
+      "options": [
+        "clubs, associations, parties",
+        "families"
+      ],
+      "answer": "clubs, associations, parties",
+      "explanation": "Organisations.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Geschäftsführer is…",
+      "options": [
+        "the managing director",
+        "a shop assistant"
+      ],
+      "answer": "the managing director",
+      "explanation": "MD.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "A bank branch is usually…",
+      "options": [
+        "die Filiale",
+        "die Geschäftsstelle only"
+      ],
+      "answer": "die Filiale",
+      "explanation": "Filiale.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Geschäftsstelle is the office or administrative branch of an organisation: die Geschäftsstelle eines Vereins, einer Partei, einer Krankenkasse. Sports clubs often have a Geschäftsstelle where you buy tickets. For a bank or shop branch, Germans usually say die Filiale. Der Geschäftsführer is the managing director of a GmbH. From Geschäft (business) and Stelle (place). Plural: die Geschäftsstellen."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bebauung",
+    "partOfSpeech": "noun, feminine (die Bebauung)",
+    "pronunciation": {
+      "respelling": "be-BAU-ung",
+      "ipa": "bəˈbaʊ̯ʊŋ",
+      "notes": "Plural: die Bebauungen."
+    },
+    "meaning": "development (building on land)",
+    "shortDefinition": "Development (building on land)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Bebauung, plural die Bebauungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Bebauung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bebauungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Bebauung des Feldes ist umstritten.",
+      "english": "Building on the field is controversial.",
+      "highlight": [
+        "Bebauung"
+      ]
+    },
+    {
+      "german": "Der Bebauungsplan legt fest, wie hoch gebaut werden darf.",
+      "english": "The development plan determines how high you may build.",
+      "highlight": [
+        "Bebauungsplan"
+      ]
+    }
+  ],
+  "forms": [
+    "Bebauungen",
+    "die Bebauung",
+    "bebauen",
+    "Bebauungsplan"
+  ],
+  "memoryHook": "Bebauung: covering land with buildings.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bebauung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Bebauung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bebauung, zwei ___",
+      "answer": "Bebauungen",
+      "fullAnswer": "ein Bebauung, zwei Bebauungen",
+      "explanation": "The plural is Bebauungen.",
+      "acceptedAnswers": [
+        "Bebauungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bebauung mean?",
+      "options": [
+        "to buy",
+        "development (building on land)",
+        "the bill"
+      ],
+      "answer": "development (building on land)",
+      "explanation": "Bebauung: development (building on land).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Bebauungsplan is…",
+      "options": [
+        "the local development/zoning plan",
+        "an architect's sketch"
+      ],
+      "answer": "the local development/zoning plan",
+      "explanation": "Zoning.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bebauen means…",
+      "options": [
+        "to build on (land)",
+        "to farm"
+      ],
+      "answer": "to build on (land)",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Randbebauung is…",
+      "options": [
+        "development on the edge of an area",
+        "fencing"
+      ],
+      "answer": "development on the edge of an area",
+      "explanation": "Edge.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Bebauung is development, the buildings on a piece of land or the act of building on it: dichte Bebauung, die Bebauung eines Grundstücks. In Germany, der Bebauungsplan (B-Plan), set by the municipality, decides what can be built where, including height and use, so you can't simply build on your land. Bebauen means to build on, and bebaubar means buildable. Plural: die Bebauungen."
+}

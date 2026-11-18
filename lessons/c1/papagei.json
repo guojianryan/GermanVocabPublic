@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Papagei",
+    "partOfSpeech": "noun, masculine (der Papagei)",
+    "pronunciation": {
+      "respelling": "pa-pa-GAI",
+      "ipa": "papaˈɡaɪ̯",
+      "notes": "Plural: die Papageien."
+    },
+    "meaning": "parrot",
+    "shortDefinition": "Parrot."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Papagei, plural die Papageien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Papagei"
+        },
+        {
+          "label": "More than one",
+          "value": "die Papageien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Papagei kann zwanzig Wörter sprechen.",
+      "english": "The parrot can say twenty words.",
+      "highlight": [
+        "Papagei"
+      ]
+    },
+    {
+      "german": "Er plappert alles nach wie ein Papagei.",
+      "english": "He parrots everything.",
+      "highlight": [
+        "Papagei."
+      ]
+    }
+  ],
+  "forms": [
+    "Papageien",
+    "der Papagei"
+  ],
+  "memoryHook": "Papagei: from Arabic babagha, the talking bird.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Papagei",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Papagei is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Papagei, zwei ___",
+      "answer": "Papageien",
+      "fullAnswer": "ein Papagei, zwei Papageien",
+      "explanation": "The plural is Papageien.",
+      "acceptedAnswers": [
+        "Papageien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Papagei mean?",
+      "options": [
+        "slowly",
+        "cheap",
+        "parrot"
+      ],
+      "answer": "parrot",
+      "explanation": "Papagei: parrot.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Papagei declines…",
+      "options": [
+        "weakly or strongly (den Papageien / Papagei)",
+        "only strongly"
+      ],
+      "answer": "weakly or strongly (den Papageien / Papagei)",
+      "explanation": "Declension.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Wellensittich is…",
+      "options": [
+        "budgerigar",
+        "a parrot fish"
+      ],
+      "answer": "budgerigar",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nachplappern means…",
+      "options": [
+        "to parrot, repeat mindlessly",
+        "to chat"
+      ],
+      "answer": "to parrot, repeat mindlessly",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Papagei is a parrot, stressed on the last syllable. Wie ein Papagei nachplappern means to parrot something mindlessly. Germany's most popular pet bird is der Wellensittich (budgie). The plural is die Papageien, and the singular may be declined strongly or weakly: den Papagei or den Papageien. Papageien can live for decades, so they're often inherited."
+}

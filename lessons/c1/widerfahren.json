@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "widerfahren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "vee-der-FAA-ren",
+      "ipa": "viːdɐˈfaːʁən",
+      "notes": ""
+    },
+    "meaning": "to happen to, befall (formal)",
+    "shortDefinition": "To happen to, befall (formal)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "widerfahr|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "widerfähr|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "widerfähr|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "widerfahr|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "widerfahr|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "widerfahr|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist widerfahren"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ihm ist großes Unrecht widerfahren.",
+      "english": "He has suffered a great injustice.",
+      "highlight": [
+        "widerfahren."
+      ]
+    },
+    {
+      "german": "So etwas ist mir noch nie widerfahren.",
+      "english": "Nothing like that has ever happened to me.",
+      "highlight": [
+        "widerfahren."
+      ]
+    }
+  ],
+  "forms": [
+    "widerfahre",
+    "widerfährst",
+    "widerfährt",
+    "widerfahren",
+    "widerfahrt",
+    "widerfuhr"
+  ],
+  "memoryHook": "Widerfahren: something fährt (comes) against (wider) you.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (widerfahren)",
+      "answer": "widerfährt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: widerfährt.",
+      "acceptedAnswers": [
+        "widerfaehrt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (widerfahren, past)",
+      "answer": "widerfahren",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin widerfahren.",
+      "acceptedAnswers": [
+        "widerfahren"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does widerfahren mean?",
+      "options": [
+        "to buy",
+        "hot",
+        "to happen to"
+      ],
+      "answer": "to happen to",
+      "explanation": "widerfahren: to happen to, befall (formal).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Widerfahren takes…",
+      "options": [
+        "the dative and sein",
+        "the accusative and haben"
+      ],
+      "answer": "the dative and sein",
+      "explanation": "Grammar.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandem Gerechtigkeit widerfahren lassen means…",
+      "options": [
+        "to do someone justice",
+        "to drive against someone"
+      ],
+      "answer": "to do someone justice",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Is it separable?",
+      "options": [
+        "no: es widerfährt ihm",
+        "yes: es fährt ihm wider"
+      ],
+      "answer": "no: es widerfährt ihm",
+      "explanation": "Inseparable.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Widerfahren means to happen to or befall someone, formal and usually of something significant: Mir ist Unrecht widerfahren. It takes the dative and sein. Jemandem Gerechtigkeit widerfahren lassen means to do someone justice. Unlike widersprechen, it's inseparable here: es widerfährt, widerfuhr, ist widerfahren. Everyday German says passieren or zustoßen."
+}

@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "vonnöten",
+    "partOfSpeech": "adjective (predicative)",
+    "pronunciation": {
+      "respelling": "fon-NÖ-ten",
+      "ipa": "fɔnˈnøːtn̩",
+      "notes": ""
+    },
+    "meaning": "necessary, needed",
+    "shortDefinition": "Necessary, needed."
+  },
+  "sampleSentences": [
+    {
+      "german": "Hier ist schnelles Handeln vonnöten.",
+      "english": "Quick action is needed here.",
+      "highlight": [
+        "vonnöten."
+      ]
+    },
+    {
+      "german": "Mehr Geduld wäre vonnöten.",
+      "english": "More patience would be needed.",
+      "highlight": [
+        "vonnöten."
+      ]
+    }
+  ],
+  "forms": [
+    "vonnöten"
+  ],
+  "memoryHook": "Vonnöten: von (out of) Nöten (need).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does vonnöten mean?",
+      "options": [
+        "the job",
+        "necessary",
+        "to buy"
+      ],
+      "answer": "necessary",
+      "explanation": "vonnöten: necessary, needed.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vonnöten is used…",
+      "options": [
+        "only with sein",
+        "before nouns"
+      ],
+      "answer": "only with sein",
+      "explanation": "Usage.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "nötig, erforderlich",
+        "überflüssig"
+      ],
+      "answer": "nötig, erforderlich",
+      "explanation": "Synonym.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal",
+        "slang"
+      ],
+      "answer": "formal",
+      "explanation": "Register.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Hilfe ist dringend ___. (needed)",
+      "answer": "vonnöten",
+      "fullAnswer": "Hilfe ist dringend vonnöten.",
+      "explanation": "vonnöten.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Vonnöten means necessary or needed and is only used with sein: Eile ist vonnöten, Mehr Investitionen sind dringend vonnöten. It's formal, from an old phrase von Nöten (out of necessity). Everyday words are nötig, notwendig or erforderlich. Its opposite is unnötig or überflüssig."
+}

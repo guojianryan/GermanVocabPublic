@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Brandung",
+    "partOfSpeech": "noun, feminine (die Brandung)",
+    "pronunciation": {
+      "respelling": "BRAN-dung",
+      "ipa": "ˈbʁandʊŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "surf, breakers",
+    "shortDefinition": "Surf, breakers."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Brandung, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Brandung"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir hörten das Rauschen der Brandung.",
+      "english": "We heard the roar of the surf.",
+      "highlight": [
+        "Brandung."
+      ]
+    },
+    {
+      "german": "Bei starker Brandung ist das Baden verboten.",
+      "english": "Swimming is prohibited in heavy surf.",
+      "highlight": [
+        "Brandung"
+      ]
+    }
+  ],
+  "forms": [
+    "die Brandung"
+  ],
+  "memoryHook": "Brandung: waves that branden (break) on the shore.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Brandung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Brandung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Brandung mean?",
+      "options": [
+        "slowly",
+        "cheap",
+        "surf"
+      ],
+      "answer": "surf",
+      "explanation": "Brandung: surf, breakers.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Brandung is…",
+      "options": [
+        "waves breaking on the shore",
+        "a fire"
+      ],
+      "answer": "waves breaking on the shore",
+      "explanation": "Surf.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Branden means…",
+      "options": [
+        "to break (waves); to surge",
+        "to burn"
+      ],
+      "answer": "to break (waves); to surge",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Brandender Applaus means…",
+      "options": [
+        "thunderous applause",
+        "burning applause"
+      ],
+      "answer": "thunderous applause",
+      "explanation": "Figurative.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Brandung is the surf, waves breaking on a shore or rocks: das Rauschen der Brandung, in der Brandung schwimmen. Branden means to break or surge, and figuratively brandender Beifall is thunderous applause. Wie ein Fels in der Brandung (like a rock in the surf) describes someone steady in a crisis. It has no plural."
+}

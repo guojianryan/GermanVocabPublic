@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "zerfallen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "tser-FA-len",
+      "ipa": "t͡sɛɐ̯ˈfalən",
+      "notes": ""
+    },
+    "meaning": "to decay, disintegrate",
+    "shortDefinition": "To decay, disintegrate."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "zerfall|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "zerfäll|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "zerfäll|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "zerfall|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "zerfall|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "zerfall|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist zerfallen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die alte Burg zerfällt langsam.",
+      "english": "The old castle is slowly falling into ruin.",
+      "highlight": [
+        "zerfällt"
+      ]
+    },
+    {
+      "german": "1991 zerfiel die Sowjetunion.",
+      "english": "In 1991 the Soviet Union disintegrated.",
+      "highlight": [
+        "zerfiel"
+      ]
+    }
+  ],
+  "forms": [
+    "zerfalle",
+    "zerfällst",
+    "zerfällt",
+    "zerfallen",
+    "zerfallt",
+    "zerfiel",
+    "Zerfall"
+  ],
+  "memoryHook": "Zerfallen: fall (fallen) to pieces (zer-).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (zerfallen)",
+      "answer": "zerfällt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: zerfällt.",
+      "acceptedAnswers": [
+        "zerfaellt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (zerfallen, past)",
+      "answer": "zerfallen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin zerfallen.",
+      "acceptedAnswers": [
+        "zerfallen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does zerfallen mean?",
+      "options": [
+        "to help",
+        "to decay",
+        "to sleep"
+      ],
+      "answer": "to decay",
+      "explanation": "zerfallen: to decay, disintegrate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "zerfiel, ist zerfallen",
+        "zerfallte"
+      ],
+      "answer": "zerfiel, ist zerfallen",
+      "explanation": "Irregular.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Zerfall is…",
+      "options": [
+        "decay, disintegration",
+        "a waterfall"
+      ],
+      "answer": "decay, disintegration",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zerfallen in + acc. means…",
+      "options": [
+        "to break up into",
+        "to fall into"
+      ],
+      "answer": "to break up into",
+      "explanation": "Break up.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Zerfallen means to decay, crumble or disintegrate: Das Gebäude zerfällt, Das Reich zerfiel. Zerfallen in means to break up into: Das Buch zerfällt in drei Teile. Der Zerfall is decay or disintegration: der Zerfall der Sowjetunion, radioaktiver Zerfall. Many GDR-era buildings zerfielen before 1989 for lack of materials. Irregular with sein: zerfiel, ist zerfallen."
+}

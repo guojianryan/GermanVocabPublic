@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Hausverbot",
+    "partOfSpeech": "noun, neuter (das Hausverbot)",
+    "pronunciation": {
+      "respelling": "HAUS-fer-boht",
+      "ipa": "ˈhaʊ̯sfɛɐ̯ˌboːt",
+      "notes": "Plural: die Hausverbote."
+    },
+    "meaning": "ban from entering premises",
+    "shortDefinition": "Ban from entering premises."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Hausverbot, plural die Hausverbote.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Hausverbot"
+        },
+        {
+          "label": "More than one",
+          "value": "die Hausverbote"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nach der Schlägerei bekam er Hausverbot.",
+      "english": "After the brawl he was banned from the premises.",
+      "highlight": [
+        "Hausverbot."
+      ]
+    },
+    {
+      "german": "Der Fußballverein erteilte den Randalierern Hausverbot.",
+      "english": "The football club banned the rioters from the stadium.",
+      "highlight": [
+        "Hausverbot."
+      ]
+    }
+  ],
+  "forms": [
+    "Hausverbote",
+    "das Hausverbot"
+  ],
+  "memoryHook": "Hausverbot: a Verbot (ban) on entering the Haus.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Hausverbot",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Hausverbot is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Hausverbot, zwei ___",
+      "answer": "Hausverbote",
+      "fullAnswer": "ein Hausverbot, zwei Hausverbote",
+      "explanation": "The plural is Hausverbote.",
+      "acceptedAnswers": [
+        "Hausverbote"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Hausverbot mean?",
+      "options": [
+        "the key",
+        "ban from entering premises",
+        "the door"
+      ],
+      "answer": "ban from entering premises",
+      "explanation": "Hausverbot: ban from entering premises.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Hausrecht is…",
+      "options": [
+        "the owner's right to decide who may enter",
+        "a house rule list"
+      ],
+      "answer": "the owner's right to decide who may enter",
+      "explanation": "Law.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ignoring a Hausverbot can be…",
+      "options": [
+        "trespass (Hausfriedensbruch)",
+        "legal"
+      ],
+      "answer": "trespass (Hausfriedensbruch)",
+      "explanation": "Offence.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Stadionverbot is…",
+      "options": [
+        "a stadium ban",
+        "a match postponement"
+      ],
+      "answer": "a stadium ban",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Hausverbot is a ban from entering premises, issued by the owner using their Hausrecht: Er hat Hausverbot in der Kneipe. Entering anyway can count as Hausfriedensbruch (trespass) under §123 StGB. Football clubs issue Stadionverbote, and shops issue Hausverbote to shoplifters. Plural: die Hausverbote."
+}

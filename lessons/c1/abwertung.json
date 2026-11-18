@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Abwertung",
+    "partOfSpeech": "noun, feminine (die Abwertung)",
+    "pronunciation": {
+      "respelling": "AP-ver-tung",
+      "ipa": "ˈapˌveːɐ̯tʊŋ",
+      "notes": "Plural: die Abwertungen."
+    },
+    "meaning": "devaluation; disparagement",
+    "shortDefinition": "Devaluation; disparagement."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Abwertung, plural die Abwertungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Abwertung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Abwertungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Abwertung der Währung verteuert Importe.",
+      "english": "The currency devaluation makes imports more expensive.",
+      "highlight": [
+        "Abwertung"
+      ]
+    },
+    {
+      "german": "Das ist eine Abwertung meiner Arbeit.",
+      "english": "That belittles my work.",
+      "highlight": [
+        "Abwertung"
+      ]
+    }
+  ],
+  "forms": [
+    "Abwertungen",
+    "die Abwertung"
+  ],
+  "memoryHook": "Abwertung: lowering (ab) the Wert (value).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Abwertung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Abwertung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Abwertung, zwei ___",
+      "answer": "Abwertungen",
+      "fullAnswer": "ein Abwertung, zwei Abwertungen",
+      "explanation": "The plural is Abwertungen.",
+      "acceptedAnswers": [
+        "Abwertungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Abwertung mean?",
+      "options": [
+        "slowly",
+        "the station",
+        "devaluation"
+      ],
+      "answer": "devaluation",
+      "explanation": "Abwertung: devaluation; disparagement.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Aufwertung is…",
+      "options": [
+        "revaluation, upgrade",
+        "devaluation"
+      ],
+      "answer": "revaluation, upgrade",
+      "explanation": "Opposite.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Abwertend (language) means…",
+      "options": [
+        "pejorative, derogatory",
+        "valuable"
+      ],
+      "answer": "pejorative, derogatory",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Wert is…",
+      "options": [
+        "value",
+        "word"
+      ],
+      "answer": "value",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Abwertung is devaluation, of a currency (die Abwertung des Rubels) or a rating, and also disparagement: eine Abwertung von Frauen, von Minderheiten. Abwertend means pejorative; dictionaries mark insulting words as abwertend. The opposite is die Aufwertung (revaluation, upgrading): die Aufwertung eines Stadtviertels. Plural: die Abwertungen."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Aufzeichnung",
+    "partOfSpeech": "noun, feminine (die Aufzeichnung)",
+    "pronunciation": {
+      "respelling": "AUF-tsaikh-nung",
+      "ipa": "ˈaʊ̯fˌt͡saɪ̯çnʊŋ",
+      "notes": "Plural: die Aufzeichnungen."
+    },
+    "meaning": "recording; notes",
+    "shortDefinition": "Recording; notes."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Aufzeichnung, plural die Aufzeichnungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Aufzeichnung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Aufzeichnungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Sendung ist eine Aufzeichnung.",
+      "english": "The programme is a recording.",
+      "highlight": [
+        "Aufzeichnung."
+      ]
+    },
+    {
+      "german": "Ich habe mir Aufzeichnungen gemacht.",
+      "english": "I made some notes.",
+      "highlight": [
+        "Aufzeichnungen"
+      ]
+    }
+  ],
+  "forms": [
+    "Aufzeichnungen",
+    "die Aufzeichnungen",
+    "die Aufzeichnung",
+    "aufzeichnen"
+  ],
+  "memoryHook": "Aufzeichnung: what is recorded or written down.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Aufzeichnung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Aufzeichnung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Aufzeichnung, zwei ___",
+      "answer": "Aufzeichnungen",
+      "fullAnswer": "ein Aufzeichnung, zwei Aufzeichnungen",
+      "explanation": "The plural is Aufzeichnungen.",
+      "acceptedAnswers": [
+        "Aufzeichnungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Aufzeichnung mean?",
+      "options": [
+        "tomorrow",
+        "recording",
+        "to wait"
+      ],
+      "answer": "recording",
+      "explanation": "Aufzeichnung: recording; notes.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Aufzeichnen means…",
+      "options": [
+        "to record; to sketch",
+        "to sign"
+      ],
+      "answer": "to record; to sketch",
+      "explanation": "aufzeichnen.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Live vs Aufzeichnung:",
+      "options": [
+        "live vs recorded",
+        "same thing"
+      ],
+      "answer": "live vs recorded",
+      "explanation": "Recorded.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Videoaufzeichnung is…",
+      "options": [
+        "a video recording",
+        "a video call"
+      ],
+      "answer": "a video recording",
+      "explanation": "Recording.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Aufzeichnung is a recording: Die Sendung ist keine Live-Übertragung, sondern eine Aufzeichnung. In the plural, Aufzeichnungen are notes or records: persönliche Aufzeichnungen, historische Aufzeichnungen. Aufzeichnen means to record or to sketch. Under German law, secretly recording a private conversation is a criminal offence (§ 201 StGB), so always ask before you press record."
+}

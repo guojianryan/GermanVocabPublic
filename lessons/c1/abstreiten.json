@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "abstreiten",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AP-shtrai-ten",
+      "ipa": "ˈapˌʃtʁaɪ̯tn̩",
+      "notes": ""
+    },
+    "meaning": "to deny",
+    "shortDefinition": "To deny."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "streit|e … |ab"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "streit|est … |ab"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "streit|et … |ab"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "streit|en … |ab"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "streit|et … |ab"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "streit|en … |ab"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat abgestritten"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Angeklagte stritt alle Vorwürfe ab.",
+      "english": "The defendant denied all the accusations.",
+      "highlight": [
+        "stritt",
+        "ab."
+      ]
+    },
+    {
+      "german": "Das lässt sich nicht abstreiten.",
+      "english": "That can't be denied.",
+      "highlight": [
+        "abstreiten."
+      ]
+    }
+  ],
+  "forms": [
+    "streite ab",
+    "streitest ab",
+    "streitet ab",
+    "streiten ab",
+    "abgestritten",
+    "stritt ab"
+  ],
+  "memoryHook": "Abstreiten: streiten (argue) something away (ab).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ab (abstreiten)",
+      "answer": "streitet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: streitet … ab.",
+      "acceptedAnswers": [
+        "streitet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (abstreiten, past)",
+      "answer": "abgestritten",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe abgestritten.",
+      "acceptedAnswers": [
+        "abgestritten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does abstreiten mean?",
+      "options": [
+        "never",
+        "to deny",
+        "the bed"
+      ],
+      "answer": "to deny",
+      "explanation": "abstreiten: to deny.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "stritt ab, abgestritten",
+        "streitete ab"
+      ],
+      "answer": "stritt ab, abgestritten",
+      "explanation": "Irregular.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "leugnen, bestreiten",
+        "zugeben"
+      ],
+      "answer": "leugnen, bestreiten",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Opposite:",
+      "options": [
+        "zugeben, gestehen",
+        "streiten"
+      ],
+      "answer": "zugeben, gestehen",
+      "explanation": "Opposite.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Abstreiten means to deny an accusation or fact: einen Vorwurf, eine Tat, jede Beteiligung abstreiten. Nicht abzustreiten sein means to be undeniable. Synonyms: leugnen (stronger, often of obvious facts), bestreiten, dementieren (officially deny, of reports). The opposite is zugeben or gestehen (confess). Separable and irregular like streiten: stritt ab, abgestritten."
+}

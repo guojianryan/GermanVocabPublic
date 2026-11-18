@@ -1,0 +1,123 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schaffung",
+    "partOfSpeech": "noun, feminine (die Schaffung)",
+    "pronunciation": {
+      "respelling": "SHAF-ung",
+      "ipa": "ˈʃafʊŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "creation, establishment",
+    "shortDefinition": "Creation, establishment."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Schaffung, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Schaffung"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Schaffung neuer Arbeitsplätze ist das Ziel.",
+      "english": "The creation of new jobs is the goal.",
+      "highlight": [
+        "Schaffung"
+      ]
+    },
+    {
+      "german": "Er forderte die Schaffung eines Fonds.",
+      "english": "He called for the creation of a fund.",
+      "highlight": [
+        "Schaffung"
+      ]
+    }
+  ],
+  "forms": [
+    "die Schaffung",
+    "schaffen",
+    "schuf",
+    "geschaffen"
+  ],
+  "memoryHook": "Schaffung: what you create (schaffen).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schaffung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Schaffung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schaffung mean?",
+      "options": [
+        "to sleep",
+        "creation",
+        "the family"
+      ],
+      "answer": "creation",
+      "explanation": "Schaffung: creation, establishment.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schaffen (regular) means…",
+      "options": [
+        "to manage, achieve",
+        "to create (strong)"
+      ],
+      "answer": "to manage, achieve",
+      "explanation": "Two verbs.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schaffen (schuf, geschaffen) means…",
+      "options": [
+        "to create",
+        "to manage"
+      ],
+      "answer": "to create",
+      "explanation": "Strong verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register of Schaffung:",
+      "options": [
+        "formal / official",
+        "slang"
+      ],
+      "answer": "formal / official",
+      "explanation": "Formal.",
+      "id": "q5"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "die ___ von Wohnraum (creation)",
+      "answer": "Schaffung",
+      "fullAnswer": "die Schaffung von Wohnraum",
+      "explanation": "Schaffung.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Schaffung is the creation or establishment of something, typical of official German: die Schaffung von Arbeitsplätzen, die Schaffung von Wohnraum. It comes from schaffen, which has two forms: strong (schuf, geschaffen) meaning to create (Gott schuf die Welt), and weak (schaffte, geschafft) meaning to manage: Wir schaffen das! (Angela Merkel, 2015). Der Schöpfer is the creator."
+}

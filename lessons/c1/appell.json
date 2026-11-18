@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Appell",
+    "partOfSpeech": "noun, masculine (der Appell)",
+    "pronunciation": {
+      "respelling": "a-PEL",
+      "ipa": "aˈpɛl",
+      "notes": "Plural: die Appelle."
+    },
+    "meaning": "appeal; roll call",
+    "shortDefinition": "Appeal; roll call."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Appell, plural die Appelle.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Appell"
+        },
+        {
+          "label": "More than one",
+          "value": "die Appelle"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Präsident richtete einen Appell an die Bürger.",
+      "english": "The president made an appeal to the citizens.",
+      "highlight": [
+        "Appell"
+      ]
+    },
+    {
+      "german": "Die Soldaten traten zum Appell an.",
+      "english": "The soldiers lined up for roll call.",
+      "highlight": [
+        "Appell"
+      ]
+    }
+  ],
+  "forms": [
+    "Appelle",
+    "die Appelle",
+    "der Appell",
+    "appellieren"
+  ],
+  "memoryHook": "Appell: an urgent call, not a court appeal.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Appell",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Appell is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Appell, zwei ___",
+      "answer": "Appelle",
+      "fullAnswer": "ein Appell, zwei Appelle",
+      "explanation": "The plural is Appelle.",
+      "acceptedAnswers": [
+        "Appelle"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Appell mean?",
+      "options": [
+        "tomorrow",
+        "to help",
+        "appeal"
+      ],
+      "answer": "appeal",
+      "explanation": "Appell: appeal; roll call.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einen Appell an jemanden richten means…",
+      "options": [
+        "to appeal to someone",
+        "to sue someone"
+      ],
+      "answer": "to appeal to someone",
+      "explanation": "Appeal.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A legal appeal in German is…",
+      "options": [
+        "die Berufung / die Revision",
+        "der Appell"
+      ],
+      "answer": "die Berufung / die Revision",
+      "explanation": "False friend.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Appellieren an means…",
+      "options": [
+        "to appeal to",
+        "to applaud"
+      ],
+      "answer": "to appeal to",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Appell is an urgent appeal or call: einen Appell an die Vernunft richten (to appeal to reason), ein dringender Appell. In the military, it's a roll call or parade. Careful: a legal appeal in court is die Berufung or die Revision, not Appell. Appellieren an means to appeal to: Sie appellierte an seine Ehre. Stressed on the second syllable: a-PEL. Plural: die Appelle."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kleeblatt",
+    "partOfSpeech": "noun, neuter (das Kleeblatt)",
+    "pronunciation": {
+      "respelling": "KLAY-blat",
+      "ipa": "ˈkleːˌblat",
+      "notes": "Plural: die Kleeblätter."
+    },
+    "meaning": "clover leaf; trio",
+    "shortDefinition": "Clover leaf; trio."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Kleeblatt, plural die Kleeblätter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Kleeblatt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kleeblätter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ein vierblättriges Kleeblatt bringt Glück.",
+      "english": "A four-leaf clover brings luck.",
+      "highlight": [
+        "Kleeblatt"
+      ]
+    },
+    {
+      "german": "Die drei sind ein unzertrennliches Kleeblatt.",
+      "english": "The three are an inseparable trio.",
+      "highlight": [
+        "Kleeblatt."
+      ]
+    }
+  ],
+  "forms": [
+    "Kleeblätter",
+    "das Kleeblatt"
+  ],
+  "memoryHook": "Kleeblatt: a Blatt (leaf) of Klee (clover).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kleeblatt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Kleeblatt is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kleeblatt, zwei ___",
+      "answer": "Kleeblätter",
+      "fullAnswer": "ein Kleeblatt, zwei Kleeblätter",
+      "explanation": "The plural is Kleeblätter.",
+      "acceptedAnswers": [
+        "Kleeblaetter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kleeblatt mean?",
+      "options": [
+        "the door",
+        "clover leaf",
+        "to open"
+      ],
+      "answer": "clover leaf",
+      "explanation": "Kleeblatt: clover leaf; trio.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, ein Kleeblatt is…",
+      "options": [
+        "a close trio of people",
+        "a lucky charm only"
+      ],
+      "answer": "a close trio of people",
+      "explanation": "Figurative.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Autobahnkreuz shaped like a clover is…",
+      "options": [
+        "ein Kleeblatt (cloverleaf interchange)",
+        "eine Raute"
+      ],
+      "answer": "ein Kleeblatt (cloverleaf interchange)",
+      "explanation": "Traffic.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Klee is…",
+      "options": [
+        "clover",
+        "a key"
+      ],
+      "answer": "clover",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Kleeblatt is a clover leaf; ein vierblättriges Kleeblatt (four-leaf clover) is a lucky charm, often given at New Year with chimney sweeps and pigs. Figuratively, it's a close trio: ein unzertrennliches Kleeblatt. It's also a cloverleaf motorway interchange. Der Klee is clover; jemanden über den grünen Klee loben means to praise excessively. Plural: die Kleeblätter."
+}

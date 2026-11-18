@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Heilmittel",
+    "partOfSpeech": "noun, neuter (das Heilmittel)",
+    "pronunciation": {
+      "respelling": "HAIL-mi-tel",
+      "ipa": "ˈhaɪ̯lˌmɪtl̩",
+      "notes": "Plural: die Heilmittel."
+    },
+    "meaning": "remedy, cure",
+    "shortDefinition": "Remedy, cure."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Heilmittel, plural die Heilmittel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Heilmittel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Heilmittel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Kamillentee ist ein altes Heilmittel.",
+      "english": "Chamomile tea is an old remedy.",
+      "highlight": [
+        "Heilmittel."
+      ]
+    },
+    {
+      "german": "Es gibt kein Heilmittel gegen diese Krankheit.",
+      "english": "There's no cure for this disease.",
+      "highlight": [
+        "Heilmittel"
+      ]
+    }
+  ],
+  "forms": [
+    "die Heilmittel",
+    "das Heilmittel",
+    "Allheilmittel"
+  ],
+  "memoryHook": "Heilmittel: a Mittel (means) to heilen (heal).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Heilmittel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Heilmittel is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Heilmittel, zwei ___",
+      "answer": "Heilmittel",
+      "fullAnswer": "ein Heilmittel, zwei Heilmittel",
+      "explanation": "The plural is Heilmittel.",
+      "acceptedAnswers": [
+        "Heilmittel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Heilmittel mean?",
+      "options": [
+        "the job",
+        "remedy",
+        "the child"
+      ],
+      "answer": "remedy",
+      "explanation": "Heilmittel: remedy, cure.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Heilen means…",
+      "options": [
+        "to heal, cure",
+        "to hail"
+      ],
+      "answer": "to heal, cure",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Allheilmittel is…",
+      "options": [
+        "a cure-all, panacea",
+        "all medicines"
+      ],
+      "answer": "a cure-all, panacea",
+      "explanation": "Panacea.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In German health insurance, Heilmittel include…",
+      "options": [
+        "physiotherapy, speech therapy",
+        "only pills"
+      ],
+      "answer": "physiotherapy, speech therapy",
+      "explanation": "Insurance.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Heilmittel is a remedy or cure: ein natürliches Heilmittel, kein Heilmittel gegen. Das Allheilmittel is a cure-all, often ironic: Digitalisierung ist kein Allheilmittel. In German health insurance, Heilmittel are therapies like physiotherapy and speech therapy, while drugs are Arzneimittel. Heilen means to heal, and die Heilpraktikerin is a naturopath, a profession recognised by law in Germany. Plural: die Heilmittel."
+}

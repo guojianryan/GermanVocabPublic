@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kläger",
+    "partOfSpeech": "noun, masculine (der Kläger)",
+    "pronunciation": {
+      "respelling": "KLAY-ger",
+      "ipa": "ˈklɛːɡɐ",
+      "notes": "Plural: die Kläger."
+    },
+    "meaning": "plaintiff, claimant",
+    "shortDefinition": "Plaintiff, claimant."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kläger, plural die Kläger.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kläger"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kläger"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Kläger fordert Schadenersatz.",
+      "english": "The plaintiff is demanding damages.",
+      "highlight": [
+        "Kläger"
+      ]
+    },
+    {
+      "german": "Die Klägerin hat den Prozess gewonnen.",
+      "english": "The claimant won the case.",
+      "highlight": [
+        "Klägerin"
+      ]
+    }
+  ],
+  "forms": [
+    "die Kläger",
+    "der Kläger",
+    "Klägerin",
+    "klagen",
+    "Klage"
+  ],
+  "memoryHook": "Kläger: the one who klagt (sues).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kläger",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kläger is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kläger, zwei ___",
+      "answer": "Kläger",
+      "fullAnswer": "ein Kläger, zwei Kläger",
+      "explanation": "The plural is Kläger.",
+      "acceptedAnswers": [
+        "Klaeger"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kläger mean?",
+      "options": [
+        "plaintiff",
+        "the flower",
+        "the shop"
+      ],
+      "answer": "plaintiff",
+      "explanation": "Kläger: plaintiff, claimant.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The other side is…",
+      "options": [
+        "der Beklagte",
+        "der Angeklagte"
+      ],
+      "answer": "der Beklagte",
+      "explanation": "Civil defendant.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Angeklagte is…",
+      "options": [
+        "the accused (criminal case)",
+        "the plaintiff"
+      ],
+      "answer": "the accused (criminal case)",
+      "explanation": "Criminal.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Klagen means…",
+      "options": [
+        "to sue; to complain",
+        "to cry"
+      ],
+      "answer": "to sue; to complain",
+      "explanation": "klagen.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Kläger (die Klägerin) is the plaintiff or claimant in a civil lawsuit, and die Klage is the lawsuit: Klage erheben (to file a suit). The other side is der Beklagte. In a criminal trial, the accused is der Angeklagte, and the prosecution is die Staatsanwaltschaft. Klagen also means to complain: Er klagt über Rückenschmerzen. Wo kein Kläger, da kein Richter means where there's no plaintiff, there's no judge."
+}

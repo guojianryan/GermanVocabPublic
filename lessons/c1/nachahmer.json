@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Nachahmer",
+    "partOfSpeech": "noun, masculine (der Nachahmer)",
+    "pronunciation": {
+      "respelling": "NAAKH-aa-mer",
+      "ipa": "ˈnaːxˌʔaːmɐ",
+      "notes": "Plural: die Nachahmer."
+    },
+    "meaning": "imitator, copycat",
+    "shortDefinition": "Imitator, copycat."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Nachahmer, plural die Nachahmer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Nachahmer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Nachahmer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Produkt fand schnell Nachahmer.",
+      "english": "The product quickly found imitators.",
+      "highlight": [
+        "Nachahmer."
+      ]
+    },
+    {
+      "german": "Die Polizei fürchtet Nachahmer.",
+      "english": "The police fear copycats.",
+      "highlight": [
+        "Nachahmer."
+      ]
+    }
+  ],
+  "forms": [
+    "Nachahmerin",
+    "der Nachahmer"
+  ],
+  "memoryHook": "Nachahmer: someone who nachahmt (imitates).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Nachahmer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Nachahmer is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Nachahmer, zwei ___",
+      "answer": "Nachahmer",
+      "fullAnswer": "ein Nachahmer, zwei Nachahmer",
+      "explanation": "The plural is Nachahmer.",
+      "acceptedAnswers": [
+        "Nachahmer"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Nachahmer mean?",
+      "options": [
+        "imitator",
+        "quiet",
+        "the shop"
+      ],
+      "answer": "imitator",
+      "explanation": "Nachahmer: imitator, copycat.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nachahmen means…",
+      "options": [
+        "to imitate",
+        "to make up for"
+      ],
+      "answer": "to imitate",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Nachahmungstäter is…",
+      "options": [
+        "copycat offender",
+        "a mime artist"
+      ],
+      "answer": "copycat offender",
+      "explanation": "Crime.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nachahmenswert means…",
+      "options": [
+        "worth imitating, exemplary",
+        "fake"
+      ],
+      "answer": "worth imitating, exemplary",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Nachahmer is an imitator or copycat: Die Idee fand viele Nachahmer. Nachahmen means to imitate, a bit more formal than nachmachen. Der Nachahmungstäter is a copycat offender. The Werther effect, increased suicides after media coverage, is named after Goethe's novel Die Leiden des jungen Werthers (1774), which was blamed for imitations; it's why German media report carefully on suicides. The plural is the same."
+}

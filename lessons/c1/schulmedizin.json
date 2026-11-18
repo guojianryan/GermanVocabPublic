@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schulmedizin",
+    "partOfSpeech": "noun, feminine (die Schulmedizin)",
+    "pronunciation": {
+      "respelling": "SHOOL-me-di-tseen",
+      "ipa": "ˈʃuːlmediˌt͡siːn",
+      "notes": "Usually no plural."
+    },
+    "meaning": "conventional medicine",
+    "shortDefinition": "Conventional medicine."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Schulmedizin, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Schulmedizin"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie setzt auf Schulmedizin und Homöopathie.",
+      "english": "She relies on conventional medicine and homeopathy.",
+      "highlight": [
+        "Schulmedizin"
+      ]
+    },
+    {
+      "german": "Die Schulmedizin konnte ihm nicht helfen.",
+      "english": "Conventional medicine couldn't help him.",
+      "highlight": [
+        "Schulmedizin"
+      ]
+    }
+  ],
+  "forms": [
+    "die Schulmedizin"
+  ],
+  "memoryHook": "Schulmedizin: medicine taught at the (university) Schule.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schulmedizin",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Schulmedizin is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schulmedizin mean?",
+      "options": [
+        "conventional medicine",
+        "to help",
+        "the family"
+      ],
+      "answer": "conventional medicine",
+      "explanation": "Schulmedizin: conventional medicine.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schulmedizin contrasts with…",
+      "options": [
+        "alternative medicine (Alternativmedizin)",
+        "school nursing"
+      ],
+      "answer": "alternative medicine (Alternativmedizin)",
+      "explanation": "Contrast.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The term is…",
+      "options": [
+        "sometimes seen as dismissive by doctors",
+        "an official title"
+      ],
+      "answer": "sometimes seen as dismissive by doctors",
+      "explanation": "Usage.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Heilpraktiker is…",
+      "options": [
+        "a licensed non-medical practitioner",
+        "a doctor"
+      ],
+      "answer": "a licensed non-medical practitioner",
+      "explanation": "Germany.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Schulmedizin is conventional, science-based medicine, as opposed to Alternativmedizin or Naturheilkunde. Many doctors dislike the term, preferring evidenzbasierte Medizin. Germany is unusual in licensing Heilpraktiker (non-medical practitioners), and homeopathy remains popular, though its insurance coverage is debated. It has no plural."
+}

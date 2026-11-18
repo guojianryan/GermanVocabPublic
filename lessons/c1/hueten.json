@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "hüten",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "HÜ-ten",
+      "ipa": "ˈhyːtn̩",
+      "notes": ""
+    },
+    "meaning": "to guard, look after; (sich) to beware",
+    "shortDefinition": "To guard, look after; (sich) to beware."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "hüt|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "hüt|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "hüt|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "hüt|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "hüt|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "hüt|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gehütet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Schäfer hütet die Schafe.",
+      "english": "The shepherd tends the sheep.",
+      "highlight": [
+        "hütet"
+      ]
+    },
+    {
+      "german": "Hüte dich vor falschen Freunden!",
+      "english": "Beware of false friends!",
+      "highlight": [
+        "Hüte"
+      ]
+    }
+  ],
+  "forms": [
+    "hüte",
+    "hütest",
+    "hütet",
+    "hüten",
+    "gehütet",
+    "Hüter"
+  ],
+  "memoryHook": "Hüten: keep watch (Hut) over something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (hüten)",
+      "answer": "hütet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: hütet.",
+      "acceptedAnswers": [
+        "huetet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (hüten, past)",
+      "answer": "gehütet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gehütet.",
+      "acceptedAnswers": [
+        "gehuetet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does hüten mean?",
+      "options": [
+        "to guard",
+        "the station",
+        "slowly"
+      ],
+      "answer": "to guard",
+      "explanation": "hüten: to guard, look after; (sich) to beware.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich hüten vor means…",
+      "options": [
+        "to beware of",
+        "to hide from"
+      ],
+      "answer": "to beware of",
+      "explanation": "Beware.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Bett hüten means…",
+      "options": [
+        "to stay in bed (ill)",
+        "to make the bed"
+      ],
+      "answer": "to stay in bed (ill)",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Geheimnis hüten means…",
+      "options": [
+        "to keep a secret",
+        "to reveal a secret"
+      ],
+      "answer": "to keep a secret",
+      "explanation": "Secret.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Hüten means to guard or look after: Schafe hüten, Kinder hüten (to babysit), ein Geheimnis hüten. Das Bett hüten means to be laid up in bed. Reflexively, sich hüten vor means to beware of, and Ich werde mich hüten! means I'll do no such thing! Der Hüter is a guardian: der Torhüter (goalkeeper). From die Hut (guard, care): auf der Hut sein (to be on one's guard)."
+}

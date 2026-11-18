@@ -1,0 +1,122 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ruhestand",
+    "partOfSpeech": "noun, masculine (der Ruhestand)",
+    "pronunciation": {
+      "respelling": "ROO-e-shtant",
+      "ipa": "ˈʁuːəˌʃtant",
+      "notes": "Usually no plural."
+    },
+    "meaning": "retirement",
+    "shortDefinition": "Retirement."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Ruhestand, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Ruhestand"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Mein Vater ist seit Mai im Ruhestand.",
+      "english": "My father has been retired since May.",
+      "highlight": [
+        "Ruhestand."
+      ]
+    },
+    {
+      "german": "Sie geht nächstes Jahr in den Ruhestand.",
+      "english": "She's retiring next year.",
+      "highlight": [
+        "Ruhestand."
+      ]
+    }
+  ],
+  "forms": [
+    "der Ruhestand",
+    "Ruheständler",
+    "im Ruhestand"
+  ],
+  "memoryHook": "Ruhestand: the state (Stand) of rest (Ruhe).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ruhestand",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Ruhestand is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ruhestand mean?",
+      "options": [
+        "cheap",
+        "the weather",
+        "retirement"
+      ],
+      "answer": "retirement",
+      "explanation": "Ruhestand: retirement.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "In den Ruhestand gehen means…",
+      "options": [
+        "to retire",
+        "to take a nap"
+      ],
+      "answer": "to retire",
+      "explanation": "Retire.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday synonym:",
+      "options": [
+        "in Rente gehen",
+        "in Urlaub gehen"
+      ],
+      "answer": "in Rente gehen",
+      "explanation": "Rente = pension.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ruheständler is…",
+      "options": [
+        "a retiree",
+        "a lazy person"
+      ],
+      "answer": "a retiree",
+      "explanation": "Retiree.",
+      "id": "q5"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Er ist im ___. (retired)",
+      "answer": "Ruhestand",
+      "fullAnswer": "Er ist im Ruhestand.",
+      "explanation": "im Ruhestand.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Ruhestand is retirement: in den Ruhestand gehen (to retire), im Ruhestand sein (to be retired). It's slightly formal; in everyday speech Germans say in Rente gehen, or for civil servants in Pension gehen. The official age is gradually rising to 67. Der Unruhestand is a playful word for an active retirement. Literally, Ruhestand is the state of rest, from Ruhe (rest, quiet) and der Stand (state)."
+}

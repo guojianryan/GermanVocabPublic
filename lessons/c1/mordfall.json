@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mordfall",
+    "partOfSpeech": "noun, masculine (der Mordfall)",
+    "pronunciation": {
+      "respelling": "MORT-fal",
+      "ipa": "ˈmɔʁtˌfal",
+      "notes": "Plural: die Mordfälle."
+    },
+    "meaning": "murder case",
+    "shortDefinition": "Murder case."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Mordfall, plural die Mordfälle.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Mordfall"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mordfälle"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Polizei ermittelt in einem Mordfall.",
+      "english": "The police are investigating a murder case.",
+      "highlight": [
+        "Mordfall."
+      ]
+    },
+    {
+      "german": "Der Mordfall wurde nach 30 Jahren aufgeklärt.",
+      "english": "The murder case was solved after 30 years.",
+      "highlight": [
+        "Mordfall"
+      ]
+    }
+  ],
+  "forms": [
+    "Mordfälle",
+    "der Mordfall"
+  ],
+  "memoryHook": "Mordfall: a Fall (case) of Mord.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mordfall",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Mordfall is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mordfall, zwei ___",
+      "answer": "Mordfälle",
+      "fullAnswer": "ein Mordfall, zwei Mordfälle",
+      "explanation": "The plural is Mordfälle.",
+      "acceptedAnswers": [
+        "Mordfaelle"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mordfall mean?",
+      "options": [
+        "the key",
+        "tomorrow",
+        "murder case"
+      ],
+      "answer": "murder case",
+      "explanation": "Mordfall: murder case.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mord vs. Totschlag in German law:",
+      "options": [
+        "murder (with aggravating features) vs. manslaughter",
+        "the same"
+      ],
+      "answer": "murder (with aggravating features) vs. manslaughter",
+      "explanation": "Law.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Murder in Germany has…",
+      "options": [
+        "no statute of limitations",
+        "a 10-year limit"
+      ],
+      "answer": "no statute of limitations",
+      "explanation": "Limitation.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Mordkommission is…",
+      "options": [
+        "the homicide squad",
+        "a murder trial"
+      ],
+      "answer": "the homicide squad",
+      "explanation": "Police.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Mordfall is a murder case. German law distinguishes Mord, killing with specific aggravating features (Mordmerkmale) such as greed or cruelty, punished with life imprisonment, from Totschlag (manslaughter). Murder has no statute of limitations, so old cases (Cold Cases) can be reopened with DNA evidence. The police unit is die Mordkommission. Plural: die Mordfälle."
+}

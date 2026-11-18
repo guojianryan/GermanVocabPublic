@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gewinnung",
+    "partOfSpeech": "noun, feminine (die Gewinnung)",
+    "pronunciation": {
+      "respelling": "ge-VIN-ung",
+      "ipa": "ɡəˈvɪnʊŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "extraction, production; winning over",
+    "shortDefinition": "Extraction, production; winning over."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Gewinnung, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Gewinnung"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Gewinnung von Kohle ist teuer.",
+      "english": "Coal extraction is expensive.",
+      "highlight": [
+        "Gewinnung"
+      ]
+    },
+    {
+      "german": "Die Gewinnung neuer Mitglieder ist schwierig.",
+      "english": "Recruiting new members is difficult.",
+      "highlight": [
+        "Gewinnung"
+      ]
+    }
+  ],
+  "forms": [
+    "die Gewinnung",
+    "gewinnen"
+  ],
+  "memoryHook": "Gewinnung: winning (gewinnen) resources or people.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gewinnung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Gewinnung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gewinnung mean?",
+      "options": [
+        "the car",
+        "extraction",
+        "the child"
+      ],
+      "answer": "extraction",
+      "explanation": "Gewinnung: extraction, production; winning over.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gewinnen also means…",
+      "options": [
+        "to extract, obtain (resources)",
+        "only to win"
+      ],
+      "answer": "to extract, obtain (resources)",
+      "explanation": "Extract.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Energiegewinnung is…",
+      "options": [
+        "energy production",
+        "an energy prize"
+      ],
+      "answer": "energy production",
+      "explanation": "Energy.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Gewinn is…",
+      "options": [
+        "profit; prize",
+        "extraction"
+      ],
+      "answer": "profit; prize",
+      "explanation": "Profit.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Gewinnung means extraction or production of resources: die Gewinnung von Erdöl, die Energiegewinnung, die Salzgewinnung. It can also mean winning people over: die Gewinnung von Fachkräften (recruiting skilled workers). It comes from gewinnen, which besides to win also means to obtain: Strom aus Sonne gewinnen. Der Gewinn is profit or prize. It has no plural."
+}

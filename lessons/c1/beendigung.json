@@ -1,0 +1,149 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Beendigung",
+    "partOfSpeech": "noun, feminine (die Beendigung)",
+    "pronunciation": {
+      "respelling": "be-EN-di-goong",
+      "ipa": "bəˈʔɛndɪɡʊŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "ending, termination, completion",
+    "shortDefinition": "Ending, termination, completion."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "Be",
+        "meaning": "a prefix, as in beenden"
+      },
+      {
+        "part": "end",
+        "meaning": "end"
+      },
+      {
+        "part": "ig",
+        "meaning": "making into",
+        "note": "As in beendigen, an older form of beenden."
+      },
+      {
+        "part": "ung",
+        "meaning": "noun ending: the act of"
+      }
+    ],
+    "literalMeaning": "an ending"
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Beendigung, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Beendigung"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nach Beendigung des Vertrags erlischt der Anspruch.",
+      "english": "On termination of the contract, the claim lapses.",
+      "highlight": [
+        "Beendigung"
+      ]
+    },
+    {
+      "german": "Die Beendigung der Arbeiten dauert noch an.",
+      "english": "The completion of the work is still ongoing.",
+      "highlight": [
+        "Beendigung"
+      ]
+    }
+  ],
+  "forms": [
+    "die Beendigung",
+    "beenden",
+    "beendete",
+    "beendet"
+  ],
+  "memoryHook": "Beendigung: bringing something to an end on purpose.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Beendigung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Beendigung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Beendigung mean?",
+      "options": [
+        "ending",
+        "expensive",
+        "never"
+      ],
+      "answer": "ending",
+      "explanation": "Beendigung: ending, termination, completion.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Beendigung is the noun of…",
+      "options": [
+        "beenden",
+        "enden"
+      ],
+      "answer": "beenden",
+      "explanation": "to end something.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The difference: beenden is…",
+      "options": [
+        "transitive (you end something)",
+        "intransitive"
+      ],
+      "answer": "transitive (you end something)",
+      "explanation": "Needs an object.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal, in contracts",
+        "slang"
+      ],
+      "answer": "formal, in contracts",
+      "explanation": "Legal.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Ende means…",
+      "options": [
+        "the end",
+        "the duck"
+      ],
+      "answer": "the end",
+      "explanation": "Das Ende.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Beendigung is the act of ending something, and it's common in contracts and administration: die Beendigung des Arbeitsverhältnisses (termination of employment). It derives from beenden, which is transitive: Er beendet das Gespräch. By contrast, enden is intransitive, as in Das Gespräch endet. In everyday speech, people say Ende (Am Ende des Films) and not Beendigung."
+}

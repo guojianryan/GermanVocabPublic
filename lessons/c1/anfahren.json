@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "anfahren",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AN-faa-ren",
+      "ipa": "ˈanˌfaːʁən",
+      "notes": ""
+    },
+    "meaning": "to start (driving); to hit (with a vehicle); to snap at",
+    "shortDefinition": "To start (driving); to hit (with a vehicle); to snap at."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "fahr|e … |an"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "fähr|st … |an"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "fähr|t … |an"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "fahr|en … |an"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "fahr|t … |an"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "fahr|en … |an"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat angefahren"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ein Radfahrer wurde von einem Auto angefahren.",
+      "english": "A cyclist was hit by a car.",
+      "highlight": [
+        "angefahren."
+      ]
+    },
+    {
+      "german": "Warum fährst du mich so an?",
+      "english": "Why are you snapping at me like that?",
+      "highlight": [
+        "fährst",
+        "an?"
+      ]
+    }
+  ],
+  "forms": [
+    "fahre an",
+    "fährst an",
+    "fährt an",
+    "fahren an",
+    "fahrt an",
+    "angefahren",
+    "fuhr an",
+    "Anfahrt"
+  ],
+  "memoryHook": "Anfahren: drive at (an) something, or someone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … an (anfahren)",
+      "answer": "fährt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: fährt … an.",
+      "acceptedAnswers": [
+        "faehrt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (anfahren, past)",
+      "answer": "angefahren",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe angefahren.",
+      "acceptedAnswers": [
+        "angefahren"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does anfahren mean?",
+      "options": [
+        "the evening",
+        "to start (driving)",
+        "the child"
+      ],
+      "answer": "to start (driving)",
+      "explanation": "anfahren: to start (driving); to hit (with a vehicle); to snap at.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden anfahren can mean…",
+      "options": [
+        "to hit with a car or to snap at",
+        "to drive someone home"
+      ],
+      "answer": "to hit with a car or to snap at",
+      "explanation": "Two meanings.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Zug fährt an means…",
+      "options": [
+        "the train is starting off",
+        "the train is arriving"
+      ],
+      "answer": "the train is starting off",
+      "explanation": "Start.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Anfahrt is…",
+      "options": [
+        "the journey there; directions",
+        "a crash"
+      ],
+      "answer": "the journey there; directions",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Anfahren has several meanings. Intransitively (with sein), it means to start moving: Der Zug fährt langsam an. Transitively (with haben), it means to hit with a vehicle (Er hat einen Fußgänger angefahren), to drive to a place (Der Bus fährt den Flughafen an), or to snap at someone: Fahr mich nicht so an! Die Anfahrt is the journey there, or directions on a website. Separable: fuhr an, angefahren."
+}

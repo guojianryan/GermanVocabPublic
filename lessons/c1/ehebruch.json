@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ehebruch",
+    "partOfSpeech": "noun, masculine (der Ehebruch)",
+    "pronunciation": {
+      "respelling": "AY-e-brukh",
+      "ipa": "ˈeːəˌbʁʊx",
+      "notes": "Plural: die Ehebrüche."
+    },
+    "meaning": "adultery",
+    "shortDefinition": "Adultery."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Ehebruch, plural die Ehebrüche.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Ehebruch"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ehebrüche"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ehebruch ist in Deutschland keine Straftat mehr.",
+      "english": "Adultery is no longer a criminal offence in Germany.",
+      "highlight": [
+        "Ehebruch"
+      ]
+    },
+    {
+      "german": "Sie warf ihm Ehebruch vor.",
+      "english": "She accused him of adultery.",
+      "highlight": [
+        "Ehebruch"
+      ]
+    }
+  ],
+  "forms": [
+    "Ehebrüche",
+    "der Ehebruch"
+  ],
+  "memoryHook": "Ehebruch: a Bruch (breach) of the Ehe (marriage).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ehebruch",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Ehebruch is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Ehebruch, zwei ___",
+      "answer": "Ehebrüche",
+      "fullAnswer": "ein Ehebruch, zwei Ehebrüche",
+      "explanation": "The plural is Ehebrüche.",
+      "acceptedAnswers": [
+        "Ehebrueche"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ehebruch mean?",
+      "options": [
+        "adultery",
+        "the flower",
+        "the bed"
+      ],
+      "answer": "adultery",
+      "explanation": "Ehebruch: adultery.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Adultery stopped being a crime in West Germany in…",
+      "options": [
+        "1969",
+        "1919"
+      ],
+      "answer": "1969",
+      "explanation": "Law.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Ehe is…",
+      "options": [
+        "marriage",
+        "honour"
+      ],
+      "answer": "marriage",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Colloquial synonym:",
+      "options": [
+        "fremdgehen",
+        "heiraten"
+      ],
+      "answer": "fremdgehen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Ehebruch is adultery, a formal or biblical word (Du sollst nicht ehebrechen). In West Germany it was a criminal offence until 1969, and since the 1977 divorce reform it no longer matters legally who is at fault; the Zerrüttungsprinzip (breakdown of marriage) applies. Everyday speech says fremdgehen or einen Seitensprung machen. Plural: die Ehebrüche."
+}

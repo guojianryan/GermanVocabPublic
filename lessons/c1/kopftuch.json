@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kopftuch",
+    "partOfSpeech": "noun, neuter (das Kopftuch)",
+    "pronunciation": {
+      "respelling": "KOPF-tookh",
+      "ipa": "ˈkɔp͡fˌtuːx",
+      "notes": "Plural: die Kopftücher."
+    },
+    "meaning": "headscarf",
+    "shortDefinition": "Headscarf."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Kopftuch, plural die Kopftücher.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Kopftuch"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kopftücher"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie trägt ein buntes Kopftuch.",
+      "english": "She's wearing a colourful headscarf.",
+      "highlight": [
+        "Kopftuch."
+      ]
+    },
+    {
+      "german": "Über das Kopftuch wird in Deutschland viel diskutiert.",
+      "english": "There's a lot of debate in Germany about the headscarf.",
+      "highlight": [
+        "Kopftuch"
+      ]
+    }
+  ],
+  "forms": [
+    "Kopftücher",
+    "die Kopftücher",
+    "das Kopftuch"
+  ],
+  "memoryHook": "Kopftuch: a Tuch (cloth) for the Kopf (head).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kopftuch",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Kopftuch is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kopftuch, zwei ___",
+      "answer": "Kopftücher",
+      "fullAnswer": "ein Kopftuch, zwei Kopftücher",
+      "explanation": "The plural is Kopftücher.",
+      "acceptedAnswers": [
+        "Kopftuecher"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kopftuch mean?",
+      "options": [
+        "to learn",
+        "slowly",
+        "headscarf"
+      ],
+      "answer": "headscarf",
+      "explanation": "Kopftuch: headscarf.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Kopftücher",
+        "die Kopftuche"
+      ],
+      "answer": "die Kopftücher",
+      "explanation": "Umlaut + er.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Kopftuchverbot refers to…",
+      "options": [
+        "bans on headscarves for some public employees",
+        "a ban on hats"
+      ],
+      "answer": "bans on headscarves for some public employees",
+      "explanation": "Political debate.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Tuch means…",
+      "options": [
+        "cloth, scarf",
+        "towel only"
+      ],
+      "answer": "cloth, scarf",
+      "explanation": "Tuch.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Kopftuch is a headscarf: ein Kopftuch tragen. For decades rural German women wore Kopftücher too, but today the word is mostly linked to the Muslim headscarf and a long-running debate. Germany's Constitutional Court has ruled several times on whether states may ban teachers or judges from wearing one; blanket bans for teachers were ruled unconstitutional in 2015. Das Tuch means cloth or scarf. Plural: die Kopftücher."
+}

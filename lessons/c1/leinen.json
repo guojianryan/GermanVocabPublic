@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Leinen",
+    "partOfSpeech": "noun, neuter (das Leinen)",
+    "pronunciation": {
+      "respelling": "LAI-nen",
+      "ipa": "ˈlaɪ̯nən",
+      "notes": "Usually no plural."
+    },
+    "meaning": "linen",
+    "shortDefinition": "Linen."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Leinen, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Leinen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Tischdecke ist aus Leinen.",
+      "english": "The tablecloth is made of linen.",
+      "highlight": [
+        "Leinen."
+      ]
+    },
+    {
+      "german": "Im Sommer trage ich gern Hemden aus Leinen.",
+      "english": "In summer I like wearing linen shirts.",
+      "highlight": [
+        "Leinen."
+      ]
+    }
+  ],
+  "forms": [
+    "das Leinen",
+    "Leinöl"
+  ],
+  "memoryHook": "Leinen: fabric from Lein (flax).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Leinen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Leinen is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Leinen mean?",
+      "options": [
+        "linen",
+        "the bed",
+        "to learn"
+      ],
+      "answer": "linen",
+      "explanation": "Leinen: linen.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Leinen is made from…",
+      "options": [
+        "flax (der Flachs / Lein)",
+        "cotton"
+      ],
+      "answer": "flax (der Flachs / Lein)",
+      "explanation": "Flax.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Leine is…",
+      "options": [
+        "leash, line",
+        "linen"
+      ],
+      "answer": "leash, line",
+      "explanation": "Different.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Leinöl is…",
+      "options": [
+        "linseed oil",
+        "line oil"
+      ],
+      "answer": "linseed oil",
+      "explanation": "Oil.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Leinen is linen, fabric made from flax (der Flachs or der Lein): Bettwäsche aus Leinen, ein Leinenhemd. Germany once had a big linen industry, for example in Westphalia and Silesia. Das Leinöl is linseed oil, used in quark with potatoes in Brandenburg (Pellkartoffeln mit Quark und Leinöl). Careful: die Leine is a leash: Hunde an die Leine! It has no plural."
+}

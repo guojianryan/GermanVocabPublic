@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Minijob",
+    "partOfSpeech": "noun, masculine (der Minijob)",
+    "pronunciation": {
+      "respelling": "MI-ni-dschop",
+      "ipa": "ˈmɪnidʒɔp",
+      "notes": "Plural: die Minijobs."
+    },
+    "meaning": "mini-job (marginal employment)",
+    "shortDefinition": "Mini-job (marginal employment)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Minijob, plural die Minijobs.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Minijob"
+        },
+        {
+          "label": "More than one",
+          "value": "die Minijobs"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie hat neben dem Studium einen Minijob.",
+      "english": "She has a mini-job alongside her studies.",
+      "highlight": [
+        "Minijob"
+      ]
+    },
+    {
+      "german": "Viele Rentner arbeiten im Minijob.",
+      "english": "Many pensioners work in mini-jobs.",
+      "highlight": [
+        "Minijob."
+      ]
+    }
+  ],
+  "forms": [
+    "Minijobs",
+    "der Minijob"
+  ],
+  "memoryHook": "Minijob: a mini Job.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Minijob",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Minijob is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Minijob, zwei ___",
+      "answer": "Minijobs",
+      "fullAnswer": "ein Minijob, zwei Minijobs",
+      "explanation": "The plural is Minijobs.",
+      "acceptedAnswers": [
+        "Minijobs"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Minijob mean?",
+      "options": [
+        "mini-job (marginal employment)",
+        "the shop",
+        "to sleep"
+      ],
+      "answer": "mini-job (marginal employment)",
+      "explanation": "Minijob: mini-job (marginal employment).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "A Minijob in Germany is…",
+      "options": [
+        "low-paid work with a monthly earnings cap, largely tax-free for the worker",
+        "any part-time job"
+      ],
+      "answer": "low-paid work with a monthly earnings cap, largely tax-free for the worker",
+      "explanation": "Meaning.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Official term:",
+      "options": [
+        "geringfügige Beschäftigung",
+        "Teilzeit"
+      ],
+      "answer": "geringfügige Beschäftigung",
+      "explanation": "Official.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Is it an English word?",
+      "options": [
+        "no, a German coinage",
+        "yes"
+      ],
+      "answer": "no, a German coinage",
+      "explanation": "Pseudo-anglicism.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Minijob is the German term for marginal employment (geringfügige Beschäftigung): low-paid work up to a monthly earnings cap, tied to the minimum wage since 2022, with no income tax or social contributions for the worker in most cases. Millions of Germans have one, including students and pensioners. It's a German coinage, not English. Plural: die Minijobs."
+}

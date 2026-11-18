@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sintflut",
+    "partOfSpeech": "noun, feminine (die Sintflut)",
+    "pronunciation": {
+      "respelling": "ZINT-floot",
+      "ipa": "ˈzɪntˌfluːt",
+      "notes": "Plural: die Sintfluten."
+    },
+    "meaning": "the Flood (biblical), deluge",
+    "shortDefinition": "The Flood (biblical), deluge."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Sintflut, plural die Sintfluten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Sintflut"
+        },
+        {
+          "label": "More than one",
+          "value": "die Sintfluten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Noah baute die Arche, um die Sintflut zu überleben.",
+      "english": "Noah built the ark to survive the Flood.",
+      "highlight": [
+        "Sintflut"
+      ]
+    },
+    {
+      "german": "Nach mir die Sintflut!",
+      "english": "After me, the deluge!",
+      "highlight": [
+        "Sintflut!"
+      ]
+    }
+  ],
+  "forms": [
+    "Sintfluten",
+    "die Sintflut"
+  ],
+  "memoryHook": "Sintflut: the great (sint-) Flut (flood).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sintflut",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Sintflut is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Sintflut, zwei ___",
+      "answer": "Sintfluten",
+      "fullAnswer": "ein Sintflut, zwei Sintfluten",
+      "explanation": "The plural is Sintfluten.",
+      "acceptedAnswers": [
+        "Sintfluten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sintflut mean?",
+      "options": [
+        "expensive",
+        "the Flood (biblical)",
+        "never"
+      ],
+      "answer": "the Flood (biblical)",
+      "explanation": "Sintflut: the Flood (biblical), deluge.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nach mir die Sintflut means…",
+      "options": [
+        "I don't care what happens after I'm gone",
+        "it'll rain later"
+      ],
+      "answer": "I don't care what happens after I'm gone",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sint- originally meant…",
+      "options": [
+        "great, all-encompassing (not Sünde)",
+        "sin"
+      ],
+      "answer": "great, all-encompassing (not Sünde)",
+      "explanation": "Origin.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Folk etymology turned it into…",
+      "options": [
+        "Sündflut (sin flood)",
+        "Sandflut"
+      ],
+      "answer": "Sündflut (sin flood)",
+      "explanation": "Origin.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Sintflut is the biblical Flood, survived by Noah in the Arche. Sint- is an old prefix meaning great or all-encompassing; folk etymology later linked it to Sünde (sin), giving the variant Sündflut. Nach mir die Sintflut (after me, the deluge) means not caring about consequences. It also means a deluge: eine Sintflut von E-Mails. Plural: die Sintfluten."
+}

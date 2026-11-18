@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Atomwaffe",
+    "partOfSpeech": "noun, feminine (die Atomwaffe)",
+    "pronunciation": {
+      "respelling": "a-TOHM-va-fe",
+      "ipa": "aˈtoːmˌvafə",
+      "notes": "Plural: die Atomwaffen."
+    },
+    "meaning": "nuclear weapon",
+    "shortDefinition": "Nuclear weapon."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Atomwaffe, plural die Atomwaffen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Atomwaffe"
+        },
+        {
+          "label": "More than one",
+          "value": "die Atomwaffen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Deutschland besitzt keine eigenen Atomwaffen.",
+      "english": "Germany has no nuclear weapons of its own.",
+      "highlight": [
+        "Atomwaffen."
+      ]
+    },
+    {
+      "german": "Der Vertrag soll die Verbreitung von Atomwaffen verhindern.",
+      "english": "The treaty is meant to prevent the spread of nuclear weapons.",
+      "highlight": [
+        "Atomwaffen"
+      ]
+    }
+  ],
+  "forms": [
+    "Atomwaffen",
+    "die Atomwaffen",
+    "die Atomwaffe"
+  ],
+  "memoryHook": "Atomwaffe: a Waffe (weapon) using the Atom.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Atomwaffe",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Atomwaffe is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Atomwaffe, zwei ___",
+      "answer": "Atomwaffen",
+      "fullAnswer": "ein Atomwaffe, zwei Atomwaffen",
+      "explanation": "The plural is Atomwaffen.",
+      "acceptedAnswers": [
+        "Atomwaffen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Atomwaffe mean?",
+      "options": [
+        "the child",
+        "nuclear weapon",
+        "the key"
+      ],
+      "answer": "nuclear weapon",
+      "explanation": "Atomwaffe: nuclear weapon.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Kernwaffe / Nuklearwaffe",
+        "die Feuerwaffe"
+      ],
+      "answer": "die Kernwaffe / Nuklearwaffe",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nukleare Teilhabe means Germany…",
+      "options": [
+        "could deliver US nuclear weapons in NATO",
+        "builds its own"
+      ],
+      "answer": "could deliver US nuclear weapons in NATO",
+      "explanation": "Sharing.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Atomkraft means…",
+      "options": [
+        "nuclear power",
+        "nuclear weapons"
+      ],
+      "answer": "nuclear power",
+      "explanation": "Power.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Atomwaffe is a nuclear weapon; synonyms are Kernwaffe and Nuklearwaffe. Germany renounced its own nuclear weapons, confirmed in the 1990 reunification treaty, but under NATO's nukleare Teilhabe (nuclear sharing), US weapons are stationed at Büchel in the Eifel, and German jets could deliver them. Debates about a European nuclear deterrent have grown since 2022. Plural: die Atomwaffen."
+}

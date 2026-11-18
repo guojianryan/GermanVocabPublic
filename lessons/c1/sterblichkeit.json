@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sterblichkeit",
+    "partOfSpeech": "noun, feminine (die Sterblichkeit)",
+    "pronunciation": {
+      "respelling": "SHTERP-likh-kait",
+      "ipa": "ˈʃtɛʁplɪçkaɪ̯t",
+      "notes": "Usually no plural."
+    },
+    "meaning": "mortality",
+    "shortDefinition": "Mortality."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Sterblichkeit, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Sterblichkeit"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Säuglingssterblichkeit ist stark gesunken.",
+      "english": "Infant mortality has fallen sharply.",
+      "highlight": [
+        "Säuglingssterblichkeit"
+      ]
+    },
+    {
+      "german": "Während der Hitzewelle stieg die Sterblichkeit.",
+      "english": "Mortality rose during the heatwave.",
+      "highlight": [
+        "Sterblichkeit."
+      ]
+    }
+  ],
+  "forms": [
+    "die Sterblichkeit"
+  ],
+  "memoryHook": "Sterblichkeit: being sterblich (mortal).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sterblichkeit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Sterblichkeit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sterblichkeit mean?",
+      "options": [
+        "to sleep",
+        "mortality",
+        "to help"
+      ],
+      "answer": "mortality",
+      "explanation": "Sterblichkeit: mortality.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Übersterblichkeit is…",
+      "options": [
+        "excess mortality",
+        "immortality"
+      ],
+      "answer": "excess mortality",
+      "explanation": "Statistics.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sterblich means…",
+      "options": [
+        "mortal",
+        "sterile"
+      ],
+      "answer": "mortal",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Sterberate is…",
+      "options": [
+        "death rate",
+        "star rate"
+      ],
+      "answer": "death rate",
+      "explanation": "Synonym.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Sterblichkeit is mortality: die Säuglingssterblichkeit (infant mortality), die Sterblichkeitsrate. During the COVID pandemic, statisticians tracked die Übersterblichkeit (excess mortality) compared with previous years. Philosophically, die Sterblichkeit des Menschen is human mortality. Sterblich means mortal; the opposite is unsterblich. It has no plural."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fahrerlaubnis",
+    "partOfSpeech": "noun, feminine (die Fahrerlaubnis)",
+    "pronunciation": {
+      "respelling": "FAAR-er-laup-nis",
+      "ipa": "ˈfaːɐ̯ʔɛɐ̯ˌlaʊ̯pnɪs",
+      "notes": "Plural: die Fahrerlaubnisse."
+    },
+    "meaning": "driving licence (official)",
+    "shortDefinition": "Driving licence (official)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Fahrerlaubnis, plural die Fahrerlaubnisse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Fahrerlaubnis"
+        },
+        {
+          "label": "More than one",
+          "value": "die Fahrerlaubnisse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ihm wurde die Fahrerlaubnis entzogen.",
+      "english": "His driving licence was revoked.",
+      "highlight": [
+        "Fahrerlaubnis"
+      ]
+    },
+    {
+      "german": "Für Lkw braucht man eine besondere Fahrerlaubnis.",
+      "english": "You need a special licence for lorries.",
+      "highlight": [
+        "Fahrerlaubnis."
+      ]
+    }
+  ],
+  "forms": [
+    "Fahrerlaubnisse",
+    "die Fahrerlaubnis"
+  ],
+  "memoryHook": "Fahrerlaubnis: an Erlaubnis (permission) to fahren (drive).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fahrerlaubnis",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Fahrerlaubnis is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Fahrerlaubnis, zwei ___",
+      "answer": "Fahrerlaubnisse",
+      "fullAnswer": "ein Fahrerlaubnis, zwei Fahrerlaubnisse",
+      "explanation": "The plural is Fahrerlaubnisse.",
+      "acceptedAnswers": [
+        "Fahrerlaubnisse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fahrerlaubnis mean?",
+      "options": [
+        "driving licence (official)",
+        "to help",
+        "to wait"
+      ],
+      "answer": "driving licence (official)",
+      "explanation": "Fahrerlaubnis: driving licence (official).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fahrerlaubnis vs. Führerschein:",
+      "options": [
+        "legal right vs. the card proving it",
+        "the same in every sense"
+      ],
+      "answer": "legal right vs. the card proving it",
+      "explanation": "Difference.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Begleitetes Fahren ab 17 means…",
+      "options": [
+        "driving with an adult from 17",
+        "driving alone at 17"
+      ],
+      "answer": "driving with an adult from 17",
+      "explanation": "Age.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die MPU is…",
+      "options": [
+        "medical-psychological assessment",
+        "a driving test"
+      ],
+      "answer": "medical-psychological assessment",
+      "explanation": "MPU.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Fahrerlaubnis is the official term for a driving licence, the legal right to drive; der Führerschein is the card proving it, and the word people use in daily life. After serious offences such as drink driving, a court can withdraw it (Entzug der Fahrerlaubnis), and getting it back may require the MPU, a medical-psychological assessment nicknamed Idiotentest. Teenagers can drive accompanied from 17 (begleitetes Fahren). Plural: die Fahrerlaubnisse."
+}

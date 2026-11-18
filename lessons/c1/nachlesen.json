@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "nachlesen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "NAAKH-lay-zen",
+      "ipa": "ˈnaːxˌleːzn̩",
+      "notes": ""
+    },
+    "meaning": "to look up, read up on",
+    "shortDefinition": "To look up, read up on."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "les|e … |nach"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "lies|t … |nach"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "lies|t … |nach"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "les|en … |nach"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "les|t … |nach"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "les|en … |nach"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat nachgelesen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das kannst du im Wörterbuch nachlesen.",
+      "english": "You can look that up in the dictionary.",
+      "highlight": [
+        "nachlesen."
+      ]
+    },
+    {
+      "german": "Die Rede ist online nachzulesen.",
+      "english": "The speech can be read online.",
+      "highlight": [
+        "nachzulesen."
+      ]
+    }
+  ],
+  "forms": [
+    "lese nach",
+    "liest nach",
+    "lesen nach",
+    "lest nach",
+    "nachgelesen",
+    "las nach",
+    "Nachlese"
+  ],
+  "memoryHook": "Nachlesen: read (lesen) after (nach) to check.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … nach (nachlesen)",
+      "answer": "liest",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: liest … nach.",
+      "acceptedAnswers": [
+        "liest"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (nachlesen, past)",
+      "answer": "nachgelesen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe nachgelesen.",
+      "acceptedAnswers": [
+        "nachgelesen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does nachlesen mean?",
+      "options": [
+        "the shop",
+        "to look up",
+        "to sleep"
+      ],
+      "answer": "to look up",
+      "explanation": "nachlesen: to look up, read up on.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nachlesen means…",
+      "options": [
+        "to look up, read about",
+        "to read aloud"
+      ],
+      "answer": "to look up, read about",
+      "explanation": "Look up.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "nachschlagen",
+        "vorlesen"
+      ],
+      "answer": "nachschlagen",
+      "explanation": "Look up.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Nachlese is…",
+      "options": [
+        "a review, follow-up",
+        "an evening reading"
+      ],
+      "answer": "a review, follow-up",
+      "explanation": "Review.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Nachlesen means to look something up or read up on it: Das kannst du in der Anleitung nachlesen. Nachzulesen bei... means as can be read in... It's similar to nachschlagen (to look up in a reference book) and recherchieren (to research). Die Nachlese is a review or follow-up of an event; originally, it meant gleaning, picking up what was left after the harvest. Separable and irregular: liest nach, las nach, nachgelesen."
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "schwelgen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHVEL-gen",
+      "ipa": "ˈʃvɛlɡn̩",
+      "notes": ""
+    },
+    "meaning": "to indulge, revel",
+    "shortDefinition": "To indulge, revel."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schwelg|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schwelg|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schwelg|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schwelg|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schwelg|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schwelg|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geschwelgt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir schwelgten in Erinnerungen an die Schulzeit.",
+      "english": "We wallowed in memories of school days.",
+      "highlight": [
+        "schwelgten"
+      ]
+    },
+    {
+      "german": "Beim Festmahl schwelgten die Gäste.",
+      "english": "The guests feasted lavishly at the banquet.",
+      "highlight": [
+        "schwelgten."
+      ]
+    }
+  ],
+  "forms": [
+    "schwelge",
+    "schwelgst",
+    "schwelgt",
+    "schwelgen",
+    "geschwelgt",
+    "schwelgte"
+  ],
+  "memoryHook": "Schwelgen: feast and revel in plenty.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (schwelgen)",
+      "answer": "schwelgt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schwelgt.",
+      "acceptedAnswers": [
+        "schwelgt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (schwelgen, past)",
+      "answer": "geschwelgt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geschwelgt.",
+      "acceptedAnswers": [
+        "geschwelgt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does schwelgen mean?",
+      "options": [
+        "hot",
+        "to indulge",
+        "the door"
+      ],
+      "answer": "to indulge",
+      "explanation": "schwelgen: to indulge, revel.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Erinnerungen schwelgen means…",
+      "options": [
+        "to wallow in memories (fondly)",
+        "to forget"
+      ],
+      "answer": "to wallow in memories (fondly)",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schwelgen takes…",
+      "options": [
+        "in + dative",
+        "über + accusative"
+      ],
+      "answer": "in + dative",
+      "explanation": "Preposition.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "genießen, sich ergötzen",
+        "fasten"
+      ],
+      "answer": "genießen, sich ergötzen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Schwelgen means to indulge or revel: in Erinnerungen schwelgen (to reminisce fondly), in Luxus schwelgen, in Farben schwelgen (of a painting). Originally it meant to feast lavishly. Synonyms: genießen, sich ergötzen, frönen. Don't confuse it with schwellen (to swell) or schweigen (to be silent). Regular: schwelgte, geschwelgt."
+}

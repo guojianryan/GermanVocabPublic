@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ameise",
+    "partOfSpeech": "noun, feminine (die Ameise)",
+    "pronunciation": {
+      "respelling": "AA-mai-ze",
+      "ipa": "ˈaːˌmaɪ̯zə",
+      "notes": "Plural: die Ameisen."
+    },
+    "meaning": "ant",
+    "shortDefinition": "Ant."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Ameise, plural die Ameisen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Ameise"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ameisen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In der Küche sind Ameisen.",
+      "english": "There are ants in the kitchen.",
+      "highlight": [
+        "Ameisen."
+      ]
+    },
+    {
+      "german": "Die Ameisen bauen einen Hügel.",
+      "english": "The ants are building a hill.",
+      "highlight": [
+        "Ameisen"
+      ]
+    }
+  ],
+  "forms": [
+    "Ameisen",
+    "die Ameisen",
+    "die Ameise",
+    "Ameisenhaufen"
+  ],
+  "memoryHook": "Ameise: a tiny, busy insect.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ameise",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Ameise is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Ameise, zwei ___",
+      "answer": "Ameisen",
+      "fullAnswer": "ein Ameise, zwei Ameisen",
+      "explanation": "The plural is Ameisen.",
+      "acceptedAnswers": [
+        "Ameisen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ameise mean?",
+      "options": [
+        "the station",
+        "ant",
+        "to travel"
+      ],
+      "answer": "ant",
+      "explanation": "Ameise: ant.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ameisenhaufen is…",
+      "options": [
+        "anthill",
+        "ant bite"
+      ],
+      "answer": "anthill",
+      "explanation": "Anthill.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fleißig wie eine Ameise means…",
+      "options": [
+        "hard-working as an ant",
+        "tiny as an ant"
+      ],
+      "answer": "hard-working as an ant",
+      "explanation": "Simile.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ameisen in den Beinen haben means…",
+      "options": [
+        "pins and needles",
+        "to be restless"
+      ],
+      "answer": "pins and needles",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Ameise is an ant: der Ameisenhaufen (anthill), die Ameisenstraße (ant trail). In German forests, the large hills of red wood ants (Rote Waldameise) are a protected species. Ants are a symbol of diligence: fleißig wie eine Ameise. Ameisensäure is formic acid. The word comes from Old High German â-meiza (the cutter-off). Plural: die Ameisen."
+}

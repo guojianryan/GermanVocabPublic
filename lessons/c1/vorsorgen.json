@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "vorsorgen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "FOR-zor-gen",
+      "ipa": "ˈfoːɐ̯ˌzɔʁɡn̩",
+      "notes": ""
+    },
+    "meaning": "to make provision, take precautions",
+    "shortDefinition": "To make provision, take precautions."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "sorg|e … |vor"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "sorg|st … |vor"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "sorg|t … |vor"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "sorg|en … |vor"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "sorg|t … |vor"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "sorg|en … |vor"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat vorgesorgt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Man sollte für das Alter vorsorgen.",
+      "english": "You should make provision for old age.",
+      "highlight": [
+        "vorsorgen."
+      ]
+    },
+    {
+      "german": "Wir haben für den Notfall vorgesorgt.",
+      "english": "We've taken precautions for an emergency.",
+      "highlight": [
+        "vorgesorgt."
+      ]
+    }
+  ],
+  "forms": [
+    "sorge vor",
+    "sorgst vor",
+    "sorgt vor",
+    "sorgen vor",
+    "vorgesorgt",
+    "sorgte vor",
+    "Vorsorge"
+  ],
+  "memoryHook": "Vorsorgen: sorgen (take care) in advance (vor).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … vor (vorsorgen)",
+      "answer": "sorgt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: sorgt … vor.",
+      "acceptedAnswers": [
+        "sorgt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (vorsorgen, past)",
+      "answer": "vorgesorgt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe vorgesorgt.",
+      "acceptedAnswers": [
+        "vorgesorgt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does vorsorgen mean?",
+      "options": [
+        "to help",
+        "to make provision",
+        "cheap"
+      ],
+      "answer": "to make provision",
+      "explanation": "vorsorgen: to make provision, take precautions.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vorsorgen für means…",
+      "options": [
+        "to provide for, prepare for",
+        "to worry about"
+      ],
+      "answer": "to provide for, prepare for",
+      "explanation": "Provide.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Vorsorgeuntersuchung is…",
+      "options": [
+        "a medical check-up",
+        "an insurance claim"
+      ],
+      "answer": "a medical check-up",
+      "explanation": "Check-up.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Vorsorgevollmacht is…",
+      "options": [
+        "a lasting power of attorney",
+        "a pension"
+      ],
+      "answer": "a lasting power of attorney",
+      "explanation": "Legal.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Vorsorgen means to make provision or take precautions: fürs Alter vorsorgen (to save for retirement), für den Notfall vorsorgen. Die Vorsorge is precaution: die Altersvorsorge, die Krebsvorsorge (cancer screening), die Vorsorgeuntersuchung (check-up). Die Vorsorgevollmacht (lasting power of attorney) is recommended for every adult in Germany. Vorsicht ist besser als Nachsicht. Separable: sorgte vor, vorgesorgt."
+}

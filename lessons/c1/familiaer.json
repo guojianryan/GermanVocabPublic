@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "familiär",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "fa-mi-LYAIR",
+      "ipa": "famiˈli̯ɛːɐ̯",
+      "notes": ""
+    },
+    "meaning": "family (related); familiar, informal",
+    "shortDefinition": "Family (related); familiar, informal."
+  },
+  "sampleSentences": [
+    {
+      "german": "Er hat das Amt aus familiären Gründen niedergelegt.",
+      "english": "He resigned for family reasons.",
+      "highlight": [
+        "familiären"
+      ]
+    },
+    {
+      "german": "Das Hotel hat eine familiäre Atmosphäre.",
+      "english": "The hotel has a homely atmosphere.",
+      "highlight": [
+        "familiäre"
+      ]
+    }
+  ],
+  "forms": [
+    "familiäre",
+    "familiären",
+    "familiärer"
+  ],
+  "memoryHook": "Familiär: about the Familie, or as cosy as one.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does familiär mean?",
+      "options": [
+        "to wait",
+        "the door",
+        "family (related)"
+      ],
+      "answer": "family (related)",
+      "explanation": "familiär: family (related); familiar, informal.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Aus familiären Gründen means…",
+      "options": [
+        "for family reasons",
+        "for familiar reasons"
+      ],
+      "answer": "for family reasons",
+      "explanation": "Family.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine familiäre Atmosphäre is…",
+      "options": [
+        "a cosy, homely atmosphere",
+        "a crowded one"
+      ],
+      "answer": "a cosy, homely atmosphere",
+      "explanation": "Homely.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Familiar (known) in German is usually…",
+      "options": [
+        "vertraut / bekannt",
+        "familiär"
+      ],
+      "answer": "vertraut / bekannt",
+      "explanation": "False friend.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ Probleme (family)",
+      "answer": "familiäre",
+      "fullAnswer": "familiäre Probleme",
+      "explanation": "Plural -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Familiär means relating to the family (aus familiären Gründen, familiäre Verpflichtungen) or homely and informal: eine familiäre Atmosphäre, ein familiärer Betrieb (a family-run business). It's a partial false friend: for familiar in the sense of known, German says vertraut or bekannt: Das kommt mir bekannt vor. Medically, familiär means hereditary: familiär bedingt."
+}

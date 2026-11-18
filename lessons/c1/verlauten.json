@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verlauten",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-LAU-ten",
+      "ipa": "fɛɐ̯ˈlaʊ̯tn̩",
+      "notes": ""
+    },
+    "meaning": "to be announced, be reported",
+    "shortDefinition": "To be announced, be reported."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verlaut|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verlaut|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verlaut|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verlaut|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verlaut|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verlaut|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verlautet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wie aus Regierungskreisen verlautete, ist eine Einigung nah.",
+      "english": "As reported from government circles, an agreement is close.",
+      "highlight": [
+        "verlautete,"
+      ]
+    },
+    {
+      "german": "Die Firma ließ nichts über die Gründe verlauten.",
+      "english": "The company said nothing about the reasons.",
+      "highlight": [
+        "verlauten."
+      ]
+    }
+  ],
+  "forms": [
+    "verlaute",
+    "verlautest",
+    "verlautet",
+    "verlauten",
+    "verlautete"
+  ],
+  "memoryHook": "Verlauten: become laut (loud, public).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verlauten)",
+      "answer": "verlautet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verlautet.",
+      "acceptedAnswers": [
+        "verlautet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verlauten, past)",
+      "answer": "verlautet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verlautet.",
+      "acceptedAnswers": [
+        "verlautet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verlauten mean?",
+      "options": [
+        "quiet",
+        "the door",
+        "to be announced"
+      ],
+      "answer": "to be announced",
+      "explanation": "verlauten: to be announced, be reported.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nichts verlauten lassen means…",
+      "options": [
+        "to say nothing publicly",
+        "to be quiet at home"
+      ],
+      "answer": "to say nothing publicly",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wie verlautet means…",
+      "options": [
+        "as reported, reportedly",
+        "as loud as"
+      ],
+      "answer": "as reported, reportedly",
+      "explanation": "Phrase.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "journalistic, formal",
+        "colloquial"
+      ],
+      "answer": "journalistic, formal",
+      "explanation": "Register.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verlauten is a journalistic word meaning to be announced or reported: Wie aus Polizeikreisen verlautete... (according to police sources), wie verlautet (reportedly). Etwas verlauten lassen means to announce or let it be known, often negated: Er ließ nichts verlauten (he didn't comment). Synonyms: bekannt werden, mitteilen. Die Verlautbarung is an official announcement."
+}

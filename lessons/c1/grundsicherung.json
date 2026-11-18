@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Grundsicherung",
+    "partOfSpeech": "noun, feminine (die Grundsicherung)",
+    "pronunciation": {
+      "respelling": "GRUNT-zi-khe-rung",
+      "ipa": "ˈɡʁʊntˌzɪçəʁʊŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "basic income support",
+    "shortDefinition": "Basic income support."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Grundsicherung, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Grundsicherung"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie bezieht Grundsicherung im Alter.",
+      "english": "She receives basic income support in old age.",
+      "highlight": [
+        "Grundsicherung"
+      ]
+    },
+    {
+      "german": "Die Grundsicherung soll das Existenzminimum sichern.",
+      "english": "Basic support is meant to secure the subsistence minimum.",
+      "highlight": [
+        "Grundsicherung"
+      ]
+    }
+  ],
+  "forms": [
+    "die Grundsicherung"
+  ],
+  "memoryHook": "Grundsicherung: securing (sichern) the basics (Grund).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Grundsicherung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Grundsicherung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Grundsicherung mean?",
+      "options": [
+        "basic income support",
+        "the key",
+        "the bread"
+      ],
+      "answer": "basic income support",
+      "explanation": "Grundsicherung: basic income support.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Existenzminimum is…",
+      "options": [
+        "the subsistence minimum",
+        "a minimum wage"
+      ],
+      "answer": "the subsistence minimum",
+      "explanation": "Minimum.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grundsicherung im Alter is for…",
+      "options": [
+        "pensioners with too little income",
+        "students"
+      ],
+      "answer": "pensioners with too little income",
+      "explanation": "Old age.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hartz IV was replaced in 2023 by…",
+      "options": [
+        "das Bürgergeld",
+        "die Rente"
+      ],
+      "answer": "das Bürgergeld",
+      "explanation": "2023.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Grundsicherung is basic income support that secures the Existenzminimum: Grundsicherung im Alter und bei Erwerbsminderung for pensioners and people unable to work. For jobseekers, Hartz IV was replaced in 2023 by das Bürgergeld, and in 2025 the governing coalition agreed to turn this into a new Grundsicherung with stricter rules. Sozialhilfe is the general term for welfare. It has no plural."
+}

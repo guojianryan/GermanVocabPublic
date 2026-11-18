@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Psychotherapie",
+    "partOfSpeech": "noun, feminine (die Psychotherapie)",
+    "pronunciation": {
+      "respelling": "psü-kho-te-ra-PEE",
+      "ipa": "psyçotɛʁaˈpiː",
+      "notes": "Plural: die Psychotherapien."
+    },
+    "meaning": "psychotherapy",
+    "shortDefinition": "Psychotherapy."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Psychotherapie, plural die Psychotherapien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Psychotherapie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Psychotherapien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie macht eine Psychotherapie.",
+      "english": "She's in psychotherapy.",
+      "highlight": [
+        "Psychotherapie."
+      ]
+    },
+    {
+      "german": "Auf einen Platz für Psychotherapie wartet man oft Monate.",
+      "english": "People often wait months for a psychotherapy place.",
+      "highlight": [
+        "Psychotherapie"
+      ]
+    }
+  ],
+  "forms": [
+    "Psychotherapien",
+    "die Psychotherapie",
+    "Psychotherapeut"
+  ],
+  "memoryHook": "Psychotherapie: therapy for the Psyche; say the p.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Psychotherapie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Psychotherapie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Psychotherapie, zwei ___",
+      "answer": "Psychotherapien",
+      "fullAnswer": "ein Psychotherapie, zwei Psychotherapien",
+      "explanation": "The plural is Psychotherapien.",
+      "acceptedAnswers": [
+        "Psychotherapien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Psychotherapie mean?",
+      "options": [
+        "the job",
+        "psychotherapy",
+        "to help"
+      ],
+      "answer": "psychotherapy",
+      "explanation": "Psychotherapie: psychotherapy.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Germany, psychotherapy is…",
+      "options": [
+        "covered by public health insurance",
+        "always private"
+      ],
+      "answer": "covered by public health insurance",
+      "explanation": "Covered.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The ps at the start is pronounced…",
+      "options": [
+        "ps (both letters)",
+        "s only"
+      ],
+      "answer": "ps (both letters)",
+      "explanation": "PSÜ-cho.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Psychotherapeut is…",
+      "options": [
+        "the psychotherapist",
+        "the patient"
+      ],
+      "answer": "the psychotherapist",
+      "explanation": "Therapist.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Psychotherapie is psychotherapy: eine Psychotherapie machen, in Psychotherapie sein. In Germany it's covered by statutory health insurance, but waiting times for a place can be several months. Der Psychotherapeut (die Psychotherapeutin) is the therapist; der Psychiater is a medical doctor who can prescribe medication. German pronounces the p in ps: PSÜ-cho-te-ra-PEE. Sigmund Freud, who wrote in German, founded psychoanalysis."
+}

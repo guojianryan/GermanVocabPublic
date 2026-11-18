@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gerichtsvollzieher",
+    "partOfSpeech": "noun, masculine (der Gerichtsvollzieher)",
+    "pronunciation": {
+      "respelling": "ge-RIKHTS-fol-tsee-er",
+      "ipa": "ɡəˈʁɪçt͡sfɔlˌt͡siːɐ",
+      "notes": "Plural: die Gerichtsvollzieher."
+    },
+    "meaning": "bailiff, enforcement officer",
+    "shortDefinition": "Bailiff, enforcement officer."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Gerichtsvollzieher, plural die Gerichtsvollzieher.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Gerichtsvollzieher"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gerichtsvollzieher"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Gerichtsvollzieher pfändete den Fernseher.",
+      "english": "The bailiff seized the TV.",
+      "highlight": [
+        "Gerichtsvollzieher"
+      ]
+    },
+    {
+      "german": "Sie hat Angst vor dem Gerichtsvollzieher.",
+      "english": "She's afraid of the bailiff.",
+      "highlight": [
+        "Gerichtsvollzieher."
+      ]
+    }
+  ],
+  "forms": [
+    "Gerichtsvollzieherin",
+    "der Gerichtsvollzieher"
+  ],
+  "memoryHook": "Gerichtsvollzieher: someone who vollzieht (executes) the Gericht's decisions.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gerichtsvollzieher",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Gerichtsvollzieher is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gerichtsvollzieher, zwei ___",
+      "answer": "Gerichtsvollzieher",
+      "fullAnswer": "ein Gerichtsvollzieher, zwei Gerichtsvollzieher",
+      "explanation": "The plural is Gerichtsvollzieher.",
+      "acceptedAnswers": [
+        "Gerichtsvollzieher"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gerichtsvollzieher mean?",
+      "options": [
+        "the door",
+        "bailiff",
+        "to help"
+      ],
+      "answer": "bailiff",
+      "explanation": "Gerichtsvollzieher: bailiff, enforcement officer.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kuckuck (colloquial) is…",
+      "options": [
+        "the bailiff's seizure seal",
+        "a clock only"
+      ],
+      "answer": "the bailiff's seizure seal",
+      "explanation": "Seal.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pfänden means…",
+      "options": [
+        "to seize (goods for debt)",
+        "to pawn yourself"
+      ],
+      "answer": "to seize (goods for debt)",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vollziehen means…",
+      "options": [
+        "to carry out, execute",
+        "to pull fully"
+      ],
+      "answer": "to carry out, execute",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Gerichtsvollzieher (die Gerichtsvollzieherin) is a court bailiff who enforces judgments, mainly collecting debts by pfänden (seizing) valuables or carrying out evictions (Zwangsräumungen). The seizure seal stuck on goods is colloquially called der Kuckuck, after the eagle on older seals that people mocked as a cuckoo. From vollziehen (to execute) and das Gericht. The plural is the same."
+}

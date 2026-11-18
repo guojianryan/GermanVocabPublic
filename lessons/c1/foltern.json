@@ -1,0 +1,177 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "foltern",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "FOL-tern",
+      "ipa": "ˈfɔltɐn",
+      "notes": ""
+    },
+    "meaning": "to torture",
+    "shortDefinition": "To torture."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "folter|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "folter|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "folter|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "folter|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "folter|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "folter|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gefoltert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Gefangenen wurden gefoltert.",
+      "english": "The prisoners were tortured.",
+      "highlight": [
+        "gefoltert."
+      ]
+    },
+    {
+      "german": "Das Warten foltert mich.",
+      "english": "The waiting is torturing me.",
+      "highlight": [
+        "foltert"
+      ]
+    }
+  ],
+  "forms": [
+    "foltere",
+    "folterst",
+    "foltert",
+    "foltern",
+    "gefoltert",
+    "folterte",
+    "Folter",
+    "Folterung"
+  ],
+  "memoryHook": "Foltern: a heavy verb, handle with care.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (foltern)",
+      "answer": "foltert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: foltert.",
+      "acceptedAnswers": [
+        "foltert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (foltern, past)",
+      "answer": "gefoltert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gefoltert.",
+      "acceptedAnswers": [
+        "gefoltert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does foltern mean?",
+      "options": [
+        "to torture",
+        "the window",
+        "the bed"
+      ],
+      "answer": "to torture",
+      "explanation": "foltern: to torture.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Folter is…",
+      "options": [
+        "torture",
+        "a stove"
+      ],
+      "answer": "torture",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Participle:",
+      "options": [
+        "gefoltert",
+        "gefolterte"
+      ],
+      "answer": "gefoltert",
+      "explanation": "Regular.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, foltern can mean…",
+      "options": [
+        "to torment",
+        "to forgive"
+      ],
+      "answer": "to torment",
+      "explanation": "Das foltert mich.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Folterknecht is…",
+      "options": [
+        "a torturer (historical)",
+        "a kind of knight"
+      ],
+      "answer": "a torturer (historical)",
+      "explanation": "Old term.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Foltern is a regular verb for torturing: Er wurde gefoltert. The noun is die Folter, and torture is banned in Germany: Article 104 of the Grundgesetz forbids mistreating detained persons, and Article 1 protects human dignity. Figuratively it's lighter: Das Warten foltert mich. Die Foltermethoden are torture methods. A related, milder verb is quälen (to torment)."
+}

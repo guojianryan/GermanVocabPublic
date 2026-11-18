@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wohnungsmarkt",
+    "partOfSpeech": "noun, masculine (der Wohnungsmarkt)",
+    "pronunciation": {
+      "respelling": "VOH-nungs-markt",
+      "ipa": "ˈvoːnʊŋsˌmaʁkt",
+      "notes": "Plural: die Wohnungsmärkte."
+    },
+    "meaning": "housing market",
+    "shortDefinition": "Housing market."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Wohnungsmarkt, plural die Wohnungsmärkte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Wohnungsmarkt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wohnungsmärkte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Wohnungsmarkt in München ist extrem angespannt.",
+      "english": "Munich's housing market is extremely tight.",
+      "highlight": [
+        "Wohnungsmarkt"
+      ]
+    },
+    {
+      "german": "Viele Familien finden auf dem Wohnungsmarkt nichts.",
+      "english": "Many families can't find anything on the housing market.",
+      "highlight": [
+        "Wohnungsmarkt"
+      ]
+    }
+  ],
+  "forms": [
+    "Wohnungsmärkte",
+    "der Wohnungsmarkt"
+  ],
+  "memoryHook": "Wohnungsmarkt: the Markt for Wohnungen.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wohnungsmarkt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Wohnungsmarkt is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wohnungsmarkt, zwei ___",
+      "answer": "Wohnungsmärkte",
+      "fullAnswer": "ein Wohnungsmarkt, zwei Wohnungsmärkte",
+      "explanation": "The plural is Wohnungsmärkte.",
+      "acceptedAnswers": [
+        "Wohnungsmaerkte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wohnungsmarkt mean?",
+      "options": [
+        "the weather",
+        "the shop",
+        "housing market"
+      ],
+      "answer": "housing market",
+      "explanation": "Wohnungsmarkt: housing market.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein angespannter Wohnungsmarkt is…",
+      "options": [
+        "a tight housing market",
+        "a relaxed market"
+      ],
+      "answer": "a tight housing market",
+      "explanation": "Tight.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Most Germans…",
+      "options": [
+        "rent",
+        "own"
+      ],
+      "answer": "rent",
+      "explanation": "Renters.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Wohnungsnot is…",
+      "options": [
+        "housing shortage",
+        "flat repair"
+      ],
+      "answer": "housing shortage",
+      "explanation": "Shortage.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Wohnungsmarkt is the housing market. In German cities like Munich, Berlin, Frankfurt and Hamburg, it's very angespannt (tight): rents have risen sharply, viewings attract crowds, and the Mietpreisbremse limits rents for new contracts. Around half of Germans rent, more than in most EU countries. Die Wohnungsnot is a housing shortage. Plural: die Wohnungsmärkte."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gefecht",
+    "partOfSpeech": "noun, neuter (das Gefecht)",
+    "pronunciation": {
+      "respelling": "ge-FEKHT",
+      "ipa": "ɡəˈfɛçt",
+      "notes": "Plural: die Gefechte."
+    },
+    "meaning": "battle, fight, combat",
+    "shortDefinition": "Battle, fight, combat."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Gefecht, plural die Gefechte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Gefecht"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gefechte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bei dem Gefecht wurden drei Soldaten verletzt.",
+      "english": "Three soldiers were wounded in the fighting.",
+      "highlight": [
+        "Gefecht"
+      ]
+    },
+    {
+      "german": "Das Argument setzte ihn außer Gefecht.",
+      "english": "The argument knocked him out of the game.",
+      "highlight": [
+        "Gefecht."
+      ]
+    }
+  ],
+  "forms": [
+    "Gefechte",
+    "die Gefechte",
+    "das Gefecht",
+    "Gefechts"
+  ],
+  "memoryHook": "Gefecht: what happens when soldiers fechten.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gefecht",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Gefecht is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gefecht, zwei ___",
+      "answer": "Gefechte",
+      "fullAnswer": "ein Gefecht, zwei Gefechte",
+      "explanation": "The plural is Gefechte.",
+      "acceptedAnswers": [
+        "Gefechte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gefecht mean?",
+      "options": [
+        "battle",
+        "the family",
+        "the job"
+      ],
+      "answer": "battle",
+      "explanation": "Gefecht: battle, fight, combat.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden außer Gefecht setzen means…",
+      "options": [
+        "to put someone out of action",
+        "to make peace with someone"
+      ],
+      "answer": "to put someone out of action",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Im Eifer des Gefechts means…",
+      "options": [
+        "in the heat of the moment",
+        "after the battle"
+      ],
+      "answer": "in the heat of the moment",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "From…",
+      "options": [
+        "fechten (to fence, fight)",
+        "fechen"
+      ],
+      "answer": "fechten (to fence, fight)",
+      "explanation": "fechten.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Gefecht is a battle or engagement, a smaller fight than eine Schlacht: heftige Gefechte an der Front. Two idioms are common in everyday life: im Eifer des Gefechts (in the heat of the moment), and jemanden außer Gefecht setzen (to put someone out of action), as in Die Grippe hat mich eine Woche außer Gefecht gesetzt. It comes from fechten, to fight or fence. Plural: die Gefechte."
+}

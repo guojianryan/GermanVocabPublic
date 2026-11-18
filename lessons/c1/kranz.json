@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kranz",
+    "partOfSpeech": "noun, masculine (der Kranz)",
+    "pronunciation": {
+      "respelling": "krants",
+      "ipa": "kʁant͡s",
+      "notes": "Plural: die Kränze."
+    },
+    "meaning": "wreath",
+    "shortDefinition": "Wreath."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kranz, plural die Kränze.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kranz"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kränze"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Am Denkmal wurde ein Kranz niedergelegt.",
+      "english": "A wreath was laid at the memorial.",
+      "highlight": [
+        "Kranz"
+      ]
+    },
+    {
+      "german": "Im Advent hängt ein Adventskranz im Wohnzimmer.",
+      "english": "In Advent there's an Advent wreath in the living room.",
+      "highlight": [
+        "Adventskranz"
+      ]
+    }
+  ],
+  "forms": [
+    "Kränze",
+    "die Kränze",
+    "der Kranz"
+  ],
+  "memoryHook": "Kranz: a ring of flowers or leaves.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kranz",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kranz is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kranz, zwei ___",
+      "answer": "Kränze",
+      "fullAnswer": "ein Kranz, zwei Kränze",
+      "explanation": "The plural is Kränze.",
+      "acceptedAnswers": [
+        "Kraenze"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kranz mean?",
+      "options": [
+        "the bed",
+        "to help",
+        "wreath"
+      ],
+      "answer": "wreath",
+      "explanation": "Kranz: wreath.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Adventskranz has…",
+      "options": [
+        "four candles, one lit each Sunday",
+        "twelve candles"
+      ],
+      "answer": "four candles, one lit each Sunday",
+      "explanation": "Advent.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einen Kranz niederlegen means…",
+      "options": [
+        "to lay a wreath",
+        "to take off a crown"
+      ],
+      "answer": "to lay a wreath",
+      "explanation": "Wreath.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Frankfurter Kranz is…",
+      "options": [
+        "a ring-shaped buttercream cake",
+        "a sausage"
+      ],
+      "answer": "a ring-shaped buttercream cake",
+      "explanation": "Cake.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Kranz is a wreath: einen Kranz niederlegen (to lay a wreath, at memorials or funerals), der Lorbeerkranz (laurel wreath). The Adventskranz, with four candles lit one by one on the Sundays before Christmas, was invented in Hamburg in 1839 by Johann Hinrich Wichern. Der Frankfurter Kranz is a ring cake with buttercream and brittle. Plural: die Kränze."
+}

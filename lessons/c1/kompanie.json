@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kompanie",
+    "partOfSpeech": "noun, feminine (die Kompanie)",
+    "pronunciation": {
+      "respelling": "kom-pa-NEE",
+      "ipa": "kɔmpaˈniː",
+      "notes": "Plural: die Kompanien."
+    },
+    "meaning": "company (military)",
+    "shortDefinition": "Company (military)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kompanie, plural die Kompanien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kompanie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kompanien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Kompanie marschierte zum Übungsplatz.",
+      "english": "The company marched to the training ground.",
+      "highlight": [
+        "Kompanie"
+      ]
+    },
+    {
+      "german": "Er ist Chef der dritten Kompanie.",
+      "english": "He's commander of the third company.",
+      "highlight": [
+        "Kompanie."
+      ]
+    }
+  ],
+  "forms": [
+    "Kompanien",
+    "die Kompanien",
+    "die Kompanie"
+  ],
+  "memoryHook": "Kompanie: soldiers who share bread (com + panis).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kompanie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kompanie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kompanie, zwei ___",
+      "answer": "Kompanien",
+      "fullAnswer": "ein Kompanie, zwei Kompanien",
+      "explanation": "The plural is Kompanien.",
+      "acceptedAnswers": [
+        "Kompanien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kompanie mean?",
+      "options": [
+        "the window",
+        "hot",
+        "company (military)"
+      ],
+      "answer": "company (military)",
+      "explanation": "Kompanie: company (military).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "A business company in German is…",
+      "options": [
+        "die Firma / das Unternehmen",
+        "die Kompanie"
+      ],
+      "answer": "die Firma / das Unternehmen",
+      "explanation": "False friend.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A Kompanie usually has about…",
+      "options": [
+        "100–250 soldiers",
+        "10 soldiers"
+      ],
+      "answer": "100–250 soldiers",
+      "explanation": "Size.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress:",
+      "options": [
+        "kom-pa-NIE",
+        "KOM-pa-nie"
+      ],
+      "answer": "kom-pa-NIE",
+      "explanation": "Last syllable.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kompanie is a military company, a unit of roughly 100 to 250 soldiers led by a Kompaniechef. For a business company, German uses die Firma, das Unternehmen or die Gesellschaft (as in GmbH). The East India Company is die Ostindien-Kompanie, an old use. Kompanie comes from Latin com- + panis (bread), those who share bread, like Kumpan and Kumpel (mate). Plural: die Kompanien."
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "begnadigen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-GNAA-di-gen",
+      "ipa": "bəˈɡnaːdɪɡn̩",
+      "notes": ""
+    },
+    "meaning": "to pardon",
+    "shortDefinition": "To pardon."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "begnadig|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "begnadig|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "begnadig|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "begnadig|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "begnadig|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "begnadig|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat begnadigt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Präsident begnadigte den Gefangenen.",
+      "english": "The president pardoned the prisoner.",
+      "highlight": [
+        "begnadigte"
+      ]
+    },
+    {
+      "german": "Er hofft, begnadigt zu werden.",
+      "english": "He hopes to be pardoned.",
+      "highlight": [
+        "begnadigt"
+      ]
+    }
+  ],
+  "forms": [
+    "begnadige",
+    "begnadigst",
+    "begnadigt",
+    "begnadigen",
+    "Begnadigung"
+  ],
+  "memoryHook": "Begnadigen: grant Gnade (mercy).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (begnadigen)",
+      "answer": "begnadigt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: begnadigt.",
+      "acceptedAnswers": [
+        "begnadigt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (begnadigen, past)",
+      "answer": "begnadigt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe begnadigt.",
+      "acceptedAnswers": [
+        "begnadigt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does begnadigen mean?",
+      "options": [
+        "to sing",
+        "to pardon",
+        "the evening"
+      ],
+      "answer": "to pardon",
+      "explanation": "begnadigen: to pardon.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Begnadigung is…",
+      "options": [
+        "pardon, clemency",
+        "a blessing"
+      ],
+      "answer": "pardon, clemency",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gnade is…",
+      "options": [
+        "mercy, grace",
+        "a gnat"
+      ],
+      "answer": "mercy, grace",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Germany, the right of pardon for federal crimes lies with…",
+      "options": [
+        "the Bundespräsident",
+        "the Chancellor"
+      ],
+      "answer": "the Bundespräsident",
+      "explanation": "Law.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Begnadigen means to pardon: einen Verurteilten begnadigen. In Germany, the Bundespräsident holds the right of pardon (das Gnadenrecht) for federal cases, and state premiers for most others; it's used rarely. The Begnadigung of former RAF terrorists in the 2000s was hotly debated. Die Gnade means mercy. Not separable: begnadigte, hat begnadigt."
+}

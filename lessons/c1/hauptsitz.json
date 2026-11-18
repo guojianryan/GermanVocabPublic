@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Hauptsitz",
+    "partOfSpeech": "noun, masculine (der Hauptsitz)",
+    "pronunciation": {
+      "respelling": "HAUPT-zits",
+      "ipa": "ˈhaʊ̯ptˌzɪt͡s",
+      "notes": "Plural: die Hauptsitze."
+    },
+    "meaning": "headquarters, head office",
+    "shortDefinition": "Headquarters, head office."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Hauptsitz, plural die Hauptsitze.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Hauptsitz"
+        },
+        {
+          "label": "More than one",
+          "value": "die Hauptsitze"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Konzern hat seinen Hauptsitz in München.",
+      "english": "The group has its headquarters in Munich.",
+      "highlight": [
+        "Hauptsitz"
+      ]
+    },
+    {
+      "german": "Der Hauptsitz soll nach Berlin verlegt werden.",
+      "english": "The head office is to be moved to Berlin.",
+      "highlight": [
+        "Hauptsitz"
+      ]
+    }
+  ],
+  "forms": [
+    "Hauptsitze",
+    "die Hauptsitze",
+    "der Hauptsitz"
+  ],
+  "memoryHook": "Hauptsitz: the main (Haupt-) seat (Sitz) of a company.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Hauptsitz",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Hauptsitz is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Hauptsitz, zwei ___",
+      "answer": "Hauptsitze",
+      "fullAnswer": "ein Hauptsitz, zwei Hauptsitze",
+      "explanation": "The plural is Hauptsitze.",
+      "acceptedAnswers": [
+        "Hauptsitze"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Hauptsitz mean?",
+      "options": [
+        "headquarters",
+        "the shop",
+        "the door"
+      ],
+      "answer": "headquarters",
+      "explanation": "Hauptsitz: headquarters, head office.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Zentrale",
+        "die Filiale"
+      ],
+      "answer": "die Zentrale",
+      "explanation": "HQ.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Sitz is…",
+      "options": [
+        "seat; registered office",
+        "a sit-in"
+      ],
+      "answer": "seat; registered office",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mit Sitz in means…",
+      "options": [
+        "based in",
+        "sitting in"
+      ],
+      "answer": "based in",
+      "explanation": "Based.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Hauptsitz is a company's headquarters or head office: Der Hauptsitz von Volkswagen ist in Wolfsburg, von SAP in Walldorf, von Adidas und Puma in Herzogenaurach (a small town hosting two global sports brands, founded by feuding brothers). Synonyms: die Zentrale, der Firmensitz. Mit Sitz in means based in. Branches are Filialen or Niederlassungen. Plural: die Hauptsitze."
+}

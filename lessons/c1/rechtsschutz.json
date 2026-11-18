@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rechtsschutz",
+    "partOfSpeech": "noun, masculine (der Rechtsschutz)",
+    "pronunciation": {
+      "respelling": "REKHTS-shuts",
+      "ipa": "ˈʁɛçt͡sˌʃʊt͡s",
+      "notes": "Usually no plural."
+    },
+    "meaning": "legal protection; legal expenses cover",
+    "shortDefinition": "Legal protection; legal expenses cover."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Rechtsschutz, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Rechtsschutz"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Jeder hat Anspruch auf effektiven Rechtsschutz.",
+      "english": "Everyone is entitled to effective legal protection.",
+      "highlight": [
+        "Rechtsschutz."
+      ]
+    },
+    {
+      "german": "Hast du eine Rechtsschutzversicherung?",
+      "english": "Do you have legal expenses insurance?",
+      "highlight": [
+        "Rechtsschutzversicherung?"
+      ]
+    }
+  ],
+  "forms": [
+    "der Rechtsschutz",
+    "Rechtsschutzversicherung"
+  ],
+  "memoryHook": "Rechtsschutz: Schutz (protection) through Recht (law).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rechtsschutz",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Rechtsschutz is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rechtsschutz mean?",
+      "options": [
+        "legal protection",
+        "the bed",
+        "tomorrow"
+      ],
+      "answer": "legal protection",
+      "explanation": "Rechtsschutz: legal protection; legal expenses cover.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Rechtsschutzversicherung covers…",
+      "options": [
+        "legal costs",
+        "theft"
+      ],
+      "answer": "legal costs",
+      "explanation": "Insurance.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Article 19(4) Grundgesetz guarantees…",
+      "options": [
+        "access to the courts against public authority",
+        "free lawyers"
+      ],
+      "answer": "access to the courts against public authority",
+      "explanation": "Constitution.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schutz is…",
+      "options": [
+        "protection",
+        "a shot"
+      ],
+      "answer": "protection",
+      "explanation": "Root.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Rechtsschutz is legal protection: effektiver Rechtsschutz, guaranteed by Article 19(4) of the Grundgesetz, which lets anyone challenge state action in court. The Rechtsschutzversicherung (legal expenses insurance) is very common in Germany and covers lawyers' and court fees in disputes with landlords, employers or after car accidents. Union members often get Rechtsschutz through their union. It has no plural."
+}

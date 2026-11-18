@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schnabel",
+    "partOfSpeech": "noun, masculine (der Schnabel)",
+    "pronunciation": {
+      "respelling": "SHNAA-bel",
+      "ipa": "ˈʃnaːbl̩",
+      "notes": "Plural: die Schnäbel."
+    },
+    "meaning": "beak, bill; (colloquial) mouth",
+    "shortDefinition": "Beak, bill; (colloquial) mouth."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schnabel, plural die Schnäbel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schnabel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schnäbel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Vogel pickt mit dem Schnabel.",
+      "english": "The bird pecks with its beak.",
+      "highlight": [
+        "Schnabel."
+      ]
+    },
+    {
+      "german": "Halt den Schnabel!",
+      "english": "Shut your trap!",
+      "highlight": [
+        "Schnabel!"
+      ]
+    }
+  ],
+  "forms": [
+    "Schnäbel",
+    "die Schnäbel",
+    "der Schnabel"
+  ],
+  "memoryHook": "Schnabel: a bird's beak, or a chatterbox's mouth.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schnabel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schnabel is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schnabel, zwei ___",
+      "answer": "Schnäbel",
+      "fullAnswer": "ein Schnabel, zwei Schnäbel",
+      "explanation": "The plural is Schnäbel.",
+      "acceptedAnswers": [
+        "Schnaebel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schnabel mean?",
+      "options": [
+        "beak",
+        "to open",
+        "to travel"
+      ],
+      "answer": "beak",
+      "explanation": "Schnabel: beak, bill; (colloquial) mouth.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Halt den Schnabel! means…",
+      "options": [
+        "Shut up! (colloquial)",
+        "Hold the bird!"
+      ],
+      "answer": "Shut up! (colloquial)",
+      "explanation": "Shut up.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Reden, wie einem der Schnabel gewachsen ist means…",
+      "options": [
+        "to speak one's mind plainly",
+        "to talk nonsense"
+      ],
+      "answer": "to speak one's mind plainly",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Schnäbel",
+        "die Schnabel"
+      ],
+      "answer": "die Schnäbel",
+      "explanation": "Umlaut.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Schnabel is a beak or bill. Colloquially, it's the mouth: Halt den Schnabel! (shut up!). Reden, wie einem der Schnabel gewachsen ist means to speak plainly, as one naturally talks; Martin Luther said translators should listen to how ordinary people speak, dem Volk aufs Maul schauen. Das Schnabeltier is a platypus (beak animal). Plural: die Schnäbel."
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "einschulen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AIN-shoo-len",
+      "ipa": "ˈaɪ̯nˌʃuːlən",
+      "notes": ""
+    },
+    "meaning": "to enrol in school (first grade)",
+    "shortDefinition": "To enrol in school (first grade)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schul|e … |ein"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schul|st … |ein"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schul|t … |ein"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schul|en … |ein"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schul|t … |ein"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schul|en … |ein"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat eingeschult"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Unsere Tochter wird im September eingeschult.",
+      "english": "Our daughter starts school in September.",
+      "highlight": [
+        "eingeschult."
+      ]
+    },
+    {
+      "german": "Kinder werden in Deutschland meist mit sechs eingeschult.",
+      "english": "In Germany children usually start school at six.",
+      "highlight": [
+        "eingeschult."
+      ]
+    }
+  ],
+  "forms": [
+    "schule ein",
+    "schulst ein",
+    "schult ein",
+    "schulen ein",
+    "eingeschult",
+    "schulte ein"
+  ],
+  "memoryHook": "Einschulen: bring into (ein) school (Schule).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ein (einschulen)",
+      "answer": "schult",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schult … ein.",
+      "acceptedAnswers": [
+        "schult"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (einschulen, past)",
+      "answer": "eingeschult",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe eingeschult.",
+      "acceptedAnswers": [
+        "eingeschult"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does einschulen mean?",
+      "options": [
+        "to enrol in school (first grade)",
+        "slowly",
+        "the weather"
+      ],
+      "answer": "to enrol in school (first grade)",
+      "explanation": "einschulen: to enrol in school (first grade).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Einschulung is celebrated with…",
+      "options": [
+        "a Schultüte (cone of sweets)",
+        "a school uniform"
+      ],
+      "answer": "a Schultüte (cone of sweets)",
+      "explanation": "Culture.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Usually used in…",
+      "options": [
+        "the passive (eingeschult werden)",
+        "the reflexive"
+      ],
+      "answer": "the passive (eingeschult werden)",
+      "explanation": "Grammar.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Erstklässler is…",
+      "options": [
+        "first-grader",
+        "a first-class passenger"
+      ],
+      "answer": "first-grader",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Einschulen means to enrol a child in the first year of school, mostly passive: eingeschult werden. Die Einschulung is a big family event in Germany: children get a Schultüte (a large cone full of sweets and school supplies), and there's a ceremony and often a party. Most children start at six. Regular: schulte ein, eingeschult."
+}

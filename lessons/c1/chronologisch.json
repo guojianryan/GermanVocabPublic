@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "chronologisch",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "kro-no-LOH-gish",
+      "ipa": "kʁonoˈloːɡɪʃ",
+      "notes": ""
+    },
+    "meaning": "chronological",
+    "shortDefinition": "Chronological."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die Fotos sind chronologisch sortiert.",
+      "english": "The photos are sorted chronologically.",
+      "highlight": [
+        "chronologisch"
+      ]
+    },
+    {
+      "german": "Bitte erzählen Sie die Ereignisse in chronologischer Reihenfolge.",
+      "english": "Please describe the events in chronological order.",
+      "highlight": [
+        "chronologischer"
+      ]
+    }
+  ],
+  "forms": [
+    "chronologische",
+    "chronologischen",
+    "chronologischer",
+    "Chronologie"
+  ],
+  "memoryHook": "Chronologisch: in order of chronos (time).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does chronologisch mean?",
+      "options": [
+        "chronological",
+        "slowly",
+        "the flower"
+      ],
+      "answer": "chronological",
+      "explanation": "chronologisch: chronological.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Chronologie is…",
+      "options": [
+        "chronology",
+        "chronic illness"
+      ],
+      "answer": "chronology",
+      "explanation": "Noun.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "A German CV (Lebenslauf) is usually…",
+      "options": [
+        "reverse chronological (newest first)",
+        "alphabetical"
+      ],
+      "answer": "reverse chronological (newest first)",
+      "explanation": "CV.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Chronisch means…",
+      "options": [
+        "chronic",
+        "chronological"
+      ],
+      "answer": "chronic",
+      "explanation": "Contrast.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "in ___ Reihenfolge (chronological)",
+      "answer": "chronologischer",
+      "fullAnswer": "in chronologischer Reihenfolge",
+      "explanation": "Dative -er.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Chronologisch means chronological: in chronologischer Reihenfolge, chronologisch sortiert. Today's German Lebenslauf is usually umgekehrt chronologisch (reverse chronological), with the most recent job first. Die Chronologie is chronology, and die Chronik is a chronicle. Don't mix it up with chronisch (chronic), as in eine chronische Krankheit. From Greek chronos (time)."
+}

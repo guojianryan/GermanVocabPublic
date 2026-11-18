@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ansässig",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "AN-ze-sikh",
+      "ipa": "ˈanˌzɛsɪç",
+      "notes": ""
+    },
+    "meaning": "resident, based",
+    "shortDefinition": "Resident, based."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die Firma ist in München ansässig.",
+      "english": "The company is based in Munich.",
+      "highlight": [
+        "ansässig."
+      ]
+    },
+    {
+      "german": "Ansässige Händler protestieren gegen die Baustelle.",
+      "english": "Local traders are protesting against the building site.",
+      "highlight": [
+        "Ansässige"
+      ]
+    }
+  ],
+  "forms": [
+    "ansässige",
+    "ansässigen",
+    "ansässiges"
+  ],
+  "memoryHook": "Ansässig: sitting (sitzen) at (an) a place for good.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does ansässig mean?",
+      "options": [
+        "resident",
+        "always",
+        "the window"
+      ],
+      "answer": "resident",
+      "explanation": "ansässig: resident, based.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Berlin ansässig means…",
+      "options": [
+        "based/resident in Berlin",
+        "sitting in Berlin"
+      ],
+      "answer": "based/resident in Berlin",
+      "explanation": "Based.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sesshaft means…",
+      "options": [
+        "settled, sedentary",
+        "seated"
+      ],
+      "answer": "settled, sedentary",
+      "explanation": "Related.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal",
+        "slang"
+      ],
+      "answer": "formal",
+      "explanation": "Formal.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein in Wien ___ Unternehmen (based)",
+      "answer": "ansässiges",
+      "fullAnswer": "ein in Wien ansässiges Unternehmen",
+      "explanation": "Neuter -es.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Ansässig means resident or based, formal: in Hamburg ansässig, die ansässige Bevölkerung (local population), ortsansässige Firmen (local businesses). Companies are often described as mit Sitz in or ansässig in a city. Sesshaft means settled: sesshaft werden (to settle down). Both come from sitzen. Everyday: Die Firma sitzt in Köln."
+}

@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "fernhalten",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "FERN-hal-ten",
+      "ipa": "ˈfɛʁnˌhaltn̩",
+      "notes": ""
+    },
+    "meaning": "to keep away",
+    "shortDefinition": "To keep away."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "halt|e … |fern"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "häl|tst … |fern"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "häl|t … |fern"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "halt|en … |fern"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "halt|et … |fern"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "halt|en … |fern"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat ferngehalten"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Halte dich von ihm fern!",
+      "english": "Keep away from him!",
+      "highlight": [
+        "Halte",
+        "fern!"
+      ]
+    },
+    {
+      "german": "Das Netz hält Insekten fern.",
+      "english": "The net keeps insects out.",
+      "highlight": [
+        "hält",
+        "fern."
+      ]
+    }
+  ],
+  "forms": [
+    "halte fern",
+    "hältst fern",
+    "hält fern",
+    "halten fern",
+    "haltet fern",
+    "ferngehalten",
+    "hielt fern"
+  ],
+  "memoryHook": "Fernhalten: halten (keep) something fern (far).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … fern (fernhalten)",
+      "answer": "hält",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: hält … fern.",
+      "acceptedAnswers": [
+        "haelt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (fernhalten, past)",
+      "answer": "ferngehalten",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe ferngehalten.",
+      "acceptedAnswers": [
+        "ferngehalten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does fernhalten mean?",
+      "options": [
+        "to travel",
+        "to keep away",
+        "the window"
+      ],
+      "answer": "to keep away",
+      "explanation": "fernhalten: to keep away.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich fernhalten von means…",
+      "options": [
+        "to keep away from",
+        "to hold far"
+      ],
+      "answer": "to keep away from",
+      "explanation": "Keep away.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "hielt fern, ferngehalten",
+        "haltete fern"
+      ],
+      "answer": "hielt fern, ferngehalten",
+      "explanation": "Irregular.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fern means…",
+      "options": [
+        "far, distant",
+        "fern plant only"
+      ],
+      "answer": "far, distant",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Fernhalten means to keep away: Kinder von Medikamenten fernhalten, sich von Ärger fernhalten. Medicine packages carry the warning Für Kinder unzugänglich aufbewahren. Fern means far, as in das Fernsehen (television, far seeing) and die Ferne (distance). Separable and irregular like halten: hält fern, hielt fern, ferngehalten."
+}

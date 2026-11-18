@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Attentat",
+    "partOfSpeech": "noun, neuter (das Attentat)",
+    "pronunciation": {
+      "respelling": "a-ten-TAAT",
+      "ipa": "atn̩ˈtaːt",
+      "notes": "Plural: die Attentate."
+    },
+    "meaning": "assassination attempt; (terrorist) attack",
+    "shortDefinition": "Assassination attempt; (terrorist) attack."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Attentat, plural die Attentate.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Attentat"
+        },
+        {
+          "label": "More than one",
+          "value": "die Attentate"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Attentat auf Hitler scheiterte.",
+      "english": "The attempt on Hitler's life failed.",
+      "highlight": [
+        "Attentat"
+      ]
+    },
+    {
+      "german": "Bei dem Attentat wurden viele Menschen verletzt.",
+      "english": "Many people were injured in the attack.",
+      "highlight": [
+        "Attentat"
+      ]
+    }
+  ],
+  "forms": [
+    "Attentate",
+    "die Attentate",
+    "das Attentat",
+    "Attentäter"
+  ],
+  "memoryHook": "Attentat: an attempt (French attentat) on someone's life.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Attentat",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Attentat is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Attentat, zwei ___",
+      "answer": "Attentate",
+      "fullAnswer": "ein Attentat, zwei Attentate",
+      "explanation": "The plural is Attentate.",
+      "acceptedAnswers": [
+        "Attentate"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Attentat mean?",
+      "options": [
+        "to sleep",
+        "the station",
+        "assassination attempt"
+      ],
+      "answer": "assassination attempt",
+      "explanation": "Attentat: assassination attempt; (terrorist) attack.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Attentäter is…",
+      "options": [
+        "the attacker, assassin",
+        "the victim"
+      ],
+      "answer": "the attacker, assassin",
+      "explanation": "Attacker.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The 20 July 1944 Attentat was led by…",
+      "options": [
+        "Claus von Stauffenberg",
+        "Rommel"
+      ],
+      "answer": "Claus von Stauffenberg",
+      "explanation": "Stauffenberg.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "das Attentat",
+        "der Attentat"
+      ],
+      "answer": "das Attentat",
+      "explanation": "Neuter.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Attentat is an assassination attempt or attack on a person: das Attentat auf John F. Kennedy, ein Attentat auf den Präsidenten. The most famous in German history is the 20 July 1944 Attentat on Hitler by Claus von Stauffenberg and others; it failed, and the conspirators were executed. Today the date is a day of remembrance for the resistance. Der Attentäter is the attacker. From French attentat (attempt). Plural: die Attentate."
+}

@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "involvieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "in-vol-VEE-ren",
+      "ipa": "ɪnvɔlˈviːʁən",
+      "notes": ""
+    },
+    "meaning": "to involve",
+    "shortDefinition": "To involve."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "involvier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "involvier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "involvier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "involvier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "involvier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "involvier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat involviert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In den Skandal waren mehrere Politiker involviert.",
+      "english": "Several politicians were involved in the scandal.",
+      "highlight": [
+        "involviert."
+      ]
+    },
+    {
+      "german": "Ich möchte nicht in den Streit involviert werden.",
+      "english": "I don't want to be involved in the argument.",
+      "highlight": [
+        "involviert"
+      ]
+    }
+  ],
+  "forms": [
+    "involviere",
+    "involvierst",
+    "involviert",
+    "involvieren"
+  ],
+  "memoryHook": "Involvieren: drawn into something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (involvieren)",
+      "answer": "involviert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: involviert.",
+      "acceptedAnswers": [
+        "involviert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (involvieren, past)",
+      "answer": "involviert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe involviert.",
+      "acceptedAnswers": [
+        "involviert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does involvieren mean?",
+      "options": [
+        "the street",
+        "the window",
+        "to involve"
+      ],
+      "answer": "to involve",
+      "explanation": "involvieren: to involve.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Involviert sein in means…",
+      "options": [
+        "to be involved in",
+        "to be revolved"
+      ],
+      "answer": "to be involved in",
+      "explanation": "Involved.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "More German alternatives:",
+      "options": [
+        "beteiligt sein, verwickelt sein",
+        "involvieren only"
+      ],
+      "answer": "beteiligt sein, verwickelt sein",
+      "explanation": "Synonyms.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "V in involvieren sounds like…",
+      "options": [
+        "v",
+        "f"
+      ],
+      "answer": "v",
+      "explanation": "Foreign word.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Involvieren means to involve and is mostly used in the passive participle: in etwas involviert sein (to be involved in something), often a scandal or crime. It's a Latin loanword and sounds somewhat formal or trendy; native German alternatives are beteiligt sein (to take part), verwickelt sein (to be entangled) and einbeziehen (to include). The v is pronounced like English v. Perfect without ge-: hat involviert."
+}

@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "vertragen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-TRAA-gen",
+      "ipa": "fɛɐ̯ˈtʁaːɡn̩",
+      "notes": ""
+    },
+    "meaning": "to tolerate, stand; (sich) to get on",
+    "shortDefinition": "To tolerate, stand; (sich) to get on."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "vertrag|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verträg|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verträg|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "vertrag|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "vertrag|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "vertrag|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat vertragen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich vertrage keine Milch.",
+      "english": "I can't tolerate milk.",
+      "highlight": [
+        "vertrage"
+      ]
+    },
+    {
+      "german": "Die Geschwister vertragen sich gut.",
+      "english": "The siblings get on well.",
+      "highlight": [
+        "vertragen"
+      ]
+    }
+  ],
+  "forms": [
+    "vertrage",
+    "verträgst",
+    "verträgt",
+    "vertragen",
+    "vertragt",
+    "vertrug",
+    "verträglich",
+    "Unverträglichkeit"
+  ],
+  "memoryHook": "Vertragen: what your stomach or your siblings must do.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (vertragen)",
+      "answer": "verträgt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verträgt.",
+      "acceptedAnswers": [
+        "vertraegt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (vertragen, past)",
+      "answer": "vertragen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe vertragen.",
+      "acceptedAnswers": [
+        "vertragen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does vertragen mean?",
+      "options": [
+        "expensive",
+        "the key",
+        "to tolerate"
+      ],
+      "answer": "to tolerate",
+      "explanation": "vertragen: to tolerate, stand; (sich) to get on.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich vertragen means…",
+      "options": [
+        "to get on, make up",
+        "to sign a contract"
+      ],
+      "answer": "to get on, make up",
+      "explanation": "Get on.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ich vertrage keine Kritik means…",
+      "options": [
+        "I can't take criticism",
+        "I don't sign criticism"
+      ],
+      "answer": "I can't take criticism",
+      "explanation": "Tolerate.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verträglich means…",
+      "options": [
+        "well tolerated; easy-going",
+        "contractual"
+      ],
+      "answer": "well tolerated; easy-going",
+      "explanation": "verträglich.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Vertragen means to tolerate or stand: Ich vertrage keinen Kaffee, Er verträgt keine Kritik, Die Pflanze verträgt keinen Frost. Sich vertragen means to get on or to make up after a fight: Vertragt euch wieder! (make up, you two!), said by every German parent. Die Unverträglichkeit is an intolerance: Laktoseunverträglichkeit. Verträglich means well tolerated. Irregular: verträgt, vertrug, vertragen."
+}

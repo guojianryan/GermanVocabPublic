@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kollaps",
+    "partOfSpeech": "noun, masculine (der Kollaps)",
+    "pronunciation": {
+      "respelling": "KO-laps",
+      "ipa": "ˈkɔlaps",
+      "notes": "Plural: die Kollapse."
+    },
+    "meaning": "collapse",
+    "shortDefinition": "Collapse."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kollaps, plural die Kollapse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kollaps"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kollapse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Patient erlitt einen Kollaps.",
+      "english": "The patient collapsed.",
+      "highlight": [
+        "Kollaps."
+      ]
+    },
+    {
+      "german": "Das Verkehrsnetz stand kurz vor dem Kollaps.",
+      "english": "The transport network was on the verge of collapse.",
+      "highlight": [
+        "Kollaps."
+      ]
+    }
+  ],
+  "forms": [
+    "Kollapse",
+    "der Kollaps"
+  ],
+  "memoryHook": "Kollaps: falling (labi) together (con).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kollaps",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kollaps is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kollaps, zwei ___",
+      "answer": "Kollapse",
+      "fullAnswer": "ein Kollaps, zwei Kollapse",
+      "explanation": "The plural is Kollapse.",
+      "acceptedAnswers": [
+        "Kollapse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kollaps mean?",
+      "options": [
+        "collapse",
+        "the job",
+        "quiet"
+      ],
+      "answer": "collapse",
+      "explanation": "Kollaps: collapse.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kollabieren means…",
+      "options": [
+        "to collapse",
+        "to collaborate"
+      ],
+      "answer": "to collapse",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Zusammenbruch is…",
+      "options": [
+        "collapse, breakdown",
+        "construction"
+      ],
+      "answer": "collapse, breakdown",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kreislaufkollaps means…",
+      "options": [
+        "circulatory collapse, fainting",
+        "traffic jam"
+      ],
+      "answer": "circulatory collapse, fainting",
+      "explanation": "Medical.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Kollaps is a collapse: a person's collapse (ein Kreislaufkollaps, fainting from circulatory failure) or a system's: der Kollaps des Gesundheitssystems, der Verkehrskollaps. Kollabieren means to collapse. A native synonym is der Zusammenbruch. Stressed on the first syllable. Plural: die Kollapse."
+}

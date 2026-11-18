@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sportwagen",
+    "partOfSpeech": "noun, masculine (der Sportwagen)",
+    "pronunciation": {
+      "respelling": "SHPORT-vaa-gen",
+      "ipa": "ˈʃpɔʁtˌvaːɡn̩",
+      "notes": "Plural: die Sportwagen."
+    },
+    "meaning": "sports car",
+    "shortDefinition": "Sports car."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Sportwagen, plural die Sportwagen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Sportwagen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Sportwagen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er fährt einen roten Sportwagen.",
+      "english": "He drives a red sports car.",
+      "highlight": [
+        "Sportwagen."
+      ]
+    },
+    {
+      "german": "Der Porsche 911 ist ein klassischer Sportwagen.",
+      "english": "The Porsche 911 is a classic sports car.",
+      "highlight": [
+        "Sportwagen."
+      ]
+    }
+  ],
+  "forms": [
+    "die Sportwagen",
+    "der Sportwagen"
+  ],
+  "memoryHook": "Sportwagen: a Wagen built for speed, or a pushchair.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sportwagen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Sportwagen is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Sportwagen, zwei ___",
+      "answer": "Sportwagen",
+      "fullAnswer": "ein Sportwagen, zwei Sportwagen",
+      "explanation": "The plural is Sportwagen.",
+      "acceptedAnswers": [
+        "Sportwagen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sportwagen mean?",
+      "options": [
+        "sports car",
+        "the bill",
+        "to sing"
+      ],
+      "answer": "sports car",
+      "explanation": "Sportwagen: sports car.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Sportwagen is also…",
+      "options": [
+        "a pushchair, stroller (sitting)",
+        "a sports bag"
+      ],
+      "answer": "a pushchair, stroller (sitting)",
+      "explanation": "Stroller.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Porsche 911 has been built since…",
+      "options": [
+        "1963/64",
+        "1990"
+      ],
+      "answer": "1963/64",
+      "explanation": "911.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Sportwagen",
+        "die Sportwägen (standard)"
+      ],
+      "answer": "die Sportwagen",
+      "explanation": "Standard.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Sportwagen is a sports car: Porsche (based in Stuttgart, the 911 built since 1963/64), Mercedes-AMG and BMW M are famous German makes. Germany's motorways are known for sections without a general speed limit, though a recommended 130 km/h applies. Confusingly, der Sportwagen is also a pushchair for toddlers who sit up, unlike der Kinderwagen (pram). Plural: die Sportwagen (southern: Sportwägen)."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Heimatstadt",
+    "partOfSpeech": "noun, feminine (die Heimatstadt)",
+    "pronunciation": {
+      "respelling": "HAI-maat-shtat",
+      "ipa": "ˈhaɪ̯maːtˌʃtat",
+      "notes": "Plural: die Heimatstädte."
+    },
+    "meaning": "home town",
+    "shortDefinition": "Home town."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Heimatstadt, plural die Heimatstädte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Heimatstadt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Heimatstädte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er kehrte in seine Heimatstadt zurück.",
+      "english": "He returned to his home town.",
+      "highlight": [
+        "Heimatstadt"
+      ]
+    },
+    {
+      "german": "Meine Heimatstadt liegt am Rhein.",
+      "english": "My home town is on the Rhine.",
+      "highlight": [
+        "Heimatstadt"
+      ]
+    }
+  ],
+  "forms": [
+    "Heimatstädte",
+    "die Heimatstädte",
+    "die Heimatstadt"
+  ],
+  "memoryHook": "Heimatstadt: the Stadt where your Heimat is.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Heimatstadt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Heimatstadt is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Heimatstadt, zwei ___",
+      "answer": "Heimatstädte",
+      "fullAnswer": "ein Heimatstadt, zwei Heimatstädte",
+      "explanation": "The plural is Heimatstädte.",
+      "acceptedAnswers": [
+        "Heimatstaedte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Heimatstadt mean?",
+      "options": [
+        "home town",
+        "the family",
+        "to sleep"
+      ],
+      "answer": "home town",
+      "explanation": "Heimatstadt: home town.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Heimat means…",
+      "options": [
+        "home, homeland (emotional)",
+        "household"
+      ],
+      "answer": "home, homeland (emotional)",
+      "explanation": "Heimat.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Heimat is often called…",
+      "options": [
+        "hard to translate",
+        "a loanword"
+      ],
+      "answer": "hard to translate",
+      "explanation": "Rich meaning.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Heimatstädte",
+        "die Heimatstadten"
+      ],
+      "answer": "die Heimatstädte",
+      "explanation": "Umlaut.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Heimatstadt is your home town, where you grew up or feel you belong. Die Heimat is a famously hard-to-translate word: it means home and homeland, but with strong feelings of belonging, landscape and childhood. Since 2018, Germany's interior ministry has been officially called Bundesministerium des Innern und für Heimat. For a village, Germans say Heimatdorf. Plural: die Heimatstädte."
+}

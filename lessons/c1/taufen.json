@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "taufen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "TAU-fen",
+      "ipa": "ˈtaʊ̯fn̩",
+      "notes": ""
+    },
+    "meaning": "to baptise, christen; to name",
+    "shortDefinition": "To baptise, christen; to name."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "tauf|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "tauf|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "tauf|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "tauf|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "tauf|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "tauf|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat getauft"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Baby wird am Sonntag getauft.",
+      "english": "The baby is being baptised on Sunday.",
+      "highlight": [
+        "getauft."
+      ]
+    },
+    {
+      "german": "Sie tauften das Schiff auf den Namen Hoffnung.",
+      "english": "They christened the ship Hoffnung.",
+      "highlight": [
+        "tauften"
+      ]
+    }
+  ],
+  "forms": [
+    "taufe",
+    "taufst",
+    "tauft",
+    "taufen",
+    "getauft",
+    "Taufe",
+    "Taufpate"
+  ],
+  "memoryHook": "Taufen: dip (tief) in water and give a name.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (taufen)",
+      "answer": "tauft",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: tauft.",
+      "acceptedAnswers": [
+        "tauft"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (taufen, past)",
+      "answer": "getauft",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe getauft.",
+      "acceptedAnswers": [
+        "getauft"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does taufen mean?",
+      "options": [
+        "the bill",
+        "to baptise",
+        "to sing"
+      ],
+      "answer": "to baptise",
+      "explanation": "taufen: to baptise, christen; to name.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Taufe is…",
+      "options": [
+        "baptism, christening",
+        "a deep"
+      ],
+      "answer": "baptism, christening",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Taufpate is…",
+      "options": [
+        "the godfather",
+        "the priest"
+      ],
+      "answer": "the godfather",
+      "explanation": "Godparent.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Auf den Namen ... taufen means…",
+      "options": [
+        "to name",
+        "to rename only"
+      ],
+      "answer": "to name",
+      "explanation": "Christen.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Taufen means to baptise or christen: Das Kind wurde evangelisch getauft. It's also used for naming ships and things: ein Schiff taufen, auf den Namen Anna taufen. Die Taufe is baptism, der Taufpate or die Patentante a godparent, and die Taufkirche the baptismal church. Getauft also turns up humorously: Er wurde auf den Spitznamen Bär getauft. The word is related to tief (deep), from the dipping into water."
+}

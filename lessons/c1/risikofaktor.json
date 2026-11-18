@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Risikofaktor",
+    "partOfSpeech": "noun, masculine (der Risikofaktor)",
+    "pronunciation": {
+      "respelling": "REE-zi-ko-fak-tohr",
+      "ipa": "ˈʁiːzikoˌfaktoːɐ̯",
+      "notes": "Plural: die Risikofaktoren."
+    },
+    "meaning": "risk factor",
+    "shortDefinition": "Risk factor."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Risikofaktor, plural die Risikofaktoren.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Risikofaktor"
+        },
+        {
+          "label": "More than one",
+          "value": "die Risikofaktoren"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Rauchen ist ein wichtiger Risikofaktor für Herzkrankheiten.",
+      "english": "Smoking is a major risk factor for heart disease.",
+      "highlight": [
+        "Risikofaktor"
+      ]
+    },
+    {
+      "german": "Übergewicht gilt als Risikofaktor.",
+      "english": "Being overweight is considered a risk factor.",
+      "highlight": [
+        "Risikofaktor."
+      ]
+    }
+  ],
+  "forms": [
+    "Risikofaktoren",
+    "der Risikofaktor"
+  ],
+  "memoryHook": "Risikofaktor: a Faktor that raises the Risiko.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Risikofaktor",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Risikofaktor is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Risikofaktor, zwei ___",
+      "answer": "Risikofaktoren",
+      "fullAnswer": "ein Risikofaktor, zwei Risikofaktoren",
+      "explanation": "The plural is Risikofaktoren.",
+      "acceptedAnswers": [
+        "Risikofaktoren"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Risikofaktor mean?",
+      "options": [
+        "to help",
+        "risk factor",
+        "cheap"
+      ],
+      "answer": "risk factor",
+      "explanation": "Risikofaktor: risk factor.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Risikofaktoren",
+        "die Risikofaktors"
+      ],
+      "answer": "die Risikofaktoren",
+      "explanation": "Plural.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Risikogruppe is…",
+      "options": [
+        "at-risk group",
+        "a betting club"
+      ],
+      "answer": "at-risk group",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress in the plural Faktoren falls on…",
+      "options": [
+        "-to- (FakTOren)",
+        "Fak-"
+      ],
+      "answer": "-to- (FakTOren)",
+      "explanation": "Stress.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Risikofaktor is a risk factor: Bluthochdruck, Rauchen und Bewegungsmangel sind Risikofaktoren. It's also used outside medicine: ein Risikofaktor für die Konjunktur. People especially at risk form a Risikogruppe. Note the plural Risikofaktoren with the stress moving to -to-, like der Doktor, die Doktoren."
+}

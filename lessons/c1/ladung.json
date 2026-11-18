@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ladung",
+    "partOfSpeech": "noun, feminine (die Ladung)",
+    "pronunciation": {
+      "respelling": "LAA-dung",
+      "ipa": "ˈlaːdʊŋ",
+      "notes": "Plural: die Ladungen."
+    },
+    "meaning": "load, cargo; charge (electric)",
+    "shortDefinition": "Load, cargo; charge (electric)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Ladung, plural die Ladungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Ladung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ladungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der LKW verlor seine Ladung.",
+      "english": "The lorry lost its load.",
+      "highlight": [
+        "Ladung."
+      ]
+    },
+    {
+      "german": "Die Ladung des Akkus reicht für zehn Stunden.",
+      "english": "The battery charge lasts ten hours.",
+      "highlight": [
+        "Ladung"
+      ]
+    }
+  ],
+  "forms": [
+    "Ladungen",
+    "die Ladungen",
+    "die Ladung",
+    "laden"
+  ],
+  "memoryHook": "Ladung: whatever is geladen.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ladung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Ladung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Ladung, zwei ___",
+      "answer": "Ladungen",
+      "fullAnswer": "ein Ladung, zwei Ladungen",
+      "explanation": "The plural is Ladungen.",
+      "acceptedAnswers": [
+        "Ladungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ladung mean?",
+      "options": [
+        "load",
+        "to help",
+        "slowly"
+      ],
+      "answer": "load",
+      "explanation": "Ladung: load, cargo; charge (electric).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Laden means…",
+      "options": [
+        "to load; to charge",
+        "to shop"
+      ],
+      "answer": "to load; to charge",
+      "explanation": "laden.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Vorladung is…",
+      "options": [
+        "a summons (court)",
+        "a preview"
+      ],
+      "answer": "a summons (court)",
+      "explanation": "Summons.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Ladung Wäsche means…",
+      "options": [
+        "a load of laundry",
+        "a laundry shop"
+      ],
+      "answer": "a load of laundry",
+      "explanation": "Load.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Ladung is a load or cargo: die Ladung sichern (secure the load). In physics, it's an electric charge: positive und negative Ladung. In law, eine Ladung or Vorladung is a summons to appear in court. Casually, eine Ladung means a whole lot: eine Ladung Kritik. From laden (to load, charge, also to invite formally). Das Ladegerät is a charger."
+}

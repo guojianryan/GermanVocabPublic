@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Tresor",
+    "partOfSpeech": "noun, masculine (der Tresor)",
+    "pronunciation": {
+      "respelling": "tre-ZOHR",
+      "ipa": "tʁeˈzoːɐ̯",
+      "notes": "Plural: die Tresore."
+    },
+    "meaning": "safe, vault",
+    "shortDefinition": "Safe, vault."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Tresor, plural die Tresore.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Tresor"
+        },
+        {
+          "label": "More than one",
+          "value": "die Tresore"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Schmuck liegt im Tresor.",
+      "english": "The jewellery is in the safe.",
+      "highlight": [
+        "Tresor."
+      ]
+    },
+    {
+      "german": "Die Diebe knackten den Tresor.",
+      "english": "The thieves cracked the safe.",
+      "highlight": [
+        "Tresor."
+      ]
+    }
+  ],
+  "forms": [
+    "Tresore",
+    "die Tresore",
+    "der Tresor"
+  ],
+  "memoryHook": "Tresor: a treasure (French trésor) box.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Tresor",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Tresor is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Tresor, zwei ___",
+      "answer": "Tresore",
+      "fullAnswer": "ein Tresor, zwei Tresore",
+      "explanation": "The plural is Tresore.",
+      "acceptedAnswers": [
+        "Tresore"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Tresor mean?",
+      "options": [
+        "to sing",
+        "the key",
+        "safe"
+      ],
+      "answer": "safe",
+      "explanation": "Tresor: safe, vault.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einen Tresor knacken means…",
+      "options": [
+        "to crack a safe",
+        "to build a safe"
+      ],
+      "answer": "to crack a safe",
+      "explanation": "Crack.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Safe",
+        "der Schrank"
+      ],
+      "answer": "der Safe",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Tresor in Berlin is also…",
+      "options": [
+        "a famous techno club",
+        "a bank"
+      ],
+      "answer": "a famous techno club",
+      "explanation": "Club.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Tresor is a safe or vault: Geld im Tresor aufbewahren, einen Tresor knacken. Synonym: der Safe; in banks, das Schließfach is a safe-deposit box. Tresor is also the name of Berlin's legendary techno club, opened in 1991 in the vault of a former department store near Potsdamer Platz. From French trésor (treasure). Plural: die Tresore."
+}

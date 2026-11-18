@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "einreisen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AIN-rai-zen",
+      "ipa": "ˈaɪ̯nˌʁaɪ̯zn̩",
+      "notes": ""
+    },
+    "meaning": "to enter (a country)",
+    "shortDefinition": "To enter (a country)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "reis|e … |ein"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "reis|t … |ein"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "reis|t … |ein"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "reis|en … |ein"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "reis|t … |ein"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "reis|en … |ein"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist eingereist"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er ist mit einem Touristenvisum eingereist.",
+      "english": "He entered on a tourist visa.",
+      "highlight": [
+        "eingereist."
+      ]
+    },
+    {
+      "german": "Zur Einreise braucht man einen gültigen Pass.",
+      "english": "You need a valid passport for entry.",
+      "highlight": [
+        "Einreise"
+      ]
+    }
+  ],
+  "forms": [
+    "reise ein",
+    "reist ein",
+    "reisen ein",
+    "eingereist",
+    "reiste ein",
+    "Einreise"
+  ],
+  "memoryHook": "Einreisen: travel (reisen) into (ein) a country.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ein (einreisen)",
+      "answer": "reist",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: reist … ein.",
+      "acceptedAnswers": [
+        "reist"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (einreisen, past)",
+      "answer": "eingereist",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin eingereist.",
+      "acceptedAnswers": [
+        "eingereist"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does einreisen mean?",
+      "options": [
+        "quiet",
+        "to enter (a country)",
+        "the bread"
+      ],
+      "answer": "to enter (a country)",
+      "explanation": "einreisen: to enter (a country).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Einreise is…",
+      "options": [
+        "entry (into a country)",
+        "a trip"
+      ],
+      "answer": "entry (into a country)",
+      "explanation": "Entry.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite:",
+      "options": [
+        "ausreisen",
+        "abreisen"
+      ],
+      "answer": "ausreisen",
+      "explanation": "Leave a country.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Einreiseverbot is…",
+      "options": [
+        "an entry ban",
+        "a travel warning"
+      ],
+      "answer": "an entry ban",
+      "explanation": "Ban.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Einreisen means to enter a country: nach Deutschland einreisen, illegal eingereist. Die Einreise is entry, as in Einreisebestimmungen (entry requirements) and das Einreiseverbot (entry ban). The opposite is ausreisen and die Ausreise. In the GDR, leaving the country required an Ausreiseantrag, often refused. Separable, with sein: ist eingereist."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Teilung",
+    "partOfSpeech": "noun, feminine (die Teilung)",
+    "pronunciation": {
+      "respelling": "TAI-lung",
+      "ipa": "ˈtaɪ̯lʊŋ",
+      "notes": "Plural: die Teilungen."
+    },
+    "meaning": "division, partition",
+    "shortDefinition": "Division, partition."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Teilung, plural die Teilungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Teilung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Teilungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Teilung Deutschlands endete 1990.",
+      "english": "The division of Germany ended in 1990.",
+      "highlight": [
+        "Teilung"
+      ]
+    },
+    {
+      "german": "Die Teilung der Zelle dauert einige Stunden.",
+      "english": "Cell division takes a few hours.",
+      "highlight": [
+        "Teilung"
+      ]
+    }
+  ],
+  "forms": [
+    "Teilungen",
+    "die Teilungen",
+    "die Teilung",
+    "teilen"
+  ],
+  "memoryHook": "Teilung: splitting into Teile (parts).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Teilung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Teilung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Teilung, zwei ___",
+      "answer": "Teilungen",
+      "fullAnswer": "ein Teilung, zwei Teilungen",
+      "explanation": "The plural is Teilungen.",
+      "acceptedAnswers": [
+        "Teilungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Teilung mean?",
+      "options": [
+        "never",
+        "division",
+        "to sleep"
+      ],
+      "answer": "division",
+      "explanation": "Teilung: division, partition.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die deutsche Teilung lasted from…",
+      "options": [
+        "1949 to 1990",
+        "1961 to 1989 only"
+      ],
+      "answer": "1949 to 1990",
+      "explanation": "Two states.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Teilen means…",
+      "options": [
+        "to divide; to share",
+        "to tell"
+      ],
+      "answer": "to divide; to share",
+      "explanation": "teilen.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gewaltenteilung is…",
+      "options": [
+        "separation of powers",
+        "civil war"
+      ],
+      "answer": "separation of powers",
+      "explanation": "Constitutional principle.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Teilung is division or partition: die Teilung Deutschlands (1949–1990), the division into the Federal Republic and the GDR, made concrete by the Berlin Wall from 1961 to 1989. Die Zellteilung is cell division, and die Gewaltenteilung is the separation of powers. Teilen means to divide and to share: Teilen ist Liebe, or on social media: Bitte teilen! (please share). Plural: die Teilungen."
+}

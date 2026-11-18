@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gehirnerschütterung",
+    "partOfSpeech": "noun, feminine (die Gehirnerschütterung)",
+    "pronunciation": {
+      "respelling": "ge-HIRN-er-shü-te-rung",
+      "ipa": "ɡəˈhɪʁnʔɛɐ̯ˌʃʏtəʁʊŋ",
+      "notes": "Plural: die Gehirnerschütterungen."
+    },
+    "meaning": "concussion",
+    "shortDefinition": "Concussion."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Gehirnerschütterung, plural die Gehirnerschütterungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Gehirnerschütterung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gehirnerschütterungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nach dem Sturz hatte sie eine Gehirnerschütterung.",
+      "english": "After the fall she had a concussion.",
+      "highlight": [
+        "Gehirnerschütterung."
+      ]
+    },
+    {
+      "german": "Mit einer Gehirnerschütterung sollte man sich schonen.",
+      "english": "With a concussion you should take it easy.",
+      "highlight": [
+        "Gehirnerschütterung"
+      ]
+    }
+  ],
+  "forms": [
+    "Gehirnerschütterungen",
+    "die Gehirnerschütterung"
+  ],
+  "memoryHook": "Gehirnerschütterung: an Erschütterung (shaking) of the Gehirn.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gehirnerschütterung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Gehirnerschütterung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gehirnerschütterung, zwei ___",
+      "answer": "Gehirnerschütterungen",
+      "fullAnswer": "ein Gehirnerschütterung, zwei Gehirnerschütterungen",
+      "explanation": "The plural is Gehirnerschütterungen.",
+      "acceptedAnswers": [
+        "Gehirnerschuetterungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gehirnerschütterung mean?",
+      "options": [
+        "the station",
+        "concussion",
+        "to wait"
+      ],
+      "answer": "concussion",
+      "explanation": "Gehirnerschütterung: concussion.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gehirn is…",
+      "options": [
+        "brain",
+        "horn"
+      ],
+      "answer": "brain",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Erschütterung is…",
+      "options": [
+        "shock, vibration",
+        "shooting"
+      ],
+      "answer": "shock, vibration",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Typical symptoms:",
+      "options": [
+        "Kopfschmerzen, Übelkeit, Schwindel",
+        "Fieber, Husten"
+      ],
+      "answer": "Kopfschmerzen, Übelkeit, Schwindel",
+      "explanation": "Symptoms.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Gehirnerschütterung is a concussion, with symptoms such as Kopfschmerzen, Übelkeit (nausea) and Schwindel (dizziness). In the 2014 World Cup final, German player Christoph Kramer played on with a concussion and later couldn't remember the match; he had asked the referee whether this was really the final. Sports federations have since tightened concussion rules. Plural: die Gehirnerschütterungen."
+}

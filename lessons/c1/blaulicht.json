@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Blaulicht",
+    "partOfSpeech": "noun, neuter (das Blaulicht)",
+    "pronunciation": {
+      "respelling": "BLAU-likht",
+      "ipa": "ˈblaʊ̯ˌlɪçt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "blue (flashing) light",
+    "shortDefinition": "Blue (flashing) light."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Blaulicht, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Blaulicht"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ein Krankenwagen fuhr mit Blaulicht vorbei.",
+      "english": "An ambulance drove past with its blue lights flashing.",
+      "highlight": [
+        "Blaulicht"
+      ]
+    },
+    {
+      "german": "Die Polizei kam mit Blaulicht und Martinshorn.",
+      "english": "The police came with blue lights and siren.",
+      "highlight": [
+        "Blaulicht"
+      ]
+    }
+  ],
+  "forms": [
+    "das Blaulicht"
+  ],
+  "memoryHook": "Blaulicht: the blue (blau) Licht of emergency vehicles.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Blaulicht",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Blaulicht is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Blaulicht mean?",
+      "options": [
+        "cheap",
+        "to wait",
+        "blue (flashing) light"
+      ],
+      "answer": "blue (flashing) light",
+      "explanation": "Blaulicht: blue (flashing) light.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Martinshorn is…",
+      "options": [
+        "the siren (emergency vehicles)",
+        "a church bell"
+      ],
+      "answer": "the siren (emergency vehicles)",
+      "explanation": "Siren.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Rettungsgasse is…",
+      "options": [
+        "an emergency corridor drivers must form",
+        "an ambulance station"
+      ],
+      "answer": "an emergency corridor drivers must form",
+      "explanation": "Corridor.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Blaulichtorganisationen are…",
+      "options": [
+        "emergency services",
+        "lighting firms"
+      ],
+      "answer": "emergency services",
+      "explanation": "Services.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Blaulicht is the blue flashing light of emergency vehicles, usually with das Martinshorn (siren): mit Blaulicht fahren. On German motorways, drivers must form a Rettungsgasse (emergency corridor) as soon as traffic slows, between the left lane and the others; failing to do so brings fines. Police, fire brigades and ambulances are called Blaulichtorganisationen. It has no plural."
+}

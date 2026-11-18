@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Symmetrie",
+    "partOfSpeech": "noun, feminine (die Symmetrie)",
+    "pronunciation": {
+      "respelling": "zü-me-TREE",
+      "ipa": "zʏmeˈtʁiː",
+      "notes": "Plural: die Symmetrien."
+    },
+    "meaning": "symmetry",
+    "shortDefinition": "Symmetry."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Symmetrie, plural die Symmetrien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Symmetrie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Symmetrien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Schloss besticht durch seine Symmetrie.",
+      "english": "The palace impresses with its symmetry.",
+      "highlight": [
+        "Symmetrie."
+      ]
+    },
+    {
+      "german": "Viele Tiere zeigen eine Spiegelsymmetrie.",
+      "english": "Many animals show mirror symmetry.",
+      "highlight": [
+        "Spiegelsymmetrie."
+      ]
+    }
+  ],
+  "forms": [
+    "Symmetrien",
+    "die Symmetrie"
+  ],
+  "memoryHook": "Symmetrie: measure (metron) together (syn).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Symmetrie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Symmetrie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Symmetrie, zwei ___",
+      "answer": "Symmetrien",
+      "fullAnswer": "ein Symmetrie, zwei Symmetrien",
+      "explanation": "The plural is Symmetrien.",
+      "acceptedAnswers": [
+        "Symmetrien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Symmetrie mean?",
+      "options": [
+        "symmetry",
+        "the key",
+        "the street"
+      ],
+      "answer": "symmetry",
+      "explanation": "Symmetrie: symmetry.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Symmetrisch means…",
+      "options": [
+        "symmetrical",
+        "synthetic"
+      ],
+      "answer": "symmetrical",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Asymmetrie is…",
+      "options": [
+        "asymmetry",
+        "an asylum"
+      ],
+      "answer": "asymmetry",
+      "explanation": "Opposite.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress:",
+      "options": [
+        "SymmeTRIE",
+        "SYMmetrie"
+      ],
+      "answer": "SymmeTRIE",
+      "explanation": "Stress.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Symmetrie is symmetry: die Symmetrie eines Gesichts, einer Fassade, Achsensymmetrie (axial symmetry) in maths. Baroque palaces like Würzburg's Residenz are built on strict symmetry. Symmetrisch means symmetrical; asymmetrisch and die Asymmetrie are the opposites, also used for unequal power: asymmetrische Kriegsführung. Stress on the last syllable. Plural: die Symmetrien."
+}

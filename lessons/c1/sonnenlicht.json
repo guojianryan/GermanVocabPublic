@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sonnenlicht",
+    "partOfSpeech": "noun, neuter (das Sonnenlicht)",
+    "pronunciation": {
+      "respelling": "ZO-nen-likht",
+      "ipa": "ˈzɔnənˌlɪçt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "sunlight",
+    "shortDefinition": "Sunlight."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Sonnenlicht, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Sonnenlicht"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Pflanze braucht viel Sonnenlicht.",
+      "english": "The plant needs a lot of sunlight.",
+      "highlight": [
+        "Sonnenlicht."
+      ]
+    },
+    {
+      "german": "Vor direktem Sonnenlicht schützen.",
+      "english": "Protect from direct sunlight.",
+      "highlight": [
+        "Sonnenlicht"
+      ]
+    }
+  ],
+  "forms": [
+    "das Sonnenlicht"
+  ],
+  "memoryHook": "Sonnenlicht: the Licht of the Sonne.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sonnenlicht",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Sonnenlicht is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sonnenlicht mean?",
+      "options": [
+        "the station",
+        "the bill",
+        "sunlight"
+      ],
+      "answer": "sunlight",
+      "explanation": "Sonnenlicht: sunlight.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vor Sonnenlicht schützen on a package means…",
+      "options": [
+        "keep out of direct sunlight",
+        "use in sunlight"
+      ],
+      "answer": "keep out of direct sunlight",
+      "explanation": "Label.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Sonnenschein is…",
+      "options": [
+        "sunshine",
+        "sun certificate"
+      ],
+      "answer": "sunshine",
+      "explanation": "Sunshine.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Lichtschutzfaktor (LSF) means…",
+      "options": [
+        "sun protection factor (SPF)",
+        "light speed"
+      ],
+      "answer": "sun protection factor (SPF)",
+      "explanation": "SPF.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Sonnenlicht is sunlight: direktes Sonnenlicht, vor Sonnenlicht schützen (keep out of direct sunlight). Germany gets around 1,600 to 2,000 hours of sunshine a year, so many Germans take vitamin D in winter. Sunscreen shows a Lichtschutzfaktor (LSF, SPF). Der Sonnenschein is sunshine, and also a term of endearment: Na, mein Sonnenschein? It has no plural."
+}

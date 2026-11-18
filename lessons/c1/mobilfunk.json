@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mobilfunk",
+    "partOfSpeech": "noun, masculine (der Mobilfunk)",
+    "pronunciation": {
+      "respelling": "mo-BEEL-funk",
+      "ipa": "moˈbiːlˌfʊŋk",
+      "notes": "Usually no plural."
+    },
+    "meaning": "mobile telephony, mobile network",
+    "shortDefinition": "Mobile telephony, mobile network."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Mobilfunk, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Mobilfunk"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im ländlichen Raum ist der Mobilfunk oft schlecht.",
+      "english": "In rural areas, mobile reception is often poor.",
+      "highlight": [
+        "Mobilfunk"
+      ]
+    },
+    {
+      "german": "Die Mobilfunkanbieter bauen das 5G-Netz aus.",
+      "english": "The mobile providers are expanding the 5G network.",
+      "highlight": [
+        "Mobilfunkanbieter"
+      ]
+    }
+  ],
+  "forms": [
+    "der Mobilfunk",
+    "Mobilfunkanbieter",
+    "Mobilfunknetz"
+  ],
+  "memoryHook": "Mobilfunk: mobile (mobil) radio (Funk).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mobilfunk",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Mobilfunk is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mobilfunk mean?",
+      "options": [
+        "to travel",
+        "quiet",
+        "mobile telephony"
+      ],
+      "answer": "mobile telephony",
+      "explanation": "Mobilfunk: mobile telephony, mobile network.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Funkloch is…",
+      "options": [
+        "a dead zone (no signal)",
+        "a radio station"
+      ],
+      "answer": "a dead zone (no signal)",
+      "explanation": "Dead zone.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Funk is…",
+      "options": [
+        "radio (transmission)",
+        "funk music only"
+      ],
+      "answer": "radio (transmission)",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A mobile phone in German is…",
+      "options": [
+        "das Handy",
+        "das Mobile"
+      ],
+      "answer": "das Handy",
+      "explanation": "Handy.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Mobilfunk is mobile telephony: das Mobilfunknetz, der Mobilfunkanbieter (Telekom, Vodafone, O2). Germany has long been mocked for its Funklöcher (dead zones), especially on trains and in the countryside, though coverage has improved. A mobile phone is das Handy, a pseudo-English word. Der Funk means radio transmission: der Polizeifunk. It has no plural."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zentralbank",
+    "partOfSpeech": "noun, feminine (die Zentralbank)",
+    "pronunciation": {
+      "respelling": "tsen-TRAAL-bank",
+      "ipa": "t͡sɛnˈtʁaːlˌbaŋk",
+      "notes": "Plural: die Zentralbanken."
+    },
+    "meaning": "central bank",
+    "shortDefinition": "Central bank."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Zentralbank, plural die Zentralbanken.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Zentralbank"
+        },
+        {
+          "label": "More than one",
+          "value": "die Zentralbanken"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Europäische Zentralbank hat die Zinsen gesenkt.",
+      "english": "The European Central Bank has cut interest rates.",
+      "highlight": [
+        "Zentralbank"
+      ]
+    },
+    {
+      "german": "Die Bundesbank ist Deutschlands Zentralbank.",
+      "english": "The Bundesbank is Germany's central bank.",
+      "highlight": [
+        "Zentralbank."
+      ]
+    }
+  ],
+  "forms": [
+    "Zentralbanken",
+    "die Zentralbank",
+    "EZB"
+  ],
+  "memoryHook": "Zentralbank: the bank at the Zentrum of the money system.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zentralbank",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Zentralbank is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Zentralbank, zwei ___",
+      "answer": "Zentralbanken",
+      "fullAnswer": "ein Zentralbank, zwei Zentralbanken",
+      "explanation": "The plural is Zentralbanken.",
+      "acceptedAnswers": [
+        "Zentralbanken"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zentralbank mean?",
+      "options": [
+        "the child",
+        "the car",
+        "central bank"
+      ],
+      "answer": "central bank",
+      "explanation": "Zentralbank: central bank.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The ECB is based in…",
+      "options": [
+        "Frankfurt am Main",
+        "Brussels"
+      ],
+      "answer": "Frankfurt am Main",
+      "explanation": "Frankfurt.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The ECB's main goal is…",
+      "options": [
+        "price stability (about 2% inflation)",
+        "full employment only"
+      ],
+      "answer": "price stability (about 2% inflation)",
+      "explanation": "Mandate.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Leitzins is…",
+      "options": [
+        "the key interest rate",
+        "a guideline"
+      ],
+      "answer": "the key interest rate",
+      "explanation": "Rate.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Zentralbank is a central bank. Die Europäische Zentralbank (EZB) in Frankfurt sets interest rates for the euro area, with the goal of price stability, around 2 percent inflation. Germany's Deutsche Bundesbank, founded in 1957, was known for its strict anti-inflation policy, shaped by memories of hyperinflation in 1923. Der Leitzins is the key interest rate. Plural: die Zentralbanken."
+}

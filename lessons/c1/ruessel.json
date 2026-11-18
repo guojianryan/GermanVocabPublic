@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rüssel",
+    "partOfSpeech": "noun, masculine (der Rüssel)",
+    "pronunciation": {
+      "respelling": "RÜ-sel",
+      "ipa": "ˈʁʏsl̩",
+      "notes": "Plural: die Rüssel."
+    },
+    "meaning": "trunk (elephant); snout",
+    "shortDefinition": "Trunk (elephant); snout."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Rüssel, plural die Rüssel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Rüssel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Rüssel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Elefant spritzt mit dem Rüssel Wasser.",
+      "english": "The elephant sprays water with its trunk.",
+      "highlight": [
+        "Rüssel"
+      ]
+    },
+    {
+      "german": "Das Schwein wühlt mit dem Rüssel im Boden.",
+      "english": "The pig roots in the ground with its snout.",
+      "highlight": [
+        "Rüssel"
+      ]
+    }
+  ],
+  "forms": [
+    "der Rüssel",
+    "Rüssels"
+  ],
+  "memoryHook": "Rüssel: the snout that roots (rüsseln) around.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rüssel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Rüssel is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Rüssel, zwei ___",
+      "answer": "Rüssel",
+      "fullAnswer": "ein Rüssel, zwei Rüssel",
+      "explanation": "The plural is Rüssel.",
+      "acceptedAnswers": [
+        "Ruessel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rüssel mean?",
+      "options": [
+        "to travel",
+        "trunk (elephant)",
+        "quiet"
+      ],
+      "answer": "trunk (elephant)",
+      "explanation": "Rüssel: trunk (elephant); snout.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Rüssel is…",
+      "options": [
+        "trunk, snout, proboscis",
+        "a rattle"
+      ],
+      "answer": "trunk, snout, proboscis",
+      "explanation": "Meaning.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Rüsselkäfer is…",
+      "options": [
+        "weevil",
+        "an elephant beetle only"
+      ],
+      "answer": "weevil",
+      "explanation": "Insect.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Colloquially, der Rüssel can mean…",
+      "options": [
+        "a person's nose",
+        "a mouth"
+      ],
+      "answer": "a person's nose",
+      "explanation": "Slang.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Rüssel is an elephant's trunk, a pig's snout or an insect's proboscis. Der Rüsselkäfer is a weevil, and colloquially Rüssel can mean a big human nose. An elephant's trunk has tens of thousands of muscles. The plural is the same: die Rüssel."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Restriktion",
+    "partOfSpeech": "noun, feminine (die Restriktion)",
+    "pronunciation": {
+      "respelling": "re-strik-TSYOHN",
+      "ipa": "ʁestʁɪkˈt͡si̯oːn",
+      "notes": "Plural: die Restriktionen."
+    },
+    "meaning": "restriction",
+    "shortDefinition": "Restriction."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Restriktion, plural die Restriktionen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Restriktion"
+        },
+        {
+          "label": "More than one",
+          "value": "die Restriktionen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Regierung lockert die Restriktionen.",
+      "english": "The government is easing the restrictions.",
+      "highlight": [
+        "Restriktionen."
+      ]
+    },
+    {
+      "german": "Für Exporte gelten strenge Restriktionen.",
+      "english": "Strict restrictions apply to exports.",
+      "highlight": [
+        "Restriktionen."
+      ]
+    }
+  ],
+  "forms": [
+    "Restriktionen",
+    "die Restriktion"
+  ],
+  "memoryHook": "Restriktion: binding back (restringere).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Restriktion",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Restriktion is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Restriktion, zwei ___",
+      "answer": "Restriktionen",
+      "fullAnswer": "ein Restriktion, zwei Restriktionen",
+      "explanation": "The plural is Restriktionen.",
+      "acceptedAnswers": [
+        "Restriktionen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Restriktion mean?",
+      "options": [
+        "to learn",
+        "to travel",
+        "restriction"
+      ],
+      "answer": "restriction",
+      "explanation": "Restriktion: restriction.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Restriktiv means…",
+      "options": [
+        "restrictive",
+        "respective"
+      ],
+      "answer": "restrictive",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Native synonym:",
+      "options": [
+        "die Einschränkung, die Beschränkung",
+        "die Freiheit"
+      ],
+      "answer": "die Einschränkung, die Beschränkung",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal",
+        "colloquial"
+      ],
+      "answer": "formal",
+      "explanation": "Register.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Restriktion is a restriction, a formal word in politics and economics, usually plural: Restriktionen lockern, verschärfen, Exportrestriktionen. Restriktiv means restrictive: eine restriktive Asylpolitik. Native synonyms are die Einschränkung and die Beschränkung, which are more common in everyday German. Plural: die Restriktionen."
+}

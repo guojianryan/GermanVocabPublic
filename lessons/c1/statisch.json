@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "statisch",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "SHTAA-tish",
+      "ipa": "ˈʃtaːtɪʃ",
+      "notes": ""
+    },
+    "meaning": "static",
+    "shortDefinition": "Static."
+  },
+  "sampleSentences": [
+    {
+      "german": "Das Bild wirkt etwas statisch.",
+      "english": "The picture seems a bit static.",
+      "highlight": [
+        "statisch."
+      ]
+    },
+    {
+      "german": "Die Statik des Gebäudes muss geprüft werden.",
+      "english": "The building's structural integrity must be checked.",
+      "highlight": [
+        "Statik"
+      ]
+    }
+  ],
+  "forms": [
+    "statische",
+    "statischen",
+    "statisches",
+    "Statik"
+  ],
+  "memoryHook": "Statisch: standing (Greek statikos) still.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does statisch mean?",
+      "options": [
+        "the evening",
+        "static",
+        "always"
+      ],
+      "answer": "static",
+      "explanation": "statisch: static.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Statik is…",
+      "options": [
+        "structural engineering, stability",
+        "statistics"
+      ],
+      "answer": "structural engineering, stability",
+      "explanation": "Statics.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Statiker is…",
+      "options": [
+        "structural engineer",
+        "statistician"
+      ],
+      "answer": "structural engineer",
+      "explanation": "Engineer.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Statische Aufladung is…",
+      "options": [
+        "static electricity",
+        "a static load"
+      ],
+      "answer": "static electricity",
+      "explanation": "Electricity.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein ___ Modell (static)",
+      "answer": "statisches",
+      "fullAnswer": "ein statisches Modell",
+      "explanation": "Neuter -es.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Statisch means static: ein statisches Bild, statische Aufladung (static electricity). Die Statik is structural analysis or stability of buildings: Die Statik stimmt nicht. Der Statiker (structural engineer) must approve building plans in Germany. Don't confuse it with die Statistik (statistics). Pronounced SHTAA-tish, with st as sht."
+}

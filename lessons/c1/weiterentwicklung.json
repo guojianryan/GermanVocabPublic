@@ -1,0 +1,119 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Weiterentwicklung",
+    "partOfSpeech": "noun, feminine (die Weiterentwicklung)",
+    "pronunciation": {
+      "respelling": "VAI-ter-ent-vik-lung",
+      "ipa": "ˈvaɪ̯tɐʔɛntˌvɪklʊŋ",
+      "notes": "Plural: die Weiterentwicklungen."
+    },
+    "meaning": "further development",
+    "shortDefinition": "Further development."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Weiterentwicklung, plural die Weiterentwicklungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Weiterentwicklung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Weiterentwicklungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Weiterentwicklung der App kostet Geld.",
+      "english": "Further development of the app costs money.",
+      "highlight": [
+        "Weiterentwicklung"
+      ]
+    },
+    {
+      "german": "Das Modell ist eine Weiterentwicklung des Vorgängers.",
+      "english": "The model is a further development of its predecessor.",
+      "highlight": [
+        "Weiterentwicklung"
+      ]
+    }
+  ],
+  "forms": [
+    "Weiterentwicklungen",
+    "die Weiterentwicklungen",
+    "die Weiterentwicklung",
+    "weiterentwickeln"
+  ],
+  "memoryHook": "Weiterentwicklung: development that keeps going (weiter).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Weiterentwicklung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Weiterentwicklung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Weiterentwicklung, zwei ___",
+      "answer": "Weiterentwicklungen",
+      "fullAnswer": "ein Weiterentwicklung, zwei Weiterentwicklungen",
+      "explanation": "The plural is Weiterentwicklungen.",
+      "acceptedAnswers": [
+        "Weiterentwicklungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Weiterentwicklung mean?",
+      "options": [
+        "slowly",
+        "further development",
+        "the window"
+      ],
+      "answer": "further development",
+      "explanation": "Weiterentwicklung: further development.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Weiterentwickeln means…",
+      "options": [
+        "to develop further",
+        "to unwrap"
+      ],
+      "answer": "to develop further",
+      "explanation": "weiter + entwickeln.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Persönliche Weiterentwicklung means…",
+      "options": [
+        "personal growth",
+        "a new product"
+      ],
+      "answer": "personal growth",
+      "explanation": "Personal growth.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Weiterentwicklung is further development: die Weiterentwicklung eines Produkts, die berufliche Weiterentwicklung (career development). Weiter- adds the idea of continuing: weitermachen, weiterbilden (to train further), die Weiterbildung (further training). Weiterentwickeln is separable: Wir entwickeln die Software weiter. Long German compounds like this are easy once you split them: weiter + Entwicklung."
+}

@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "kleiden",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "KLAI-den",
+      "ipa": "ˈklaɪ̯dn̩",
+      "notes": ""
+    },
+    "meaning": "to dress, clothe; to suit",
+    "shortDefinition": "To dress, clothe; to suit."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "kleid|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "kleid|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "kleid|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "kleid|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "kleid|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "kleid|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gekleidet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie ist immer elegant gekleidet.",
+      "english": "She's always elegantly dressed.",
+      "highlight": [
+        "gekleidet."
+      ]
+    },
+    {
+      "german": "Die Farbe kleidet dich gut.",
+      "english": "The colour suits you well.",
+      "highlight": [
+        "kleidet"
+      ]
+    }
+  ],
+  "forms": [
+    "kleide",
+    "kleidest",
+    "kleidet",
+    "kleiden",
+    "gekleidet",
+    "Kleidung",
+    "verkleiden"
+  ],
+  "memoryHook": "Kleiden: put a Kleid (garment) on someone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (kleiden)",
+      "answer": "kleidet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: kleidet.",
+      "acceptedAnswers": [
+        "kleidet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (kleiden, past)",
+      "answer": "gekleidet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gekleidet.",
+      "acceptedAnswers": [
+        "gekleidet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does kleiden mean?",
+      "options": [
+        "to dress",
+        "to open",
+        "to sleep"
+      ],
+      "answer": "to dress",
+      "explanation": "kleiden: to dress, clothe; to suit.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday 'to get dressed' is…",
+      "options": [
+        "sich anziehen",
+        "sich kleiden"
+      ],
+      "answer": "sich anziehen",
+      "explanation": "Everyday.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Etwas in Worte kleiden means…",
+      "options": [
+        "to put something into words",
+        "to dress words up"
+      ],
+      "answer": "to put something into words",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kleidung is…",
+      "options": [
+        "clothing",
+        "a dress"
+      ],
+      "answer": "clothing",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Kleiden means to dress or clothe, and it's more formal than anziehen: sich modisch kleiden, gut gekleidet sein. It also means to suit: Der Hut kleidet dich. Etwas in Worte kleiden means to put something into words. Related: die Kleidung (clothing), das Kleid (dress), sich verkleiden (to dress up in costume, for Karneval). The proverb Kleider machen Leute (clothes make the man) is also a Gottfried Keller novella."
+}

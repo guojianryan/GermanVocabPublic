@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Strafvollzug",
+    "partOfSpeech": "noun, masculine (der Strafvollzug)",
+    "pronunciation": {
+      "respelling": "SHTRAAF-fol-tsook",
+      "ipa": "ˈʃtʁaːffɔlˌt͡suːk",
+      "notes": "Usually no plural."
+    },
+    "meaning": "penal system, imprisonment",
+    "shortDefinition": "Penal system, imprisonment."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Strafvollzug, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Strafvollzug"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Strafvollzug soll Resozialisierung im Vordergrund stehen.",
+      "english": "In the penal system, rehabilitation should come first.",
+      "highlight": [
+        "Strafvollzug"
+      ]
+    },
+    {
+      "german": "Er arbeitet als Psychologe im Strafvollzug.",
+      "english": "He works as a psychologist in the prison service.",
+      "highlight": [
+        "Strafvollzug."
+      ]
+    }
+  ],
+  "forms": [
+    "der Strafvollzug"
+  ],
+  "memoryHook": "Strafvollzug: carrying out (Vollzug) a Strafe (sentence).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Strafvollzug",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Strafvollzug is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Strafvollzug mean?",
+      "options": [
+        "to wait",
+        "penal system",
+        "the door"
+      ],
+      "answer": "penal system",
+      "explanation": "Strafvollzug: penal system, imprisonment.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die JVA (Justizvollzugsanstalt) is…",
+      "options": [
+        "prison",
+        "a court"
+      ],
+      "answer": "prison",
+      "explanation": "Prison.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The main aim of German imprisonment is…",
+      "options": [
+        "Resozialisierung (rehabilitation)",
+        "revenge"
+      ],
+      "answer": "Resozialisierung (rehabilitation)",
+      "explanation": "Aim.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der offene Vollzug is…",
+      "options": [
+        "open prison (day release)",
+        "an open trial"
+      ],
+      "answer": "open prison (day release)",
+      "explanation": "Related.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Strafvollzug is the penal system, the carrying out of prison sentences. In Germany its main aim is Resozialisierung, preparing prisoners for a life without crime, so there's der offene Vollzug (open prison) and prisoners work and train. Prisons are officially Justizvollzugsanstalten (JVA), colloquially Knast. Since 2006, each state makes its own prison laws. It has no plural."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Faustregel",
+    "partOfSpeech": "noun, feminine (die Faustregel)",
+    "pronunciation": {
+      "respelling": "FAUST-ray-gel",
+      "ipa": "ˈfaʊ̯stˌʁeːɡl̩",
+      "notes": "Plural: die Faustregeln."
+    },
+    "meaning": "rule of thumb",
+    "shortDefinition": "Rule of thumb."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Faustregel, plural die Faustregeln.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Faustregel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Faustregeln"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Als Faustregel gilt: zwei Liter Wasser pro Tag.",
+      "english": "As a rule of thumb: two litres of water a day.",
+      "highlight": [
+        "Faustregel"
+      ]
+    },
+    {
+      "german": "Eine Faustregel beim Autofahren ist: halber Tacho Abstand.",
+      "english": "A rule of thumb when driving: keep half your speed in metres as distance.",
+      "highlight": [
+        "Faustregel"
+      ]
+    }
+  ],
+  "forms": [
+    "Faustregeln",
+    "die Faustregel"
+  ],
+  "memoryHook": "Faustregel: a Regel you can count on your Faust (fist).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Faustregel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Faustregel is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Faustregel, zwei ___",
+      "answer": "Faustregeln",
+      "fullAnswer": "ein Faustregel, zwei Faustregeln",
+      "explanation": "The plural is Faustregeln.",
+      "acceptedAnswers": [
+        "Faustregeln"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Faustregel mean?",
+      "options": [
+        "the bill",
+        "rule of thumb",
+        "tomorrow"
+      ],
+      "answer": "rule of thumb",
+      "explanation": "Faustregel: rule of thumb.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Faust is…",
+      "options": [
+        "fist",
+        "Faust (only the play)"
+      ],
+      "answer": "fist",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Auf eigene Faust means…",
+      "options": [
+        "on one's own initiative",
+        "with one's own fist"
+      ],
+      "answer": "on one's own initiative",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Halber Tacho means…",
+      "options": [
+        "distance in metres = half your speed",
+        "half speed"
+      ],
+      "answer": "distance in metres = half your speed",
+      "explanation": "Rule.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Faustregel is a rule of thumb: Als Faustregel gilt... German driving instructors teach halber Tacho, keeping a distance in metres of half your speed. Die Faust is a fist: auf eigene Faust (on one's own initiative), das passt wie die Faust aufs Auge (it fits perfectly, or not at all, depending on context). Plural: die Faustregeln."
+}

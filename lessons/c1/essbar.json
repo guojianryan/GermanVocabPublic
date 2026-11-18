@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "essbar",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "ES-baar",
+      "ipa": "ˈɛsbaːɐ̯",
+      "notes": ""
+    },
+    "meaning": "edible",
+    "shortDefinition": "Edible."
+  },
+  "sampleSentences": [
+    {
+      "german": "Ist dieser Pilz essbar?",
+      "english": "Is this mushroom edible?",
+      "highlight": [
+        "essbar?"
+      ]
+    },
+    {
+      "german": "Das Essen war gerade noch essbar.",
+      "english": "The food was just about edible.",
+      "highlight": [
+        "essbar."
+      ]
+    }
+  ],
+  "forms": [
+    "essbare",
+    "essbaren",
+    "essbarer"
+  ],
+  "memoryHook": "Essbar: able (-bar) to be eaten (essen).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does essbar mean?",
+      "options": [
+        "the bread",
+        "the shop",
+        "edible"
+      ],
+      "answer": "edible",
+      "explanation": "essbar: edible.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Opposite:",
+      "options": [
+        "ungenießbar, giftig",
+        "trinkbar"
+      ],
+      "answer": "ungenießbar, giftig",
+      "explanation": "Opposite.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "-bar means…",
+      "options": [
+        "-able",
+        "bar, pub"
+      ],
+      "answer": "-able",
+      "explanation": "Suffix.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unessbar/ungenießbar means…",
+      "options": [
+        "inedible",
+        "uneaten"
+      ],
+      "answer": "inedible",
+      "explanation": "Opposite.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ Blüten (edible)",
+      "answer": "essbare",
+      "fullAnswer": "essbare Blüten",
+      "explanation": "Plural -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Essbar means edible: essbare Pilze, essbare Blüten, gerade noch essbar. Pilze sammeln (mushroom picking) is a popular autumn pastime in Germany, and Pilzsachverständige (mushroom advisers) check finds for safety. The opposite is ungenießbar or giftig (poisonous). The suffix -bar means -able: trinkbar, machbar, lesbar."
+}

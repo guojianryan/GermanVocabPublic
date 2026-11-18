@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Geisel",
+    "partOfSpeech": "noun, feminine (die Geisel)",
+    "pronunciation": {
+      "respelling": "GAI-zel",
+      "ipa": "ˈɡaɪ̯zl̩",
+      "notes": "Plural: die Geiseln."
+    },
+    "meaning": "hostage",
+    "shortDefinition": "Hostage."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Geisel, plural die Geiseln.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Geisel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Geiseln"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Geiseln wurden freigelassen.",
+      "english": "The hostages were released.",
+      "highlight": [
+        "Geiseln"
+      ]
+    },
+    {
+      "german": "Er wurde als Geisel genommen.",
+      "english": "He was taken hostage.",
+      "highlight": [
+        "Geisel"
+      ]
+    }
+  ],
+  "forms": [
+    "Geiseln",
+    "die Geiseln",
+    "die Geisel",
+    "Geiselnahme"
+  ],
+  "memoryHook": "Geisel: always feminine, whoever is held.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Geisel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Geisel is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Geisel, zwei ___",
+      "answer": "Geiseln",
+      "fullAnswer": "ein Geisel, zwei Geiseln",
+      "explanation": "The plural is Geiseln.",
+      "acceptedAnswers": [
+        "Geiseln"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Geisel mean?",
+      "options": [
+        "hostage",
+        "the station",
+        "the door"
+      ],
+      "answer": "hostage",
+      "explanation": "Geisel: hostage.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "die Geisel (for men and women)",
+        "der Geisel"
+      ],
+      "answer": "die Geisel (for men and women)",
+      "explanation": "Always feminine.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Geiselnahme is…",
+      "options": [
+        "a hostage-taking",
+        "a ransom"
+      ],
+      "answer": "a hostage-taking",
+      "explanation": "Hostage-taking.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Geißel (with ß) means…",
+      "options": [
+        "scourge, whip",
+        "hostage"
+      ],
+      "answer": "scourge, whip",
+      "explanation": "Different word!",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Geisel is a hostage, always feminine, even for a man: Er war eine Geisel. Jemanden als Geisel nehmen means to take someone hostage, and die Geiselnahme is a hostage-taking. The 1972 Munich Olympics hostage crisis, in which Israeli athletes were killed, led to the creation of Germany's elite police unit GSG 9. Don't confuse it with die Geißel (with ß), a scourge or whip: die Geißel der Menschheit. Plural: die Geiseln."
+}

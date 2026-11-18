@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ehelichen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "AY-e-likh-en",
+      "ipa": "ˈeːəlɪçn̩",
+      "notes": ""
+    },
+    "meaning": "to marry, wed (formal or humorous)",
+    "shortDefinition": "To marry, wed (formal or humorous)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "ehelich|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "ehelich|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "ehelich|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "ehelich|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "ehelich|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "ehelich|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geehelicht"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er ehelichte die Tochter des Bürgermeisters.",
+      "english": "He wed the mayor's daughter.",
+      "highlight": [
+        "ehelichte"
+      ]
+    },
+    {
+      "german": "Die beiden haben im Mai geehelicht.",
+      "english": "The two got married in May.",
+      "highlight": [
+        "geehelicht."
+      ]
+    }
+  ],
+  "forms": [
+    "eheliche",
+    "ehelichst",
+    "ehelicht",
+    "ehelichen",
+    "geehelicht",
+    "ehelichte"
+  ],
+  "memoryHook": "Ehelichen: make an Ehe (marriage).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (ehelichen)",
+      "answer": "ehelicht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: ehelicht.",
+      "acceptedAnswers": [
+        "ehelicht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (ehelichen, past)",
+      "answer": "geehelicht",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geehelicht.",
+      "acceptedAnswers": [
+        "geehelicht"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does ehelichen mean?",
+      "options": [
+        "never",
+        "to wait",
+        "to marry"
+      ],
+      "answer": "to marry",
+      "explanation": "ehelichen: to marry, wed (formal or humorous).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal or humorous",
+        "everyday"
+      ],
+      "answer": "formal or humorous",
+      "explanation": "Register.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday word:",
+      "options": [
+        "heiraten",
+        "verlieben"
+      ],
+      "answer": "heiraten",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ehelich means…",
+      "options": [
+        "marital; legitimate (child)",
+        "honest"
+      ],
+      "answer": "marital; legitimate (child)",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Ehelichen means to marry or wed, old-fashioned and today mostly humorous or in tabloids: Der Prinz ehelichte eine Bürgerliche. The everyday word is heiraten. Ehelich means marital (eheliche Pflichten) and, in older law, legitimate: ein eheliches Kind; the legal difference between ehelich and nichtehelich children was abolished in 1998. Regular: ehelichte, geehelicht."
+}

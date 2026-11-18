@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Inhaltsverzeichnis",
+    "partOfSpeech": "noun, neuter (das Inhaltsverzeichnis)",
+    "pronunciation": {
+      "respelling": "IN-halts-fer-tsaikh-nis",
+      "ipa": "ˈɪnhalt͡sfɛɐ̯ˌt͡saɪ̯çnɪs",
+      "notes": "Plural: die Inhaltsverzeichnisse."
+    },
+    "meaning": "table of contents",
+    "shortDefinition": "Table of contents."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Inhaltsverzeichnis, plural die Inhaltsverzeichnisse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Inhaltsverzeichnis"
+        },
+        {
+          "label": "More than one",
+          "value": "die Inhaltsverzeichnisse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Inhaltsverzeichnis steht am Anfang des Buches.",
+      "english": "The table of contents is at the start of the book.",
+      "highlight": [
+        "Inhaltsverzeichnis"
+      ]
+    },
+    {
+      "german": "Word kann das Inhaltsverzeichnis automatisch erstellen.",
+      "english": "Word can create the table of contents automatically.",
+      "highlight": [
+        "Inhaltsverzeichnis"
+      ]
+    }
+  ],
+  "forms": [
+    "Inhaltsverzeichnisse",
+    "das Inhaltsverzeichnis"
+  ],
+  "memoryHook": "Inhaltsverzeichnis: a list (Verzeichnis) of the contents (Inhalt).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Inhaltsverzeichnis",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Inhaltsverzeichnis is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Inhaltsverzeichnis, zwei ___",
+      "answer": "Inhaltsverzeichnisse",
+      "fullAnswer": "ein Inhaltsverzeichnis, zwei Inhaltsverzeichnisse",
+      "explanation": "The plural is Inhaltsverzeichnisse.",
+      "acceptedAnswers": [
+        "Inhaltsverzeichnisse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Inhaltsverzeichnis mean?",
+      "options": [
+        "table of contents",
+        "to learn",
+        "the street"
+      ],
+      "answer": "table of contents",
+      "explanation": "Inhaltsverzeichnis: table of contents.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Inhalt is…",
+      "options": [
+        "content(s)",
+        "an inhaler"
+      ],
+      "answer": "content(s)",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Verzeichnis is…",
+      "options": [
+        "list, index, directory",
+        "a drawing"
+      ],
+      "answer": "list, index, directory",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Literaturverzeichnis is…",
+      "options": [
+        "bibliography",
+        "a library"
+      ],
+      "answer": "bibliography",
+      "explanation": "Bibliography.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Inhaltsverzeichnis is a table of contents. Das Verzeichnis means list or directory: das Literaturverzeichnis (bibliography), das Stichwortverzeichnis (index), das Abkürzungsverzeichnis (list of abbreviations), and in computing, a folder. German academic papers require all of these, formatted precisely. Der Inhalt means contents. Plural: die Inhaltsverzeichnisse."
+}

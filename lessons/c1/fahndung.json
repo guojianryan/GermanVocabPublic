@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fahndung",
+    "partOfSpeech": "noun, feminine (die Fahndung)",
+    "pronunciation": {
+      "respelling": "FAAN-dung",
+      "ipa": "ˈfaːndʊŋ",
+      "notes": "Plural: die Fahndungen."
+    },
+    "meaning": "search, manhunt",
+    "shortDefinition": "Search, manhunt."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Fahndung, plural die Fahndungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Fahndung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Fahndungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Polizei hat eine Fahndung eingeleitet.",
+      "english": "The police have launched a manhunt.",
+      "highlight": [
+        "Fahndung"
+      ]
+    },
+    {
+      "german": "Nach dem Täter wird öffentlich gefahndet.",
+      "english": "There is a public search for the offender.",
+      "highlight": [
+        "gefahndet."
+      ]
+    }
+  ],
+  "forms": [
+    "Fahndungen",
+    "die Fahndung",
+    "fahnden"
+  ],
+  "memoryHook": "Fahndung: the police fahndet (searches) for someone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fahndung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Fahndung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Fahndung, zwei ___",
+      "answer": "Fahndungen",
+      "fullAnswer": "ein Fahndung, zwei Fahndungen",
+      "explanation": "The plural is Fahndungen.",
+      "acceptedAnswers": [
+        "Fahndungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fahndung mean?",
+      "options": [
+        "the car",
+        "the bill",
+        "search"
+      ],
+      "answer": "search",
+      "explanation": "Fahndung: search, manhunt.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fahnden nach means…",
+      "options": [
+        "to search for (police)",
+        "to wave a flag"
+      ],
+      "answer": "to search for (police)",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Aktenzeichen XY… ungelöst is…",
+      "options": [
+        "a TV show asking the public to help find criminals",
+        "a quiz"
+      ],
+      "answer": "a TV show asking the public to help find criminals",
+      "explanation": "TV.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Großfahndung is…",
+      "options": [
+        "a large-scale manhunt",
+        "a big flag"
+      ],
+      "answer": "a large-scale manhunt",
+      "explanation": "Manhunt.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Fahndung is a police search or manhunt: eine Fahndung einleiten, die Großfahndung, das Fahndungsfoto. Fahnden nach means to search for: Die Polizei fahndet nach dem Täter. Since 1967, the ZDF show Aktenzeichen XY… ungelöst has asked viewers to help solve crimes, and many cases have been cleared through it. Zur Fahndung ausgeschrieben means wanted. Plural: die Fahndungen."
+}

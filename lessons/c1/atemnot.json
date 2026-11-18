@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Atemnot",
+    "partOfSpeech": "noun, feminine (die Atemnot)",
+    "pronunciation": {
+      "respelling": "AA-tem-noht",
+      "ipa": "ˈaːtəmˌnoːt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "shortness of breath, breathlessness",
+    "shortDefinition": "Shortness of breath, breathlessness."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Atemnot, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Atemnot"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bei Atemnot sofort den Notarzt rufen!",
+      "english": "Call an emergency doctor immediately if short of breath!",
+      "highlight": [
+        "Atemnot"
+      ]
+    },
+    {
+      "german": "Der Patient leidet unter Atemnot.",
+      "english": "The patient suffers from shortness of breath.",
+      "highlight": [
+        "Atemnot."
+      ]
+    }
+  ],
+  "forms": [
+    "die Atemnot"
+  ],
+  "memoryHook": "Atemnot: Not (distress) with your Atem (breath).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Atemnot",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Atemnot is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Atemnot mean?",
+      "options": [
+        "shortness of breath",
+        "the car",
+        "hot"
+      ],
+      "answer": "shortness of breath",
+      "explanation": "Atemnot: shortness of breath, breathlessness.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Atemnot means…",
+      "options": [
+        "difficulty breathing",
+        "a breath note"
+      ],
+      "answer": "difficulty breathing",
+      "explanation": "Breathless.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Medical term:",
+      "options": [
+        "die Dyspnoe",
+        "die Diagnose"
+      ],
+      "answer": "die Dyspnoe",
+      "explanation": "Medical.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Außer Atem sein means…",
+      "options": [
+        "to be out of breath",
+        "to be dead"
+      ],
+      "answer": "to be out of breath",
+      "explanation": "Related.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Atemnot is shortness of breath or difficulty breathing, a symptom of asthma, heart problems or infections; the medical term is die Dyspnoe. Plötzliche Atemnot is an emergency: call 112. After exertion, people are außer Atem (out of breath) or kurzatmig. Der Atem is breath and die Not distress. It has no plural."
+}

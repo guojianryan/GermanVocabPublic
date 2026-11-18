@@ -1,0 +1,122 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Erstellung",
+    "partOfSpeech": "noun, feminine (die Erstellung)",
+    "pronunciation": {
+      "respelling": "ER-shtel-ung",
+      "ipa": "ɛɐ̯ˈʃtɛlʊŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "creation, preparation, production",
+    "shortDefinition": "Creation, preparation, production."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Erstellung, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Erstellung"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Erstellung des Berichts dauert eine Woche.",
+      "english": "Preparing the report takes a week.",
+      "highlight": [
+        "Erstellung"
+      ]
+    },
+    {
+      "german": "Wir helfen bei der Erstellung Ihrer Website.",
+      "english": "We help you create your website.",
+      "highlight": [
+        "Erstellung"
+      ]
+    }
+  ],
+  "forms": [
+    "die Erstellung",
+    "erstellen",
+    "erstellt"
+  ],
+  "memoryHook": "Erstellung: putting something together (erstellen).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Erstellung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Erstellung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Erstellung mean?",
+      "options": [
+        "to sleep",
+        "to wait",
+        "creation"
+      ],
+      "answer": "creation",
+      "explanation": "Erstellung: creation, preparation, production.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Erstellen means…",
+      "options": [
+        "to create, draw up",
+        "to put first"
+      ],
+      "answer": "to create, draw up",
+      "explanation": "erstellen.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Typical objects of erstellen:",
+      "options": [
+        "Bericht, Liste, Konto",
+        "Kaffee, Kuchen"
+      ],
+      "answer": "Bericht, Liste, Konto",
+      "explanation": "Documents.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register of Erstellung:",
+      "options": [
+        "formal / technical",
+        "slang"
+      ],
+      "answer": "formal / technical",
+      "explanation": "Office German.",
+      "id": "q5"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "die ___ eines Plans (creation)",
+      "answer": "Erstellung",
+      "fullAnswer": "die Erstellung eines Plans",
+      "explanation": "Erstellung.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Erstellung is the creation or preparation of something, mostly documents and digital things: die Erstellung eines Gutachtens, die Erstellung der Steuererklärung, die Erstellung eines Kontos (creating an account). The verb is erstellen: einen Plan erstellen, eine Liste erstellen. It's office and IT vocabulary; for art or ideas Germans say schaffen or entwickeln. Don't confuse erstellen with herstellen, which is used for manufacturing goods."
+}

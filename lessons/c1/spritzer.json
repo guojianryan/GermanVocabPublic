@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Spritzer",
+    "partOfSpeech": "noun, masculine (der Spritzer)",
+    "pronunciation": {
+      "respelling": "SHPRIT-ser",
+      "ipa": "ˈʃpʁɪt͡sɐ",
+      "notes": "Plural: die Spritzer."
+    },
+    "meaning": "splash, dash; wine spritzer",
+    "shortDefinition": "Splash, dash; wine spritzer."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Spritzer, plural die Spritzer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Spritzer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Spritzer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ein Spritzer Zitrone macht das Essen frischer.",
+      "english": "A dash of lemon makes the food fresher.",
+      "highlight": [
+        "Spritzer"
+      ]
+    },
+    {
+      "german": "In Wien bestellt man einen weißen Spritzer.",
+      "english": "In Vienna you order a white wine spritzer.",
+      "highlight": [
+        "Spritzer."
+      ]
+    }
+  ],
+  "forms": [
+    "der Spritzer",
+    "Spritzers"
+  ],
+  "memoryHook": "Spritzer: a little spritz (splash).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Spritzer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Spritzer is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Spritzer, zwei ___",
+      "answer": "Spritzer",
+      "fullAnswer": "ein Spritzer, zwei Spritzer",
+      "explanation": "The plural is Spritzer.",
+      "acceptedAnswers": [
+        "Spritzer"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Spritzer mean?",
+      "options": [
+        "quiet",
+        "splash",
+        "the door"
+      ],
+      "answer": "splash",
+      "explanation": "Spritzer: splash, dash; wine spritzer.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Spritzer (Austria) is…",
+      "options": [
+        "wine with soda water",
+        "a water pistol"
+      ],
+      "answer": "wine with soda water",
+      "explanation": "Austria.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Weinschorle is…",
+      "options": [
+        "wine spritzer (Germany)",
+        "a wine bottle"
+      ],
+      "answer": "wine spritzer (Germany)",
+      "explanation": "Germany.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Spritzen means…",
+      "options": [
+        "to splash, spray; to inject",
+        "to sprint"
+      ],
+      "answer": "to splash, spray; to inject",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Spritzer is a splash or dash: ein Spritzer Essig, Spritzer auf dem Hemd. In Austria, ein (weißer) Spritzer is white wine with soda water; in Germany it's called eine Weinschorle. Spritzen means to splash or spray, and also to inject: die Spritze is a syringe or injection. The plural is the same: die Spritzer."
+}

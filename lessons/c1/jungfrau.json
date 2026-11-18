@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Jungfrau",
+    "partOfSpeech": "noun, feminine (die Jungfrau)",
+    "pronunciation": {
+      "respelling": "YUNG-frau",
+      "ipa": "ˈjʊŋfʁaʊ̯",
+      "notes": "Plural: die Jungfrauen."
+    },
+    "meaning": "virgin; Virgo",
+    "shortDefinition": "Virgin; Virgo."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Jungfrau, plural die Jungfrauen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Jungfrau"
+        },
+        {
+          "label": "More than one",
+          "value": "die Jungfrauen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Jungfrau Maria.",
+      "english": "The Virgin Mary.",
+      "highlight": [
+        "Jungfrau"
+      ]
+    },
+    {
+      "german": "Ich bin Jungfrau, im September geboren.",
+      "english": "I'm a Virgo, born in September.",
+      "highlight": [
+        "Jungfrau,"
+      ]
+    }
+  ],
+  "forms": [
+    "Jungfrauen",
+    "die Jungfrauen",
+    "die Jungfrau",
+    "jungfräulich"
+  ],
+  "memoryHook": "Jungfrau: young woman, star sign, and a Swiss peak.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Jungfrau",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Jungfrau is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Jungfrau, zwei ___",
+      "answer": "Jungfrauen",
+      "fullAnswer": "ein Jungfrau, zwei Jungfrauen",
+      "explanation": "The plural is Jungfrauen.",
+      "acceptedAnswers": [
+        "Jungfrauen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Jungfrau mean?",
+      "options": [
+        "the street",
+        "virgin",
+        "tomorrow"
+      ],
+      "answer": "virgin",
+      "explanation": "Jungfrau: virgin; Virgo.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The star sign Virgo in German:",
+      "options": [
+        "Jungfrau",
+        "Junge"
+      ],
+      "answer": "Jungfrau",
+      "explanation": "Jungfrau.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Jungfernfahrt is…",
+      "options": [
+        "a maiden voyage",
+        "a girls' trip"
+      ],
+      "answer": "a maiden voyage",
+      "explanation": "Maiden voyage.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Jungfrau is also…",
+      "options": [
+        "a Swiss mountain",
+        "a German river"
+      ],
+      "answer": "a Swiss mountain",
+      "explanation": "Bernese Alps.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Jungfrau means virgin: die Jungfrau Maria. It's also the star sign Virgo: Sie ist Jungfrau. Originally it simply meant young woman (jung + Frau); the old form Jungfer survives in die alte Jungfer (old maid, dated) and die Jungfernfahrt (maiden voyage). Die Jungfrau is also a famous 4,158-metre mountain in the Swiss Alps, reached by Europe's highest railway station, the Jungfraujoch."
+}

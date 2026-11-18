@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Grundgedanke",
+    "partOfSpeech": "noun, masculine (der Grundgedanke)",
+    "pronunciation": {
+      "respelling": "GRUNT-ge-dan-ke",
+      "ipa": "ˈɡʁʊntɡəˌdaŋkə",
+      "notes": "Plural: die Grundgedanken."
+    },
+    "meaning": "basic idea, underlying principle",
+    "shortDefinition": "Basic idea, underlying principle."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Grundgedanke, plural die Grundgedanken.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Grundgedanke"
+        },
+        {
+          "label": "More than one",
+          "value": "die Grundgedanken"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Grundgedanke des Projekts ist einfach.",
+      "english": "The basic idea of the project is simple.",
+      "highlight": [
+        "Grundgedanke"
+      ]
+    },
+    {
+      "german": "Solidarität ist ein Grundgedanke der Sozialversicherung.",
+      "english": "Solidarity is an underlying principle of social insurance.",
+      "highlight": [
+        "Grundgedanke"
+      ]
+    }
+  ],
+  "forms": [
+    "Grundgedanken",
+    "der Grundgedanke"
+  ],
+  "memoryHook": "Grundgedanke: the Gedanke (thought) at the Grund (basis).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Grundgedanke",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Grundgedanke is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Grundgedanke, zwei ___",
+      "answer": "Grundgedanken",
+      "fullAnswer": "ein Grundgedanke, zwei Grundgedanken",
+      "explanation": "The plural is Grundgedanken.",
+      "acceptedAnswers": [
+        "Grundgedanken"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Grundgedanke mean?",
+      "options": [
+        "to help",
+        "the job",
+        "basic idea"
+      ],
+      "answer": "basic idea",
+      "explanation": "Grundgedanke: basic idea, underlying principle.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gedanke declines like a weak noun:",
+      "options": [
+        "des Grundgedankens, den Grundgedanken",
+        "des Grundgedanke"
+      ],
+      "answer": "des Grundgedankens, den Grundgedanken",
+      "explanation": "Declension.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Grundidee, das Prinzip",
+        "der Einfall"
+      ],
+      "answer": "die Grundidee, das Prinzip",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Gedanke is…",
+      "options": [
+        "thought",
+        "a thank-you"
+      ],
+      "answer": "thought",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Grundgedanke is the basic idea or underlying principle: der Grundgedanke der Demokratie, eines Gesetzes. Like Gedanke, it's declined with -n and genitive -ns: den Grundgedanken, des Grundgedankens. Synonyms: die Grundidee, das Grundprinzip, der Kerngedanke. Plural: die Grundgedanken."
+}

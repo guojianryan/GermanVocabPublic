@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "obdachlos",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "OP-dakh-lohs",
+      "ipa": "ˈɔpdaxˌloːs",
+      "notes": ""
+    },
+    "meaning": "homeless",
+    "shortDefinition": "Homeless."
+  },
+  "sampleSentences": [
+    {
+      "german": "Im Winter suchen obdachlose Menschen Schutz in Notunterkünften.",
+      "english": "In winter homeless people seek shelter in emergency accommodation.",
+      "highlight": [
+        "obdachlose"
+      ]
+    },
+    {
+      "german": "Er ist seit zwei Jahren obdachlos.",
+      "english": "He has been homeless for two years.",
+      "highlight": [
+        "obdachlos."
+      ]
+    }
+  ],
+  "forms": [
+    "obdachlose",
+    "obdachlosen",
+    "Obdachlose",
+    "Obdachlosigkeit"
+  ],
+  "memoryHook": "Obdachlos: without (los) Obdach (shelter).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does obdachlos mean?",
+      "options": [
+        "to travel",
+        "the bill",
+        "homeless"
+      ],
+      "answer": "homeless",
+      "explanation": "obdachlos: homeless.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der/die Obdachlose is…",
+      "options": [
+        "a homeless person (adjectival noun)",
+        "a roofer"
+      ],
+      "answer": "a homeless person (adjectival noun)",
+      "explanation": "Noun.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Obdach is…",
+      "options": [
+        "shelter (literary)",
+        "a top floor"
+      ],
+      "answer": "shelter (literary)",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kältehilfe is…",
+      "options": [
+        "winter aid for homeless people",
+        "a cold drink"
+      ],
+      "answer": "winter aid for homeless people",
+      "explanation": "Aid.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ Menschen (homeless)",
+      "answer": "obdachlose",
+      "fullAnswer": "obdachlose Menschen",
+      "explanation": "Plural -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Obdachlos means homeless, literally without shelter (das Obdach, a literary word). Der/die Obdachlose is a homeless person, and die Obdachlosigkeit homelessness. Around 50,000 people in Germany sleep rough or with no fixed housing, according to a 2024 government report; many more are wohnungslos, living in shelters. Street papers like Hinz&Kunzt in Hamburg are sold by homeless vendors. Cities run Kältehilfe in winter."
+}

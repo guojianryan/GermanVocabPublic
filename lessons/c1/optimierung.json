@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Optimierung",
+    "partOfSpeech": "noun, feminine (die Optimierung)",
+    "pronunciation": {
+      "respelling": "op-ti-MEE-rung",
+      "ipa": "ɔptiˈmiːʁʊŋ",
+      "notes": "Plural: die Optimierungen."
+    },
+    "meaning": "optimisation",
+    "shortDefinition": "Optimisation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Optimierung, plural die Optimierungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Optimierung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Optimierungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Optimierung der Abläufe spart Zeit.",
+      "english": "Optimising processes saves time.",
+      "highlight": [
+        "Optimierung"
+      ]
+    },
+    {
+      "german": "Die Website braucht eine Suchmaschinenoptimierung.",
+      "english": "The website needs search engine optimisation.",
+      "highlight": [
+        "Suchmaschinenoptimierung."
+      ]
+    }
+  ],
+  "forms": [
+    "Optimierungen",
+    "die Optimierungen",
+    "die Optimierung",
+    "optimieren"
+  ],
+  "memoryHook": "Optimierung: making things optimal.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Optimierung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Optimierung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Optimierung, zwei ___",
+      "answer": "Optimierungen",
+      "fullAnswer": "ein Optimierung, zwei Optimierungen",
+      "explanation": "The plural is Optimierungen.",
+      "acceptedAnswers": [
+        "Optimierungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Optimierung mean?",
+      "options": [
+        "optimisation",
+        "cheap",
+        "the weather"
+      ],
+      "answer": "optimisation",
+      "explanation": "Optimierung: optimisation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Optimieren means…",
+      "options": [
+        "to optimise",
+        "to be optimistic"
+      ],
+      "answer": "to optimise",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Selbstoptimierung is…",
+      "options": [
+        "self-optimisation",
+        "self-confidence"
+      ],
+      "answer": "self-optimisation",
+      "explanation": "Self.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Optimal means…",
+      "options": [
+        "optimal, ideal",
+        "optimistic"
+      ],
+      "answer": "optimal, ideal",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Optimierung is optimisation: die Prozessoptimierung, die Suchmaschinenoptimierung (SEO), die Steueroptimierung. Die Selbstoptimierung, the drive to constantly improve oneself through apps and routines, is a frequent target of cultural criticism in Germany. Optimieren means to optimise, and optimal means ideal. Don't confuse it with optimistisch (optimistic). Plural: die Optimierungen."
+}

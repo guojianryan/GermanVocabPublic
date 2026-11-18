@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "akademisch",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "a-ka-DAY-mish",
+      "ipa": "akaˈdeːmɪʃ",
+      "notes": ""
+    },
+    "meaning": "academic",
+    "shortDefinition": "Academic."
+  },
+  "sampleSentences": [
+    {
+      "german": "Sie hat einen akademischen Abschluss.",
+      "english": "She has a university degree.",
+      "highlight": [
+        "akademischen"
+      ]
+    },
+    {
+      "german": "Die Frage ist rein akademisch.",
+      "english": "The question is purely academic.",
+      "highlight": [
+        "akademisch."
+      ]
+    }
+  ],
+  "forms": [
+    "akademische",
+    "akademischen",
+    "akademischer",
+    "Akademiker"
+  ],
+  "memoryHook": "Akademisch: from Plato's Akademie to the akademisches Viertel.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does akademisch mean?",
+      "options": [
+        "academic",
+        "the bread",
+        "hot"
+      ],
+      "answer": "academic",
+      "explanation": "akademisch: academic.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das akademische Viertel is…",
+      "options": [
+        "the 15 minutes' grace before lectures start",
+        "a student district"
+      ],
+      "answer": "the 15 minutes' grace before lectures start",
+      "explanation": "c.t.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Akademiker is…",
+      "options": [
+        "a university graduate",
+        "a professor only"
+      ],
+      "answer": "a university graduate",
+      "explanation": "Graduate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rein akademisch means…",
+      "options": [
+        "purely theoretical",
+        "purely scientific"
+      ],
+      "answer": "purely theoretical",
+      "explanation": "Theoretical.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein ___ Titel (academic)",
+      "answer": "akademischer",
+      "fullAnswer": "ein akademischer Titel",
+      "explanation": "Ending -er.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Akademisch means academic: ein akademischer Grad, die akademische Welt. In German, der Akademiker is anyone with a university degree, not only a researcher. A university tradition is das akademische Viertel: lectures marked c.t. (cum tempore) start 15 minutes after the hour, while s.t. (sine tempore) means sharp. Eine rein akademische Frage is purely theoretical. From Plato's Akademie in Athens."
+}

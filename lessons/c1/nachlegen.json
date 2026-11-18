@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "nachlegen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "NAAKH-lay-gen",
+      "ipa": "ˈnaːxˌleːɡn̩",
+      "notes": ""
+    },
+    "meaning": "to add more (fuel); to follow up, up the ante",
+    "shortDefinition": "To add more (fuel); to follow up, up the ante."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "leg|e … |nach"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "leg|st … |nach"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "leg|t … |nach"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "leg|en … |nach"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "leg|t … |nach"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "leg|en … |nach"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat nachgelegt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Kannst du ein paar Scheite nachlegen?",
+      "english": "Can you put a few more logs on?",
+      "highlight": [
+        "nachlegen?"
+      ]
+    },
+    {
+      "german": "Die Konkurrenz hat mit einem neuen Modell nachgelegt.",
+      "english": "The competition followed up with a new model.",
+      "highlight": [
+        "nachgelegt."
+      ]
+    }
+  ],
+  "forms": [
+    "lege nach",
+    "legst nach",
+    "legt nach",
+    "legen nach",
+    "nachgelegt",
+    "legte nach"
+  ],
+  "memoryHook": "Nachlegen: legen (put) more nach (after).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … nach (nachlegen)",
+      "answer": "legt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: legt … nach.",
+      "acceptedAnswers": [
+        "legt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (nachlegen, past)",
+      "answer": "nachgelegt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe nachgelegt.",
+      "acceptedAnswers": [
+        "nachgelegt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does nachlegen mean?",
+      "options": [
+        "to add more (fuel)",
+        "tomorrow",
+        "the street"
+      ],
+      "answer": "to add more (fuel)",
+      "explanation": "nachlegen: to add more (fuel); to follow up, up the ante.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, nachlegen means…",
+      "options": [
+        "to follow up, up the ante",
+        "to lie down later"
+      ],
+      "answer": "to follow up, up the ante",
+      "explanation": "Figurative.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In football, nachlegen means…",
+      "options": [
+        "to score again",
+        "to foul"
+      ],
+      "answer": "to score again",
+      "explanation": "Sport.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Holz nachlegen means…",
+      "options": [
+        "to add wood to the fire",
+        "to cut wood"
+      ],
+      "answer": "to add wood to the fire",
+      "explanation": "Literal.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Nachlegen literally means to add more fuel: Holz, Kohle nachlegen. Figuratively it means to follow up or up the ante: Die Regierung legt mit neuen Maßnahmen nach, and in sport to score again: Kurz darauf legte Bayern nach. Also, Essen nachlegen means to give a second helping. Regular: legte nach, nachgelegt."
+}

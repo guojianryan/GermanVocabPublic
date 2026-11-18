@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verlagern",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-LAA-gern",
+      "ipa": "fɛɐ̯ˈlaːɡɐn",
+      "notes": ""
+    },
+    "meaning": "to shift, relocate",
+    "shortDefinition": "To shift, relocate."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verlagere"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verlager|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verlager|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verlager|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verlager|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verlager|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verlagert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Firma verlagert die Produktion nach Polen.",
+      "english": "The company is relocating production to Poland.",
+      "highlight": [
+        "verlagert"
+      ]
+    },
+    {
+      "german": "Der Schwerpunkt hat sich verlagert.",
+      "english": "The focus has shifted.",
+      "highlight": [
+        "verlagert."
+      ]
+    }
+  ],
+  "forms": [
+    "verlagere",
+    "verlagerst",
+    "verlagert",
+    "verlagern",
+    "Verlagerung"
+  ],
+  "memoryHook": "Verlagern: move something to another Lager (place).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verlagern)",
+      "answer": "verlagert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verlagert.",
+      "acceptedAnswers": [
+        "verlagert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verlagern, past)",
+      "answer": "verlagert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verlagert.",
+      "acceptedAnswers": [
+        "verlagert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verlagern mean?",
+      "options": [
+        "to shift",
+        "tomorrow",
+        "to buy"
+      ],
+      "answer": "to shift",
+      "explanation": "verlagern: to shift, relocate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Verlagerung is…",
+      "options": [
+        "relocation, shift",
+        "storage"
+      ],
+      "answer": "relocation, shift",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gewicht verlagern means…",
+      "options": [
+        "to shift one's weight",
+        "to lose weight"
+      ],
+      "answer": "to shift one's weight",
+      "explanation": "Weight.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Lager is…",
+      "options": [
+        "store, warehouse; camp",
+        "a beer only"
+      ],
+      "answer": "store, warehouse; camp",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verlagern means to shift or relocate: die Produktion ins Ausland verlagern, Arbeitsplätze verlagern, das Gewicht verlagern. Reflexively, sich verlagern means to shift: Der Konflikt verlagert sich ins Internet. Die Verlagerung is relocation: die Verlagerung des Verkehrs auf die Schiene (shifting freight to rail). From das Lager (store, camp). Not separable: hat verlagert."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fremdwort",
+    "partOfSpeech": "noun, neuter (das Fremdwort)",
+    "pronunciation": {
+      "respelling": "FREMT-vort",
+      "ipa": "ˈfʁɛmtˌvɔʁt",
+      "notes": "Plural: die Fremdwörter."
+    },
+    "meaning": "foreign word, loanword",
+    "shortDefinition": "Foreign word, loanword."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Fremdwort, plural die Fremdwörter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Fremdwort"
+        },
+        {
+          "label": "More than one",
+          "value": "die Fremdwörter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Buch ist voller Fremdwörter.",
+      "english": "The book is full of foreign words.",
+      "highlight": [
+        "Fremdwörter."
+      ]
+    },
+    {
+      "german": "Pünktlichkeit ist für ihn ein Fremdwort.",
+      "english": "Punctuality is a foreign concept to him.",
+      "highlight": [
+        "Fremdwort."
+      ]
+    }
+  ],
+  "forms": [
+    "Fremdwörter",
+    "das Fremdwort"
+  ],
+  "memoryHook": "Fremdwort: a Wort from a fremde (foreign) language.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fremdwort",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Fremdwort is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Fremdwort, zwei ___",
+      "answer": "Fremdwörter",
+      "fullAnswer": "ein Fremdwort, zwei Fremdwörter",
+      "explanation": "The plural is Fremdwörter.",
+      "acceptedAnswers": [
+        "Fremdwoerter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fremdwort mean?",
+      "options": [
+        "foreign word",
+        "the flower",
+        "to sleep"
+      ],
+      "answer": "foreign word",
+      "explanation": "Fremdwort: foreign word, loanword.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "X ist für ihn ein Fremdwort means…",
+      "options": [
+        "he doesn't know the meaning of X",
+        "X is a foreign word"
+      ],
+      "answer": "he doesn't know the meaning of X",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fremdwort vs. Lehnwort:",
+      "options": [
+        "still feels foreign vs. fully adapted (Fenster)",
+        "the same"
+      ],
+      "answer": "still feels foreign vs. fully adapted (Fenster)",
+      "explanation": "Linguistics.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Duden has a volume called…",
+      "options": [
+        "Das Fremdwörterbuch",
+        "Das Fremdbuch"
+      ],
+      "answer": "Das Fremdwörterbuch",
+      "explanation": "Duden.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Fremdwort is a foreign word that still looks or sounds foreign, like Restaurant or Computer, unlike a Lehnwort that's fully adapted, like Fenster (from Latin fenestra) or Mauer. Humorously, Ordnung ist für ihn ein Fremdwort means he has no idea what tidiness is. From the 17th century on, language societies promoted German replacements; in the 19th century, for example, Bahnsteig replaced the French Perron. Plural: die Fremdwörter."
+}

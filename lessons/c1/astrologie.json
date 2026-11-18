@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Astrologie",
+    "partOfSpeech": "noun, feminine (die Astrologie)",
+    "pronunciation": {
+      "respelling": "as-tro-lo-GEE",
+      "ipa": "astʁoloˈɡiː",
+      "notes": "Usually no plural."
+    },
+    "meaning": "astrology",
+    "shortDefinition": "Astrology."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Astrologie, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Astrologie"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie glaubt fest an Astrologie.",
+      "english": "She firmly believes in astrology.",
+      "highlight": [
+        "Astrologie."
+      ]
+    },
+    {
+      "german": "Astrologie ist keine Wissenschaft.",
+      "english": "Astrology is not a science.",
+      "highlight": [
+        "Astrologie"
+      ]
+    }
+  ],
+  "forms": [
+    "die Astrologie",
+    "Astrologe",
+    "astrologisch"
+  ],
+  "memoryHook": "Astrologie: lore (logos) of the stars (astron).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Astrologie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Astrologie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Astrologie mean?",
+      "options": [
+        "astrology",
+        "to travel",
+        "to open"
+      ],
+      "answer": "astrology",
+      "explanation": "Astrologie: astrology.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Astronomie is…",
+      "options": [
+        "astronomy (science)",
+        "astrology"
+      ],
+      "answer": "astronomy (science)",
+      "explanation": "Contrast.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Sternzeichen is…",
+      "options": [
+        "star sign",
+        "a star map"
+      ],
+      "answer": "star sign",
+      "explanation": "Star sign.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Horoskop is…",
+      "options": [
+        "horoscope",
+        "a telescope"
+      ],
+      "answer": "horoscope",
+      "explanation": "Related.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Astrologie is astrology, the belief that the stars influence human affairs; it's not a science. Don't confuse it with die Astronomie (astronomy). Common words: das Sternzeichen (star sign), das Horoskop, der Aszendent (ascendant). Asking Was bist du für ein Sternzeichen? is a common small-talk question. Johannes Kepler cast horoscopes for a living alongside his astronomy. It has no plural."
+}

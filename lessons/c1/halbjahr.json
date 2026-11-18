@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Halbjahr",
+    "partOfSpeech": "noun, neuter (das Halbjahr)",
+    "pronunciation": {
+      "respelling": "HALP-yaar",
+      "ipa": "ˈhalpˌjaːɐ̯",
+      "notes": "Plural: die Halbjahre."
+    },
+    "meaning": "half-year; school term",
+    "shortDefinition": "Half-year; school term."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Halbjahr, plural die Halbjahre.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Halbjahr"
+        },
+        {
+          "label": "More than one",
+          "value": "die Halbjahre"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im ersten Halbjahr stiegen die Umsätze.",
+      "english": "Sales rose in the first half of the year.",
+      "highlight": [
+        "Halbjahr"
+      ]
+    },
+    {
+      "german": "Am Ende des Halbjahres gibt es Zeugnisse.",
+      "english": "At the end of the term there are reports.",
+      "highlight": [
+        "Halbjahres"
+      ]
+    }
+  ],
+  "forms": [
+    "Halbjahre",
+    "die Halbjahre",
+    "das Halbjahr",
+    "halbjährlich"
+  ],
+  "memoryHook": "Halbjahr: half (halb) a year (Jahr).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Halbjahr",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Halbjahr is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Halbjahr, zwei ___",
+      "answer": "Halbjahre",
+      "fullAnswer": "ein Halbjahr, zwei Halbjahre",
+      "explanation": "The plural is Halbjahre.",
+      "acceptedAnswers": [
+        "Halbjahre"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Halbjahr mean?",
+      "options": [
+        "the car",
+        "the flower",
+        "half-year"
+      ],
+      "answer": "half-year",
+      "explanation": "Halbjahr: half-year; school term.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "German school years have…",
+      "options": [
+        "two Halbjahre",
+        "three terms"
+      ],
+      "answer": "two Halbjahre",
+      "explanation": "Two halves.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Halbjährlich means…",
+      "options": [
+        "every six months",
+        "half a year old"
+      ],
+      "answer": "every six months",
+      "explanation": "Six-monthly.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Halbjahreszeugnis comes…",
+      "options": [
+        "in late January / early February",
+        "in June"
+      ],
+      "answer": "in late January / early February",
+      "explanation": "Mid-year report.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Halbjahr is half a year: im ersten Halbjahr 2025. Companies report Halbjahreszahlen (half-year figures). The German school year is divided into two Halbjahre, not three terms; the Halbjahreszeugnis (mid-year report) comes out around late January, often followed by a few days off, the Winterferien in some states. Halbjährlich means every six months. Plural: die Halbjahre."
+}

@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "vorrätig",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "FOHR-ray-tikh",
+      "ipa": "ˈfoːɐ̯ˌʁɛːtɪç",
+      "notes": ""
+    },
+    "meaning": "in stock, available",
+    "shortDefinition": "In stock, available."
+  },
+  "sampleSentences": [
+    {
+      "german": "Das Buch ist leider nicht vorrätig.",
+      "english": "Unfortunately the book isn't in stock.",
+      "highlight": [
+        "vorrätig."
+      ]
+    },
+    {
+      "german": "Wir haben genug Lebensmittel vorrätig.",
+      "english": "We have enough food in stock.",
+      "highlight": [
+        "vorrätig."
+      ]
+    }
+  ],
+  "forms": [
+    "vorrätige",
+    "vorrätigen"
+  ],
+  "memoryHook": "Vorrätig: in the Vorrat (stock).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does vorrätig mean?",
+      "options": [
+        "the weather",
+        "always",
+        "in stock"
+      ],
+      "answer": "in stock",
+      "explanation": "vorrätig: in stock, available.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Vorrat is…",
+      "options": [
+        "supply, stock",
+        "a preview"
+      ],
+      "answer": "supply, stock",
+      "explanation": "Root.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Auf Vorrat kaufen means…",
+      "options": [
+        "to stock up",
+        "to buy in advance online"
+      ],
+      "answer": "to stock up",
+      "explanation": "Phrase.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "auf Lager, verfügbar",
+        "ausverkauft"
+      ],
+      "answer": "auf Lager, verfügbar",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Die Größe ist nicht mehr ___. (in stock)",
+      "answer": "vorrätig",
+      "fullAnswer": "Die Größe ist nicht mehr vorrätig.",
+      "explanation": "vorrätig.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Vorrätig means in stock or available: Das Medikament ist nicht vorrätig, wir bestellen es (common in pharmacies). Der Vorrat is a supply or stock: Vorräte anlegen, auf Vorrat kaufen. Germany's civil protection office recommends keeping ten days' Notvorrat (emergency supplies) at home. Synonyms: auf Lager, verfügbar, erhältlich. Opposite: vergriffen, ausverkauft."
+}

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Anlauf",
+    "partOfSpeech": "noun, masculine (der Anlauf)",
+    "pronunciation": {
+      "respelling": "AN-lauf",
+      "ipa": "ˈanˌlaʊ̯f",
+      "notes": "Plural: die Anläufe."
+    },
+    "meaning": "run-up; attempt",
+    "shortDefinition": "Run-up; attempt."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Anlauf, plural die Anläufe.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Anlauf"
+        },
+        {
+          "label": "More than one",
+          "value": "die Anläufe"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er nahm Anlauf und sprang.",
+      "english": "He took a run-up and jumped.",
+      "highlight": [
+        "Anlauf"
+      ]
+    },
+    {
+      "german": "Im dritten Anlauf hat sie die Prüfung bestanden.",
+      "english": "She passed the exam at the third attempt.",
+      "highlight": [
+        "Anlauf"
+      ]
+    }
+  ],
+  "forms": [
+    "Anläufe",
+    "die Anläufe",
+    "der Anlauf",
+    "anlaufen",
+    "Anlaufstelle"
+  ],
+  "memoryHook": "Anlauf: the run (Lauf) before the leap.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Anlauf",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Anlauf is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Anlauf, zwei ___",
+      "answer": "Anläufe",
+      "fullAnswer": "ein Anlauf, zwei Anläufe",
+      "explanation": "The plural is Anläufe.",
+      "acceptedAnswers": [
+        "Anlaeufe"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Anlauf mean?",
+      "options": [
+        "run-up",
+        "the evening",
+        "to help"
+      ],
+      "answer": "run-up",
+      "explanation": "Anlauf: run-up; attempt.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Im zweiten Anlauf means…",
+      "options": [
+        "at the second attempt",
+        "on the second lap"
+      ],
+      "answer": "at the second attempt",
+      "explanation": "Attempt.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Anlaufstelle is…",
+      "options": [
+        "a point of contact",
+        "a running track"
+      ],
+      "answer": "a point of contact",
+      "explanation": "Contact point.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Anlaufen means…",
+      "options": [
+        "to start up; to steam up (glasses)",
+        "to run away"
+      ],
+      "answer": "to start up; to steam up (glasses)",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Anlauf is a run-up (Anlauf nehmen, to take a run-up) and figuratively an attempt: im ersten Anlauf (at the first go), einen neuen Anlauf nehmen (to have another go). Die Anlaufstelle is a point of contact for help, such as a counselling centre. The verb anlaufen means to start up (Die Produktion läuft an) and, of glasses, to steam up: Meine Brille läuft an. Plural: die Anläufe."
+}

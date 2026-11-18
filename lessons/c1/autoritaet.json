@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Autorität",
+    "partOfSpeech": "noun, feminine (die Autorität)",
+    "pronunciation": {
+      "respelling": "au-to-ri-TAIT",
+      "ipa": "aʊ̯toʁiˈtɛːt",
+      "notes": "Plural: die Autoritäten."
+    },
+    "meaning": "authority",
+    "shortDefinition": "Authority."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Autorität, plural die Autoritäten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Autorität"
+        },
+        {
+          "label": "More than one",
+          "value": "die Autoritäten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Lehrer hat keine Autorität.",
+      "english": "The teacher has no authority.",
+      "highlight": [
+        "Autorität."
+      ]
+    },
+    {
+      "german": "Sie ist eine Autorität auf ihrem Gebiet.",
+      "english": "She's an authority in her field.",
+      "highlight": [
+        "Autorität"
+      ]
+    }
+  ],
+  "forms": [
+    "Autoritäten",
+    "die Autoritäten",
+    "die Autorität",
+    "autoritär"
+  ],
+  "memoryHook": "Autorität: respect you have, not an office you visit.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Autorität",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Autorität is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Autorität, zwei ___",
+      "answer": "Autoritäten",
+      "fullAnswer": "ein Autorität, zwei Autoritäten",
+      "explanation": "The plural is Autoritäten.",
+      "acceptedAnswers": [
+        "Autoritaeten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Autorität mean?",
+      "options": [
+        "the weather",
+        "authority",
+        "the door"
+      ],
+      "answer": "authority",
+      "explanation": "Autorität: authority.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Autoritär means…",
+      "options": [
+        "authoritarian",
+        "authoritative only"
+      ],
+      "answer": "authoritarian",
+      "explanation": "Negative.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Antiautoritäre Erziehung is…",
+      "options": [
+        "permissive child-rearing",
+        "strict upbringing"
+      ],
+      "answer": "permissive child-rearing",
+      "explanation": "1960s idea.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "A government authority (office) is…",
+      "options": [
+        "eine Behörde",
+        "eine Autorität"
+      ],
+      "answer": "eine Behörde",
+      "explanation": "Behörde.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Autorität is authority, the respect or power someone has: Autorität ausstrahlen, an Autorität verlieren. It's also an expert: eine Autorität auf dem Gebiet. A government office, though, is eine Behörde, not eine Autorität. Autoritär means authoritarian: ein autoritärer Staat. After 1968, antiautoritäre Erziehung (permissive child-rearing) became a famous movement in West Germany, as a reaction to the authoritarian past."
+}

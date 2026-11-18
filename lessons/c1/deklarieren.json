@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "deklarieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "de-kla-REE-ren",
+      "ipa": "deklaˈʁiːʁən",
+      "notes": ""
+    },
+    "meaning": "to declare (goods); to label",
+    "shortDefinition": "To declare (goods); to label."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "deklarier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "deklarier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "deklarier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "deklarier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "deklarier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "deklarier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat deklariert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Waren über dem Freibetrag müssen beim Zoll deklariert werden.",
+      "english": "Goods above the allowance must be declared at customs.",
+      "highlight": [
+        "deklariert"
+      ]
+    },
+    {
+      "german": "Er deklarierte den Abend zum Erfolg.",
+      "english": "He declared the evening a success.",
+      "highlight": [
+        "deklarierte"
+      ]
+    }
+  ],
+  "forms": [
+    "deklariere",
+    "deklarierst",
+    "deklariert",
+    "deklarieren",
+    "Deklaration"
+  ],
+  "memoryHook": "Deklarieren: make something clear (declarare).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (deklarieren)",
+      "answer": "deklariert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: deklariert.",
+      "acceptedAnswers": [
+        "deklariert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (deklarieren, past)",
+      "answer": "deklariert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe deklariert.",
+      "acceptedAnswers": [
+        "deklariert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does deklarieren mean?",
+      "options": [
+        "the weather",
+        "to wait",
+        "to declare (goods)"
+      ],
+      "answer": "to declare (goods)",
+      "explanation": "deklarieren: to declare (goods); to label.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Deklaration is…",
+      "options": [
+        "declaration",
+        "decoration"
+      ],
+      "answer": "declaration",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Beim Zoll etwas deklarieren means…",
+      "options": [
+        "to declare something at customs",
+        "to hide something"
+      ],
+      "answer": "to declare something at customs",
+      "explanation": "Customs.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Erklären means…",
+      "options": [
+        "to explain; to declare",
+        "to clear"
+      ],
+      "answer": "to explain; to declare",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Deklarieren means to declare, especially goods at customs (Waren beim Zoll deklarieren) or ingredients on labels: Allergene müssen deklariert werden. It can also mean to declare something to be something: etwas zur Chefsache deklarieren (to make it a top-priority matter). Die Deklaration is a declaration. The everyday German word is erklären. Perfect without ge-: hat deklariert."
+}

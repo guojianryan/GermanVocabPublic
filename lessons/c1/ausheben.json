@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ausheben",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AUS-hay-ben",
+      "ipa": "ˈaʊ̯sˌheːbn̩",
+      "notes": ""
+    },
+    "meaning": "to dig out; to bust, raid; to conscript (old)",
+    "shortDefinition": "To dig out; to bust, raid; to conscript (old)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "heb|e … |aus"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "heb|st … |aus"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "heb|t … |aus"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "heb|en … |aus"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "heb|t … |aus"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "heb|en … |aus"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat ausgehoben"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Polizei hob eine Drogenbande aus.",
+      "english": "The police busted a drug gang.",
+      "highlight": [
+        "hob",
+        "aus."
+      ]
+    },
+    {
+      "german": "Für das Fundament wird eine Grube ausgehoben.",
+      "english": "A pit is dug out for the foundation.",
+      "highlight": [
+        "ausgehoben."
+      ]
+    }
+  ],
+  "forms": [
+    "hebe aus",
+    "hebst aus",
+    "hebt aus",
+    "heben aus",
+    "ausgehoben",
+    "hob aus"
+  ],
+  "memoryHook": "Ausheben: heben (lift) something out (aus).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … aus (ausheben)",
+      "answer": "hebt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: hebt … aus.",
+      "acceptedAnswers": [
+        "hebt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (ausheben, past)",
+      "answer": "ausgehoben",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe ausgehoben.",
+      "acceptedAnswers": [
+        "ausgehoben"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does ausheben mean?",
+      "options": [
+        "the car",
+        "to dig out",
+        "to buy"
+      ],
+      "answer": "to dig out",
+      "explanation": "ausheben: to dig out; to bust, raid; to conscript (old).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Bande ausheben means…",
+      "options": [
+        "to bust a gang",
+        "to lift a gang"
+      ],
+      "answer": "to bust a gang",
+      "explanation": "Police.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Grube ausheben means…",
+      "options": [
+        "to dig a pit",
+        "to fill a pit"
+      ],
+      "answer": "to dig a pit",
+      "explanation": "Dig.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "hob aus, ausgehoben",
+        "hebte aus"
+      ],
+      "answer": "hob aus, ausgehoben",
+      "explanation": "Irregular.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Ausheben means to dig out (einen Graben, eine Grube ausheben), to bust or raid (ein Drogenlabor, eine Bande ausheben), and historically to conscript soldiers. Eine Tür ausheben means to lift a door off its hinges. Separable and irregular like heben: hob aus, ausgehoben. Synonyms: ausgraben (dig), hochnehmen or auffliegen lassen (bust)."
+}

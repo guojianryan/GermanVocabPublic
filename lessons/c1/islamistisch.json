@@ -1,0 +1,100 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "islamistisch",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "is-la-MIS-tish",
+      "ipa": "ɪslaˈmɪstɪʃ",
+      "notes": ""
+    },
+    "meaning": "Islamist (extremist)",
+    "shortDefinition": "Islamist (extremist)."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die Behörden warnen vor islamistischem Terror.",
+      "english": "The authorities warn of Islamist terrorism.",
+      "highlight": [
+        "islamistischem"
+      ]
+    },
+    {
+      "german": "Er wurde in einer islamistischen Gruppe radikalisiert.",
+      "english": "He was radicalised in an Islamist group.",
+      "highlight": [
+        "islamistischen"
+      ]
+    }
+  ],
+  "forms": [
+    "islamistische",
+    "islamistischen",
+    "islamistischem",
+    "Islamismus",
+    "Islamist"
+  ],
+  "memoryHook": "Islamistisch: about extremist Islamismus, not Islam itself.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does islamistisch mean?",
+      "options": [
+        "the flower",
+        "Islamist (extremist)",
+        "slowly"
+      ],
+      "answer": "Islamist (extremist)",
+      "explanation": "islamistisch: Islamist (extremist).",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Islamistisch vs. islamisch:",
+      "options": [
+        "political extremism vs. relating to Islam",
+        "the same"
+      ],
+      "answer": "political extremism vs. relating to Islam",
+      "explanation": "Distinction.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Islamismus is…",
+      "options": [
+        "Islamism (political ideology)",
+        "the religion of Islam"
+      ],
+      "answer": "Islamism (political ideology)",
+      "explanation": "Ideology.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Islamisch means…",
+      "options": [
+        "Islamic, relating to Islam",
+        "extremist"
+      ],
+      "answer": "Islamic, relating to Islam",
+      "explanation": "Neutral.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Terrorgruppe (Islamist)",
+      "answer": "islamistische",
+      "fullAnswer": "eine islamistische Terrorgruppe",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Islamistisch means Islamist, relating to Islamismus, a political ideology that seeks to impose a particular interpretation of Islam on state and society, sometimes violently. It's important to distinguish it from islamisch (Islamic), which simply relates to the religion of Islam and its roughly five million followers in Germany. The Verfassungsschutz monitors Islamist groups. Der Islamist is an Islamist."
+}

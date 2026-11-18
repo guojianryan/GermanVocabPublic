@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Absolvent",
+    "partOfSpeech": "noun, masculine (der Absolvent)",
+    "pronunciation": {
+      "respelling": "ap-zol-VENT",
+      "ipa": "apzɔlˈvɛnt",
+      "notes": "Plural: die Absolventen."
+    },
+    "meaning": "graduate",
+    "shortDefinition": "Graduate."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Absolvent, plural die Absolventen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Absolvent"
+        },
+        {
+          "label": "More than one",
+          "value": "die Absolventen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Absolventen feierten ihren Abschluss.",
+      "english": "The graduates celebrated their degrees.",
+      "highlight": [
+        "Absolventen"
+      ]
+    },
+    {
+      "german": "Sie ist Absolventin der TU München.",
+      "english": "She's a graduate of TU Munich.",
+      "highlight": [
+        "Absolventin"
+      ]
+    }
+  ],
+  "forms": [
+    "Absolventen",
+    "die Absolventen",
+    "der Absolvent",
+    "Absolventin",
+    "absolvieren"
+  ],
+  "memoryHook": "Absolvent: someone who has absolviert (completed) a course.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Absolvent",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Absolvent is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Absolvent, zwei ___",
+      "answer": "Absolventen",
+      "fullAnswer": "ein Absolvent, zwei Absolventen",
+      "explanation": "The plural is Absolventen.",
+      "acceptedAnswers": [
+        "Absolventen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Absolvent mean?",
+      "options": [
+        "the bill",
+        "to wait",
+        "graduate"
+      ],
+      "answer": "graduate",
+      "explanation": "Absolvent: graduate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Weak noun, accusative:",
+      "options": [
+        "den Absolventen",
+        "den Absolvent"
+      ],
+      "answer": "den Absolventen",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Absolvieren means…",
+      "options": [
+        "to complete (a course, exam)",
+        "to absolve"
+      ],
+      "answer": "to complete (a course, exam)",
+      "explanation": "Complete.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Hochschulabsolvent is…",
+      "options": [
+        "a university graduate",
+        "a dropout"
+      ],
+      "answer": "a university graduate",
+      "explanation": "Graduate.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Absolvent (die Absolventin) is a graduate: Hochschulabsolventen (university graduates), Schulabsolventen. It's a weak noun: den Absolventen. Absolvieren means to complete: ein Studium, eine Ausbildung or ein Praktikum absolvieren. German universities traditionally had no graduation ceremony, but Absolventenfeiern with hats are becoming popular. From Latin absolvere (to finish). Plural: die Absolventen."
+}

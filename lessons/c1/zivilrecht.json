@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zivilrecht",
+    "partOfSpeech": "noun, neuter (das Zivilrecht)",
+    "pronunciation": {
+      "respelling": "tsi-VEEL-rekht",
+      "ipa": "t͡siˈviːlˌʁɛçt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "civil law",
+    "shortDefinition": "Civil law."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Zivilrecht, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Zivilrecht"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Mietstreitigkeiten gehören zum Zivilrecht.",
+      "english": "Rental disputes belong to civil law.",
+      "highlight": [
+        "Zivilrecht."
+      ]
+    },
+    {
+      "german": "Das BGB ist die wichtigste Grundlage des Zivilrechts.",
+      "english": "The BGB is the main basis of civil law.",
+      "highlight": [
+        "Zivilrechts."
+      ]
+    }
+  ],
+  "forms": [
+    "das Zivilrecht",
+    "Zivilrechts",
+    "zivilrechtlich"
+  ],
+  "memoryHook": "Zivilrecht: the Recht (law) between Zivilisten (private citizens).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zivilrecht",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Zivilrecht is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zivilrecht mean?",
+      "options": [
+        "to sing",
+        "civil law",
+        "to wait"
+      ],
+      "answer": "civil law",
+      "explanation": "Zivilrecht: civil law.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "The German Civil Code (BGB) came into force in…",
+      "options": [
+        "1900",
+        "1949"
+      ],
+      "answer": "1900",
+      "explanation": "BGB.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Strafrecht is…",
+      "options": [
+        "criminal law",
+        "civil law"
+      ],
+      "answer": "criminal law",
+      "explanation": "Contrast.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "das Privatrecht, das bürgerliche Recht",
+        "das Völkerrecht"
+      ],
+      "answer": "das Privatrecht, das bürgerliche Recht",
+      "explanation": "Synonym.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Zivilrecht is civil law, governing relations between private individuals and companies: contracts, property, family and inheritance. Its core is the Bürgerliches Gesetzbuch (BGB), in force since 1 January 1900 and admired and copied abroad. Synonyms: das Privatrecht, das bürgerliche Recht. It contrasts with das Strafrecht (criminal law) and das öffentliche Recht (public law). Zivilrechtlich means under civil law."
+}

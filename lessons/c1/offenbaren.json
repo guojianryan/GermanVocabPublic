@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "offenbaren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "o-fen-BAA-ren",
+      "ipa": "ɔfn̩ˈbaːʁən",
+      "notes": ""
+    },
+    "meaning": "to reveal, disclose",
+    "shortDefinition": "To reveal, disclose."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "offenbar|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "offenbar|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "offenbar|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "offenbar|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "offenbar|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "offenbar|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat offenbart"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er offenbarte ihr seine Gefühle.",
+      "english": "He revealed his feelings to her.",
+      "highlight": [
+        "offenbarte"
+      ]
+    },
+    {
+      "german": "Die Krise offenbart die Schwächen des Systems.",
+      "english": "The crisis reveals the weaknesses of the system.",
+      "highlight": [
+        "offenbart"
+      ]
+    }
+  ],
+  "forms": [
+    "offenbare",
+    "offenbarst",
+    "offenbart",
+    "offenbaren",
+    "Offenbarung",
+    "offenbar"
+  ],
+  "memoryHook": "Offenbaren: make offen (open) what was hidden.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (offenbaren)",
+      "answer": "offenbart",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: offenbart.",
+      "acceptedAnswers": [
+        "offenbart"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (offenbaren, past)",
+      "answer": "offenbart",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe offenbart.",
+      "acceptedAnswers": [
+        "offenbart"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does offenbaren mean?",
+      "options": [
+        "the window",
+        "to reveal",
+        "the bed"
+      ],
+      "answer": "to reveal",
+      "explanation": "offenbaren: to reveal, disclose.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Offenbar (adverb) means…",
+      "options": [
+        "apparently, evidently",
+        "openly"
+      ],
+      "answer": "apparently, evidently",
+      "explanation": "Apparently.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Offenbarung is…",
+      "options": [
+        "revelation",
+        "openness"
+      ],
+      "answer": "revelation",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Offenbarung des Johannes is…",
+      "options": [
+        "the Book of Revelation",
+        "a novel"
+      ],
+      "answer": "the Book of Revelation",
+      "explanation": "Bible.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Offenbaren means to reveal or disclose: ein Geheimnis offenbaren, seine Gefühle offenbaren. It's slightly formal and dramatic. Sich offenbaren means to reveal oneself or open up to someone. Die Offenbarung is revelation, both religious (die Offenbarung des Johannes, the Book of Revelation) and casual: Das Essen war eine Offenbarung! The adverb offenbar means apparently: Er hat es offenbar vergessen."
+}

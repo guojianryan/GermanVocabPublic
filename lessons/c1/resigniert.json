@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "resigniert",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "re-zig-NEERT",
+      "ipa": "ʁezɪˈɡniːɐ̯t",
+      "notes": ""
+    },
+    "meaning": "resigned, defeated",
+    "shortDefinition": "Resigned, defeated."
+  },
+  "sampleSentences": [
+    {
+      "german": "Sie zuckte resigniert mit den Schultern.",
+      "english": "She shrugged in resignation.",
+      "highlight": [
+        "resigniert"
+      ]
+    },
+    {
+      "german": "Viele Wähler sind resigniert.",
+      "english": "Many voters have given up.",
+      "highlight": [
+        "resigniert."
+      ]
+    }
+  ],
+  "forms": [
+    "resignierte",
+    "resignierten",
+    "resignierter",
+    "resignieren"
+  ],
+  "memoryHook": "Resigniert: having given up (resigniert).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does resigniert mean?",
+      "options": [
+        "resigned",
+        "the window",
+        "the weather"
+      ],
+      "answer": "resigned",
+      "explanation": "resigniert: resigned, defeated.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Resignieren means…",
+      "options": [
+        "to give up, become resigned",
+        "to quit a job (main sense)"
+      ],
+      "answer": "to give up, become resigned",
+      "explanation": "False friend.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "To resign from a job is…",
+      "options": [
+        "zurücktreten, kündigen",
+        "resignieren"
+      ],
+      "answer": "zurücktreten, kündigen",
+      "explanation": "False friend.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Resignation is…",
+      "options": [
+        "resignation (giving up hope)",
+        "a job resignation"
+      ],
+      "answer": "resignation (giving up hope)",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "mit ___ Stimme (resigned)",
+      "answer": "resignierter",
+      "fullAnswer": "mit resignierter Stimme",
+      "explanation": "Feminine dative -er.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Resigniert means resigned or defeated, having given up hope: resigniert aufgeben, resigniert seufzen. Resignieren means to give up inwardly, not to leave a job; that's zurücktreten (from office) or kündigen (from a job). Die Resignation is resignation in the sense of hopelessness. Synonyms: entmutigt, mutlos. The opposite is zuversichtlich."
+}

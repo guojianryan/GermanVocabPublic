@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "hiesig",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "HEE-zikh",
+      "ipa": "ˈhiːzɪç",
+      "notes": ""
+    },
+    "meaning": "local, from here",
+    "shortDefinition": "Local, from here."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die hiesigen Bäcker sind sehr gut.",
+      "english": "The local bakers are very good.",
+      "highlight": [
+        "hiesigen"
+      ]
+    },
+    {
+      "german": "Er kennt die hiesigen Bräuche nicht.",
+      "english": "He doesn't know the local customs.",
+      "highlight": [
+        "hiesigen"
+      ]
+    }
+  ],
+  "forms": [
+    "hiesige",
+    "hiesigen",
+    "hiesiger",
+    "dortig"
+  ],
+  "memoryHook": "Hiesig: from hier, local.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does hiesig mean?",
+      "options": [
+        "the bed",
+        "local",
+        "slowly"
+      ],
+      "answer": "local",
+      "explanation": "hiesig: local, from here.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "From…",
+      "options": [
+        "hier (here)",
+        "heißen"
+      ],
+      "answer": "hier (here)",
+      "explanation": "hier.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hiesig is used…",
+      "options": [
+        "before a noun",
+        "after sein"
+      ],
+      "answer": "before a noun",
+      "explanation": "Attributive.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite (from there):",
+      "options": [
+        "dortig",
+        "dahin"
+      ],
+      "answer": "dortig",
+      "explanation": "dortig.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "die ___ Zeitung (local)",
+      "answer": "hiesige",
+      "fullAnswer": "die hiesige Zeitung",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Hiesig means local, belonging to here: die hiesige Bevölkerung, hiesige Produkte, der hiesige Dialekt. It's only used before a noun. Its partner is dortig (from there): die dortigen Behörden. Both are slightly formal; in speech, Germans say von hier or die Leute hier. As a noun, die Hiesigen means the locals. Regional pride in hiesige products, from beer to Spargel (asparagus), is strong in Germany."
+}

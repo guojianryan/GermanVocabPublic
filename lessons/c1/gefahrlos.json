@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "gefahrlos",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "ge-FAAR-lohs",
+      "ipa": "ɡəˈfaːɐ̯ˌloːs",
+      "notes": ""
+    },
+    "meaning": "safe, without danger",
+    "shortDefinition": "Safe, without danger."
+  },
+  "sampleSentences": [
+    {
+      "german": "Der Weg ist gefahrlos begehbar.",
+      "english": "The path can be walked safely.",
+      "highlight": [
+        "gefahrlos"
+      ]
+    },
+    {
+      "german": "Ist das Medikament für Kinder gefahrlos?",
+      "english": "Is the medicine safe for children?",
+      "highlight": [
+        "gefahrlos?"
+      ]
+    }
+  ],
+  "forms": [
+    "gefahrlose",
+    "gefahrlosen"
+  ],
+  "memoryHook": "Gefahrlos: without (los) Gefahr (danger).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does gefahrlos mean?",
+      "options": [
+        "to wait",
+        "safe",
+        "to travel"
+      ],
+      "answer": "safe",
+      "explanation": "gefahrlos: safe, without danger.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gefahrlos means…",
+      "options": [
+        "without danger",
+        "fearless"
+      ],
+      "answer": "without danger",
+      "explanation": "Meaning.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gefahr is…",
+      "options": [
+        "danger",
+        "a ride"
+      ],
+      "answer": "danger",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "ungefährlich, sicher",
+        "riskant"
+      ],
+      "answer": "ungefährlich, sicher",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ möglich (safe)",
+      "answer": "gefahrlos",
+      "fullAnswer": "gefahrlos möglich",
+      "explanation": "gefahrlos.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Gefahrlos means without danger or safe, mostly as an adverb: gefahrlos baden, gefahrlos überqueren. It's a bit more formal than ungefährlich or sicher. Die Gefahr is danger: auf eigene Gefahr (at your own risk), a common sign. Fearless is furchtlos. Opposite: gefährlich, riskant."
+}

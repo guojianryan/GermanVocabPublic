@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Spielfeld",
+    "partOfSpeech": "noun, neuter (das Spielfeld)",
+    "pronunciation": {
+      "respelling": "SHPEEL-felt",
+      "ipa": "ˈʃpiːlˌfɛlt",
+      "notes": "Plural: die Spielfelder."
+    },
+    "meaning": "pitch, playing field; board",
+    "shortDefinition": "Pitch, playing field; board."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Spielfeld, plural die Spielfelder.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Spielfeld"
+        },
+        {
+          "label": "More than one",
+          "value": "die Spielfelder"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Fans stürmten das Spielfeld.",
+      "english": "The fans stormed the pitch.",
+      "highlight": [
+        "Spielfeld."
+      ]
+    },
+    {
+      "german": "Das Spielfeld hat 64 Felder.",
+      "english": "The board has 64 squares.",
+      "highlight": [
+        "Spielfeld"
+      ]
+    }
+  ],
+  "forms": [
+    "Spielfelder",
+    "die Spielfelder",
+    "das Spielfeld"
+  ],
+  "memoryHook": "Spielfeld: the Feld where the Spiel happens.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Spielfeld",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Spielfeld is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Spielfeld, zwei ___",
+      "answer": "Spielfelder",
+      "fullAnswer": "ein Spielfeld, zwei Spielfelder",
+      "explanation": "The plural is Spielfelder.",
+      "acceptedAnswers": [
+        "Spielfelder"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Spielfeld mean?",
+      "options": [
+        "pitch",
+        "the family",
+        "never"
+      ],
+      "answer": "pitch",
+      "explanation": "Spielfeld: pitch, playing field; board.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Platz in football also means…",
+      "options": [
+        "the pitch",
+        "the ball"
+      ],
+      "answer": "the pitch",
+      "explanation": "Pitch.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Spielfeldrand is…",
+      "options": [
+        "the touchline",
+        "the centre circle"
+      ],
+      "answer": "the touchline",
+      "explanation": "Touchline.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Feld is…",
+      "options": [
+        "field; square (on a board)",
+        "a fail"
+      ],
+      "answer": "field; square (on a board)",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Spielfeld is a playing field or pitch (in football, also simply der Platz) and the board in board games: das Spielfeld beim Schach. Der Spielfeldrand is the touchline, where the coaches stand. Figuratively, ein gleiches Spielfeld is a level playing field, used in economics. Das Feld is a field and a square on a board. Plural: die Spielfelder."
+}

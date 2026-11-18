@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "einwirken",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AIN-vir-ken",
+      "ipa": "ˈaɪ̯nˌvɪʁkn̩",
+      "notes": ""
+    },
+    "meaning": "to act on, influence; to soak in",
+    "shortDefinition": "To act on, influence; to soak in."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "wirk|e … |ein"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "wirk|st … |ein"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "wirk|t … |ein"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "wirk|en … |ein"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "wirk|t … |ein"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "wirk|en … |ein"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat eingewirkt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Farbe muss 30 Minuten einwirken.",
+      "english": "The dye has to be left on for 30 minutes.",
+      "highlight": [
+        "einwirken."
+      ]
+    },
+    {
+      "german": "Er versuchte, auf seinen Sohn einzuwirken.",
+      "english": "He tried to influence his son.",
+      "highlight": [
+        "einzuwirken."
+      ]
+    }
+  ],
+  "forms": [
+    "wirke ein",
+    "wirkst ein",
+    "wirkt ein",
+    "wirken ein",
+    "eingewirkt",
+    "wirkte ein",
+    "Einwirkung"
+  ],
+  "memoryHook": "Einwirken: wirken (work) into (ein) something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ein (einwirken)",
+      "answer": "wirkt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: wirkt … ein.",
+      "acceptedAnswers": [
+        "wirkt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (einwirken, past)",
+      "answer": "eingewirkt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe eingewirkt.",
+      "acceptedAnswers": [
+        "eingewirkt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does einwirken mean?",
+      "options": [
+        "to learn",
+        "the key",
+        "to act on"
+      ],
+      "answer": "to act on",
+      "explanation": "einwirken: to act on, influence; to soak in.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einwirken auf takes…",
+      "options": [
+        "auf + accusative",
+        "mit + dative"
+      ],
+      "answer": "auf + accusative",
+      "explanation": "Preposition.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Einwirkzeit is…",
+      "options": [
+        "the time a product must stay on",
+        "working hours"
+      ],
+      "answer": "the time a product must stay on",
+      "explanation": "Compound.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Einwirkung is…",
+      "options": [
+        "influence, effect",
+        "income"
+      ],
+      "answer": "influence, effect",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Einwirken auf means to act on or influence: auf jemanden einwirken (to work on someone), äußere Einflüsse wirken auf das Material ein. On products it means to soak in or be left on: die Haarkur fünf Minuten einwirken lassen. Die Einwirkzeit is the time it needs, and die Einwirkung means influence or effect. Separable: wirkte ein, eingewirkt."
+}

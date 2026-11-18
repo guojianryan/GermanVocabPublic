@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "parlamentarisch",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "par-la-men-TAA-rish",
+      "ipa": "paʁlamɛnˈtaːʁɪʃ",
+      "notes": ""
+    },
+    "meaning": "parliamentary",
+    "shortDefinition": "Parliamentary."
+  },
+  "sampleSentences": [
+    {
+      "german": "Deutschland ist eine parlamentarische Demokratie.",
+      "english": "Germany is a parliamentary democracy.",
+      "highlight": [
+        "parlamentarische"
+      ]
+    },
+    {
+      "german": "Der Antrag braucht eine parlamentarische Mehrheit.",
+      "english": "The motion needs a parliamentary majority.",
+      "highlight": [
+        "parlamentarische"
+      ]
+    }
+  ],
+  "forms": [
+    "parlamentarische",
+    "parlamentarischen",
+    "Parlament",
+    "Parlamentarier"
+  ],
+  "memoryHook": "Parlamentarisch: to do with the Parlament.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does parlamentarisch mean?",
+      "options": [
+        "parliamentary",
+        "quiet",
+        "cheap"
+      ],
+      "answer": "parliamentary",
+      "explanation": "parlamentarisch: parliamentary.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Parlament in Germany is…",
+      "options": [
+        "the Bundestag",
+        "the Bundesrat only"
+      ],
+      "answer": "the Bundestag",
+      "explanation": "Bundestag.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Parlamentarier is…",
+      "options": [
+        "a member of parliament",
+        "a lobbyist"
+      ],
+      "answer": "a member of parliament",
+      "explanation": "MP.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die parlamentarische Sommerpause is…",
+      "options": [
+        "parliament's summer recess",
+        "a picnic"
+      ],
+      "answer": "parliament's summer recess",
+      "explanation": "Recess.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "die ___ Demokratie (parliamentary)",
+      "answer": "parlamentarische",
+      "fullAnswer": "die parlamentarische Demokratie",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Parlamentarisch means parliamentary: eine parlamentarische Demokratie, die parlamentarische Arbeit, der parlamentarische Staatssekretär (junior minister). Germany is a parlamentarische Demokratie: the Bundestag elects the chancellor, and the government depends on its majority. Der Parlamentarier is a member of parliament, formally der Abgeordnete. The Reichstag building in Berlin, with its glass dome, is the seat of the Bundestag."
+}

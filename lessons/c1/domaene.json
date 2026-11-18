@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Domäne",
+    "partOfSpeech": "noun, feminine (die Domäne)",
+    "pronunciation": {
+      "respelling": "do-MAI-ne",
+      "ipa": "doˈmɛːnə",
+      "notes": "Plural: die Domänen."
+    },
+    "meaning": "domain; field",
+    "shortDefinition": "Domain; field."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Domäne, plural die Domänen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Domäne"
+        },
+        {
+          "label": "More than one",
+          "value": "die Domänen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Küche war früher die Domäne der Frauen.",
+      "english": "The kitchen used to be women's domain.",
+      "highlight": [
+        "Domäne"
+      ]
+    },
+    {
+      "german": "Er hat die Domäne für seine Website gekauft.",
+      "english": "He bought the domain for his website.",
+      "highlight": [
+        "Domäne"
+      ]
+    }
+  ],
+  "forms": [
+    "Domänen",
+    "die Domänen",
+    "die Domäne"
+  ],
+  "memoryHook": "Domäne: a lord's (dominus) territory.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Domäne",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Domäne is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Domäne, zwei ___",
+      "answer": "Domänen",
+      "fullAnswer": "ein Domäne, zwei Domänen",
+      "explanation": "The plural is Domänen.",
+      "acceptedAnswers": [
+        "Domaenen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Domäne mean?",
+      "options": [
+        "to buy",
+        "the street",
+        "domain"
+      ],
+      "answer": "domain",
+      "explanation": "Domäne: domain; field.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, die Domäne means…",
+      "options": [
+        "someone's special field",
+        "a dome"
+      ],
+      "answer": "someone's special field",
+      "explanation": "Field.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "An internet domain is usually…",
+      "options": [
+        "die Domain",
+        "das Domizil"
+      ],
+      "answer": "die Domain",
+      "explanation": "Internet.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Historically, eine Domäne was…",
+      "options": [
+        "a state-owned estate",
+        "a cathedral"
+      ],
+      "answer": "a state-owned estate",
+      "explanation": "History.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Domäne is a domain or field: Das ist seine Domäne (that's his speciality), eine Männerdomäne (a male-dominated field). Historically, it was a state-owned estate (Staatsdomäne). For internet addresses, Germans mostly say die Domain, and .de is the world's most registered country-code domain after China's .cn. From Latin dominus (lord). Plural: die Domänen."
+}

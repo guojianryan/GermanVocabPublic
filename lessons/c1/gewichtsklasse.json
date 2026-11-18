@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gewichtsklasse",
+    "partOfSpeech": "noun, feminine (die Gewichtsklasse)",
+    "pronunciation": {
+      "respelling": "ge-VIKHTS-kla-se",
+      "ipa": "ɡəˈvɪçt͡sˌklasə",
+      "notes": "Plural: die Gewichtsklassen."
+    },
+    "meaning": "weight class, weight division",
+    "shortDefinition": "Weight class, weight division."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Gewichtsklasse, plural die Gewichtsklassen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Gewichtsklasse"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gewichtsklassen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er boxt in der Gewichtsklasse bis 75 Kilo.",
+      "english": "He boxes in the up-to-75-kilo class.",
+      "highlight": [
+        "Gewichtsklasse"
+      ]
+    },
+    {
+      "german": "Politisch spielen die beiden in verschiedenen Gewichtsklassen.",
+      "english": "Politically the two are in different leagues.",
+      "highlight": [
+        "Gewichtsklassen."
+      ]
+    }
+  ],
+  "forms": [
+    "Gewichtsklassen",
+    "die Gewichtsklasse"
+  ],
+  "memoryHook": "Gewichtsklasse: a Klasse by Gewicht (weight).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gewichtsklasse",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Gewichtsklasse is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gewichtsklasse, zwei ___",
+      "answer": "Gewichtsklassen",
+      "fullAnswer": "ein Gewichtsklasse, zwei Gewichtsklassen",
+      "explanation": "The plural is Gewichtsklassen.",
+      "acceptedAnswers": [
+        "Gewichtsklassen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gewichtsklasse mean?",
+      "options": [
+        "the bed",
+        "slowly",
+        "weight class"
+      ],
+      "answer": "weight class",
+      "explanation": "Gewichtsklasse: weight class, weight division.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, die gleiche Gewichtsklasse means…",
+      "options": [
+        "the same league, comparable importance",
+        "the same weight"
+      ],
+      "answer": "the same league, comparable importance",
+      "explanation": "Figurative.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Schwergewicht is…",
+      "options": [
+        "heavyweight",
+        "a burden"
+      ],
+      "answer": "heavyweight",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gewicht is…",
+      "options": [
+        "weight",
+        "a poem"
+      ],
+      "answer": "weight",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Gewichtsklasse is a weight class in boxing, wrestling, judo and weightlifting: das Fliegengewicht, das Mittelgewicht, das Schwergewicht. Figuratively, it means rank or importance: Die beiden Länder spielen nicht in derselben Gewichtsklasse. A political Schwergewicht is a heavyweight figure. Das Gewicht means weight. Plural: die Gewichtsklassen."
+}

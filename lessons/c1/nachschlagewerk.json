@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Nachschlagewerk",
+    "partOfSpeech": "noun, neuter (das Nachschlagewerk)",
+    "pronunciation": {
+      "respelling": "NAAKH-shlaa-ge-verk",
+      "ipa": "ˈnaːxʃlaːɡəˌvɛʁk",
+      "notes": "Plural: die Nachschlagewerke."
+    },
+    "meaning": "reference work",
+    "shortDefinition": "Reference work."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Nachschlagewerk, plural die Nachschlagewerke.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Nachschlagewerk"
+        },
+        {
+          "label": "More than one",
+          "value": "die Nachschlagewerke"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wikipedia ist das meistgenutzte Nachschlagewerk.",
+      "english": "Wikipedia is the most used reference work.",
+      "highlight": [
+        "Nachschlagewerk."
+      ]
+    },
+    {
+      "german": "Das Lexikon ist ein klassisches Nachschlagewerk.",
+      "english": "The encyclopedia is a classic reference work.",
+      "highlight": [
+        "Nachschlagewerk."
+      ]
+    }
+  ],
+  "forms": [
+    "Nachschlagewerke",
+    "das Nachschlagewerk"
+  ],
+  "memoryHook": "Nachschlagewerk: a Werk to nachschlagen (look things up) in.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Nachschlagewerk",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Nachschlagewerk is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Nachschlagewerk, zwei ___",
+      "answer": "Nachschlagewerke",
+      "fullAnswer": "ein Nachschlagewerk, zwei Nachschlagewerke",
+      "explanation": "The plural is Nachschlagewerke.",
+      "acceptedAnswers": [
+        "Nachschlagewerke"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Nachschlagewerk mean?",
+      "options": [
+        "to wait",
+        "reference work",
+        "quiet"
+      ],
+      "answer": "reference work",
+      "explanation": "Nachschlagewerk: reference work.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nachschlagen means…",
+      "options": [
+        "to look up",
+        "to hit back"
+      ],
+      "answer": "to look up",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Examples:",
+      "options": [
+        "Lexikon, Wörterbuch, Duden",
+        "Roman, Gedicht"
+      ],
+      "answer": "Lexikon, Wörterbuch, Duden",
+      "explanation": "Examples.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Brockhaus was…",
+      "options": [
+        "a famous German encyclopedia",
+        "a newspaper"
+      ],
+      "answer": "a famous German encyclopedia",
+      "explanation": "History.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Nachschlagewerk is a reference work: Lexikon, Wörterbuch, Atlas. Nachschlagen means to look up: im Duden nachschlagen. The Brockhaus was Germany's great printed encyclopedia for two centuries until online sources took over; its last full print edition appeared in 2005–06. Synonyms: das Handbuch, das Standardwerk. Plural: die Nachschlagewerke."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mitgift",
+    "partOfSpeech": "noun, feminine (die Mitgift)",
+    "pronunciation": {
+      "respelling": "MIT-gift",
+      "ipa": "ˈmɪtˌɡɪft",
+      "notes": "Plural: die Mitgiften."
+    },
+    "meaning": "dowry",
+    "shortDefinition": "Dowry."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Mitgift, plural die Mitgiften.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Mitgift"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mitgiften"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Früher brachten Bräute eine Mitgift in die Ehe.",
+      "english": "Brides used to bring a dowry into the marriage.",
+      "highlight": [
+        "Mitgift"
+      ]
+    },
+    {
+      "german": "Die Aussteuer war ein Teil der Mitgift.",
+      "english": "The trousseau was part of the dowry.",
+      "highlight": [
+        "Mitgift."
+      ]
+    }
+  ],
+  "forms": [
+    "Mitgiften",
+    "die Mitgift"
+  ],
+  "memoryHook": "Mitgift: the old Gift (gift) given mit (with) the bride.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mitgift",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Mitgift is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mitgift, zwei ___",
+      "answer": "Mitgiften",
+      "fullAnswer": "ein Mitgift, zwei Mitgiften",
+      "explanation": "The plural is Mitgiften.",
+      "acceptedAnswers": [
+        "Mitgiften"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mitgift mean?",
+      "options": [
+        "the flower",
+        "dowry",
+        "cheap"
+      ],
+      "answer": "dowry",
+      "explanation": "Mitgift: dowry.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Aussteuer is…",
+      "options": [
+        "trousseau (linen, household goods)",
+        "a tax"
+      ],
+      "answer": "trousseau (linen, household goods)",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gift (old) meant…",
+      "options": [
+        "gift (as in Mitgift)",
+        "poison only"
+      ],
+      "answer": "gift (as in Mitgift)",
+      "explanation": "Etymology.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gift today means…",
+      "options": [
+        "poison",
+        "present"
+      ],
+      "answer": "poison",
+      "explanation": "Contrast.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Mitgift is a dowry, money or goods a bride brought into marriage. It preserves an old meaning of Gift as gift (feminine die Gift); today das Gift (neuter) means poison, and a present is das Geschenk. The household linen in the Aussteuer chest was part of it. Figuratively, eine Mitgift can be an inheritance of traits: eine genetische Mitgift. Plural: die Mitgiften."
+}

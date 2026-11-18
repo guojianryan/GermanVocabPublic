@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Festung",
+    "partOfSpeech": "noun, feminine (die Festung)",
+    "pronunciation": {
+      "respelling": "FES-tung",
+      "ipa": "ˈfɛstʊŋ",
+      "notes": "Plural: die Festungen."
+    },
+    "meaning": "fortress",
+    "shortDefinition": "Fortress."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Festung, plural die Festungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Festung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Festungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Festung liegt auf einem Felsen.",
+      "english": "The fortress sits on a rock.",
+      "highlight": [
+        "Festung"
+      ]
+    },
+    {
+      "german": "Kritiker sprechen von der Festung Europa.",
+      "english": "Critics speak of Fortress Europe.",
+      "highlight": [
+        "Festung"
+      ]
+    }
+  ],
+  "forms": [
+    "Festungen",
+    "die Festungen",
+    "die Festung"
+  ],
+  "memoryHook": "Festung: built fest (solid).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Festung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Festung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Festung, zwei ___",
+      "answer": "Festungen",
+      "fullAnswer": "ein Festung, zwei Festungen",
+      "explanation": "The plural is Festungen.",
+      "acceptedAnswers": [
+        "Festungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Festung mean?",
+      "options": [
+        "fortress",
+        "the car",
+        "to travel"
+      ],
+      "answer": "fortress",
+      "explanation": "Festung: fortress.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Festung Europa is used to criticise…",
+      "options": [
+        "strict EU border policy",
+        "European castles"
+      ],
+      "answer": "strict EU border policy",
+      "explanation": "Political term.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Burg vs die Festung:",
+      "options": [
+        "Burg = medieval castle; Festung = fortress",
+        "same thing"
+      ],
+      "answer": "Burg = medieval castle; Festung = fortress",
+      "explanation": "Different.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "From…",
+      "options": [
+        "fest (firm, solid)",
+        "das Fest (party)"
+      ],
+      "answer": "fest (firm, solid)",
+      "explanation": "fest.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Festung is a fortress: die Festung Königstein in Saxony, die Festung Ehrenbreitstein in Koblenz, both popular sights. A medieval knight's castle is die Burg, and a palace das Schloss. Festung Europa (Fortress Europe) is used critically for the EU's strict border policies. From fest (firm, solid), not das Fest (party). Die Festungshaft was a mild form of imprisonment in older German law."
+}

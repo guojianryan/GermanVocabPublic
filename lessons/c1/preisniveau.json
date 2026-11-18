@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Preisniveau",
+    "partOfSpeech": "noun, neuter (das Preisniveau)",
+    "pronunciation": {
+      "respelling": "PRAIS-ni-voh",
+      "ipa": "ˈpʁaɪ̯sniˌvoː",
+      "notes": "Plural: die Preisniveaus."
+    },
+    "meaning": "price level",
+    "shortDefinition": "Price level."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Preisniveau, plural die Preisniveaus.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Preisniveau"
+        },
+        {
+          "label": "More than one",
+          "value": "die Preisniveaus"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Preisniveau in München ist sehr hoch.",
+      "english": "The price level in Munich is very high.",
+      "highlight": [
+        "Preisniveau"
+      ]
+    },
+    {
+      "german": "Die EZB soll das Preisniveau stabil halten.",
+      "english": "The ECB is supposed to keep the price level stable.",
+      "highlight": [
+        "Preisniveau"
+      ]
+    }
+  ],
+  "forms": [
+    "Preisniveaus",
+    "das Preisniveau"
+  ],
+  "memoryHook": "Preisniveau: the Niveau (level) of Preise.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Preisniveau",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Preisniveau is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Preisniveau, zwei ___",
+      "answer": "Preisniveaus",
+      "fullAnswer": "ein Preisniveau, zwei Preisniveaus",
+      "explanation": "The plural is Preisniveaus.",
+      "acceptedAnswers": [
+        "Preisniveaus"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Preisniveau mean?",
+      "options": [
+        "the job",
+        "never",
+        "price level"
+      ],
+      "answer": "price level",
+      "explanation": "Preisniveau: price level.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Niveau is…",
+      "options": [
+        "level, standard",
+        "a novelty"
+      ],
+      "answer": "level, standard",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Inflation means the Preisniveau…",
+      "options": [
+        "rises",
+        "falls"
+      ],
+      "answer": "rises",
+      "explanation": "Economics.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The ECB's inflation target is…",
+      "options": [
+        "2 percent",
+        "5 percent"
+      ],
+      "answer": "2 percent",
+      "explanation": "Economics.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Preisniveau is the price level: das allgemeine Preisniveau, ein hohes Preisniveau. Inflation is a rise in the Preisniveau, deflation a fall. The European Central Bank aims for price stability, defined as 2 percent inflation over the medium term. Das Niveau means level or standard: Er hat Niveau (he has class). Plural: die Preisniveaus."
+}

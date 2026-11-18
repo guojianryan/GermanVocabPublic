@@ -1,0 +1,94 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "gegeneinander",
+    "partOfSpeech": "adverb",
+    "pronunciation": {
+      "respelling": "gay-gen-ai-NAN-der",
+      "ipa": "ɡeːɡn̩ʔaɪ̯ˈnandɐ",
+      "notes": ""
+    },
+    "meaning": "against each other",
+    "shortDefinition": "Against each other."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die beiden Teams spielen morgen gegeneinander.",
+      "english": "The two teams play against each other tomorrow.",
+      "highlight": [
+        "gegeneinander."
+      ]
+    },
+    {
+      "german": "Sie haben sich gegeneinander ausgespielt.",
+      "english": "They played each other off.",
+      "highlight": [
+        "gegeneinander"
+      ]
+    }
+  ],
+  "forms": [],
+  "memoryHook": "Gegen + einander: face to face, as opponents.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does gegeneinander mean?",
+      "options": [
+        "expensive",
+        "the station",
+        "against each other"
+      ],
+      "answer": "against each other",
+      "explanation": "gegeneinander: against each other.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Opposite:",
+      "options": [
+        "miteinander",
+        "nebeneinander"
+      ],
+      "answer": "miteinander",
+      "explanation": "With each other.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gegeneinander abwägen means…",
+      "options": [
+        "to weigh up against each other",
+        "to fight"
+      ],
+      "answer": "to weigh up against each other",
+      "explanation": "Weigh up.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Built from…",
+      "options": [
+        "gegen + einander",
+        "Gegend + einander"
+      ],
+      "answer": "gegen + einander",
+      "explanation": "gegen + einander.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Sie kämpfen ___. (against each other)",
+      "answer": "gegeneinander",
+      "fullAnswer": "Sie kämpfen gegeneinander.",
+      "explanation": "gegeneinander.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Gegeneinander means against each other: Bayern und Dortmund spielen gegeneinander. Etwas gegeneinander abwägen means to weigh things up against each other, as in Vor- und Nachteile gegeneinander abwägen. It's one of many einander compounds: miteinander, nebeneinander, füreinander, voneinander. Einander replaces sich when you want to stress that the action is mutual."
+}

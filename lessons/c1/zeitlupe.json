@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zeitlupe",
+    "partOfSpeech": "noun, feminine (die Zeitlupe)",
+    "pronunciation": {
+      "respelling": "TSAIT-loo-pe",
+      "ipa": "ˈt͡saɪ̯tˌluːpə",
+      "notes": "Usually no plural."
+    },
+    "meaning": "slow motion",
+    "shortDefinition": "Slow motion."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Zeitlupe, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Zeitlupe"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Tor wurde in Zeitlupe wiederholt.",
+      "english": "The goal was replayed in slow motion.",
+      "highlight": [
+        "Zeitlupe"
+      ]
+    },
+    {
+      "german": "Die Verhandlungen laufen wie in Zeitlupe.",
+      "english": "The negotiations are moving at a snail's pace.",
+      "highlight": [
+        "Zeitlupe."
+      ]
+    }
+  ],
+  "forms": [
+    "die Zeitlupe"
+  ],
+  "memoryHook": "Zeitlupe: a Lupe (magnifying glass) for Zeit (time).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zeitlupe",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Zeitlupe is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zeitlupe mean?",
+      "options": [
+        "the car",
+        "the station",
+        "slow motion"
+      ],
+      "answer": "slow motion",
+      "explanation": "Zeitlupe: slow motion.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Zeitraffer is…",
+      "options": [
+        "time-lapse, fast motion",
+        "slow motion"
+      ],
+      "answer": "time-lapse, fast motion",
+      "explanation": "Opposite.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Lupe is…",
+      "options": [
+        "magnifying glass",
+        "a loop"
+      ],
+      "answer": "magnifying glass",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Slow motion was invented by…",
+      "options": [
+        "August Musger, an Austrian priest",
+        "Thomas Edison"
+      ],
+      "answer": "August Musger, an Austrian priest",
+      "explanation": "History.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Zeitlupe is slow motion: in Zeitlupe, die Zeitlupenwiederholung in sports. It's literally a magnifying glass (Lupe) for time, and an Austrian priest, August Musger, invented the technique in 1904. The opposite is der Zeitraffer (time-lapse). Figuratively, wie in Zeitlupe means painfully slowly. It has no plural."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Aufgebot",
+    "partOfSpeech": "noun, neuter (das Aufgebot)",
+    "pronunciation": {
+      "respelling": "AUF-ge-boht",
+      "ipa": "ˈaʊ̯fɡəˌboːt",
+      "notes": "Plural: die Aufgebote."
+    },
+    "meaning": "contingent, squad; banns",
+    "shortDefinition": "Contingent, squad; banns."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Aufgebot, plural die Aufgebote.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Aufgebot"
+        },
+        {
+          "label": "More than one",
+          "value": "die Aufgebote"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ein großes Polizeiaufgebot sicherte das Spiel.",
+      "english": "A large police presence secured the match.",
+      "highlight": [
+        "Polizeiaufgebot"
+      ]
+    },
+    {
+      "german": "Der Trainer gab das WM-Aufgebot bekannt.",
+      "english": "The coach announced the World Cup squad.",
+      "highlight": [
+        "WM-Aufgebot"
+      ]
+    }
+  ],
+  "forms": [
+    "Aufgebote",
+    "die Aufgebote",
+    "das Aufgebot",
+    "Polizeiaufgebot"
+  ],
+  "memoryHook": "Aufgebot: those called up (aufgeboten).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Aufgebot",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Aufgebot is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Aufgebot, zwei ___",
+      "answer": "Aufgebote",
+      "fullAnswer": "ein Aufgebot, zwei Aufgebote",
+      "explanation": "The plural is Aufgebote.",
+      "acceptedAnswers": [
+        "Aufgebote"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Aufgebot mean?",
+      "options": [
+        "the job",
+        "contingent",
+        "the evening"
+      ],
+      "answer": "contingent",
+      "explanation": "Aufgebot: contingent, squad; banns.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Polizeiaufgebot is…",
+      "options": [
+        "a (large) police presence",
+        "a police offer"
+      ],
+      "answer": "a (large) police presence",
+      "explanation": "Police.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In football, das Aufgebot is…",
+      "options": [
+        "the squad",
+        "the line-up only"
+      ],
+      "answer": "the squad",
+      "explanation": "Squad.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Aufbieten means…",
+      "options": [
+        "to muster, summon",
+        "to outbid"
+      ],
+      "answer": "to muster, summon",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Aufgebot is a contingent of people called up: ein großes Polizeiaufgebot (a large police presence), das Aufgebot an Rettungskräften, and in sport, the squad: das WM-Aufgebot. Historically, it also meant the banns of marriage, announced before a wedding. The verb aufbieten means to muster: alle Kräfte aufbieten (to summon all one's strength). Plural: die Aufgebote."
+}

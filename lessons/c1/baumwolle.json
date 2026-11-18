@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Baumwolle",
+    "partOfSpeech": "noun, feminine (die Baumwolle)",
+    "pronunciation": {
+      "respelling": "BAUM-vo-le",
+      "ipa": "ˈbaʊ̯mˌvɔlə",
+      "notes": "Usually no plural."
+    },
+    "meaning": "cotton",
+    "shortDefinition": "Cotton."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Baumwolle, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Baumwolle"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das T-Shirt ist aus hundert Prozent Baumwolle.",
+      "english": "The T-shirt is 100 percent cotton.",
+      "highlight": [
+        "Baumwolle."
+      ]
+    },
+    {
+      "german": "Bio-Baumwolle wird ohne Pestizide angebaut.",
+      "english": "Organic cotton is grown without pesticides.",
+      "highlight": [
+        "Bio-Baumwolle"
+      ]
+    }
+  ],
+  "forms": [
+    "die Baumwolle",
+    "Wolle"
+  ],
+  "memoryHook": "Baumwolle: wool (Wolle) that grows on a tree (Baum).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Baumwolle",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Baumwolle is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Baumwolle mean?",
+      "options": [
+        "cotton",
+        "to learn",
+        "tomorrow"
+      ],
+      "answer": "cotton",
+      "explanation": "Baumwolle: cotton.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Literally, Baumwolle means…",
+      "options": [
+        "tree wool",
+        "white wool"
+      ],
+      "answer": "tree wool",
+      "explanation": "Literal.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Wolle is…",
+      "options": [
+        "wool",
+        "will"
+      ],
+      "answer": "wool",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Leinen is…",
+      "options": [
+        "linen",
+        "cotton"
+      ],
+      "answer": "linen",
+      "explanation": "Linen.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Baumwolle is cotton, literally tree wool, as early European descriptions imagined sheep-like wool growing on trees. Labels show Baumwolle, Wolle (wool), Leinen (linen), Seide (silk) and Polyester. Germany's textile industry once centred on cotton spinning in Saxony and Westphalia. Today the Grüner Knopf (green button) label marks state-certified sustainable textiles. It has no plural."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Offerte",
+    "partOfSpeech": "noun, feminine (die Offerte)",
+    "pronunciation": {
+      "respelling": "o-FER-te",
+      "ipa": "ɔˈfɛʁtə",
+      "notes": "Plural: die Offerten."
+    },
+    "meaning": "offer, quotation",
+    "shortDefinition": "Offer, quotation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Offerte, plural die Offerten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Offerte"
+        },
+        {
+          "label": "More than one",
+          "value": "die Offerten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir haben drei Offerten eingeholt.",
+      "english": "We obtained three quotations.",
+      "highlight": [
+        "Offerten"
+      ]
+    },
+    {
+      "german": "Er lehnte die Offerte des Konkurrenten ab.",
+      "english": "He turned down the rival's offer.",
+      "highlight": [
+        "Offerte"
+      ]
+    }
+  ],
+  "forms": [
+    "Offerten",
+    "die Offerte"
+  ],
+  "memoryHook": "Offerte: what is offered (offerre).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Offerte",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Offerte is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Offerte, zwei ___",
+      "answer": "Offerten",
+      "fullAnswer": "ein Offerte, zwei Offerten",
+      "explanation": "The plural is Offerten.",
+      "acceptedAnswers": [
+        "Offerten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Offerte mean?",
+      "options": [
+        "offer",
+        "to travel",
+        "the shop"
+      ],
+      "answer": "offer",
+      "explanation": "Offerte: offer, quotation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Offerte is especially common in…",
+      "options": [
+        "Switzerland and Austria",
+        "northern Germany"
+      ],
+      "answer": "Switzerland and Austria",
+      "explanation": "Region.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "German equivalent:",
+      "options": [
+        "das Angebot",
+        "die Nachfrage"
+      ],
+      "answer": "das Angebot",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Offerieren means…",
+      "options": [
+        "to offer",
+        "to sacrifice"
+      ],
+      "answer": "to offer",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Offerte is an offer or quotation, especially in business. In Germany it sounds formal or old-fashioned, and das Angebot is normal, but in Switzerland die Offerte is the everyday word for a quote from a tradesperson. Offerieren means to offer. In sports news, eine Offerte is a transfer offer. Plural: die Offerten."
+}

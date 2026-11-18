@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "durchmachen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "DURKH-ma-khen",
+      "ipa": "ˈdʊʁçˌmaxn̩",
+      "notes": ""
+    },
+    "meaning": "to go through (hardship); to party all night",
+    "shortDefinition": "To go through (hardship); to party all night."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "mach|e … |durch"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "mach|st … |durch"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "mach|t … |durch"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "mach|en … |durch"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "mach|t … |durch"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "mach|en … |durch"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat durchgemacht"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie hat viel durchgemacht.",
+      "english": "She's been through a lot.",
+      "highlight": [
+        "durchgemacht."
+      ]
+    },
+    {
+      "german": "Wir haben die ganze Nacht durchgemacht.",
+      "english": "We partied all night.",
+      "highlight": [
+        "durchgemacht."
+      ]
+    }
+  ],
+  "forms": [
+    "mache durch",
+    "machst durch",
+    "macht durch",
+    "machen durch",
+    "durchgemacht",
+    "machte durch"
+  ],
+  "memoryHook": "Durchmachen: get through (durch) something to the end.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … durch (durchmachen)",
+      "answer": "macht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: macht … durch.",
+      "acceptedAnswers": [
+        "macht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (durchmachen, past)",
+      "answer": "durchgemacht",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe durchgemacht.",
+      "acceptedAnswers": [
+        "durchgemacht"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does durchmachen mean?",
+      "options": [
+        "cheap",
+        "to go through (hardship)",
+        "the shop"
+      ],
+      "answer": "to go through (hardship)",
+      "explanation": "durchmachen: to go through (hardship); to party all night.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Viel durchmachen means…",
+      "options": [
+        "to go through a lot",
+        "to do a lot"
+      ],
+      "answer": "to go through a lot",
+      "explanation": "Hardship.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Nacht durchmachen means…",
+      "options": [
+        "to stay up partying all night",
+        "to sleep through"
+      ],
+      "answer": "to stay up partying all night",
+      "explanation": "Party.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Durchmachen is…",
+      "options": [
+        "separable",
+        "not separable"
+      ],
+      "answer": "separable",
+      "explanation": "Separable.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Durchmachen means to go through hardship (eine schwere Zeit, eine Krankheit durchmachen; Sie hat viel durchgemacht, she's been through a lot) and colloquially to party or work through the night: Wir haben bis morgens durchgemacht. It can also mean to complete a training: eine Ausbildung durchmachen. Synonyms: erleben, erleiden. Separable: machte durch, durchgemacht."
+}

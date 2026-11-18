@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "schippen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHI-pen",
+      "ipa": "ˈʃɪpn̩",
+      "notes": ""
+    },
+    "meaning": "to shovel (northern German)",
+    "shortDefinition": "To shovel (northern German)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schipp|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schipp|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schipp|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schipp|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schipp|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schipp|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geschippt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir müssen vor dem Haus Schnee schippen.",
+      "english": "We have to shovel snow in front of the house.",
+      "highlight": [
+        "schippen."
+      ]
+    },
+    {
+      "german": "Er hat den ganzen Nachmittag Sand geschippt.",
+      "english": "He shovelled sand all afternoon.",
+      "highlight": [
+        "geschippt."
+      ]
+    }
+  ],
+  "forms": [
+    "schippe",
+    "schippst",
+    "schippt",
+    "schippen",
+    "geschippt",
+    "Schippe"
+  ],
+  "memoryHook": "Schippen: work with a Schippe (shovel).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (schippen)",
+      "answer": "schippt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schippt.",
+      "acceptedAnswers": [
+        "schippt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (schippen, past)",
+      "answer": "geschippt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geschippt.",
+      "acceptedAnswers": [
+        "geschippt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does schippen mean?",
+      "options": [
+        "the family",
+        "to shovel (northern German)",
+        "never"
+      ],
+      "answer": "to shovel (northern German)",
+      "explanation": "schippen: to shovel (northern German).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schippe is…",
+      "options": [
+        "shovel (north)",
+        "ship"
+      ],
+      "answer": "shovel (north)",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden auf die Schippe nehmen means…",
+      "options": [
+        "to pull someone's leg",
+        "to bury someone"
+      ],
+      "answer": "to pull someone's leg",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Standard synonym:",
+      "options": [
+        "schaufeln",
+        "schieben"
+      ],
+      "answer": "schaufeln",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Schippen is a northern and central German word for shovelling: Schnee schippen, Kohlen schippen. The standard word is schaufeln, and die Schippe is a shovel. The idiom jemanden auf die Schippe nehmen means to pull someone's leg or tease them. Eine Schippe drauflegen means to step things up a notch. Regular: schippte, geschippt."
+}

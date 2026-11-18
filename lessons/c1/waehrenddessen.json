@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "währenddessen",
+    "partOfSpeech": "adverb",
+    "pronunciation": {
+      "respelling": "vair-ent-DES-en",
+      "ipa": "vɛːʁəntˈdɛsn̩",
+      "notes": ""
+    },
+    "meaning": "meanwhile, in the meantime",
+    "shortDefinition": "Meanwhile, in the meantime."
+  },
+  "sampleSentences": [
+    {
+      "german": "Ich koche, währenddessen deckst du den Tisch.",
+      "english": "I'll cook; meanwhile you set the table.",
+      "highlight": [
+        "währenddessen"
+      ]
+    },
+    {
+      "german": "Währenddessen stiegen die Preise weiter.",
+      "english": "Meanwhile prices kept rising.",
+      "highlight": [
+        "Währenddessen"
+      ]
+    }
+  ],
+  "forms": [
+    "während"
+  ],
+  "memoryHook": "Währenddessen: während that (dessen) was happening.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does währenddessen mean?",
+      "options": [
+        "meanwhile",
+        "the car",
+        "the key"
+      ],
+      "answer": "meanwhile",
+      "explanation": "währenddessen: meanwhile, in the meantime.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "After währenddessen at the start, the verb comes…",
+      "options": [
+        "next (position 2)",
+        "at the end"
+      ],
+      "answer": "next (position 2)",
+      "explanation": "It's an adverb.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Während (conjunction) sends the verb…",
+      "options": [
+        "to the end",
+        "to position 2"
+      ],
+      "answer": "to the end",
+      "explanation": "Subordinate clause.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "inzwischen",
+        "danach"
+      ],
+      "answer": "inzwischen",
+      "explanation": "Meanwhile.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ schlief das Kind. (meanwhile)",
+      "answer": "Währenddessen",
+      "fullAnswer": "Währenddessen schlief das Kind.",
+      "explanation": "währenddessen.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Währenddessen means meanwhile or at the same time: Er telefonierte, währenddessen kochte sie. It's an adverb, so when it starts a clause the verb comes straight after: Währenddessen regnete es. Compare während, a conjunction that sends the verb to the end: Während er telefonierte, kochte sie. Synonyms: inzwischen, unterdessen, in der Zwischenzeit. Built from während + dessen (of that)."
+}

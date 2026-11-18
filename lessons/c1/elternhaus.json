@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Elternhaus",
+    "partOfSpeech": "noun, neuter (das Elternhaus)",
+    "pronunciation": {
+      "respelling": "EL-tern-haus",
+      "ipa": "ˈɛltɐnˌhaʊ̯s",
+      "notes": "Plural: die Elternhäuser."
+    },
+    "meaning": "family home; family background",
+    "shortDefinition": "Family home; family background."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Elternhaus, plural die Elternhäuser.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Elternhaus"
+        },
+        {
+          "label": "More than one",
+          "value": "die Elternhäuser"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie kommt aus einem gebildeten Elternhaus.",
+      "english": "She comes from an educated family.",
+      "highlight": [
+        "Elternhaus."
+      ]
+    },
+    {
+      "german": "Er hat das Elternhaus nach dem Tod der Mutter verkauft.",
+      "english": "He sold his parents' house after his mother's death.",
+      "highlight": [
+        "Elternhaus"
+      ]
+    }
+  ],
+  "forms": [
+    "Elternhäuser",
+    "die Elternhäuser",
+    "das Elternhaus"
+  ],
+  "memoryHook": "Elternhaus: the house of the Eltern (parents), and their influence.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Elternhaus",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Elternhaus is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Elternhaus, zwei ___",
+      "answer": "Elternhäuser",
+      "fullAnswer": "ein Elternhaus, zwei Elternhäuser",
+      "explanation": "The plural is Elternhäuser.",
+      "acceptedAnswers": [
+        "Elternhaeuser"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Elternhaus mean?",
+      "options": [
+        "family home",
+        "the car",
+        "to sleep"
+      ],
+      "answer": "family home",
+      "explanation": "Elternhaus: family home; family background.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Aus gutem Elternhaus means…",
+      "options": [
+        "from a good family",
+        "from a big house"
+      ],
+      "answer": "from a good family",
+      "explanation": "Background.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Germany, educational success depends strongly on…",
+      "options": [
+        "das Elternhaus",
+        "the weather"
+      ],
+      "answer": "das Elternhaus",
+      "explanation": "Background.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Eltern are…",
+      "options": [
+        "parents",
+        "elders"
+      ],
+      "answer": "parents",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Elternhaus is literally one's parents' house, and figuratively one's family background: aus einem guten Elternhaus stammen. Studies like PISA have repeatedly shown that in Germany, school success depends heavily on the Elternhaus: children of academics are far more likely to go to a Gymnasium and university. Initiatives like ArbeiterKind.de support first-generation students. Plural: die Elternhäuser."
+}

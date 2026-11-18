@@ -1,0 +1,140 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Anstalt",
+    "partOfSpeech": "noun, feminine (die Anstalt)",
+    "pronunciation": {
+      "respelling": "AN-shtalt",
+      "ipa": "ˈanʃtalt",
+      "notes": "Plural: die Anstalten."
+    },
+    "meaning": "institution; (old) asylum; (pl.) preparations",
+    "shortDefinition": "Institution; (old) asylum; (pl.) preparations."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Anstalt, plural die Anstalten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Anstalt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Anstalten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er wurde in eine Anstalt eingewiesen.",
+      "english": "He was committed to an institution.",
+      "highlight": [
+        "Anstalt"
+      ]
+    },
+    {
+      "german": "Sie machte keine Anstalten zu gehen.",
+      "english": "She made no move to leave.",
+      "highlight": [
+        "Anstalten"
+      ]
+    }
+  ],
+  "forms": [
+    "Anstalten",
+    "die Anstalten",
+    "die Anstalt"
+  ],
+  "memoryHook": "Anstalt: an institution, or the preparations to act.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Anstalt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Anstalt is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Anstalt, zwei ___",
+      "answer": "Anstalten",
+      "fullAnswer": "ein Anstalt, zwei Anstalten",
+      "explanation": "The plural is Anstalten.",
+      "acceptedAnswers": [
+        "Anstalten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Anstalt mean?",
+      "options": [
+        "institution",
+        "the shop",
+        "slowly"
+      ],
+      "answer": "institution",
+      "explanation": "Anstalt: institution; (old) asylum; (pl.) preparations.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Keine Anstalten machen means…",
+      "options": [
+        "to make no move to do something",
+        "to build nothing"
+      ],
+      "answer": "to make no move to do something",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Anstalt des öffentlichen Rechts is…",
+      "options": [
+        "a public-law institution",
+        "an old hospital"
+      ],
+      "answer": "a public-law institution",
+      "explanation": "Broadcasters are Anstalten.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Anstalt, used alone for a person's care, sounds…",
+      "options": [
+        "outdated or negative",
+        "very friendly"
+      ],
+      "answer": "outdated or negative",
+      "explanation": "Mostly avoided.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Anstalten",
+        "Anstälte"
+      ],
+      "answer": "Anstalten",
+      "explanation": "-en, no umlaut.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Die Anstalt means institution. In older usage it meant an asylum or prison: Heilanstalt, Strafanstalt. Today it has a negative ring in that sense, but it's neutral in legal language: öffentlich-rechtliche Rundfunkanstalten are public broadcasters, and Bundesanstalt is a federal agency. In the plural it appears in the idiom Anstalten machen: Er machte Anstalten zu gehen (he was about to leave)."
+}

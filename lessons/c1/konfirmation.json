@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Konfirmation",
+    "partOfSpeech": "noun, feminine (die Konfirmation)",
+    "pronunciation": {
+      "respelling": "kon-fir-ma-TSYOHN",
+      "ipa": "kɔnfɪʁmaˈt͡si̯oːn",
+      "notes": "Plural: die Konfirmationen."
+    },
+    "meaning": "confirmation (Protestant)",
+    "shortDefinition": "Confirmation (Protestant)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Konfirmation, plural die Konfirmationen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Konfirmation"
+        },
+        {
+          "label": "More than one",
+          "value": "die Konfirmationen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Zur Konfirmation bekam er viel Geld geschenkt.",
+      "english": "He got a lot of money as confirmation gifts.",
+      "highlight": [
+        "Konfirmation"
+      ]
+    },
+    {
+      "german": "Die Konfirmation findet meist mit 14 Jahren statt.",
+      "english": "Confirmation usually takes place at 14.",
+      "highlight": [
+        "Konfirmation"
+      ]
+    }
+  ],
+  "forms": [
+    "Konfirmationen",
+    "die Konfirmation"
+  ],
+  "memoryHook": "Konfirmation: confirming (confirmare) one's baptism.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Konfirmation",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Konfirmation is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Konfirmation, zwei ___",
+      "answer": "Konfirmationen",
+      "fullAnswer": "ein Konfirmation, zwei Konfirmationen",
+      "explanation": "The plural is Konfirmationen.",
+      "acceptedAnswers": [
+        "Konfirmationen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Konfirmation mean?",
+      "options": [
+        "confirmation (Protestant)",
+        "to travel",
+        "the family"
+      ],
+      "answer": "confirmation (Protestant)",
+      "explanation": "Konfirmation: confirmation (Protestant).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Catholic equivalent is…",
+      "options": [
+        "die Firmung",
+        "die Taufe"
+      ],
+      "answer": "die Firmung",
+      "explanation": "Catholic.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The secular East German tradition is…",
+      "options": [
+        "die Jugendweihe",
+        "die Kommunion"
+      ],
+      "answer": "die Jugendweihe",
+      "explanation": "East.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Konfirmand is…",
+      "options": [
+        "a confirmation candidate",
+        "a confirmed bachelor"
+      ],
+      "answer": "a confirmation candidate",
+      "explanation": "Person.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Konfirmation is confirmation in the Protestant church, usually at about 14, when young people confirm their baptism after a year of Konfirmandenunterricht. The Catholic equivalent is die Firmung, preceded by the Erstkommunion at about nine. In eastern Germany, the secular Jugendweihe remains popular. Confirmands traditionally receive generous gifts, often money. Plural: die Konfirmationen."
+}

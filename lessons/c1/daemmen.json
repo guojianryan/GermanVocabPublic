@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "dämmen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "DE-men",
+      "ipa": "ˈdɛmən",
+      "notes": ""
+    },
+    "meaning": "to insulate; to contain",
+    "shortDefinition": "To insulate; to contain."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "dämm|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "dämm|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "dämm|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "dämm|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "dämm|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "dämm|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gedämmt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir haben das Dach neu gedämmt.",
+      "english": "We've re-insulated the roof.",
+      "highlight": [
+        "gedämmt."
+      ]
+    },
+    {
+      "german": "Gut gedämmte Häuser sparen Heizkosten.",
+      "english": "Well-insulated houses save heating costs.",
+      "highlight": [
+        "gedämmte"
+      ]
+    }
+  ],
+  "forms": [
+    "dämme",
+    "dämmst",
+    "dämmt",
+    "dämmen",
+    "gedämmt",
+    "Dämmung"
+  ],
+  "memoryHook": "Dämmen: hold back like a Damm (dam).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (dämmen)",
+      "answer": "dämmt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: dämmt.",
+      "acceptedAnswers": [
+        "daemmt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (dämmen, past)",
+      "answer": "gedämmt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gedämmt.",
+      "acceptedAnswers": [
+        "gedaemmt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does dämmen mean?",
+      "options": [
+        "to insulate",
+        "slowly",
+        "to sing"
+      ],
+      "answer": "to insulate",
+      "explanation": "dämmen: to insulate; to contain.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Dämmung is…",
+      "options": [
+        "insulation",
+        "a dam"
+      ],
+      "answer": "insulation",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Wärmedämmung is…",
+      "options": [
+        "thermal insulation",
+        "a heating system"
+      ],
+      "answer": "thermal insulation",
+      "explanation": "Compound.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Damm is…",
+      "options": [
+        "dam, embankment",
+        "lady"
+      ],
+      "answer": "dam, embankment",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Dämmen means to insulate against heat or sound: Fassaden, Dächer, Rohre dämmen. Die Wärmedämmung and Schalldämmung are thermal and sound insulation, central to energy-efficient renovation. Literally, dämmen means to hold back water with a Damm (dam), and eindämmen means to contain. Regular: dämmte, gedämmt."
+}

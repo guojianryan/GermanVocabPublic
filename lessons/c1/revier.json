@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Revier",
+    "partOfSpeech": "noun, neuter (das Revier)",
+    "pronunciation": {
+      "respelling": "re-VEER",
+      "ipa": "ʁeˈviːɐ̯",
+      "notes": "Plural: die Reviere."
+    },
+    "meaning": "territory, district; police station; mining area",
+    "shortDefinition": "Territory, district; police station; mining area."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Revier, plural die Reviere.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Revier"
+        },
+        {
+          "label": "More than one",
+          "value": "die Reviere"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Hund markiert sein Revier.",
+      "english": "The dog is marking its territory.",
+      "highlight": [
+        "Revier."
+      ]
+    },
+    {
+      "german": "Sie musste mit aufs Revier kommen.",
+      "english": "She had to come to the police station.",
+      "highlight": [
+        "Revier"
+      ]
+    }
+  ],
+  "forms": [
+    "Reviere",
+    "die Reviere",
+    "das Revier",
+    "Polizeirevier"
+  ],
+  "memoryHook": "Revier: an animal's territory, a police district, or the Ruhr.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Revier",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Revier is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Revier, zwei ___",
+      "answer": "Reviere",
+      "fullAnswer": "ein Revier, zwei Reviere",
+      "explanation": "The plural is Reviere.",
+      "acceptedAnswers": [
+        "Reviere"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Revier mean?",
+      "options": [
+        "territory",
+        "tomorrow",
+        "the street"
+      ],
+      "answer": "territory",
+      "explanation": "Revier: territory, district; police station; mining area.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Revier (Ruhr) refers to…",
+      "options": [
+        "the Ruhr mining region",
+        "a forest"
+      ],
+      "answer": "the Ruhr mining region",
+      "explanation": "Ruhrgebiet.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Polizeirevier is…",
+      "options": [
+        "a police station",
+        "a police dog"
+      ],
+      "answer": "a police station",
+      "explanation": "Station.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress on…",
+      "options": [
+        "-VIER",
+        "RE-"
+      ],
+      "answer": "-VIER",
+      "explanation": "re-VEER.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Revier is a territory or district: Tiere verteidigen ihr Revier, das Jagdrevier (hunting ground). In police language, das Revier is a police station or precinct: aufs Revier mitkommen. Das Revier or der Pott is also the nickname of the Ruhr area, Germany's former coal and steel heartland, and das Revierderby is the football derby between Schalke 04 and Borussia Dortmund. From French rivière. Stress: re-VEER."
+}

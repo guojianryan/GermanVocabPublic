@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vakuum",
+    "partOfSpeech": "noun, neuter (das Vakuum)",
+    "pronunciation": {
+      "respelling": "VAA-ku-um",
+      "ipa": "ˈvaːku.ʊm",
+      "notes": "Plural: die Vakua."
+    },
+    "meaning": "vacuum",
+    "shortDefinition": "Vacuum."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Vakuum, plural die Vakua.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Vakuum"
+        },
+        {
+          "label": "More than one",
+          "value": "die Vakua"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Lebensmittel werden oft im Vakuum verpackt.",
+      "english": "Food is often vacuum-packed.",
+      "highlight": [
+        "Vakuum"
+      ]
+    },
+    {
+      "german": "Nach dem Rücktritt entstand ein Machtvakuum.",
+      "english": "A power vacuum emerged after the resignation.",
+      "highlight": [
+        "Machtvakuum."
+      ]
+    }
+  ],
+  "forms": [
+    "Vakua",
+    "Vakuen",
+    "das Vakuum"
+  ],
+  "memoryHook": "Vakuum: empty (Latin vacuus) space.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vakuum",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Vakuum is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Vakuum, zwei ___",
+      "answer": "Vakua",
+      "fullAnswer": "ein Vakuum, zwei Vakua",
+      "explanation": "The plural is Vakua.",
+      "acceptedAnswers": [
+        "Vakua"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vakuum mean?",
+      "options": [
+        "to buy",
+        "hot",
+        "vacuum"
+      ],
+      "answer": "vacuum",
+      "explanation": "Vakuum: vacuum.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Machtvakuum is…",
+      "options": [
+        "a power vacuum",
+        "a vacuum cleaner"
+      ],
+      "answer": "a power vacuum",
+      "explanation": "Power.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A vacuum cleaner is…",
+      "options": [
+        "der Staubsauger",
+        "der Vakuumreiniger"
+      ],
+      "answer": "der Staubsauger",
+      "explanation": "Hoover.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vakuumverpackt means…",
+      "options": [
+        "vacuum-packed",
+        "empty"
+      ],
+      "answer": "vacuum-packed",
+      "explanation": "Packed.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Vakuum is a vacuum: ein luftleerer Raum, vakuumverpackt (vacuum-packed). Figuratively: ein Machtvakuum, ein politisches Vakuum. In 1654, Otto von Guericke, mayor of Magdeburg, demonstrated the power of a vacuum with his Magdeburger Halbkugeln: two teams of horses could not pull apart two hemispheres. A vacuum cleaner is der Staubsauger. Plural: die Vakua or Vakuen."
+}

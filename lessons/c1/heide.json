@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Heide",
+    "partOfSpeech": "noun, feminine (die Heide)",
+    "pronunciation": {
+      "respelling": "HAI-de",
+      "ipa": "ˈhaɪ̯də",
+      "notes": "Plural: die Heiden."
+    },
+    "meaning": "heath, heathland",
+    "shortDefinition": "Heath, heathland."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Heide, plural die Heiden.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Heide"
+        },
+        {
+          "label": "More than one",
+          "value": "die Heiden"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im August blüht die Heide lila.",
+      "english": "In August the heath blooms purple.",
+      "highlight": [
+        "Heide"
+      ]
+    },
+    {
+      "german": "Wir wandern durch die Lüneburger Heide.",
+      "english": "We're hiking through the Lüneburg Heath.",
+      "highlight": [
+        "Heide."
+      ]
+    }
+  ],
+  "forms": [
+    "Heiden",
+    "die Heiden",
+    "die Heide",
+    "Heidekraut"
+  ],
+  "memoryHook": "Heide: purple heather, and with der, a heathen.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Heide",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Heide is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Heide, zwei ___",
+      "answer": "Heiden",
+      "fullAnswer": "ein Heide, zwei Heiden",
+      "explanation": "The plural is Heiden.",
+      "acceptedAnswers": [
+        "Heiden"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Heide mean?",
+      "options": [
+        "the family",
+        "quiet",
+        "heath"
+      ],
+      "answer": "heath",
+      "explanation": "Heide: heath, heathland.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Heide (masculine) means…",
+      "options": [
+        "heathen, pagan",
+        "heath"
+      ],
+      "answer": "heathen, pagan",
+      "explanation": "Different gender, different word.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Heidekraut is…",
+      "options": [
+        "heather",
+        "a herb for tea only"
+      ],
+      "answer": "heather",
+      "explanation": "Heather.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "A famous German heath:",
+      "options": [
+        "die Lüneburger Heide",
+        "die Schwäbische Alb"
+      ],
+      "answer": "die Lüneburger Heide",
+      "explanation": "Near Hamburg.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Heide is heathland, open sandy land covered in heather (das Heidekraut). The best known is the Lüneburger Heide south of Hamburg, which turns purple in August and is famous for its Heidschnucken sheep and Heidehonig. With a different gender, der Heide (die Heidin) means a heathen or pagan, and das Heidentum is paganism. Heidenangst and Heidenlärm, though, simply mean a huge fright and a terrible racket."
+}

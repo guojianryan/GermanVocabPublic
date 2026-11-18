@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "brutto",
+    "partOfSpeech": "adverb / adjective",
+    "pronunciation": {
+      "respelling": "BRU-to",
+      "ipa": "ˈbʁʊto",
+      "notes": ""
+    },
+    "meaning": "gross (before deductions)",
+    "shortDefinition": "Gross (before deductions)."
+  },
+  "sampleSentences": [
+    {
+      "german": "Er verdient 4000 Euro brutto.",
+      "english": "He earns 4,000 euros gross.",
+      "highlight": [
+        "brutto."
+      ]
+    },
+    {
+      "german": "Was bleibt netto vom Brutto?",
+      "english": "What's left net from the gross?",
+      "highlight": [
+        "Brutto?"
+      ]
+    }
+  ],
+  "forms": [
+    "Brutto",
+    "Bruttolohn",
+    "Bruttoinlandsprodukt"
+  ],
+  "memoryHook": "Brutto: before tax; netto is what lands in your account.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does brutto mean?",
+      "options": [
+        "the street",
+        "gross (before deductions)",
+        "expensive"
+      ],
+      "answer": "gross (before deductions)",
+      "explanation": "brutto: gross (before deductions).",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite:",
+      "options": [
+        "netto",
+        "tutto"
+      ],
+      "answer": "netto",
+      "explanation": "Net.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Bruttoinlandsprodukt (BIP) is…",
+      "options": [
+        "GDP",
+        "gross income"
+      ],
+      "answer": "GDP",
+      "explanation": "GDP.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Salaries in German job ads are usually stated…",
+      "options": [
+        "gross per year (brutto)",
+        "net per month"
+      ],
+      "answer": "gross per year (brutto)",
+      "explanation": "Gross.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "3000 Euro ___ im Monat (gross)",
+      "answer": "brutto",
+      "fullAnswer": "3000 Euro brutto im Monat",
+      "explanation": "brutto.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Brutto means gross, before deductions: das Bruttogehalt, 3.000 Euro brutto. Netto is what's left: in Germany, social insurance and taxes can take 35 to 45 percent of a salary, so the Brutto-Netto-Rechner is a popular online tool. Das Bruttoinlandsprodukt (BIP) is GDP. Prices include VAT, so they're also brutto. From Italian brutto (raw, ugly), via merchants' language."
+}

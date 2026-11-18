@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "einsatzbereit",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "AIN-zats-be-rait",
+      "ipa": "ˈaɪ̯nzat͡sbəˌʁaɪ̯t",
+      "notes": ""
+    },
+    "meaning": "ready for action, operational",
+    "shortDefinition": "Ready for action, operational."
+  },
+  "sampleSentences": [
+    {
+      "german": "Nur ein Teil der Hubschrauber ist einsatzbereit.",
+      "english": "Only some of the helicopters are operational.",
+      "highlight": [
+        "einsatzbereit."
+      ]
+    },
+    {
+      "german": "Die Feuerwehr ist rund um die Uhr einsatzbereit.",
+      "english": "The fire brigade is ready for action round the clock.",
+      "highlight": [
+        "einsatzbereit."
+      ]
+    }
+  ],
+  "forms": [
+    "einsatzbereite",
+    "einsatzbereiten",
+    "Einsatzbereitschaft"
+  ],
+  "memoryHook": "Einsatzbereit: bereit (ready) for Einsatz (action).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does einsatzbereit mean?",
+      "options": [
+        "ready for action",
+        "always",
+        "the street"
+      ],
+      "answer": "ready for action",
+      "explanation": "einsatzbereit: ready for action, operational.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Einsatz is…",
+      "options": [
+        "deployment, mission; commitment; stake",
+        "an insertion only"
+      ],
+      "answer": "deployment, mission; commitment; stake",
+      "explanation": "Root.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Einsatzbereitschaft is…",
+      "options": [
+        "readiness, operational availability",
+        "willingness to sit"
+      ],
+      "answer": "readiness, operational availability",
+      "explanation": "Noun.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bereit means…",
+      "options": [
+        "ready",
+        "broad"
+      ],
+      "answer": "ready",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Das Gerät ist ___. (operational)",
+      "answer": "einsatzbereit",
+      "fullAnswer": "Das Gerät ist einsatzbereit.",
+      "explanation": "einsatzbereit.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Einsatzbereit means ready for action or operational: einsatzbereite Panzer, Die App ist sofort einsatzbereit. Reports about the Bundeswehr's low Einsatzbereitschaft (operational readiness) of tanks, planes and ships made headlines for years before 2022. Der Einsatz means deployment or mission (Auslandseinsatz), effort (mit vollem Einsatz) and stake in gambling."
+}

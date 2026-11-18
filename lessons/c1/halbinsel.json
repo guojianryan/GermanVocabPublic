@@ -1,0 +1,154 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Halbinsel",
+    "partOfSpeech": "noun, feminine (die Halbinsel)",
+    "pronunciation": {
+      "respelling": "HALP-in-zel",
+      "ipa": "ˈhalpˌʔɪnzl̩",
+      "notes": "Plural: die Halbinseln."
+    },
+    "meaning": "peninsula",
+    "shortDefinition": "Peninsula."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "halb",
+        "meaning": "half"
+      },
+      {
+        "part": "Insel",
+        "meaning": "island"
+      }
+    ],
+    "literalMeaning": "half-island"
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Halbinsel, plural die Halbinseln.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Halbinsel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Halbinseln"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Halbinsel Krim liegt im Schwarzen Meer.",
+      "english": "The Crimean peninsula lies in the Black Sea.",
+      "highlight": [
+        "Halbinsel"
+      ]
+    },
+    {
+      "german": "Italien ist eine Halbinsel.",
+      "english": "Italy is a peninsula.",
+      "highlight": [
+        "Halbinsel."
+      ]
+    }
+  ],
+  "forms": [
+    "Halbinseln",
+    "die Halbinseln",
+    "die Halbinsel"
+  ],
+  "memoryHook": "Halbinsel: an island that hasn't finished the job.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Halbinsel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Halbinsel is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Halbinsel, zwei ___",
+      "answer": "Halbinseln",
+      "fullAnswer": "ein Halbinsel, zwei Halbinseln",
+      "explanation": "The plural is Halbinseln.",
+      "acceptedAnswers": [
+        "Halbinseln"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Halbinsel mean?",
+      "options": [
+        "the bill",
+        "the window",
+        "peninsula"
+      ],
+      "answer": "peninsula",
+      "explanation": "Halbinsel: peninsula.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Literally:",
+      "options": [
+        "half-island",
+        "half-isle of mist"
+      ],
+      "answer": "half-island",
+      "explanation": "halb + Insel.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Halbinseln",
+        "Halbinselen"
+      ],
+      "answer": "Halbinseln",
+      "explanation": "-n.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "die Halbinsel",
+        "der Halbinsel"
+      ],
+      "answer": "die Halbinsel",
+      "explanation": "Die Insel.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Insel means…",
+      "options": [
+        "island",
+        "inlet"
+      ],
+      "answer": "island",
+      "explanation": "Island.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Die Halbinsel is a half-island, so a peninsula: die Iberische Halbinsel (Spain and Portugal), die Halbinsel Krim, die Arabische Halbinsel. It's a transparent compound, halb plus Insel. It's feminine, like die Insel. In Germany, the Halbinsel Eiderstedt on the North Sea coast and the island of Rügen are popular holiday spots, though Rügen is, of course, a whole island."
+}

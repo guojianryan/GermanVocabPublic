@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vorzeichen",
+    "partOfSpeech": "noun, neuter (das Vorzeichen)",
+    "pronunciation": {
+      "respelling": "FOR-tsai-khen",
+      "ipa": "ˈfoːɐ̯ˌt͡saɪ̯çn̩",
+      "notes": "Plural: die Vorzeichen."
+    },
+    "meaning": "omen, sign; (maths) sign",
+    "shortDefinition": "Omen, sign; (maths) sign."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Vorzeichen, plural die Vorzeichen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Vorzeichen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Vorzeichen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das ist ein gutes Vorzeichen.",
+      "english": "That's a good omen.",
+      "highlight": [
+        "Vorzeichen."
+      ]
+    },
+    {
+      "german": "Unter anderen Vorzeichen wäre das Spiel anders verlaufen.",
+      "english": "Under different circumstances the match would have gone differently.",
+      "highlight": [
+        "Vorzeichen"
+      ]
+    }
+  ],
+  "forms": [
+    "die Vorzeichen",
+    "das Vorzeichen"
+  ],
+  "memoryHook": "Vorzeichen: a Zeichen (sign) of what's ahead (vor).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vorzeichen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Vorzeichen is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Vorzeichen, zwei ___",
+      "answer": "Vorzeichen",
+      "fullAnswer": "ein Vorzeichen, zwei Vorzeichen",
+      "explanation": "The plural is Vorzeichen.",
+      "acceptedAnswers": [
+        "Vorzeichen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vorzeichen mean?",
+      "options": [
+        "omen",
+        "the family",
+        "the evening"
+      ],
+      "answer": "omen",
+      "explanation": "Vorzeichen: omen, sign; (maths) sign.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unter umgekehrten Vorzeichen means…",
+      "options": [
+        "the other way round",
+        "with reverse omens"
+      ],
+      "answer": "the other way round",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In maths, das Vorzeichen is…",
+      "options": [
+        "plus or minus sign",
+        "a decimal point"
+      ],
+      "answer": "plus or minus sign",
+      "explanation": "Maths.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In music, Vorzeichen are…",
+      "options": [
+        "key signatures (sharps, flats)",
+        "notes"
+      ],
+      "answer": "key signatures (sharps, flats)",
+      "explanation": "Music.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Vorzeichen is an omen or sign: ein gutes, schlechtes Vorzeichen. In maths, it's the plus or minus sign, and in music, the key signature. Unter anderen Vorzeichen means under different circumstances, and unter umgekehrten Vorzeichen means the other way round. Synonym for omen: das Omen. Plural: die Vorzeichen."
+}

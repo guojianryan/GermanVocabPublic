@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "kaiserlich",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "KAI-zer-likh",
+      "ipa": "ˈkaɪ̯zɐlɪç",
+      "notes": ""
+    },
+    "meaning": "imperial",
+    "shortDefinition": "Imperial."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die kaiserliche Familie lebte in Wien.",
+      "english": "The imperial family lived in Vienna.",
+      "highlight": [
+        "kaiserliche"
+      ]
+    },
+    {
+      "german": "Das Gebäude stammt aus der kaiserlichen Zeit.",
+      "english": "The building dates from imperial times.",
+      "highlight": [
+        "kaiserlichen"
+      ]
+    }
+  ],
+  "forms": [
+    "kaiserliche",
+    "kaiserlichen",
+    "kaiserlicher",
+    "Kaiser"
+  ],
+  "memoryHook": "Kaiserlich: like a Kaiser, a German Caesar.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does kaiserlich mean?",
+      "options": [
+        "quiet",
+        "the bread",
+        "imperial"
+      ],
+      "answer": "imperial",
+      "explanation": "kaiserlich: imperial.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kaiser comes from…",
+      "options": [
+        "Caesar",
+        "a Germanic word for king"
+      ],
+      "answer": "Caesar",
+      "explanation": "Latin Caesar.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kaiserlich und königlich (k. u. k.) refers to…",
+      "options": [
+        "Austria-Hungary",
+        "Prussia"
+      ],
+      "answer": "Austria-Hungary",
+      "explanation": "Habsburg monarchy.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's last Kaiser:",
+      "options": [
+        "Wilhelm II",
+        "Friedrich I"
+      ],
+      "answer": "Wilhelm II",
+      "explanation": "Until 1918.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "die ___ Armee (imperial)",
+      "answer": "kaiserliche",
+      "fullAnswer": "die kaiserliche Armee",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Kaiserlich means imperial: die kaiserliche Familie, das kaiserliche Wien. Der Kaiser comes from Latin Caesar, like Russian tsar. Germany had Kaiser from 1871 until Wilhelm II abdicated in 1918, and Austria until 1918 too; the Habsburg empire was known as k. u. k. (kaiserlich und königlich), imperial and royal. Kaiserwetter means glorious sunny weather, supposedly because the emperor always had sunshine at public events."
+}

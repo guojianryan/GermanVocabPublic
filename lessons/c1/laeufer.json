@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Läufer",
+    "partOfSpeech": "noun, masculine (der Läufer)",
+    "pronunciation": {
+      "respelling": "LOY-fer",
+      "ipa": "ˈlɔɪ̯fɐ",
+      "notes": "Plural: die Läufer."
+    },
+    "meaning": "runner; bishop (chess); rug",
+    "shortDefinition": "Runner; bishop (chess); rug."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Läufer, plural die Läufer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Läufer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Läufer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Läufer kam als Erster ins Ziel.",
+      "english": "The runner finished first.",
+      "highlight": [
+        "Läufer"
+      ]
+    },
+    {
+      "german": "Im Flur liegt ein langer Läufer.",
+      "english": "There's a long runner rug in the hallway.",
+      "highlight": [
+        "Läufer."
+      ]
+    }
+  ],
+  "forms": [
+    "die Läufer",
+    "der Läufer",
+    "Läuferin"
+  ],
+  "memoryHook": "Läufer: runs on the track, on the chessboard, or along your hall.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Läufer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Läufer is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Läufer, zwei ___",
+      "answer": "Läufer",
+      "fullAnswer": "ein Läufer, zwei Läufer",
+      "explanation": "The plural is Läufer.",
+      "acceptedAnswers": [
+        "Laeufer"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Läufer mean?",
+      "options": [
+        "the car",
+        "the evening",
+        "runner"
+      ],
+      "answer": "runner",
+      "explanation": "Läufer: runner; bishop (chess); rug.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In chess, der Läufer is…",
+      "options": [
+        "the bishop",
+        "the knight"
+      ],
+      "answer": "the bishop",
+      "explanation": "Bishop.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Marathonläufer is…",
+      "options": [
+        "a marathon runner",
+        "a walker"
+      ],
+      "answer": "a marathon runner",
+      "explanation": "Runner.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "From…",
+      "options": [
+        "laufen",
+        "lügen"
+      ],
+      "answer": "laufen",
+      "explanation": "laufen.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Läufer (die Läuferin) is a runner: ein Langstreckenläufer. In chess, der Läufer is the bishop, the piece that runs diagonally; the knight is der Springer. Der Läufer is also a long, narrow rug for a hallway or table. From laufen (to run), with the umlaut. Der Dauerläufer means a bestseller that keeps selling. The plural is the same: die Läufer."
+}

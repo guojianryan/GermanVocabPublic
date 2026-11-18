@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "woraus",
+    "partOfSpeech": "adverb",
+    "pronunciation": {
+      "respelling": "vo-RAUS",
+      "ipa": "voˈʁaʊ̯s",
+      "notes": ""
+    },
+    "meaning": "from what, out of what",
+    "shortDefinition": "From what, out of what."
+  },
+  "sampleSentences": [
+    {
+      "german": "Woraus besteht dieser Kuchen?",
+      "english": "What is this cake made of?",
+      "highlight": [
+        "Woraus"
+      ]
+    },
+    {
+      "german": "Er hat gelogen, woraus man schließen kann, dass er schuldig ist.",
+      "english": "He lied, from which one can conclude that he's guilty.",
+      "highlight": [
+        "woraus"
+      ]
+    }
+  ],
+  "forms": [
+    "woraus"
+  ],
+  "memoryHook": "Woraus: wo- + aus, out of what.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does woraus mean?",
+      "options": [
+        "to help",
+        "from what",
+        "never"
+      ],
+      "answer": "from what",
+      "explanation": "woraus: from what, out of what.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Woraus besteht...? asks…",
+      "options": [
+        "what something consists of",
+        "where something is from"
+      ],
+      "answer": "what something consists of",
+      "explanation": "Material.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Woraus replaces…",
+      "options": [
+        "aus + was / aus welchem",
+        "wo + raus"
+      ],
+      "answer": "aus + was / aus welchem",
+      "explanation": "wo-compound.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Woher asks…",
+      "options": [
+        "where from (place)",
+        "from what (material)"
+      ],
+      "answer": "where from (place)",
+      "explanation": "Different.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ ist das gemacht? (out of what)",
+      "answer": "Woraus",
+      "fullAnswer": "Woraus ist das gemacht?",
+      "explanation": "Woraus.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Woraus means from what or out of what, a wo-compound for things: Woraus ist die Tasche? Woraus besteht der Stoff? It can also introduce a relative clause referring to a whole statement: Sie lächelte, woraus ich schloss, dass alles gut war. For places, use woher (where from): Woher kommst du? Other wo-compounds: worin, worauf, wodurch, womit."
+}

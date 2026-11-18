@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Anhaltspunkt",
+    "partOfSpeech": "noun, masculine (der Anhaltspunkt)",
+    "pronunciation": {
+      "respelling": "AN-halts-punkt",
+      "ipa": "ˈanhalt͡sˌpʊŋkt",
+      "notes": "Plural: die Anhaltspunkte."
+    },
+    "meaning": "clue, indication",
+    "shortDefinition": "Clue, indication."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Anhaltspunkt, plural die Anhaltspunkte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Anhaltspunkt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Anhaltspunkte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Es gibt keine Anhaltspunkte für ein Verbrechen.",
+      "english": "There's no indication of a crime.",
+      "highlight": [
+        "Anhaltspunkte"
+      ]
+    },
+    {
+      "german": "Die Zahl dient nur als Anhaltspunkt.",
+      "english": "The figure is only a guide.",
+      "highlight": [
+        "Anhaltspunkt."
+      ]
+    }
+  ],
+  "forms": [
+    "Anhaltspunkte",
+    "die Anhaltspunkte",
+    "der Anhaltspunkt"
+  ],
+  "memoryHook": "Anhaltspunkt: a Punkt to hold on (anhalten) to.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Anhaltspunkt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Anhaltspunkt is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Anhaltspunkt, zwei ___",
+      "answer": "Anhaltspunkte",
+      "fullAnswer": "ein Anhaltspunkt, zwei Anhaltspunkte",
+      "explanation": "The plural is Anhaltspunkte.",
+      "acceptedAnswers": [
+        "Anhaltspunkte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Anhaltspunkt mean?",
+      "options": [
+        "clue",
+        "the family",
+        "hot"
+      ],
+      "answer": "clue",
+      "explanation": "Anhaltspunkt: clue, indication.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Keine Anhaltspunkte means…",
+      "options": [
+        "no evidence, no indication",
+        "no stops"
+      ],
+      "answer": "no evidence, no indication",
+      "explanation": "No clue.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Als Anhaltspunkt dienen means…",
+      "options": [
+        "to serve as a guide/rough reference",
+        "to serve as a stop"
+      ],
+      "answer": "to serve as a guide/rough reference",
+      "explanation": "Guide.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Anhalt is…",
+      "options": [
+        "clue, basis (rare); Anhalt region",
+        "a bus stop"
+      ],
+      "answer": "clue, basis (rare); Anhalt region",
+      "explanation": "Rare.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Anhaltspunkt is a clue or indication, something to go on: Es gibt keine Anhaltspunkte für Fremdverschulden (no indication of third-party involvement), a standard police phrase. It also means a rough guide: Die Preise sind nur ein Anhaltspunkt. Synonyms: der Hinweis, das Indiz. From anhalten in the old sense of holding on to. Sachsen-Anhalt is a German state. Plural: die Anhaltspunkte."
+}

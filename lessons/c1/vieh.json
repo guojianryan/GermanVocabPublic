@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vieh",
+    "partOfSpeech": "noun, neuter (das Vieh)",
+    "pronunciation": {
+      "respelling": "fee",
+      "ipa": "fiː",
+      "notes": "Usually no plural."
+    },
+    "meaning": "livestock, cattle",
+    "shortDefinition": "Livestock, cattle."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Vieh, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Vieh"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Bauer treibt das Vieh auf die Weide.",
+      "english": "The farmer drives the cattle to the pasture.",
+      "highlight": [
+        "Vieh"
+      ]
+    },
+    {
+      "german": "Im Herbst wird das Vieh von der Alm geholt.",
+      "english": "In autumn the cattle are brought down from the mountain pasture.",
+      "highlight": [
+        "Vieh"
+      ]
+    }
+  ],
+  "forms": [
+    "das Vieh",
+    "Viehzucht",
+    "viehisch"
+  ],
+  "memoryHook": "Vieh: all the farm animals together; the h is silent.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vieh",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Vieh is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vieh mean?",
+      "options": [
+        "livestock",
+        "to open",
+        "the station"
+      ],
+      "answer": "livestock",
+      "explanation": "Vieh: livestock, cattle.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vieh has…",
+      "options": [
+        "no plural (collective noun)",
+        "the plural Viehe"
+      ],
+      "answer": "no plural (collective noun)",
+      "explanation": "Collective.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Viehabtrieb is…",
+      "options": [
+        "bringing cattle down from Alpine pastures",
+        "a cattle market"
+      ],
+      "answer": "bringing cattle down from Alpine pastures",
+      "explanation": "Autumn festival.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The h in Vieh is…",
+      "options": [
+        "silent",
+        "pronounced"
+      ],
+      "answer": "silent",
+      "explanation": "FEE.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Vieh is livestock, especially cattle, as a collective noun with no plural: das Vieh füttern, die Viehzucht (cattle breeding). In the Alps, der Almabtrieb or Viehscheid in autumn is a festival when decorated cows come down from the summer pastures. As an insult, Du Vieh! means you brute, and viehisch means bestial. The h is silent: FEE. Related to English fee, since cattle once meant wealth."
+}

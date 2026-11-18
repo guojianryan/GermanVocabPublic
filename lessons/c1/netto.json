@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "netto",
+    "partOfSpeech": "adverb / adjective",
+    "pronunciation": {
+      "respelling": "NE-to",
+      "ipa": "ˈnɛto",
+      "notes": ""
+    },
+    "meaning": "net (after deductions)",
+    "shortDefinition": "Net (after deductions)."
+  },
+  "sampleSentences": [
+    {
+      "german": "Mein Gehalt beträgt 2.500 Euro netto.",
+      "english": "My salary is 2,500 euros net.",
+      "highlight": [
+        "netto."
+      ]
+    },
+    {
+      "german": "Das Gewicht netto beträgt 500 Gramm.",
+      "english": "The net weight is 500 grams.",
+      "highlight": [
+        "netto"
+      ]
+    }
+  ],
+  "forms": [
+    "Nettogehalt",
+    "Nettopreis",
+    "Nettogewicht"
+  ],
+  "memoryHook": "Netto: what's left when the state has had its share.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does netto mean?",
+      "options": [
+        "to wait",
+        "net (after deductions)",
+        "the car"
+      ],
+      "answer": "net (after deductions)",
+      "explanation": "netto: net (after deductions).",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite is…",
+      "options": [
+        "brutto",
+        "bitto"
+      ],
+      "answer": "brutto",
+      "explanation": "Gross.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Netto Gehalt is the salary…",
+      "options": [
+        "after tax and contributions",
+        "before tax"
+      ],
+      "answer": "after tax and contributions",
+      "explanation": "Take-home.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Nettopreis in business usually excludes…",
+      "options": [
+        "VAT (Mehrwertsteuer)",
+        "the product itself"
+      ],
+      "answer": "VAT (Mehrwertsteuer)",
+      "explanation": "Netto = without VAT.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Netto is a word borrowed from…",
+      "options": [
+        "Italian",
+        "Dutch"
+      ],
+      "answer": "Italian",
+      "explanation": "netto = clean.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Netto means net, i.e. after deductions: Ich verdiene 2.800 Euro netto, which is what lands in your account after tax and social contributions. The opposite is brutto (gross). On packaging, Nettogewicht is the weight of the contents without packaging. Nettopreis in business means the price before VAT (Mehrwertsteuer). Netto comes from Italian, like many financial terms: brutto, netto, Konto, Skonto."
+}

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Dekan",
+    "partOfSpeech": "noun, masculine (der Dekan)",
+    "pronunciation": {
+      "respelling": "de-KAAN",
+      "ipa": "deˈkaːn",
+      "notes": "Plural: die Dekane."
+    },
+    "meaning": "dean",
+    "shortDefinition": "Dean."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Dekan, plural die Dekane.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Dekan"
+        },
+        {
+          "label": "More than one",
+          "value": "die Dekane"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Dekanin der Fakultät hielt eine Rede.",
+      "english": "The dean of the faculty gave a speech.",
+      "highlight": [
+        "Dekanin"
+      ]
+    },
+    {
+      "german": "Er wurde zum Dekan gewählt.",
+      "english": "He was elected dean.",
+      "highlight": [
+        "Dekan"
+      ]
+    }
+  ],
+  "forms": [
+    "Dekane",
+    "die Dekane",
+    "der Dekan",
+    "Dekanin",
+    "Dekanat"
+  ],
+  "memoryHook": "Dekan: head of a faculty, once over ten (decem) monks.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Dekan",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Dekan is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Dekan, zwei ___",
+      "answer": "Dekane",
+      "fullAnswer": "ein Dekan, zwei Dekane",
+      "explanation": "The plural is Dekane.",
+      "acceptedAnswers": [
+        "Dekane"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Dekan mean?",
+      "options": [
+        "the evening",
+        "dean",
+        "expensive"
+      ],
+      "answer": "dean",
+      "explanation": "Dekan: dean.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Dekanat is…",
+      "options": [
+        "the dean's office; deanery",
+        "a decade"
+      ],
+      "answer": "the dean's office; deanery",
+      "explanation": "Office.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A university's head in Germany is…",
+      "options": [
+        "der Präsident / Rektor",
+        "der Dekan"
+      ],
+      "answer": "der Präsident / Rektor",
+      "explanation": "Head.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the church, a Dekan is…",
+      "options": [
+        "a senior priest over a district",
+        "a bishop"
+      ],
+      "answer": "a senior priest over a district",
+      "explanation": "Church.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Dekan (die Dekanin) is the dean of a university faculty (Fakultät or Fachbereich), elected by the faculty for a few years. The whole university is led by a Präsident or Rektor. Das Dekanat is the dean's office, where students go for admin matters. In the Protestant and Catholic churches, a Dekan oversees a district of parishes. From Latin decanus, a leader of ten. Plural: die Dekane."
+}

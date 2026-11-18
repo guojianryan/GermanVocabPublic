@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Inbetriebnahme",
+    "partOfSpeech": "noun, feminine (die Inbetriebnahme)",
+    "pronunciation": {
+      "respelling": "in-be-TREEP-naa-me",
+      "ipa": "ɪnbəˈtʁiːpˌnaːmə",
+      "notes": "Plural: die Inbetriebnahmen."
+    },
+    "meaning": "commissioning, putting into operation",
+    "shortDefinition": "Commissioning, putting into operation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Inbetriebnahme, plural die Inbetriebnahmen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Inbetriebnahme"
+        },
+        {
+          "label": "More than one",
+          "value": "die Inbetriebnahmen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Inbetriebnahme des Flughafens verzögerte sich um Jahre.",
+      "english": "The opening of the airport was delayed for years.",
+      "highlight": [
+        "Inbetriebnahme"
+      ]
+    },
+    {
+      "german": "Lesen Sie vor der Inbetriebnahme die Anleitung.",
+      "english": "Read the instructions before first use.",
+      "highlight": [
+        "Inbetriebnahme"
+      ]
+    }
+  ],
+  "forms": [
+    "Inbetriebnahmen",
+    "die Inbetriebnahme"
+  ],
+  "memoryHook": "Inbetriebnahme: taking (nehmen) something into (in) operation (Betrieb).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Inbetriebnahme",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Inbetriebnahme is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Inbetriebnahme, zwei ___",
+      "answer": "Inbetriebnahmen",
+      "fullAnswer": "ein Inbetriebnahme, zwei Inbetriebnahmen",
+      "explanation": "The plural is Inbetriebnahmen.",
+      "acceptedAnswers": [
+        "Inbetriebnahmen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Inbetriebnahme mean?",
+      "options": [
+        "the window",
+        "slowly",
+        "commissioning"
+      ],
+      "answer": "commissioning",
+      "explanation": "Inbetriebnahme: commissioning, putting into operation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Betrieb nehmen means…",
+      "options": [
+        "to put into operation",
+        "to take a factory"
+      ],
+      "answer": "to put into operation",
+      "explanation": "Operation.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Außer Betrieb means…",
+      "options": [
+        "out of order",
+        "outside the company"
+      ],
+      "answer": "out of order",
+      "explanation": "Out of order.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "BER opened in 2020 instead of…",
+      "options": [
+        "2011",
+        "2019"
+      ],
+      "answer": "2011",
+      "explanation": "Delay.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Inbetriebnahme is commissioning or putting into operation, a typical word of German officialese and instruction manuals: vor der ersten Inbetriebnahme (before first use). The most famous example: Berlin's BER airport, planned to open in 2011, had its Inbetriebnahme repeatedly postponed until October 2020. Außer Betrieb means out of order. Plural: die Inbetriebnahmen."
+}

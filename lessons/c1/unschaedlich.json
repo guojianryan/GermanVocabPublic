@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "unschädlich",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "UN-shayt-likh",
+      "ipa": "ˈʊnʃɛːtlɪç",
+      "notes": ""
+    },
+    "meaning": "harmless",
+    "shortDefinition": "Harmless."
+  },
+  "sampleSentences": [
+    {
+      "german": "Das Mittel ist für Menschen unschädlich.",
+      "english": "The product is harmless to humans.",
+      "highlight": [
+        "unschädlich."
+      ]
+    },
+    {
+      "german": "Die Bombe wurde unschädlich gemacht.",
+      "english": "The bomb was defused.",
+      "highlight": [
+        "unschädlich"
+      ]
+    }
+  ],
+  "forms": [
+    "unschädliche",
+    "unschädlichen",
+    "unschädlicher"
+  ],
+  "memoryHook": "Unschädlich: causing no Schaden (harm).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does unschädlich mean?",
+      "options": [
+        "expensive",
+        "harmless",
+        "tomorrow"
+      ],
+      "answer": "harmless",
+      "explanation": "unschädlich: harmless.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unschädlich machen means…",
+      "options": [
+        "to neutralise, defuse; to put out of action",
+        "to repair"
+      ],
+      "answer": "to neutralise, defuse; to put out of action",
+      "explanation": "Idiom.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schädlich means…",
+      "options": [
+        "harmful",
+        "shady"
+      ],
+      "answer": "harmful",
+      "explanation": "Opposite.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kampfmittelräumdienst…",
+      "options": [
+        "defuses old wartime bombs",
+        "builds weapons"
+      ],
+      "answer": "defuses old wartime bombs",
+      "explanation": "Bombs.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein ___ Stoff (harmless)",
+      "answer": "unschädlicher",
+      "fullAnswer": "ein unschädlicher Stoff",
+      "explanation": "Masculine -er.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Unschädlich means harmless: gesundheitlich unschädlich. Unschädlich machen means to neutralise: a criminal, a virus, or a bomb. Unexploded World War II bombs are still found in German cities, often during building work, and the Kampfmittelräumdienst defuses them after evacuating the area. The opposite is schädlich (harmful). Synonym: harmlos."
+}

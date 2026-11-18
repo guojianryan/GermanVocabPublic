@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "hochfahren",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "HOHKH-faa-ren",
+      "ipa": "ˈhoːxˌfaːʁən",
+      "notes": ""
+    },
+    "meaning": "to start up, boot (computer); to ramp up",
+    "shortDefinition": "To start up, boot (computer); to ramp up."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "fahr|e … |hoch"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "fähr|st … |hoch"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "fähr|t … |hoch"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "fahr|en … |hoch"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "fahr|t … |hoch"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "fahr|en … |hoch"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat hochgefahren"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Computer braucht lange zum Hochfahren.",
+      "english": "The computer takes a long time to boot up.",
+      "highlight": [
+        "Hochfahren."
+      ]
+    },
+    {
+      "german": "Die Produktion wurde wieder hochgefahren.",
+      "english": "Production was ramped up again.",
+      "highlight": [
+        "hochgefahren."
+      ]
+    }
+  ],
+  "forms": [
+    "fahre hoch",
+    "fährst hoch",
+    "fährt hoch",
+    "fahren hoch",
+    "fahrt hoch",
+    "hochgefahren",
+    "fuhr hoch"
+  ],
+  "memoryHook": "Hochfahren: fahren (run) something up (hoch).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … hoch (hochfahren)",
+      "answer": "fährt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: fährt … hoch.",
+      "acceptedAnswers": [
+        "faehrt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (hochfahren, past)",
+      "answer": "hochgefahren",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe hochgefahren.",
+      "acceptedAnswers": [
+        "hochgefahren"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does hochfahren mean?",
+      "options": [
+        "the window",
+        "the door",
+        "to start up"
+      ],
+      "answer": "to start up",
+      "explanation": "hochfahren: to start up, boot (computer); to ramp up.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Herunterfahren means…",
+      "options": [
+        "to shut down",
+        "to drive down only"
+      ],
+      "answer": "to shut down",
+      "explanation": "Opposite.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Erschrocken hochfahren means…",
+      "options": [
+        "to start up in shock",
+        "to drive uphill"
+      ],
+      "answer": "to start up in shock",
+      "explanation": "Figurative.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Moving upward (a person driving up), the auxiliary is…",
+      "options": [
+        "sein",
+        "haben"
+      ],
+      "answer": "sein",
+      "explanation": "Auxiliary.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Hochfahren means to start up or boot a computer (den Rechner hochfahren) and to ramp up production or a system: die Wirtschaft wieder hochfahren, after the pandemic lockdowns. The opposite is herunterfahren (to shut down, scale back). With sein, it means to drive up or to start up in fright: Er fuhr aus dem Schlaf hoch. Separable and irregular: fuhr hoch, hochgefahren."
+}

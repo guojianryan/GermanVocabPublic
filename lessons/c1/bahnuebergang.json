@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bahnübergang",
+    "partOfSpeech": "noun, masculine (der Bahnübergang)",
+    "pronunciation": {
+      "respelling": "BAAN-ü-ber-gang",
+      "ipa": "ˈbaːnʔyːbɐˌɡaŋ",
+      "notes": "Plural: die Bahnübergänge."
+    },
+    "meaning": "level crossing",
+    "shortDefinition": "Level crossing."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Bahnübergang, plural die Bahnübergänge.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Bahnübergang"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bahnübergänge"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Am Bahnübergang gingen die Schranken herunter.",
+      "english": "At the level crossing the barriers came down.",
+      "highlight": [
+        "Bahnübergang"
+      ]
+    },
+    {
+      "german": "Ein unbeschrankter Bahnübergang ist gefährlich.",
+      "english": "An unguarded level crossing is dangerous.",
+      "highlight": [
+        "Bahnübergang"
+      ]
+    }
+  ],
+  "forms": [
+    "Bahnübergänge",
+    "der Bahnübergang"
+  ],
+  "memoryHook": "Bahnübergang: an Übergang (crossing) over the Bahn (railway).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bahnübergang",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Bahnübergang is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bahnübergang, zwei ___",
+      "answer": "Bahnübergänge",
+      "fullAnswer": "ein Bahnübergang, zwei Bahnübergänge",
+      "explanation": "The plural is Bahnübergänge.",
+      "acceptedAnswers": [
+        "Bahnuebergaenge"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bahnübergang mean?",
+      "options": [
+        "level crossing",
+        "to sleep",
+        "the bed"
+      ],
+      "answer": "level crossing",
+      "explanation": "Bahnübergang: level crossing.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schranke is…",
+      "options": [
+        "barrier, gate",
+        "cupboard"
+      ],
+      "answer": "barrier, gate",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Andreaskreuz is…",
+      "options": [
+        "the X-shaped sign at crossings",
+        "a church"
+      ],
+      "answer": "the X-shaped sign at crossings",
+      "explanation": "Sign.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Übergang is…",
+      "options": [
+        "crossing; transition",
+        "a hangover"
+      ],
+      "answer": "crossing; transition",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Bahnübergang is a level crossing where a road crosses a railway, marked by the Andreaskreuz (St Andrew's cross sign) and often by Schranken (barriers) and flashing lights. Unbeschrankte Bahnübergänge without barriers still exist on rural lines. Deutsche Bahn is gradually replacing crossings with bridges and underpasses. Der Übergang also means transition. Plural: die Bahnübergänge."
+}

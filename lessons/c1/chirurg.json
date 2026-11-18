@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Chirurg",
+    "partOfSpeech": "noun, masculine (der Chirurg)",
+    "pronunciation": {
+      "respelling": "khi-RURK",
+      "ipa": "çiˈʁʊʁk",
+      "notes": "Plural: die Chirurgen."
+    },
+    "meaning": "surgeon",
+    "shortDefinition": "Surgeon."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Chirurg, plural die Chirurgen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Chirurg"
+        },
+        {
+          "label": "More than one",
+          "value": "die Chirurgen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Chirurg hat den Patienten operiert.",
+      "english": "The surgeon operated on the patient.",
+      "highlight": [
+        "Chirurg"
+      ]
+    },
+    {
+      "german": "Sie ist eine erfahrene Chirurgin.",
+      "english": "She's an experienced surgeon.",
+      "highlight": [
+        "Chirurgin."
+      ]
+    }
+  ],
+  "forms": [
+    "Chirurgen",
+    "die Chirurgen",
+    "der Chirurg",
+    "Chirurgin",
+    "Chirurgie"
+  ],
+  "memoryHook": "Chirurg: one who works with the hands (Greek cheir).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Chirurg",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Chirurg is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Chirurg, zwei ___",
+      "answer": "Chirurgen",
+      "fullAnswer": "ein Chirurg, zwei Chirurgen",
+      "explanation": "The plural is Chirurgen.",
+      "acceptedAnswers": [
+        "Chirurgen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Chirurg mean?",
+      "options": [
+        "never",
+        "surgeon",
+        "the station"
+      ],
+      "answer": "surgeon",
+      "explanation": "Chirurg: surgeon.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Chirurg is a weak noun:",
+      "options": [
+        "den Chirurgen",
+        "den Chirurg"
+      ],
+      "answer": "den Chirurgen",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Chirurgie is…",
+      "options": [
+        "surgery (field, department)",
+        "a church"
+      ],
+      "answer": "surgery (field, department)",
+      "explanation": "Field.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "A GP's surgery in German is…",
+      "options": [
+        "die Praxis",
+        "die Chirurgie"
+      ],
+      "answer": "die Praxis",
+      "explanation": "False friend.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Chirurg (die Chirurgin) is a surgeon; die Chirurgie is surgery as a field or hospital department, and chirurgisch means surgical. Careful: a British doctor's surgery is die Praxis, and an operation is die Operation (OP). The ch is pronounced as in ich in the north (çi-RURK) and as k in the south. It's a weak noun: den Chirurgen. Plural: die Chirurgen."
+}

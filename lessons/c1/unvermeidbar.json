@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "unvermeidbar",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "un-fer-MAIT-baar",
+      "ipa": "ʊnfɛɐ̯ˈmaɪ̯tbaːɐ̯",
+      "notes": ""
+    },
+    "meaning": "unavoidable",
+    "shortDefinition": "Unavoidable."
+  },
+  "sampleSentences": [
+    {
+      "german": "Verzögerungen sind leider unvermeidbar.",
+      "english": "Delays are unfortunately unavoidable.",
+      "highlight": [
+        "unvermeidbar."
+      ]
+    },
+    {
+      "german": "Das war ein unvermeidbarer Unfall.",
+      "english": "That was an unavoidable accident.",
+      "highlight": [
+        "unvermeidbarer"
+      ]
+    }
+  ],
+  "forms": [
+    "unvermeidbare",
+    "unvermeidbaren",
+    "unvermeidbarer"
+  ],
+  "memoryHook": "Unvermeidbar: impossible to vermeiden (avoid).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does unvermeidbar mean?",
+      "options": [
+        "slowly",
+        "the station",
+        "unavoidable"
+      ],
+      "answer": "unavoidable",
+      "explanation": "unvermeidbar: unavoidable.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vermeiden means…",
+      "options": [
+        "to avoid",
+        "to mean"
+      ],
+      "answer": "to avoid",
+      "explanation": "Root.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "unvermeidlich, unausweichlich",
+        "vermeidbar"
+      ],
+      "answer": "unvermeidlich, unausweichlich",
+      "explanation": "Synonym.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unvermeidlich (ironic) can mean…",
+      "options": [
+        "the inevitable (e.g. the inevitable tourist)",
+        "impossible"
+      ],
+      "answer": "the inevitable (e.g. the inevitable tourist)",
+      "explanation": "Irony.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Folge (unavoidable)",
+      "answer": "unvermeidbare",
+      "fullAnswer": "eine unvermeidbare Folge",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Unvermeidbar means unavoidable: unvermeidbare Kosten, ein unvermeidbarer Fehler. Unvermeidlich is a close synonym and often ironic: der unvermeidliche Schlager auf jeder Party (the inevitable pop song). In law and insurance, ein unvermeidbares Ereignis (force majeure) can exclude liability. From vermeiden (to avoid). Opposite: vermeidbar."
+}

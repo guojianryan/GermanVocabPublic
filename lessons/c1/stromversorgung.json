@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Stromversorgung",
+    "partOfSpeech": "noun, feminine (die Stromversorgung)",
+    "pronunciation": {
+      "respelling": "SHTROHM-fer-zor-gung",
+      "ipa": "ˈʃtʁoːmfɛɐ̯ˌzɔʁɡʊŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "power supply, electricity supply",
+    "shortDefinition": "Power supply, electricity supply."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Stromversorgung, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Stromversorgung"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nach dem Sturm war die Stromversorgung unterbrochen.",
+      "english": "After the storm the power supply was cut off.",
+      "highlight": [
+        "Stromversorgung"
+      ]
+    },
+    {
+      "german": "Die Stromversorgung soll bis 2035 klimaneutral sein.",
+      "english": "Electricity supply is meant to be climate-neutral by 2035.",
+      "highlight": [
+        "Stromversorgung"
+      ]
+    }
+  ],
+  "forms": [
+    "die Stromversorgung",
+    "Stromausfall"
+  ],
+  "memoryHook": "Stromversorgung: supplying (versorgen) Strom (electricity).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Stromversorgung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Stromversorgung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Stromversorgung mean?",
+      "options": [
+        "to buy",
+        "the job",
+        "power supply"
+      ],
+      "answer": "power supply",
+      "explanation": "Stromversorgung: power supply, electricity supply.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Stromausfall is…",
+      "options": [
+        "power cut",
+        "power bill"
+      ],
+      "answer": "power cut",
+      "explanation": "Outage.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Strom means…",
+      "options": [
+        "electricity; stream, river",
+        "storm"
+      ],
+      "answer": "electricity; stream, river",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany shut down its last nuclear plants in…",
+      "options": [
+        "April 2023",
+        "2011"
+      ],
+      "answer": "April 2023",
+      "explanation": "Nuclear.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Stromversorgung is the electricity supply. Germany's grid is among the most reliable in the world, with very few minutes of outage a year. Germany shut down its last nuclear power plants in April 2023, and renewables now supply more than half of its electricity. Der Strom means electricity and also a big river: gegen den Strom schwimmen (to swim against the tide). Der Stromausfall is a power cut. It has no plural."
+}

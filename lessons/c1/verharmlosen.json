@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verharmlosen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-HARM-loh-zen",
+      "ipa": "fɛɐ̯ˈhaʁmloːzn̩",
+      "notes": ""
+    },
+    "meaning": "to play down, trivialise",
+    "shortDefinition": "To play down, trivialise."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verharmlos|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verharmlos|t"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verharmlos|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verharmlos|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verharmlos|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verharmlos|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verharmlost"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Man darf die Gefahr nicht verharmlosen.",
+      "english": "One must not play down the danger.",
+      "highlight": [
+        "verharmlosen."
+      ]
+    },
+    {
+      "german": "Er verharmlost den Klimawandel.",
+      "english": "He trivialises climate change.",
+      "highlight": [
+        "verharmlost"
+      ]
+    }
+  ],
+  "forms": [
+    "verharmlose",
+    "verharmlost",
+    "verharmlosen",
+    "Verharmlosung"
+  ],
+  "memoryHook": "Verharmlosen: make something seem harmlos (harmless).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verharmlosen)",
+      "answer": "verharmlost",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verharmlost.",
+      "acceptedAnswers": [
+        "verharmlost"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verharmlosen, past)",
+      "answer": "verharmlost",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verharmlost.",
+      "acceptedAnswers": [
+        "verharmlost"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verharmlosen mean?",
+      "options": [
+        "the weather",
+        "to play down",
+        "quiet"
+      ],
+      "answer": "to play down",
+      "explanation": "verharmlosen: to play down, trivialise.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Harmlos means…",
+      "options": [
+        "harmless",
+        "harmful"
+      ],
+      "answer": "harmless",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Verharmlosung is…",
+      "options": [
+        "trivialisation",
+        "a harm"
+      ],
+      "answer": "trivialisation",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Opposite:",
+      "options": [
+        "dramatisieren, übertreiben",
+        "herunterspielen"
+      ],
+      "answer": "dramatisieren, übertreiben",
+      "explanation": "Opposite.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verharmlosen means to play down or trivialise: eine Gefahr, Gewalt, Drogen verharmlosen. Denying or trivialising the Holocaust (verharmlosen) is a criminal offence in Germany under §130 StGB. A colloquial synonym is herunterspielen. The opposite is dramatisieren or übertreiben. From harmlos (harmless). Not separable: hat verharmlost."
+}

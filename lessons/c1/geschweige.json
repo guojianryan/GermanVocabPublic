@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "geschweige",
+    "partOfSpeech": "conjunction",
+    "pronunciation": {
+      "respelling": "ge-SHVAI-ge",
+      "ipa": "ɡəˈʃvaɪ̯ɡə",
+      "notes": ""
+    },
+    "meaning": "let alone (geschweige denn)",
+    "shortDefinition": "Let alone (geschweige denn)."
+  },
+  "sampleSentences": [
+    {
+      "german": "Ich kann nicht einmal schwimmen, geschweige denn tauchen.",
+      "english": "I can't even swim, let alone dive.",
+      "highlight": [
+        "geschweige"
+      ]
+    },
+    {
+      "german": "Er hat kein Auto, geschweige denn ein Haus.",
+      "english": "He doesn't have a car, let alone a house.",
+      "highlight": [
+        "geschweige"
+      ]
+    }
+  ],
+  "forms": [
+    "geschweige denn"
+  ],
+  "memoryHook": "Geschweige denn: not even to mention (schweigen) the rest.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does geschweige mean?",
+      "options": [
+        "hot",
+        "let alone (geschweige denn)",
+        "always"
+      ],
+      "answer": "let alone (geschweige denn)",
+      "explanation": "geschweige: let alone (geschweige denn).",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Geschweige denn follows…",
+      "options": [
+        "a negative statement",
+        "a positive statement"
+      ],
+      "answer": "a negative statement",
+      "explanation": "After negation.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Geschweige is almost always followed by…",
+      "options": [
+        "denn",
+        "dass"
+      ],
+      "answer": "denn",
+      "explanation": "geschweige denn.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Literally, geschweige means…",
+      "options": [
+        "(I) keep silent about",
+        "(I) swear"
+      ],
+      "answer": "(I) keep silent about",
+      "explanation": "From schweigen.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe keine Zeit, ___ denn Lust. (let alone)",
+      "answer": "geschweige",
+      "fullAnswer": "Ich habe keine Zeit, geschweige denn Lust.",
+      "explanation": "geschweige denn.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Geschweige denn means let alone or much less, and it follows a negative statement: Er kann kaum laufen, geschweige denn rennen. It almost always comes with denn. Historically, it comes from schweigen (to be silent): ich geschweige, I won't even mention. It's a lovely phrase for sounding natural in German. Similar: schon gar nicht (certainly not): Ich esse kein Fleisch, schon gar nicht Leber."
+}

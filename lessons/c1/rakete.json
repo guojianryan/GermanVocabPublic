@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rakete",
+    "partOfSpeech": "noun, feminine (die Rakete)",
+    "pronunciation": {
+      "respelling": "ra-KAY-te",
+      "ipa": "ʁaˈkeːtə",
+      "notes": "Plural: die Raketen."
+    },
+    "meaning": "rocket; missile",
+    "shortDefinition": "Rocket; missile."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Rakete, plural die Raketen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Rakete"
+        },
+        {
+          "label": "More than one",
+          "value": "die Raketen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Rakete startete pünktlich.",
+      "english": "The rocket launched on time.",
+      "highlight": [
+        "Rakete"
+      ]
+    },
+    {
+      "german": "An Silvester zünden viele Raketen.",
+      "english": "On New Year's Eve many people set off rockets.",
+      "highlight": [
+        "Raketen."
+      ]
+    }
+  ],
+  "forms": [
+    "Raketen",
+    "die Raketen",
+    "die Rakete"
+  ],
+  "memoryHook": "Rakete: up into the sky, at Silvester or into space.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rakete",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Rakete is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Rakete, zwei ___",
+      "answer": "Raketen",
+      "fullAnswer": "ein Rakete, zwei Raketen",
+      "explanation": "The plural is Raketen.",
+      "acceptedAnswers": [
+        "Raketen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rakete mean?",
+      "options": [
+        "rocket",
+        "the window",
+        "hot"
+      ],
+      "answer": "rocket",
+      "explanation": "Rakete: rocket; missile.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fireworks rockets on New Year's Eve are also…",
+      "options": [
+        "Raketen",
+        "Kanonen"
+      ],
+      "answer": "Raketen",
+      "explanation": "Silvester.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Raketenwissenschaft (casually):",
+      "options": [
+        "rocket science",
+        "fireworks"
+      ],
+      "answer": "rocket science",
+      "explanation": "Kein Hexenwerk.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "From Italian rocchetta, meaning…",
+      "options": [
+        "small spindle",
+        "fire"
+      ],
+      "answer": "small spindle",
+      "explanation": "Shape.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Rakete is a rocket or missile: eine Rakete starten, die Mondrakete. At Silvester (New Year's Eve), Germans fire off huge numbers of Raketen and Böller (bangers); fireworks are normally only sold on the last three days of the year. Rocket pioneer Wernher von Braun developed the V2 for the Nazis before leading NASA's Saturn V programme. From Italian rocchetta, a small spindle."
+}

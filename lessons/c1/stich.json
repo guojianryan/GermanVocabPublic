@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Stich",
+    "partOfSpeech": "noun, masculine (der Stich)",
+    "pronunciation": {
+      "respelling": "SHTIKH",
+      "ipa": "ʃtɪç",
+      "notes": "Plural: die Stiche."
+    },
+    "meaning": "sting, prick, stab; stitch; (card) trick",
+    "shortDefinition": "Sting, prick, stab; stitch; (card) trick."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Stich, plural die Stiche.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Stich"
+        },
+        {
+          "label": "More than one",
+          "value": "die Stiche"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Stich der Wespe tat weh.",
+      "english": "The wasp sting hurt.",
+      "highlight": [
+        "Stich"
+      ]
+    },
+    {
+      "german": "Er hat seine Freunde im Stich gelassen.",
+      "english": "He let his friends down.",
+      "highlight": [
+        "Stich"
+      ]
+    }
+  ],
+  "forms": [
+    "Stiche",
+    "der Stich",
+    "Stichs"
+  ],
+  "memoryHook": "Stich: what happens when something sticht (stings, pricks).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Stich",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Stich is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Stich, zwei ___",
+      "answer": "Stiche",
+      "fullAnswer": "ein Stich, zwei Stiche",
+      "explanation": "The plural is Stiche.",
+      "acceptedAnswers": [
+        "Stiche"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Stich mean?",
+      "options": [
+        "quiet",
+        "the station",
+        "sting"
+      ],
+      "answer": "sting",
+      "explanation": "Stich: sting, prick, stab; stitch; (card) trick.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden im Stich lassen means…",
+      "options": [
+        "to let someone down, abandon them",
+        "to stab someone"
+      ],
+      "answer": "to let someone down, abandon them",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Stich ins Blaue means…",
+      "options": [
+        "a tinge of blue",
+        "a blue mark"
+      ],
+      "answer": "a tinge of blue",
+      "explanation": "Tinge.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kupferstich is…",
+      "options": [
+        "copper engraving",
+        "copper wire"
+      ],
+      "answer": "copper engraving",
+      "explanation": "Art.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Stich has many meanings: a sting or bite (Mückenstich), a stab (Messerstich), a stitch in sewing, a sharp pain (Seitenstiche, stitch while running), a card trick (einen Stich machen), and an engraving (Kupferstich, as by Dürer). Jemanden im Stich lassen means to let someone down. Einen Stich haben (colloquial) means to be a bit crazy, and ein Stich ins Rote is a reddish tinge. From stechen (to sting). Plural: die Stiche."
+}

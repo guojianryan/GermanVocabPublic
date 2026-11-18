@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zyklus",
+    "partOfSpeech": "noun, masculine (der Zyklus)",
+    "pronunciation": {
+      "respelling": "TSÜ-klus",
+      "ipa": "ˈt͡syːklʊs",
+      "notes": "Plural: die Zyklen."
+    },
+    "meaning": "cycle",
+    "shortDefinition": "Cycle."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Zyklus, plural die Zyklen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Zyklus"
+        },
+        {
+          "label": "More than one",
+          "value": "die Zyklen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Zyklus wiederholt sich jedes Jahr.",
+      "english": "The cycle repeats every year.",
+      "highlight": [
+        "Zyklus"
+      ]
+    },
+    {
+      "german": "Die Konjunktur verläuft in Zyklen.",
+      "english": "The economy moves in cycles.",
+      "highlight": [
+        "Zyklen."
+      ]
+    }
+  ],
+  "forms": [
+    "Zyklen",
+    "die Zyklen",
+    "der Zyklus",
+    "zyklisch"
+  ],
+  "memoryHook": "Zyklus: a cycle; German spells it with Zy.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zyklus",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Zyklus is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Zyklus, zwei ___",
+      "answer": "Zyklen",
+      "fullAnswer": "ein Zyklus, zwei Zyklen",
+      "explanation": "The plural is Zyklen.",
+      "acceptedAnswers": [
+        "Zyklen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zyklus mean?",
+      "options": [
+        "cheap",
+        "cycle",
+        "always"
+      ],
+      "answer": "cycle",
+      "explanation": "Zyklus: cycle.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Zyklen",
+        "die Zyklusse"
+      ],
+      "answer": "die Zyklen",
+      "explanation": "Latin-style.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zy is pronounced…",
+      "options": [
+        "tsü",
+        "zai"
+      ],
+      "answer": "tsü",
+      "explanation": "TSÜ-klus.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zyklisch means…",
+      "options": [
+        "cyclical",
+        "cynical"
+      ],
+      "answer": "cyclical",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Zyklus is a cycle: der Konjunkturzyklus (business cycle), der Menstruationszyklus, ein Liederzyklus (song cycle, like Schubert's Winterreise). German spells it with Z and y, pronounced TSÜ-klus. The plural is die Zyklen. Zyklisch means cyclical. For bicycles, German has a different word: das Fahrrad. A cyclone is der Zyklon. From Greek kyklos (circle)."
+}

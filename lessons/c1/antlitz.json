@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Antlitz",
+    "partOfSpeech": "noun, neuter (das Antlitz)",
+    "pronunciation": {
+      "respelling": "ANT-lits",
+      "ipa": "ˈantlɪt͡s",
+      "notes": "Plural: die Antlitze."
+    },
+    "meaning": "countenance, face (literary)",
+    "shortDefinition": "Countenance, face (literary)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Antlitz, plural die Antlitze.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Antlitz"
+        },
+        {
+          "label": "More than one",
+          "value": "die Antlitze"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ihr Antlitz strahlte vor Freude.",
+      "english": "Her countenance shone with joy.",
+      "highlight": [
+        "Antlitz"
+      ]
+    },
+    {
+      "german": "Der Krieg veränderte das Antlitz der Stadt.",
+      "english": "The war changed the face of the city.",
+      "highlight": [
+        "Antlitz"
+      ]
+    }
+  ],
+  "forms": [
+    "Antlitze",
+    "das Antlitz"
+  ],
+  "memoryHook": "Antlitz: what you look at (Old German anda + wlizzi, face).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Antlitz",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Antlitz is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Antlitz, zwei ___",
+      "answer": "Antlitze",
+      "fullAnswer": "ein Antlitz, zwei Antlitze",
+      "explanation": "The plural is Antlitze.",
+      "acceptedAnswers": [
+        "Antlitze"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Antlitz mean?",
+      "options": [
+        "countenance",
+        "the station",
+        "the window"
+      ],
+      "answer": "countenance",
+      "explanation": "Antlitz: countenance, face (literary).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "poetic, literary",
+        "colloquial"
+      ],
+      "answer": "poetic, literary",
+      "explanation": "Literary.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday word:",
+      "options": [
+        "das Gesicht",
+        "der Kopf"
+      ],
+      "answer": "das Gesicht",
+      "explanation": "Everyday.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Antlitz der Erde means…",
+      "options": [
+        "the face of the earth",
+        "the earth's surface tax"
+      ],
+      "answer": "the face of the earth",
+      "explanation": "Figurative.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Antlitz is a literary or poetic word for face or countenance: ein edles Antlitz, das Antlitz Christi. It also appears figuratively: das Antlitz einer Stadt, der Erde. In everyday German you'd say das Gesicht. It's common in hymns, Bible translations and older poetry. Plural: die Antlitze, rarely used."
+}

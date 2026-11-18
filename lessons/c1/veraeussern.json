@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "veräußern",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-OY-sern",
+      "ipa": "fɛɐ̯ˈʔɔɪ̯sɐn",
+      "notes": ""
+    },
+    "meaning": "to sell, dispose of (formal)",
+    "shortDefinition": "To sell, dispose of (formal)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "veräußer|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "veräußer|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "veräußer|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "veräußer|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "veräußer|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "veräußer|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat veräußert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Firma veräußerte ihre Beteiligung.",
+      "english": "The company sold its stake.",
+      "highlight": [
+        "veräußerte"
+      ]
+    },
+    {
+      "german": "Das Grundstück darf nicht veräußert werden.",
+      "english": "The land may not be sold.",
+      "highlight": [
+        "veräußert"
+      ]
+    }
+  ],
+  "forms": [
+    "veräußere",
+    "veräußerst",
+    "veräußert",
+    "veräußern",
+    "Veräußerung"
+  ],
+  "memoryHook": "Veräußern: give something to the outside (außen).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (veräußern)",
+      "answer": "veräußert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: veräußert.",
+      "acceptedAnswers": [
+        "veraeussert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (veräußern, past)",
+      "answer": "veräußert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe veräußert.",
+      "acceptedAnswers": [
+        "veraeussert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does veräußern mean?",
+      "options": [
+        "cheap",
+        "to sell",
+        "to learn"
+      ],
+      "answer": "to sell",
+      "explanation": "veräußern: to sell, dispose of (formal).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "legal, business",
+        "colloquial"
+      ],
+      "answer": "legal, business",
+      "explanation": "Register.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday word:",
+      "options": [
+        "verkaufen",
+        "kaufen"
+      ],
+      "answer": "verkaufen",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unveräußerlich (rights) means…",
+      "options": [
+        "inalienable",
+        "unsaleable goods"
+      ],
+      "answer": "inalienable",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Veräußern means to sell or dispose of, a legal and business word: Aktien, Immobilien, eine Tochtergesellschaft veräußern. Die Veräußerung is the sale or disposal. Unveräußerlich means inalienable: unveräußerliche Menschenrechte (Article 1 GG). In everyday German you'd simply say verkaufen. Not separable: veräußerte, hat veräußert."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ankauf",
+    "partOfSpeech": "noun, masculine (der Ankauf)",
+    "pronunciation": {
+      "respelling": "AN-kauf",
+      "ipa": "ˈanˌkaʊ̯f",
+      "notes": "Plural: die Ankäufe."
+    },
+    "meaning": "purchase, acquisition (buying in)",
+    "shortDefinition": "Purchase, acquisition (buying in)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Ankauf, plural die Ankäufe.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Ankauf"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ankäufe"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "An- und Verkauf von Gebrauchtwagen.",
+      "english": "Used cars bought and sold.",
+      "highlight": [
+        "An-"
+      ]
+    },
+    {
+      "german": "Der Ankauf des Gemäldes kostete das Museum Millionen.",
+      "english": "Acquiring the painting cost the museum millions.",
+      "highlight": [
+        "Ankauf"
+      ]
+    }
+  ],
+  "forms": [
+    "Ankäufe",
+    "die Ankäufe",
+    "der Ankauf",
+    "ankaufen"
+  ],
+  "memoryHook": "Ankauf: buying (Kauf) things in (an).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ankauf",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Ankauf is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Ankauf, zwei ___",
+      "answer": "Ankäufe",
+      "fullAnswer": "ein Ankauf, zwei Ankäufe",
+      "explanation": "The plural is Ankäufe.",
+      "acceptedAnswers": [
+        "Ankaeufe"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ankauf mean?",
+      "options": [
+        "the bed",
+        "purchase",
+        "to sing"
+      ],
+      "answer": "purchase",
+      "explanation": "Ankauf: purchase, acquisition (buying in).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "An- und Verkauf on a shop sign means…",
+      "options": [
+        "we buy and sell",
+        "we rent out"
+      ],
+      "answer": "we buy and sell",
+      "explanation": "Sign.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ankaufen means…",
+      "options": [
+        "to buy (up), acquire",
+        "to sell"
+      ],
+      "answer": "to buy (up), acquire",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ankauf is typical for…",
+      "options": [
+        "institutions, dealers, buying stock",
+        "everyday groceries"
+      ],
+      "answer": "institutions, dealers, buying stock",
+      "explanation": "Usage.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Ankauf is a purchase or acquisition, usually by a dealer, institution or state: der Ankauf von Anleihen (bond purchases by the central bank), der Ankauf eines Kunstwerks. Shop signs reading An- und Verkauf mean buying and selling of second-hand goods, gold or cars. Everyday purchases are der Kauf or der Einkauf. Plural: die Ankäufe."
+}

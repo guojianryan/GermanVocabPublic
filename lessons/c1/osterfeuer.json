@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Osterfeuer",
+    "partOfSpeech": "noun, neuter (das Osterfeuer)",
+    "pronunciation": {
+      "respelling": "OHS-ter-foy-er",
+      "ipa": "ˈoːstɐˌfɔɪ̯ɐ",
+      "notes": "Plural: die Osterfeuer."
+    },
+    "meaning": "Easter bonfire",
+    "shortDefinition": "Easter bonfire."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Osterfeuer, plural die Osterfeuer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Osterfeuer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Osterfeuer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Am Karsamstag brennen im Norden viele Osterfeuer.",
+      "english": "On Holy Saturday many Easter bonfires burn in the north.",
+      "highlight": [
+        "Osterfeuer."
+      ]
+    },
+    {
+      "german": "Das ganze Dorf trifft sich am Osterfeuer.",
+      "english": "The whole village meets at the Easter bonfire.",
+      "highlight": [
+        "Osterfeuer."
+      ]
+    }
+  ],
+  "forms": [
+    "das Osterfeuer",
+    "Osterfeuers"
+  ],
+  "memoryHook": "Osterfeuer: a Feuer at Ostern (Easter).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Osterfeuer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Osterfeuer is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Osterfeuer, zwei ___",
+      "answer": "Osterfeuer",
+      "fullAnswer": "ein Osterfeuer, zwei Osterfeuer",
+      "explanation": "The plural is Osterfeuer.",
+      "acceptedAnswers": [
+        "Osterfeuer"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Osterfeuer mean?",
+      "options": [
+        "the window",
+        "Easter bonfire",
+        "the station"
+      ],
+      "answer": "Easter bonfire",
+      "explanation": "Osterfeuer: Easter bonfire.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Osterfeuer are especially common in…",
+      "options": [
+        "northern Germany",
+        "Bavaria only"
+      ],
+      "answer": "northern Germany",
+      "explanation": "Region.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Symbolically, they mark…",
+      "options": [
+        "the end of winter and Christ's resurrection",
+        "the harvest"
+      ],
+      "answer": "the end of winter and Christ's resurrection",
+      "explanation": "Tradition.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ostern is…",
+      "options": [
+        "Easter",
+        "east"
+      ],
+      "answer": "Easter",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Osterfeuer is an Easter bonfire, lit on Holy Saturday or Easter Sunday, especially in northern Germany and the Netherlands. Villages pile up branches for weeks. It symbolises the end of winter and, in Christian terms, the light of the resurrection. Organisers must restack piles before burning so hedgehogs and birds can escape. The plural is the same."
+}

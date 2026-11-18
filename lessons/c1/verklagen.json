@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verklagen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-KLAA-gen",
+      "ipa": "fɛɐ̯ˈklaːɡn̩",
+      "notes": ""
+    },
+    "meaning": "to sue",
+    "shortDefinition": "To sue."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verklag|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verklag|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verklag|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verklag|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verklag|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verklag|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verklagt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hat seinen Vermieter verklagt.",
+      "english": "He sued his landlord.",
+      "highlight": [
+        "verklagt."
+      ]
+    },
+    {
+      "german": "Die Firma wurde auf Schadenersatz verklagt.",
+      "english": "The company was sued for damages.",
+      "highlight": [
+        "verklagt."
+      ]
+    }
+  ],
+  "forms": [
+    "verklage",
+    "verklagst",
+    "verklagt",
+    "verklagen",
+    "Klage"
+  ],
+  "memoryHook": "Verklagen: bring a Klage (lawsuit) against someone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verklagen)",
+      "answer": "verklagt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verklagt.",
+      "acceptedAnswers": [
+        "verklagt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verklagen, past)",
+      "answer": "verklagt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verklagt.",
+      "acceptedAnswers": [
+        "verklagt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verklagen mean?",
+      "options": [
+        "the key",
+        "to sue",
+        "the bed"
+      ],
+      "answer": "to sue",
+      "explanation": "verklagen: to sue.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden auf etwas verklagen means…",
+      "options": [
+        "to sue someone for something",
+        "to complain to someone"
+      ],
+      "answer": "to sue someone for something",
+      "explanation": "Sue.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Klage is…",
+      "options": [
+        "lawsuit; complaint, lament",
+        "a clap"
+      ],
+      "answer": "lawsuit; complaint, lament",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Klagen alone means…",
+      "options": [
+        "to complain; to take legal action",
+        "to clap"
+      ],
+      "answer": "to complain; to take legal action",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verklagen means to sue: jemanden auf Schadenersatz verklagen (to sue for damages). Die Klage is a lawsuit (eine Klage einreichen, to file a suit) and also a lament. Klagen alone means to complain or to take legal action: gegen ein Urteil klagen. Many Germans have legal costs insurance (Rechtsschutzversicherung), which makes suing more common. Not separable: hat verklagt."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Verlegung",
+    "partOfSpeech": "noun, feminine (die Verlegung)",
+    "pronunciation": {
+      "respelling": "fer-LAY-gung",
+      "ipa": "fɛɐ̯ˈleːɡʊŋ",
+      "notes": "Plural: die Verlegungen."
+    },
+    "meaning": "relocation; postponement; laying (cables)",
+    "shortDefinition": "Relocation; postponement; laying (cables)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Verlegung, plural die Verlegungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Verlegung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Verlegungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Verlegung des Termins ist leider nötig.",
+      "english": "Unfortunately the appointment has to be moved.",
+      "highlight": [
+        "Verlegung"
+      ]
+    },
+    {
+      "german": "Der Patient wurde zur Verlegung in eine Spezialklinik vorbereitet.",
+      "english": "The patient was prepared for transfer to a specialist hospital.",
+      "highlight": [
+        "Verlegung"
+      ]
+    }
+  ],
+  "forms": [
+    "Verlegungen",
+    "die Verlegungen",
+    "die Verlegung",
+    "verlegen"
+  ],
+  "memoryHook": "Verlegung: moving something somewhere else, or laying it down.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Verlegung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Verlegung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Verlegung, zwei ___",
+      "answer": "Verlegungen",
+      "fullAnswer": "ein Verlegung, zwei Verlegungen",
+      "explanation": "The plural is Verlegungen.",
+      "acceptedAnswers": [
+        "Verlegungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Verlegung mean?",
+      "options": [
+        "relocation",
+        "to sing",
+        "to learn"
+      ],
+      "answer": "relocation",
+      "explanation": "Verlegung: relocation; postponement; laying (cables).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verlegen means…",
+      "options": [
+        "to move, postpone; to lay; to mislay",
+        "to lie down"
+      ],
+      "answer": "to move, postpone; to lay; to mislay",
+      "explanation": "Many meanings.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Verlegung eines Patienten is…",
+      "options": [
+        "a transfer to another ward or hospital",
+        "an operation"
+      ],
+      "answer": "a transfer to another ward or hospital",
+      "explanation": "Transfer.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Verlegung von Kabeln is…",
+      "options": [
+        "laying cables",
+        "cutting cables"
+      ],
+      "answer": "laying cables",
+      "explanation": "Laying.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Verlegung means relocation or transfer (die Verlegung eines Patienten, die Verlegung des Firmensitzes), postponement (die Verlegung des Spiels auf Sonntag), and laying: die Verlegung von Glasfaser (laying fibre-optic cable), a hot topic in Germany's slow broadband rollout. Verlegen means to move, postpone, lay, mislay and also to publish. Verlegen as an adjective means embarrassed. Plural: die Verlegungen."
+}

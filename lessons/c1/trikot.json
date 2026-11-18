@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Trikot",
+    "partOfSpeech": "noun, neuter (das Trikot)",
+    "pronunciation": {
+      "respelling": "tri-KOH",
+      "ipa": "tʁiˈkoː",
+      "notes": "Plural: die Trikots."
+    },
+    "meaning": "jersey, shirt (sports)",
+    "shortDefinition": "Jersey, shirt (sports)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Trikot, plural die Trikots.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Trikot"
+        },
+        {
+          "label": "More than one",
+          "value": "die Trikots"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er trägt das Trikot mit der Nummer 10.",
+      "english": "He wears the shirt with number 10.",
+      "highlight": [
+        "Trikot"
+      ]
+    },
+    {
+      "german": "Die Fans kaufen das neue Trikot.",
+      "english": "The fans are buying the new jersey.",
+      "highlight": [
+        "Trikot."
+      ]
+    }
+  ],
+  "forms": [
+    "Trikots",
+    "die Trikots",
+    "das Trikot"
+  ],
+  "memoryHook": "Trikot: say it the French way, tri-KOH.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Trikot",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Trikot is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Trikot, zwei ___",
+      "answer": "Trikots",
+      "fullAnswer": "ein Trikot, zwei Trikots",
+      "explanation": "The plural is Trikots.",
+      "acceptedAnswers": [
+        "Trikots"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Trikot mean?",
+      "options": [
+        "the window",
+        "hot",
+        "jersey"
+      ],
+      "answer": "jersey",
+      "explanation": "Trikot: jersey, shirt (sports).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pronunciation:",
+      "options": [
+        "tri-KOH (t silent)",
+        "TRI-kot"
+      ],
+      "answer": "tri-KOH (t silent)",
+      "explanation": "French.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gelbe Trikot is…",
+      "options": [
+        "the yellow jersey (Tour de France)",
+        "a yellow card"
+      ],
+      "answer": "the yellow jersey (Tour de France)",
+      "explanation": "Maillot jaune.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Trikot tauschen means…",
+      "options": [
+        "to swap shirts after a match",
+        "to change teams"
+      ],
+      "answer": "to swap shirts after a match",
+      "explanation": "Shirt swap.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Trikot is a sports jersey or shirt: das Nationaltrikot, das Auswärtstrikot (away kit). The word is French, so the t is silent: tri-KOH. Players swap Trikots after big matches. In cycling, das Gelbe Trikot is the Tour de France leader's yellow jersey. Germany's four World Cup stars sit above the badge on the national team's Trikot. Plural: die Trikots."
+}

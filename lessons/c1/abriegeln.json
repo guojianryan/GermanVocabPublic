@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "abriegeln",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AP-ree-geln",
+      "ipa": "ˈapˌʁiːɡl̩n",
+      "notes": ""
+    },
+    "meaning": "to seal off, cordon off",
+    "shortDefinition": "To seal off, cordon off."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "riegl|e … |ab"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "riegel|st … |ab"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "riegel|t … |ab"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "riegel|n … |ab"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "riegel|t … |ab"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "riegel|n … |ab"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat abgeriegelt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Polizei riegelte das Gebiet ab.",
+      "english": "The police cordoned off the area.",
+      "highlight": [
+        "riegelte",
+        "ab."
+      ]
+    },
+    {
+      "german": "Der Bahnhof wurde wegen eines verdächtigen Koffers abgeriegelt.",
+      "english": "The station was sealed off because of a suspicious suitcase.",
+      "highlight": [
+        "abgeriegelt."
+      ]
+    }
+  ],
+  "forms": [
+    "riegle ab",
+    "riegelst ab",
+    "riegelt ab",
+    "riegeln ab",
+    "abgeriegelt",
+    "riegelte ab"
+  ],
+  "memoryHook": "Abriegeln: shut off with a Riegel (bolt).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ab (abriegeln)",
+      "answer": "riegelt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: riegelt … ab.",
+      "acceptedAnswers": [
+        "riegelt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (abriegeln, past)",
+      "answer": "abgeriegelt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe abgeriegelt.",
+      "acceptedAnswers": [
+        "abgeriegelt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does abriegeln mean?",
+      "options": [
+        "the street",
+        "the weather",
+        "to seal off"
+      ],
+      "answer": "to seal off",
+      "explanation": "abriegeln: to seal off, cordon off.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Riegel is…",
+      "options": [
+        "bolt; bar (chocolate)",
+        "a ruler"
+      ],
+      "answer": "bolt; bar (chocolate)",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einer Sache einen Riegel vorschieben means…",
+      "options": [
+        "to put a stop to something",
+        "to lock a door"
+      ],
+      "answer": "to put a stop to something",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "absperren, abschirmen",
+        "öffnen"
+      ],
+      "answer": "absperren, abschirmen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Abriegeln means to seal off or cordon off: ein Gebiet, einen Tatort, die Grenze abriegeln. Der Riegel is a bolt and also a bar of chocolate or muesli: ein Schokoriegel. Einer Sache einen Riegel vorschieben means to put a stop to something. Synonyms: absperren, abschotten. Separable: riegelte ab, abgeriegelt."
+}

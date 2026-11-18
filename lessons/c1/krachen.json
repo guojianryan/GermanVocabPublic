@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "krachen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "KRA-khen",
+      "ipa": "ˈkʁaxn̩",
+      "notes": ""
+    },
+    "meaning": "to crash, bang; to crack",
+    "shortDefinition": "To crash, bang; to crack."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "krach|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "krach|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "krach|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "krach|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "krach|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "krach|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gekracht"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Draußen krachte es laut.",
+      "english": "There was a loud bang outside.",
+      "highlight": [
+        "krachte"
+      ]
+    },
+    {
+      "german": "Das Auto ist gegen einen Baum gekracht.",
+      "english": "The car crashed into a tree.",
+      "highlight": [
+        "gekracht."
+      ]
+    }
+  ],
+  "forms": [
+    "krache",
+    "krachst",
+    "kracht",
+    "krachen",
+    "gekracht",
+    "Krach"
+  ],
+  "memoryHook": "Krachen: make a Krach (bang).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (krachen)",
+      "answer": "kracht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: kracht.",
+      "acceptedAnswers": [
+        "kracht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (krachen, past)",
+      "answer": "gekracht",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gekracht.",
+      "acceptedAnswers": [
+        "gekracht"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does krachen mean?",
+      "options": [
+        "to sing",
+        "the station",
+        "to crash"
+      ],
+      "answer": "to crash",
+      "explanation": "krachen: to crash, bang; to crack.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Es kracht (between people) means…",
+      "options": [
+        "there's a row",
+        "it's cracking jokes"
+      ],
+      "answer": "there's a row",
+      "explanation": "Row.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Krach is…",
+      "options": [
+        "noise, din; row",
+        "a crack"
+      ],
+      "answer": "noise, din; row",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Etwas krachen lassen means…",
+      "options": [
+        "to really let one's hair down",
+        "to drop something"
+      ],
+      "answer": "to really let one's hair down",
+      "explanation": "Party.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Krachen means to crash or bang: Der Donner kracht, gegen eine Wand krachen (with sein when moving). Impersonally, es kracht means there's a bang, or there's a row: Bei denen kracht es ständig. Es krachen lassen means to party hard. Der Krach is noise or a row: Krach machen, Krach mit dem Chef haben. Silvester (New Year's Eve) in Germany is famously loud with fireworks."
+}

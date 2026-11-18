@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "umschalten",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "UM-shal-ten",
+      "ipa": "ˈʊmˌʃaltn̩",
+      "notes": ""
+    },
+    "meaning": "to switch (over); to change channel",
+    "shortDefinition": "To switch (over); to change channel."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schalt|e … |um"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schalt|est … |um"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schalt|et … |um"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schalt|en … |um"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schalt|et … |um"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schalt|en … |um"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat umgeschaltet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Schalt doch mal auf einen anderen Sender um!",
+      "english": "Switch over to another channel!",
+      "highlight": [
+        "Schalt",
+        "um!"
+      ]
+    },
+    {
+      "german": "Die Ampel hat auf Rot umgeschaltet.",
+      "english": "The traffic light has changed to red.",
+      "highlight": [
+        "umgeschaltet."
+      ]
+    }
+  ],
+  "forms": [
+    "schalte um",
+    "schaltest um",
+    "schaltet um",
+    "schalten um",
+    "umgeschaltet",
+    "schaltete um"
+  ],
+  "memoryHook": "Umschalten: schalten (switch) to something else (um).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … um (umschalten)",
+      "answer": "schaltet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schaltet … um.",
+      "acceptedAnswers": [
+        "schaltet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (umschalten, past)",
+      "answer": "umgeschaltet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe umgeschaltet.",
+      "acceptedAnswers": [
+        "umgeschaltet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does umschalten mean?",
+      "options": [
+        "to switch (over)",
+        "to learn",
+        "to sing"
+      ],
+      "answer": "to switch (over)",
+      "explanation": "umschalten: to switch (over); to change channel.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Umschalten (TV) means…",
+      "options": [
+        "to change channel",
+        "to switch off"
+      ],
+      "answer": "to change channel",
+      "explanation": "TV.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, umschalten means…",
+      "options": [
+        "to adjust, switch mode",
+        "to give up"
+      ],
+      "answer": "to adjust, switch mode",
+      "explanation": "Figurative.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Umschalttaste is…",
+      "options": [
+        "Shift key",
+        "Enter key"
+      ],
+      "answer": "Shift key",
+      "explanation": "Keyboard.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Umschalten means to switch over: auf einen anderen Sender umschalten (change channel), auf Winterzeit umschalten. Figuratively, it means to switch mode: nach dem Urlaub wieder auf Arbeit umschalten. The Shift key on German keyboards is die Umschalttaste. In football, schnelles Umschalten is fast transition between defence and attack. Separable: schaltete um, umgeschaltet."
+}

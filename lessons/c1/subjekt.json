@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Subjekt",
+    "partOfSpeech": "noun, neuter (das Subjekt)",
+    "pronunciation": {
+      "respelling": "zup-YEKT",
+      "ipa": "zʊpˈjɛkt",
+      "notes": "Plural: die Subjekte."
+    },
+    "meaning": "subject (grammar); individual (pejorative)",
+    "shortDefinition": "Subject (grammar); individual (pejorative)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Subjekt, plural die Subjekte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Subjekt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Subjekte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In diesem Satz ist das Subjekt im Nominativ.",
+      "english": "In this sentence the subject is in the nominative.",
+      "highlight": [
+        "Subjekt"
+      ]
+    },
+    {
+      "german": "Ein zwielichtiges Subjekt lungerte vor der Tür herum.",
+      "english": "A shady character was hanging around the door.",
+      "highlight": [
+        "Subjekt"
+      ]
+    }
+  ],
+  "forms": [
+    "Subjekte",
+    "die Subjekte",
+    "das Subjekt",
+    "subjektiv"
+  ],
+  "memoryHook": "Subjekt: what lies under (sub) the sentence, its doer.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Subjekt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Subjekt is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Subjekt, zwei ___",
+      "answer": "Subjekte",
+      "fullAnswer": "ein Subjekt, zwei Subjekte",
+      "explanation": "The plural is Subjekte.",
+      "acceptedAnswers": [
+        "Subjekte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Subjekt mean?",
+      "options": [
+        "the car",
+        "subject (grammar)",
+        "the bill"
+      ],
+      "answer": "subject (grammar)",
+      "explanation": "Subjekt: subject (grammar); individual (pejorative).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein zwielichtiges Subjekt is…",
+      "options": [
+        "a shady character",
+        "a twilight topic"
+      ],
+      "answer": "a shady character",
+      "explanation": "Pejorative.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A school subject is…",
+      "options": [
+        "das Fach",
+        "das Subjekt"
+      ],
+      "answer": "das Fach",
+      "explanation": "False friend.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Subjektiv means…",
+      "options": [
+        "subjective",
+        "subject to"
+      ],
+      "answer": "subjective",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Subjekt is the grammatical subject, in the nominative: Der Hund (Subjekt) beißt den Mann. In philosophy, it's the thinking subject. Pejoratively, ein Subjekt is a dubious individual: ein übles Subjekt. Careful: a school subject is das Fach, and a topic is das Thema. Subjektiv means subjective. Stressed on the second syllable. Plural: die Subjekte."
+}

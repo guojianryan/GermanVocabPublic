@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schnaps",
+    "partOfSpeech": "noun, masculine (der Schnaps)",
+    "pronunciation": {
+      "respelling": "shnaps",
+      "ipa": "ʃnaps",
+      "notes": "Plural: die Schnäpse."
+    },
+    "meaning": "schnapps, spirits",
+    "shortDefinition": "Schnapps, spirits."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schnaps, plural die Schnäpse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schnaps"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schnäpse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nach dem Essen gab es einen Schnaps.",
+      "english": "After the meal there was a schnapps.",
+      "highlight": [
+        "Schnaps."
+      ]
+    },
+    {
+      "german": "Dienst ist Dienst und Schnaps ist Schnaps.",
+      "english": "Work is work and drink is drink.",
+      "highlight": [
+        "Schnaps"
+      ]
+    }
+  ],
+  "forms": [
+    "Schnäpse",
+    "die Schnäpse",
+    "der Schnaps",
+    "Schnapsidee"
+  ],
+  "memoryHook": "Schnaps: from schnappen, to snap (a quick gulp).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schnaps",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schnaps is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schnaps, zwei ___",
+      "answer": "Schnäpse",
+      "fullAnswer": "ein Schnaps, zwei Schnäpse",
+      "explanation": "The plural is Schnäpse.",
+      "acceptedAnswers": [
+        "Schnaepse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schnaps mean?",
+      "options": [
+        "schnapps",
+        "tomorrow",
+        "the flower"
+      ],
+      "answer": "schnapps",
+      "explanation": "Schnaps: schnapps, spirits.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Dienst ist Dienst und Schnaps ist Schnaps means…",
+      "options": [
+        "keep work and pleasure separate",
+        "drink at work"
+      ],
+      "answer": "keep work and pleasure separate",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schnapsidee is…",
+      "options": [
+        "a crazy idea",
+        "a recipe"
+      ],
+      "answer": "a crazy idea",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Schnäpse",
+        "die Schnapse"
+      ],
+      "answer": "die Schnäpse",
+      "explanation": "Umlaut.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Schnaps is schnapps, any strong spirit, often a fruit brandy like Kirschwasser or Obstler, or a grain spirit like Korn. A small glass after a heavy meal is said to help digestion. Eine Schnapsidee is a crazy idea, one you might have after a few, and die Schnapszahl is a number with repeated digits like 333. Dienst ist Dienst und Schnaps ist Schnaps means keep work and pleasure separate. From schnappen (to snap). Plural: die Schnäpse."
+}

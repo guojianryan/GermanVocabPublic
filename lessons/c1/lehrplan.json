@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Lehrplan",
+    "partOfSpeech": "noun, masculine (der Lehrplan)",
+    "pronunciation": {
+      "respelling": "LAIR-plaan",
+      "ipa": "ˈleːɐ̯ˌplaːn",
+      "notes": "Plural: die Lehrpläne."
+    },
+    "meaning": "curriculum, syllabus",
+    "shortDefinition": "Curriculum, syllabus."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Lehrplan, plural die Lehrpläne.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Lehrplan"
+        },
+        {
+          "label": "More than one",
+          "value": "die Lehrpläne"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Thema steht nicht auf dem Lehrplan.",
+      "english": "The topic isn't on the curriculum.",
+      "highlight": [
+        "Lehrplan."
+      ]
+    },
+    {
+      "german": "Jedes Bundesland hat eigene Lehrpläne.",
+      "english": "Each federal state has its own curricula.",
+      "highlight": [
+        "Lehrpläne."
+      ]
+    }
+  ],
+  "forms": [
+    "Lehrpläne",
+    "die Lehrpläne",
+    "der Lehrplan"
+  ],
+  "memoryHook": "Lehrplan: the Plan of what is gelehrt (taught).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Lehrplan",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Lehrplan is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Lehrplan, zwei ___",
+      "answer": "Lehrpläne",
+      "fullAnswer": "ein Lehrplan, zwei Lehrpläne",
+      "explanation": "The plural is Lehrpläne.",
+      "acceptedAnswers": [
+        "Lehrplaene"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Lehrplan mean?",
+      "options": [
+        "curriculum",
+        "to sing",
+        "the window"
+      ],
+      "answer": "curriculum",
+      "explanation": "Lehrplan: curriculum, syllabus.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Who sets school curricula in Germany?",
+      "options": [
+        "each federal state",
+        "the federal government"
+      ],
+      "answer": "each federal state",
+      "explanation": "Länder.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Plan is…",
+      "options": [
+        "plan; timetable",
+        "a lesson"
+      ],
+      "answer": "plan; timetable",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Stundenplan is…",
+      "options": [
+        "the school timetable",
+        "a curriculum"
+      ],
+      "answer": "the school timetable",
+      "explanation": "Timetable.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Lehrplan is a school curriculum or syllabus: im Lehrplan stehen, den Lehrplan ändern. Because education is a Länder matter, each state has its own Lehrpläne, coordinated by the Kultusministerkonferenz (KMK), which leads to frequent calls for national standards. Der Stundenplan is the weekly timetable. Plural: die Lehrpläne."
+}

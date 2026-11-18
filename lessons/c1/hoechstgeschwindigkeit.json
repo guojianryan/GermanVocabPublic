@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Höchstgeschwindigkeit",
+    "partOfSpeech": "noun, feminine (die Höchstgeschwindigkeit)",
+    "pronunciation": {
+      "respelling": "HÖKHST-ge-shvin-dikh-kait",
+      "ipa": "ˈhøːçstɡəˌʃvɪndɪçkaɪ̯t",
+      "notes": "Plural: die Höchstgeschwindigkeiten."
+    },
+    "meaning": "maximum speed; speed limit",
+    "shortDefinition": "Maximum speed; speed limit."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Höchstgeschwindigkeit, plural die Höchstgeschwindigkeiten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Höchstgeschwindigkeit"
+        },
+        {
+          "label": "More than one",
+          "value": "die Höchstgeschwindigkeiten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die zulässige Höchstgeschwindigkeit beträgt 50 km/h.",
+      "english": "The speed limit is 50 km/h.",
+      "highlight": [
+        "Höchstgeschwindigkeit"
+      ]
+    },
+    {
+      "german": "Der ICE erreicht eine Höchstgeschwindigkeit von 300 km/h.",
+      "english": "The ICE reaches a top speed of 300 km/h.",
+      "highlight": [
+        "Höchstgeschwindigkeit"
+      ]
+    }
+  ],
+  "forms": [
+    "Höchstgeschwindigkeiten",
+    "die Höchstgeschwindigkeit"
+  ],
+  "memoryHook": "Höchstgeschwindigkeit: the highest (höchst) Geschwindigkeit (speed).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Höchstgeschwindigkeit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Höchstgeschwindigkeit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Höchstgeschwindigkeit, zwei ___",
+      "answer": "Höchstgeschwindigkeiten",
+      "fullAnswer": "ein Höchstgeschwindigkeit, zwei Höchstgeschwindigkeiten",
+      "explanation": "The plural is Höchstgeschwindigkeiten.",
+      "acceptedAnswers": [
+        "Hoechstgeschwindigkeiten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Höchstgeschwindigkeit mean?",
+      "options": [
+        "the family",
+        "maximum speed",
+        "the door"
+      ],
+      "answer": "maximum speed",
+      "explanation": "Höchstgeschwindigkeit: maximum speed; speed limit.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die zulässige Höchstgeschwindigkeit is…",
+      "options": [
+        "the speed limit",
+        "a sports car"
+      ],
+      "answer": "the speed limit",
+      "explanation": "Limit.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Default limit in German towns:",
+      "options": [
+        "50 km/h",
+        "60 km/h"
+      ],
+      "answer": "50 km/h",
+      "explanation": "Town.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Richtgeschwindigkeit on motorways is…",
+      "options": [
+        "a recommended 130 km/h",
+        "a strict 120 km/h"
+      ],
+      "answer": "a recommended 130 km/h",
+      "explanation": "Motorway.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Höchstgeschwindigkeit is maximum speed or, with zulässig, the speed limit. In Germany, the default limits are 50 km/h in towns and 100 km/h on country roads; many motorway stretches have no general limit, only a recommended Richtgeschwindigkeit of 130 km/h. A general Tempolimit is a long-running political debate. The ICE reaches up to 300 km/h. Plural: die Höchstgeschwindigkeiten."
+}

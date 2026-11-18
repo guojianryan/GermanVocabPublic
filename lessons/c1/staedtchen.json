@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Städtchen",
+    "partOfSpeech": "noun, neuter (das Städtchen)",
+    "pronunciation": {
+      "respelling": "SHTET-khen",
+      "ipa": "ˈʃtɛtçən",
+      "notes": "Plural: die Städtchen."
+    },
+    "meaning": "small town",
+    "shortDefinition": "Small town."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Städtchen, plural die Städtchen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Städtchen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Städtchen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir wohnen in einem hübschen Städtchen am Rhein.",
+      "english": "We live in a pretty little town on the Rhine.",
+      "highlight": [
+        "Städtchen"
+      ]
+    },
+    {
+      "german": "Das Städtchen hat nur 5.000 Einwohner.",
+      "english": "The little town has only 5,000 inhabitants.",
+      "highlight": [
+        "Städtchen"
+      ]
+    }
+  ],
+  "forms": [
+    "die Städtchen",
+    "das Städtchen"
+  ],
+  "memoryHook": "Städtchen: a little Stadt, with umlaut and -chen.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Städtchen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Städtchen is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Städtchen, zwei ___",
+      "answer": "Städtchen",
+      "fullAnswer": "ein Städtchen, zwei Städtchen",
+      "explanation": "The plural is Städtchen.",
+      "acceptedAnswers": [
+        "Staedtchen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Städtchen mean?",
+      "options": [
+        "small town",
+        "to open",
+        "to wait"
+      ],
+      "answer": "small town",
+      "explanation": "Städtchen: small town.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "All -chen nouns are…",
+      "options": [
+        "neuter",
+        "feminine"
+      ],
+      "answer": "neuter",
+      "explanation": "das Städtchen.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kleinstadt is…",
+      "options": [
+        "small town (neutral)",
+        "a toy town"
+      ],
+      "answer": "small town (neutral)",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Städtchen",
+        "die Städtchens"
+      ],
+      "answer": "die Städtchen",
+      "explanation": "Unchanged.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Städtchen is a small or little town, the diminutive of die Stadt with umlaut and -chen, so it's neuter. It often sounds charming: ein malerisches Städtchen mit Fachwerkhäusern, like Rothenburg, Dinkelsbühl or Bacharach. The neutral word is die Kleinstadt (under 20,000 inhabitants). Plural unchanged: die Städtchen."
+}

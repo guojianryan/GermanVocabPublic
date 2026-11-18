@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "begünstigen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-GÜN-sti-gen",
+      "ipa": "bəˈɡʏnstɪɡn̩",
+      "notes": ""
+    },
+    "meaning": "to favour, promote, benefit",
+    "shortDefinition": "To favour, promote, benefit."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "begünstig|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "begünstig|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "begünstig|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "begünstig|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "begünstig|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "begünstig|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat begünstigt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das warme Wetter begünstigt die Ausbreitung der Mücken.",
+      "english": "The warm weather favours the spread of mosquitoes.",
+      "highlight": [
+        "begünstigt"
+      ]
+    },
+    {
+      "german": "Die Reform begünstigt Familien.",
+      "english": "The reform benefits families.",
+      "highlight": [
+        "begünstigt"
+      ]
+    }
+  ],
+  "forms": [
+    "begünstige",
+    "begünstigst",
+    "begünstigt",
+    "begünstigen",
+    "Begünstigte",
+    "Begünstigung"
+  ],
+  "memoryHook": "Begünstigen: make things günstig (favourable) for something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (begünstigen)",
+      "answer": "begünstigt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: begünstigt.",
+      "acceptedAnswers": [
+        "beguenstigt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (begünstigen, past)",
+      "answer": "begünstigt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe begünstigt.",
+      "acceptedAnswers": [
+        "beguenstigt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does begünstigen mean?",
+      "options": [
+        "the bed",
+        "never",
+        "to favour"
+      ],
+      "answer": "to favour",
+      "explanation": "begünstigen: to favour, promote, benefit.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Begünstigte is…",
+      "options": [
+        "the beneficiary",
+        "the patron"
+      ],
+      "answer": "the beneficiary",
+      "explanation": "Beneficiary.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Günstig means…",
+      "options": [
+        "cheap; favourable",
+        "angry"
+      ],
+      "answer": "cheap; favourable",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Vergünstigung is…",
+      "options": [
+        "a discount, concession",
+        "a delay"
+      ],
+      "answer": "a discount, concession",
+      "explanation": "Discount.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Begünstigen means to favour or promote a development (Trockenheit begünstigt Waldbrände) or to give someone an advantage: Die Steuer begünstigt Reiche. Der/die Begünstigte is the beneficiary, of an insurance policy for instance. In criminal law, die Begünstigung is aiding an offender after the crime. From günstig, which means favourable and also cheap: ein günstiges Angebot. Die Vergünstigung is a discount."
+}

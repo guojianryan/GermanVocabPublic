@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rechtsweg",
+    "partOfSpeech": "noun, masculine (der Rechtsweg)",
+    "pronunciation": {
+      "respelling": "REKHTS-vayk",
+      "ipa": "ˈʁɛçt͡sˌveːk",
+      "notes": "Plural: die Rechtswege."
+    },
+    "meaning": "legal action, recourse to the courts",
+    "shortDefinition": "Legal action, recourse to the courts."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Rechtsweg, plural die Rechtswege.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Rechtsweg"
+        },
+        {
+          "label": "More than one",
+          "value": "die Rechtswege"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Rechtsweg ist ausgeschlossen.",
+      "english": "No recourse to legal action.",
+      "highlight": [
+        "Rechtsweg"
+      ]
+    },
+    {
+      "german": "Sie will den Rechtsweg beschreiten.",
+      "english": "She intends to take legal action.",
+      "highlight": [
+        "Rechtsweg"
+      ]
+    }
+  ],
+  "forms": [
+    "Rechtswege",
+    "der Rechtsweg"
+  ],
+  "memoryHook": "Rechtsweg: the Weg (path) through the Recht (law).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rechtsweg",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Rechtsweg is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Rechtsweg, zwei ___",
+      "answer": "Rechtswege",
+      "fullAnswer": "ein Rechtsweg, zwei Rechtswege",
+      "explanation": "The plural is Rechtswege.",
+      "acceptedAnswers": [
+        "Rechtswege"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rechtsweg mean?",
+      "options": [
+        "the bill",
+        "legal action",
+        "hot"
+      ],
+      "answer": "legal action",
+      "explanation": "Rechtsweg: legal action, recourse to the courts.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Rechtsweg ist ausgeschlossen appears on…",
+      "options": [
+        "prize draws and competitions",
+        "court rulings"
+      ],
+      "answer": "prize draws and competitions",
+      "explanation": "Competitions.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Rechtsweg beschreiten means…",
+      "options": [
+        "to go to court",
+        "to walk on the right"
+      ],
+      "answer": "to go to court",
+      "explanation": "Phrase.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Article 19(4) GG guarantees…",
+      "options": [
+        "recourse to the courts against the state",
+        "free lawyers"
+      ],
+      "answer": "recourse to the courts against the state",
+      "explanation": "Grundgesetz.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Rechtsweg is recourse to the courts: den Rechtsweg beschreiten or einschlagen (to take legal action). Article 19(4) of the Grundgesetz guarantees it to anyone whose rights are violated by public authority. Almost every German prize draw ends with Der Rechtsweg ist ausgeschlossen, meaning you can't sue over the result. Plural: die Rechtswege."
+}

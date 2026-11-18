@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schwarzarbeit",
+    "partOfSpeech": "noun, feminine (die Schwarzarbeit)",
+    "pronunciation": {
+      "respelling": "SHVARTS-ar-bait",
+      "ipa": "ˈʃvaʁt͡sˌʔaʁbaɪ̯t",
+      "notes": "Usually no plural."
+    },
+    "meaning": "undeclared work, moonlighting",
+    "shortDefinition": "Undeclared work, moonlighting."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Schwarzarbeit, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Schwarzarbeit"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Schwarzarbeit kostet den Staat Milliarden.",
+      "english": "Undeclared work costs the state billions.",
+      "highlight": [
+        "Schwarzarbeit"
+      ]
+    },
+    {
+      "german": "Der Zoll kontrolliert Baustellen auf Schwarzarbeit.",
+      "english": "Customs check building sites for illegal work.",
+      "highlight": [
+        "Schwarzarbeit."
+      ]
+    }
+  ],
+  "forms": [
+    "die Schwarzarbeit",
+    "schwarzarbeiten"
+  ],
+  "memoryHook": "Schwarzarbeit: work done in the dark (schwarz), off the books.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schwarzarbeit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Schwarzarbeit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schwarzarbeit mean?",
+      "options": [
+        "expensive",
+        "undeclared work",
+        "the bill"
+      ],
+      "answer": "undeclared work",
+      "explanation": "Schwarzarbeit: undeclared work, moonlighting.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schwarzarbeit is checked by…",
+      "options": [
+        "the customs authority (Zoll)",
+        "the police only"
+      ],
+      "answer": "the customs authority (Zoll)",
+      "explanation": "Authority.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schwarz (here) means…",
+      "options": [
+        "illegal, off the books",
+        "dark"
+      ],
+      "answer": "illegal, off the books",
+      "explanation": "Meaning.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schwarzfahren means…",
+      "options": [
+        "riding without a ticket",
+        "driving at night"
+      ],
+      "answer": "riding without a ticket",
+      "explanation": "Related.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Schwarzarbeit is undeclared work, paid cash without tax or social security, common in construction, cleaning and private renovation. In Germany, the customs service's Finanzkontrolle Schwarzarbeit checks workplaces. Schwarz often means illegal: schwarzfahren (fare dodging), Schwarzgeld (undeclared money), der Schwarzmarkt. Paying a tradesman cash without a bill, ohne Rechnung, is also illegal. It has no plural."
+}

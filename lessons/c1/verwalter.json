@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Verwalter",
+    "partOfSpeech": "noun, masculine (der Verwalter)",
+    "pronunciation": {
+      "respelling": "fer-VAL-ter",
+      "ipa": "fɛɐ̯ˈvaltɐ",
+      "notes": "Plural: die Verwalter."
+    },
+    "meaning": "administrator, manager",
+    "shortDefinition": "Administrator, manager."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Verwalter, plural die Verwalter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Verwalter"
+        },
+        {
+          "label": "More than one",
+          "value": "die Verwalter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Hausverwalter kümmert sich um die Reparaturen.",
+      "english": "The property manager takes care of repairs.",
+      "highlight": [
+        "Hausverwalter"
+      ]
+    },
+    {
+      "german": "Ein Insolvenzverwalter wurde eingesetzt.",
+      "english": "An insolvency administrator was appointed.",
+      "highlight": [
+        "Insolvenzverwalter"
+      ]
+    }
+  ],
+  "forms": [
+    "die Verwalter",
+    "der Verwalter",
+    "Verwalterin",
+    "Hausverwalter"
+  ],
+  "memoryHook": "Verwalter: someone who verwaltet (administers).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Verwalter",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Verwalter is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Verwalter, zwei ___",
+      "answer": "Verwalter",
+      "fullAnswer": "ein Verwalter, zwei Verwalter",
+      "explanation": "The plural is Verwalter.",
+      "acceptedAnswers": [
+        "Verwalter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Verwalter mean?",
+      "options": [
+        "administrator",
+        "to sleep",
+        "to help"
+      ],
+      "answer": "administrator",
+      "explanation": "Verwalter: administrator, manager.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Hausverwaltung is…",
+      "options": [
+        "property management",
+        "housekeeping"
+      ],
+      "answer": "property management",
+      "explanation": "Property.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verwalten means…",
+      "options": [
+        "to manage, administer",
+        "to rule by force"
+      ],
+      "answer": "to manage, administer",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Insolvenzverwalter is…",
+      "options": [
+        "an insolvency administrator",
+        "a debt collector"
+      ],
+      "answer": "an insolvency administrator",
+      "explanation": "Insolvency.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Verwalter (die Verwalterin) is an administrator or manager: der Hausverwalter (property manager, a key contact for tenants and owners), der Insolvenzverwalter, der Nachlassverwalter (estate administrator). Verwalten means to manage or administer, and die Verwaltung is administration, famous in Germany for its paperwork. Germans joke about verwalten instead of gestalten (administering instead of shaping). Plural: die Verwalter."
+}

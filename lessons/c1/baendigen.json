@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "bändigen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "BEN-di-gen",
+      "ipa": "ˈbɛndɪɡn̩",
+      "notes": ""
+    },
+    "meaning": "to tame, control, restrain",
+    "shortDefinition": "To tame, control, restrain."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "bändig|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "bändig|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "bändig|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "bändig|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "bändig|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "bändig|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gebändigt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Dompteur bändigt die Löwen.",
+      "english": "The animal tamer controls the lions.",
+      "highlight": [
+        "bändigt"
+      ]
+    },
+    {
+      "german": "Sie konnte ihre Locken kaum bändigen.",
+      "english": "She could hardly tame her curls.",
+      "highlight": [
+        "bändigen."
+      ]
+    }
+  ],
+  "forms": [
+    "bändige",
+    "bändigst",
+    "bändigt",
+    "bändigen",
+    "gebändigt",
+    "bändigte"
+  ],
+  "memoryHook": "Bändigen: put an animal in Bande (bonds).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (bändigen)",
+      "answer": "bändigt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: bändigt.",
+      "acceptedAnswers": [
+        "baendigt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (bändigen, past)",
+      "answer": "gebändigt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gebändigt.",
+      "acceptedAnswers": [
+        "gebaendigt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does bändigen mean?",
+      "options": [
+        "quiet",
+        "slowly",
+        "to tame"
+      ],
+      "answer": "to tame",
+      "explanation": "bändigen: to tame, control, restrain.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bändigen means…",
+      "options": [
+        "to tame, restrain",
+        "to bind books"
+      ],
+      "answer": "to tame, restrain",
+      "explanation": "Tame.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unbändig means…",
+      "options": [
+        "unbridled, tremendous",
+        "tame"
+      ],
+      "answer": "unbridled, tremendous",
+      "explanation": "Opposite.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "zähmen, zügeln",
+        "freilassen"
+      ],
+      "answer": "zähmen, zügeln",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Bändigen means to tame, control or restrain: wilde Tiere, eine Menschenmenge, seine Wut, widerspenstige Haare bändigen. Unbändig means unbridled or tremendous: unbändige Freude, unbändige Kraft. Synonyms: zähmen (tame animals), zügeln (rein in), im Zaum halten. From das Band (bond). Regular: bändigte, gebändigt."
+}

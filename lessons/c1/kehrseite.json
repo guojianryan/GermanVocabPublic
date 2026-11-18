@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kehrseite",
+    "partOfSpeech": "noun, feminine (die Kehrseite)",
+    "pronunciation": {
+      "respelling": "KEHR-zai-te",
+      "ipa": "ˈkeːɐ̯ˌzaɪ̯tə",
+      "notes": "Plural: die Kehrseiten."
+    },
+    "meaning": "downside, flip side",
+    "shortDefinition": "Downside, flip side."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kehrseite, plural die Kehrseiten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kehrseite"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kehrseiten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Erfolg hat auch eine Kehrseite.",
+      "english": "Success has a downside too.",
+      "highlight": [
+        "Kehrseite."
+      ]
+    },
+    {
+      "german": "Das ist die Kehrseite der Medaille.",
+      "english": "That's the other side of the coin.",
+      "highlight": [
+        "Kehrseite"
+      ]
+    }
+  ],
+  "forms": [
+    "Kehrseiten",
+    "die Kehrseite"
+  ],
+  "memoryHook": "Kehrseite: the Seite you see when you turn (kehren) something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kehrseite",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kehrseite is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kehrseite, zwei ___",
+      "answer": "Kehrseiten",
+      "fullAnswer": "ein Kehrseite, zwei Kehrseiten",
+      "explanation": "The plural is Kehrseiten.",
+      "acceptedAnswers": [
+        "Kehrseiten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kehrseite mean?",
+      "options": [
+        "tomorrow",
+        "the bed",
+        "downside"
+      ],
+      "answer": "downside",
+      "explanation": "Kehrseite: downside, flip side.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kehrseite der Medaille means…",
+      "options": [
+        "the other side of the coin",
+        "the medal's back"
+      ],
+      "answer": "the other side of the coin",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Nachteil, die Schattenseite",
+        "der Vorteil"
+      ],
+      "answer": "der Nachteil, die Schattenseite",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kehren here means…",
+      "options": [
+        "to turn",
+        "to sweep"
+      ],
+      "answer": "to turn",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kehrseite is the downside or flip side, literally the reverse of a coin: die Kehrseite des Ruhms, die Kehrseite der Medaille (the other side of the coin). Kehren here means to turn, as in umkehren; it also means to sweep. Synonyms: der Nachteil, die Schattenseite. Jokingly it can mean someone's backside. Plural: die Kehrseiten."
+}

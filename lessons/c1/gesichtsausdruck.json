@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gesichtsausdruck",
+    "partOfSpeech": "noun, masculine (der Gesichtsausdruck)",
+    "pronunciation": {
+      "respelling": "ge-ZIKHTS-aus-druk",
+      "ipa": "ɡəˈzɪçt͡sˌʔaʊ̯sdʁʊk",
+      "notes": "Plural: die Gesichtsausdrücke."
+    },
+    "meaning": "facial expression",
+    "shortDefinition": "Facial expression."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Gesichtsausdruck, plural die Gesichtsausdrücke.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Gesichtsausdruck"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gesichtsausdrücke"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "An ihrem Gesichtsausdruck sah ich, dass sie wütend war.",
+      "english": "I could see from her expression that she was angry.",
+      "highlight": [
+        "Gesichtsausdruck"
+      ]
+    },
+    {
+      "german": "Er hatte einen besorgten Gesichtsausdruck.",
+      "english": "He had a worried look on his face.",
+      "highlight": [
+        "Gesichtsausdruck."
+      ]
+    }
+  ],
+  "forms": [
+    "Gesichtsausdrücke",
+    "der Gesichtsausdruck"
+  ],
+  "memoryHook": "Gesichtsausdruck: the Ausdruck (expression) on your Gesicht (face).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gesichtsausdruck",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Gesichtsausdruck is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gesichtsausdruck, zwei ___",
+      "answer": "Gesichtsausdrücke",
+      "fullAnswer": "ein Gesichtsausdruck, zwei Gesichtsausdrücke",
+      "explanation": "The plural is Gesichtsausdrücke.",
+      "acceptedAnswers": [
+        "Gesichtsausdruecke"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gesichtsausdruck mean?",
+      "options": [
+        "never",
+        "facial expression",
+        "quiet"
+      ],
+      "answer": "facial expression",
+      "explanation": "Gesichtsausdruck: facial expression.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Miene is…",
+      "options": [
+        "facial expression (synonym)",
+        "mine"
+      ],
+      "answer": "facial expression (synonym)",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ausdruck is…",
+      "options": [
+        "expression; printout",
+        "a pressure"
+      ],
+      "answer": "expression; printout",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Keine Miene verziehen means…",
+      "options": [
+        "to keep a straight face",
+        "to pull a face"
+      ],
+      "answer": "to keep a straight face",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Gesichtsausdruck is a facial expression: ein fragender, ernster, entsetzter Gesichtsausdruck. A slightly literary synonym is die Miene: keine Miene verziehen (to keep a straight face), gute Miene zum bösen Spiel machen (to put a brave face on it). Der Ausdruck means expression and also a printout. Plural: die Gesichtsausdrücke."
+}

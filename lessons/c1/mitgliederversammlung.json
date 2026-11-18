@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mitgliederversammlung",
+    "partOfSpeech": "noun, feminine (die Mitgliederversammlung)",
+    "pronunciation": {
+      "respelling": "MIT-glee-der-fer-zam-lung",
+      "ipa": "ˈmɪtɡliːdɐfɛɐ̯ˌzamlʊŋ",
+      "notes": "Plural: die Mitgliederversammlungen."
+    },
+    "meaning": "general meeting (of members)",
+    "shortDefinition": "General meeting (of members)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Mitgliederversammlung, plural die Mitgliederversammlungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Mitgliederversammlung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mitgliederversammlungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Mitgliederversammlung wählt den Vorstand.",
+      "english": "The general meeting elects the board.",
+      "highlight": [
+        "Mitgliederversammlung"
+      ]
+    },
+    {
+      "german": "Die jährliche Mitgliederversammlung findet im März statt.",
+      "english": "The annual members' meeting takes place in March.",
+      "highlight": [
+        "Mitgliederversammlung"
+      ]
+    }
+  ],
+  "forms": [
+    "Mitgliederversammlungen",
+    "die Mitgliederversammlungen",
+    "die Mitgliederversammlung"
+  ],
+  "memoryHook": "Mitgliederversammlung: assembly (Versammlung) of members (Mitglieder).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mitgliederversammlung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Mitgliederversammlung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mitgliederversammlung, zwei ___",
+      "answer": "Mitgliederversammlungen",
+      "fullAnswer": "ein Mitgliederversammlung, zwei Mitgliederversammlungen",
+      "explanation": "The plural is Mitgliederversammlungen.",
+      "acceptedAnswers": [
+        "Mitgliederversammlungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mitgliederversammlung mean?",
+      "options": [
+        "the job",
+        "general meeting (of members)",
+        "the car"
+      ],
+      "answer": "general meeting (of members)",
+      "explanation": "Mitgliederversammlung: general meeting (of members).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "A typical Verein holds…",
+      "options": [
+        "an annual Mitgliederversammlung",
+        "no meetings"
+      ],
+      "answer": "an annual Mitgliederversammlung",
+      "explanation": "Annual.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "For a public company, the equivalent is…",
+      "options": [
+        "die Hauptversammlung",
+        "die Mitgliederversammlung"
+      ],
+      "answer": "die Hauptversammlung",
+      "explanation": "AGM.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Mitglied is…",
+      "options": [
+        "member",
+        "middle"
+      ],
+      "answer": "member",
+      "explanation": "Member.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Mitgliederversammlung is the general meeting of an association's members. Germany has around 600,000 registered clubs (eingetragene Vereine, e.V.), and by law each holds a Mitgliederversammlung that elects the Vorstand (board) and approves the accounts. It's a cornerstone of German Vereinskultur. For shareholders of a public company, it's die Hauptversammlung. Das Mitglied is a member. Plural: die Mitgliederversammlungen."
+}

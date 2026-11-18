@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verfliegen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-FLEE-gen",
+      "ipa": "fɛɐ̯ˈfliːɡn̩",
+      "notes": ""
+    },
+    "meaning": "to evaporate, wear off; to pass quickly",
+    "shortDefinition": "To evaporate, wear off; to pass quickly."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verflieg|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verflieg|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verflieg|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verflieg|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verflieg|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verflieg|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist verflogen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Begeisterung war schnell verflogen.",
+      "english": "The enthusiasm soon wore off.",
+      "highlight": [
+        "verflogen."
+      ]
+    },
+    {
+      "german": "Die Zeit verflog wie im Nu.",
+      "english": "Time flew by in no time.",
+      "highlight": [
+        "verflog"
+      ]
+    }
+  ],
+  "forms": [
+    "verfliege",
+    "verfliegst",
+    "verfliegt",
+    "verfliegen",
+    "verflogen",
+    "verflog"
+  ],
+  "memoryHook": "Verfliegen: fliegen (fly) away until gone (ver-).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verfliegen)",
+      "answer": "verfliegt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verfliegt.",
+      "acceptedAnswers": [
+        "verfliegt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (verfliegen, past)",
+      "answer": "verflogen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin verflogen.",
+      "acceptedAnswers": [
+        "verflogen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verfliegen mean?",
+      "options": [
+        "to learn",
+        "to evaporate",
+        "the door"
+      ],
+      "answer": "to evaporate",
+      "explanation": "verfliegen: to evaporate, wear off; to pass quickly.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verfliegen takes…",
+      "options": [
+        "sein",
+        "haben"
+      ],
+      "answer": "sein",
+      "explanation": "Auxiliary.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich verfliegen means…",
+      "options": [
+        "to get lost while flying",
+        "to fly away"
+      ],
+      "answer": "to get lost while flying",
+      "explanation": "Reflexive.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "verflog, verflogen",
+        "verfliegte"
+      ],
+      "answer": "verflog, verflogen",
+      "explanation": "Irregular.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verfliegen means to evaporate or wear off: Der Duft verfliegt, Die Wut, der Ärger, die Euphorie ist verflogen. Time can verfliegen too: Die Stunden verflogen. Sich verfliegen means for a pilot or bird to lose its way. Synonyms: vergehen, sich verflüchtigen, nachlassen. Irregular like fliegen, with sein: verflog, ist verflogen."
+}

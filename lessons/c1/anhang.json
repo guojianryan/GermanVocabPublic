@@ -1,0 +1,156 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Anhang",
+    "partOfSpeech": "noun, masculine (der Anhang)",
+    "pronunciation": {
+      "respelling": "AN-hang",
+      "ipa": "ˈanˌhaŋ",
+      "notes": "Plural: die Anhänge."
+    },
+    "meaning": "appendix; attachment; followers",
+    "shortDefinition": "Appendix; attachment; followers."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "an",
+        "meaning": "on, onto"
+      },
+      {
+        "part": "Hang",
+        "meaning": "a hanging",
+        "note": "From hängen, to hang."
+      }
+    ],
+    "literalMeaning": "a hanging-on"
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Anhang, plural die Anhänge.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Anhang"
+        },
+        {
+          "label": "More than one",
+          "value": "die Anhänge"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Tabelle steht im Anhang.",
+      "english": "The table is in the appendix.",
+      "highlight": [
+        "Anhang."
+      ]
+    },
+    {
+      "german": "Ich habe die Datei als Anhang geschickt.",
+      "english": "I sent the file as an attachment.",
+      "highlight": [
+        "Anhang"
+      ]
+    }
+  ],
+  "forms": [
+    "Anhänge",
+    "die Anhänge",
+    "der Anhang",
+    "anhängen"
+  ],
+  "memoryHook": "Anhang: whatever hangs on at the end.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Anhang",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Anhang is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Anhang, zwei ___",
+      "answer": "Anhänge",
+      "fullAnswer": "ein Anhang, zwei Anhänge",
+      "explanation": "The plural is Anhänge.",
+      "acceptedAnswers": [
+        "Anhaenge"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Anhang mean?",
+      "options": [
+        "appendix",
+        "never",
+        "quiet"
+      ],
+      "answer": "appendix",
+      "explanation": "Anhang: appendix; attachment; followers.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Anhänge",
+        "Anhange"
+      ],
+      "answer": "Anhänge",
+      "explanation": "Umlaut.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Im Anhang in an e-mail means…",
+      "options": [
+        "attached",
+        "in the subject line"
+      ],
+      "answer": "attached",
+      "explanation": "Attachment.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Familienanhang means…",
+      "options": [
+        "family attachments (relatives or dependants)",
+        "family tree"
+      ],
+      "answer": "family attachments (relatives or dependants)",
+      "explanation": "Dependants.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Anhänger can be…",
+      "options": [
+        "a follower, a trailer, a pendant",
+        "only a necklace"
+      ],
+      "answer": "a follower, a trailer, a pendant",
+      "explanation": "Many meanings.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Der Anhang has several meanings: an appendix at the end of a book or contract, a file you attach to an e-mail (E-Mail mit Anhang), and a person's followers or hangers-on. Familienanhang is humorous for relatives. The verb is anhängen, and der Anhänger is a follower, a trailer behind a car or a pendant on a necklace. A fixed phrase: im Anhang finden Sie means please find attached."
+}

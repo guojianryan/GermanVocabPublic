@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "baulich",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "BAU-likh",
+      "ipa": "ˈbaʊ̯lɪç",
+      "notes": ""
+    },
+    "meaning": "structural, constructional",
+    "shortDefinition": "Structural, constructional."
+  },
+  "sampleSentences": [
+    {
+      "german": "Das Gebäude ist in schlechtem baulichen Zustand.",
+      "english": "The building is in poor structural condition.",
+      "highlight": [
+        "baulichen"
+      ]
+    },
+    {
+      "german": "Es sind bauliche Veränderungen nötig.",
+      "english": "Structural alterations are necessary.",
+      "highlight": [
+        "bauliche"
+      ]
+    }
+  ],
+  "forms": [
+    "bauliche",
+    "baulichen"
+  ],
+  "memoryHook": "Baulich: relating to Bau (building).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does baulich mean?",
+      "options": [
+        "structural",
+        "to wait",
+        "to help"
+      ],
+      "answer": "structural",
+      "explanation": "baulich: structural, constructional.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bauliche Maßnahmen are…",
+      "options": [
+        "construction works",
+        "banking measures"
+      ],
+      "answer": "construction works",
+      "explanation": "Construction.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Bau is…",
+      "options": [
+        "building, construction",
+        "farmer"
+      ],
+      "answer": "building, construction",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Used…",
+      "options": [
+        "mostly before nouns",
+        "as adverb only"
+      ],
+      "answer": "mostly before nouns",
+      "explanation": "Usage.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ Mängel (structural)",
+      "answer": "bauliche",
+      "fullAnswer": "bauliche Mängel",
+      "explanation": "Plural -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Baulich means structural or relating to construction: der bauliche Zustand (structural condition), bauliche Mängel (structural defects), bauliche Veränderungen, die tenants need landlord permission for. It's typical in property, planning and insurance language. Der Bau is a building or construction, also prison slang (im Bau sitzen) and an animal's burrow."
+}

@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "freisprechen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "FRAI-shpre-khen",
+      "ipa": "ˈfʁaɪ̯ˌʃpʁɛçn̩",
+      "notes": ""
+    },
+    "meaning": "to acquit",
+    "shortDefinition": "To acquit."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "sprech|e … |frei"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "sprich|st … |frei"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "sprich|t … |frei"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "sprech|en … |frei"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "sprech|t … |frei"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "sprech|en … |frei"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat freigesprochen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Angeklagte wurde freigesprochen.",
+      "english": "The defendant was acquitted.",
+      "highlight": [
+        "freigesprochen."
+      ]
+    },
+    {
+      "german": "Das Gericht sprach sie aus Mangel an Beweisen frei.",
+      "english": "The court acquitted her for lack of evidence.",
+      "highlight": [
+        "sprach",
+        "frei."
+      ]
+    }
+  ],
+  "forms": [
+    "spreche frei",
+    "sprichst frei",
+    "spricht frei",
+    "sprechen frei",
+    "sprecht frei",
+    "freigesprochen",
+    "sprach frei",
+    "Freispruch"
+  ],
+  "memoryHook": "Freisprechen: speak (sprechen) someone free (frei).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … frei (freisprechen)",
+      "answer": "spricht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: spricht … frei.",
+      "acceptedAnswers": [
+        "spricht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (freisprechen, past)",
+      "answer": "freigesprochen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe freigesprochen.",
+      "acceptedAnswers": [
+        "freigesprochen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does freisprechen mean?",
+      "options": [
+        "tomorrow",
+        "the bed",
+        "to acquit"
+      ],
+      "answer": "to acquit",
+      "explanation": "freisprechen: to acquit.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Freispruch is…",
+      "options": [
+        "acquittal",
+        "free speech"
+      ],
+      "answer": "acquittal",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Free speech in German is…",
+      "options": [
+        "die Meinungsfreiheit",
+        "der Freispruch"
+      ],
+      "answer": "die Meinungsfreiheit",
+      "explanation": "Different.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Freisprechen in crafts means…",
+      "options": [
+        "to release an apprentice as qualified",
+        "to talk freely"
+      ],
+      "answer": "to release an apprentice as qualified",
+      "explanation": "Crafts.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Freisprechen means to acquit: Der Angeklagte wurde freigesprochen, aus Mangel an Beweisen (for lack of evidence). Der Freispruch is an acquittal; the principle in dubio pro reo (when in doubt, for the accused) applies. In the crafts, apprentices are traditionally freigesprochen at the end of training in a ceremony (Freisprechungsfeier). Free speech is die Meinungsfreiheit. Separable: sprach frei, freigesprochen."
+}

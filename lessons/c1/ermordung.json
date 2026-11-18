@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ermordung",
+    "partOfSpeech": "noun, feminine (die Ermordung)",
+    "pronunciation": {
+      "respelling": "er-MOR-dung",
+      "ipa": "ɛɐ̯ˈmɔʁdʊŋ",
+      "notes": "Plural: die Ermordungen."
+    },
+    "meaning": "murder, assassination",
+    "shortDefinition": "Murder, assassination."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Ermordung, plural die Ermordungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Ermordung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ermordungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Ermordung des Erzherzogs löste den Ersten Weltkrieg aus.",
+      "english": "The assassination of the archduke triggered the First World War.",
+      "highlight": [
+        "Ermordung"
+      ]
+    },
+    {
+      "german": "Er wurde wegen der Ermordung seiner Frau angeklagt.",
+      "english": "He was charged with murdering his wife.",
+      "highlight": [
+        "Ermordung"
+      ]
+    }
+  ],
+  "forms": [
+    "Ermordungen",
+    "die Ermordungen",
+    "die Ermordung",
+    "ermorden"
+  ],
+  "memoryHook": "Ermordung: the act of ermorden (murdering) someone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ermordung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Ermordung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Ermordung, zwei ___",
+      "answer": "Ermordungen",
+      "fullAnswer": "ein Ermordung, zwei Ermordungen",
+      "explanation": "The plural is Ermordungen.",
+      "acceptedAnswers": [
+        "Ermordungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ermordung mean?",
+      "options": [
+        "the family",
+        "murder",
+        "quiet"
+      ],
+      "answer": "murder",
+      "explanation": "Ermordung: murder, assassination.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ermorden means…",
+      "options": [
+        "to murder (with an object)",
+        "to die"
+      ],
+      "answer": "to murder (with an object)",
+      "explanation": "ermorden.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Mord vs die Ermordung:",
+      "options": [
+        "the crime vs the act of killing a specific victim",
+        "same thing exactly"
+      ],
+      "answer": "the crime vs the act of killing a specific victim",
+      "explanation": "Nuance.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sarajevo 1914: the victim was…",
+      "options": [
+        "Archduke Franz Ferdinand",
+        "Kaiser Wilhelm II"
+      ],
+      "answer": "Archduke Franz Ferdinand",
+      "explanation": "History.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Ermordung is the murder or assassination of a specific person: die Ermordung Kennedys, die Ermordung der europäischen Juden (the murder of the European Jews, a common term for the Holocaust). The verb ermorden takes an object: Er wurde ermordet. Der Mord is murder as a crime. The 1914 Ermordung of Archduke Franz Ferdinand in Sarajevo triggered the First World War. Plural: die Ermordungen."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gebot",
+    "partOfSpeech": "noun, neuter (das Gebot)",
+    "pronunciation": {
+      "respelling": "ge-BOHT",
+      "ipa": "ɡəˈboːt",
+      "notes": "Plural: die Gebote."
+    },
+    "meaning": "commandment; rule; bid",
+    "shortDefinition": "Commandment; rule; bid."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Gebot, plural die Gebote.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Gebot"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gebote"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Zehn Gebote stehen in der Bibel.",
+      "english": "The Ten Commandments are in the Bible.",
+      "highlight": [
+        "Gebote"
+      ]
+    },
+    {
+      "german": "Ihr Gebot lag bei 500 Euro.",
+      "english": "Her bid was 500 euros.",
+      "highlight": [
+        "Gebot"
+      ]
+    }
+  ],
+  "forms": [
+    "Gebote",
+    "die Gebote",
+    "das Gebot",
+    "gebieten"
+  ],
+  "memoryHook": "Gebot: what you're bidden (geboten) to do, or what you bid.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gebot",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Gebot is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gebot, zwei ___",
+      "answer": "Gebote",
+      "fullAnswer": "ein Gebot, zwei Gebote",
+      "explanation": "The plural is Gebote.",
+      "acceptedAnswers": [
+        "Gebote"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gebot mean?",
+      "options": [
+        "commandment",
+        "tomorrow",
+        "to open"
+      ],
+      "answer": "commandment",
+      "explanation": "Gebot: commandment; rule; bid.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gebot der Stunde means…",
+      "options": [
+        "what's needed right now",
+        "the hourly rate"
+      ],
+      "answer": "what's needed right now",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "At an auction, ein Gebot is…",
+      "options": [
+        "a bid",
+        "a sale"
+      ],
+      "answer": "a bid",
+      "explanation": "Bid.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite of a Gebot (rule to do) is…",
+      "options": [
+        "ein Verbot",
+        "ein Angebot"
+      ],
+      "answer": "ein Verbot",
+      "explanation": "Prohibition.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Gebot is a commandment or rule: die Zehn Gebote, das Gebot der Fairness. Das Gebot der Stunde is what the moment demands. At auctions and on eBay, ein Gebot is a bid: ein Gebot abgeben. Road signs with a blue circle are Gebotszeichen (mandatory signs), while red ones are Verbotszeichen. Related: gebieten (to command), das Angebot (offer), das Verbot (ban). Plural: die Gebote."
+}

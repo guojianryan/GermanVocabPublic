@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gesandtschaft",
+    "partOfSpeech": "noun, feminine (die Gesandtschaft)",
+    "pronunciation": {
+      "respelling": "ge-ZANT-shaft",
+      "ipa": "ɡəˈzantʃaft",
+      "notes": "Plural: die Gesandtschaften."
+    },
+    "meaning": "legation, diplomatic mission",
+    "shortDefinition": "Legation, diplomatic mission."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Gesandtschaft, plural die Gesandtschaften.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Gesandtschaft"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gesandtschaften"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Gesandtschaft wurde später zur Botschaft aufgewertet.",
+      "english": "The legation was later upgraded to an embassy.",
+      "highlight": [
+        "Gesandtschaft"
+      ]
+    },
+    {
+      "german": "Er reiste mit einer Gesandtschaft nach Rom.",
+      "english": "He travelled to Rome with a delegation.",
+      "highlight": [
+        "Gesandtschaft"
+      ]
+    }
+  ],
+  "forms": [
+    "Gesandtschaften",
+    "die Gesandtschaft"
+  ],
+  "memoryHook": "Gesandtschaft: those gesandt (sent) to represent a state.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gesandtschaft",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Gesandtschaft is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gesandtschaft, zwei ___",
+      "answer": "Gesandtschaften",
+      "fullAnswer": "ein Gesandtschaft, zwei Gesandtschaften",
+      "explanation": "The plural is Gesandtschaften.",
+      "acceptedAnswers": [
+        "Gesandtschaften"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gesandtschaft mean?",
+      "options": [
+        "to learn",
+        "legation",
+        "always"
+      ],
+      "answer": "legation",
+      "explanation": "Gesandtschaft: legation, diplomatic mission.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Gesandte is…",
+      "options": [
+        "envoy",
+        "a sent letter"
+      ],
+      "answer": "envoy",
+      "explanation": "Person.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Botschaft is…",
+      "options": [
+        "embassy; message",
+        "a boat"
+      ],
+      "answer": "embassy; message",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Senden (gesandt) means…",
+      "options": [
+        "to send",
+        "to sand"
+      ],
+      "answer": "to send",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Gesandtschaft is a legation, a diplomatic mission headed by a Gesandter (envoy), ranking below an embassy (die Botschaft) headed by a Botschafter. Today nearly all missions are embassies, so the word is mostly historical, or means a delegation sent somewhere. From senden (sandte, gesandt). The Vatican's mission is the Nuntiatur. Plural: die Gesandtschaften."
+}

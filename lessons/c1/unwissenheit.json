@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Unwissenheit",
+    "partOfSpeech": "noun, feminine (die Unwissenheit)",
+    "pronunciation": {
+      "respelling": "UN-vi-sen-hait",
+      "ipa": "ˈʊnˌvɪsn̩haɪ̯t",
+      "notes": "Usually no plural."
+    },
+    "meaning": "ignorance",
+    "shortDefinition": "Ignorance."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Unwissenheit, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Unwissenheit"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Unwissenheit schützt vor Strafe nicht.",
+      "english": "Ignorance of the law is no excuse.",
+      "highlight": [
+        "Unwissenheit"
+      ]
+    },
+    {
+      "german": "Er handelte aus Unwissenheit.",
+      "english": "He acted out of ignorance.",
+      "highlight": [
+        "Unwissenheit."
+      ]
+    }
+  ],
+  "forms": [
+    "die Unwissenheit",
+    "unwissend"
+  ],
+  "memoryHook": "Unwissenheit: lack (un-) of Wissen (knowledge).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Unwissenheit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Unwissenheit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Unwissenheit mean?",
+      "options": [
+        "expensive",
+        "ignorance",
+        "always"
+      ],
+      "answer": "ignorance",
+      "explanation": "Unwissenheit: ignorance.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unwissenheit schützt vor Strafe nicht means…",
+      "options": [
+        "ignorance is no excuse",
+        "knowledge is protection"
+      ],
+      "answer": "ignorance is no excuse",
+      "explanation": "Proverb.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unwissend means…",
+      "options": [
+        "ignorant, unknowing",
+        "unwilling"
+      ],
+      "answer": "ignorant, unknowing",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Wissen is…",
+      "options": [
+        "knowledge",
+        "wisdom only"
+      ],
+      "answer": "knowledge",
+      "explanation": "Root.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Unwissenheit is ignorance, lack of knowledge: aus Unwissenheit handeln. The proverb Unwissenheit schützt vor Strafe nicht means ignorance of the law is no excuse. Unwissend means unknowing or ignorant. Die Ignoranz is a similar word but suggests wilful ignorance or arrogance. Das Wissen is knowledge, and Wissen ist Macht (knowledge is power). It has no plural."
+}

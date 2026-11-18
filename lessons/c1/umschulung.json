@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Umschulung",
+    "partOfSpeech": "noun, feminine (die Umschulung)",
+    "pronunciation": {
+      "respelling": "UM-shoo-lung",
+      "ipa": "ˈʊmˌʃuːlʊŋ",
+      "notes": "Plural: die Umschulungen."
+    },
+    "meaning": "retraining",
+    "shortDefinition": "Retraining."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Umschulung, plural die Umschulungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Umschulung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Umschulungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nach dem Unfall machte er eine Umschulung zum Bürokaufmann.",
+      "english": "After the accident he retrained as an office administrator.",
+      "highlight": [
+        "Umschulung"
+      ]
+    },
+    {
+      "german": "Die Arbeitsagentur fördert die Umschulung.",
+      "english": "The employment agency funds the retraining.",
+      "highlight": [
+        "Umschulung."
+      ]
+    }
+  ],
+  "forms": [
+    "Umschulungen",
+    "die Umschulung"
+  ],
+  "memoryHook": "Umschulung: schooling (Schulung) for a different (um) job.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Umschulung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Umschulung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Umschulung, zwei ___",
+      "answer": "Umschulungen",
+      "fullAnswer": "ein Umschulung, zwei Umschulungen",
+      "explanation": "The plural is Umschulungen.",
+      "acceptedAnswers": [
+        "Umschulungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Umschulung mean?",
+      "options": [
+        "retraining",
+        "slowly",
+        "to learn"
+      ],
+      "answer": "retraining",
+      "explanation": "Umschulung: retraining.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich umschulen lassen means…",
+      "options": [
+        "to retrain for a new job",
+        "to change schools only"
+      ],
+      "answer": "to retrain for a new job",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Umschulungen are often funded by…",
+      "options": [
+        "the Agentur für Arbeit",
+        "the church"
+      ],
+      "answer": "the Agentur für Arbeit",
+      "explanation": "Funding.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Weiterbildung is…",
+      "options": [
+        "further training (same field)",
+        "a new building"
+      ],
+      "answer": "further training (same field)",
+      "explanation": "Contrast.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Umschulung is retraining for a new occupation, often for people who can't continue in their old job because of health or structural change. It usually takes two years and leads to a recognised qualification; die Agentur für Arbeit or the pension insurer often pays. Umschulen also means to move a child to another school. Die Weiterbildung is further training in the same field. Plural: die Umschulungen."
+}

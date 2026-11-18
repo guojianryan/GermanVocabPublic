@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Heizöl",
+    "partOfSpeech": "noun, neuter (das Heizöl)",
+    "pronunciation": {
+      "respelling": "HAITS-öl",
+      "ipa": "ˈhaɪ̯t͡sˌʔøːl",
+      "notes": "Usually no plural."
+    },
+    "meaning": "heating oil",
+    "shortDefinition": "Heating oil."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Heizöl, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Heizöl"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Heizölpreis ist gestiegen.",
+      "english": "The price of heating oil has risen.",
+      "highlight": [
+        "Heizölpreis"
+      ]
+    },
+    {
+      "german": "Wir haben noch eine Ölheizung mit Heizöl im Keller.",
+      "english": "We still have oil heating with heating oil in the cellar.",
+      "highlight": [
+        "Heizöl"
+      ]
+    }
+  ],
+  "forms": [
+    "das Heizöl",
+    "Heizöls"
+  ],
+  "memoryHook": "Heizöl: Öl for heizen (heating).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Heizöl",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Heizöl is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Heizöl mean?",
+      "options": [
+        "the window",
+        "to buy",
+        "heating oil"
+      ],
+      "answer": "heating oil",
+      "explanation": "Heizöl: heating oil.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Öltank is usually in…",
+      "options": [
+        "the cellar",
+        "the garden shed"
+      ],
+      "answer": "the cellar",
+      "explanation": "House.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Wärmepumpe is…",
+      "options": [
+        "heat pump",
+        "water pump"
+      ],
+      "answer": "heat pump",
+      "explanation": "Alternative.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Heizen means…",
+      "options": [
+        "to heat",
+        "to hate"
+      ],
+      "answer": "to heat",
+      "explanation": "Verb.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Heizöl is heating oil. Around a quarter of German homes still heat with oil, usually from a tank in the cellar filled by a tanker truck. Under the 2024 Gebäudeenergiegesetz, newly installed heating systems must eventually use 65 percent renewable energy, promoting Wärmepumpen (heat pumps) over new oil boilers. Heizen means to heat. It has no plural."
+}

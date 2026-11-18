@@ -1,0 +1,157 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Tagung",
+    "partOfSpeech": "noun, feminine (die Tagung)",
+    "pronunciation": {
+      "respelling": "TAA-goong",
+      "ipa": "ˈtaːɡʊŋ",
+      "notes": "Plural: die Tagungen."
+    },
+    "meaning": "conference, meeting, convention",
+    "shortDefinition": "Conference, meeting, convention."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "Tag",
+        "meaning": "day, to hold a session",
+        "note": "From tagen, to meet in session."
+      },
+      {
+        "part": "ung",
+        "meaning": "noun ending: the act of"
+      }
+    ],
+    "literalMeaning": "a sitting"
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Tagung, plural die Tagungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Tagung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Tagungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Tagung findet im Mai in Wien statt.",
+      "english": "The conference takes place in Vienna in May.",
+      "highlight": [
+        "Tagung"
+      ]
+    },
+    {
+      "german": "Sie hat an einer Tagung zur Sprachdidaktik teilgenommen.",
+      "english": "She took part in a conference on language teaching.",
+      "highlight": [
+        "Tagung"
+      ]
+    }
+  ],
+  "forms": [
+    "Tagungen",
+    "die Tagungen",
+    "die Tagung",
+    "tagen",
+    "Tagungsort"
+  ],
+  "memoryHook": "Tagung: a gathering that lasts a few Tage.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Tagung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Tagung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Tagung, zwei ___",
+      "answer": "Tagungen",
+      "fullAnswer": "ein Tagung, zwei Tagungen",
+      "explanation": "The plural is Tagungen.",
+      "acceptedAnswers": [
+        "Tagungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Tagung mean?",
+      "options": [
+        "the flower",
+        "the bread",
+        "conference"
+      ],
+      "answer": "conference",
+      "explanation": "Tagung: conference, meeting, convention.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Tagen as a verb means…",
+      "options": [
+        "to hold a meeting",
+        "to dawn"
+      ],
+      "answer": "to hold a meeting",
+      "explanation": "Der Ausschuss tagt.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Tagung is…",
+      "options": [
+        "more formal than das Treffen",
+        "a daily meal"
+      ],
+      "answer": "more formal than das Treffen",
+      "explanation": "Formal.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Tagungen",
+        "Tagunge"
+      ],
+      "answer": "Tagungen",
+      "explanation": "-en.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Tagungsstätte is…",
+      "options": [
+        "a conference venue",
+        "a hotel only"
+      ],
+      "answer": "a conference venue",
+      "explanation": "Venue.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Die Tagung is a conference or formal meeting, often of an association or in academia: die Jahrestagung (annual conference), eine Tagung besuchen. The verb is tagen (to meet, to sit): Der Ausschuss tagt heute. Tagen can also mean to dawn (es tagt), but that's old and poetic. An informal word for a meeting is das Treffen."
+}

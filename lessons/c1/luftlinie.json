@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Luftlinie",
+    "partOfSpeech": "noun, feminine (die Luftlinie)",
+    "pronunciation": {
+      "respelling": "LUFT-lee-nye",
+      "ipa": "ˈlʊftˌliːni̯ə",
+      "notes": "Plural: die Luftlinien."
+    },
+    "meaning": "as the crow flies; airline",
+    "shortDefinition": "As the crow flies; airline."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Luftlinie, plural die Luftlinien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Luftlinie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Luftlinien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bis zur Grenze sind es zehn Kilometer Luftlinie.",
+      "english": "It's ten kilometres to the border as the crow flies.",
+      "highlight": [
+        "Luftlinie."
+      ]
+    },
+    {
+      "german": "Die Luftlinie ist kürzer als die Straße.",
+      "english": "The straight-line distance is shorter than the road.",
+      "highlight": [
+        "Luftlinie"
+      ]
+    }
+  ],
+  "forms": [
+    "Luftlinien",
+    "die Luftlinie"
+  ],
+  "memoryHook": "Luftlinie: a Linie (line) straight through the Luft (air).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Luftlinie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Luftlinie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Luftlinie, zwei ___",
+      "answer": "Luftlinien",
+      "fullAnswer": "ein Luftlinie, zwei Luftlinien",
+      "explanation": "The plural is Luftlinien.",
+      "acceptedAnswers": [
+        "Luftlinien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Luftlinie mean?",
+      "options": [
+        "as the crow flies",
+        "to help",
+        "never"
+      ],
+      "answer": "as the crow flies",
+      "explanation": "Luftlinie: as the crow flies; airline.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "10 km Luftlinie means…",
+      "options": [
+        "10 km as the crow flies",
+        "10 km by plane"
+      ],
+      "answer": "10 km as the crow flies",
+      "explanation": "Distance.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "An airline company is usually…",
+      "options": [
+        "die Fluggesellschaft / Airline",
+        "die Luftlinie only"
+      ],
+      "answer": "die Fluggesellschaft / Airline",
+      "explanation": "Company.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Luftbrücke (1948–49) was…",
+      "options": [
+        "the Berlin Airlift",
+        "an air bridge"
+      ],
+      "answer": "the Berlin Airlift",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Luftlinie is the straight-line distance, as the crow flies: 50 Kilometer Luftlinie, usually without an article after a number. It's also an old word for an airline, though today Germans say die Fluggesellschaft or die Airline, like Lufthansa. Related: die Luftbrücke, the 1948–49 Berlin Airlift. Plural: die Luftlinien."
+}

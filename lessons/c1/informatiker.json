@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Informatiker",
+    "partOfSpeech": "noun, masculine (der Informatiker)",
+    "pronunciation": {
+      "respelling": "in-for-MAA-ti-ker",
+      "ipa": "ɪnfɔʁˈmaːtikɐ",
+      "notes": "Plural: die Informatiker."
+    },
+    "meaning": "computer scientist",
+    "shortDefinition": "Computer scientist."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Informatiker, plural die Informatiker.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Informatiker"
+        },
+        {
+          "label": "More than one",
+          "value": "die Informatiker"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Informatiker werden dringend gesucht.",
+      "english": "Computer scientists are urgently needed.",
+      "highlight": [
+        "Informatiker"
+      ]
+    },
+    {
+      "german": "Sie ist Informatikerin bei einer Bank.",
+      "english": "She's a computer scientist at a bank.",
+      "highlight": [
+        "Informatikerin"
+      ]
+    }
+  ],
+  "forms": [
+    "die Informatiker",
+    "der Informatiker",
+    "Informatikerin"
+  ],
+  "memoryHook": "Informatiker: an expert in Informatik.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Informatiker",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Informatiker is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Informatiker, zwei ___",
+      "answer": "Informatiker",
+      "fullAnswer": "ein Informatiker, zwei Informatiker",
+      "explanation": "The plural is Informatiker.",
+      "acceptedAnswers": [
+        "Informatiker"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Informatiker mean?",
+      "options": [
+        "tomorrow",
+        "computer scientist",
+        "to buy"
+      ],
+      "answer": "computer scientist",
+      "explanation": "Informatiker: computer scientist.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Informatik is…",
+      "options": [
+        "computer science",
+        "information desk"
+      ],
+      "answer": "computer science",
+      "explanation": "Field.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Fachinformatiker is…",
+      "options": [
+        "an IT specialist (vocational training)",
+        "a professor"
+      ],
+      "answer": "an IT specialist (vocational training)",
+      "explanation": "Vocational.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Informatikerin",
+        "die Informatike"
+      ],
+      "answer": "die Informatikerin",
+      "explanation": "-in.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Informatiker (die Informatikerin) is a computer scientist. Die Informatik is computer science, a word coined in German in 1957 from Information and Automatik. You can study it at university or train as a Fachinformatiker through an apprenticeship. Germany has a shortage of IT specialists, so many come from abroad on the EU Blue Card. Plural: die Informatiker."
+}

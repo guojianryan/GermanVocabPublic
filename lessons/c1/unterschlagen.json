@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "unterschlagen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "un-ter-SHLAA-gen",
+      "ipa": "ʊntɐˈʃlaːɡn̩",
+      "notes": ""
+    },
+    "meaning": "to embezzle; to withhold, suppress",
+    "shortDefinition": "To embezzle; to withhold, suppress."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "unterschlag|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "unterschläg|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "unterschläg|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "unterschlag|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "unterschlag|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "unterschlag|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat unterschlagen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Kassierer hat Geld unterschlagen.",
+      "english": "The cashier embezzled money.",
+      "highlight": [
+        "unterschlagen."
+      ]
+    },
+    {
+      "german": "Der Bericht unterschlägt wichtige Fakten.",
+      "english": "The report suppresses important facts.",
+      "highlight": [
+        "unterschlägt"
+      ]
+    }
+  ],
+  "forms": [
+    "unterschlage",
+    "unterschlägst",
+    "unterschlägt",
+    "unterschlagen",
+    "unterschlagt",
+    "unterschlug",
+    "Unterschlagung"
+  ],
+  "memoryHook": "Unterschlagen: slip something under (unter) your own account.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (unterschlagen)",
+      "answer": "unterschlägt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: unterschlägt.",
+      "acceptedAnswers": [
+        "unterschlaegt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (unterschlagen, past)",
+      "answer": "unterschlagen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe unterschlagen.",
+      "acceptedAnswers": [
+        "unterschlagen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does unterschlagen mean?",
+      "options": [
+        "to buy",
+        "to embezzle",
+        "the bill"
+      ],
+      "answer": "to embezzle",
+      "explanation": "unterschlagen: to embezzle; to withhold, suppress.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Unterschlagung is…",
+      "options": [
+        "embezzlement",
+        "a sub-blow"
+      ],
+      "answer": "embezzlement",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Is unterschlagen (embezzle) separable?",
+      "options": [
+        "no: er unterschlägt",
+        "yes: er schlägt unter"
+      ],
+      "answer": "no: er unterschlägt",
+      "explanation": "Inseparable.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "unterschlug, unterschlagen",
+        "unterschlagte"
+      ],
+      "answer": "unterschlug, unterschlagen",
+      "explanation": "Irregular.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Unterschlagen means to embezzle (Gelder unterschlagen) and to withhold or suppress information: eine Nachricht, wichtige Details unterschlagen. Die Unterschlagung (§246 StGB) is misappropriating something one already holds, unlike Diebstahl (theft). Keeping found property without reporting it is Fundunterschlagung. Inseparable and irregular: unterschlägt, unterschlug, hat unterschlagen."
+}

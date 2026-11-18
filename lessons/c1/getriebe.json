@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Getriebe",
+    "partOfSpeech": "noun, neuter (das Getriebe)",
+    "pronunciation": {
+      "respelling": "ge-TREE-be",
+      "ipa": "ɡəˈtʁiːbə",
+      "notes": "Plural: die Getriebe."
+    },
+    "meaning": "gearbox, transmission; bustle",
+    "shortDefinition": "Gearbox, transmission; bustle."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Getriebe, plural die Getriebe.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Getriebe"
+        },
+        {
+          "label": "More than one",
+          "value": "die Getriebe"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Auto hat ein Automatikgetriebe.",
+      "english": "The car has an automatic gearbox.",
+      "highlight": [
+        "Automatikgetriebe."
+      ]
+    },
+    {
+      "german": "Er ist nur ein Rädchen im Getriebe.",
+      "english": "He's just a cog in the machine.",
+      "highlight": [
+        "Getriebe."
+      ]
+    }
+  ],
+  "forms": [
+    "die Getriebe",
+    "das Getriebe",
+    "Schaltgetriebe"
+  ],
+  "memoryHook": "Getriebe: the gears that drive (treiben) the car.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Getriebe",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Getriebe is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Getriebe, zwei ___",
+      "answer": "Getriebe",
+      "fullAnswer": "ein Getriebe, zwei Getriebe",
+      "explanation": "The plural is Getriebe.",
+      "acceptedAnswers": [
+        "Getriebe"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Getriebe mean?",
+      "options": [
+        "the flower",
+        "to open",
+        "gearbox"
+      ],
+      "answer": "gearbox",
+      "explanation": "Getriebe: gearbox, transmission; bustle.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Rädchen im Getriebe is…",
+      "options": [
+        "a cog in the machine",
+        "a gearstick"
+      ],
+      "answer": "a cog in the machine",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sand im Getriebe means…",
+      "options": [
+        "a spanner in the works",
+        "a beach holiday"
+      ],
+      "answer": "a spanner in the works",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Most German cars traditionally had…",
+      "options": [
+        "a manual gearbox (Schaltgetriebe)",
+        "no gears"
+      ],
+      "answer": "a manual gearbox (Schaltgetriebe)",
+      "explanation": "Manual.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Getriebe is a gearbox or transmission: das Schaltgetriebe (manual), das Automatikgetriebe. Manual gearboxes were long the norm in Germany, though automatics and electric cars are now winning. Figuratively: nur ein Rädchen im Getriebe (just a cog in the machine), Sand im Getriebe (a spanner in the works). It also means hustle and bustle: das Getriebe der Großstadt. From treiben (to drive). Plural: die Getriebe."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Baumarkt",
+    "partOfSpeech": "noun, masculine (der Baumarkt)",
+    "pronunciation": {
+      "respelling": "BAU-markt",
+      "ipa": "ˈbaʊ̯ˌmaʁkt",
+      "notes": "Plural: die Baumärkte."
+    },
+    "meaning": "DIY store, hardware store",
+    "shortDefinition": "DIY store, hardware store."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Baumarkt, plural die Baumärkte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Baumarkt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Baumärkte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich fahre schnell zum Baumarkt, wir brauchen Schrauben.",
+      "english": "I'm popping to the DIY store, we need screws.",
+      "highlight": [
+        "Baumarkt,"
+      ]
+    },
+    {
+      "german": "Am Samstag sind die Baumärkte voll.",
+      "english": "On Saturday the DIY stores are packed.",
+      "highlight": [
+        "Baumärkte"
+      ]
+    }
+  ],
+  "forms": [
+    "Baumärkte",
+    "die Baumärkte",
+    "der Baumarkt"
+  ],
+  "memoryHook": "Baumarkt: a Markt for things you bauen (build) with.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Baumarkt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Baumarkt is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Baumarkt, zwei ___",
+      "answer": "Baumärkte",
+      "fullAnswer": "ein Baumarkt, zwei Baumärkte",
+      "explanation": "The plural is Baumärkte.",
+      "acceptedAnswers": [
+        "Baumaerkte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Baumarkt mean?",
+      "options": [
+        "the car",
+        "DIY store",
+        "the job"
+      ],
+      "answer": "DIY store",
+      "explanation": "Baumarkt: DIY store, hardware store.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Typical German Baumärkte:",
+      "options": [
+        "OBI, Hornbach, Bauhaus",
+        "Aldi, Lidl"
+      ],
+      "answer": "OBI, Hornbach, Bauhaus",
+      "explanation": "Chains.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Heimwerken means…",
+      "options": [
+        "DIY, doing home improvements",
+        "homework"
+      ],
+      "answer": "DIY, doing home improvements",
+      "explanation": "DIY.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Heimwerker is…",
+      "options": [
+        "a DIY enthusiast",
+        "a home worker"
+      ],
+      "answer": "a DIY enthusiast",
+      "explanation": "DIY.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Baumarkt is a DIY or hardware store, with chains like OBI, Hornbach, Bauhaus and toom. Germans love Heimwerken (DIY), and Saturday morning at the Baumarkt is a cliché. Since shops are closed on Sundays (Ladenschluss), Saturday is the only weekend shopping day. Der Heimwerker is a DIY enthusiast, and die Bohrmaschine (drill) is a classic tool. Plural: die Baumärkte."
+}

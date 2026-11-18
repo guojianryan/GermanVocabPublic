@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Amokläufer",
+    "partOfSpeech": "noun, masculine (der Amokläufer)",
+    "pronunciation": {
+      "respelling": "A-mok-loy-fer",
+      "ipa": "ˈaːmɔkˌlɔɪ̯fɐ",
+      "notes": "Plural: die Amokläufer."
+    },
+    "meaning": "rampage killer, gunman",
+    "shortDefinition": "Rampage killer, gunman."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Amokläufer, plural die Amokläufer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Amokläufer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Amokläufer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Amokläufer tötete mehrere Menschen.",
+      "english": "The gunman killed several people.",
+      "highlight": [
+        "Amokläufer"
+      ]
+    },
+    {
+      "german": "Nach dem Amoklauf wurde das Waffenrecht verschärft.",
+      "english": "After the rampage, gun law was tightened.",
+      "highlight": [
+        "Amoklauf"
+      ]
+    }
+  ],
+  "forms": [
+    "der Amokläufer",
+    "Amoklauf"
+  ],
+  "memoryHook": "Amokläufer: someone who runs (läuft) amok.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Amokläufer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Amokläufer is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Amokläufer, zwei ___",
+      "answer": "Amokläufer",
+      "fullAnswer": "ein Amokläufer, zwei Amokläufer",
+      "explanation": "The plural is Amokläufer.",
+      "acceptedAnswers": [
+        "Amoklaeufer"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Amokläufer mean?",
+      "options": [
+        "the door",
+        "to travel",
+        "rampage killer"
+      ],
+      "answer": "rampage killer",
+      "explanation": "Amokläufer: rampage killer, gunman.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Amoklauf is…",
+      "options": [
+        "a killing spree",
+        "a marathon"
+      ],
+      "answer": "a killing spree",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Amok laufen means…",
+      "options": [
+        "to run amok",
+        "to jog"
+      ],
+      "answer": "to run amok",
+      "explanation": "Phrase.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Amok comes from…",
+      "options": [
+        "Malay",
+        "Latin"
+      ],
+      "answer": "Malay",
+      "explanation": "Origin.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Amokläufer is a rampage killer. School shootings in Erfurt (2002) and Winnenden (2009) shocked Germany and led to tighter gun laws, such as a higher minimum age for owning large-calibre weapons. Der Amoklauf is a killing spree, and Amok laufen means to run amok; the word comes from Malay. Media now often avoid naming perpetrators. The plural is the same."
+}

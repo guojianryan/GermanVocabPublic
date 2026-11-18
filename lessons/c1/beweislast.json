@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Beweislast",
+    "partOfSpeech": "noun, feminine (die Beweislast)",
+    "pronunciation": {
+      "respelling": "be-VAIS-last",
+      "ipa": "bəˈvaɪ̯sˌlast",
+      "notes": "Usually no plural."
+    },
+    "meaning": "burden of proof",
+    "shortDefinition": "Burden of proof."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Beweislast, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Beweislast"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Beweislast liegt beim Kläger.",
+      "english": "The burden of proof lies with the plaintiff.",
+      "highlight": [
+        "Beweislast"
+      ]
+    },
+    {
+      "german": "Die Beweislastumkehr hilft Verbrauchern.",
+      "english": "The reversal of the burden of proof helps consumers.",
+      "highlight": [
+        "Beweislastumkehr"
+      ]
+    }
+  ],
+  "forms": [
+    "die Beweislast"
+  ],
+  "memoryHook": "Beweislast: the Last (burden) of the Beweis (proof).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Beweislast",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Beweislast is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Beweislast mean?",
+      "options": [
+        "burden of proof",
+        "to travel",
+        "to open"
+      ],
+      "answer": "burden of proof",
+      "explanation": "Beweislast: burden of proof.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Beweislastumkehr is…",
+      "options": [
+        "reversal of the burden of proof",
+        "a lost proof"
+      ],
+      "answer": "reversal of the burden of proof",
+      "explanation": "Law.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Beweis is…",
+      "options": [
+        "proof, evidence",
+        "a white"
+      ],
+      "answer": "proof, evidence",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Im Zweifel für den Angeklagten means…",
+      "options": [
+        "innocent until proven guilty",
+        "doubt is guilt"
+      ],
+      "answer": "innocent until proven guilty",
+      "explanation": "Principle.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Beweislast is the burden of proof: Die Beweislast trägt der Kläger. In criminal law, the principle in dubio pro reo, im Zweifel für den Angeklagten, means the state must prove guilt. In consumer law, there's a Beweislastumkehr: in the first year after purchase, it's assumed a defect existed at delivery, so the seller must prove otherwise. It has no plural."
+}

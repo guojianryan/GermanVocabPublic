@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kiefer",
+    "partOfSpeech": "noun, masculine (der Kiefer)",
+    "pronunciation": {
+      "respelling": "KEE-fer",
+      "ipa": "ˈkiːfɐ",
+      "notes": "Plural: die Kiefer."
+    },
+    "meaning": "jaw; (die Kiefer) pine tree",
+    "shortDefinition": "Jaw; (die Kiefer) pine tree."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kiefer, plural die Kiefer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kiefer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kiefer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hat sich den Kiefer gebrochen.",
+      "english": "He broke his jaw.",
+      "highlight": [
+        "Kiefer"
+      ]
+    },
+    {
+      "german": "Im Wald stehen viele Kiefern.",
+      "english": "There are lots of pines in the forest.",
+      "highlight": [
+        "Kiefern."
+      ]
+    }
+  ],
+  "forms": [
+    "die Kiefer",
+    "der Kiefer",
+    "Kiefern",
+    "Oberkiefer",
+    "Unterkiefer"
+  ],
+  "memoryHook": "Der Kiefer bites, die Kiefer grows in Brandenburg.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kiefer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kiefer is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kiefer, zwei ___",
+      "answer": "Kiefer",
+      "fullAnswer": "ein Kiefer, zwei Kiefer",
+      "explanation": "The plural is Kiefer.",
+      "acceptedAnswers": [
+        "Kiefer"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kiefer mean?",
+      "options": [
+        "the family",
+        "jaw",
+        "the job"
+      ],
+      "answer": "jaw",
+      "explanation": "Kiefer: jaw; (die Kiefer) pine tree.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kiefer is…",
+      "options": [
+        "the jaw",
+        "the pine tree"
+      ],
+      "answer": "the jaw",
+      "explanation": "Masculine = jaw.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kiefer is…",
+      "options": [
+        "the pine tree",
+        "the jaw"
+      ],
+      "answer": "the pine tree",
+      "explanation": "Feminine = pine.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kieferorthopäde is…",
+      "options": [
+        "an orthodontist",
+        "a forester"
+      ],
+      "answer": "an orthodontist",
+      "explanation": "Braces!",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Kiefer is two different words. Der Kiefer is the jaw: der Oberkiefer, der Unterkiefer, and der Kieferorthopäde is the orthodontist most German teenagers visit for braces. Die Kiefer (plural die Kiefern) is a pine tree; the sandy soils around Berlin and in Brandenburg are full of Kiefernwälder. The gender tells you which is meant: der Kiefer bites, die Kiefer grows. Germany's most common trees are Fichte (spruce), Kiefer and Buche (beech)."
+}

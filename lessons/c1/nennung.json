@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Nennung",
+    "partOfSpeech": "noun, feminine (die Nennung)",
+    "pronunciation": {
+      "respelling": "NE-nung",
+      "ipa": "ˈnɛnʊŋ",
+      "notes": "Plural: die Nennungen."
+    },
+    "meaning": "mention, naming",
+    "shortDefinition": "Mention, naming."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Nennung, plural die Nennungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Nennung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Nennungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Artikel erschien ohne Nennung des Autors.",
+      "english": "The article appeared without naming the author.",
+      "highlight": [
+        "Nennung"
+      ]
+    },
+    {
+      "german": "Die Nennung von Namen ist nicht erlaubt.",
+      "english": "Naming names is not allowed.",
+      "highlight": [
+        "Nennung"
+      ]
+    }
+  ],
+  "forms": [
+    "Nennungen",
+    "die Nennung",
+    "nennen"
+  ],
+  "memoryHook": "Nennung: the act of nennen (naming).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Nennung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Nennung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Nennung, zwei ___",
+      "answer": "Nennungen",
+      "fullAnswer": "ein Nennung, zwei Nennungen",
+      "explanation": "The plural is Nennungen.",
+      "acceptedAnswers": [
+        "Nennungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Nennung mean?",
+      "options": [
+        "mention",
+        "to learn",
+        "hot"
+      ],
+      "answer": "mention",
+      "explanation": "Nennung: mention, naming.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nennen means…",
+      "options": [
+        "to name, call, mention",
+        "to deny"
+      ],
+      "answer": "to name, call, mention",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unter Nennung der Quelle means…",
+      "options": [
+        "citing the source",
+        "hiding the source"
+      ],
+      "answer": "citing the source",
+      "explanation": "Source.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Namensnennung (licences) means…",
+      "options": [
+        "attribution",
+        "naming a child"
+      ],
+      "answer": "attribution",
+      "explanation": "Attribution.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Nennung is a mention or naming: ohne Nennung von Namen, unter Nennung der Quelle (citing the source). In Creative Commons licences, Namensnennung means attribution. German media often avoid the Nennung of suspects' full names to protect privacy, writing Thomas M. instead. Nennen means to name or call. Plural: die Nennungen."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Städter",
+    "partOfSpeech": "noun, masculine (der Städter)",
+    "pronunciation": {
+      "respelling": "SHTAY-ter",
+      "ipa": "ˈʃtɛːtɐ",
+      "notes": "Plural: die Städter."
+    },
+    "meaning": "city dweller, townie",
+    "shortDefinition": "City dweller, townie."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Städter, plural die Städter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Städter"
+        },
+        {
+          "label": "More than one",
+          "value": "die Städter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Viele Städter ziehen am Wochenende aufs Land.",
+      "english": "Many city dwellers head to the countryside at weekends.",
+      "highlight": [
+        "Städter"
+      ]
+    },
+    {
+      "german": "Als echte Städterin braucht sie kein Auto.",
+      "english": "As a real city person she doesn't need a car.",
+      "highlight": [
+        "Städterin"
+      ]
+    }
+  ],
+  "forms": [
+    "Städterin",
+    "der Städter"
+  ],
+  "memoryHook": "Städter: someone who lives in a Stadt.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Städter",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Städter is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Städter, zwei ___",
+      "answer": "Städter",
+      "fullAnswer": "ein Städter, zwei Städter",
+      "explanation": "The plural is Städter.",
+      "acceptedAnswers": [
+        "Staedter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Städter mean?",
+      "options": [
+        "the window",
+        "to wait",
+        "city dweller"
+      ],
+      "answer": "city dweller",
+      "explanation": "Städter: city dweller, townie.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Opposite:",
+      "options": [
+        "der Landbewohner, der Dörfler",
+        "der Bürger"
+      ],
+      "answer": "der Landbewohner, der Dörfler",
+      "explanation": "Opposite.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Stadt is…",
+      "options": [
+        "town, city",
+        "a state"
+      ],
+      "answer": "town, city",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Großstädter is…",
+      "options": [
+        "big-city dweller",
+        "a tall city person"
+      ],
+      "answer": "big-city dweller",
+      "explanation": "Compound.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Städter (die Städterin) is a city dweller or townie: der Großstädter, gestresste Städter. Country people may say it slightly mockingly. The opposite is der Landbewohner or der Dörfler. About three quarters of Germans live in towns and cities, but unlike many countries, Germany has no single dominant metropolis. Die Stadt means town or city. The plural is the same."
+}

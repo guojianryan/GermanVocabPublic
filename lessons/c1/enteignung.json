@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Enteignung",
+    "partOfSpeech": "noun, feminine (die Enteignung)",
+    "pronunciation": {
+      "respelling": "ent-AIG-nung",
+      "ipa": "ɛntˈʔaɪ̯ɡnʊŋ",
+      "notes": "Plural: die Enteignungen."
+    },
+    "meaning": "expropriation",
+    "shortDefinition": "Expropriation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Enteignung, plural die Enteignungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Enteignung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Enteignungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Für die Autobahn sind Enteignungen nötig.",
+      "english": "Expropriations are needed for the motorway.",
+      "highlight": [
+        "Enteignungen"
+      ]
+    },
+    {
+      "german": "Die Initiative fordert die Enteignung großer Wohnungskonzerne.",
+      "english": "The initiative demands the expropriation of large housing companies.",
+      "highlight": [
+        "Enteignung"
+      ]
+    }
+  ],
+  "forms": [
+    "Enteignungen",
+    "die Enteignung",
+    "enteignen"
+  ],
+  "memoryHook": "Enteignung: taking away (ent-) someone's Eigentum (property).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Enteignung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Enteignung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Enteignung, zwei ___",
+      "answer": "Enteignungen",
+      "fullAnswer": "ein Enteignung, zwei Enteignungen",
+      "explanation": "The plural is Enteignungen.",
+      "acceptedAnswers": [
+        "Enteignungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Enteignung mean?",
+      "options": [
+        "expropriation",
+        "expensive",
+        "the job"
+      ],
+      "answer": "expropriation",
+      "explanation": "Enteignung: expropriation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Enteignen means…",
+      "options": [
+        "to expropriate",
+        "to own"
+      ],
+      "answer": "to expropriate",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Under Article 14 Grundgesetz, expropriation is allowed…",
+      "options": [
+        "only for the public good, with compensation",
+        "never"
+      ],
+      "answer": "only for the public good, with compensation",
+      "explanation": "Law.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Eigentum is…",
+      "options": [
+        "property, ownership",
+        "identity"
+      ],
+      "answer": "property, ownership",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Enteignung is expropriation. Article 14 of the Grundgesetz protects property but states Eigentum verpflichtet (property entails obligations) and allows Enteignung for the public good, with compensation, for example for roads. In 2021, Berliners voted in favour of expropriating large housing companies (Deutsche Wohnen & Co. enteignen), which hasn't been implemented. In 1945–49, land reform in the Soviet zone expropriated large estates. Plural: die Enteignungen."
+}

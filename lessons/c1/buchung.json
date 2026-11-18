@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Buchung",
+    "partOfSpeech": "noun, feminine (die Buchung)",
+    "pronunciation": {
+      "respelling": "BOO-khung",
+      "ipa": "ˈbuːxʊŋ",
+      "notes": "Plural: die Buchungen."
+    },
+    "meaning": "booking, reservation; (accounts) entry",
+    "shortDefinition": "Booking, reservation; (accounts) entry."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Buchung, plural die Buchungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Buchung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Buchungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ihre Buchung wurde bestätigt.",
+      "english": "Your booking has been confirmed.",
+      "highlight": [
+        "Buchung"
+      ]
+    },
+    {
+      "german": "Auf dem Kontoauszug steht eine falsche Buchung.",
+      "english": "There's an incorrect entry on the bank statement.",
+      "highlight": [
+        "Buchung."
+      ]
+    }
+  ],
+  "forms": [
+    "Buchungen",
+    "die Buchungen",
+    "die Buchung",
+    "buchen"
+  ],
+  "memoryHook": "Buchung: entering something in the Buch (book).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Buchung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Buchung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Buchung, zwei ___",
+      "answer": "Buchungen",
+      "fullAnswer": "ein Buchung, zwei Buchungen",
+      "explanation": "The plural is Buchungen.",
+      "acceptedAnswers": [
+        "Buchungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Buchung mean?",
+      "options": [
+        "booking",
+        "to sing",
+        "the weather"
+      ],
+      "answer": "booking",
+      "explanation": "Buchung: booking, reservation; (accounts) entry.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Buchen means…",
+      "options": [
+        "to book; to post (accounts)",
+        "to bake"
+      ],
+      "answer": "to book; to post (accounts)",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Buchungsbestätigung is…",
+      "options": [
+        "booking confirmation",
+        "a bookmark"
+      ],
+      "answer": "booking confirmation",
+      "explanation": "Confirmation.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Abbuchung is…",
+      "options": [
+        "debit from an account",
+        "cancellation"
+      ],
+      "answer": "debit from an account",
+      "explanation": "Debit.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Buchung is a booking or reservation (eine Buchung stornieren, to cancel) and an entry in accounts or on a bank statement: die Abbuchung (debit), die Gutschrift (credit). Buchen means to book: einen Flug, ein Hotel buchen, and to post a transaction. Germans are famously early bookers, with the Frühbucherrabatt (early-bird discount) a staple of travel. Plural: die Buchungen."
+}

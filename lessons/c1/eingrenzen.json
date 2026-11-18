@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "eingrenzen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AIN-gren-tsen",
+      "ipa": "ˈaɪ̯nˌɡʁɛnt͡sn̩",
+      "notes": ""
+    },
+    "meaning": "to narrow down, limit; to enclose",
+    "shortDefinition": "To narrow down, limit; to enclose."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "grenz|e … |ein"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "grenz|t … |ein"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "grenz|t … |ein"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "grenz|en … |ein"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "grenz|t … |ein"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "grenz|en … |ein"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat eingegrenzt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir müssen das Thema eingrenzen.",
+      "english": "We need to narrow down the topic.",
+      "highlight": [
+        "eingrenzen."
+      ]
+    },
+    {
+      "german": "Die Polizei konnte den Täterkreis eingrenzen.",
+      "english": "The police were able to narrow down the circle of suspects.",
+      "highlight": [
+        "eingrenzen."
+      ]
+    }
+  ],
+  "forms": [
+    "grenze ein",
+    "grenzt ein",
+    "grenzen ein",
+    "eingegrenzt",
+    "grenzte ein"
+  ],
+  "memoryHook": "Eingrenzen: put a Grenze (boundary) around.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ein (eingrenzen)",
+      "answer": "grenzt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: grenzt … ein.",
+      "acceptedAnswers": [
+        "grenzt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (eingrenzen, past)",
+      "answer": "eingegrenzt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe eingegrenzt.",
+      "acceptedAnswers": [
+        "eingegrenzt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does eingrenzen mean?",
+      "options": [
+        "to narrow down",
+        "never",
+        "to help"
+      ],
+      "answer": "to narrow down",
+      "explanation": "eingrenzen: to narrow down, limit; to enclose.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Grenze is…",
+      "options": [
+        "border, limit",
+        "a grin"
+      ],
+      "answer": "border, limit",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Opposite:",
+      "options": [
+        "ausweiten, erweitern",
+        "einschränken"
+      ],
+      "answer": "ausweiten, erweitern",
+      "explanation": "Opposite.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "einschränken, begrenzen",
+        "öffnen"
+      ],
+      "answer": "einschränken, begrenzen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Eingrenzen means to narrow down or limit: ein Thema, die Suche, ein Problem eingrenzen, and also to enclose an area. It's essential in academic writing: Die Fragestellung muss eingegrenzt werden. Die Grenze means border or limit. Synonyms: einschränken, begrenzen. The opposite is ausweiten. Regular: grenzte ein, eingegrenzt."
+}

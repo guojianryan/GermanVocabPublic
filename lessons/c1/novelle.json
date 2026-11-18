@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Novelle",
+    "partOfSpeech": "noun, feminine (die Novelle)",
+    "pronunciation": {
+      "respelling": "no-VEL-e",
+      "ipa": "noˈvɛlə",
+      "notes": "Plural: die Novellen."
+    },
+    "meaning": "novella; amendment (to a law)",
+    "shortDefinition": "Novella; amendment (to a law)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Novelle, plural die Novellen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Novelle"
+        },
+        {
+          "label": "More than one",
+          "value": "die Novellen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Goethe schrieb eine Novelle mit dem Titel Novelle.",
+      "english": "Goethe wrote a novella called Novelle.",
+      "highlight": [
+        "Novelle"
+      ]
+    },
+    {
+      "german": "Der Bundestag beschloss die Novelle des Gesetzes.",
+      "english": "The Bundestag passed the amendment to the law.",
+      "highlight": [
+        "Novelle"
+      ]
+    }
+  ],
+  "forms": [
+    "Novellen",
+    "die Novellen",
+    "die Novelle",
+    "novellieren"
+  ],
+  "memoryHook": "Novelle: a short novel, or something new (novus) in a law.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Novelle",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Novelle is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Novelle, zwei ___",
+      "answer": "Novellen",
+      "fullAnswer": "ein Novelle, zwei Novellen",
+      "explanation": "The plural is Novellen.",
+      "acceptedAnswers": [
+        "Novellen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Novelle mean?",
+      "options": [
+        "slowly",
+        "cheap",
+        "novella"
+      ],
+      "answer": "novella",
+      "explanation": "Novelle: novella; amendment (to a law).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "A long novel in German is…",
+      "options": [
+        "der Roman",
+        "die Novelle"
+      ],
+      "answer": "der Roman",
+      "explanation": "Roman.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In politics, die Novelle means…",
+      "options": [
+        "an amendment to a law",
+        "a new party"
+      ],
+      "answer": "an amendment to a law",
+      "explanation": "Amendment.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Novellieren means…",
+      "options": [
+        "to amend (a law)",
+        "to write a novel"
+      ],
+      "answer": "to amend (a law)",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Novelle has two meanings. In literature, it's a novella, a key German genre with a single unheard-of event (eine unerhörte Begebenheit, as Goethe put it), like Storm's Der Schimmelreiter. A full novel is der Roman. In politics, it's an amendment to a law: die Novelle des Infektionsschutzgesetzes; novellieren means to amend. Both come from Latin novus (new). Plural: die Novellen."
+}

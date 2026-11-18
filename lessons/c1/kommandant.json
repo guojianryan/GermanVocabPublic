@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kommandant",
+    "partOfSpeech": "noun, masculine (der Kommandant)",
+    "pronunciation": {
+      "respelling": "ko-man-DANT",
+      "ipa": "kɔmanˈdant",
+      "notes": "Plural: die Kommandanten."
+    },
+    "meaning": "commander, commanding officer",
+    "shortDefinition": "Commander, commanding officer."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kommandant, plural die Kommandanten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kommandant"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kommandanten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Kommandant gab den Befehl.",
+      "english": "The commander gave the order.",
+      "highlight": [
+        "Kommandant"
+      ]
+    },
+    {
+      "german": "Sie ist Kommandantin der Feuerwehr.",
+      "english": "She's the fire brigade commander.",
+      "highlight": [
+        "Kommandantin"
+      ]
+    }
+  ],
+  "forms": [
+    "Kommandanten",
+    "die Kommandanten",
+    "der Kommandant",
+    "Kommandantin"
+  ],
+  "memoryHook": "Kommandant: the one who gives the Kommando.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kommandant",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kommandant is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kommandant, zwei ___",
+      "answer": "Kommandanten",
+      "fullAnswer": "ein Kommandant, zwei Kommandanten",
+      "explanation": "The plural is Kommandanten.",
+      "acceptedAnswers": [
+        "Kommandanten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kommandant mean?",
+      "options": [
+        "to sing",
+        "commander",
+        "the bed"
+      ],
+      "answer": "commander",
+      "explanation": "Kommandant: commander, commanding officer.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Weak noun, accusative:",
+      "options": [
+        "den Kommandanten",
+        "den Kommandant"
+      ],
+      "answer": "den Kommandanten",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fire brigades in Austria and Bavaria are led by a…",
+      "options": [
+        "Kommandant",
+        "Kapitän"
+      ],
+      "answer": "Kommandant",
+      "explanation": "Feuerwehrkommandant.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kommandieren means…",
+      "options": [
+        "to command",
+        "to comment"
+      ],
+      "answer": "to command",
+      "explanation": "kommandieren.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Kommandant (die Kommandantin) is a commander or commanding officer: der Kommandant eines Schiffes, der Lagerkommandant. In Bavaria, Austria and Switzerland, the head of the volunteer fire brigade is der Feuerwehrkommandant. It's a weak noun: den Kommandanten. The ship's captain is also der Kapitän. Die Kommandantur is the commander's headquarters."
+}

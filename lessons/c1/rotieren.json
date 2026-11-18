@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "rotieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ro-TEE-ren",
+      "ipa": "ʁoˈtiːʁən",
+      "notes": ""
+    },
+    "meaning": "to rotate; to be in a flap (colloquial)",
+    "shortDefinition": "To rotate; to be in a flap (colloquial)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "rotier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "rotier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "rotier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "rotier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "rotier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "rotier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat rotiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Erde rotiert um ihre eigene Achse.",
+      "english": "The Earth rotates on its own axis.",
+      "highlight": [
+        "rotiert"
+      ]
+    },
+    {
+      "german": "Vor der Deadline rotiert das ganze Team.",
+      "english": "Before the deadline the whole team is in a flap.",
+      "highlight": [
+        "rotiert"
+      ]
+    }
+  ],
+  "forms": [
+    "rotiere",
+    "rotierst",
+    "rotiert",
+    "rotieren",
+    "rotierte"
+  ],
+  "memoryHook": "Rotieren: Latin rotare, turn like a wheel (rota).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (rotieren)",
+      "answer": "rotiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: rotiert.",
+      "acceptedAnswers": [
+        "rotiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (rotieren, past)",
+      "answer": "rotiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe rotiert.",
+      "acceptedAnswers": [
+        "rotiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does rotieren mean?",
+      "options": [
+        "to help",
+        "to rotate",
+        "the window"
+      ],
+      "answer": "to rotate",
+      "explanation": "rotieren: to rotate; to be in a flap (colloquial).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Colloquially, rotieren means…",
+      "options": [
+        "to be frantically busy, in a flap",
+        "to rot"
+      ],
+      "answer": "to be frantically busy, in a flap",
+      "explanation": "Colloquial.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Rotation is…",
+      "options": [
+        "rotation",
+        "a red light"
+      ],
+      "answer": "rotation",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym (literal):",
+      "options": [
+        "sich drehen, kreisen",
+        "stehen"
+      ],
+      "answer": "sich drehen, kreisen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Rotieren means to rotate: Die Erde rotiert, ein rotierender Ventilator. Colloquially, it means to be frantically busy or in a flap: Ich rotiere gerade (I'm swamped). In sport and work, it means to take turns: Die Spieler rotieren. Die Rotation is rotation, and das Rotationsprinzip is rotation of positions. From Latin rota (wheel). Participle: rotiert."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Tribut",
+    "partOfSpeech": "noun, masculine (der Tribut)",
+    "pronunciation": {
+      "respelling": "tri-BOOT",
+      "ipa": "tʁiˈbuːt",
+      "notes": "Plural: die Tribute."
+    },
+    "meaning": "tribute",
+    "shortDefinition": "Tribute."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Tribut, plural die Tribute.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Tribut"
+        },
+        {
+          "label": "More than one",
+          "value": "die Tribute"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Marathon forderte seinen Tribut.",
+      "english": "The marathon took its toll.",
+      "highlight": [
+        "Tribut."
+      ]
+    },
+    {
+      "german": "Er zollte ihrer Leistung Tribut.",
+      "english": "He paid tribute to her achievement.",
+      "highlight": [
+        "Tribut."
+      ]
+    }
+  ],
+  "forms": [
+    "Tribute",
+    "der Tribut"
+  ],
+  "memoryHook": "Tribut: payment to a ruler (Latin tributum), or respect.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Tribut",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Tribut is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Tribut, zwei ___",
+      "answer": "Tribute",
+      "fullAnswer": "ein Tribut, zwei Tribute",
+      "explanation": "The plural is Tribute.",
+      "acceptedAnswers": [
+        "Tribute"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Tribut mean?",
+      "options": [
+        "cheap",
+        "tribute",
+        "the shop"
+      ],
+      "answer": "tribute",
+      "explanation": "Tribut: tribute.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Seinen Tribut fordern means…",
+      "options": [
+        "to take its toll",
+        "to demand a prize"
+      ],
+      "answer": "to take its toll",
+      "explanation": "Toll.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandem Tribut zollen means…",
+      "options": [
+        "to pay tribute to someone",
+        "to tax someone"
+      ],
+      "answer": "to pay tribute to someone",
+      "explanation": "Tribute.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Historically, der Tribut was…",
+      "options": [
+        "a payment by subject peoples",
+        "a tribe"
+      ],
+      "answer": "a payment by subject peoples",
+      "explanation": "History.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Tribut is tribute: historically a payment by subjugated peoples, and figuratively respect: jemandem Tribut zollen (to pay tribute to). Seinen Tribut fordern means to take its toll: Die Hitze forderte ihren Tribut. Don't confuse it with die Tribüne (stand, grandstand). Stressed on the second syllable: tri-BOOT. Plural: die Tribute."
+}

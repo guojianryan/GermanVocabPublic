@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Absprache",
+    "partOfSpeech": "noun, feminine (die Absprache)",
+    "pronunciation": {
+      "respelling": "AP-shpraa-khe",
+      "ipa": "ˈapˌʃpʁaːxə",
+      "notes": "Plural: die Absprachen."
+    },
+    "meaning": "agreement, arrangement",
+    "shortDefinition": "Agreement, arrangement."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Absprache, plural die Absprachen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Absprache"
+        },
+        {
+          "label": "More than one",
+          "value": "die Absprachen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nach Absprache mit dem Chef kann ich früher gehen.",
+      "english": "After agreeing it with the boss, I can leave earlier.",
+      "highlight": [
+        "Absprache"
+      ]
+    },
+    {
+      "german": "Illegale Preisabsprachen sind verboten.",
+      "english": "Illegal price-fixing agreements are forbidden.",
+      "highlight": [
+        "Preisabsprachen"
+      ]
+    }
+  ],
+  "forms": [
+    "Absprachen",
+    "die Absprachen",
+    "die Absprache",
+    "absprechen"
+  ],
+  "memoryHook": "Absprache: what was agreed (abgesprochen).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Absprache",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Absprache is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Absprache, zwei ___",
+      "answer": "Absprachen",
+      "fullAnswer": "ein Absprache, zwei Absprachen",
+      "explanation": "The plural is Absprachen.",
+      "acceptedAnswers": [
+        "Absprachen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Absprache mean?",
+      "options": [
+        "the key",
+        "agreement",
+        "never"
+      ],
+      "answer": "agreement",
+      "explanation": "Absprache: agreement, arrangement.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nach Absprache means…",
+      "options": [
+        "by arrangement",
+        "after the language class"
+      ],
+      "answer": "by arrangement",
+      "explanation": "Arrangement.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Etwas absprechen means…",
+      "options": [
+        "to agree on something; to deny",
+        "to speak loudly"
+      ],
+      "answer": "to agree on something; to deny",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Preisabsprachen are…",
+      "options": [
+        "illegal price-fixing",
+        "price lists"
+      ],
+      "answer": "illegal price-fixing",
+      "explanation": "Cartel.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Absprache is an agreement or arrangement: eine Absprache treffen, nach Absprache (by arrangement, common in job ads and on shop doors), in Absprache mit. Illegal Preisabsprachen (price-fixing) are punished by the Bundeskartellamt. The verb absprechen means to agree on something (Wir haben uns abgesprochen) but also to deny someone something: jemandem das Talent absprechen. Plural: die Absprachen."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Balken",
+    "partOfSpeech": "noun, masculine (der Balken)",
+    "pronunciation": {
+      "respelling": "BAL-ken",
+      "ipa": "ˈbalkn̩",
+      "notes": "Plural: die Balken."
+    },
+    "meaning": "beam, bar",
+    "shortDefinition": "Beam, bar."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Balken, plural die Balken.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Balken"
+        },
+        {
+          "label": "More than one",
+          "value": "die Balken"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das alte Haus hat schöne Holzbalken.",
+      "english": "The old house has beautiful wooden beams.",
+      "highlight": [
+        "Holzbalken."
+      ]
+    },
+    {
+      "german": "Er lügt, dass sich die Balken biegen.",
+      "english": "He lies through his teeth.",
+      "highlight": [
+        "Balken"
+      ]
+    }
+  ],
+  "forms": [
+    "die Balken",
+    "der Balken",
+    "Balkendiagramm"
+  ],
+  "memoryHook": "Balken: a wooden beam that bends when people lie.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Balken",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Balken is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Balken, zwei ___",
+      "answer": "Balken",
+      "fullAnswer": "ein Balken, zwei Balken",
+      "explanation": "The plural is Balken.",
+      "acceptedAnswers": [
+        "Balken"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Balken mean?",
+      "options": [
+        "the evening",
+        "beam",
+        "the car"
+      ],
+      "answer": "beam",
+      "explanation": "Balken: beam, bar.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Lügen, dass sich die Balken biegen means…",
+      "options": [
+        "to lie outrageously",
+        "to build badly"
+      ],
+      "answer": "to lie outrageously",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Balkendiagramm is…",
+      "options": [
+        "a bar chart",
+        "a floor plan"
+      ],
+      "answer": "a bar chart",
+      "explanation": "Bar chart.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "On a German flag, the stripes are…",
+      "options": [
+        "Balken / Streifen",
+        "Stangen"
+      ],
+      "answer": "Balken / Streifen",
+      "explanation": "Bars.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Balken is a beam: der Holzbalken, der Dachbalken. Germany's half-timbered houses (Fachwerkhäuser) show their Balken on the outside. Lügen, dass sich die Balken biegen means to lie so outrageously that the beams bend. Das Balkendiagramm is a bar chart, and in sport, der Schwebebalken is the balance beam. The biblical saying about the speck and the beam is den Balken im eigenen Auge nicht sehen. The plural is the same: die Balken."
+}

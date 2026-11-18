@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kompost",
+    "partOfSpeech": "noun, masculine (der Kompost)",
+    "pronunciation": {
+      "respelling": "kom-POST",
+      "ipa": "kɔmˈpɔst",
+      "notes": "Plural: die Komposte."
+    },
+    "meaning": "compost",
+    "shortDefinition": "Compost."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kompost, plural die Komposte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kompost"
+        },
+        {
+          "label": "More than one",
+          "value": "die Komposte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Gemüsereste kommen auf den Kompost.",
+      "english": "Vegetable scraps go on the compost.",
+      "highlight": [
+        "Kompost."
+      ]
+    },
+    {
+      "german": "Der Kompost ist ein natürlicher Dünger.",
+      "english": "Compost is a natural fertiliser.",
+      "highlight": [
+        "Kompost"
+      ]
+    }
+  ],
+  "forms": [
+    "Komposte",
+    "der Kompost"
+  ],
+  "memoryHook": "Kompost: Latin compositum, something put together.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kompost",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kompost is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kompost, zwei ___",
+      "answer": "Komposte",
+      "fullAnswer": "ein Kompost, zwei Komposte",
+      "explanation": "The plural is Komposte.",
+      "acceptedAnswers": [
+        "Komposte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kompost mean?",
+      "options": [
+        "always",
+        "compost",
+        "the flower"
+      ],
+      "answer": "compost",
+      "explanation": "Kompost: compost.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kompostieren means…",
+      "options": [
+        "to compost",
+        "to compose"
+      ],
+      "answer": "to compost",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Biotonne is…",
+      "options": [
+        "the organic waste bin",
+        "a beer barrel"
+      ],
+      "answer": "the organic waste bin",
+      "explanation": "Germany.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Komposthaufen is…",
+      "options": [
+        "compost heap",
+        "a hill"
+      ],
+      "answer": "compost heap",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Kompost is compost: Bioabfälle auf den Kompost werfen, der Komposthaufen. Gardeners turn kitchen and garden waste into humus by kompostieren. Germans who don't compost at home use the Biotonne (brown or green organic bin), part of the country's detailed Mülltrennung (waste sorting). From Latin compositum. Plural: die Komposte."
+}

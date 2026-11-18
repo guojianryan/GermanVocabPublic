@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Nordwesten",
+    "partOfSpeech": "noun, masculine (der Nordwesten)",
+    "pronunciation": {
+      "respelling": "nort-VES-ten",
+      "ipa": "nɔʁtˈvɛstn̩",
+      "notes": "Usually no plural."
+    },
+    "meaning": "north-west",
+    "shortDefinition": "North-west."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Nordwesten, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Nordwesten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Wind kommt aus Nordwesten.",
+      "english": "The wind is coming from the north-west.",
+      "highlight": [
+        "Nordwesten."
+      ]
+    },
+    {
+      "german": "Im Nordwesten Deutschlands liegt Ostfriesland.",
+      "english": "East Frisia is in the north-west of Germany.",
+      "highlight": [
+        "Nordwesten"
+      ]
+    }
+  ],
+  "forms": [
+    "der Nordwesten",
+    "nordwestlich"
+  ],
+  "memoryHook": "Nordwesten: between Norden and Westen.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Nordwesten",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Nordwesten is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Nordwesten mean?",
+      "options": [
+        "to sleep",
+        "north-west",
+        "the job"
+      ],
+      "answer": "north-west",
+      "explanation": "Nordwesten: north-west.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender of compass directions:",
+      "options": [
+        "masculine (der Norden, der Nordwesten)",
+        "feminine"
+      ],
+      "answer": "masculine (der Norden, der Nordwesten)",
+      "explanation": "Masculine.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nordwestlich means…",
+      "options": [
+        "north-western",
+        "north-east"
+      ],
+      "answer": "north-western",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Südosten is…",
+      "options": [
+        "the south-east",
+        "the south-west"
+      ],
+      "answer": "the south-east",
+      "explanation": "Opposite.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Nordwesten is the north-west: im Nordwesten Deutschlands (Lower Saxony, Bremen, East Frisia), aus Nordwesten (from the north-west). All compass directions are masculine: der Norden, der Osten, der Süden, der Westen, der Nordosten, der Südwesten. Adjectives: nordwestlich (von). Weather reports often mention Nordwestwind bringing rain from the North Sea. It has no plural."
+}

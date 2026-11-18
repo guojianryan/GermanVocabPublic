@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "platzieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "pla-TSEE-ren",
+      "ipa": "plaˈt͡siːʁən",
+      "notes": ""
+    },
+    "meaning": "to place, position",
+    "shortDefinition": "To place, position."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "platzier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "platzier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "platzier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "platzier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "platzier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "platzier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat platziert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie platzierte die Vase auf dem Tisch.",
+      "english": "She placed the vase on the table.",
+      "highlight": [
+        "platzierte"
+      ]
+    },
+    {
+      "german": "Er konnte sich unter den ersten drei platzieren.",
+      "english": "He managed to finish in the top three.",
+      "highlight": [
+        "platzieren."
+      ]
+    }
+  ],
+  "forms": [
+    "platziere",
+    "platzierst",
+    "platziert",
+    "platzieren",
+    "Platzierung"
+  ],
+  "memoryHook": "Platzieren: find the right Platz for something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (platzieren)",
+      "answer": "platziert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: platziert.",
+      "acceptedAnswers": [
+        "platziert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (platzieren, past)",
+      "answer": "platziert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe platziert.",
+      "acceptedAnswers": [
+        "platziert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does platzieren mean?",
+      "options": [
+        "cheap",
+        "quiet",
+        "to place"
+      ],
+      "answer": "to place",
+      "explanation": "platzieren: to place, position.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich platzieren (sport) means…",
+      "options": [
+        "to finish in a position",
+        "to sit down"
+      ],
+      "answer": "to finish in a position",
+      "explanation": "Ranking.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Platzierung is…",
+      "options": [
+        "placing, ranking",
+        "a parking space"
+      ],
+      "answer": "placing, ranking",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "From…",
+      "options": [
+        "der Platz",
+        "platzen"
+      ],
+      "answer": "der Platz",
+      "explanation": "Place.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Platzieren means to place or position: Werbung gezielt platzieren, einen Ball platzieren (in sport, to place a shot precisely). Sich platzieren means to finish in a certain position: Sie platzierte sich auf Rang fünf. Die Platzierung is a placing or ranking. It comes from der Platz (place, square, seat). Don't confuse it with platzen (to burst): Der Ballon ist geplatzt. Past participle: platziert."
+}

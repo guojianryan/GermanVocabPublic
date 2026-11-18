@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wirbelsäule",
+    "partOfSpeech": "noun, feminine (die Wirbelsäule)",
+    "pronunciation": {
+      "respelling": "VIR-bel-zoi-le",
+      "ipa": "ˈvɪʁbl̩ˌzɔɪ̯lə",
+      "notes": "Plural: die Wirbelsäulen."
+    },
+    "meaning": "spine, spinal column",
+    "shortDefinition": "Spine, spinal column."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Wirbelsäule, plural die Wirbelsäulen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Wirbelsäule"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wirbelsäulen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hat Probleme mit der Wirbelsäule.",
+      "english": "He has problems with his spine.",
+      "highlight": [
+        "Wirbelsäule."
+      ]
+    },
+    {
+      "german": "Die Übung entlastet die Wirbelsäule.",
+      "english": "The exercise takes the strain off the spine.",
+      "highlight": [
+        "Wirbelsäule."
+      ]
+    }
+  ],
+  "forms": [
+    "Wirbelsäulen",
+    "die Wirbelsäule",
+    "Wirbel"
+  ],
+  "memoryHook": "Wirbelsäule: a Säule (column) of Wirbel (vertebrae).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wirbelsäule",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Wirbelsäule is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wirbelsäule, zwei ___",
+      "answer": "Wirbelsäulen",
+      "fullAnswer": "ein Wirbelsäule, zwei Wirbelsäulen",
+      "explanation": "The plural is Wirbelsäulen.",
+      "acceptedAnswers": [
+        "Wirbelsaeulen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wirbelsäule mean?",
+      "options": [
+        "the car",
+        "the weather",
+        "spine"
+      ],
+      "answer": "spine",
+      "explanation": "Wirbelsäule: spine, spinal column.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Wirbel is…",
+      "options": [
+        "vertebra; whirl",
+        "a worm"
+      ],
+      "answer": "vertebra; whirl",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Säule is…",
+      "options": [
+        "column, pillar",
+        "a saw"
+      ],
+      "answer": "column, pillar",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Back pain in German:",
+      "options": [
+        "Rückenschmerzen",
+        "Rückfall"
+      ],
+      "answer": "Rückenschmerzen",
+      "explanation": "Back pain.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Wirbelsäule is the spine, literally a column (Säule) of vertebrae (Wirbel). Rückenschmerzen (back pain) are one of the most common reasons Germans take sick leave. Die Bandscheibe is a spinal disc, and der Bandscheibenvorfall a slipped disc. Figuratively, Rückgrat (backbone) means courage: Rückgrat zeigen. Plural: die Wirbelsäulen."
+}

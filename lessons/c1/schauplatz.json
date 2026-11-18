@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schauplatz",
+    "partOfSpeech": "noun, masculine (der Schauplatz)",
+    "pronunciation": {
+      "respelling": "SHAU-plats",
+      "ipa": "ˈʃaʊ̯ˌplat͡s",
+      "notes": "Plural: die Schauplätze."
+    },
+    "meaning": "scene, setting, venue",
+    "shortDefinition": "Scene, setting, venue."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schauplatz, plural die Schauplätze.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schauplatz"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schauplätze"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Roman hat Berlin als Schauplatz.",
+      "english": "The novel is set in Berlin.",
+      "highlight": [
+        "Schauplatz."
+      ]
+    },
+    {
+      "german": "Die Polizei sicherte den Schauplatz des Verbrechens.",
+      "english": "The police secured the crime scene.",
+      "highlight": [
+        "Schauplatz"
+      ]
+    }
+  ],
+  "forms": [
+    "Schauplätze",
+    "die Schauplätze",
+    "der Schauplatz"
+  ],
+  "memoryHook": "Schauplatz: the Platz where something is to be seen (schauen).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schauplatz",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schauplatz is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schauplatz, zwei ___",
+      "answer": "Schauplätze",
+      "fullAnswer": "ein Schauplatz, zwei Schauplätze",
+      "explanation": "The plural is Schauplätze.",
+      "acceptedAnswers": [
+        "Schauplaetze"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schauplatz mean?",
+      "options": [
+        "the bread",
+        "scene",
+        "to sleep"
+      ],
+      "answer": "scene",
+      "explanation": "Schauplatz: scene, setting, venue.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schauplatz of a novel is…",
+      "options": [
+        "its setting",
+        "its author"
+      ],
+      "answer": "its setting",
+      "explanation": "Setting.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Tatort (also a TV series) is…",
+      "options": [
+        "crime scene",
+        "deed place for weddings"
+      ],
+      "answer": "crime scene",
+      "explanation": "Tatort.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kriegsschauplatz is…",
+      "options": [
+        "theatre of war",
+        "a war museum"
+      ],
+      "answer": "theatre of war",
+      "explanation": "War.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Schauplatz is a scene, setting or venue: der Schauplatz eines Romans, der Schauplatz der Olympischen Spiele, der Kriegsschauplatz (theatre of war). For a crime scene, Germans usually say der Tatort, also the name of Germany's longest-running crime series, on Sunday nights since 1970, with each episode set in a different city. From schauen (to look) and Platz. Plural: die Schauplätze."
+}

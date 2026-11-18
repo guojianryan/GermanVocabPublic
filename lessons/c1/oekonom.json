@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ökonom",
+    "partOfSpeech": "noun, masculine (der Ökonom)",
+    "pronunciation": {
+      "respelling": "ö-ko-NOHM",
+      "ipa": "økoˈnoːm",
+      "notes": "Plural: die Ökonomen."
+    },
+    "meaning": "economist",
+    "shortDefinition": "Economist."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Ökonom, plural die Ökonomen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Ökonom"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ökonomen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Viele Ökonomen erwarten eine Rezession.",
+      "english": "Many economists expect a recession.",
+      "highlight": [
+        "Ökonomen"
+      ]
+    },
+    {
+      "german": "Sie ist eine renommierte Ökonomin.",
+      "english": "She's a renowned economist.",
+      "highlight": [
+        "Ökonomin."
+      ]
+    }
+  ],
+  "forms": [
+    "Ökonomen",
+    "die Ökonomen",
+    "der Ökonom",
+    "Ökonomin"
+  ],
+  "memoryHook": "Ökonom: an expert in Ökonomie.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ökonom",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Ökonom is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Ökonom, zwei ___",
+      "answer": "Ökonomen",
+      "fullAnswer": "ein Ökonom, zwei Ökonomen",
+      "explanation": "The plural is Ökonomen.",
+      "acceptedAnswers": [
+        "Ökonomen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ökonom mean?",
+      "options": [
+        "the bed",
+        "economist",
+        "the door"
+      ],
+      "answer": "economist",
+      "explanation": "Ökonom: economist.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ökonom is a weak noun:",
+      "options": [
+        "den Ökonomen",
+        "den Ökonom"
+      ],
+      "answer": "den Ökonomen",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Ökonomie is…",
+      "options": [
+        "economy; economics",
+        "ecology"
+      ],
+      "answer": "economy; economics",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Wirtschaftsweisen are…",
+      "options": [
+        "Germany's council of economic experts",
+        "wise farmers"
+      ],
+      "answer": "Germany's council of economic experts",
+      "explanation": "Council.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Ökonom (die Ökonomin) is an economist; the more German word is der Wirtschaftswissenschaftler. It's a weak noun: den Ökonomen. Germany's Sachverständigenrat, five economists nicknamed die Wirtschaftsweisen (the economic wise men), advises the government. Die Ökonomie means economy or economics, and ökonomisch economic. Don't confuse it with Ökologie (ecology). Plural: die Ökonomen."
+}

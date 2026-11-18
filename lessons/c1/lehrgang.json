@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Lehrgang",
+    "partOfSpeech": "noun, masculine (der Lehrgang)",
+    "pronunciation": {
+      "respelling": "LAIR-gang",
+      "ipa": "ˈleːɐ̯ˌɡaŋ",
+      "notes": "Plural: die Lehrgänge."
+    },
+    "meaning": "course, training course",
+    "shortDefinition": "Course, training course."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Lehrgang, plural die Lehrgänge.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Lehrgang"
+        },
+        {
+          "label": "More than one",
+          "value": "die Lehrgänge"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er macht einen Lehrgang zum Erste-Hilfe-Ausbilder.",
+      "english": "He's doing a course to become a first-aid instructor.",
+      "highlight": [
+        "Lehrgang"
+      ]
+    },
+    {
+      "german": "Der Lehrgang dauert drei Wochen.",
+      "english": "The course lasts three weeks.",
+      "highlight": [
+        "Lehrgang"
+      ]
+    }
+  ],
+  "forms": [
+    "Lehrgänge",
+    "die Lehrgänge",
+    "der Lehrgang"
+  ],
+  "memoryHook": "Lehrgang: a course (Gang) of teaching (Lehre).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Lehrgang",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Lehrgang is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Lehrgang, zwei ___",
+      "answer": "Lehrgänge",
+      "fullAnswer": "ein Lehrgang, zwei Lehrgänge",
+      "explanation": "The plural is Lehrgänge.",
+      "acceptedAnswers": [
+        "Lehrgaenge"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Lehrgang mean?",
+      "options": [
+        "the bed",
+        "course",
+        "to open"
+      ],
+      "answer": "course",
+      "explanation": "Lehrgang: course, training course.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Lehrgang is typically…",
+      "options": [
+        "a practical vocational course",
+        "a school year"
+      ],
+      "answer": "a practical vocational course",
+      "explanation": "Course.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Kurs, die Schulung",
+        "der Gang"
+      ],
+      "answer": "der Kurs, die Schulung",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Lehren means…",
+      "options": [
+        "to teach",
+        "to learn"
+      ],
+      "answer": "to teach",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Lehrgang is a training course, usually practical or vocational: ein Lehrgang für Gabelstaplerfahrer, ein Erste-Hilfe-Lehrgang (required before getting a driving licence in Germany), ein Meisterlehrgang. Synonyms: der Kurs, die Schulung, die Fortbildung. Lehren means to teach and lernen to learn. Plural: die Lehrgänge."
+}

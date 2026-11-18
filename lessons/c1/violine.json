@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Violine",
+    "partOfSpeech": "noun, feminine (die Violine)",
+    "pronunciation": {
+      "respelling": "vi-o-LEE-ne",
+      "ipa": "vi̯oˈliːnə",
+      "notes": "Plural: die Violinen."
+    },
+    "meaning": "violin",
+    "shortDefinition": "Violin."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Violine, plural die Violinen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Violine"
+        },
+        {
+          "label": "More than one",
+          "value": "die Violinen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie spielt die erste Violine im Orchester.",
+      "english": "She plays first violin in the orchestra.",
+      "highlight": [
+        "Violine"
+      ]
+    },
+    {
+      "german": "Die Violine ist das kleinste Streichinstrument.",
+      "english": "The violin is the smallest string instrument.",
+      "highlight": [
+        "Violine"
+      ]
+    }
+  ],
+  "forms": [
+    "Violinen",
+    "die Violinen",
+    "die Violine",
+    "Geige"
+  ],
+  "memoryHook": "Violine: the formal name for the Geige.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Violine",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Violine is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Violine, zwei ___",
+      "answer": "Violinen",
+      "fullAnswer": "ein Violine, zwei Violinen",
+      "explanation": "The plural is Violinen.",
+      "acceptedAnswers": [
+        "Violinen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Violine mean?",
+      "options": [
+        "the weather",
+        "the station",
+        "violin"
+      ],
+      "answer": "violin",
+      "explanation": "Violine: violin.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday word for violin:",
+      "options": [
+        "die Geige",
+        "die Gitarre"
+      ],
+      "answer": "die Geige",
+      "explanation": "Geige.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die erste Geige spielen means…",
+      "options": [
+        "to call the shots",
+        "to start a concert"
+      ],
+      "answer": "to call the shots",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Violinschlüssel is…",
+      "options": [
+        "treble clef",
+        "a violin case"
+      ],
+      "answer": "treble clef",
+      "explanation": "Music.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Violine is the violin; the everyday German word is die Geige. Die erste Geige spielen means to call the shots. Der Violinschlüssel is the treble clef. Mittenwald in Bavaria has a centuries-old violin-making (Geigenbau) tradition, and Anne-Sophie Mutter is one of the world's most famous violinists. Der Himmel hängt voller Geigen means to be blissfully happy. Plural: die Violinen."
+}

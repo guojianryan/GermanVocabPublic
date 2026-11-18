@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Anstellung",
+    "partOfSpeech": "noun, feminine (die Anstellung)",
+    "pronunciation": {
+      "respelling": "AN-shtel-ung",
+      "ipa": "ˈanˌʃtɛlʊŋ",
+      "notes": "Plural: die Anstellungen."
+    },
+    "meaning": "employment, position",
+    "shortDefinition": "Employment, position."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Anstellung, plural die Anstellungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Anstellung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Anstellungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie hat eine feste Anstellung bei der Stadt.",
+      "english": "She has a permanent position with the city.",
+      "highlight": [
+        "Anstellung"
+      ]
+    },
+    {
+      "german": "Er sucht eine Anstellung als Lehrer.",
+      "english": "He's looking for a position as a teacher.",
+      "highlight": [
+        "Anstellung"
+      ]
+    }
+  ],
+  "forms": [
+    "Anstellungen",
+    "die Anstellungen",
+    "die Anstellung",
+    "angestellt",
+    "Angestellte"
+  ],
+  "memoryHook": "Anstellung: being angestellt (employed).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Anstellung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Anstellung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Anstellung, zwei ___",
+      "answer": "Anstellungen",
+      "fullAnswer": "ein Anstellung, zwei Anstellungen",
+      "explanation": "The plural is Anstellungen.",
+      "acceptedAnswers": [
+        "Anstellungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Anstellung mean?",
+      "options": [
+        "never",
+        "to open",
+        "employment"
+      ],
+      "answer": "employment",
+      "explanation": "Anstellung: employment, position.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Angestellt sein means…",
+      "options": [
+        "to be employed",
+        "to be queued"
+      ],
+      "answer": "to be employed",
+      "explanation": "Employed.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der/die Angestellte is…",
+      "options": [
+        "employee (salaried)",
+        "employer"
+      ],
+      "answer": "employee (salaried)",
+      "explanation": "Employee.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich anstellen also means…",
+      "options": [
+        "to queue; to make a fuss",
+        "to apply"
+      ],
+      "answer": "to queue; to make a fuss",
+      "explanation": "Other meanings.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Anstellung is employment or a position: eine feste Anstellung (permanent job), eine befristete Anstellung (fixed-term). Angestellt sein means to be employed, and der/die Angestellte is a salaried employee, traditionally distinguished from Arbeiter (workers) and Beamte (civil servants). The verb anstellen also means to switch on, to queue (sich anstellen) or to make a fuss: Stell dich nicht so an! Plural: die Anstellungen."
+}

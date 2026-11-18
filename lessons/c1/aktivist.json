@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Aktivist",
+    "partOfSpeech": "noun, masculine (der Aktivist)",
+    "pronunciation": {
+      "respelling": "ak-ti-VIST",
+      "ipa": "aktiˈvɪst",
+      "notes": "Plural: die Aktivisten."
+    },
+    "meaning": "activist",
+    "shortDefinition": "Activist."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Aktivist, plural die Aktivisten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Aktivist"
+        },
+        {
+          "label": "More than one",
+          "value": "die Aktivisten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Klimaaktivisten blockierten die Straße.",
+      "english": "Climate activists blocked the road.",
+      "highlight": [
+        "Klimaaktivisten"
+      ]
+    },
+    {
+      "german": "Sie ist Menschenrechtsaktivistin.",
+      "english": "She's a human rights activist.",
+      "highlight": [
+        "Menschenrechtsaktivistin."
+      ]
+    }
+  ],
+  "forms": [
+    "Aktivisten",
+    "die Aktivisten",
+    "der Aktivist",
+    "Aktivistin"
+  ],
+  "memoryHook": "Aktivist: active for a cause.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Aktivist",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Aktivist is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Aktivist, zwei ___",
+      "answer": "Aktivisten",
+      "fullAnswer": "ein Aktivist, zwei Aktivisten",
+      "explanation": "The plural is Aktivisten.",
+      "acceptedAnswers": [
+        "Aktivisten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Aktivist mean?",
+      "options": [
+        "the bed",
+        "the evening",
+        "activist"
+      ],
+      "answer": "activist",
+      "explanation": "Aktivist: activist.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Weak noun, accusative:",
+      "options": [
+        "den Aktivisten",
+        "den Aktivist"
+      ],
+      "answer": "den Aktivisten",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Letzte Generation was…",
+      "options": [
+        "a German climate activist group",
+        "a political party"
+      ],
+      "answer": "a German climate activist group",
+      "explanation": "Glued themselves to roads.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Aktivistin",
+        "die Aktivistine"
+      ],
+      "answer": "die Aktivistin",
+      "explanation": "-in.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Aktivist (die Aktivistin) is an activist: Umweltaktivisten, Tierrechtsaktivisten. It's a weak noun: den Aktivisten. In Germany, climate groups like Fridays for Future and the Letzte Generation, whose members glued themselves to roads and were nicknamed Klimakleber, made Klimaaktivisten a daily news word in the early 2020s. In the GDR, an Aktivist was an outstanding worker honoured by the state."
+}

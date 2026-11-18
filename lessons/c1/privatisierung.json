@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Privatisierung",
+    "partOfSpeech": "noun, feminine (die Privatisierung)",
+    "pronunciation": {
+      "respelling": "pri-va-ti-ZEE-rung",
+      "ipa": "pʁivatiˈziːʁʊŋ",
+      "notes": "Plural: die Privatisierungen."
+    },
+    "meaning": "privatisation",
+    "shortDefinition": "Privatisation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Privatisierung, plural die Privatisierungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Privatisierung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Privatisierungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Privatisierung der Bahn ist umstritten.",
+      "english": "Privatising the railway is controversial.",
+      "highlight": [
+        "Privatisierung"
+      ]
+    },
+    {
+      "german": "Nach 1990 kam es zur Privatisierung vieler DDR-Betriebe.",
+      "english": "After 1990, many GDR companies were privatised.",
+      "highlight": [
+        "Privatisierung"
+      ]
+    }
+  ],
+  "forms": [
+    "Privatisierungen",
+    "die Privatisierung",
+    "privatisieren"
+  ],
+  "memoryHook": "Privatisierung: making something privat.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Privatisierung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Privatisierung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Privatisierung, zwei ___",
+      "answer": "Privatisierungen",
+      "fullAnswer": "ein Privatisierung, zwei Privatisierungen",
+      "explanation": "The plural is Privatisierungen.",
+      "acceptedAnswers": [
+        "Privatisierungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Privatisierung mean?",
+      "options": [
+        "privatisation",
+        "the flower",
+        "cheap"
+      ],
+      "answer": "privatisation",
+      "explanation": "Privatisierung: privatisation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Privatisieren means…",
+      "options": [
+        "to privatise",
+        "to keep private"
+      ],
+      "answer": "to privatise",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Treuhandanstalt…",
+      "options": [
+        "privatised East German firms after 1990",
+        "managed West German taxes"
+      ],
+      "answer": "privatised East German firms after 1990",
+      "explanation": "Treuhand.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite:",
+      "options": [
+        "die Verstaatlichung",
+        "die Privatperson"
+      ],
+      "answer": "die Verstaatlichung",
+      "explanation": "Nationalisation.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Privatisierung is privatisation. After reunification, the Treuhandanstalt privatised or closed around 8,500 East German state companies, leading to mass unemployment and lasting resentment in the east. Deutsche Post and Telekom were privatised in the 1990s, and Deutsche Bahn became a state-owned company. The opposite is die Verstaatlichung (nationalisation). Plural: die Privatisierungen."
+}

@@ -1,0 +1,122 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Segen",
+    "partOfSpeech": "noun, masculine (der Segen)",
+    "pronunciation": {
+      "respelling": "ZAY-gen",
+      "ipa": "ˈzeːɡn̩",
+      "notes": "Usually no plural."
+    },
+    "meaning": "blessing",
+    "shortDefinition": "Blessing."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Segen, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Segen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Pfarrer sprach den Segen.",
+      "english": "The priest gave the blessing.",
+      "highlight": [
+        "Segen."
+      ]
+    },
+    {
+      "german": "Das Internet ist Segen und Fluch zugleich.",
+      "english": "The internet is a blessing and a curse at the same time.",
+      "highlight": [
+        "Segen"
+      ]
+    }
+  ],
+  "forms": [
+    "der Segen",
+    "segnen",
+    "gesegnet"
+  ],
+  "memoryHook": "Segen and Fluch: blessing and curse.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Segen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Segen is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Segen mean?",
+      "options": [
+        "the station",
+        "always",
+        "blessing"
+      ],
+      "answer": "blessing",
+      "explanation": "Segen: blessing.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Segnen means…",
+      "options": [
+        "to bless",
+        "to sail"
+      ],
+      "answer": "to bless",
+      "explanation": "segnen.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Seinen Segen geben means…",
+      "options": [
+        "to give one's approval",
+        "to say goodbye"
+      ],
+      "answer": "to give one's approval",
+      "explanation": "Approval.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Opposite:",
+      "options": [
+        "der Fluch",
+        "der Dank"
+      ],
+      "answer": "der Fluch",
+      "explanation": "Blessing vs curse.",
+      "id": "q5"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Das ist ein ___ (blessing) für uns.",
+      "answer": "Segen",
+      "fullAnswer": "Das ist ein Segen für uns.",
+      "explanation": "der Segen.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Segen is a blessing, in church and in everyday life: Das Wetter war ein Segen. Seinen Segen geben means to give one's approval: Der Chef hat seinen Segen gegeben. Ein Segen und ein Fluch zugleich means a blessing and a curse at once. Segnen means to bless, and gesegnet blessed: Gesegnete Weihnachten! The word comes from Latin signum (sign), from making the sign of the cross."
+}

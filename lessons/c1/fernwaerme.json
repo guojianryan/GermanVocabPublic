@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fernwärme",
+    "partOfSpeech": "noun, feminine (die Fernwärme)",
+    "pronunciation": {
+      "respelling": "FERN-ver-me",
+      "ipa": "ˈfɛʁnˌvɛʁmə",
+      "notes": "Usually no plural."
+    },
+    "meaning": "district heating",
+    "shortDefinition": "District heating."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Fernwärme, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Fernwärme"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Unsere Wohnung wird mit Fernwärme beheizt.",
+      "english": "Our flat is heated by district heating.",
+      "highlight": [
+        "Fernwärme"
+      ]
+    },
+    {
+      "german": "Die Stadt will das Fernwärmenetz ausbauen.",
+      "english": "The city wants to expand the district heating network.",
+      "highlight": [
+        "Fernwärmenetz"
+      ]
+    }
+  ],
+  "forms": [
+    "die Fernwärme"
+  ],
+  "memoryHook": "Fernwärme: Wärme (heat) from fern (far away).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fernwärme",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Fernwärme is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fernwärme mean?",
+      "options": [
+        "the job",
+        "the bread",
+        "district heating"
+      ],
+      "answer": "district heating",
+      "explanation": "Fernwärme: district heating.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fernwärme is heat delivered…",
+      "options": [
+        "through pipes from a central plant",
+        "by electricity"
+      ],
+      "answer": "through pipes from a central plant",
+      "explanation": "Meaning.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fern means…",
+      "options": [
+        "far, distant",
+        "fern (plant)"
+      ],
+      "answer": "far, distant",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fernwärme is common in…",
+      "options": [
+        "cities, especially eastern Germany",
+        "rural farms only"
+      ],
+      "answer": "cities, especially eastern Germany",
+      "explanation": "Germany.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Fernwärme is district heating: hot water piped from a central plant, often a combined heat and power station (Kraft-Wärme-Kopplung), into homes. It's widespread in big cities and in eastern Germany's Plattenbau estates. The 2023 heating law (Heizungsgesetz) and municipal heat planning aim to expand it as part of the energy transition. It has no plural."
+}

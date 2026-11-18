@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Innenministerium",
+    "partOfSpeech": "noun, neuter (das Innenministerium)",
+    "pronunciation": {
+      "respelling": "IN-en-mi-nis-tay-ri-um",
+      "ipa": "ˈɪnənminɪsˌteːʁiʊm",
+      "notes": "Plural: die Innenministerien."
+    },
+    "meaning": "interior ministry, home office",
+    "shortDefinition": "Interior ministry, home office."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Innenministerium, plural die Innenministerien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Innenministerium"
+        },
+        {
+          "label": "More than one",
+          "value": "die Innenministerien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Innenministerium ist für die Polizei zuständig.",
+      "english": "The interior ministry is responsible for the police.",
+      "highlight": [
+        "Innenministerium"
+      ]
+    },
+    {
+      "german": "Das Bundesinnenministerium sitzt in Berlin.",
+      "english": "The federal interior ministry is in Berlin.",
+      "highlight": [
+        "Bundesinnenministerium"
+      ]
+    }
+  ],
+  "forms": [
+    "Innenministerien",
+    "das Innenministerium",
+    "Bundesinnenministerium"
+  ],
+  "memoryHook": "Innenministerium: the ministry for affairs inside (innen) the country.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Innenministerium",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Innenministerium is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Innenministerium, zwei ___",
+      "answer": "Innenministerien",
+      "fullAnswer": "ein Innenministerium, zwei Innenministerien",
+      "explanation": "The plural is Innenministerien.",
+      "acceptedAnswers": [
+        "Innenministerien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Innenministerium mean?",
+      "options": [
+        "the car",
+        "interior ministry",
+        "slowly"
+      ],
+      "answer": "interior ministry",
+      "explanation": "Innenministerium: interior ministry, home office.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Responsibilities include…",
+      "options": [
+        "police, migration, security",
+        "foreign relations"
+      ],
+      "answer": "police, migration, security",
+      "explanation": "Interior.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Abbreviation (federal):",
+      "options": [
+        "BMI",
+        "BMF"
+      ],
+      "answer": "BMI",
+      "explanation": "BMI.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Since 2018 it's also responsible for…",
+      "options": [
+        "Heimat",
+        "Hamburg"
+      ],
+      "answer": "Heimat",
+      "explanation": "Bundesministerium des Innern und für Heimat.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Innenministerium is the interior ministry, like the UK Home Office. The federal one, the BMI, is responsible for internal security, the federal police, migration and civil protection, and since 2018 its full name is Bundesministerium des Innern und für Heimat. Each of the 16 Länder also has its own Innenministerium, since police are mainly a state matter. Der Innenminister is the minister. Plural: die Innenministerien."
+}

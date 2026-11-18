@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "schädigen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHAI-di-gen",
+      "ipa": "ˈʃɛːdɪɡn̩",
+      "notes": ""
+    },
+    "meaning": "to damage, harm",
+    "shortDefinition": "To damage, harm."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schädig|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schädig|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schädig|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schädig|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schädig|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schädig|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geschädigt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Rauchen schädigt die Lunge.",
+      "english": "Smoking damages the lungs.",
+      "highlight": [
+        "schädigt"
+      ]
+    },
+    {
+      "german": "Der Skandal hat den Ruf der Firma geschädigt.",
+      "english": "The scandal has damaged the company's reputation.",
+      "highlight": [
+        "geschädigt."
+      ]
+    }
+  ],
+  "forms": [
+    "schädige",
+    "schädigst",
+    "schädigt",
+    "schädigen",
+    "geschädigt",
+    "Geschädigte",
+    "Schädigung"
+  ],
+  "memoryHook": "Schädigen: cause Schaden (damage).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (schädigen)",
+      "answer": "schädigt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schädigt.",
+      "acceptedAnswers": [
+        "schaedigt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (schädigen, past)",
+      "answer": "geschädigt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geschädigt.",
+      "acceptedAnswers": [
+        "geschaedigt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does schädigen mean?",
+      "options": [
+        "quiet",
+        "to damage",
+        "to learn"
+      ],
+      "answer": "to damage",
+      "explanation": "schädigen: to damage, harm.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schaden is…",
+      "options": [
+        "damage",
+        "shadow"
+      ],
+      "answer": "damage",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der/die Geschädigte is…",
+      "options": [
+        "the injured party, victim",
+        "the culprit"
+      ],
+      "answer": "the injured party, victim",
+      "explanation": "Victim.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schädlich means…",
+      "options": [
+        "harmful",
+        "damaged"
+      ],
+      "answer": "harmful",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Schädigen means to damage or harm: die Gesundheit, die Umwelt, den Ruf schädigen. Der/die Geschädigte is the injured party, a key term in law and insurance. Die Schädigung is damage. Der Schaden is damage: Wer den Schaden hat, braucht für den Spott nicht zu sorgen. Schädlich means harmful: gesundheitsschädlich. Regular: schädigte, geschädigt."
+}

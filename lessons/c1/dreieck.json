@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Dreieck",
+    "partOfSpeech": "noun, neuter (das Dreieck)",
+    "pronunciation": {
+      "respelling": "DRAI-ek",
+      "ipa": "ˈdʁaɪ̯ˌʔɛk",
+      "notes": "Plural: die Dreiecke."
+    },
+    "meaning": "triangle",
+    "shortDefinition": "Triangle."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Dreieck, plural die Dreiecke.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Dreieck"
+        },
+        {
+          "label": "More than one",
+          "value": "die Dreiecke"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ein Dreieck hat drei Seiten.",
+      "english": "A triangle has three sides.",
+      "highlight": [
+        "Dreieck"
+      ]
+    },
+    {
+      "german": "Das Warndreieck muss im Auto sein.",
+      "english": "The warning triangle must be in the car.",
+      "highlight": [
+        "Warndreieck"
+      ]
+    }
+  ],
+  "forms": [
+    "Dreiecke",
+    "die Dreiecke",
+    "das Dreieck",
+    "dreieckig"
+  ],
+  "memoryHook": "Dreieck: three (drei) corners (Ecken).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Dreieck",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Dreieck is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Dreieck, zwei ___",
+      "answer": "Dreiecke",
+      "fullAnswer": "ein Dreieck, zwei Dreiecke",
+      "explanation": "The plural is Dreiecke.",
+      "acceptedAnswers": [
+        "Dreiecke"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Dreieck mean?",
+      "options": [
+        "the shop",
+        "to sleep",
+        "triangle"
+      ],
+      "answer": "triangle",
+      "explanation": "Dreieck: triangle.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Warndreieck is…",
+      "options": [
+        "the warning triangle (compulsory in cars)",
+        "a road sign"
+      ],
+      "answer": "the warning triangle (compulsory in cars)",
+      "explanation": "Compulsory.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Bermudadreieck is…",
+      "options": [
+        "the Bermuda Triangle",
+        "a love triangle"
+      ],
+      "answer": "the Bermuda Triangle",
+      "explanation": "Bermuda.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Dreieckig means…",
+      "options": [
+        "triangular",
+        "three-cornered hat"
+      ],
+      "answer": "triangular",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Dreieck is a triangle: ein rechtwinkliges Dreieck (right-angled triangle). Every German car must carry a Warndreieck (warning triangle) to set up behind a breakdown. Das Autobahndreieck is a motorway junction where one motorway ends in another, and das Dreiländereck is a point where three countries meet, like near Basel. Eine Dreiecksbeziehung is a love triangle. From drei (three) and die Ecke (corner). Plural: die Dreiecke."
+}

@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "abraten",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AP-raa-ten",
+      "ipa": "ˈapˌʁaːtn̩",
+      "notes": ""
+    },
+    "meaning": "to advise against",
+    "shortDefinition": "To advise against."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "rat|e … |ab"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "rät|st … |ab"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "rä|t … |ab"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "rat|en … |ab"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "rat|et … |ab"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "rat|en … |ab"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat abgeraten"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Arzt rät mir vom Sport ab.",
+      "english": "The doctor advises me against sport.",
+      "highlight": [
+        "rät",
+        "ab."
+      ]
+    },
+    {
+      "german": "Ich würde dir davon abraten.",
+      "english": "I'd advise you against it.",
+      "highlight": [
+        "abraten."
+      ]
+    }
+  ],
+  "forms": [
+    "rate ab",
+    "rätst ab",
+    "rät ab",
+    "raten ab",
+    "ratet ab",
+    "abgeraten",
+    "riet ab"
+  ],
+  "memoryHook": "Abraten: raten (advise) someone away (ab) from something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ab (abraten)",
+      "answer": "rät",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: rät … ab.",
+      "acceptedAnswers": [
+        "raet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (abraten, past)",
+      "answer": "abgeraten",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe abgeraten.",
+      "acceptedAnswers": [
+        "abgeraten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does abraten mean?",
+      "options": [
+        "the door",
+        "the bread",
+        "to advise against"
+      ],
+      "answer": "to advise against",
+      "explanation": "abraten: to advise against.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Abraten takes…",
+      "options": [
+        "dative person + von + dative",
+        "accusative person"
+      ],
+      "answer": "dative person + von + dative",
+      "explanation": "Grammar.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zuraten means…",
+      "options": [
+        "to advise in favour",
+        "to guess"
+      ],
+      "answer": "to advise in favour",
+      "explanation": "Opposite.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "riet ab, abgeraten",
+        "ratete ab"
+      ],
+      "answer": "riet ab, abgeraten",
+      "explanation": "Irregular.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Abraten means to advise against: jemandem von etwas abraten (dative person, von for the thing): Ich rate dir dringend davon ab. The German Foreign Office issues Reisewarnungen and, more mildly, advises against travel: Von Reisen wird abgeraten. The opposite is zuraten. Separable and irregular like raten: rät ab, riet ab, abgeraten."
+}

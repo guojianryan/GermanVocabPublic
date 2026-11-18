@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "übertreten",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ü-ber-TRAY-ten",
+      "ipa": "yːbɐˈtʁeːtn̩",
+      "notes": ""
+    },
+    "meaning": "to break, violate (a rule)",
+    "shortDefinition": "To break, violate (a rule)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "übertret|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "übertrit|tst"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "übertrit|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "übertret|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "übertret|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "übertret|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat übertreten"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hat das Tempolimit übertreten.",
+      "english": "He broke the speed limit.",
+      "highlight": [
+        "übertreten."
+      ]
+    },
+    {
+      "german": "Wer das Gesetz übertritt, wird bestraft.",
+      "english": "Whoever breaks the law will be punished.",
+      "highlight": [
+        "übertritt,"
+      ]
+    }
+  ],
+  "forms": [
+    "übertrete",
+    "übertrittst",
+    "übertritt",
+    "übertreten",
+    "übertretet",
+    "übertrat",
+    "Übertretung"
+  ],
+  "memoryHook": "Übertreten: treten (step) over (über) a rule.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (übertreten)",
+      "answer": "übertritt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: übertritt.",
+      "acceptedAnswers": [
+        "uebertritt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (übertreten, past)",
+      "answer": "übertreten",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe übertreten.",
+      "acceptedAnswers": [
+        "uebertreten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does übertreten mean?",
+      "options": [
+        "to break",
+        "to buy",
+        "expensive"
+      ],
+      "answer": "to break",
+      "explanation": "übertreten: to break, violate (a rule).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Inseparable übertreten means…",
+      "options": [
+        "to violate (a rule)",
+        "to step over (a line)"
+      ],
+      "answer": "to violate (a rule)",
+      "explanation": "Violate.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Separable übertreten (ist übergetreten) means…",
+      "options": [
+        "to convert, change sides; to overstep",
+        "to break a law"
+      ],
+      "answer": "to convert, change sides; to overstep",
+      "explanation": "Contrast.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Übertretung is…",
+      "options": [
+        "violation, offence",
+        "a step"
+      ],
+      "answer": "violation, offence",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Übertreten, inseparable and stressed on -tre-, means to violate a rule: ein Gesetz, ein Verbot übertreten; die Übertretung is a violation. The separable über|treten (stressed on über, with sein) means to step over a line, to convert or change sides: zum Islam übertreten, in eine andere Partei übertreten; der Übertritt is a conversion. Irregular like treten: übertrat, übertreten."
+}

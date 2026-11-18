@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Staatsbürgerschaft",
+    "partOfSpeech": "noun, feminine (die Staatsbürgerschaft)",
+    "pronunciation": {
+      "respelling": "SHTAATS-bür-ger-shaft",
+      "ipa": "ˈʃtaːt͡sbʏʁɡɐʃaft",
+      "notes": "Plural: die Staatsbürgerschaften."
+    },
+    "meaning": "citizenship",
+    "shortDefinition": "Citizenship."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Staatsbürgerschaft, plural die Staatsbürgerschaften.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Staatsbürgerschaft"
+        },
+        {
+          "label": "More than one",
+          "value": "die Staatsbürgerschaften"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie hat die deutsche Staatsbürgerschaft angenommen.",
+      "english": "She took German citizenship.",
+      "highlight": [
+        "Staatsbürgerschaft"
+      ]
+    },
+    {
+      "german": "Seit 2024 ist die doppelte Staatsbürgerschaft leichter möglich.",
+      "english": "Since 2024 dual citizenship has been easier.",
+      "highlight": [
+        "Staatsbürgerschaft"
+      ]
+    }
+  ],
+  "forms": [
+    "Staatsbürgerschaften",
+    "die Staatsbürgerschaften",
+    "die Staatsbürgerschaft"
+  ],
+  "memoryHook": "Staatsbürgerschaft: being a Bürger of the Staat.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Staatsbürgerschaft",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Staatsbürgerschaft is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Staatsbürgerschaft, zwei ___",
+      "answer": "Staatsbürgerschaften",
+      "fullAnswer": "ein Staatsbürgerschaft, zwei Staatsbürgerschaften",
+      "explanation": "The plural is Staatsbürgerschaften.",
+      "acceptedAnswers": [
+        "Staatsbuergerschaften"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Staatsbürgerschaft mean?",
+      "options": [
+        "the child",
+        "citizenship",
+        "to sing"
+      ],
+      "answer": "citizenship",
+      "explanation": "Staatsbürgerschaft: citizenship.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Official legal term:",
+      "options": [
+        "die Staatsangehörigkeit",
+        "die Bürgerschaft"
+      ],
+      "answer": "die Staatsangehörigkeit",
+      "explanation": "Used in passports.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die doppelte Staatsbürgerschaft is…",
+      "options": [
+        "dual citizenship",
+        "double taxation"
+      ],
+      "answer": "dual citizenship",
+      "explanation": "Dual.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Einbürgerungstest is…",
+      "options": [
+        "the citizenship test",
+        "a driving test"
+      ],
+      "answer": "the citizenship test",
+      "explanation": "Naturalisation.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Staatsbürgerschaft is citizenship: die deutsche Staatsbürgerschaft beantragen. The official legal term in passports is die Staatsangehörigkeit. Becoming a citizen is die Einbürgerung, usually with a test about German society, the Einbürgerungstest. A 2024 reform made dual citizenship (die doppelte Staatsbürgerschaft) generally possible and shortened the residence requirement to five years. Der Staatsbürger is a citizen."
+}

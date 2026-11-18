@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "auswechseln",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AUS-vek-seln",
+      "ipa": "ˈaʊ̯sˌvɛksl̩n",
+      "notes": ""
+    },
+    "meaning": "to replace; to substitute (player)",
+    "shortDefinition": "To replace; to substitute (player)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "wechs|le … |aus"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "wechsel|st … |aus"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "wechsel|t … |aus"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "wechsel|n … |aus"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "wechsel|t … |aus"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "wechsel|n … |aus"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat ausgewechselt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Trainer wechselte den Stürmer in der 70. Minute aus.",
+      "english": "The coach substituted the striker in the 70th minute.",
+      "highlight": [
+        "wechselte",
+        "aus."
+      ]
+    },
+    {
+      "german": "Wir müssen die Batterie auswechseln.",
+      "english": "We need to replace the battery.",
+      "highlight": [
+        "auswechseln."
+      ]
+    }
+  ],
+  "forms": [
+    "wechsle aus",
+    "wechselst aus",
+    "wechselt aus",
+    "wechseln aus",
+    "ausgewechselt",
+    "wechselte aus",
+    "Auswechslung"
+  ],
+  "memoryHook": "Auswechseln: wechseln (change) something out (aus).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … aus (auswechseln)",
+      "answer": "wechselt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: wechselt … aus.",
+      "acceptedAnswers": [
+        "wechselt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (auswechseln, past)",
+      "answer": "ausgewechselt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe ausgewechselt.",
+      "acceptedAnswers": [
+        "ausgewechselt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does auswechseln mean?",
+      "options": [
+        "the door",
+        "the station",
+        "to replace"
+      ],
+      "answer": "to replace",
+      "explanation": "auswechseln: to replace; to substitute (player).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wie ausgewechselt sein means…",
+      "options": [
+        "to be a changed person",
+        "to be substituted"
+      ],
+      "answer": "to be a changed person",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Auswechselspieler is…",
+      "options": [
+        "substitute player",
+        "a referee"
+      ],
+      "answer": "substitute player",
+      "explanation": "Sub.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einwechseln means…",
+      "options": [
+        "to bring on (a player)",
+        "to change money"
+      ],
+      "answer": "to bring on (a player)",
+      "explanation": "Opposite.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Auswechseln means to replace a part (eine Glühbirne, ein Rad auswechseln) and, in sport, to substitute a player off: Er wurde in der Halbzeit ausgewechselt. Bringing a player on is einwechseln. Wie ausgewechselt sein means to be like a changed person: Nach der Pause war die Mannschaft wie ausgewechselt. Separable: wechselte aus, ausgewechselt."
+}

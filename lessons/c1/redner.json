@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Redner",
+    "partOfSpeech": "noun, masculine (der Redner)",
+    "pronunciation": {
+      "respelling": "RAYD-ner",
+      "ipa": "ˈʁeːdnɐ",
+      "notes": "Plural: die Redner."
+    },
+    "meaning": "speaker, orator",
+    "shortDefinition": "Speaker, orator."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Redner, plural die Redner.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Redner"
+        },
+        {
+          "label": "More than one",
+          "value": "die Redner"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Redner wurde mit Applaus begrüßt.",
+      "english": "The speaker was greeted with applause.",
+      "highlight": [
+        "Redner"
+      ]
+    },
+    {
+      "german": "Sie ist eine brillante Rednerin.",
+      "english": "She's a brilliant speaker.",
+      "highlight": [
+        "Rednerin."
+      ]
+    }
+  ],
+  "forms": [
+    "die Redner",
+    "der Redner",
+    "Rednerin",
+    "Rede",
+    "Rednerpult"
+  ],
+  "memoryHook": "Redner: someone who gives a Rede.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Redner",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Redner is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Redner, zwei ___",
+      "answer": "Redner",
+      "fullAnswer": "ein Redner, zwei Redner",
+      "explanation": "The plural is Redner.",
+      "acceptedAnswers": [
+        "Redner"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Redner mean?",
+      "options": [
+        "speaker",
+        "the door",
+        "to sing"
+      ],
+      "answer": "speaker",
+      "explanation": "Redner: speaker, orator.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Rednerpult is…",
+      "options": [
+        "the lectern",
+        "the audience"
+      ],
+      "answer": "the lectern",
+      "explanation": "Lectern.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Rede is…",
+      "options": [
+        "the speech",
+        "the speaker"
+      ],
+      "answer": "the speech",
+      "explanation": "Rede.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Rednerin",
+        "die Rednin"
+      ],
+      "answer": "die Rednerin",
+      "explanation": "-in.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Redner (die Rednerin) is a speaker or orator: ein guter Redner, der Gastredner (guest speaker), die Rednerliste (list of speakers) in parliament. They stand at das Rednerpult (lectern). Die Rede is a speech: eine Rede halten (to give a speech). In the Bundestag, the Bundestagspräsident calls each Redner and can cut off their microphone if they run over time. From reden (to talk)."
+}

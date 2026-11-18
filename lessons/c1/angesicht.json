@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Angesicht",
+    "partOfSpeech": "noun, neuter (das Angesicht)",
+    "pronunciation": {
+      "respelling": "AN-ge-zikht",
+      "ipa": "ˈanɡəˌzɪçt",
+      "notes": "Plural: die Angesichter."
+    },
+    "meaning": "face, countenance (literary)",
+    "shortDefinition": "Face, countenance (literary)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Angesicht, plural die Angesichter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Angesicht"
+        },
+        {
+          "label": "More than one",
+          "value": "die Angesichter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie standen sich von Angesicht zu Angesicht gegenüber.",
+      "english": "They stood face to face.",
+      "highlight": [
+        "Angesicht"
+      ]
+    },
+    {
+      "german": "Im Angesicht des Todes wurde er ruhig.",
+      "english": "In the face of death he became calm.",
+      "highlight": [
+        "Angesicht"
+      ]
+    }
+  ],
+  "forms": [
+    "Angesichter",
+    "das Angesicht",
+    "angesichts"
+  ],
+  "memoryHook": "Angesicht: the old word for Gesicht (face).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Angesicht",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Angesicht is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Angesicht, zwei ___",
+      "answer": "Angesichter",
+      "fullAnswer": "ein Angesicht, zwei Angesichter",
+      "explanation": "The plural is Angesichter.",
+      "acceptedAnswers": [
+        "Angesichter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Angesicht mean?",
+      "options": [
+        "face",
+        "the bed",
+        "to sleep"
+      ],
+      "answer": "face",
+      "explanation": "Angesicht: face, countenance (literary).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Von Angesicht zu Angesicht means…",
+      "options": [
+        "face to face",
+        "from view to view"
+      ],
+      "answer": "face to face",
+      "explanation": "Face to face.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Angesichts (+ genitive) means…",
+      "options": [
+        "in view of",
+        "in the face"
+      ],
+      "answer": "in view of",
+      "explanation": "Preposition.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "literary, biblical",
+        "everyday"
+      ],
+      "answer": "literary, biblical",
+      "explanation": "Literary.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Angesicht is a literary or biblical word for face: von Angesicht zu Angesicht (face to face), im Schweiße deines Angesichts (by the sweat of your brow, from Genesis). The everyday word is das Gesicht. Much more common is the preposition angesichts with the genitive: angesichts der Lage (in view of the situation), angesichts der hohen Preise. The plural is rare: die Angesichter."
+}

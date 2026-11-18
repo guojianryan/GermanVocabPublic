@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fernglas",
+    "partOfSpeech": "noun, neuter (das Fernglas)",
+    "pronunciation": {
+      "respelling": "FERN-glaas",
+      "ipa": "ˈfɛʁnˌɡlaːs",
+      "notes": "Plural: die Ferngläser."
+    },
+    "meaning": "binoculars",
+    "shortDefinition": "Binoculars."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Fernglas, plural die Ferngläser.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Fernglas"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ferngläser"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Mit dem Fernglas beobachten wir Vögel.",
+      "english": "We watch birds with binoculars.",
+      "highlight": [
+        "Fernglas"
+      ]
+    },
+    {
+      "german": "Er nahm das Fernglas mit auf die Bergtour.",
+      "english": "He took binoculars on the mountain hike.",
+      "highlight": [
+        "Fernglas"
+      ]
+    }
+  ],
+  "forms": [
+    "Ferngläser",
+    "das Fernglas"
+  ],
+  "memoryHook": "Fernglas: a Glas for seeing fern (far).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fernglas",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Fernglas is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Fernglas, zwei ___",
+      "answer": "Ferngläser",
+      "fullAnswer": "ein Fernglas, zwei Ferngläser",
+      "explanation": "The plural is Ferngläser.",
+      "acceptedAnswers": [
+        "Fernglaeser"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fernglas mean?",
+      "options": [
+        "the bill",
+        "binoculars",
+        "the station"
+      ],
+      "answer": "binoculars",
+      "explanation": "Fernglas: binoculars.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Number: das Fernglas is…",
+      "options": [
+        "singular (one pair of binoculars)",
+        "plural"
+      ],
+      "answer": "singular (one pair of binoculars)",
+      "explanation": "Number.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Feldstecher",
+        "das Fernrohr"
+      ],
+      "answer": "der Feldstecher",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wetzlar is famous for…",
+      "options": [
+        "optics (Leica, binoculars)",
+        "cars"
+      ],
+      "answer": "optics (Leica, binoculars)",
+      "explanation": "Optics.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Fernglas is binoculars, singular in German: ein Fernglas (one pair). A synonym is der Feldstecher. A single-tube telescope is das Fernrohr. German optics have a long tradition, with companies like Zeiss in Jena and Oberkochen and Leica in Wetzlar. From fern (far) and das Glas. Plural: die Ferngläser."
+}

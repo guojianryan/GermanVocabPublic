@@ -1,0 +1,127 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schmankerl",
+    "partOfSpeech": "noun, neuter (das Schmankerl)",
+    "pronunciation": {
+      "respelling": "SHMAN-kerl",
+      "ipa": "ˈʃmaŋkɐl",
+      "notes": "Plural: die Schmankerl."
+    },
+    "meaning": "delicacy, treat (Bavarian/Austrian)",
+    "shortDefinition": "Delicacy, treat (Bavarian/Austrian)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Schmankerl, plural die Schmankerl.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Schmankerl"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schmankerl"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Auf dem Oktoberfest gibt es viele bayerische Schmankerl.",
+      "english": "There are lots of Bavarian delicacies at the Oktoberfest.",
+      "highlight": [
+        "Schmankerl."
+      ]
+    },
+    {
+      "german": "Das Konzert hatte ein besonderes Schmankerl: einen Gastauftritt.",
+      "english": "The concert had a special treat: a guest appearance.",
+      "highlight": [
+        "Schmankerl:"
+      ]
+    }
+  ],
+  "forms": [
+    "das Schmankerl"
+  ],
+  "memoryHook": "Schmankerl: a tasty little Bavarian treat.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schmankerl",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Schmankerl is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schmankerl, zwei ___",
+      "answer": "Schmankerl",
+      "fullAnswer": "ein Schmankerl, zwei Schmankerl",
+      "explanation": "The plural is Schmankerl.",
+      "acceptedAnswers": [
+        "Schmankerl"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schmankerl mean?",
+      "options": [
+        "to sing",
+        "to sleep",
+        "delicacy"
+      ],
+      "answer": "delicacy",
+      "explanation": "Schmankerl: delicacy, treat (Bavarian/Austrian).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schmankerl is used in…",
+      "options": [
+        "Bavaria and Austria",
+        "northern Germany"
+      ],
+      "answer": "Bavaria and Austria",
+      "explanation": "Region.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, ein Schmankerl is…",
+      "options": [
+        "a special treat, highlight",
+        "a joke"
+      ],
+      "answer": "a special treat, highlight",
+      "explanation": "Figurative.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Standard synonym:",
+      "options": [
+        "die Delikatesse, der Leckerbissen",
+        "die Hauptspeise"
+      ],
+      "answer": "die Delikatesse, der Leckerbissen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Schmankerl is a Bavarian and Austrian word for a delicacy or tasty treat: bayerische Schmankerl like Obatzda, Weißwurst or Leberkäs. Figuratively, it's a special highlight: ein musikalisches Schmankerl, a little extra. The standard German equivalent is der Leckerbissen or die Delikatesse. Plural: die Schmankerl (in Austria also Schmankerln)."
+}

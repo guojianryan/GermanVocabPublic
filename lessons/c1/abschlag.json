@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Abschlag",
+    "partOfSpeech": "noun, masculine (der Abschlag)",
+    "pronunciation": {
+      "respelling": "AP-shlaak",
+      "ipa": "ˈapˌʃlaːk",
+      "notes": "Plural: die Abschläge."
+    },
+    "meaning": "discount, deduction; instalment; goal kick",
+    "shortDefinition": "Discount, deduction; instalment; goal kick."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Abschlag, plural die Abschläge.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Abschlag"
+        },
+        {
+          "label": "More than one",
+          "value": "die Abschläge"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wer früher in Rente geht, muss Abschläge hinnehmen.",
+      "english": "Those who retire early must accept reductions.",
+      "highlight": [
+        "Abschläge"
+      ]
+    },
+    {
+      "german": "Der Torwart führte den Abschlag schnell aus.",
+      "english": "The goalkeeper took the goal kick quickly.",
+      "highlight": [
+        "Abschlag"
+      ]
+    }
+  ],
+  "forms": [
+    "Abschläge",
+    "der Abschlag"
+  ],
+  "memoryHook": "Abschlag: something geschlagen (knocked) off (ab) the price.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Abschlag",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Abschlag is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Abschlag, zwei ___",
+      "answer": "Abschläge",
+      "fullAnswer": "ein Abschlag, zwei Abschläge",
+      "explanation": "The plural is Abschläge.",
+      "acceptedAnswers": [
+        "Abschlaege"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Abschlag mean?",
+      "options": [
+        "the job",
+        "the window",
+        "discount"
+      ],
+      "answer": "discount",
+      "explanation": "Abschlag: discount, deduction; instalment; goal kick.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rente mit Abschlag means…",
+      "options": [
+        "a pension with deductions for early retirement",
+        "a pension bonus"
+      ],
+      "answer": "a pension with deductions for early retirement",
+      "explanation": "Pension.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Abschlagszahlung is…",
+      "options": [
+        "an instalment, advance payment",
+        "a final payment"
+      ],
+      "answer": "an instalment, advance payment",
+      "explanation": "Payment.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Zuschlag is…",
+      "options": [
+        "surcharge; award of contract",
+        "a deduction"
+      ],
+      "answer": "surcharge; award of contract",
+      "explanation": "Contrast.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Abschlag has several meanings: a deduction or discount, as in Rente mit Abschlägen (0.3 percent less per month of early retirement), a monthly instalment (die Abschlagszahlung for electricity or gas), a goalkeeper's kick, and in golf the tee shot. The opposite of a deduction is der Zuschlag (surcharge). Plural: die Abschläge."
+}

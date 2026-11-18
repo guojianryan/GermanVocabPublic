@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Strafrecht",
+    "partOfSpeech": "noun, neuter (das Strafrecht)",
+    "pronunciation": {
+      "respelling": "SHTRAAF-rekht",
+      "ipa": "ˈʃtʁaːfˌʁɛçt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "criminal law",
+    "shortDefinition": "Criminal law."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Strafrecht, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Strafrecht"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie ist Anwältin für Strafrecht.",
+      "english": "She's a criminal lawyer.",
+      "highlight": [
+        "Strafrecht."
+      ]
+    },
+    {
+      "german": "Das fällt unter das Strafrecht.",
+      "english": "That falls under criminal law.",
+      "highlight": [
+        "Strafrecht."
+      ]
+    }
+  ],
+  "forms": [
+    "das Strafrecht",
+    "strafrechtlich",
+    "Strafgesetzbuch"
+  ],
+  "memoryHook": "Strafrecht: the law (Recht) of punishment (Strafe).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Strafrecht",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Strafrecht is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Strafrecht mean?",
+      "options": [
+        "to sing",
+        "criminal law",
+        "the station"
+      ],
+      "answer": "criminal law",
+      "explanation": "Strafrecht: criminal law.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's criminal code is…",
+      "options": [
+        "das Strafgesetzbuch (StGB)",
+        "das BGB"
+      ],
+      "answer": "das Strafgesetzbuch (StGB)",
+      "explanation": "StGB.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Civil law is…",
+      "options": [
+        "das Zivilrecht",
+        "das Bürgerrecht"
+      ],
+      "answer": "das Zivilrecht",
+      "explanation": "Civil.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Strafrechtlich verfolgt means…",
+      "options": [
+        "prosecuted",
+        "fined only"
+      ],
+      "answer": "prosecuted",
+      "explanation": "Prosecuted.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Strafrecht is criminal law, mainly set out in the Strafgesetzbuch (StGB) from 1871, much amended. The opposite field is das Zivilrecht (civil law, in the BGB). Strafrechtlich verfolgt werden means to be prosecuted; ein Strafverteidiger is a criminal defence lawyer, and der Staatsanwalt the prosecutor. Germany has no jury trials; professional judges sit with lay judges (Schöffen). It has no plural."
+}

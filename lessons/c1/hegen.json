@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "hegen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "HAY-gen",
+      "ipa": "ˈheːɡn̩",
+      "notes": ""
+    },
+    "meaning": "to harbour (feelings); to tend, nurture",
+    "shortDefinition": "To harbour (feelings); to tend, nurture."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "heg|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "heg|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "heg|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "heg|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "heg|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "heg|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gehegt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich hege keinen Groll gegen ihn.",
+      "english": "I bear no grudge against him.",
+      "highlight": [
+        "hege"
+      ]
+    },
+    {
+      "german": "Sie hegte schon lange einen Verdacht.",
+      "english": "She had long harboured a suspicion.",
+      "highlight": [
+        "hegte"
+      ]
+    }
+  ],
+  "forms": [
+    "hege",
+    "hegst",
+    "hegt",
+    "hegen",
+    "gehegt",
+    "hegte"
+  ],
+  "memoryHook": "Hegen: keep within a hedge (Hag), protect.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (hegen)",
+      "answer": "hegt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: hegt.",
+      "acceptedAnswers": [
+        "hegt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (hegen, past)",
+      "answer": "gehegt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gehegt.",
+      "acceptedAnswers": [
+        "gehegt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does hegen mean?",
+      "options": [
+        "to harbour (feelings)",
+        "always",
+        "the weather"
+      ],
+      "answer": "to harbour (feelings)",
+      "explanation": "hegen: to harbour (feelings); to tend, nurture.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zweifel hegen means…",
+      "options": [
+        "to have doubts",
+        "to hide doubts"
+      ],
+      "answer": "to have doubts",
+      "explanation": "Harbour.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hegen und pflegen means…",
+      "options": [
+        "to lovingly look after",
+        "to hunt and fish"
+      ],
+      "answer": "to lovingly look after",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Hege (hunting) is…",
+      "options": [
+        "game management",
+        "a hedge"
+      ],
+      "answer": "game management",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Hegen means to harbour feelings: Zweifel, einen Verdacht, Hoffnungen, einen Groll hegen. It's formal. Hegen und pflegen means to look after lovingly: Er hegt und pflegt sein Auto. In hunting, die Hege is game management, and das Gehege is an enclosure in a zoo. Related to der Hag (old word for hedge). Regular: hegte, gehegt."
+}

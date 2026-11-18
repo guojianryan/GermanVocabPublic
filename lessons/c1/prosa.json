@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Prosa",
+    "partOfSpeech": "noun, feminine (die Prosa)",
+    "pronunciation": {
+      "respelling": "PROH-za",
+      "ipa": "ˈpʁoːza",
+      "notes": "Usually no plural."
+    },
+    "meaning": "prose",
+    "shortDefinition": "Prose."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Prosa, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Prosa"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er schreibt Gedichte und Prosa.",
+      "english": "He writes poems and prose.",
+      "highlight": [
+        "Prosa."
+      ]
+    },
+    {
+      "german": "Kafkas Prosa ist klar und rätselhaft zugleich.",
+      "english": "Kafka's prose is clear and enigmatic at the same time.",
+      "highlight": [
+        "Prosa"
+      ]
+    }
+  ],
+  "forms": [
+    "die Prosa",
+    "prosaisch"
+  ],
+  "memoryHook": "Prosa: straightforward (Latin prosa oratio) writing.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Prosa",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Prosa is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Prosa mean?",
+      "options": [
+        "prose",
+        "never",
+        "hot"
+      ],
+      "answer": "prose",
+      "explanation": "Prosa: prose.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Prosaisch means…",
+      "options": [
+        "prosaic, matter-of-fact",
+        "poetic"
+      ],
+      "answer": "prosaic, matter-of-fact",
+      "explanation": "Adjective.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite of Prosa is…",
+      "options": [
+        "die Lyrik / Poesie",
+        "der Roman"
+      ],
+      "answer": "die Lyrik / Poesie",
+      "explanation": "Poetry.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "die Prosa",
+        "das Prosa"
+      ],
+      "answer": "die Prosa",
+      "explanation": "Feminine.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Prosa is prose, writing without verse: Romane, Erzählungen, Kurzgeschichten. The opposite is die Lyrik (poetry) or Poesie. Kafka, Thomas Mann and Christa Wolf are masters of German prose. Prosaisch means prosaic or matter-of-fact: eine prosaische Erklärung. German school literature divides texts into Lyrik, Epik (narrative) and Dramatik. It has no plural."
+}

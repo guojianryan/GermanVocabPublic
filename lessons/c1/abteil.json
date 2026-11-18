@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Abteil",
+    "partOfSpeech": "noun, neuter (das Abteil)",
+    "pronunciation": {
+      "respelling": "AP-tail",
+      "ipa": "ˈapˌtaɪ̯l",
+      "notes": "Plural: die Abteile."
+    },
+    "meaning": "compartment",
+    "shortDefinition": "Compartment."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Abteil, plural die Abteile.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Abteil"
+        },
+        {
+          "label": "More than one",
+          "value": "die Abteile"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir hatten ein Abteil für uns allein.",
+      "english": "We had a compartment to ourselves.",
+      "highlight": [
+        "Abteil"
+      ]
+    },
+    {
+      "german": "Ist in diesem Abteil noch ein Platz frei?",
+      "english": "Is there a free seat in this compartment?",
+      "highlight": [
+        "Abteil"
+      ]
+    }
+  ],
+  "forms": [
+    "Abteile",
+    "das Abteil"
+  ],
+  "memoryHook": "Abteil: a part (Teil) divided off (ab).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Abteil",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Abteil is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Abteil, zwei ___",
+      "answer": "Abteile",
+      "fullAnswer": "ein Abteil, zwei Abteile",
+      "explanation": "The plural is Abteile.",
+      "acceptedAnswers": [
+        "Abteile"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Abteil mean?",
+      "options": [
+        "the bread",
+        "the key",
+        "compartment"
+      ],
+      "answer": "compartment",
+      "explanation": "Abteil: compartment.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Großraumwagen is…",
+      "options": [
+        "open-plan carriage",
+        "a big car"
+      ],
+      "answer": "open-plan carriage",
+      "explanation": "Contrast.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Ruheabteil is…",
+      "options": [
+        "quiet compartment/zone",
+        "a sleeping car"
+      ],
+      "answer": "quiet compartment/zone",
+      "explanation": "Quiet.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Abteilen means…",
+      "options": [
+        "to divide off, partition",
+        "to depart"
+      ],
+      "answer": "to divide off, partition",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Abteil is a train compartment, usually six seats behind a sliding door. Many German trains now have open-plan Großraumwagen, though ICEs often still have some Abteile. The Ruhebereich (quiet zone) asks passengers not to make phone calls. Night trains have Schlafwagenabteile and Liegewagen (couchettes). From abteilen (to partition), related to die Abteilung (department). Plural: die Abteile."
+}

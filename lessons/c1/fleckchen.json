@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fleckchen",
+    "partOfSpeech": "noun, neuter (das Fleckchen)",
+    "pronunciation": {
+      "respelling": "FLEK-khen",
+      "ipa": "ˈflɛkçən",
+      "notes": "Plural: die Fleckchen."
+    },
+    "meaning": "little spot, patch (of land)",
+    "shortDefinition": "Little spot, patch (of land)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Fleckchen, plural die Fleckchen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Fleckchen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Fleckchen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das ist ein schönes Fleckchen Erde.",
+      "english": "That's a lovely little spot.",
+      "highlight": [
+        "Fleckchen"
+      ]
+    },
+    {
+      "german": "Auf dem Hemd war ein kleines Fleckchen.",
+      "english": "There was a small spot on the shirt.",
+      "highlight": [
+        "Fleckchen."
+      ]
+    }
+  ],
+  "forms": [
+    "das Fleckchen",
+    "Fleckchens"
+  ],
+  "memoryHook": "Fleckchen: a small (-chen) Fleck.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fleckchen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Fleckchen is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Fleckchen, zwei ___",
+      "answer": "Fleckchen",
+      "fullAnswer": "ein Fleckchen, zwei Fleckchen",
+      "explanation": "The plural is Fleckchen.",
+      "acceptedAnswers": [
+        "Fleckchen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fleckchen mean?",
+      "options": [
+        "little spot",
+        "never",
+        "the car"
+      ],
+      "answer": "little spot",
+      "explanation": "Fleckchen: little spot, patch (of land).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein schönes Fleckchen Erde is…",
+      "options": [
+        "a beautiful little place",
+        "a patch of soil"
+      ],
+      "answer": "a beautiful little place",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Fleck is…",
+      "options": [
+        "stain, spot; place",
+        "a fleck of paint only"
+      ],
+      "answer": "stain, spot; place",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "-chen makes nouns…",
+      "options": [
+        "diminutive and neuter",
+        "plural"
+      ],
+      "answer": "diminutive and neuter",
+      "explanation": "Grammar.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Fleckchen is a little spot or patch, a diminutive of der Fleck. The idiom ein schönes Fleckchen Erde means a lovely little place, beloved of travel writing. Der Fleck means stain or spot and also place: nicht vom Fleck kommen (to make no progress), am falschen Fleck. The suffix -chen makes nouns neuter. The plural is the same."
+}

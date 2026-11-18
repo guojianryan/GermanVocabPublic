@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "erahnen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "er-AA-nen",
+      "ipa": "ɛɐ̯ˈʔaːnən",
+      "notes": ""
+    },
+    "meaning": "to guess, sense, divine",
+    "shortDefinition": "To guess, sense, divine."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "erahn|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "erahn|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "erahn|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "erahn|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "erahn|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "erahn|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat erahnt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Man kann die Umrisse der Burg im Nebel erahnen.",
+      "english": "You can just make out the castle's outline in the mist.",
+      "highlight": [
+        "erahnen."
+      ]
+    },
+    {
+      "german": "Niemand konnte die Folgen erahnen.",
+      "english": "No one could have foreseen the consequences.",
+      "highlight": [
+        "erahnen."
+      ]
+    }
+  ],
+  "forms": [
+    "erahne",
+    "erahnst",
+    "erahnt",
+    "erahnen"
+  ],
+  "memoryHook": "Erahnen: get (er-) a sense (Ahnung) of something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (erahnen)",
+      "answer": "erahnt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: erahnt.",
+      "acceptedAnswers": [
+        "erahnt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (erahnen, past)",
+      "answer": "erahnt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe erahnt.",
+      "acceptedAnswers": [
+        "erahnt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does erahnen mean?",
+      "options": [
+        "cheap",
+        "to guess",
+        "to wait"
+      ],
+      "answer": "to guess",
+      "explanation": "erahnen: to guess, sense, divine.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ahnen means…",
+      "options": [
+        "to suspect, sense",
+        "to ignore"
+      ],
+      "answer": "to suspect, sense",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Ahnung is…",
+      "options": [
+        "idea, inkling, hunch",
+        "an ancestor"
+      ],
+      "answer": "idea, inkling, hunch",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Keine Ahnung! means…",
+      "options": [
+        "No idea!",
+        "No warning!"
+      ],
+      "answer": "No idea!",
+      "explanation": "Phrase.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Erahnen means to sense, guess or just make out something not fully visible: Umrisse erahnen, das Ausmaß erahnen. It's a bit literary. The root ahnen means to suspect or sense: Ich ahnte nichts Gutes. Die Ahnung is a hunch: Keine Ahnung! (no idea), one of the most common German phrases. Die Ahnen (plural) are ancestors. Not separable: hat erahnt."
+}

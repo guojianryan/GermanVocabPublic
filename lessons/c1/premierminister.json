@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Premierminister",
+    "partOfSpeech": "noun, masculine (der Premierminister)",
+    "pronunciation": {
+      "respelling": "pre-MYAY-mi-nis-ter",
+      "ipa": "pʁəˈmi̯eːmiˌnɪstɐ",
+      "notes": "Plural: die Premierminister."
+    },
+    "meaning": "prime minister",
+    "shortDefinition": "Prime minister."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Premierminister, plural die Premierminister.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Premierminister"
+        },
+        {
+          "label": "More than one",
+          "value": "die Premierminister"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der britische Premierminister trat zurück.",
+      "english": "The British prime minister resigned.",
+      "highlight": [
+        "Premierminister"
+      ]
+    },
+    {
+      "german": "Sie wurde zur Premierministerin gewählt.",
+      "english": "She was elected prime minister.",
+      "highlight": [
+        "Premierministerin"
+      ]
+    }
+  ],
+  "forms": [
+    "die Premierminister",
+    "der Premierminister",
+    "Premierministerin"
+  ],
+  "memoryHook": "Premierminister: other countries have them; Germany has a Kanzler.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Premierminister",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Premierminister is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Premierminister, zwei ___",
+      "answer": "Premierminister",
+      "fullAnswer": "ein Premierminister, zwei Premierminister",
+      "explanation": "The plural is Premierminister.",
+      "acceptedAnswers": [
+        "Premierminister"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Premierminister mean?",
+      "options": [
+        "to travel",
+        "prime minister",
+        "the window"
+      ],
+      "answer": "prime minister",
+      "explanation": "Premierminister: prime minister.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's head of government is…",
+      "options": [
+        "der Bundeskanzler",
+        "der Premierminister"
+      ],
+      "answer": "der Bundeskanzler",
+      "explanation": "Kanzler.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Premier- is pronounced…",
+      "options": [
+        "the French way: pre-MYAY",
+        "PRE-mee-er"
+      ],
+      "answer": "the French way: pre-MYAY",
+      "explanation": "French.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Ministerpräsident",
+        "der Bürgermeister"
+      ],
+      "answer": "der Ministerpräsident",
+      "explanation": "Also used for some countries.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Premierminister (die Premierministerin) is a prime minister, used for countries such as the UK, Canada or India. Germany's head of government is der Bundeskanzler instead, and the heads of the German Länder are called Ministerpräsident. For some countries, such as Israel or Italy, German media often say Ministerpräsident too. The first part is French, so it's pronounced pre-MYAY. The plural stays the same."
+}

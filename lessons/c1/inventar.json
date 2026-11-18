@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Inventar",
+    "partOfSpeech": "noun, neuter (das Inventar)",
+    "pronunciation": {
+      "respelling": "in-ven-TAAR",
+      "ipa": "ɪnvɛnˈtaːɐ̯",
+      "notes": "Plural: die Inventare."
+    },
+    "meaning": "inventory; fixtures and fittings",
+    "shortDefinition": "Inventory; fixtures and fittings."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Inventar, plural die Inventare.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Inventar"
+        },
+        {
+          "label": "More than one",
+          "value": "die Inventare"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Inventar ist im Kaufpreis enthalten.",
+      "english": "The fixtures and fittings are included in the price.",
+      "highlight": [
+        "Inventar"
+      ]
+    },
+    {
+      "german": "Er gehört schon zum Inventar.",
+      "english": "He's part of the furniture.",
+      "highlight": [
+        "Inventar."
+      ]
+    }
+  ],
+  "forms": [
+    "Inventare",
+    "das Inventar",
+    "Inventur"
+  ],
+  "memoryHook": "Inventar: everything found (invenire) in a place.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Inventar",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Inventar is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Inventar, zwei ___",
+      "answer": "Inventare",
+      "fullAnswer": "ein Inventar, zwei Inventare",
+      "explanation": "The plural is Inventare.",
+      "acceptedAnswers": [
+        "Inventare"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Inventar mean?",
+      "options": [
+        "the evening",
+        "inventory",
+        "to sleep"
+      ],
+      "answer": "inventory",
+      "explanation": "Inventar: inventory; fixtures and fittings.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zum Inventar gehören (figurative) means…",
+      "options": [
+        "to be part of the furniture",
+        "to be for sale"
+      ],
+      "answer": "to be part of the furniture",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Inventur is…",
+      "options": [
+        "stocktaking",
+        "invention"
+      ],
+      "answer": "stocktaking",
+      "explanation": "Stocktaking.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "An invention is…",
+      "options": [
+        "die Erfindung",
+        "das Inventar"
+      ],
+      "answer": "die Erfindung",
+      "explanation": "False friend.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Inventar is the inventory, the furniture and equipment of a house, office or business: das Inventar einer Gaststätte, das Inventar übernehmen. Humorously, zum Inventar gehören means to be part of the furniture, someone who has been somewhere forever. Die Inventur is stocktaking: Wegen Inventur geschlossen. An invention is die Erfindung. Plural: die Inventare."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bundesversammlung",
+    "partOfSpeech": "noun, feminine (die Bundesversammlung)",
+    "pronunciation": {
+      "respelling": "BUN-des-fer-zam-lung",
+      "ipa": "ˈbʊndəsfɛɐ̯ˌzamlʊŋ",
+      "notes": "Plural: die Bundesversammlungen."
+    },
+    "meaning": "Federal Convention (elects the President)",
+    "shortDefinition": "Federal Convention (elects the President)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Bundesversammlung, plural die Bundesversammlungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Bundesversammlung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bundesversammlungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Bundesversammlung wählt den Bundespräsidenten.",
+      "english": "The Federal Convention elects the Federal President.",
+      "highlight": [
+        "Bundesversammlung"
+      ]
+    },
+    {
+      "german": "Die Bundesversammlung tritt alle fünf Jahre zusammen.",
+      "english": "The Federal Convention meets every five years.",
+      "highlight": [
+        "Bundesversammlung"
+      ]
+    }
+  ],
+  "forms": [
+    "Bundesversammlungen",
+    "die Bundesversammlung"
+  ],
+  "memoryHook": "Bundesversammlung: the Versammlung (assembly) of the Bund.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bundesversammlung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Bundesversammlung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bundesversammlung, zwei ___",
+      "answer": "Bundesversammlungen",
+      "fullAnswer": "ein Bundesversammlung, zwei Bundesversammlungen",
+      "explanation": "The plural is Bundesversammlungen.",
+      "acceptedAnswers": [
+        "Bundesversammlungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bundesversammlung mean?",
+      "options": [
+        "cheap",
+        "Federal Convention (elects the President)",
+        "to buy"
+      ],
+      "answer": "Federal Convention (elects the President)",
+      "explanation": "Bundesversammlung: Federal Convention (elects the President).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Bundesversammlung consists of…",
+      "options": [
+        "Bundestag members and as many state delegates",
+        "all citizens"
+      ],
+      "answer": "Bundestag members and as many state delegates",
+      "explanation": "Members.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "It meets…",
+      "options": [
+        "usually every five years",
+        "every year"
+      ],
+      "answer": "usually every five years",
+      "explanation": "Frequency.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Switzerland, the Bundesversammlung is…",
+      "options": [
+        "the federal parliament",
+        "the president"
+      ],
+      "answer": "the federal parliament",
+      "explanation": "Switzerland.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Bundesversammlung is Germany's Federal Convention, whose only job is to elect the Bundespräsident, usually every five years. It consists of all members of the Bundestag plus the same number of delegates chosen by the state parliaments, sometimes including celebrities. It meets in the Reichstag building in Berlin. In Switzerland, die Bundesversammlung is the federal parliament. Plural: die Bundesversammlungen."
+}

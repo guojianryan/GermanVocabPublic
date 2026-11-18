@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "meistern",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "MAI-stern",
+      "ipa": "ˈmaɪ̯stɐn",
+      "notes": ""
+    },
+    "meaning": "to master, cope with",
+    "shortDefinition": "To master, cope with."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "meister|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "meister|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "meister|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "meister|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "meister|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "meister|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gemeistert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie hat die Prüfung souverän gemeistert.",
+      "english": "She mastered the exam with ease.",
+      "highlight": [
+        "gemeistert."
+      ]
+    },
+    {
+      "german": "Wir werden auch diese Krise meistern.",
+      "english": "We'll get through this crisis too.",
+      "highlight": [
+        "meistern."
+      ]
+    }
+  ],
+  "forms": [
+    "meistere",
+    "meisterst",
+    "meistert",
+    "meistern",
+    "gemeistert",
+    "Meister"
+  ],
+  "memoryHook": "Meistern: handle something like a Meister.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (meistern)",
+      "answer": "meistert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: meistert.",
+      "acceptedAnswers": [
+        "meistert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (meistern, past)",
+      "answer": "gemeistert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gemeistert.",
+      "acceptedAnswers": [
+        "gemeistert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does meistern mean?",
+      "options": [
+        "tomorrow",
+        "to master",
+        "to sing"
+      ],
+      "answer": "to master",
+      "explanation": "meistern: to master, cope with.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Herausforderung meistern means…",
+      "options": [
+        "to master a challenge",
+        "to avoid a challenge"
+      ],
+      "answer": "to master a challenge",
+      "explanation": "Master.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Meister is…",
+      "options": [
+        "master craftsman; champion",
+        "only a teacher"
+      ],
+      "answer": "master craftsman; champion",
+      "explanation": "Meister.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Meisterschaft is…",
+      "options": [
+        "championship",
+        "mastery only"
+      ],
+      "answer": "championship",
+      "explanation": "Championship.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Meistern means to master or cope with something difficult: eine Aufgabe meistern, das Leben meistern, eine schwierige Situation meistern. It's positive and a bit formal. Der Meister is a master craftsman, and the German Meisterbrief (master craftsman's certificate) is needed to run many trades; Meister also means champion: deutscher Meister. Es ist noch kein Meister vom Himmel gefallen means practice makes perfect."
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "(sich) zerstreiten",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "tser-SHTRAI-ten",
+      "ipa": "t͡sɛɐ̯ˈʃtʁaɪ̯tn̩",
+      "notes": ""
+    },
+    "meaning": "to fall out",
+    "shortDefinition": "To fall out."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "zerstreit|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "zerstreit|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "zerstreit|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "zerstreit|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "zerstreit|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "zerstreit|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat zerstritten"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Brüder haben sich wegen des Erbes zerstritten.",
+      "english": "The brothers fell out over the inheritance.",
+      "highlight": [
+        "zerstritten."
+      ]
+    },
+    {
+      "german": "Die Koalition ist heillos zerstritten.",
+      "english": "The coalition is hopelessly divided.",
+      "highlight": [
+        "zerstritten."
+      ]
+    }
+  ],
+  "forms": [
+    "zerstreite",
+    "zerstreitest",
+    "zerstreitet",
+    "zerstreiten",
+    "zerstritten",
+    "zerstritt"
+  ],
+  "memoryHook": "Zerstreiten: streiten (argue) until things break apart (zer-).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ ((sich) zerstreiten)",
+      "answer": "zerstreitet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: zerstreitet.",
+      "acceptedAnswers": [
+        "zerstreitet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe mich schon ___. ((sich) zerstreiten, past)",
+      "answer": "zerstritten",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe mich zerstritten.",
+      "acceptedAnswers": [
+        "zerstritten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does (sich) zerstreiten mean?",
+      "options": [
+        "to fall out",
+        "slowly",
+        "to travel"
+      ],
+      "answer": "to fall out",
+      "explanation": "(sich) zerstreiten: to fall out.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zerstritten (adjective) means…",
+      "options": [
+        "at odds, divided",
+        "destroyed"
+      ],
+      "answer": "at odds, divided",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zer- as a prefix means…",
+      "options": [
+        "apart, to pieces",
+        "very"
+      ],
+      "answer": "apart, to pieces",
+      "explanation": "Prefix.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "zerstritt, zerstritten",
+        "zerstreitete"
+      ],
+      "answer": "zerstritt, zerstritten",
+      "explanation": "Irregular.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Sich zerstreiten means to fall out: Sie haben sich wegen Geld zerstritten. The participle zerstritten is common as an adjective: eine zerstrittene Familie, Partei, heillos zerstritten (hopelessly divided). The prefix zer- means to pieces, as in zerbrechen. Synonyms: sich entzweien, sich verkrachen (colloquial). Irregular like streiten: zerstritt, zerstritten."
+}

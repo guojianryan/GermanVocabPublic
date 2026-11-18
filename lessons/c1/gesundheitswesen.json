@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gesundheitswesen",
+    "partOfSpeech": "noun, neuter (das Gesundheitswesen)",
+    "pronunciation": {
+      "respelling": "ge-ZUNT-haits-vay-zen",
+      "ipa": "ɡəˈzʊnthaɪ̯t͡sˌveːzn̩",
+      "notes": "Usually no plural."
+    },
+    "meaning": "health care system",
+    "shortDefinition": "Health care system."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Gesundheitswesen, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Gesundheitswesen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das deutsche Gesundheitswesen ist teuer.",
+      "english": "The German health care system is expensive.",
+      "highlight": [
+        "Gesundheitswesen"
+      ]
+    },
+    {
+      "german": "Im Gesundheitswesen fehlen Fachkräfte.",
+      "english": "There's a shortage of skilled staff in health care.",
+      "highlight": [
+        "Gesundheitswesen"
+      ]
+    }
+  ],
+  "forms": [
+    "das Gesundheitswesen"
+  ],
+  "memoryHook": "Gesundheitswesen: the whole Wesen (system) of Gesundheit.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gesundheitswesen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Gesundheitswesen is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gesundheitswesen mean?",
+      "options": [
+        "health care system",
+        "expensive",
+        "hot"
+      ],
+      "answer": "health care system",
+      "explanation": "Gesundheitswesen: health care system.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das -wesen suffix here means…",
+      "options": [
+        "system, sector",
+        "creature"
+      ],
+      "answer": "system, sector",
+      "explanation": "Sector.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's health insurance is mainly…",
+      "options": [
+        "statutory (gesetzlich) with private options",
+        "fully private"
+      ],
+      "answer": "statutory (gesetzlich) with private options",
+      "explanation": "Two systems.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Similar compound:",
+      "options": [
+        "das Bildungswesen",
+        "das Lebewesen"
+      ],
+      "answer": "das Bildungswesen",
+      "explanation": "Education system.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Gesundheitswesen is the health care system. Germany's is one of the oldest, going back to Bismarck's health insurance law of 1883. About 90 percent of people are in a gesetzliche Krankenversicherung (statutory insurance, like AOK or TK), and the rest are privat versichert. The suffix -wesen means system or sector: das Bildungswesen (education), das Finanzwesen, das Schulwesen. On its own, das Wesen means a being or nature."
+}

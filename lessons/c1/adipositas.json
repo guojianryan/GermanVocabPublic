@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Adipositas",
+    "partOfSpeech": "noun, feminine (die Adipositas)",
+    "pronunciation": {
+      "respelling": "a-di-PO-zi-tas",
+      "ipa": "adiˈpoːzitas",
+      "notes": "Usually no plural."
+    },
+    "meaning": "obesity",
+    "shortDefinition": "Obesity."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Adipositas, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Adipositas"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Adipositas erhöht das Risiko für Diabetes.",
+      "english": "Obesity increases the risk of diabetes.",
+      "highlight": [
+        "Adipositas"
+      ]
+    },
+    {
+      "german": "Immer mehr Kinder leiden an Adipositas.",
+      "english": "More and more children suffer from obesity.",
+      "highlight": [
+        "Adipositas."
+      ]
+    }
+  ],
+  "forms": [
+    "die Adipositas",
+    "adipös"
+  ],
+  "memoryHook": "Adipositas: from Latin adeps (fat).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Adipositas",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Adipositas is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Adipositas mean?",
+      "options": [
+        "the window",
+        "obesity",
+        "the station"
+      ],
+      "answer": "obesity",
+      "explanation": "Adipositas: obesity.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Adipositas is defined as…",
+      "options": [
+        "a BMI of 30 or more",
+        "a BMI over 20"
+      ],
+      "answer": "a BMI of 30 or more",
+      "explanation": "Definition.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday word:",
+      "options": [
+        "das Übergewicht, die Fettleibigkeit",
+        "die Magersucht"
+      ],
+      "answer": "das Übergewicht, die Fettleibigkeit",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Adipös means…",
+      "options": [
+        "obese",
+        "adopted"
+      ],
+      "answer": "obese",
+      "explanation": "Adjective.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Adipositas is the medical term for obesity, a BMI of 30 or more; about one in five adults in Germany is affected. Everyday words are die Fettleibigkeit or starkes Übergewicht. Adipös means obese. Doctors increasingly treat it as a chronic disease, and new weight-loss drugs have changed the debate. It has no plural."
+}

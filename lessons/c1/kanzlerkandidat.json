@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kanzlerkandidat",
+    "partOfSpeech": "noun, masculine (der Kanzlerkandidat)",
+    "pronunciation": {
+      "respelling": "KANTS-ler-kan-di-daat",
+      "ipa": "ˈkant͡slɐkandiˌdaːt",
+      "notes": "Plural: die Kanzlerkandidaten."
+    },
+    "meaning": "candidate for chancellor",
+    "shortDefinition": "Candidate for chancellor."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kanzlerkandidat, plural die Kanzlerkandidaten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kanzlerkandidat"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kanzlerkandidaten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Partei hat ihren Kanzlerkandidaten nominiert.",
+      "english": "The party has nominated its candidate for chancellor.",
+      "highlight": [
+        "Kanzlerkandidaten"
+      ]
+    },
+    {
+      "german": "Wer wird Kanzlerkandidatin?",
+      "english": "Who will be the candidate for chancellor?",
+      "highlight": [
+        "Kanzlerkandidatin?"
+      ]
+    }
+  ],
+  "forms": [
+    "Kanzlerkandidaten",
+    "Kanzlerkandidatin",
+    "der Kanzlerkandidat"
+  ],
+  "memoryHook": "Kanzlerkandidat: a Kandidat for Kanzler.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kanzlerkandidat",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kanzlerkandidat is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kanzlerkandidat, zwei ___",
+      "answer": "Kanzlerkandidaten",
+      "fullAnswer": "ein Kanzlerkandidat, zwei Kanzlerkandidaten",
+      "explanation": "The plural is Kanzlerkandidaten.",
+      "acceptedAnswers": [
+        "Kanzlerkandidaten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kanzlerkandidat mean?",
+      "options": [
+        "candidate for chancellor",
+        "to help",
+        "the family"
+      ],
+      "answer": "candidate for chancellor",
+      "explanation": "Kanzlerkandidat: candidate for chancellor.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Is the chancellor directly elected?",
+      "options": [
+        "no, elected by the Bundestag",
+        "yes, by the people"
+      ],
+      "answer": "no, elected by the Bundestag",
+      "explanation": "Politics.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Kanzlerkandidaten (weak noun)",
+        "die Kanzlerkandidate"
+      ],
+      "answer": "die Kanzlerkandidaten (weak noun)",
+      "explanation": "Grammar.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die K-Frage is…",
+      "options": [
+        "the question of who will run for chancellor",
+        "a quiz"
+      ],
+      "answer": "the question of who will run for chancellor",
+      "explanation": "Politics.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Kanzlerkandidat or die Kanzlerkandidatin is a party's candidate for chancellor. Legally, voters elect the Bundestag, which then elects the chancellor, but the main parties name candidates who lead their campaigns. The debate over who will run is called die K-Frage. It's a weak noun: den, dem, des Kanzlerkandidaten. Plural: die Kanzlerkandidaten."
+}

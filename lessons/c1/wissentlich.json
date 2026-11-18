@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "wissentlich",
+    "partOfSpeech": "adjective / adverb",
+    "pronunciation": {
+      "respelling": "VI-sent-likh",
+      "ipa": "ˈvɪsn̩tlɪç",
+      "notes": ""
+    },
+    "meaning": "knowing(ly), deliberate(ly)",
+    "shortDefinition": "Knowing(ly), deliberate(ly)."
+  },
+  "sampleSentences": [
+    {
+      "german": "Er hat wissentlich falsche Angaben gemacht.",
+      "english": "He knowingly gave false information.",
+      "highlight": [
+        "wissentlich"
+      ]
+    },
+    {
+      "german": "Das war eine wissentliche Täuschung.",
+      "english": "That was a deliberate deception.",
+      "highlight": [
+        "wissentliche"
+      ]
+    }
+  ],
+  "forms": [
+    "wissentliche",
+    "wissentlichen"
+  ],
+  "memoryHook": "Wissentlich: with full Wissen (knowledge).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does wissentlich mean?",
+      "options": [
+        "knowing(ly)",
+        "expensive",
+        "hot"
+      ],
+      "answer": "knowing(ly)",
+      "explanation": "wissentlich: knowing(ly), deliberate(ly).",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wissentlich means…",
+      "options": [
+        "knowingly, deliberately",
+        "scientifically"
+      ],
+      "answer": "knowingly, deliberately",
+      "explanation": "Knowingly.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wissenschaftlich means…",
+      "options": [
+        "scientific",
+        "knowingly"
+      ],
+      "answer": "scientific",
+      "explanation": "Contrast.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unwissentlich means…",
+      "options": [
+        "unknowingly",
+        "unscientific"
+      ],
+      "answer": "unknowingly",
+      "explanation": "Opposite.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Falschaussage (deliberate)",
+      "answer": "wissentliche",
+      "fullAnswer": "eine wissentliche Falschaussage",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Wissentlich means knowingly or deliberately: wissentlich lügen, eine wissentliche Falschaussage. It's common in legal contexts, where wissentlich means acting with knowledge of the facts, close to vorsätzlich (intentionally). Unwissentlich means unknowingly. Don't confuse it with wissenschaftlich (scientific). From das Wissen (knowledge)."
+}

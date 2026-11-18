@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Raststätte",
+    "partOfSpeech": "noun, feminine (die Raststätte)",
+    "pronunciation": {
+      "respelling": "RAST-shte-te",
+      "ipa": "ˈʁastˌʃtɛtə",
+      "notes": "Plural: die Raststätten."
+    },
+    "meaning": "motorway service station",
+    "shortDefinition": "Motorway service station."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Raststätte, plural die Raststätten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Raststätte"
+        },
+        {
+          "label": "More than one",
+          "value": "die Raststätten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir machen an der nächsten Raststätte Pause.",
+      "english": "We'll take a break at the next service station.",
+      "highlight": [
+        "Raststätte"
+      ]
+    },
+    {
+      "german": "Die Preise an der Raststätte sind hoch.",
+      "english": "Prices at the motorway services are high.",
+      "highlight": [
+        "Raststätte"
+      ]
+    }
+  ],
+  "forms": [
+    "Raststätten",
+    "die Raststätte"
+  ],
+  "memoryHook": "Raststätte: a Stätte (place) to rasten (rest).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Raststätte",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Raststätte is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Raststätte, zwei ___",
+      "answer": "Raststätten",
+      "fullAnswer": "ein Raststätte, zwei Raststätten",
+      "explanation": "The plural is Raststätten.",
+      "acceptedAnswers": [
+        "Raststaetten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Raststätte mean?",
+      "options": [
+        "motorway service station",
+        "the bill",
+        "the shop"
+      ],
+      "answer": "motorway service station",
+      "explanation": "Raststätte: motorway service station.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Rastplatz is…",
+      "options": [
+        "a simple lay-by (parking, maybe toilets)",
+        "a hotel"
+      ],
+      "answer": "a simple lay-by (parking, maybe toilets)",
+      "explanation": "Contrast.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Autohof is…",
+      "options": [
+        "a truck stop near the motorway exit",
+        "a car park"
+      ],
+      "answer": "a truck stop near the motorway exit",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rasten means…",
+      "options": [
+        "to rest (on a journey)",
+        "to race"
+      ],
+      "answer": "to rest (on a journey)",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Raststätte is a motorway service station with petrol, restaurant, shop and toilets, directly on the Autobahn. Most are run by one company, Tank & Rast, and toilets charge a fee with a voucher. A simpler Rastplatz (lay-by) may have only parking and toilets, while an Autohof just off the exit is often cheaper. Rasten means to rest on a journey: Wer rastet, der rostet (use it or lose it). Plural: die Raststätten."
+}

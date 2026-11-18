@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kerngeschäft",
+    "partOfSpeech": "noun, neuter (das Kerngeschäft)",
+    "pronunciation": {
+      "respelling": "KERN-ge-sheft",
+      "ipa": "ˈkɛʁnɡəˌʃɛft",
+      "notes": "Plural: die Kerngeschäfte."
+    },
+    "meaning": "core business",
+    "shortDefinition": "Core business."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Kerngeschäft, plural die Kerngeschäfte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Kerngeschäft"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kerngeschäfte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Firma konzentriert sich auf ihr Kerngeschäft.",
+      "english": "The company is focusing on its core business.",
+      "highlight": [
+        "Kerngeschäft."
+      ]
+    },
+    {
+      "german": "Das Kerngeschäft der Bank ist das Kreditgeschäft.",
+      "english": "The bank's core business is lending.",
+      "highlight": [
+        "Kerngeschäft"
+      ]
+    }
+  ],
+  "forms": [
+    "Kerngeschäfte",
+    "das Kerngeschäft"
+  ],
+  "memoryHook": "Kerngeschäft: the Geschäft (business) at the Kern (core).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kerngeschäft",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Kerngeschäft is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kerngeschäft, zwei ___",
+      "answer": "Kerngeschäfte",
+      "fullAnswer": "ein Kerngeschäft, zwei Kerngeschäfte",
+      "explanation": "The plural is Kerngeschäfte.",
+      "acceptedAnswers": [
+        "Kerngeschaefte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kerngeschäft mean?",
+      "options": [
+        "core business",
+        "the street",
+        "quiet"
+      ],
+      "answer": "core business",
+      "explanation": "Kerngeschäft: core business.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kern is…",
+      "options": [
+        "core, kernel; pip",
+        "a corner"
+      ],
+      "answer": "core, kernel; pip",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kernkompetenz is…",
+      "options": [
+        "core competence",
+        "nuclear power"
+      ],
+      "answer": "core competence",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kernkraft is…",
+      "options": [
+        "nuclear power",
+        "core strength"
+      ],
+      "answer": "nuclear power",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Kerngeschäft is a company's core business: sich aufs Kerngeschäft konzentrieren (often a sign of selling off other divisions). Related: die Kernkompetenz (core competence), die Kernzielgruppe. Der Kern means core, kernel or pip, and die Kernkraft is nuclear power, which Germany phased out in April 2023. Plural: die Kerngeschäfte."
+}

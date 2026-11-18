@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vorstrafe",
+    "partOfSpeech": "noun, feminine (die Vorstrafe)",
+    "pronunciation": {
+      "respelling": "FOHR-shtraa-fe",
+      "ipa": "ˈfoːɐ̯ˌʃtʁaːfə",
+      "notes": "Plural: die Vorstrafen."
+    },
+    "meaning": "previous conviction, criminal record",
+    "shortDefinition": "Previous conviction, criminal record."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Vorstrafe, plural die Vorstrafen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Vorstrafe"
+        },
+        {
+          "label": "More than one",
+          "value": "die Vorstrafen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Angeklagte hat mehrere Vorstrafen.",
+      "english": "The defendant has several previous convictions.",
+      "highlight": [
+        "Vorstrafen."
+      ]
+    },
+    {
+      "german": "Ohne Vorstrafe bekommt er wohl Bewährung.",
+      "english": "With no prior record he'll probably get probation.",
+      "highlight": [
+        "Vorstrafe"
+      ]
+    }
+  ],
+  "forms": [
+    "Vorstrafen",
+    "die Vorstrafe"
+  ],
+  "memoryHook": "Vorstrafe: a Strafe (sentence) from vorher (before).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vorstrafe",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Vorstrafe is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Vorstrafe, zwei ___",
+      "answer": "Vorstrafen",
+      "fullAnswer": "ein Vorstrafe, zwei Vorstrafen",
+      "explanation": "The plural is Vorstrafen.",
+      "acceptedAnswers": [
+        "Vorstrafen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vorstrafe mean?",
+      "options": [
+        "the key",
+        "the bread",
+        "previous conviction"
+      ],
+      "answer": "previous conviction",
+      "explanation": "Vorstrafe: previous conviction, criminal record.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vorbestraft means…",
+      "options": [
+        "having a criminal record",
+        "pre-punished"
+      ],
+      "answer": "having a criminal record",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Führungszeugnis is…",
+      "options": [
+        "certificate of good conduct (criminal record check)",
+        "a driving licence"
+      ],
+      "answer": "certificate of good conduct (criminal record check)",
+      "explanation": "Germany.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Bewährung is…",
+      "options": [
+        "probation, suspended sentence",
+        "a proof"
+      ],
+      "answer": "probation, suspended sentence",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Vorstrafe is a previous conviction: keine Vorstrafen haben, einschlägige Vorstrafen (relevant prior convictions). Someone with one is vorbestraft. Employers may ask for a Führungszeugnis, an official extract from the federal criminal register; minor first convictions don't appear on it. Die Strafe is punishment or sentence. Plural: die Vorstrafen."
+}

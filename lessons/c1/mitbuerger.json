@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mitbürger",
+    "partOfSpeech": "noun, masculine (der Mitbürger)",
+    "pronunciation": {
+      "respelling": "MIT-bür-ger",
+      "ipa": "ˈmɪtˌbʏʁɡɐ",
+      "notes": "Plural: die Mitbürger."
+    },
+    "meaning": "fellow citizen",
+    "shortDefinition": "Fellow citizen."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Mitbürger, plural die Mitbürger.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Mitbürger"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mitbürger"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Liebe Mitbürgerinnen und Mitbürger!",
+      "english": "Dear fellow citizens!",
+      "highlight": [
+        "Mitbürgerinnen",
+        "Mitbürger!"
+      ]
+    },
+    {
+      "german": "Viele ausländische Mitbürger leben hier.",
+      "english": "Many foreign fellow citizens live here.",
+      "highlight": [
+        "Mitbürger"
+      ]
+    }
+  ],
+  "forms": [
+    "die Mitbürger",
+    "der Mitbürger",
+    "Mitbürgerin",
+    "Mitbürgerinnen"
+  ],
+  "memoryHook": "Mitbürger: a Bürger alongside (mit) you.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mitbürger",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Mitbürger is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mitbürger, zwei ___",
+      "answer": "Mitbürger",
+      "fullAnswer": "ein Mitbürger, zwei Mitbürger",
+      "explanation": "The plural is Mitbürger.",
+      "acceptedAnswers": [
+        "Mitbuerger"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mitbürger mean?",
+      "options": [
+        "fellow citizen",
+        "cheap",
+        "to learn"
+      ],
+      "answer": "fellow citizen",
+      "explanation": "Mitbürger: fellow citizen.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Liebe Mitbürgerinnen und Mitbürger is…",
+      "options": [
+        "a classic opening of political speeches",
+        "a letter ending"
+      ],
+      "answer": "a classic opening of political speeches",
+      "explanation": "Speech.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ausländische Mitbürger was used for…",
+      "options": [
+        "foreign residents (now somewhat dated)",
+        "tourists"
+      ],
+      "answer": "foreign residents (now somewhat dated)",
+      "explanation": "Dated.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Bürger is…",
+      "options": [
+        "citizen",
+        "burger"
+      ],
+      "answer": "citizen",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Mitbürger (die Mitbürgerin) is a fellow citizen. Liebe Mitbürgerinnen und Mitbürger is the classic opening of the chancellor's New Year's speech. From the 1980s, ausländische Mitbürger was a polite term for foreign residents, but it's now seen as dated; people say Menschen mit Migrationshintergrund or Menschen mit Einwanderungsgeschichte. Der Bürger is a citizen. Plural: die Mitbürger."
+}

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Herausgabe",
+    "partOfSpeech": "noun, feminine (die Herausgabe)",
+    "pronunciation": {
+      "respelling": "he-RAUS-gaa-be",
+      "ipa": "hɛˈʁaʊ̯sˌɡaːbə",
+      "notes": "Plural: die Herausgaben."
+    },
+    "meaning": "handing over; publication, editing",
+    "shortDefinition": "Handing over; publication, editing."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Herausgabe, plural die Herausgaben.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Herausgabe"
+        },
+        {
+          "label": "More than one",
+          "value": "die Herausgaben"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Gericht ordnete die Herausgabe der Dokumente an.",
+      "english": "The court ordered the documents to be handed over.",
+      "highlight": [
+        "Herausgabe"
+      ]
+    },
+    {
+      "german": "Sie ist für die Herausgabe der Zeitschrift verantwortlich.",
+      "english": "She's responsible for publishing the magazine.",
+      "highlight": [
+        "Herausgabe"
+      ]
+    }
+  ],
+  "forms": [
+    "Herausgaben",
+    "die Herausgaben",
+    "die Herausgabe",
+    "herausgeben",
+    "Herausgeber"
+  ],
+  "memoryHook": "Herausgabe: giving (geben) something out (heraus).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Herausgabe",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Herausgabe is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Herausgabe, zwei ___",
+      "answer": "Herausgaben",
+      "fullAnswer": "ein Herausgabe, zwei Herausgaben",
+      "explanation": "The plural is Herausgaben.",
+      "acceptedAnswers": [
+        "Herausgaben"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Herausgabe mean?",
+      "options": [
+        "quiet",
+        "the evening",
+        "handing over"
+      ],
+      "answer": "handing over",
+      "explanation": "Herausgabe: handing over; publication, editing.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Herausgeber is…",
+      "options": [
+        "publisher; editor",
+        "a giver"
+      ],
+      "answer": "publisher; editor",
+      "explanation": "Editor.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Herausgeben means…",
+      "options": [
+        "to hand over; to publish; to give change",
+        "to give up"
+      ],
+      "answer": "to hand over; to publish; to give change",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Können Sie auf 50 herausgeben? means…",
+      "options": [
+        "Can you give change for a 50?",
+        "Can you publish 50?"
+      ],
+      "answer": "Can you give change for a 50?",
+      "explanation": "Change.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Herausgabe means handing over (die Herausgabe von Akten, Daten, Beweismitteln) and publication or editing: die Herausgabe einer Zeitung, eines Sammelbands. Der Herausgeber (Hrsg.) is the editor or publisher, often printed on book covers. The verb herausgeben also means to give change: Können Sie mir auf 100 Euro herausgeben? Plural: die Herausgaben."
+}

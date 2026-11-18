@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Einsiedler",
+    "partOfSpeech": "noun, masculine (der Einsiedler)",
+    "pronunciation": {
+      "respelling": "AIN-zeed-ler",
+      "ipa": "ˈaɪ̯nˌziːdlɐ",
+      "notes": "Plural: die Einsiedler."
+    },
+    "meaning": "hermit, recluse",
+    "shortDefinition": "Hermit, recluse."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Einsiedler, plural die Einsiedler.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Einsiedler"
+        },
+        {
+          "label": "More than one",
+          "value": "die Einsiedler"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er lebt wie ein Einsiedler in den Bergen.",
+      "english": "He lives like a hermit in the mountains.",
+      "highlight": [
+        "Einsiedler"
+      ]
+    },
+    {
+      "german": "Der Einsiedlerkrebs wohnt in leeren Schneckenhäusern.",
+      "english": "The hermit crab lives in empty snail shells.",
+      "highlight": [
+        "Einsiedlerkrebs"
+      ]
+    }
+  ],
+  "forms": [
+    "Einsiedlerin",
+    "der Einsiedler"
+  ],
+  "memoryHook": "Einsiedler: someone who siedelt (settles) allein (ein).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Einsiedler",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Einsiedler is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Einsiedler, zwei ___",
+      "answer": "Einsiedler",
+      "fullAnswer": "ein Einsiedler, zwei Einsiedler",
+      "explanation": "The plural is Einsiedler.",
+      "acceptedAnswers": [
+        "Einsiedler"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Einsiedler mean?",
+      "options": [
+        "hermit",
+        "the street",
+        "to open"
+      ],
+      "answer": "hermit",
+      "explanation": "Einsiedler: hermit, recluse.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Einsiedlerkrebs is…",
+      "options": [
+        "hermit crab",
+        "a lonely lobster"
+      ],
+      "answer": "hermit crab",
+      "explanation": "Animal.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Einsiedelei is…",
+      "options": [
+        "hermitage",
+        "a settlement"
+      ],
+      "answer": "hermitage",
+      "explanation": "Place.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Eremit, der Einzelgänger",
+        "der Gastgeber"
+      ],
+      "answer": "der Eremit, der Einzelgänger",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Einsiedler is a hermit or recluse, someone living alone and apart: wie ein Einsiedler leben. The religious term is der Eremit, and a hermit's dwelling is die Einsiedelei. The Swiss monastery town Einsiedeln grew around a 9th-century hermit's cell. Der Einsiedlerkrebs is a hermit crab. The plural is the same: die Einsiedler."
+}

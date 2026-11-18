@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "entreißen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ent-RAI-sen",
+      "ipa": "ɛntˈʁaɪ̯sn̩",
+      "notes": ""
+    },
+    "meaning": "to snatch (from), wrest",
+    "shortDefinition": "To snatch (from), wrest."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "entreiß|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "entreiß|t"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "entreiß|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "entreiß|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "entreiß|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "entreiß|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat entrissen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Dieb entriss ihr die Handtasche.",
+      "english": "The thief snatched her handbag from her.",
+      "highlight": [
+        "entriss"
+      ]
+    },
+    {
+      "german": "Der Krieg hat ihm die Familie entrissen.",
+      "english": "The war tore his family from him.",
+      "highlight": [
+        "entrissen."
+      ]
+    }
+  ],
+  "forms": [
+    "entreiße",
+    "entreißt",
+    "entreißen",
+    "entrissen",
+    "entriss"
+  ],
+  "memoryHook": "Entreißen: reißen (tear) something away (ent-).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (entreißen)",
+      "answer": "entreißt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: entreißt.",
+      "acceptedAnswers": [
+        "entreisst"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (entreißen, past)",
+      "answer": "entrissen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe entrissen.",
+      "acceptedAnswers": [
+        "entrissen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does entreißen mean?",
+      "options": [
+        "cheap",
+        "tomorrow",
+        "to snatch (from)"
+      ],
+      "answer": "to snatch (from)",
+      "explanation": "entreißen: to snatch (from), wrest.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Entreißen takes…",
+      "options": [
+        "dative person + accusative thing",
+        "two accusatives"
+      ],
+      "answer": "dative person + accusative thing",
+      "explanation": "Grammar.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "entriss, entrissen",
+        "entreißte"
+      ],
+      "answer": "entriss, entrissen",
+      "explanation": "Irregular.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden dem Tod entreißen means…",
+      "options": [
+        "to snatch someone from death",
+        "to kill someone"
+      ],
+      "answer": "to snatch someone from death",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Entreißen means to snatch or wrest something from someone, with dative person: jemandem die Tasche, den Sieg entreißen. Figuratively: jemanden dem Tod, der Vergessenheit entreißen (rescue from death, from oblivion). Handbag thefts by snatching are called Handtaschenraub. Irregular like reißen: entriss, entrissen."
+}

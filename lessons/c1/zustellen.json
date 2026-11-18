@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "zustellen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "TSOO-shte-len",
+      "ipa": "ˈt͡suːˌʃtɛlən",
+      "notes": ""
+    },
+    "meaning": "to deliver; to block",
+    "shortDefinition": "To deliver; to block."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "stell|e … |zu"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "stell|st … |zu"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "stell|t … |zu"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "stell|en … |zu"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "stell|t … |zu"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "stell|en … |zu"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat zugestellt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Paket wurde heute zugestellt.",
+      "english": "The parcel was delivered today.",
+      "highlight": [
+        "zugestellt."
+      ]
+    },
+    {
+      "german": "Jemand hat die Einfahrt zugestellt.",
+      "english": "Someone has blocked the driveway.",
+      "highlight": [
+        "zugestellt."
+      ]
+    }
+  ],
+  "forms": [
+    "stelle zu",
+    "stellst zu",
+    "stellt zu",
+    "stellen zu",
+    "zugestellt",
+    "stellte zu",
+    "Zusteller",
+    "Zustellung"
+  ],
+  "memoryHook": "Zustellen: put (stellen) something to (zu) someone, or in the way.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … zu (zustellen)",
+      "answer": "stellt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: stellt … zu.",
+      "acceptedAnswers": [
+        "stellt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (zustellen, past)",
+      "answer": "zugestellt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe zugestellt.",
+      "acceptedAnswers": [
+        "zugestellt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does zustellen mean?",
+      "options": [
+        "to deliver",
+        "the station",
+        "the job"
+      ],
+      "answer": "to deliver",
+      "explanation": "zustellen: to deliver; to block.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Zusteller is…",
+      "options": [
+        "delivery person, postman",
+        "a waiter"
+      ],
+      "answer": "delivery person, postman",
+      "explanation": "Person.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Zustellung is…",
+      "options": [
+        "delivery; service (of documents)",
+        "an exhibition"
+      ],
+      "answer": "delivery; service (of documents)",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Einfahrt zustellen means…",
+      "options": [
+        "to block a driveway",
+        "to deliver to a driveway"
+      ],
+      "answer": "to block a driveway",
+      "explanation": "Block.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Zustellen means to deliver mail or parcels (Die Post stellt montags bis samstags zu) and to formally serve documents: ein Urteil zustellen. Der Zusteller is the delivery person, die Zustellung delivery. It also means to block: Der Flur ist mit Kartons zugestellt. If you're not home, German parcels are often left with a neighbour. Separable: stellte zu, zugestellt."
+}

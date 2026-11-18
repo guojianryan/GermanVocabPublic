@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Implikation",
+    "partOfSpeech": "noun, feminine (die Implikation)",
+    "pronunciation": {
+      "respelling": "im-pli-ka-TSYOHN",
+      "ipa": "ɪmplikaˈt͡si̯oːn",
+      "notes": "Plural: die Implikationen."
+    },
+    "meaning": "implication",
+    "shortDefinition": "Implication."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Implikation, plural die Implikationen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Implikation"
+        },
+        {
+          "label": "More than one",
+          "value": "die Implikationen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Entscheidung hat weitreichende Implikationen.",
+      "english": "The decision has far-reaching implications.",
+      "highlight": [
+        "Implikationen."
+      ]
+    },
+    {
+      "german": "Über die ethischen Implikationen wird gestritten.",
+      "english": "The ethical implications are debated.",
+      "highlight": [
+        "Implikationen"
+      ]
+    }
+  ],
+  "forms": [
+    "Implikationen",
+    "die Implikation"
+  ],
+  "memoryHook": "Implikation: what is folded in (implicare).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Implikation",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Implikation is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Implikation, zwei ___",
+      "answer": "Implikationen",
+      "fullAnswer": "ein Implikation, zwei Implikationen",
+      "explanation": "The plural is Implikationen.",
+      "acceptedAnswers": [
+        "Implikationen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Implikation mean?",
+      "options": [
+        "always",
+        "implication",
+        "expensive"
+      ],
+      "answer": "implication",
+      "explanation": "Implikation: implication.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Implizieren means…",
+      "options": [
+        "to imply",
+        "to implode"
+      ],
+      "answer": "to imply",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Implizit means…",
+      "options": [
+        "implicit",
+        "explicit"
+      ],
+      "answer": "implicit",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday synonyms:",
+      "options": [
+        "die Folgen, die Auswirkungen",
+        "die Gründe"
+      ],
+      "answer": "die Folgen, die Auswirkungen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Implikation is an implication, mostly in academic and formal German, usually plural: politische, ethische Implikationen. In logic, it means if-then: A impliziert B. In everyday German, people say die Folgen or die Auswirkungen (consequences). Implizieren means to imply, implizit implicit. Plural: die Implikationen."
+}

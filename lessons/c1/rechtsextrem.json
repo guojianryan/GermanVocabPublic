@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "rechtsextrem",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "REKHTS-eks-traym",
+      "ipa": "ˈʁɛçt͡sʔɛksˌtʁeːm",
+      "notes": ""
+    },
+    "meaning": "far-right, right-wing extremist",
+    "shortDefinition": "Far-right, right-wing extremist."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die Partei wird als rechtsextrem eingestuft.",
+      "english": "The party is classified as far-right extremist.",
+      "highlight": [
+        "rechtsextrem"
+      ]
+    },
+    {
+      "german": "Rechtsextreme Gewalt nimmt zu.",
+      "english": "Right-wing extremist violence is increasing.",
+      "highlight": [
+        "Rechtsextreme"
+      ]
+    }
+  ],
+  "forms": [
+    "rechtsextreme",
+    "rechtsextremen",
+    "Rechtsextremismus",
+    "Rechtsextremist"
+  ],
+  "memoryHook": "Rechtsextrem: extreme on the political right (rechts).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does rechtsextrem mean?",
+      "options": [
+        "far-right",
+        "the door",
+        "the evening"
+      ],
+      "answer": "far-right",
+      "explanation": "rechtsextrem: far-right, right-wing extremist.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Verfassungsschutz…",
+      "options": [
+        "monitors extremist groups",
+        "writes the constitution"
+      ],
+      "answer": "monitors extremist groups",
+      "explanation": "Domestic intelligence.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Linksextrem means…",
+      "options": [
+        "far-left",
+        "left-handed"
+      ],
+      "answer": "far-left",
+      "explanation": "Opposite.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Rechtsextremismus is…",
+      "options": [
+        "right-wing extremism",
+        "legal extremism"
+      ],
+      "answer": "right-wing extremism",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Gruppe (far-right)",
+      "answer": "rechtsextreme",
+      "fullAnswer": "eine rechtsextreme Gruppe",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Rechtsextrem means far-right or right-wing extremist: rechtsextreme Gewalt, eine rechtsextreme Szene. In German politics there's an official distinction: rechtsextrem means hostile to the constitutional order, while rechtspopulistisch and rechtsradikal are used more loosely. The Verfassungsschutz (domestic intelligence) monitors groups it classifies as gesichert rechtsextrem (confirmed far-right extremist). The opposite is linksextrem. Note: rechts here means right, not Recht (law)."
+}

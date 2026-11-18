@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "diesbezüglich",
+    "partOfSpeech": "adjective / adverb",
+    "pronunciation": {
+      "respelling": "DEES-be-tsük-likh",
+      "ipa": "ˈdiːsbəˌt͡syːklɪç",
+      "notes": ""
+    },
+    "meaning": "in this regard, regarding this",
+    "shortDefinition": "In this regard, regarding this."
+  },
+  "sampleSentences": [
+    {
+      "german": "Haben Sie diesbezüglich noch Fragen?",
+      "english": "Do you have any questions about this?",
+      "highlight": [
+        "diesbezüglich"
+      ]
+    },
+    {
+      "german": "Ihre diesbezügliche Anfrage haben wir erhalten.",
+      "english": "We have received your enquiry concerning this.",
+      "highlight": [
+        "diesbezügliche"
+      ]
+    }
+  ],
+  "forms": [
+    "diesbezügliche",
+    "diesbezüglichen",
+    "bezüglich"
+  ],
+  "memoryHook": "Diesbezüglich: regarding (bezüglich) this (dies).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does diesbezüglich mean?",
+      "options": [
+        "in this regard",
+        "the bread",
+        "cheap"
+      ],
+      "answer": "in this regard",
+      "explanation": "diesbezüglich: in this regard, regarding this.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal, official",
+        "casual"
+      ],
+      "answer": "formal, official",
+      "explanation": "Official letters.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Simpler alternative:",
+      "options": [
+        "dazu / was das angeht",
+        "dafür"
+      ],
+      "answer": "dazu / was das angeht",
+      "explanation": "dazu.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Built from…",
+      "options": [
+        "dies + bezüglich",
+        "die + Bezug"
+      ],
+      "answer": "dies + bezüglich",
+      "explanation": "bezüglich = regarding.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ kann ich nichts sagen. (in this regard)",
+      "answer": "Diesbezüglich",
+      "fullAnswer": "Diesbezüglich kann ich nichts sagen.",
+      "explanation": "diesbezüglich.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Diesbezüglich means in this regard or concerning this, and it's a hallmark of official German: Diesbezüglich verweisen wir auf unsere AGB. Ihre diesbezügliche Anfrage means your enquiry about this. It's built from dies (this) and bezüglich (regarding), which itself takes the genitive: bezüglich Ihrer Anfrage. In speech, Germans say dazu or was das angeht instead. Overusing it makes writing sound like a tax office letter."
+}

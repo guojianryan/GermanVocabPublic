@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Jobcenter",
+    "partOfSpeech": "noun, neuter (das Jobcenter)",
+    "pronunciation": {
+      "respelling": "DSHOP-sen-ter",
+      "ipa": "ˈd͡ʒɔpˌsɛntɐ",
+      "notes": "Plural: die Jobcenter."
+    },
+    "meaning": "job centre (welfare office)",
+    "shortDefinition": "Job centre (welfare office)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Jobcenter, plural die Jobcenter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Jobcenter"
+        },
+        {
+          "label": "More than one",
+          "value": "die Jobcenter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er muss morgen zum Jobcenter.",
+      "english": "He has to go to the job centre tomorrow.",
+      "highlight": [
+        "Jobcenter."
+      ]
+    },
+    {
+      "german": "Das Jobcenter zahlt das Bürgergeld.",
+      "english": "The job centre pays the citizen's allowance.",
+      "highlight": [
+        "Jobcenter"
+      ]
+    }
+  ],
+  "forms": [
+    "die Jobcenter",
+    "das Jobcenter"
+  ],
+  "memoryHook": "Jobcenter: English name, German welfare office.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Jobcenter",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Jobcenter is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Jobcenter, zwei ___",
+      "answer": "Jobcenter",
+      "fullAnswer": "ein Jobcenter, zwei Jobcenter",
+      "explanation": "The plural is Jobcenter.",
+      "acceptedAnswers": [
+        "Jobcenter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Jobcenter mean?",
+      "options": [
+        "to sleep",
+        "job centre (welfare office)",
+        "the flower"
+      ],
+      "answer": "job centre (welfare office)",
+      "explanation": "Jobcenter: job centre (welfare office).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Jobcenter mainly handles…",
+      "options": [
+        "Bürgergeld (basic income support)",
+        "pensions"
+      ],
+      "answer": "Bürgergeld (basic income support)",
+      "explanation": "Welfare.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unemployment benefit I (Arbeitslosengeld) comes from…",
+      "options": [
+        "die Agentur für Arbeit",
+        "das Jobcenter"
+      ],
+      "answer": "die Agentur für Arbeit",
+      "explanation": "Different office.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "das Jobcenter",
+        "der Jobcenter"
+      ],
+      "answer": "das Jobcenter",
+      "explanation": "Neuter, like das Center.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Jobcenter is the local office for people receiving Bürgergeld (called Hartz IV until 2023), the basic income support for long-term unemployed and low earners. Short-term unemployment benefit, Arbeitslosengeld, is handled by the separate Agentur für Arbeit. Jobcenters were created by the Hartz reforms of 2005. It's a pseudo-English word pronounced roughly DSHOP-sen-ter. Plural: die Jobcenter."
+}

@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "niederschreiben",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "NEE-der-shrai-ben",
+      "ipa": "ˈniːdɐˌʃʁaɪ̯bn̩",
+      "notes": ""
+    },
+    "meaning": "to write down",
+    "shortDefinition": "To write down."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schreib|e … |nieder"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schreib|st … |nieder"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schreib|t … |nieder"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schreib|en … |nieder"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schreib|t … |nieder"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schreib|en … |nieder"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat niedergeschrieben"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie schrieb ihre Erinnerungen nieder.",
+      "english": "She wrote down her memories.",
+      "highlight": [
+        "schrieb",
+        "nieder."
+      ]
+    },
+    {
+      "german": "Die Sagen wurden erst spät niedergeschrieben.",
+      "english": "The legends were only written down late.",
+      "highlight": [
+        "niedergeschrieben."
+      ]
+    }
+  ],
+  "forms": [
+    "schreibe nieder",
+    "schreibst nieder",
+    "schreibt nieder",
+    "schreiben nieder",
+    "niedergeschrieben",
+    "schrieb nieder",
+    "Niederschrift"
+  ],
+  "memoryHook": "Niederschreiben: schreiben (write) down (nieder).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … nieder (niederschreiben)",
+      "answer": "schreibt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schreibt … nieder.",
+      "acceptedAnswers": [
+        "schreibt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (niederschreiben, past)",
+      "answer": "niedergeschrieben",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe niedergeschrieben.",
+      "acceptedAnswers": [
+        "niedergeschrieben"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does niederschreiben mean?",
+      "options": [
+        "to learn",
+        "to write down",
+        "the child"
+      ],
+      "answer": "to write down",
+      "explanation": "niederschreiben: to write down.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "slightly formal",
+        "slang"
+      ],
+      "answer": "slightly formal",
+      "explanation": "Register.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Niederschrift is…",
+      "options": [
+        "written record, minutes",
+        "a low script"
+      ],
+      "answer": "written record, minutes",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "schrieb nieder, niedergeschrieben",
+        "schreibte nieder"
+      ],
+      "answer": "schrieb nieder, niedergeschrieben",
+      "explanation": "Irregular.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Niederschreiben means to write down, slightly more formal than aufschreiben: Gedanken, Erlebnisse, ein Testament niederschreiben. Die Niederschrift is a written record or minutes. Many fairy tales were told orally for centuries before the Brothers Grimm niederschrieben them. Separable and irregular like schreiben: schrieb nieder, niedergeschrieben."
+}

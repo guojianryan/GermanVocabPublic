@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bundesverfassungsgericht",
+    "partOfSpeech": "noun, neuter (das Bundesverfassungsgericht)",
+    "pronunciation": {
+      "respelling": "BUN-des-fer-fas-ungs-ge-rikht",
+      "ipa": "ˌbʊndəsfɛɐ̯ˈfasʊŋsɡəˌʁɪçt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "Federal Constitutional Court",
+    "shortDefinition": "Federal Constitutional Court."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Bundesverfassungsgericht, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Bundesverfassungsgericht"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Bundesverfassungsgericht hat das Gesetz gekippt.",
+      "english": "The Federal Constitutional Court struck down the law.",
+      "highlight": [
+        "Bundesverfassungsgericht"
+      ]
+    },
+    {
+      "german": "Das Bundesverfassungsgericht sitzt in Karlsruhe.",
+      "english": "The Federal Constitutional Court sits in Karlsruhe.",
+      "highlight": [
+        "Bundesverfassungsgericht"
+      ]
+    }
+  ],
+  "forms": [
+    "das Bundesverfassungsgericht",
+    "BVerfG",
+    "Karlsruhe"
+  ],
+  "memoryHook": "Bundesverfassungsgericht: the court that guards the Verfassung (Grundgesetz).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bundesverfassungsgericht",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Bundesverfassungsgericht is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bundesverfassungsgericht mean?",
+      "options": [
+        "the job",
+        "never",
+        "Federal Constitutional Court"
+      ],
+      "answer": "Federal Constitutional Court",
+      "explanation": "Bundesverfassungsgericht: Federal Constitutional Court.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "It sits in…",
+      "options": [
+        "Karlsruhe",
+        "Berlin"
+      ],
+      "answer": "Karlsruhe",
+      "explanation": "Karlsruhe.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Abbreviation:",
+      "options": [
+        "BVerfG",
+        "BVG"
+      ],
+      "answer": "BVerfG",
+      "explanation": "BVerfG.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Gesetz kippen means…",
+      "options": [
+        "to strike down a law",
+        "to pass a law"
+      ],
+      "answer": "to strike down a law",
+      "explanation": "Overturn.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Bundesverfassungsgericht (BVerfG) in Karlsruhe is Germany's Federal Constitutional Court. It checks whether laws comply with the Grundgesetz and can strike them down: ein Gesetz kippen. Its 16 judges are elected half by the Bundestag and half by the Bundesrat. It's one of the most trusted institutions in Germany, and Karlsruhe hat entschieden is a powerful phrase. At 24 letters, the word is a great example of German compounding: Bund + es + Verfassung + s + Gericht."
+}

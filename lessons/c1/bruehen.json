@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "brühen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "BRÜ-en",
+      "ipa": "ˈbʁyːən",
+      "notes": ""
+    },
+    "meaning": "to brew (coffee, tea)",
+    "shortDefinition": "To brew (coffee, tea)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "brüh|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "brüh|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "brüh|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "brüh|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "brüh|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "brüh|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gebrüht"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er brüht jeden Morgen frischen Kaffee.",
+      "english": "He brews fresh coffee every morning.",
+      "highlight": [
+        "brüht"
+      ]
+    },
+    {
+      "german": "Die Tomaten kurz mit heißem Wasser überbrühen.",
+      "english": "Briefly scald the tomatoes with hot water.",
+      "highlight": [
+        "überbrühen."
+      ]
+    }
+  ],
+  "forms": [
+    "brühe",
+    "brühst",
+    "brüht",
+    "brühen",
+    "gebrüht",
+    "Brühe",
+    "aufbrühen"
+  ],
+  "memoryHook": "Brühen: pour hot water over to make a Brühe.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (brühen)",
+      "answer": "brüht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: brüht.",
+      "acceptedAnswers": [
+        "brueht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (brühen, past)",
+      "answer": "gebrüht",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gebrüht.",
+      "acceptedAnswers": [
+        "gebrueht"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does brühen mean?",
+      "options": [
+        "to travel",
+        "the job",
+        "to brew (coffee"
+      ],
+      "answer": "to brew (coffee",
+      "explanation": "brühen: to brew (coffee, tea).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Brühe is…",
+      "options": [
+        "broth, stock",
+        "a brewery"
+      ],
+      "answer": "broth, stock",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Brauen means…",
+      "options": [
+        "to brew (beer)",
+        "to bake"
+      ],
+      "answer": "to brew (beer)",
+      "explanation": "Beer.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Filterkaffee is traditionally…",
+      "options": [
+        "aufgebrüht (brewed by pouring water)",
+        "pressed"
+      ],
+      "answer": "aufgebrüht (brewed by pouring water)",
+      "explanation": "Filter.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Brühen means to brew coffee or tea by pouring hot water over it (Kaffee aufbrühen) and to scald: Tomaten überbrühen. Beer, however, is gebraut (brauen). Die Brühe is broth or stock: Gemüsebrühe, Hühnerbrühe. Colloquially, Brühe can be dirty water or bad coffee: Was ist das für eine Brühe? Melitta Bentz invented the coffee filter in Dresden in 1908. Regular: brühte, gebrüht."
+}

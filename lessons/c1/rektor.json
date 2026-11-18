@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rektor",
+    "partOfSpeech": "noun, masculine (der Rektor)",
+    "pronunciation": {
+      "respelling": "REK-tor",
+      "ipa": "ˈʁɛktoːɐ̯",
+      "notes": "Plural: die Rektoren."
+    },
+    "meaning": "head teacher; university rector",
+    "shortDefinition": "Head teacher; university rector."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Rektor, plural die Rektoren.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Rektor"
+        },
+        {
+          "label": "More than one",
+          "value": "die Rektoren"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Rektor hielt eine Rede zum Schuljahresbeginn.",
+      "english": "The head teacher gave a speech at the start of the school year.",
+      "highlight": [
+        "Rektor"
+      ]
+    },
+    {
+      "german": "Die Rektorin der Universität begrüßte die Gäste.",
+      "english": "The university's rector welcomed the guests.",
+      "highlight": [
+        "Rektorin"
+      ]
+    }
+  ],
+  "forms": [
+    "Rektoren",
+    "die Rektoren",
+    "der Rektor",
+    "Rektorin",
+    "Rektorat"
+  ],
+  "memoryHook": "Rektor: REK-tor in the singular, rek-TOH-ren in the plural.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rektor",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Rektor is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Rektor, zwei ___",
+      "answer": "Rektoren",
+      "fullAnswer": "ein Rektor, zwei Rektoren",
+      "explanation": "The plural is Rektoren.",
+      "acceptedAnswers": [
+        "Rektoren"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rektor mean?",
+      "options": [
+        "to sleep",
+        "the weather",
+        "head teacher"
+      ],
+      "answer": "head teacher",
+      "explanation": "Rektor: head teacher; university rector.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Rektoren (stress moves: rek-TOH-ren)",
+        "die Rektors"
+      ],
+      "answer": "die Rektoren (stress moves: rek-TOH-ren)",
+      "explanation": "Stress shift.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "At a university, the Rektor is…",
+      "options": [
+        "the head of the university",
+        "a lecturer"
+      ],
+      "answer": "the head of the university",
+      "explanation": "Rector.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Rektorat is…",
+      "options": [
+        "the head's office / rector's office",
+        "a school year"
+      ],
+      "answer": "the head's office / rector's office",
+      "explanation": "Office.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Rektor (die Rektorin) is the head of a school, especially a primary or secondary school, or the head of a university; some universities say Präsident instead. Note the stress shift: REK-tor, but plural rek-TOH-ren, like Doktor and Professor. Das Rektorat is the head's office. In German academic tradition, the Rektor wore a chain of office; the 1967 student slogan Unter den Talaren Muff von 1000 Jahren mocked those old robes."
+}

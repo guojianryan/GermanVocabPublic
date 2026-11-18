@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "worin",
+    "partOfSpeech": "adverb",
+    "pronunciation": {
+      "respelling": "vo-RIN",
+      "ipa": "voˈʁɪn",
+      "notes": ""
+    },
+    "meaning": "in what, in which",
+    "shortDefinition": "In what, in which."
+  },
+  "sampleSentences": [
+    {
+      "german": "Worin besteht der Unterschied?",
+      "english": "What does the difference consist in?",
+      "highlight": [
+        "Worin"
+      ]
+    },
+    {
+      "german": "Das ist der Punkt, worin wir uns einig sind.",
+      "english": "That's the point on which we agree.",
+      "highlight": [
+        "worin"
+      ]
+    }
+  ],
+  "forms": [
+    "worin"
+  ],
+  "memoryHook": "Worin: wo- + in, 'in what'.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does worin mean?",
+      "options": [
+        "expensive",
+        "in what",
+        "the key"
+      ],
+      "answer": "in what",
+      "explanation": "worin: in what, in which.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Worin replaces…",
+      "options": [
+        "in + was / in + welchem",
+        "wo + hin"
+      ],
+      "answer": "in + was / in + welchem",
+      "explanation": "in what.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Worin besteht…? asks…",
+      "options": [
+        "what something consists of",
+        "where it is"
+      ],
+      "answer": "what something consists of",
+      "explanation": "bestehen in.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "somewhat formal",
+        "slang"
+      ],
+      "answer": "somewhat formal",
+      "explanation": "Formal.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ liegt das Problem? (in what)",
+      "answer": "Worin",
+      "fullAnswer": "Worin liegt das Problem?",
+      "explanation": "Worin.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Worin means in what or in which. It's a wo-compound, used for questions about things, not people: Worin liegt der Vorteil? (wherein lies the advantage?). Common with bestehen in: Worin besteht der Unterschied? It can also introduce a relative clause: das Haus, worin ich wohnte, though in dem is more usual today. Other wo-compounds: woran, worauf, worüber, wovon, womit."
+}

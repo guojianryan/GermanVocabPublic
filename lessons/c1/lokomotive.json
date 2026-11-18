@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Lokomotive",
+    "partOfSpeech": "noun, feminine (die Lokomotive)",
+    "pronunciation": {
+      "respelling": "lo-ko-mo-TEE-ve",
+      "ipa": "lokomoˈtiːvə",
+      "notes": "Plural: die Lokomotiven."
+    },
+    "meaning": "locomotive, engine",
+    "shortDefinition": "Locomotive, engine."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Lokomotive, plural die Lokomotiven.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Lokomotive"
+        },
+        {
+          "label": "More than one",
+          "value": "die Lokomotiven"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die alte Lokomotive zieht zehn Wagen.",
+      "english": "The old locomotive pulls ten carriages.",
+      "highlight": [
+        "Lokomotive"
+      ]
+    },
+    {
+      "german": "Der Lokführer stieg in die Lok.",
+      "english": "The train driver climbed into the engine.",
+      "highlight": [
+        "Lok."
+      ]
+    }
+  ],
+  "forms": [
+    "Lokomotiven",
+    "die Lokomotive",
+    "Lok"
+  ],
+  "memoryHook": "Lokomotive: moving (motive) from a place (loco).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Lokomotive",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Lokomotive is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Lokomotive, zwei ___",
+      "answer": "Lokomotiven",
+      "fullAnswer": "ein Lokomotive, zwei Lokomotiven",
+      "explanation": "The plural is Lokomotiven.",
+      "acceptedAnswers": [
+        "Lokomotiven"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Lokomotive mean?",
+      "options": [
+        "locomotive",
+        "cheap",
+        "the door"
+      ],
+      "answer": "locomotive",
+      "explanation": "Lokomotive: locomotive, engine.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Short form:",
+      "options": [
+        "die Lok",
+        "die Moto"
+      ],
+      "answer": "die Lok",
+      "explanation": "Short.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Lokführer is…",
+      "options": [
+        "train driver",
+        "tour guide"
+      ],
+      "answer": "train driver",
+      "explanation": "Person.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's first locomotive (1835) was…",
+      "options": [
+        "der Adler",
+        "der Falke"
+      ],
+      "answer": "der Adler",
+      "explanation": "1835.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Lokomotive (short: die Lok) is a locomotive. Germany's first railway ran from Nuremberg to Fürth in 1835, pulled by the Adler, built by Robert Stephenson's company in England. Der Lokführer is a train driver, and their union GDL is known for strikes. Figuratively, eine Lokomotive is a driving force: die Lokomotive der Wirtschaft. Plural: die Lokomotiven."
+}

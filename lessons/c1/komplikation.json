@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Komplikation",
+    "partOfSpeech": "noun, feminine (die Komplikation)",
+    "pronunciation": {
+      "respelling": "kom-pli-ka-TSYOHN",
+      "ipa": "kɔmplikaˈt͡si̯oːn",
+      "notes": "Plural: die Komplikationen."
+    },
+    "meaning": "complication",
+    "shortDefinition": "Complication."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Komplikation, plural die Komplikationen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Komplikation"
+        },
+        {
+          "label": "More than one",
+          "value": "die Komplikationen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Operation verlief ohne Komplikationen.",
+      "english": "The operation went without complications.",
+      "highlight": [
+        "Komplikationen."
+      ]
+    },
+    {
+      "german": "Es gab eine unerwartete Komplikation.",
+      "english": "There was an unexpected complication.",
+      "highlight": [
+        "Komplikation."
+      ]
+    }
+  ],
+  "forms": [
+    "Komplikationen",
+    "die Komplikationen",
+    "die Komplikation"
+  ],
+  "memoryHook": "Komplikation: when things get kompliziert.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Komplikation",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Komplikation is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Komplikation, zwei ___",
+      "answer": "Komplikationen",
+      "fullAnswer": "ein Komplikation, zwei Komplikationen",
+      "explanation": "The plural is Komplikationen.",
+      "acceptedAnswers": [
+        "Komplikationen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Komplikation mean?",
+      "options": [
+        "the station",
+        "complication",
+        "the key"
+      ],
+      "answer": "complication",
+      "explanation": "Komplikation: complication.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kompliziert means…",
+      "options": [
+        "complicated",
+        "complimented"
+      ],
+      "answer": "complicated",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Komplikationslos means…",
+      "options": [
+        "without complications",
+        "complicated"
+      ],
+      "answer": "without complications",
+      "explanation": "Smooth.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "-tion nouns are…",
+      "options": [
+        "feminine",
+        "masculine"
+      ],
+      "answer": "feminine",
+      "explanation": "die Komplikation.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Komplikation is a complication, especially in medicine: ohne Komplikationen, mögliche Komplikationen (a key part of informed consent before surgery, die Aufklärung). Kompliziert means complicated, and many Germans joke that their bureaucracy is unnötig kompliziert. Unkompliziert (uncomplicated, easy-going) is a compliment for people too: Sie ist total unkompliziert. Plural: die Komplikationen."
+}

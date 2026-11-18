@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "versenken",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-ZENG-ken",
+      "ipa": "fɛɐ̯ˈzɛŋkn̩",
+      "notes": ""
+    },
+    "meaning": "to sink (a ship); to sink (a ball)",
+    "shortDefinition": "To sink (a ship); to sink (a ball)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "versenk|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "versenk|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "versenk|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "versenk|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "versenk|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "versenk|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat versenkt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das U-Boot versenkte das Schiff.",
+      "english": "The submarine sank the ship.",
+      "highlight": [
+        "versenkte"
+      ]
+    },
+    {
+      "german": "Er versenkte den Ball im Netz.",
+      "english": "He put the ball in the net.",
+      "highlight": [
+        "versenkte"
+      ]
+    }
+  ],
+  "forms": [
+    "versenke",
+    "versenkst",
+    "versenkt",
+    "versenken",
+    "Versenkung"
+  ],
+  "memoryHook": "Versenken: make something sinken (sink).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (versenken)",
+      "answer": "versenkt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: versenkt.",
+      "acceptedAnswers": [
+        "versenkt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (versenken, past)",
+      "answer": "versenkt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe versenkt.",
+      "acceptedAnswers": [
+        "versenkt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does versenken mean?",
+      "options": [
+        "to sink (a ship)",
+        "to help",
+        "the window"
+      ],
+      "answer": "to sink (a ship)",
+      "explanation": "versenken: to sink (a ship); to sink (a ball).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schiffe versenken is…",
+      "options": [
+        "the game Battleships",
+        "a naval law"
+      ],
+      "answer": "the game Battleships",
+      "explanation": "Game.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich in etwas versenken means…",
+      "options": [
+        "to immerse oneself in something",
+        "to sink a ship"
+      ],
+      "answer": "to immerse oneself in something",
+      "explanation": "Immerse.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sinken (intransitive) means…",
+      "options": [
+        "to sink (by itself)",
+        "to make sink"
+      ],
+      "answer": "to sink (by itself)",
+      "explanation": "Intransitive.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Versenken means to sink something: ein Schiff versenken. Schiffe versenken is the German name for the game Battleships. In sport, it means to score: den Ball versenken. Reflexively, sich in ein Buch versenken means to immerse oneself. In der Versenkung verschwinden means to disappear from the public eye. Sinken (sank, gesunken) is the intransitive form: Das Schiff sinkt. Not separable: hat versenkt."
+}

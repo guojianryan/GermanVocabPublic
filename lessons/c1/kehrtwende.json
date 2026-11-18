@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kehrtwende",
+    "partOfSpeech": "noun, feminine (die Kehrtwende)",
+    "pronunciation": {
+      "respelling": "KAYRT-ven-de",
+      "ipa": "ˈkeːɐ̯tˌvɛndə",
+      "notes": "Plural: die Kehrtwenden."
+    },
+    "meaning": "U-turn, about-face",
+    "shortDefinition": "U-turn, about-face."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kehrtwende, plural die Kehrtwenden.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kehrtwende"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kehrtwenden"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Regierung vollzog eine Kehrtwende in der Energiepolitik.",
+      "english": "The government made a U-turn in energy policy.",
+      "highlight": [
+        "Kehrtwende"
+      ]
+    },
+    {
+      "german": "Nach dem Skandal kam die Kehrtwende.",
+      "english": "After the scandal came the about-face.",
+      "highlight": [
+        "Kehrtwende."
+      ]
+    }
+  ],
+  "forms": [
+    "Kehrtwenden",
+    "die Kehrtwende"
+  ],
+  "memoryHook": "Kehrtwende: a Wende (turn) on the command Kehrt! (about turn).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kehrtwende",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kehrtwende is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kehrtwende, zwei ___",
+      "answer": "Kehrtwenden",
+      "fullAnswer": "ein Kehrtwende, zwei Kehrtwenden",
+      "explanation": "The plural is Kehrtwenden.",
+      "acceptedAnswers": [
+        "Kehrtwenden"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kehrtwende mean?",
+      "options": [
+        "quiet",
+        "the bread",
+        "U-turn"
+      ],
+      "answer": "U-turn",
+      "explanation": "Kehrtwende: U-turn, about-face.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Kehrtwende vollziehen means…",
+      "options": [
+        "to make a U-turn (policy)",
+        "to sweep the floor"
+      ],
+      "answer": "to make a U-turn (policy)",
+      "explanation": "Phrase.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kehrt! (military) means…",
+      "options": [
+        "About turn!",
+        "Sweep!"
+      ],
+      "answer": "About turn!",
+      "explanation": "Military.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Wende, der Kurswechsel",
+        "die Kontinuität"
+      ],
+      "answer": "die Wende, der Kurswechsel",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kehrtwende is a U-turn or about-face, mostly figurative in politics: eine Kehrtwende vollziehen, eine 180-Grad-Wende. Merkel's decision to phase out nuclear power after Fukushima in 2011 is often cited as a classic Kehrtwende. It comes from the military command Kehrt! (about turn). Synonyms: der Kurswechsel, der Richtungswechsel. Plural: die Kehrtwenden."
+}

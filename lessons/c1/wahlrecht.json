@@ -1,0 +1,121 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wahlrecht",
+    "partOfSpeech": "noun, neuter (das Wahlrecht)",
+    "pronunciation": {
+      "respelling": "VAAL-rekht",
+      "ipa": "ˈvaːlˌʁɛçt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "right to vote; electoral law",
+    "shortDefinition": "Right to vote; electoral law."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Wahlrecht, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Wahlrecht"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In Deutschland hat man ab 18 das Wahlrecht.",
+      "english": "In Germany you have the right to vote from 18.",
+      "highlight": [
+        "Wahlrecht."
+      ]
+    },
+    {
+      "german": "Das Wahlrecht wurde 2023 reformiert.",
+      "english": "Electoral law was reformed in 2023.",
+      "highlight": [
+        "Wahlrecht"
+      ]
+    }
+  ],
+  "forms": [
+    "das Wahlrecht",
+    "Frauenwahlrecht"
+  ],
+  "memoryHook": "Wahlrecht: the Recht to Wahl.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wahlrecht",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Wahlrecht is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wahlrecht mean?",
+      "options": [
+        "to help",
+        "to sleep",
+        "right to vote"
+      ],
+      "answer": "right to vote",
+      "explanation": "Wahlrecht: right to vote; electoral law.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "German women got the vote in…",
+      "options": [
+        "1918",
+        "1945"
+      ],
+      "answer": "1918",
+      "explanation": "1918.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Frauenwahlrecht is…",
+      "options": [
+        "women's suffrage",
+        "a women's election"
+      ],
+      "answer": "women's suffrage",
+      "explanation": "Suffrage.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Two meanings:",
+      "options": [
+        "right to vote / electoral law",
+        "election / ballot box"
+      ],
+      "answer": "right to vote / electoral law",
+      "explanation": "Both.",
+      "id": "q5"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "das aktive ___ (right to vote)",
+      "answer": "Wahlrecht",
+      "fullAnswer": "das aktive Wahlrecht",
+      "explanation": "Wahlrecht.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Wahlrecht is both the right to vote and the electoral law. Das aktive Wahlrecht is the right to vote, das passive Wahlrecht the right to stand for election. German women gained the vote in November 1918 and first voted in January 1919. Voting age for the Bundestag is 18, but some states let 16-year-olds vote in local and state elections. A 2023 Wahlrechtsreform aimed to shrink the oversized Bundestag to 630 seats."
+}

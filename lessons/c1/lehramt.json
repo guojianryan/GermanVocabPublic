@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Lehramt",
+    "partOfSpeech": "noun, neuter (das Lehramt)",
+    "pronunciation": {
+      "respelling": "LAIR-amt",
+      "ipa": "ˈleːɐ̯ˌʔamt",
+      "notes": "Plural: die Lehrämter."
+    },
+    "meaning": "teaching (as a profession); teacher training",
+    "shortDefinition": "Teaching (as a profession); teacher training."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Lehramt, plural die Lehrämter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Lehramt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Lehrämter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie studiert Lehramt für Grundschulen.",
+      "english": "She's studying to be a primary school teacher.",
+      "highlight": [
+        "Lehramt"
+      ]
+    },
+    {
+      "german": "Nach dem Referendariat ist er im Lehramt tätig.",
+      "english": "After his traineeship he works as a teacher.",
+      "highlight": [
+        "Lehramt"
+      ]
+    }
+  ],
+  "forms": [
+    "Lehrämter",
+    "das Lehramt"
+  ],
+  "memoryHook": "Lehramt: the Amt (office) of teaching (lehren).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Lehramt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Lehramt is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Lehramt, zwei ___",
+      "answer": "Lehrämter",
+      "fullAnswer": "ein Lehramt, zwei Lehrämter",
+      "explanation": "The plural is Lehrämter.",
+      "acceptedAnswers": [
+        "Lehraemter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Lehramt mean?",
+      "options": [
+        "the station",
+        "teaching (as a profession)",
+        "the car"
+      ],
+      "answer": "teaching (as a profession)",
+      "explanation": "Lehramt: teaching (as a profession); teacher training.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Lehramt studieren means…",
+      "options": [
+        "to study to become a teacher",
+        "to study law"
+      ],
+      "answer": "to study to become a teacher",
+      "explanation": "Teacher.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Referendariat is…",
+      "options": [
+        "a practical teacher traineeship",
+        "a referendum"
+      ],
+      "answer": "a practical teacher traineeship",
+      "explanation": "Traineeship.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Amt is…",
+      "options": [
+        "office, post; authority",
+        "an ant"
+      ],
+      "answer": "office, post; authority",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Lehramt is the teaching profession or teacher training: Lehramt studieren (to train as a teacher, usually two subjects), das Lehramt an Gymnasien. After a university degree (Staatsexamen or Master of Education), German teachers complete a Referendariat, a paid practical traineeship of 12 to 24 months. In the Catholic Church, das Lehramt is the Magisterium. Plural: die Lehrämter."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rosenmontag",
+    "partOfSpeech": "noun, masculine (der Rosenmontag)",
+    "pronunciation": {
+      "respelling": "ROH-zen-mohn-taak",
+      "ipa": "ˈʁoːzn̩ˌmoːntaːk",
+      "notes": "Plural: die Rosenmontage."
+    },
+    "meaning": "Carnival Monday",
+    "shortDefinition": "Carnival Monday."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Rosenmontag, plural die Rosenmontage.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Rosenmontag"
+        },
+        {
+          "label": "More than one",
+          "value": "die Rosenmontage"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Am Rosenmontag ziehen große Umzüge durch Köln.",
+      "english": "On Carnival Monday big parades go through Cologne.",
+      "highlight": [
+        "Rosenmontag"
+      ]
+    },
+    {
+      "german": "Der Rosenmontagszug wird live im Fernsehen übertragen.",
+      "english": "The Carnival Monday parade is broadcast live on TV.",
+      "highlight": [
+        "Rosenmontagszug"
+      ]
+    }
+  ],
+  "forms": [
+    "Rosenmontage",
+    "der Rosenmontag"
+  ],
+  "memoryHook": "Rosenmontag: perhaps from rasen (to rave), not roses.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rosenmontag",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Rosenmontag is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Rosenmontag, zwei ___",
+      "answer": "Rosenmontage",
+      "fullAnswer": "ein Rosenmontag, zwei Rosenmontage",
+      "explanation": "The plural is Rosenmontage.",
+      "acceptedAnswers": [
+        "Rosenmontage"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rosenmontag mean?",
+      "options": [
+        "expensive",
+        "the flower",
+        "Carnival Monday"
+      ],
+      "answer": "Carnival Monday",
+      "explanation": "Rosenmontag: Carnival Monday.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rosenmontag is…",
+      "options": [
+        "the Monday before Ash Wednesday",
+        "a day in May"
+      ],
+      "answer": "the Monday before Ash Wednesday",
+      "explanation": "Date.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Famous parades are in…",
+      "options": [
+        "Köln, Düsseldorf, Mainz",
+        "Hamburg, Kiel"
+      ],
+      "answer": "Köln, Düsseldorf, Mainz",
+      "explanation": "Cities.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Typical Carnival call in Cologne:",
+      "options": [
+        "Kölle Alaaf!",
+        "Helau only"
+      ],
+      "answer": "Kölle Alaaf!",
+      "explanation": "Call.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Rosenmontag is Carnival Monday, the Monday before Aschermittwoch (Ash Wednesday) and the climax of Karneval in the Rhineland. Huge Rosenmontagszüge with satirical floats roll through Cologne, Düsseldorf and Mainz, throwing sweets (Kamelle) to crowds shouting Alaaf or Helau. Many offices close in these cities. The name probably comes from dialect rosen (to rave), not roses. Plural: die Rosenmontage."
+}

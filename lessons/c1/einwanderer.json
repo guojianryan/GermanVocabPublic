@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Einwanderer",
+    "partOfSpeech": "noun, masculine (der Einwanderer)",
+    "pronunciation": {
+      "respelling": "AIN-van-de-rer",
+      "ipa": "ˈaɪ̯nˌvandəʁɐ",
+      "notes": "Plural: die Einwanderer."
+    },
+    "meaning": "immigrant",
+    "shortDefinition": "Immigrant."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Einwanderer, plural die Einwanderer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Einwanderer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Einwanderer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Viele Einwanderer kamen aus der Türkei.",
+      "english": "Many immigrants came from Turkey.",
+      "highlight": [
+        "Einwanderer"
+      ]
+    },
+    {
+      "german": "Kanada ist ein Land der Einwanderer.",
+      "english": "Canada is a country of immigrants.",
+      "highlight": [
+        "Einwanderer."
+      ]
+    }
+  ],
+  "forms": [
+    "die Einwanderer",
+    "der Einwanderer",
+    "Einwanderin",
+    "einwandern",
+    "Einwanderung"
+  ],
+  "memoryHook": "Einwanderer: someone who wanders (wandert) in (ein).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Einwanderer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Einwanderer is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Einwanderer, zwei ___",
+      "answer": "Einwanderer",
+      "fullAnswer": "ein Einwanderer, zwei Einwanderer",
+      "explanation": "The plural is Einwanderer.",
+      "acceptedAnswers": [
+        "Einwanderer"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Einwanderer mean?",
+      "options": [
+        "immigrant",
+        "the flower",
+        "the window"
+      ],
+      "answer": "immigrant",
+      "explanation": "Einwanderer: immigrant.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einwandern means…",
+      "options": [
+        "to immigrate",
+        "to emigrate"
+      ],
+      "answer": "to immigrate",
+      "explanation": "ein = in.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Auswanderer is…",
+      "options": [
+        "the emigrant",
+        "the hiker"
+      ],
+      "answer": "the emigrant",
+      "explanation": "aus = out.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Einwanderungsland is…",
+      "options": [
+        "a country of immigration",
+        "a border"
+      ],
+      "answer": "a country of immigration",
+      "explanation": "Germany officially since 2000s.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Einwanderer (die Einwanderin) is an immigrant: Einwanderer aus Polen, aus Syrien. The opposite is der Auswanderer (emigrant); millions of Germans emigrated to America in the 19th century. For decades, German politicians insisted Deutschland ist kein Einwanderungsland, but that view has changed, and the 2020 Skilled Immigration Act (Fachkräfteeinwanderungsgesetz) aims to attract workers. Related: der Migrant, der Zuwanderer."
+}

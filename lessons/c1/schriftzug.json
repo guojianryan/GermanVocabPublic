@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schriftzug",
+    "partOfSpeech": "noun, masculine (der Schriftzug)",
+    "pronunciation": {
+      "respelling": "SHRIFT-tsook",
+      "ipa": "ˈʃʁɪftˌt͡suːk",
+      "notes": "Plural: die Schriftzüge."
+    },
+    "meaning": "lettering, logo (written)",
+    "shortDefinition": "Lettering, logo (written)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schriftzug, plural die Schriftzüge.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schriftzug"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schriftzüge"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Auf dem Shirt steht ein großer Schriftzug.",
+      "english": "There's big lettering on the shirt.",
+      "highlight": [
+        "Schriftzug."
+      ]
+    },
+    {
+      "german": "Der Hollywood-Schriftzug ist weltbekannt.",
+      "english": "The Hollywood sign is world-famous.",
+      "highlight": [
+        "Hollywood-Schriftzug"
+      ]
+    }
+  ],
+  "forms": [
+    "Schriftzüge",
+    "die Schriftzüge",
+    "der Schriftzug"
+  ],
+  "memoryHook": "Schriftzug: a stroke (Zug) of writing (Schrift).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schriftzug",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schriftzug is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schriftzug, zwei ___",
+      "answer": "Schriftzüge",
+      "fullAnswer": "ein Schriftzug, zwei Schriftzüge",
+      "explanation": "The plural is Schriftzüge.",
+      "acceptedAnswers": [
+        "Schriftzuege"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schriftzug mean?",
+      "options": [
+        "quiet",
+        "lettering",
+        "the flower"
+      ],
+      "answer": "lettering",
+      "explanation": "Schriftzug: lettering, logo (written).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schriftzug is…",
+      "options": [
+        "lettering, written logo",
+        "a train of letters"
+      ],
+      "answer": "lettering, written logo",
+      "explanation": "Lettering.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schrift is…",
+      "options": [
+        "writing; font, script",
+        "a shift"
+      ],
+      "answer": "writing; font, script",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schriftart is…",
+      "options": [
+        "font, typeface",
+        "art writing"
+      ],
+      "answer": "font, typeface",
+      "explanation": "Font.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Schriftzug is lettering or a written logo: der Schriftzug einer Marke, ein leuchtender Schriftzug (illuminated sign). Die Schrift is writing or script: die Handschrift, die Schriftart (font). Germany has a strong typography tradition: Gutenberg's printing press in Mainz (around 1450) and fonts like Futura and DIN. The old German Fraktur script was officially abolished in 1941. Plural: die Schriftzüge."
+}

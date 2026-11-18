@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "zufügen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "TSOO-fü-gen",
+      "ipa": "ˈt͡suːˌfyːɡn̩",
+      "notes": ""
+    },
+    "meaning": "to inflict; to add",
+    "shortDefinition": "To inflict; to add."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "füg|e … |zu"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "füg|st … |zu"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "füg|t … |zu"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "füg|en … |zu"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "füg|t … |zu"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "füg|en … |zu"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat zugefügt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hat ihr großen Schaden zugefügt.",
+      "english": "He inflicted great damage on her.",
+      "highlight": [
+        "zugefügt."
+      ]
+    },
+    {
+      "german": "Der Sturm hat dem Wald schweren Schaden zugefügt.",
+      "english": "The storm inflicted serious damage on the forest.",
+      "highlight": [
+        "zugefügt."
+      ]
+    }
+  ],
+  "forms": [
+    "füge zu",
+    "fügst zu",
+    "fügt zu",
+    "fügen zu",
+    "zugefügt",
+    "fügte zu"
+  ],
+  "memoryHook": "Zufügen: put (fügen) something onto (zu) someone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … zu (zufügen)",
+      "answer": "fügt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: fügt … zu.",
+      "acceptedAnswers": [
+        "fuegt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (zufügen, past)",
+      "answer": "zugefügt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe zugefügt.",
+      "acceptedAnswers": [
+        "zugefuegt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does zufügen mean?",
+      "options": [
+        "the station",
+        "to inflict",
+        "the flower"
+      ],
+      "answer": "to inflict",
+      "explanation": "zufügen: to inflict; to add.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandem Schmerzen zufügen means…",
+      "options": [
+        "to inflict pain on someone",
+        "to add pain to food"
+      ],
+      "answer": "to inflict pain on someone",
+      "explanation": "Inflict.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "For adding ingredients, Germans usually say…",
+      "options": [
+        "hinzufügen",
+        "zufügen only"
+      ],
+      "answer": "hinzufügen",
+      "explanation": "Add.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Was du nicht willst, dass man dir tu... is…",
+      "options": [
+        "the German golden rule proverb",
+        "a song"
+      ],
+      "answer": "the German golden rule proverb",
+      "explanation": "Proverb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Zufügen means to inflict, with a dative person: jemandem Schaden, Schmerzen, Leid zufügen. It also means to add, though hinzufügen is more common for that: Zucker hinzufügen. The German golden rule: Was du nicht willst, dass man dir tu, das füg auch keinem andern zu (do as you would be done by). Fügen means to join. Separable: fügte zu, zugefügt."
+}

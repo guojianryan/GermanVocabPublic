@@ -1,0 +1,188 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "besagen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-ZAA-gen",
+      "ipa": "bəˈzaːɡn̩",
+      "notes": ""
+    },
+    "meaning": "to state, to say, to indicate",
+    "shortDefinition": "To state, to say, to indicate."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "be",
+        "meaning": "a prefix that makes the verb about something"
+      },
+      {
+        "part": "sagen",
+        "meaning": "to say"
+      }
+    ],
+    "literalMeaning": "to say about"
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "besag|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "besag|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "besag|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "besag|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "besag|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "besag|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat besagt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Gesetz besagt, dass jeder Anspruch hat.",
+      "english": "The law states that everyone is entitled.",
+      "highlight": [
+        "besagt,"
+      ]
+    },
+    {
+      "german": "Das besagt gar nichts.",
+      "english": "That doesn't say anything at all.",
+      "highlight": [
+        "besagt"
+      ]
+    }
+  ],
+  "forms": [
+    "besage",
+    "besagst",
+    "besagt",
+    "besagen",
+    "besagte"
+  ],
+  "memoryHook": "Besagen: what a text itself says.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (besagen)",
+      "answer": "besagt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: besagt.",
+      "acceptedAnswers": [
+        "besagt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (besagen, past)",
+      "answer": "besagt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe besagt.",
+      "acceptedAnswers": [
+        "besagt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does besagen mean?",
+      "options": [
+        "to state",
+        "quiet",
+        "the shop"
+      ],
+      "answer": "to state",
+      "explanation": "besagen: to state, to say, to indicate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Besagen is used with…",
+      "options": [
+        "texts, laws, facts (not people)",
+        "people speaking"
+      ],
+      "answer": "texts, laws, facts (not people)",
+      "explanation": "Things say, not people.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Besagt, dass… means…",
+      "options": [
+        "states that…",
+        "denies that…"
+      ],
+      "answer": "states that…",
+      "explanation": "Says that.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Besagte means…",
+      "options": [
+        "the aforementioned",
+        "the sayings"
+      ],
+      "answer": "the aforementioned",
+      "explanation": "Legalese.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das besagt nichts means…",
+      "options": [
+        "that means nothing",
+        "that says everything"
+      ],
+      "answer": "that means nothing",
+      "explanation": "Nothing.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Besagen is a formal verb for things that say or indicate something, such as a law or a document: Die Regel besagt, dass... It isn't used for people talking. The participle besagt also works as an adjective in formal language: die besagte Person (the person in question). Das besagt nichts means that doesn't mean anything. For people, use sagen or erklären. It's inseparable, so no ge- in the participle."
+}

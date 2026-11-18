@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "auflisten",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AUF-lis-ten",
+      "ipa": "ˈaʊ̯fˌlɪstn̩",
+      "notes": ""
+    },
+    "meaning": "to list",
+    "shortDefinition": "To list."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "list|e … |auf"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "list|est … |auf"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "list|et … |auf"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "list|en … |auf"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "list|et … |auf"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "list|en … |auf"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat aufgelistet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bitte listen Sie alle Kosten auf.",
+      "english": "Please list all the costs.",
+      "highlight": [
+        "listen",
+        "auf."
+      ]
+    },
+    {
+      "german": "Die Zutaten sind auf der Packung aufgelistet.",
+      "english": "The ingredients are listed on the packet.",
+      "highlight": [
+        "aufgelistet."
+      ]
+    }
+  ],
+  "forms": [
+    "liste auf",
+    "listest auf",
+    "listet auf",
+    "listen auf",
+    "aufgelistet",
+    "listete auf",
+    "Auflistung"
+  ],
+  "memoryHook": "Auflisten: put things on (auf) a Liste.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … auf (auflisten)",
+      "answer": "listet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: listet … auf.",
+      "acceptedAnswers": [
+        "listet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (auflisten, past)",
+      "answer": "aufgelistet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe aufgelistet.",
+      "acceptedAnswers": [
+        "aufgelistet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does auflisten mean?",
+      "options": [
+        "cheap",
+        "the job",
+        "to list"
+      ],
+      "answer": "to list",
+      "explanation": "auflisten: to list.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Auflistung is…",
+      "options": [
+        "a list, listing",
+        "an auction"
+      ],
+      "answer": "a list, listing",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Liste is…",
+      "options": [
+        "list",
+        "trick"
+      ],
+      "answer": "list",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Auflisten is…",
+      "options": [
+        "separable",
+        "not separable"
+      ],
+      "answer": "separable",
+      "explanation": "listete auf.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Auflisten means to list or itemise: alle Ausgaben auflisten, Punkte auflisten. Die Auflistung is a list or listing: eine Auflistung aller Mitglieder. Germans famously love lists: die To-do-Liste, die Einkaufsliste, die Checkliste. Don't confuse die Liste with die List, which means trick or cunning: mit List und Tücke. Separable, with -e- before endings: listete auf, aufgelistet."
+}

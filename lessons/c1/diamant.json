@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Diamant",
+    "partOfSpeech": "noun, masculine (der Diamant)",
+    "pronunciation": {
+      "respelling": "di-a-MANT",
+      "ipa": "di̯aˈmant",
+      "notes": "Plural: die Diamanten."
+    },
+    "meaning": "diamond",
+    "shortDefinition": "Diamond."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Diamant, plural die Diamanten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Diamant"
+        },
+        {
+          "label": "More than one",
+          "value": "die Diamanten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Ring hat einen großen Diamanten.",
+      "english": "The ring has a large diamond.",
+      "highlight": [
+        "Diamanten."
+      ]
+    },
+    {
+      "german": "Diamanten sind sehr hart.",
+      "english": "Diamonds are very hard.",
+      "highlight": [
+        "Diamanten"
+      ]
+    }
+  ],
+  "forms": [
+    "Diamanten",
+    "die Diamanten",
+    "der Diamant"
+  ],
+  "memoryHook": "Diamant: the hardest (Greek adamas, unbreakable) stone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Diamant",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Diamant is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Diamant, zwei ___",
+      "answer": "Diamanten",
+      "fullAnswer": "ein Diamant, zwei Diamanten",
+      "explanation": "The plural is Diamanten.",
+      "acceptedAnswers": [
+        "Diamanten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Diamant mean?",
+      "options": [
+        "quiet",
+        "cheap",
+        "diamond"
+      ],
+      "answer": "diamond",
+      "explanation": "Diamant: diamond.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Diamant is a weak noun:",
+      "options": [
+        "den Diamanten",
+        "den Diamant"
+      ],
+      "answer": "den Diamanten",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Diamanthochzeit celebrates…",
+      "options": [
+        "60 years of marriage",
+        "25 years"
+      ],
+      "answer": "60 years of marriage",
+      "explanation": "Anniversary.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rohdiamant (figurative) means…",
+      "options": [
+        "a rough diamond, unpolished talent",
+        "a fake"
+      ],
+      "answer": "a rough diamond, unpolished talent",
+      "explanation": "Rough.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Diamant is a diamond: ein Diamantring, die Diamantenmine. It's a weak noun: den Diamanten. Figuratively, ein Rohdiamant is a rough diamond, an unpolished talent. Wedding anniversaries in German: Silberhochzeit (25 years), Goldene Hochzeit (50), Diamantene Hochzeit (60). Idar-Oberstein in the Hunsrück is Germany's gemstone town. Plural: die Diamanten."
+}

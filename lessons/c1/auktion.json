@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Auktion",
+    "partOfSpeech": "noun, feminine (die Auktion)",
+    "pronunciation": {
+      "respelling": "auk-TSYOHN",
+      "ipa": "aʊ̯kˈt͡si̯oːn",
+      "notes": "Plural: die Auktionen."
+    },
+    "meaning": "auction",
+    "shortDefinition": "Auction."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Auktion, plural die Auktionen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Auktion"
+        },
+        {
+          "label": "More than one",
+          "value": "die Auktionen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Gemälde wurde bei einer Auktion versteigert.",
+      "english": "The painting was sold at auction.",
+      "highlight": [
+        "Auktion"
+      ]
+    },
+    {
+      "german": "Er kauft gern bei Online-Auktionen.",
+      "english": "He likes buying at online auctions.",
+      "highlight": [
+        "Online-Auktionen."
+      ]
+    }
+  ],
+  "forms": [
+    "Auktionen",
+    "die Auktionen",
+    "die Auktion",
+    "Auktionator"
+  ],
+  "memoryHook": "Auktion: prices rise (Latin augere) until sold.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Auktion",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Auktion is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Auktion, zwei ___",
+      "answer": "Auktionen",
+      "fullAnswer": "ein Auktion, zwei Auktionen",
+      "explanation": "The plural is Auktionen.",
+      "acceptedAnswers": [
+        "Auktionen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Auktion mean?",
+      "options": [
+        "to wait",
+        "auction",
+        "to travel"
+      ],
+      "answer": "auction",
+      "explanation": "Auktion: auction.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Versteigern means…",
+      "options": [
+        "to auction off",
+        "to climb"
+      ],
+      "answer": "to auction off",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Versteigerung is…",
+      "options": [
+        "a synonym of Auktion",
+        "an increase"
+      ],
+      "answer": "a synonym of Auktion",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Auktionator is…",
+      "options": [
+        "the auctioneer",
+        "the buyer"
+      ],
+      "answer": "the auctioneer",
+      "explanation": "Person.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Auktion is an auction; the German synonym is die Versteigerung, and versteigern means to auction off. Der Auktionator is the auctioneer, who says zum Ersten, zum Zweiten, zum Dritten (going once, going twice, sold). Police and lost-property offices hold Fundsachenversteigerungen. Online, eBay was huge in Germany, and today Kleinanzeigen (classified ads) dominate private sales. From Latin augere (to increase). Plural: die Auktionen."
+}

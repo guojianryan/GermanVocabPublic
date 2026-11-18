@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "erschüttern",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "er-SHÜT-ern",
+      "ipa": "ɛɐ̯ˈʃʏtɐn",
+      "notes": ""
+    },
+    "meaning": "to shake; to shock deeply",
+    "shortDefinition": "To shake; to shock deeply."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "erschütter|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "erschütter|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "erschütter|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "erschütter|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "erschütter|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "erschütter|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat erschüttert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ein Erdbeben erschütterte die Region.",
+      "english": "An earthquake shook the region.",
+      "highlight": [
+        "erschütterte"
+      ]
+    },
+    {
+      "german": "Die Nachricht hat uns tief erschüttert.",
+      "english": "The news shocked us deeply.",
+      "highlight": [
+        "erschüttert."
+      ]
+    }
+  ],
+  "forms": [
+    "erschüttere",
+    "erschütterst",
+    "erschüttert",
+    "erschüttern",
+    "Erschütterung",
+    "erschütternd",
+    "unerschütterlich"
+  ],
+  "memoryHook": "Erschüttern: shaking the ground, or someone's heart.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (erschüttern)",
+      "answer": "erschüttert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: erschüttert.",
+      "acceptedAnswers": [
+        "erschuettert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (erschüttern, past)",
+      "answer": "erschüttert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe erschüttert.",
+      "acceptedAnswers": [
+        "erschuettert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does erschüttern mean?",
+      "options": [
+        "the bread",
+        "to shake",
+        "the key"
+      ],
+      "answer": "to shake",
+      "explanation": "erschüttern: to shake; to shock deeply.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Erschüttert sein means…",
+      "options": [
+        "to be deeply shocked",
+        "to be shaken (a drink)"
+      ],
+      "answer": "to be deeply shocked",
+      "explanation": "Emotional.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Erschütterung is…",
+      "options": [
+        "a tremor; shock",
+        "a shutter"
+      ],
+      "answer": "a tremor; shock",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unerschütterlich means…",
+      "options": [
+        "unshakeable",
+        "unshocked"
+      ],
+      "answer": "unshakeable",
+      "explanation": "Unshakeable.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Erschüttern means to shake, physically (Ein Erdbeben erschütterte die Stadt) or emotionally: Die Bilder haben mich erschüttert (the images deeply shocked me). Erschütternd means shocking or harrowing, and unerschütterlich unshakeable: ein unerschütterlicher Optimist. Shaking a cocktail, though, is schütteln. Die Erschütterung is a tremor or shock. Politicians are often erschüttert after tragedies, a standard word in condolence statements."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Lenker",
+    "partOfSpeech": "noun, masculine (der Lenker)",
+    "pronunciation": {
+      "respelling": "LENG-ker",
+      "ipa": "ˈlɛŋkɐ",
+      "notes": "Plural: die Lenker."
+    },
+    "meaning": "handlebars; driver",
+    "shortDefinition": "Handlebars; driver."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Lenker, plural die Lenker.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Lenker"
+        },
+        {
+          "label": "More than one",
+          "value": "die Lenker"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Halte den Lenker mit beiden Händen fest!",
+      "english": "Hold the handlebars with both hands!",
+      "highlight": [
+        "Lenker"
+      ]
+    },
+    {
+      "german": "Der Lenker des Fahrzeugs wurde verletzt.",
+      "english": "The driver of the vehicle was injured.",
+      "highlight": [
+        "Lenker"
+      ]
+    }
+  ],
+  "forms": [
+    "die Lenker",
+    "der Lenker",
+    "Lenkrad"
+  ],
+  "memoryHook": "Lenker: what you lenken (steer) with, or who steers.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Lenker",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Lenker is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Lenker, zwei ___",
+      "answer": "Lenker",
+      "fullAnswer": "ein Lenker, zwei Lenker",
+      "explanation": "The plural is Lenker.",
+      "acceptedAnswers": [
+        "Lenker"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Lenker mean?",
+      "options": [
+        "to learn",
+        "the flower",
+        "handlebars"
+      ],
+      "answer": "handlebars",
+      "explanation": "Lenker: handlebars; driver.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "On a bike, der Lenker is…",
+      "options": [
+        "the handlebars",
+        "the chain"
+      ],
+      "answer": "the handlebars",
+      "explanation": "Bike.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Lenken means…",
+      "options": [
+        "to steer; to direct",
+        "to lean"
+      ],
+      "answer": "to steer; to direct",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Lenkrad is…",
+      "options": [
+        "steering wheel",
+        "a bike"
+      ],
+      "answer": "steering wheel",
+      "explanation": "Car.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Lenker is the handlebars of a bicycle or motorbike, and also the driver of a vehicle (official German, especially Austrian: der Fahrzeuglenker). Lenken means to steer and to direct: den Blick auf etwas lenken (to draw attention to). Das Lenkrad is a car's steering wheel, and die Lenkung its steering. Figuratively, die Geschicke lenken means to direct affairs. Plural: die Lenker."
+}

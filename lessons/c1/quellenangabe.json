@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Quellenangabe",
+    "partOfSpeech": "noun, feminine (die Quellenangabe)",
+    "pronunciation": {
+      "respelling": "KVE-len-an-gaa-be",
+      "ipa": "ˈkvɛlənˌʔanɡaːbə",
+      "notes": "Plural: die Quellenangaben."
+    },
+    "meaning": "citation, reference",
+    "shortDefinition": "Citation, reference."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Quellenangabe, plural die Quellenangaben.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Quellenangabe"
+        },
+        {
+          "label": "More than one",
+          "value": "die Quellenangaben"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Zitate ohne Quellenangabe sind Plagiate.",
+      "english": "Quotations without references are plagiarism.",
+      "highlight": [
+        "Quellenangabe"
+      ]
+    },
+    {
+      "german": "Bitte achten Sie auf korrekte Quellenangaben.",
+      "english": "Please make sure your citations are correct.",
+      "highlight": [
+        "Quellenangaben."
+      ]
+    }
+  ],
+  "forms": [
+    "Quellenangaben",
+    "die Quellenangabe"
+  ],
+  "memoryHook": "Quellenangabe: Angabe (statement) of the Quelle (source).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Quellenangabe",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Quellenangabe is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Quellenangabe, zwei ___",
+      "answer": "Quellenangaben",
+      "fullAnswer": "ein Quellenangabe, zwei Quellenangaben",
+      "explanation": "The plural is Quellenangaben.",
+      "acceptedAnswers": [
+        "Quellenangaben"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Quellenangabe mean?",
+      "options": [
+        "the bed",
+        "citation",
+        "the door"
+      ],
+      "answer": "citation",
+      "explanation": "Quellenangabe: citation, reference.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Literaturverzeichnis is…",
+      "options": [
+        "bibliography",
+        "a library"
+      ],
+      "answer": "bibliography",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Fußnote is…",
+      "options": [
+        "footnote",
+        "a foot note in music"
+      ],
+      "answer": "footnote",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Angabe is…",
+      "options": [
+        "statement, information",
+        "a gift"
+      ],
+      "answer": "statement, information",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Quellenangabe is a citation or reference: Fotos ohne Quellenangabe, korrekte Quellenangaben in einer Hausarbeit. Missing citations led to the plagiarism scandals of several German politicians, such as Karl-Theodor zu Guttenberg in 2011, uncovered by the VroniPlag and GuttenPlag wikis. Related: die Fußnote, das Literaturverzeichnis (bibliography). Plural: die Quellenangaben."
+}

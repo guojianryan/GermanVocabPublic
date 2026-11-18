@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Feldherr",
+    "partOfSpeech": "noun, masculine (der Feldherr)",
+    "pronunciation": {
+      "respelling": "FELT-her",
+      "ipa": "ˈfɛltˌhɛʁ",
+      "notes": "Plural: die Feldherren."
+    },
+    "meaning": "military commander, general",
+    "shortDefinition": "Military commander, general."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Feldherr, plural die Feldherren.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Feldherr"
+        },
+        {
+          "label": "More than one",
+          "value": "die Feldherren"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Hannibal gilt als großer Feldherr.",
+      "english": "Hannibal is considered a great general.",
+      "highlight": [
+        "Feldherr."
+      ]
+    },
+    {
+      "german": "Der Feldherr führte seine Truppen über die Alpen.",
+      "english": "The commander led his troops across the Alps.",
+      "highlight": [
+        "Feldherr"
+      ]
+    }
+  ],
+  "forms": [
+    "Feldherren",
+    "Feldherrn",
+    "der Feldherr"
+  ],
+  "memoryHook": "Feldherr: the Herr (lord) of the Feld (battlefield).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Feldherr",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Feldherr is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Feldherr, zwei ___",
+      "answer": "Feldherren",
+      "fullAnswer": "ein Feldherr, zwei Feldherren",
+      "explanation": "The plural is Feldherren.",
+      "acceptedAnswers": [
+        "Feldherren"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Feldherr mean?",
+      "options": [
+        "quiet",
+        "the bill",
+        "military commander"
+      ],
+      "answer": "military commander",
+      "explanation": "Feldherr: military commander, general.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Feldherr is…",
+      "options": [
+        "historical, literary",
+        "a modern rank"
+      ],
+      "answer": "historical, literary",
+      "explanation": "Register.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Herr is a weak-ish noun, so…",
+      "options": [
+        "den Feldherrn (accusative)",
+        "den Feldherr"
+      ],
+      "answer": "den Feldherrn (accusative)",
+      "explanation": "Declension.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Feldherrnhalle is…",
+      "options": [
+        "a monument hall in Munich",
+        "a barracks"
+      ],
+      "answer": "a monument hall in Munich",
+      "explanation": "Munich.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Feldherr is a historical military commander or general, used for figures like Hannibal, Caesar or Frederick the Great. Like Herr, it takes -n in the singular oblique cases (den, dem, des Feldherrn) and -en in the plural. Munich's Feldherrnhalle honours Bavarian generals; Hitler's failed 1923 putsch ended there. Das Feldherrntalent means talent for leadership. Plural: die Feldherren."
+}

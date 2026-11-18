@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Reservat",
+    "partOfSpeech": "noun, neuter (das Reservat)",
+    "pronunciation": {
+      "respelling": "re-zer-VAAT",
+      "ipa": "ʁezɛʁˈvaːt",
+      "notes": "Plural: die Reservate."
+    },
+    "meaning": "reserve, reservation",
+    "shortDefinition": "Reserve, reservation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Reservat, plural die Reservate.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Reservat"
+        },
+        {
+          "label": "More than one",
+          "value": "die Reservate"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Reservat leben seltene Vögel.",
+      "english": "Rare birds live in the reserve.",
+      "highlight": [
+        "Reservat"
+      ]
+    },
+    {
+      "german": "Viele Native Americans leben in Reservaten.",
+      "english": "Many Native Americans live on reservations.",
+      "highlight": [
+        "Reservaten."
+      ]
+    }
+  ],
+  "forms": [
+    "Reservate",
+    "das Reservat"
+  ],
+  "memoryHook": "Reservat: an area reserviert (reserved).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Reservat",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Reservat is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Reservat, zwei ___",
+      "answer": "Reservate",
+      "fullAnswer": "ein Reservat, zwei Reservate",
+      "explanation": "The plural is Reservate.",
+      "acceptedAnswers": [
+        "Reservate"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Reservat mean?",
+      "options": [
+        "to open",
+        "reserve",
+        "the bed"
+      ],
+      "answer": "reserve",
+      "explanation": "Reservat: reserve, reservation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Naturschutzgebiet is…",
+      "options": [
+        "nature reserve",
+        "a nature park only"
+      ],
+      "answer": "nature reserve",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Biosphärenreservat is…",
+      "options": [
+        "a UNESCO biosphere reserve",
+        "a greenhouse"
+      ],
+      "answer": "a UNESCO biosphere reserve",
+      "explanation": "UNESCO.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Reservieren means…",
+      "options": [
+        "to reserve, book",
+        "to preserve"
+      ],
+      "answer": "to reserve, book",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Reservat is a reserve or reservation: ein Naturreservat, ein Indianerreservat (Native American reservation). Germany has 18 UNESCO Biosphärenreservate, such as the Spreewald and the Rhön. In everyday German, a nature reserve is usually das Naturschutzgebiet. Figuratively, ein Reservat can be a protected niche: ein Reservat für Raucher. Plural: die Reservate."
+}

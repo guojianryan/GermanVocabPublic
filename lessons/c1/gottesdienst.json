@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gottesdienst",
+    "partOfSpeech": "noun, masculine (der Gottesdienst)",
+    "pronunciation": {
+      "respelling": "GOT-es-deenst",
+      "ipa": "ˈɡɔtəsˌdiːnst",
+      "notes": "Plural: die Gottesdienste."
+    },
+    "meaning": "church service, worship",
+    "shortDefinition": "Church service, worship."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Gottesdienst, plural die Gottesdienste.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Gottesdienst"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gottesdienste"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Gottesdienst beginnt um zehn Uhr.",
+      "english": "The service starts at ten.",
+      "highlight": [
+        "Gottesdienst"
+      ]
+    },
+    {
+      "german": "An Weihnachten gehen viele in den Gottesdienst.",
+      "english": "At Christmas, many go to church.",
+      "highlight": [
+        "Gottesdienst."
+      ]
+    }
+  ],
+  "forms": [
+    "Gottesdienste",
+    "die Gottesdienste",
+    "der Gottesdienst"
+  ],
+  "memoryHook": "Gottesdienst: Dienst (service) for Gott.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gottesdienst",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Gottesdienst is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gottesdienst, zwei ___",
+      "answer": "Gottesdienste",
+      "fullAnswer": "ein Gottesdienst, zwei Gottesdienste",
+      "explanation": "The plural is Gottesdienste.",
+      "acceptedAnswers": [
+        "Gottesdienste"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gottesdienst mean?",
+      "options": [
+        "church service",
+        "never",
+        "expensive"
+      ],
+      "answer": "church service",
+      "explanation": "Gottesdienst: church service, worship.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Messe is…",
+      "options": [
+        "a Catholic mass (also a trade fair)",
+        "a Protestant service only"
+      ],
+      "answer": "a Catholic mass (also a trade fair)",
+      "explanation": "Messe.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Literally:",
+      "options": [
+        "God's service",
+        "God's house"
+      ],
+      "answer": "God's service",
+      "explanation": "Gottes + Dienst.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The linking -es- is…",
+      "options": [
+        "genitive of Gott",
+        "plural"
+      ],
+      "answer": "genitive of Gott",
+      "explanation": "Gottes.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Gottesdienst is a church service: Gottesdienst feiern, in den Gottesdienst gehen. For Catholics, it's also die Messe, which also means a trade fair. Literally it means God's service: Gottes (genitive) + der Dienst. Only a small minority of Germans attend weekly, but Christmas Eve services (Christmette) are packed. Der Gottesdienst is also used for Jewish and Muslim worship."
+}

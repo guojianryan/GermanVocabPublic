@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "untertauchen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "UN-ter-tau-khen",
+      "ipa": "ˈʊntɐˌtaʊ̯xn̩",
+      "notes": ""
+    },
+    "meaning": "to dive under; to go into hiding",
+    "shortDefinition": "To dive under; to go into hiding."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "tauch|e … |unter"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "tauch|st … |unter"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "tauch|t … |unter"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "tauch|en … |unter"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "tauch|t … |unter"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "tauch|en … |unter"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist untergetaucht"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Verdächtige ist untergetaucht.",
+      "english": "The suspect has gone into hiding.",
+      "highlight": [
+        "untergetaucht."
+      ]
+    },
+    {
+      "german": "Die Ente tauchte unter und kam weiter hinten wieder hoch.",
+      "english": "The duck dived under and came up further back.",
+      "highlight": [
+        "tauchte",
+        "unter"
+      ]
+    }
+  ],
+  "forms": [
+    "tauche unter",
+    "tauchst unter",
+    "taucht unter",
+    "tauchen unter",
+    "untergetaucht",
+    "tauchte unter"
+  ],
+  "memoryHook": "Untertauchen: tauchen (dive) under (unter).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … unter (untertauchen)",
+      "answer": "taucht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: taucht … unter.",
+      "acceptedAnswers": [
+        "taucht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (untertauchen, past)",
+      "answer": "untergetaucht",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin untergetaucht.",
+      "acceptedAnswers": [
+        "untergetaucht"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does untertauchen mean?",
+      "options": [
+        "never",
+        "the child",
+        "to dive under"
+      ],
+      "answer": "to dive under",
+      "explanation": "untertauchen: to dive under; to go into hiding.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, untertauchen means…",
+      "options": [
+        "to go into hiding, disappear",
+        "to drown"
+      ],
+      "answer": "to go into hiding, disappear",
+      "explanation": "Hiding.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Auxiliary (intransitive):",
+      "options": [
+        "sein",
+        "haben"
+      ],
+      "answer": "sein",
+      "explanation": "Movement.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Tauchen means…",
+      "options": [
+        "to dive",
+        "to swap"
+      ],
+      "answer": "to dive",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Untertauchen means to dive under water, and figuratively to go into hiding or disappear: Der Täter ist untergetaucht. During the Nazi era, thousands of Jews survived by untertauchen in Berlin, called U-Boote. Transitively with haben, jemanden untertauchen means to dunk someone. Tauchen means to dive. Separable: tauchte unter, ist untergetaucht."
+}

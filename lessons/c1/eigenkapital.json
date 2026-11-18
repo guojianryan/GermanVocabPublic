@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Eigenkapital",
+    "partOfSpeech": "noun, neuter (das Eigenkapital)",
+    "pronunciation": {
+      "respelling": "AI-gen-ka-pi-taal",
+      "ipa": "ˈaɪ̯ɡn̩kapiˌtaːl",
+      "notes": "Usually no plural."
+    },
+    "meaning": "equity, own capital",
+    "shortDefinition": "Equity, own capital."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Eigenkapital, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Eigenkapital"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Für den Hauskauf braucht man Eigenkapital.",
+      "english": "You need your own capital to buy a house.",
+      "highlight": [
+        "Eigenkapital."
+      ]
+    },
+    {
+      "german": "Banken müssen mehr Eigenkapital vorhalten.",
+      "english": "Banks have to hold more equity.",
+      "highlight": [
+        "Eigenkapital"
+      ]
+    }
+  ],
+  "forms": [
+    "das Eigenkapital"
+  ],
+  "memoryHook": "Eigenkapital: one's eigenes (own) Kapital.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Eigenkapital",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Eigenkapital is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Eigenkapital mean?",
+      "options": [
+        "hot",
+        "to help",
+        "equity"
+      ],
+      "answer": "equity",
+      "explanation": "Eigenkapital: equity, own capital.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Fremdkapital is…",
+      "options": [
+        "borrowed capital, debt",
+        "foreign currency"
+      ],
+      "answer": "borrowed capital, debt",
+      "explanation": "Opposite.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "German banks usually expect for a mortgage…",
+      "options": [
+        "about 20% Eigenkapital",
+        "no deposit"
+      ],
+      "answer": "about 20% Eigenkapital",
+      "explanation": "Deposit.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eigen means…",
+      "options": [
+        "own",
+        "egg"
+      ],
+      "answer": "own",
+      "explanation": "Root.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Eigenkapital is equity or one's own capital, as opposed to das Fremdkapital (borrowed money). For a mortgage, German banks usually expect buyers to bring Eigenkapital of about 20 percent plus the purchase costs, which is one reason home ownership in Germany is low compared with other EU countries. Banks must hold minimum Eigenkapital under Basel rules. It has no plural."
+}

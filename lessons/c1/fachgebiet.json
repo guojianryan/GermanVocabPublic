@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fachgebiet",
+    "partOfSpeech": "noun, neuter (das Fachgebiet)",
+    "pronunciation": {
+      "respelling": "FAKH-ge-beet",
+      "ipa": "ˈfaxɡəˌbiːt",
+      "notes": "Plural: die Fachgebiete."
+    },
+    "meaning": "field, area of expertise",
+    "shortDefinition": "Field, area of expertise."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Fachgebiet, plural die Fachgebiete.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Fachgebiet"
+        },
+        {
+          "label": "More than one",
+          "value": "die Fachgebiete"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das ist nicht mein Fachgebiet.",
+      "english": "That's not my field.",
+      "highlight": [
+        "Fachgebiet."
+      ]
+    },
+    {
+      "german": "Sein Fachgebiet ist die Kinderheilkunde.",
+      "english": "His speciality is paediatrics.",
+      "highlight": [
+        "Fachgebiet"
+      ]
+    }
+  ],
+  "forms": [
+    "Fachgebiete",
+    "die Fachgebiete",
+    "das Fachgebiet"
+  ],
+  "memoryHook": "Fachgebiet: the Gebiet (area) of one's Fach (subject).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fachgebiet",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Fachgebiet is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Fachgebiet, zwei ___",
+      "answer": "Fachgebiete",
+      "fullAnswer": "ein Fachgebiet, zwei Fachgebiete",
+      "explanation": "The plural is Fachgebiete.",
+      "acceptedAnswers": [
+        "Fachgebiete"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fachgebiet mean?",
+      "options": [
+        "field",
+        "the child",
+        "to buy"
+      ],
+      "answer": "field",
+      "explanation": "Fachgebiet: field, area of expertise.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Fach is…",
+      "options": [
+        "subject; compartment",
+        "a fact"
+      ],
+      "answer": "subject; compartment",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gebiet is…",
+      "options": [
+        "area, region; field",
+        "a prayer"
+      ],
+      "answer": "area, region; field",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Fachmann is…",
+      "options": [
+        "expert, specialist",
+        "a shelf man"
+      ],
+      "answer": "expert, specialist",
+      "explanation": "Expert.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Fachgebiet is a field or area of expertise: Das fällt nicht in mein Fachgebiet (that's not my field). German loves Fach- compounds: der Fachmann (expert), der Facharzt (specialist doctor), die Fachkraft (skilled worker), das Fachwissen, der Fachbegriff (technical term), die Fachhochschule (university of applied sciences). Das Fach also means school subject. Plural: die Fachgebiete."
+}

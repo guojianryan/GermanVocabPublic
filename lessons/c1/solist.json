@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Solist",
+    "partOfSpeech": "noun, masculine (der Solist)",
+    "pronunciation": {
+      "respelling": "zo-LIST",
+      "ipa": "zoˈlɪst",
+      "notes": "Plural: die Solisten."
+    },
+    "meaning": "soloist",
+    "shortDefinition": "Soloist."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Solist, plural die Solisten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Solist"
+        },
+        {
+          "label": "More than one",
+          "value": "die Solisten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Solistin sang die Arie wunderschön.",
+      "english": "The soloist sang the aria beautifully.",
+      "highlight": [
+        "Solistin"
+      ]
+    },
+    {
+      "german": "Er ist Solist bei den Berliner Philharmonikern.",
+      "english": "He's a soloist with the Berlin Philharmonic.",
+      "highlight": [
+        "Solist"
+      ]
+    }
+  ],
+  "forms": [
+    "Solisten",
+    "die Solisten",
+    "der Solist",
+    "Solistin"
+  ],
+  "memoryHook": "Solist: someone who performs solo (alone).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Solist",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Solist is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Solist, zwei ___",
+      "answer": "Solisten",
+      "fullAnswer": "ein Solist, zwei Solisten",
+      "explanation": "The plural is Solisten.",
+      "acceptedAnswers": [
+        "Solisten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Solist mean?",
+      "options": [
+        "the bread",
+        "soloist",
+        "the car"
+      ],
+      "answer": "soloist",
+      "explanation": "Solist: soloist.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Solist is a weak noun:",
+      "options": [
+        "den Solisten",
+        "den Solist"
+      ],
+      "answer": "den Solisten",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Solo is…",
+      "options": [
+        "solo",
+        "a sole"
+      ],
+      "answer": "solo",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Solo tanzen means…",
+      "options": [
+        "to dance a solo; (football) to dribble alone",
+        "to dance badly"
+      ],
+      "answer": "to dance a solo; (football) to dribble alone",
+      "explanation": "Solo.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Solist (die Solistin) is a soloist: in a concert, choir or ballet. It's a weak noun: den Solisten. Das Solo is a solo, and in football ein Solo is a solo run with the ball. Figuratively, ein Solist is a loner or someone who acts alone, the opposite of a team player. The Berlin Philharmonic is one of the world's leading orchestras. Plural: die Solisten."
+}

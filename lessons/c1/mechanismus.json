@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mechanismus",
+    "partOfSpeech": "noun, masculine (der Mechanismus)",
+    "pronunciation": {
+      "respelling": "me-kha-NIS-mus",
+      "ipa": "meçaˈnɪsmʊs",
+      "notes": "Plural: die Mechanismen."
+    },
+    "meaning": "mechanism",
+    "shortDefinition": "Mechanism."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Mechanismus, plural die Mechanismen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Mechanismus"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mechanismen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Mechanismus der Uhr ist kompliziert.",
+      "english": "The watch's mechanism is complicated.",
+      "highlight": [
+        "Mechanismus"
+      ]
+    },
+    {
+      "german": "Es fehlen wirksame Kontrollmechanismen.",
+      "english": "Effective control mechanisms are lacking.",
+      "highlight": [
+        "Kontrollmechanismen."
+      ]
+    }
+  ],
+  "forms": [
+    "Mechanismen",
+    "die Mechanismen",
+    "der Mechanismus"
+  ],
+  "memoryHook": "Mechanismus: the machinery that makes it work.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mechanismus",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Mechanismus is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mechanismus, zwei ___",
+      "answer": "Mechanismen",
+      "fullAnswer": "ein Mechanismus, zwei Mechanismen",
+      "explanation": "The plural is Mechanismen.",
+      "acceptedAnswers": [
+        "Mechanismen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mechanismus mean?",
+      "options": [
+        "mechanism",
+        "to wait",
+        "the door"
+      ],
+      "answer": "mechanism",
+      "explanation": "Mechanismus: mechanism.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Mechanismen",
+        "die Mechanismusse"
+      ],
+      "answer": "die Mechanismen",
+      "explanation": "-men.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Mechanik is…",
+      "options": [
+        "mechanics",
+        "a mechanic"
+      ],
+      "answer": "mechanics",
+      "explanation": "Mechanics.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Mechaniker is…",
+      "options": [
+        "a mechanic",
+        "a mechanism"
+      ],
+      "answer": "a mechanic",
+      "explanation": "Person.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Mechanismus is a mechanism, both physical (der Mechanismus eines Schlosses) and abstract: Abwehrmechanismus (defence mechanism), Kontrollmechanismus. The EU has many: der Rettungsmechanismus, der Rechtsstaatsmechanismus. Die Mechanik is mechanics, and der Mechaniker (or Kfz-Mechatroniker today) is a mechanic. Germany's tradition of precision clockwork includes the watchmaking town of Glashütte. Plural: die Mechanismen."
+}

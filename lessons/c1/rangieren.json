@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "rangieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "rang-ZHEE-ren",
+      "ipa": "ʁãˈʒiːʁən",
+      "notes": ""
+    },
+    "meaning": "to shunt (trains); to rank",
+    "shortDefinition": "To shunt (trains); to rank."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "rangier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "rangier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "rangier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "rangier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "rangier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "rangier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat rangiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Lok rangiert im Güterbahnhof.",
+      "english": "The locomotive is shunting in the freight yard.",
+      "highlight": [
+        "rangiert"
+      ]
+    },
+    {
+      "german": "Das Thema rangiert ganz oben auf der Liste.",
+      "english": "The topic ranks right at the top of the list.",
+      "highlight": [
+        "rangiert"
+      ]
+    }
+  ],
+  "forms": [
+    "rangiere",
+    "rangierst",
+    "rangiert",
+    "rangieren"
+  ],
+  "memoryHook": "Rangieren: arrange (French ranger) in order.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (rangieren)",
+      "answer": "rangiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: rangiert.",
+      "acceptedAnswers": [
+        "rangiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (rangieren, past)",
+      "answer": "rangiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe rangiert.",
+      "acceptedAnswers": [
+        "rangiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does rangieren mean?",
+      "options": [
+        "hot",
+        "to shunt (trains)",
+        "the window"
+      ],
+      "answer": "to shunt (trains)",
+      "explanation": "rangieren: to shunt (trains); to rank.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rangieren (trains) means…",
+      "options": [
+        "to shunt, manoeuvre",
+        "to range"
+      ],
+      "answer": "to shunt, manoeuvre",
+      "explanation": "Trains.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "An erster Stelle rangieren means…",
+      "options": [
+        "to rank first",
+        "to park first"
+      ],
+      "answer": "to rank first",
+      "explanation": "Rank.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Rangierbahnhof is…",
+      "options": [
+        "marshalling yard",
+        "a ranger station"
+      ],
+      "answer": "marshalling yard",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Rangieren means to shunt or manoeuvre trains and vehicles: Güterwagen rangieren, mit dem Auto rangieren (to manoeuvre into a tight spot). It also means to rank: auf Platz drei rangieren, ganz oben rangieren. Der Rangierbahnhof is a marshalling yard; Maschen near Hamburg is one of Europe's largest. The g is pronounced as in French. Perfect: hat rangiert."
+}

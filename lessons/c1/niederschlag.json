@@ -1,0 +1,155 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Niederschlag",
+    "partOfSpeech": "noun, masculine (der Niederschlag)",
+    "pronunciation": {
+      "respelling": "NEE-der-shlaak",
+      "ipa": "ˈniːdɐˌʃlaːk",
+      "notes": "Plural: die Niederschläge."
+    },
+    "meaning": "precipitation; sediment; reflection (in)",
+    "shortDefinition": "Precipitation; sediment; reflection (in)."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "nieder",
+        "meaning": "down"
+      },
+      {
+        "part": "Schlag",
+        "meaning": "blow, strike"
+      }
+    ],
+    "literalMeaning": "a striking-down"
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Niederschlag, plural die Niederschläge.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Niederschlag"
+        },
+        {
+          "label": "More than one",
+          "value": "die Niederschläge"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Morgen ist mit starkem Niederschlag zu rechnen.",
+      "english": "Heavy precipitation is expected tomorrow.",
+      "highlight": [
+        "Niederschlag"
+      ]
+    },
+    {
+      "german": "Die Ereignisse fanden ihren Niederschlag in seinen Romanen.",
+      "english": "The events found their expression in his novels.",
+      "highlight": [
+        "Niederschlag"
+      ]
+    }
+  ],
+  "forms": [
+    "Niederschläge",
+    "die Niederschläge",
+    "der Niederschlag",
+    "Niederschlagsmenge"
+  ],
+  "memoryHook": "Niederschlag: what falls from the sky, or settles.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Niederschlag",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Niederschlag is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Niederschlag, zwei ___",
+      "answer": "Niederschläge",
+      "fullAnswer": "ein Niederschlag, zwei Niederschläge",
+      "explanation": "The plural is Niederschläge.",
+      "acceptedAnswers": [
+        "Niederschlaege"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Niederschlag mean?",
+      "options": [
+        "precipitation",
+        "cheap",
+        "to open"
+      ],
+      "answer": "precipitation",
+      "explanation": "Niederschlag: precipitation; sediment; reflection (in).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Niederschläge",
+        "Niederschlage"
+      ],
+      "answer": "Niederschläge",
+      "explanation": "Umlaut.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In a weather report, Niederschlag covers…",
+      "options": [
+        "rain, snow, hail",
+        "only rain"
+      ],
+      "answer": "rain, snow, hail",
+      "explanation": "All forms.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Seinen Niederschlag finden in means…",
+      "options": [
+        "to be reflected in",
+        "to be rained on"
+      ],
+      "answer": "to be reflected in",
+      "explanation": "Figurative.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "In chemistry, der Niederschlag is…",
+      "options": [
+        "a precipitate",
+        "a solvent"
+      ],
+      "answer": "a precipitate",
+      "explanation": "Sediment.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Der Niederschlag is the weather word for precipitation: rain, snow, sleet and hail, as in die Niederschlagsmenge (amount of rainfall). Weather reports mention Niederschlagswahrscheinlichkeit (probability of precipitation). It also means a precipitate in chemistry, and figuratively, to find its Niederschlag in something is to be reflected in it. The verb niederschlagen means to knock down, and niedergeschlagen means dejected."
+}

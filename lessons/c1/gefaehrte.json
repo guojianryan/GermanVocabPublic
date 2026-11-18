@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gefährte",
+    "partOfSpeech": "noun, masculine (der Gefährte)",
+    "pronunciation": {
+      "respelling": "ge-FAIR-te",
+      "ipa": "ɡəˈfɛːɐ̯tə",
+      "notes": "Plural: die Gefährten."
+    },
+    "meaning": "companion",
+    "shortDefinition": "Companion."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Gefährte, plural die Gefährten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Gefährte"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gefährten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Hund ist sein treuer Gefährte.",
+      "english": "The dog is his faithful companion.",
+      "highlight": [
+        "Gefährte."
+      ]
+    },
+    {
+      "german": "Die Gefährten machten sich auf den Weg.",
+      "english": "The companions set out.",
+      "highlight": [
+        "Gefährten"
+      ]
+    }
+  ],
+  "forms": [
+    "Gefährten",
+    "die Gefährten",
+    "der Gefährte",
+    "Gefährtin",
+    "Lebensgefährte"
+  ],
+  "memoryHook": "Gefährte: someone who travels (fahren) with you.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gefährte",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Gefährte is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gefährte, zwei ___",
+      "answer": "Gefährten",
+      "fullAnswer": "ein Gefährte, zwei Gefährten",
+      "explanation": "The plural is Gefährten.",
+      "acceptedAnswers": [
+        "Gefaehrten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gefährte mean?",
+      "options": [
+        "cheap",
+        "the car",
+        "companion"
+      ],
+      "answer": "companion",
+      "explanation": "Gefährte: companion.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gefährte is a weak noun:",
+      "options": [
+        "den Gefährten",
+        "den Gefährte"
+      ],
+      "answer": "den Gefährten",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Lebensgefährtin is…",
+      "options": [
+        "life partner (unmarried)",
+        "a lifeguard"
+      ],
+      "answer": "life partner (unmarried)",
+      "explanation": "Partner.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gefährt is…",
+      "options": [
+        "vehicle (humorous)",
+        "danger"
+      ],
+      "answer": "vehicle (humorous)",
+      "explanation": "Different.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Gefährte (die Gefährtin) is a companion, originally a fellow traveller (from fahren): ein treuer Gefährte. Der Lebensgefährte (die Lebensgefährtin) is a life partner, the standard term for an unmarried partner. Die Gefährten is the German title of The Fellowship of the Ring. It's a weak noun: den Gefährten. Don't confuse it with das Gefährt (vehicle) or die Gefahr (danger). Plural: die Gefährten."
+}

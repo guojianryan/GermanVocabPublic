@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "vereiteln",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-AI-teln",
+      "ipa": "fɛɐ̯ˈʔaɪ̯tl̩n",
+      "notes": ""
+    },
+    "meaning": "to thwart, foil",
+    "shortDefinition": "To thwart, foil."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "vereitl|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "vereitel|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "vereitel|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "vereitel|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "vereitel|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "vereitel|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat vereitelt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Polizei hat einen Anschlag vereitelt.",
+      "english": "The police foiled an attack.",
+      "highlight": [
+        "vereitelt."
+      ]
+    },
+    {
+      "german": "Der Torwart vereitelte die Chance.",
+      "english": "The goalkeeper thwarted the chance.",
+      "highlight": [
+        "vereitelte"
+      ]
+    }
+  ],
+  "forms": [
+    "vereitle",
+    "vereitelst",
+    "vereitelt",
+    "vereiteln",
+    "vereitelte"
+  ],
+  "memoryHook": "Vereiteln: make a plan eitel (empty, futile).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (vereiteln)",
+      "answer": "vereitelt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: vereitelt.",
+      "acceptedAnswers": [
+        "vereitelt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (vereiteln, past)",
+      "answer": "vereitelt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe vereitelt.",
+      "acceptedAnswers": [
+        "vereitelt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does vereiteln mean?",
+      "options": [
+        "the window",
+        "to thwart",
+        "slowly"
+      ],
+      "answer": "to thwart",
+      "explanation": "vereiteln: to thwart, foil.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vereiteln means…",
+      "options": [
+        "to thwart, foil",
+        "to make vain"
+      ],
+      "answer": "to thwart, foil",
+      "explanation": "Thwart.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eitel originally meant…",
+      "options": [
+        "empty, vain (futile)",
+        "proud only"
+      ],
+      "answer": "empty, vain (futile)",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "verhindern, durchkreuzen",
+        "fördern"
+      ],
+      "answer": "verhindern, durchkreuzen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Vereiteln means to thwart or foil: einen Anschlag, einen Fluchtversuch, Pläne vereiteln. Goalkeepers vereiteln chances in football reports. It comes from eitel in its old meaning of empty or futile. Synonyms: verhindern, durchkreuzen, zunichtemachen. Strafvereitelung (§258 StGB) is obstruction of justice. Regular: vereitelte, vereitelt."
+}

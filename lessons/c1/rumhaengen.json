@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "rumhängen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "RUM-heng-en",
+      "ipa": "ˈʁʊmˌhɛŋən",
+      "notes": ""
+    },
+    "meaning": "to hang around, loaf about (colloquial)",
+    "shortDefinition": "To hang around, loaf about (colloquial)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "häng|e … |rum"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "häng|st … |rum"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "häng|t … |rum"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "häng|en … |rum"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "häng|t … |rum"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "häng|en … |rum"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat rumgehangen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Jugendlichen hängen am Bahnhof rum.",
+      "english": "The teenagers hang around at the station.",
+      "highlight": [
+        "hängen",
+        "rum."
+      ]
+    },
+    {
+      "german": "Ich hab am Wochenende nur rumgehangen.",
+      "english": "I just loafed about at the weekend.",
+      "highlight": [
+        "rumgehangen."
+      ]
+    }
+  ],
+  "forms": [
+    "hänge rum",
+    "hängst rum",
+    "hängt rum",
+    "hängen rum",
+    "rumgehangen",
+    "hing rum"
+  ],
+  "memoryHook": "Rumhängen: hängen (hang) herum (around).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … rum (rumhängen)",
+      "answer": "hängt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: hängt … rum.",
+      "acceptedAnswers": [
+        "haengt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (rumhängen, past)",
+      "answer": "rumgehangen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe rumgehangen.",
+      "acceptedAnswers": [
+        "rumgehangen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does rumhängen mean?",
+      "options": [
+        "quiet",
+        "to hang around",
+        "to open"
+      ],
+      "answer": "to hang around",
+      "explanation": "rumhängen: to hang around, loaf about (colloquial).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rum- is short for…",
+      "options": [
+        "herum (around)",
+        "rum (drink)"
+      ],
+      "answer": "herum (around)",
+      "explanation": "Prefix.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "abhängen, faulenzen, chillen",
+        "arbeiten"
+      ],
+      "answer": "abhängen, faulenzen, chillen",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "hing rum, rumgehangen",
+        "hängte rum"
+      ],
+      "answer": "hing rum, rumgehangen",
+      "explanation": "Irregular.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Rumhängen (colloquial for herumhängen) means to hang around or loaf about: am Handy rumhängen, mit Freunden rumhängen. Rum- is the spoken form of herum- (around), as in rumsitzen, rumlaufen, rumnerven. Synonyms: abhängen, chillen, faulenzen. Irregular like intransitive hängen: hing rum, hat rumgehangen (southern ist also)."
+}

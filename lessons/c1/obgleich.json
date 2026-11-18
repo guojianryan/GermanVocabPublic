@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "obgleich",
+    "partOfSpeech": "conjunction",
+    "pronunciation": {
+      "respelling": "op-GLAIKH",
+      "ipa": "ɔpˈɡlaɪ̯ç",
+      "notes": ""
+    },
+    "meaning": "although (formal)",
+    "shortDefinition": "Although (formal)."
+  },
+  "sampleSentences": [
+    {
+      "german": "Obgleich es regnete, gingen wir spazieren.",
+      "english": "Although it was raining, we went for a walk.",
+      "highlight": [
+        "Obgleich"
+      ]
+    },
+    {
+      "german": "Er kam, obgleich er krank war.",
+      "english": "He came although he was ill.",
+      "highlight": [
+        "obgleich"
+      ]
+    }
+  ],
+  "forms": [
+    "obgleich"
+  ],
+  "memoryHook": "Obgleich: the formal twin of obwohl.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does obgleich mean?",
+      "options": [
+        "never",
+        "although (formal)",
+        "expensive"
+      ],
+      "answer": "although (formal)",
+      "explanation": "obgleich: although (formal).",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Obgleich sends the verb…",
+      "options": [
+        "to the end of the clause",
+        "to second position"
+      ],
+      "answer": "to the end of the clause",
+      "explanation": "Subordinate.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday synonym:",
+      "options": [
+        "obwohl",
+        "trotzdem"
+      ],
+      "answer": "obwohl",
+      "explanation": "Obwohl.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal, literary",
+        "colloquial"
+      ],
+      "answer": "formal, literary",
+      "explanation": "Formal.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ er müde war, arbeitete er weiter. (although)",
+      "answer": "Obgleich",
+      "fullAnswer": "Obgleich er müde war, arbeitete er weiter.",
+      "explanation": "Obgleich.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Obgleich means although and is a formal, literary synonym of obwohl: Obgleich er reich war, lebte er bescheiden. Like obwohl, it introduces a subordinate clause with the verb at the end. Other formal equivalents: obschon, wenngleich, wiewohl. In speech, people say obwohl, or use trotzdem in the main clause: Es regnete, trotzdem gingen wir spazieren."
+}

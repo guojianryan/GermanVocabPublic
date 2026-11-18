@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Neuling",
+    "partOfSpeech": "noun, masculine (der Neuling)",
+    "pronunciation": {
+      "respelling": "NOI-ling",
+      "ipa": "ˈnɔɪ̯lɪŋ",
+      "notes": "Plural: die Neulinge."
+    },
+    "meaning": "newcomer, novice",
+    "shortDefinition": "Newcomer, novice."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Neuling, plural die Neulinge.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Neuling"
+        },
+        {
+          "label": "More than one",
+          "value": "die Neulinge"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Als Neuling im Team hat er viele Fragen.",
+      "english": "As a newcomer to the team he has lots of questions.",
+      "highlight": [
+        "Neuling"
+      ]
+    },
+    {
+      "german": "Die Partei ist ein Neuling im Parlament.",
+      "english": "The party is a newcomer in parliament.",
+      "highlight": [
+        "Neuling"
+      ]
+    }
+  ],
+  "forms": [
+    "Neulinge",
+    "die Neulinge",
+    "der Neuling"
+  ],
+  "memoryHook": "Neuling: someone neu (new) to something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Neuling",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Neuling is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Neuling, zwei ___",
+      "answer": "Neulinge",
+      "fullAnswer": "ein Neuling, zwei Neulinge",
+      "explanation": "The plural is Neulinge.",
+      "acceptedAnswers": [
+        "Neulinge"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Neuling mean?",
+      "options": [
+        "the flower",
+        "the window",
+        "newcomer"
+      ],
+      "answer": "newcomer",
+      "explanation": "Neuling: newcomer, novice.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonyms:",
+      "options": [
+        "der Anfänger, der Neueinsteiger",
+        "der Profi"
+      ],
+      "answer": "der Anfänger, der Neueinsteiger",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "-ling nouns are…",
+      "options": [
+        "masculine",
+        "neuter"
+      ],
+      "answer": "masculine",
+      "explanation": "der Neuling.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Frischling is…",
+      "options": [
+        "a young wild boar; (joke) newbie",
+        "a fresh fish"
+      ],
+      "answer": "a young wild boar; (joke) newbie",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Neuling is a newcomer or novice: ein Neuling im Job, in der Politik, ein Bundesliga-Neuling (newly promoted club). The -ling suffix forms masculine nouns for people or animals: der Lehrling, der Flüchtling, der Liebling, der Säugling (infant), der Frischling (young boar, jokingly a newbie). Synonyms: der Anfänger, der Neueinsteiger. Plural: die Neulinge."
+}

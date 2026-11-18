@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Besteuerung",
+    "partOfSpeech": "noun, feminine (die Besteuerung)",
+    "pronunciation": {
+      "respelling": "be-SHTOI-e-rung",
+      "ipa": "bəˈʃtɔɪ̯əʁʊŋ",
+      "notes": "Plural: die Besteuerungen."
+    },
+    "meaning": "taxation",
+    "shortDefinition": "Taxation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Besteuerung, plural die Besteuerungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Besteuerung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Besteuerungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Besteuerung von Erbschaften ist umstritten.",
+      "english": "The taxation of inheritances is controversial.",
+      "highlight": [
+        "Besteuerung"
+      ]
+    },
+    {
+      "german": "Ehepaare können die gemeinsame Besteuerung wählen.",
+      "english": "Married couples can choose joint taxation.",
+      "highlight": [
+        "Besteuerung"
+      ]
+    }
+  ],
+  "forms": [
+    "Besteuerungen",
+    "die Besteuerung",
+    "besteuern"
+  ],
+  "memoryHook": "Besteuerung: putting a Steuer (tax) on something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Besteuerung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Besteuerung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Besteuerung, zwei ___",
+      "answer": "Besteuerungen",
+      "fullAnswer": "ein Besteuerung, zwei Besteuerungen",
+      "explanation": "The plural is Besteuerungen.",
+      "acceptedAnswers": [
+        "Besteuerungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Besteuerung mean?",
+      "options": [
+        "taxation",
+        "to sleep",
+        "quiet"
+      ],
+      "answer": "taxation",
+      "explanation": "Besteuerung: taxation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Besteuern means…",
+      "options": [
+        "to tax",
+        "to steer"
+      ],
+      "answer": "to tax",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Ehegattensplitting is…",
+      "options": [
+        "joint taxation of spouses",
+        "divorce"
+      ],
+      "answer": "joint taxation of spouses",
+      "explanation": "Splitting.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Doppelbesteuerung is…",
+      "options": [
+        "double taxation",
+        "a tax refund"
+      ],
+      "answer": "double taxation",
+      "explanation": "Double.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Besteuerung is taxation: die Besteuerung von Einkommen, Doppelbesteuerung (double taxation, prevented by treaties). Married couples in Germany can choose joint taxation, called Ehegattensplitting, which benefits single-earner couples and is much debated. Besteuern means to tax. Die Steuer is tax, but das Steuer is the steering wheel: am Steuer sitzen. Plural: die Besteuerungen."
+}

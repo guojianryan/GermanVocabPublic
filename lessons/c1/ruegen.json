@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "rügen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "RÜ-gen",
+      "ipa": "ˈʁyːɡn̩",
+      "notes": ""
+    },
+    "meaning": "to reprimand, rebuke",
+    "shortDefinition": "To reprimand, rebuke."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "rüg|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "rüg|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "rüg|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "rüg|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "rüg|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "rüg|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gerügt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Lehrer rügte den Schüler.",
+      "english": "The teacher reprimanded the pupil.",
+      "highlight": [
+        "rügte"
+      ]
+    },
+    {
+      "german": "Der Presserat rügte die Zeitung.",
+      "english": "The press council reprimanded the newspaper.",
+      "highlight": [
+        "rügte"
+      ]
+    }
+  ],
+  "forms": [
+    "rüge",
+    "rügst",
+    "rügt",
+    "rügen",
+    "gerügt",
+    "Rüge"
+  ],
+  "memoryHook": "Rügen: give a Rüge (reprimand).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (rügen)",
+      "answer": "rügt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: rügt.",
+      "acceptedAnswers": [
+        "ruegt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (rügen, past)",
+      "answer": "gerügt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gerügt.",
+      "acceptedAnswers": [
+        "geruegt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does rügen mean?",
+      "options": [
+        "hot",
+        "to reprimand",
+        "never"
+      ],
+      "answer": "to reprimand",
+      "explanation": "rügen: to reprimand, rebuke.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Rüge is…",
+      "options": [
+        "a reprimand",
+        "a back"
+      ],
+      "answer": "a reprimand",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Deutsche Presserat issues…",
+      "options": [
+        "Rügen for breaches of press ethics",
+        "press passes"
+      ],
+      "answer": "Rügen for breaches of press ethics",
+      "explanation": "Press council.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rügen is also…",
+      "options": [
+        "Germany's largest island",
+        "a river"
+      ],
+      "answer": "Germany's largest island",
+      "explanation": "Island.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Rügen means to reprimand or rebuke, a formal word: jemanden scharf rügen. Die Rüge is a reprimand. The Deutscher Presserat (German Press Council) issues public Rügen to newspapers that break the press code, and Bild has received more than any other. Everyday words are tadeln or ermahnen. Unrelated, Rügen is also Germany's largest island, in the Baltic Sea, famous for its white chalk cliffs painted by Caspar David Friedrich."
+}

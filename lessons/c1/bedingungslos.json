@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "bedingungslos",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "be-DING-ungs-lohs",
+      "ipa": "bəˈdɪŋʊŋsˌloːs",
+      "notes": ""
+    },
+    "meaning": "unconditional",
+    "shortDefinition": "Unconditional."
+  },
+  "sampleSentences": [
+    {
+      "german": "Sie liebt ihre Kinder bedingungslos.",
+      "english": "She loves her children unconditionally.",
+      "highlight": [
+        "bedingungslos."
+      ]
+    },
+    {
+      "german": "Das bedingungslose Grundeinkommen wird viel diskutiert.",
+      "english": "Universal basic income is much debated.",
+      "highlight": [
+        "bedingungslose"
+      ]
+    }
+  ],
+  "forms": [
+    "bedingungslose",
+    "bedingungslosen",
+    "bedingungsloses"
+  ],
+  "memoryHook": "Bedingungslos: without (los) Bedingungen (conditions).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does bedingungslos mean?",
+      "options": [
+        "cheap",
+        "unconditional",
+        "the family"
+      ],
+      "answer": "unconditional",
+      "explanation": "bedingungslos: unconditional.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das bedingungslose Grundeinkommen is…",
+      "options": [
+        "universal basic income",
+        "minimum wage"
+      ],
+      "answer": "universal basic income",
+      "explanation": "UBI.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Bedingung is…",
+      "options": [
+        "condition",
+        "bedding"
+      ],
+      "answer": "condition",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bedingungslose Kapitulation means…",
+      "options": [
+        "unconditional surrender",
+        "conditional peace"
+      ],
+      "answer": "unconditional surrender",
+      "explanation": "History.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ Vertrauen (unconditional)",
+      "answer": "bedingungsloses",
+      "fullAnswer": "bedingungsloses Vertrauen",
+      "explanation": "Neuter -es.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Bedingungslos means unconditional: bedingungslose Liebe, bedingungsloses Vertrauen. Das bedingungslose Grundeinkommen (BGE) is universal basic income, widely debated in Germany; a long-term study by the association Mein Grundeinkommen paid selected people 1,200 euros a month for three years. Historically, Germany's bedingungslose Kapitulation on 8 May 1945 ended WWII in Europe."
+}

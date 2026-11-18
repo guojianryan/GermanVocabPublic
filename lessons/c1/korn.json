@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Korn",
+    "partOfSpeech": "noun, neuter (das Korn)",
+    "pronunciation": {
+      "respelling": "korn",
+      "ipa": "kɔʁn",
+      "notes": "Plural: die Körner."
+    },
+    "meaning": "grain; corn; (der Korn) grain schnapps",
+    "shortDefinition": "Grain; corn; (der Korn) grain schnapps."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Korn, plural die Körner.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Korn"
+        },
+        {
+          "label": "More than one",
+          "value": "die Körner"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Vögel picken die Körner auf.",
+      "english": "The birds are pecking up the grains.",
+      "highlight": [
+        "Körner"
+      ]
+    },
+    {
+      "german": "Er nahm den Politiker aufs Korn.",
+      "english": "He took aim at the politician.",
+      "highlight": [
+        "Korn."
+      ]
+    }
+  ],
+  "forms": [
+    "Körner",
+    "die Körner",
+    "das Korn",
+    "der Korn",
+    "Vollkorn"
+  ],
+  "memoryHook": "Korn: grain, a gun sight, and a schnapps.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Korn",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Korn is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Korn, zwei ___",
+      "answer": "Körner",
+      "fullAnswer": "ein Korn, zwei Körner",
+      "explanation": "The plural is Körner.",
+      "acceptedAnswers": [
+        "Koerner"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Korn mean?",
+      "options": [
+        "slowly",
+        "grain",
+        "the station"
+      ],
+      "answer": "grain",
+      "explanation": "Korn: grain; corn; (der Korn) grain schnapps.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Etwas aufs Korn nehmen means…",
+      "options": [
+        "to target, criticise something",
+        "to eat grain"
+      ],
+      "answer": "to target, criticise something",
+      "explanation": "Idiom (gun sight).",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Korn (masculine) is…",
+      "options": [
+        "a grain spirit, schnapps",
+        "a corn field"
+      ],
+      "answer": "a grain spirit, schnapps",
+      "explanation": "Schnapps.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Maize in German is…",
+      "options": [
+        "der Mais",
+        "das Korn"
+      ],
+      "answer": "der Mais",
+      "explanation": "False friend.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Korn is grain or a single seed: Getreidekorn, Pfefferkorn, Sandkorn. Vollkorn means wholegrain: Vollkornbrot. It's a false friend: corn (maize) is der Mais. Der Korn, with a different gender, is a clear grain schnapps from northern Germany. Das Korn is also the front sight of a gun, hence etwas aufs Korn nehmen (to take aim at, satirise). Die Körner is the plural for seeds; Körnerfresser jokingly means health-food fan."
+}

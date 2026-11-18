@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Konsistenz",
+    "partOfSpeech": "noun, feminine (die Konsistenz)",
+    "pronunciation": {
+      "respelling": "kon-zis-TENTS",
+      "ipa": "kɔnzɪsˈtɛnt͡s",
+      "notes": "Usually no plural."
+    },
+    "meaning": "consistency (texture; logic)",
+    "shortDefinition": "Consistency (texture; logic)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Konsistenz, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Konsistenz"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Teig sollte eine cremige Konsistenz haben.",
+      "english": "The dough should have a creamy consistency.",
+      "highlight": [
+        "Konsistenz"
+      ]
+    },
+    {
+      "german": "Seiner Argumentation fehlt die Konsistenz.",
+      "english": "His argument lacks consistency.",
+      "highlight": [
+        "Konsistenz."
+      ]
+    }
+  ],
+  "forms": [
+    "die Konsistenz",
+    "konsistent"
+  ],
+  "memoryHook": "Konsistenz: how well something holds together (consistere).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Konsistenz",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Konsistenz is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Konsistenz mean?",
+      "options": [
+        "to travel",
+        "consistency (texture",
+        "to wait"
+      ],
+      "answer": "consistency (texture",
+      "explanation": "Konsistenz: consistency (texture; logic).",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Konsistent means…",
+      "options": [
+        "consistent",
+        "constant"
+      ],
+      "answer": "consistent",
+      "explanation": "Adjective.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In cooking, Konsistenz refers to…",
+      "options": [
+        "texture, thickness",
+        "taste"
+      ],
+      "answer": "texture, thickness",
+      "explanation": "Texture.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym (logic):",
+      "options": [
+        "die Stimmigkeit, Widerspruchsfreiheit",
+        "die Beständigkeit"
+      ],
+      "answer": "die Stimmigkeit, Widerspruchsfreiheit",
+      "explanation": "Synonym.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Konsistenz means consistency, both of texture (die Konsistenz eines Teigs, einer Soße: flüssig, cremig, zäh) and of logic or behaviour: die Konsistenz einer Argumentation. Konsistent means consistent: eine konsistente Politik. Inkonsistent means inconsistent. From Latin consistere (to hold together). It has no plural."
+}

@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Thematik",
+    "partOfSpeech": "noun, feminine (die Thematik)",
+    "pronunciation": {
+      "respelling": "te-MAA-tik",
+      "ipa": "teˈmaːtɪk",
+      "notes": "Plural: die Thematiken."
+    },
+    "meaning": "subject matter, theme, issues",
+    "shortDefinition": "Subject matter, theme, issues."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Thematik, plural die Thematiken.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Thematik"
+        },
+        {
+          "label": "More than one",
+          "value": "die Thematiken"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Thematik ist sehr komplex.",
+      "english": "The subject matter is very complex.",
+      "highlight": [
+        "Thematik"
+      ]
+    },
+    {
+      "german": "Mit dieser Thematik habe ich mich lange beschäftigt.",
+      "english": "I've been occupied with this topic for a long time.",
+      "highlight": [
+        "Thematik"
+      ]
+    }
+  ],
+  "forms": [
+    "Thematiken",
+    "die Thematiken",
+    "die Thematik",
+    "Thema"
+  ],
+  "memoryHook": "Thematik: a Thema with all its baggage.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Thematik",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Thematik is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Thematik, zwei ___",
+      "answer": "Thematiken",
+      "fullAnswer": "ein Thematik, zwei Thematiken",
+      "explanation": "The plural is Thematiken.",
+      "acceptedAnswers": [
+        "Thematiken"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Thematik mean?",
+      "options": [
+        "subject matter",
+        "never",
+        "the weather"
+      ],
+      "answer": "subject matter",
+      "explanation": "Thematik: subject matter, theme, issues.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Thematik is…",
+      "options": [
+        "a topic with its range of issues",
+        "a mathematics lesson"
+      ],
+      "answer": "a topic with its range of issues",
+      "explanation": "Broader than Thema.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Thema is…",
+      "options": [
+        "the everyday word for topic",
+        "a kind of thesis"
+      ],
+      "answer": "the everyday word for topic",
+      "explanation": "Neuter.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "die Thematik",
+        "das Thematik"
+      ],
+      "answer": "die Thematik",
+      "explanation": "Feminine.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mit einer Thematik vertraut sein means…",
+      "options": [
+        "to be familiar with a subject area",
+        "to be a mathematician"
+      ],
+      "answer": "to be familiar with a subject area",
+      "explanation": "Familiar.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Die Thematik is the range of issues around a topic, and it sounds more formal and broader than das Thema: die Thematik des Klimawandels, mit der Thematik vertraut sein. It's used in academic writing, media and administration. The difference is subtle, and often Thematik is just a more impressive-sounding Thema. Das Thema is neuter and its plural is Themen, while die Thematik is feminine."
+}

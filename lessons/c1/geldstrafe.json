@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Geldstrafe",
+    "partOfSpeech": "noun, feminine (die Geldstrafe)",
+    "pronunciation": {
+      "respelling": "GELT-shtraa-fe",
+      "ipa": "ˈɡɛltˌʃtʁaːfə",
+      "notes": "Plural: die Geldstrafen."
+    },
+    "meaning": "fine",
+    "shortDefinition": "Fine."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Geldstrafe, plural die Geldstrafen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Geldstrafe"
+        },
+        {
+          "label": "More than one",
+          "value": "die Geldstrafen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er wurde zu einer Geldstrafe verurteilt.",
+      "english": "He was sentenced to a fine.",
+      "highlight": [
+        "Geldstrafe"
+      ]
+    },
+    {
+      "german": "Schwarzfahren kann eine Geldstrafe nach sich ziehen.",
+      "english": "Fare-dodging can result in a fine.",
+      "highlight": [
+        "Geldstrafe"
+      ]
+    }
+  ],
+  "forms": [
+    "Geldstrafen",
+    "die Geldstrafen",
+    "die Geldstrafe"
+  ],
+  "memoryHook": "Geldstrafe: a Strafe paid in Geld.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Geldstrafe",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Geldstrafe is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Geldstrafe, zwei ___",
+      "answer": "Geldstrafen",
+      "fullAnswer": "ein Geldstrafe, zwei Geldstrafen",
+      "explanation": "The plural is Geldstrafen.",
+      "acceptedAnswers": [
+        "Geldstrafen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Geldstrafe mean?",
+      "options": [
+        "fine",
+        "cheap",
+        "the family"
+      ],
+      "answer": "fine",
+      "explanation": "Geldstrafe: fine.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "German fines for crimes are calculated in…",
+      "options": [
+        "Tagessätze (daily rates)",
+        "fixed amounts only"
+      ],
+      "answer": "Tagessätze (daily rates)",
+      "explanation": "Day-fine system.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A parking ticket is…",
+      "options": [
+        "ein Strafzettel / Knöllchen",
+        "eine Geldstrafe"
+      ],
+      "answer": "ein Strafzettel / Knöllchen",
+      "explanation": "Minor offence.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Compound:",
+      "options": [
+        "Geld + Strafe",
+        "Gelb + Strafe"
+      ],
+      "answer": "Geld + Strafe",
+      "explanation": "Money penalty.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Geldstrafe is a fine imposed for a crime: eine Geldstrafe von 90 Tagessätzen. German courts use a day-fine system: the number of Tagessätze reflects the crime, and the amount of each reflects the offender's daily income, so fines are fairer for rich and poor. Fines of more than 90 Tagessätze show up on a Führungszeugnis (certificate of good conduct). Minor traffic fines are a Bußgeld or Verwarnungsgeld, and a parking ticket is casually ein Knöllchen. Plural: die Geldstrafen."
+}

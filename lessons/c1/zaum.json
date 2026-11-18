@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zaum",
+    "partOfSpeech": "noun, masculine (der Zaum)",
+    "pronunciation": {
+      "respelling": "TSAUM",
+      "ipa": "t͡saʊ̯m",
+      "notes": "Plural: die Zäume."
+    },
+    "meaning": "bridle",
+    "shortDefinition": "Bridle."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Zaum, plural die Zäume.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Zaum"
+        },
+        {
+          "label": "More than one",
+          "value": "die Zäume"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er legte dem Pferd den Zaum an.",
+      "english": "He put the bridle on the horse.",
+      "highlight": [
+        "Zaum"
+      ]
+    },
+    {
+      "german": "Sie musste ihre Wut im Zaum halten.",
+      "english": "She had to keep her anger in check.",
+      "highlight": [
+        "Zaum"
+      ]
+    }
+  ],
+  "forms": [
+    "Zäume",
+    "der Zaum"
+  ],
+  "memoryHook": "Zaum: the bridle that keeps a horse under control.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zaum",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Zaum is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Zaum, zwei ___",
+      "answer": "Zäume",
+      "fullAnswer": "ein Zaum, zwei Zäume",
+      "explanation": "The plural is Zäume.",
+      "acceptedAnswers": [
+        "Zaeume"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zaum mean?",
+      "options": [
+        "bridle",
+        "the station",
+        "to buy"
+      ],
+      "answer": "bridle",
+      "explanation": "Zaum: bridle.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Im Zaum halten means…",
+      "options": [
+        "to keep in check",
+        "to keep in a barn"
+      ],
+      "answer": "to keep in check",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Zaun is…",
+      "options": [
+        "fence",
+        "bridle"
+      ],
+      "answer": "fence",
+      "explanation": "Contrast.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Zügel are…",
+      "options": [
+        "reins",
+        "trains"
+      ],
+      "answer": "reins",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Zaum is a bridle for a horse, with die Zügel (reins). It mostly appears in the idiom etwas im Zaum halten: to keep something in check, such as Gefühle, Ausgaben, die Inflation; sich im Zaum halten means to restrain oneself. Don't confuse it with der Zaun (fence). Related: zügellos (unbridled). Plural: die Zäume."
+}

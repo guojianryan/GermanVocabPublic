@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Chromosom",
+    "partOfSpeech": "noun, neuter (das Chromosom)",
+    "pronunciation": {
+      "respelling": "kro-mo-ZOHM",
+      "ipa": "kʁomoˈzoːm",
+      "notes": "Plural: die Chromosomen."
+    },
+    "meaning": "chromosome",
+    "shortDefinition": "Chromosome."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Chromosom, plural die Chromosomen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Chromosom"
+        },
+        {
+          "label": "More than one",
+          "value": "die Chromosomen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Mensch hat 46 Chromosomen.",
+      "english": "Humans have 46 chromosomes.",
+      "highlight": [
+        "Chromosomen."
+      ]
+    },
+    {
+      "german": "Das Down-Syndrom entsteht durch ein zusätzliches Chromosom.",
+      "english": "Down syndrome is caused by an extra chromosome.",
+      "highlight": [
+        "Chromosom."
+      ]
+    }
+  ],
+  "forms": [
+    "Chromosomen",
+    "das Chromosom"
+  ],
+  "memoryHook": "Chromosom: a coloured (chroma) body (soma) in the cell.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Chromosom",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Chromosom is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Chromosom, zwei ___",
+      "answer": "Chromosomen",
+      "fullAnswer": "ein Chromosom, zwei Chromosomen",
+      "explanation": "The plural is Chromosomen.",
+      "acceptedAnswers": [
+        "Chromosomen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Chromosom mean?",
+      "options": [
+        "to wait",
+        "chromosome",
+        "the key"
+      ],
+      "answer": "chromosome",
+      "explanation": "Chromosom: chromosome.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Humans have…",
+      "options": [
+        "23 pairs of chromosomes",
+        "48 chromosomes"
+      ],
+      "answer": "23 pairs of chromosomes",
+      "explanation": "Number.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gen is…",
+      "options": [
+        "gene",
+        "a genie"
+      ],
+      "answer": "gene",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Trisomie 21 is…",
+      "options": [
+        "Down syndrome",
+        "a triangle"
+      ],
+      "answer": "Down syndrome",
+      "explanation": "Medical.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Chromosom is a chromosome. Humans have 46, in 23 pairs, including the sex chromosomes X and Y. Down syndrome (Trisomie 21) results from an extra copy of chromosome 21. The name means coloured body, because chromosomes take up dye under the microscope; they were described by the German anatomist Wilhelm Waldeyer in 1888. Plural: die Chromosomen."
+}

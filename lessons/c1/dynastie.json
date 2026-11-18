@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Dynastie",
+    "partOfSpeech": "noun, feminine (die Dynastie)",
+    "pronunciation": {
+      "respelling": "dü-nas-TEE",
+      "ipa": "dynasˈtiː",
+      "notes": "Plural: die Dynastien."
+    },
+    "meaning": "dynasty",
+    "shortDefinition": "Dynasty."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Dynastie, plural die Dynastien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Dynastie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Dynastien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Habsburger waren eine mächtige Dynastie.",
+      "english": "The Habsburgs were a powerful dynasty.",
+      "highlight": [
+        "Dynastie."
+      ]
+    },
+    {
+      "german": "Die Familie ist eine Unternehmerdynastie.",
+      "english": "The family is a business dynasty.",
+      "highlight": [
+        "Unternehmerdynastie."
+      ]
+    }
+  ],
+  "forms": [
+    "Dynastien",
+    "die Dynastien",
+    "die Dynastie"
+  ],
+  "memoryHook": "Dynastie: a ruling family, from Greek dynastes (ruler).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Dynastie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Dynastie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Dynastie, zwei ___",
+      "answer": "Dynastien",
+      "fullAnswer": "ein Dynastie, zwei Dynastien",
+      "explanation": "The plural is Dynastien.",
+      "acceptedAnswers": [
+        "Dynastien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Dynastie mean?",
+      "options": [
+        "to learn",
+        "dynasty",
+        "the evening"
+      ],
+      "answer": "dynasty",
+      "explanation": "Dynastie: dynasty.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Hohenzollern ruled…",
+      "options": [
+        "Prussia and the German Empire",
+        "Austria"
+      ],
+      "answer": "Prussia and the German Empire",
+      "explanation": "Hohenzollern.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress:",
+      "options": [
+        "dü-nas-TIE",
+        "DÜ-nas-tie"
+      ],
+      "answer": "dü-nas-TIE",
+      "explanation": "Last syllable.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Dynastien",
+        "die Dynasties"
+      ],
+      "answer": "die Dynastien",
+      "explanation": "-n.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Dynastie is a dynasty: die Habsburger (Austria), die Hohenzollern (Prussia and the German Empire until 1918), die Wittelsbacher (Bavaria until 1918). The word is also used for families dominating business (die Quandt-Dynastie behind BMW) or sport. Stressed on the last syllable, with the y as ü: dü-nas-TEE. Plural: die Dynastien."
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "botanisch",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "bo-TAA-nish",
+      "ipa": "boˈtaːnɪʃ",
+      "notes": ""
+    },
+    "meaning": "botanical",
+    "shortDefinition": "Botanical."
+  },
+  "sampleSentences": [
+    {
+      "german": "Wir besuchen den Botanischen Garten.",
+      "english": "We're visiting the botanical garden.",
+      "highlight": [
+        "Botanischen"
+      ]
+    },
+    {
+      "german": "Botanisch gesehen ist die Tomate eine Frucht.",
+      "english": "Botanically speaking, the tomato is a fruit.",
+      "highlight": [
+        "Botanisch"
+      ]
+    }
+  ],
+  "forms": [
+    "botanische",
+    "botanischen",
+    "Botanik",
+    "Botaniker"
+  ],
+  "memoryHook": "Botanisch: about plants (Greek botane).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does botanisch mean?",
+      "options": [
+        "botanical",
+        "the key",
+        "the street"
+      ],
+      "answer": "botanical",
+      "explanation": "botanisch: botanical.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Botanik is…",
+      "options": [
+        "botany",
+        "a robot"
+      ],
+      "answer": "botany",
+      "explanation": "Noun.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Botaniker is…",
+      "options": [
+        "botanist",
+        "a bottle"
+      ],
+      "answer": "botanist",
+      "explanation": "Person.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Botanisch gesehen means…",
+      "options": [
+        "botanically speaking",
+        "seen in the garden"
+      ],
+      "answer": "botanically speaking",
+      "explanation": "Phrase.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "der ___ Garten (botanical)",
+      "answer": "Botanische",
+      "fullAnswer": "der Botanische Garten",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Botanisch means botanical: der Botanische Garten, botanische Namen. Berlin-Dahlem's Botanischer Garten is one of the largest in the world. Die Botanik is botany, and der Botaniker a botanist. German naturalist Alexander von Humboldt's botanical expeditions in Latin America shaped modern ecology. Colloquially, ab in die Botanik means off into the wild, the bushes."
+}

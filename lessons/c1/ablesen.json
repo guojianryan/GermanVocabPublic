@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ablesen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AP-lay-zen",
+      "ipa": "ˈapˌleːzn̩",
+      "notes": ""
+    },
+    "meaning": "to read (off); to read (a meter)",
+    "shortDefinition": "To read (off); to read (a meter)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "les|e … |ab"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "lies|t … |ab"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "lies|t … |ab"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "les|en … |ab"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "les|t … |ab"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "les|en … |ab"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat abgelesen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Techniker liest den Stromzähler ab.",
+      "english": "The technician reads the electricity meter.",
+      "highlight": [
+        "liest",
+        "ab."
+      ]
+    },
+    {
+      "german": "Er hat die Rede vom Blatt abgelesen.",
+      "english": "He read the speech from the page.",
+      "highlight": [
+        "abgelesen."
+      ]
+    }
+  ],
+  "forms": [
+    "lese ab",
+    "liest ab",
+    "lesen ab",
+    "lest ab",
+    "abgelesen",
+    "las ab",
+    "Ablesung"
+  ],
+  "memoryHook": "Ablesen: read (lesen) something off (ab) a source.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ab (ablesen)",
+      "answer": "liest",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: liest … ab.",
+      "acceptedAnswers": [
+        "liest"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (ablesen, past)",
+      "answer": "abgelesen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe abgelesen.",
+      "acceptedAnswers": [
+        "abgelesen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does ablesen mean?",
+      "options": [
+        "to read (off)",
+        "slowly",
+        "the window"
+      ],
+      "answer": "to read (off)",
+      "explanation": "ablesen: to read (off); to read (a meter).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Zähler ablesen means…",
+      "options": [
+        "to read the meter",
+        "to count readers"
+      ],
+      "answer": "to read the meter",
+      "explanation": "Meter.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandem etwas von den Augen ablesen means…",
+      "options": [
+        "to anticipate someone's every wish",
+        "to read someone's eyes medically"
+      ],
+      "answer": "to anticipate someone's every wish",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "las ab, abgelesen",
+        "lieste ab"
+      ],
+      "answer": "las ab, abgelesen",
+      "explanation": "Irregular.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Ablesen means to read off something: den Stromzähler ablesen (to read the meter, done once a year in Germany for the utility bill), die Temperatur ablesen, eine Rede ablesen (rather than speaking freely). Figuratively, an etwas ablesen means to infer: Man kann an den Zahlen ablesen, dass... Jemandem jeden Wunsch von den Augen ablesen means to anticipate every wish. Separable: las ab, abgelesen."
+}

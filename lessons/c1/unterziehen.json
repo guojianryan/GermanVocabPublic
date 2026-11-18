@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "unterziehen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "un-ter-TSEE-en",
+      "ipa": "ʊntɐˈt͡siːən",
+      "notes": ""
+    },
+    "meaning": "to subject (to); (sich) to undergo",
+    "shortDefinition": "To subject (to); (sich) to undergo."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "unterzieh|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "unterzieh|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "unterzieh|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "unterzieh|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "unterzieh|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "unterzieh|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat unterzogen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er musste sich einer Operation unterziehen.",
+      "english": "He had to undergo an operation.",
+      "highlight": [
+        "unterziehen."
+      ]
+    },
+    {
+      "german": "Das Auto wurde einer gründlichen Prüfung unterzogen.",
+      "english": "The car was subjected to a thorough test.",
+      "highlight": [
+        "unterzogen."
+      ]
+    }
+  ],
+  "forms": [
+    "unterziehe",
+    "unterziehst",
+    "unterzieht",
+    "unterziehen",
+    "unterzogen",
+    "unterzog"
+  ],
+  "memoryHook": "Unterziehen: put something under (unter) a test.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (unterziehen)",
+      "answer": "unterzieht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: unterzieht.",
+      "acceptedAnswers": [
+        "unterzieht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (unterziehen, past)",
+      "answer": "unterzogen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe unterzogen.",
+      "acceptedAnswers": [
+        "unterzogen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does unterziehen mean?",
+      "options": [
+        "the street",
+        "to subject (to)",
+        "the window"
+      ],
+      "answer": "to subject (to)",
+      "explanation": "unterziehen: to subject (to); (sich) to undergo.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich einer Sache unterziehen takes…",
+      "options": [
+        "the dative",
+        "the accusative"
+      ],
+      "answer": "the dative",
+      "explanation": "Dative.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "unterzog, unterzogen",
+        "unterziehte"
+      ],
+      "answer": "unterzog, unterzogen",
+      "explanation": "Irregular.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unterziehen (separable, stress on UN) means…",
+      "options": [
+        "to put on underneath",
+        "to undergo"
+      ],
+      "answer": "to put on underneath",
+      "explanation": "Different verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Unterziehen (not separable, stressed on zie) means to subject something to: einer Prüfung unterziehen. Reflexively, sich einer Sache unterziehen means to undergo: sich einer Operation, einer Therapie, einem Test unterziehen. It takes the dative. Irregular: unterzog, unterzogen. There's also separable únterziehen, meaning to put on underneath: einen Pullover unterziehen."
+}

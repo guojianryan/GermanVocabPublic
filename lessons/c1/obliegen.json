@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "obliegen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "OP-lee-gen",
+      "ipa": "ˈɔpˌliːɡn̩",
+      "notes": ""
+    },
+    "meaning": "to be incumbent on, be the responsibility of",
+    "shortDefinition": "To be incumbent on, be the responsibility of."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "obliege"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "obliegst"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "obliegt"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "obliegen"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "obliegt"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "obliegen"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat oblegen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Entscheidung obliegt dem Gericht.",
+      "english": "The decision is the responsibility of the court.",
+      "highlight": [
+        "obliegt"
+      ]
+    },
+    {
+      "german": "Es obliegt den Eltern, für die Kinder zu sorgen.",
+      "english": "It is incumbent on the parents to care for the children.",
+      "highlight": [
+        "obliegt"
+      ]
+    }
+  ],
+  "forms": [
+    "obliege",
+    "obliegst",
+    "obliegt",
+    "obliegen",
+    "oblegen",
+    "oblag",
+    "Obliegenheit"
+  ],
+  "memoryHook": "Obliegen: lie (liegen) upon (ob) someone as a duty.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (obliegen)",
+      "answer": "obliegt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: obliegt.",
+      "acceptedAnswers": [
+        "obliegt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (obliegen, past)",
+      "answer": "oblegen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe oblegen.",
+      "acceptedAnswers": [
+        "oblegen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does obliegen mean?",
+      "options": [
+        "the shop",
+        "the bill",
+        "to be incumbent on"
+      ],
+      "answer": "to be incumbent on",
+      "explanation": "obliegen: to be incumbent on, be the responsibility of.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandem obliegen means…",
+      "options": [
+        "to be someone's responsibility",
+        "to lie to someone"
+      ],
+      "answer": "to be someone's responsibility",
+      "explanation": "Duty.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "very formal, legal",
+        "colloquial"
+      ],
+      "answer": "very formal, legal",
+      "explanation": "Formal.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Obliegenheit is…",
+      "options": [
+        "duty, obligation",
+        "an obstacle"
+      ],
+      "answer": "duty, obligation",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Obliegen means to be incumbent on or the responsibility of someone, with the dative: Die Aufsicht obliegt dem Lehrer. It's very formal and legal. Die Obliegenheit is a duty, especially in insurance contracts: Obliegenheiten des Versicherungsnehmers (policyholder's duties). Everyday alternative: Das ist Aufgabe von... or zuständig sein für. Usually not separable: es obliegt, oblag, hat oblegen."
+}

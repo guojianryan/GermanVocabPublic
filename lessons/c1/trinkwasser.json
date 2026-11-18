@@ -1,0 +1,121 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Trinkwasser",
+    "partOfSpeech": "noun, neuter (das Trinkwasser)",
+    "pronunciation": {
+      "respelling": "TRINK-vas-er",
+      "ipa": "ˈtʁɪŋkˌvasɐ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "drinking water",
+    "shortDefinition": "Drinking water."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Trinkwasser, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Trinkwasser"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Leitungswasser in Deutschland ist Trinkwasser.",
+      "english": "Tap water in Germany is drinking water.",
+      "highlight": [
+        "Trinkwasser."
+      ]
+    },
+    {
+      "german": "Kein Trinkwasser!",
+      "english": "Not drinking water!",
+      "highlight": [
+        "Trinkwasser!"
+      ]
+    }
+  ],
+  "forms": [
+    "das Trinkwasser",
+    "Leitungswasser"
+  ],
+  "memoryHook": "Trinkwasser: Wasser you can trinken.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Trinkwasser",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Trinkwasser is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Trinkwasser mean?",
+      "options": [
+        "drinking water",
+        "hot",
+        "the job"
+      ],
+      "answer": "drinking water",
+      "explanation": "Trinkwasser: drinking water.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kein Trinkwasser on a tap means…",
+      "options": [
+        "don't drink this water",
+        "no water available"
+      ],
+      "answer": "don't drink this water",
+      "explanation": "Warning sign.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "German tap water is…",
+      "options": [
+        "among the most tested food items",
+        "usually unsafe"
+      ],
+      "answer": "among the most tested food items",
+      "explanation": "Trinkwasserverordnung.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Leitungswasser is…",
+      "options": [
+        "tap water",
+        "mineral water"
+      ],
+      "answer": "tap water",
+      "explanation": "Tap water.",
+      "id": "q5"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ist das ___? (drinking water)",
+      "answer": "Trinkwasser",
+      "fullAnswer": "Ist das Trinkwasser?",
+      "explanation": "Trinkwasser.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Trinkwasser is drinking water. In Germany, tap water (Leitungswasser) is strictly regulated by the Trinkwasserverordnung and is generally safe to drink, though many Germans still prefer bottled Mineralwasser, often sparkling (mit Kohlensäure or Sprudel). A sign saying Kein Trinkwasser warns you not to drink from that tap. In restaurants, asking for free Leitungswasser is less common than in some countries, and you may be charged."
+}

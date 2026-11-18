@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kriegsende",
+    "partOfSpeech": "noun, neuter (das Kriegsende)",
+    "pronunciation": {
+      "respelling": "KREEKS-en-de",
+      "ipa": "ˈkʁiːksˌʔɛndə",
+      "notes": "Usually no plural."
+    },
+    "meaning": "end of the war",
+    "shortDefinition": "End of the war."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Kriegsende, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Kriegsende"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nach Kriegsende lag die Stadt in Trümmern.",
+      "english": "After the end of the war, the city lay in ruins.",
+      "highlight": [
+        "Kriegsende"
+      ]
+    },
+    {
+      "german": "Zum 80. Jahrestag des Kriegsendes gab es Gedenkfeiern.",
+      "english": "There were ceremonies for the 80th anniversary of the end of the war.",
+      "highlight": [
+        "Kriegsendes"
+      ]
+    }
+  ],
+  "forms": [
+    "das Kriegsende",
+    "Kriegsendes"
+  ],
+  "memoryHook": "Kriegsende: the Ende of the Krieg.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kriegsende",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Kriegsende is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kriegsende mean?",
+      "options": [
+        "the window",
+        "end of the war",
+        "tomorrow"
+      ],
+      "answer": "end of the war",
+      "explanation": "Kriegsende: end of the war.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Germany, Kriegsende usually refers to…",
+      "options": [
+        "8 May 1945",
+        "11 November 1918 only"
+      ],
+      "answer": "8 May 1945",
+      "explanation": "1945.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Richard von Weizsäcker in 1985 called 8 May…",
+      "options": [
+        "a day of liberation",
+        "a day of defeat only"
+      ],
+      "answer": "a day of liberation",
+      "explanation": "1985.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Stunde null refers to…",
+      "options": [
+        "the zero hour after 1945",
+        "midnight"
+      ],
+      "answer": "the zero hour after 1945",
+      "explanation": "Zero hour.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Kriegsende is the end of a war; in Germany it usually means 8 May 1945, the unconditional surrender. In a landmark 1985 speech, President Richard von Weizsäcker called 8 May a Tag der Befreiung (day of liberation), a view now widely accepted. The period afterwards is called die Stunde null (zero hour). Berlin made 8 May 2025, the 80th anniversary, a one-off public holiday. It has no plural."
+}

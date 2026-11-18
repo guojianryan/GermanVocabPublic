@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Volksschule",
+    "partOfSpeech": "noun, feminine (die Volksschule)",
+    "pronunciation": {
+      "respelling": "FOLKS-shoo-le",
+      "ipa": "ˈfɔlksˌʃuːlə",
+      "notes": "Plural: die Volksschulen."
+    },
+    "meaning": "primary school (Austria); former elementary school",
+    "shortDefinition": "Primary school (Austria); former elementary school."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Volksschule, plural die Volksschulen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Volksschule"
+        },
+        {
+          "label": "More than one",
+          "value": "die Volksschulen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In Österreich geht man vier Jahre in die Volksschule.",
+      "english": "In Austria you go to Volksschule for four years.",
+      "highlight": [
+        "Volksschule."
+      ]
+    },
+    {
+      "german": "Mein Großvater hat nur die Volksschule besucht.",
+      "english": "My grandfather only went to elementary school.",
+      "highlight": [
+        "Volksschule"
+      ]
+    }
+  ],
+  "forms": [
+    "Volksschulen",
+    "die Volksschulen",
+    "die Volksschule"
+  ],
+  "memoryHook": "Volksschule: school for the whole Volk (people).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Volksschule",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Volksschule is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Volksschule, zwei ___",
+      "answer": "Volksschulen",
+      "fullAnswer": "ein Volksschule, zwei Volksschulen",
+      "explanation": "The plural is Volksschulen.",
+      "acceptedAnswers": [
+        "Volksschulen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Volksschule mean?",
+      "options": [
+        "primary school (Austria)",
+        "to sing",
+        "to open"
+      ],
+      "answer": "primary school (Austria)",
+      "explanation": "Volksschule: primary school (Austria); former elementary school.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Austria today, Volksschule means…",
+      "options": [
+        "primary school",
+        "adult education"
+      ],
+      "answer": "primary school",
+      "explanation": "Austria.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Germany, it was replaced in the 1960s by…",
+      "options": [
+        "Grundschule + Hauptschule",
+        "Gymnasium"
+      ],
+      "answer": "Grundschule + Hauptschule",
+      "explanation": "Germany.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Volkshochschule is…",
+      "options": [
+        "an adult education centre",
+        "a high school"
+      ],
+      "answer": "an adult education centre",
+      "explanation": "VHS.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Volksschule is primary school in Austria (four years) and was the basic eight-year school for most children in Germany until the 1960s, when it was split into Grundschule (primary) and Hauptschule. So German grandparents often say they only had Volksschule. Don't confuse it with die Volkshochschule (VHS), Germany's network of adult education centres. Plural: die Volksschulen."
+}

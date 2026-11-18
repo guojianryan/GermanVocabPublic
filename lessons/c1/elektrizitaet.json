@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Elektrizität",
+    "partOfSpeech": "noun, feminine (die Elektrizität)",
+    "pronunciation": {
+      "respelling": "e-lek-tri-tsi-TAIT",
+      "ipa": "elɛktʁit͡siˈtɛːt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "electricity",
+    "shortDefinition": "Electricity."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Elektrizität, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Elektrizität"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Dorf hat erst seit 1950 Elektrizität.",
+      "english": "The village has only had electricity since 1950.",
+      "highlight": [
+        "Elektrizität."
+      ]
+    },
+    {
+      "german": "Die Lehre von der Elektrizität ist ein Teil der Physik.",
+      "english": "The study of electricity is part of physics.",
+      "highlight": [
+        "Elektrizität"
+      ]
+    }
+  ],
+  "forms": [
+    "die Elektrizität"
+  ],
+  "memoryHook": "Elektrizität: from Greek elektron (amber), which sparks when rubbed.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Elektrizität",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Elektrizität is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Elektrizität mean?",
+      "options": [
+        "the family",
+        "always",
+        "electricity"
+      ],
+      "answer": "electricity",
+      "explanation": "Elektrizität: electricity.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday word for electricity:",
+      "options": [
+        "der Strom",
+        "die Elektrik"
+      ],
+      "answer": "der Strom",
+      "explanation": "Strom.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Elektrizitätswerk (E-Werk) is…",
+      "options": [
+        "a power station",
+        "an electrician's shop"
+      ],
+      "answer": "a power station",
+      "explanation": "Power.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "-tät nouns are…",
+      "options": [
+        "feminine",
+        "neuter"
+      ],
+      "answer": "feminine",
+      "explanation": "die Elektrizität.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Elektrizität is electricity, the scientific word; in everyday speech, Germans say der Strom: Strom sparen, die Stromrechnung. Das Elektrizitätswerk or E-Werk is a power station, and many club venues in old power stations are called E-Werk. Die Elektrik means the electrical system: Die Elektrik im Auto ist kaputt. From Greek elektron (amber). It has no plural."
+}

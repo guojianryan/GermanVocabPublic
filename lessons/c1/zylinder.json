@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zylinder",
+    "partOfSpeech": "noun, masculine (der Zylinder)",
+    "pronunciation": {
+      "respelling": "tsü-LIN-der",
+      "ipa": "t͡syˈlɪndɐ",
+      "notes": "Plural: die Zylinder."
+    },
+    "meaning": "cylinder; top hat",
+    "shortDefinition": "Cylinder; top hat."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Zylinder, plural die Zylinder.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Zylinder"
+        },
+        {
+          "label": "More than one",
+          "value": "die Zylinder"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Motor hat vier Zylinder.",
+      "english": "The engine has four cylinders.",
+      "highlight": [
+        "Zylinder."
+      ]
+    },
+    {
+      "german": "Der Zauberer zog ein Kaninchen aus dem Zylinder.",
+      "english": "The magician pulled a rabbit out of the top hat.",
+      "highlight": [
+        "Zylinder."
+      ]
+    }
+  ],
+  "forms": [
+    "die Zylinder",
+    "der Zylinder",
+    "Zylinderschloss"
+  ],
+  "memoryHook": "Zylinder: an engine part or a top hat, same shape.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zylinder",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Zylinder is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Zylinder, zwei ___",
+      "answer": "Zylinder",
+      "fullAnswer": "ein Zylinder, zwei Zylinder",
+      "explanation": "The plural is Zylinder.",
+      "acceptedAnswers": [
+        "Zylinder"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zylinder mean?",
+      "options": [
+        "never",
+        "the bill",
+        "cylinder"
+      ],
+      "answer": "cylinder",
+      "explanation": "Zylinder: cylinder; top hat.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Zylinder (hat) is…",
+      "options": [
+        "a top hat",
+        "a cap"
+      ],
+      "answer": "a top hat",
+      "explanation": "Top hat.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zylindrisch means…",
+      "options": [
+        "cylindrical",
+        "cynical"
+      ],
+      "answer": "cylindrical",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Zylinder",
+        "die Zylindern"
+      ],
+      "answer": "die Zylinder",
+      "explanation": "Unchanged.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Zylinder is a cylinder, in geometry and in engines: ein Vierzylindermotor. It also means a top hat, from its shape, worn by chimney sweeps in their traditional costume and by magicians. Das Zylinderschloss is a cylinder lock, the standard in German doors. The Zy is pronounced tsü, stressed on the second syllable: tsü-LIN-der. From Greek kylindros (roller). Plural: die Zylinder."
+}

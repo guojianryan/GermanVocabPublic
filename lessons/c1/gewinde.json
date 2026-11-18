@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gewinde",
+    "partOfSpeech": "noun, neuter (das Gewinde)",
+    "pronunciation": {
+      "respelling": "ge-VIN-de",
+      "ipa": "ɡəˈvɪndə",
+      "notes": "Plural: die Gewinde."
+    },
+    "meaning": "thread (of a screw)",
+    "shortDefinition": "Thread (of a screw)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Gewinde, plural die Gewinde.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Gewinde"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gewinde"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Gewinde der Schraube ist beschädigt.",
+      "english": "The screw thread is damaged.",
+      "highlight": [
+        "Gewinde"
+      ]
+    },
+    {
+      "german": "Die Glühbirne hat ein E27-Gewinde.",
+      "english": "The bulb has an E27 screw base.",
+      "highlight": [
+        "E27-Gewinde."
+      ]
+    }
+  ],
+  "forms": [
+    "das Gewinde",
+    "Gewindes"
+  ],
+  "memoryHook": "Gewinde: the spiral gewunden (wound) around a screw.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gewinde",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Gewinde is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gewinde, zwei ___",
+      "answer": "Gewinde",
+      "fullAnswer": "ein Gewinde, zwei Gewinde",
+      "explanation": "The plural is Gewinde.",
+      "acceptedAnswers": [
+        "Gewinde"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gewinde mean?",
+      "options": [
+        "tomorrow",
+        "thread (of a screw)",
+        "the bill"
+      ],
+      "answer": "thread (of a screw)",
+      "explanation": "Gewinde: thread (of a screw).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gewinde is…",
+      "options": [
+        "thread (screw)",
+        "a wind"
+      ],
+      "answer": "thread (screw)",
+      "explanation": "Meaning.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Winden means…",
+      "options": [
+        "to wind, twist",
+        "to wind (weather)"
+      ],
+      "answer": "to wind, twist",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "A sewing thread is…",
+      "options": [
+        "der Faden",
+        "das Gewinde"
+      ],
+      "answer": "der Faden",
+      "explanation": "Contrast.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Gewinde is a screw thread: ein Außengewinde (on a bolt), ein Innengewinde (in a nut), ein Gewinde schneiden (to cut a thread). Light bulbs have standard Gewinde like E27 and E14, the Edison screw. A sewing thread is der Faden. From winden (to wind, twist). The plural is the same: die Gewinde."
+}

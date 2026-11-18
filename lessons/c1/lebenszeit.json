@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Lebenszeit",
+    "partOfSpeech": "noun, feminine (die Lebenszeit)",
+    "pronunciation": {
+      "respelling": "LAY-bens-tsait",
+      "ipa": "ˈleːbn̩sˌt͡saɪ̯t",
+      "notes": "Usually no plural."
+    },
+    "meaning": "lifetime",
+    "shortDefinition": "Lifetime."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Lebenszeit, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Lebenszeit"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er wurde Beamter auf Lebenszeit.",
+      "english": "He became a civil servant for life.",
+      "highlight": [
+        "Lebenszeit."
+      ]
+    },
+    {
+      "german": "Das ist verschwendete Lebenszeit.",
+      "english": "That's a waste of my life.",
+      "highlight": [
+        "Lebenszeit."
+      ]
+    }
+  ],
+  "forms": [
+    "die Lebenszeit",
+    "auf Lebenszeit",
+    "lebenslang"
+  ],
+  "memoryHook": "Lebenszeit: the Zeit (time) of a Leben (life).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Lebenszeit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Lebenszeit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Lebenszeit mean?",
+      "options": [
+        "expensive",
+        "lifetime",
+        "tomorrow"
+      ],
+      "answer": "lifetime",
+      "explanation": "Lebenszeit: lifetime.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Beamter auf Lebenszeit means…",
+      "options": [
+        "civil servant for life (tenured)",
+        "a temporary civil servant"
+      ],
+      "answer": "civil servant for life (tenured)",
+      "explanation": "Tenure.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Lebenserwartung is…",
+      "options": [
+        "life expectancy",
+        "lifetime"
+      ],
+      "answer": "life expectancy",
+      "explanation": "Expectancy.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Lebenslang means…",
+      "options": [
+        "lifelong; life sentence",
+        "long-lived"
+      ],
+      "answer": "lifelong; life sentence",
+      "explanation": "Adjective.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Lebenszeit is one's lifetime: auf Lebenszeit (for life), as in Beamter auf Lebenszeit, a German civil servant with lifetime tenure, which makes Beamte very hard to dismiss. Federal constitutional judges serve one twelve-year term. Colloquially, Das war verschwendete Lebenszeit means that was a waste of time. Lebenslang means lifelong, and a life sentence is lebenslange Haft. It has no plural."
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "bescheren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-SHAY-ren",
+      "ipa": "bəˈʃeːʁən",
+      "notes": ""
+    },
+    "meaning": "to give (presents), bring",
+    "shortDefinition": "To give (presents), bring."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "beschere"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "bescher|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "bescher|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "bescher|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "bescher|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "bescher|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat beschert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Sieg bescherte dem Verein den Aufstieg.",
+      "english": "The win brought the club promotion.",
+      "highlight": [
+        "bescherte"
+      ]
+    },
+    {
+      "german": "Am Heiligabend werden die Kinder beschert.",
+      "english": "On Christmas Eve, the children get their presents.",
+      "highlight": [
+        "beschert."
+      ]
+    }
+  ],
+  "forms": [
+    "beschere",
+    "bescherst",
+    "beschert",
+    "bescheren",
+    "Bescherung"
+  ],
+  "memoryHook": "Bescheren: bring someone a gift.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (bescheren)",
+      "answer": "beschert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: beschert.",
+      "acceptedAnswers": [
+        "beschert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (bescheren, past)",
+      "answer": "beschert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe beschert.",
+      "acceptedAnswers": [
+        "beschert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does bescheren mean?",
+      "options": [
+        "cheap",
+        "to give (presents)",
+        "always"
+      ],
+      "answer": "to give (presents)",
+      "explanation": "bescheren: to give (presents), bring.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Bescherung is…",
+      "options": [
+        "the giving of Christmas presents",
+        "a haircut"
+      ],
+      "answer": "the giving of Christmas presents",
+      "explanation": "Christmas.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Da haben wir die Bescherung! means…",
+      "options": [
+        "What a mess! (ironic)",
+        "Merry Christmas!"
+      ],
+      "answer": "What a mess! (ironic)",
+      "explanation": "Ironic.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Germany, presents are usually opened on…",
+      "options": [
+        "24 December (evening)",
+        "25 December (morning)"
+      ],
+      "answer": "24 December (evening)",
+      "explanation": "Heiligabend.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Bescheren means to give or bring, often a gift or a result: Das Wetter bescherte uns einen schönen Tag, Der Fehler bescherte ihm Ärger. Die Bescherung is the giving of Christmas presents, which in Germany happens on Heiligabend (24 December) in the evening, often after church. Ironically, Da haben wir die Bescherung! means now look at this mess! Not separable: hat beschert."
+}

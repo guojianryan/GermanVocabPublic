@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Grat",
+    "partOfSpeech": "noun, masculine (der Grat)",
+    "pronunciation": {
+      "respelling": "GRAAT",
+      "ipa": "ɡʁaːt",
+      "notes": "Plural: die Grate."
+    },
+    "meaning": "ridge, crest",
+    "shortDefinition": "Ridge, crest."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Grat, plural die Grate.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Grat"
+        },
+        {
+          "label": "More than one",
+          "value": "die Grate"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir wanderten über den schmalen Grat.",
+      "english": "We hiked along the narrow ridge.",
+      "highlight": [
+        "Grat."
+      ]
+    },
+    {
+      "german": "Das ist ein schmaler Grat zwischen Mut und Leichtsinn.",
+      "english": "It's a fine line between courage and recklessness.",
+      "highlight": [
+        "Grat"
+      ]
+    }
+  ],
+  "forms": [
+    "Grate",
+    "der Grat"
+  ],
+  "memoryHook": "Grat: the sharp edge where two mountain slopes meet.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Grat",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Grat is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Grat, zwei ___",
+      "answer": "Grate",
+      "fullAnswer": "ein Grat, zwei Grate",
+      "explanation": "The plural is Grate.",
+      "acceptedAnswers": [
+        "Grate"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Grat mean?",
+      "options": [
+        "the bread",
+        "ridge",
+        "the bed"
+      ],
+      "answer": "ridge",
+      "explanation": "Grat: ridge, crest.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gratwanderung is…",
+      "options": [
+        "a balancing act",
+        "a free hike"
+      ],
+      "answer": "a balancing act",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein schmaler Grat means…",
+      "options": [
+        "a fine line",
+        "a small fish bone"
+      ],
+      "answer": "a fine line",
+      "explanation": "Figurative.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gräte is…",
+      "options": [
+        "fish bone",
+        "ridge"
+      ],
+      "answer": "fish bone",
+      "explanation": "Contrast.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Grat is a mountain ridge or crest, also a burr on metal. Figuratively, ein schmaler Grat is a fine line: der schmale Grat zwischen Genie und Wahnsinn. Die Gratwanderung, a walk along a ridge, means a delicate balancing act. Not to be confused with die Gräte (fish bone) or gratis (free of charge). Plural: die Grate."
+}

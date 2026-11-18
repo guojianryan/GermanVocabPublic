@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Verwarnung",
+    "partOfSpeech": "noun, feminine (die Verwarnung)",
+    "pronunciation": {
+      "respelling": "fer-VAR-nung",
+      "ipa": "fɛɐ̯ˈvaʁnʊŋ",
+      "notes": "Plural: die Verwarnungen."
+    },
+    "meaning": "warning, caution",
+    "shortDefinition": "Warning, caution."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Verwarnung, plural die Verwarnungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Verwarnung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Verwarnungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Für das Falschparken bekam er eine Verwarnung.",
+      "english": "He got a caution for illegal parking.",
+      "highlight": [
+        "Verwarnung."
+      ]
+    },
+    {
+      "german": "Der Schiedsrichter sprach eine Verwarnung aus.",
+      "english": "The referee issued a caution.",
+      "highlight": [
+        "Verwarnung"
+      ]
+    }
+  ],
+  "forms": [
+    "Verwarnungen",
+    "die Verwarnung"
+  ],
+  "memoryHook": "Verwarnung: an official Warnung.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Verwarnung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Verwarnung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Verwarnung, zwei ___",
+      "answer": "Verwarnungen",
+      "fullAnswer": "ein Verwarnung, zwei Verwarnungen",
+      "explanation": "The plural is Verwarnungen.",
+      "acceptedAnswers": [
+        "Verwarnungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Verwarnung mean?",
+      "options": [
+        "cheap",
+        "warning",
+        "the street"
+      ],
+      "answer": "warning",
+      "explanation": "Verwarnung: warning, caution.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Verwarnungsgeld is…",
+      "options": [
+        "a minor fine (up to 55 euros)",
+        "a deposit"
+      ],
+      "answer": "a minor fine (up to 55 euros)",
+      "explanation": "Fine.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Bußgeld is…",
+      "options": [
+        "a larger fine (from 60 euros)",
+        "a church fee"
+      ],
+      "answer": "a larger fine (from 60 euros)",
+      "explanation": "Fine.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In football, eine Verwarnung is…",
+      "options": [
+        "a yellow card",
+        "a red card"
+      ],
+      "answer": "a yellow card",
+      "explanation": "Football.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Verwarnung is an official warning or caution. For minor traffic offences, police issue a Verwarnung mit Verwarnungsgeld (up to 55 euros, no points); from 60 euros it becomes a Bußgeld. In football, the yellow card is officially eine Verwarnung. In labour law, the stronger step is die Abmahnung. Verwarnen means to caution. Plural: die Verwarnungen."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Pavillon",
+    "partOfSpeech": "noun, masculine (der Pavillon)",
+    "pronunciation": {
+      "respelling": "PA-vil-yong",
+      "ipa": "ˈpavɪljɔŋ",
+      "notes": "Plural: die Pavillons."
+    },
+    "meaning": "pavilion; gazebo",
+    "shortDefinition": "Pavilion; gazebo."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Pavillon, plural die Pavillons.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Pavillon"
+        },
+        {
+          "label": "More than one",
+          "value": "die Pavillons"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Park steht ein kleiner Pavillon.",
+      "english": "There's a small pavilion in the park.",
+      "highlight": [
+        "Pavillon."
+      ]
+    },
+    {
+      "german": "Wir haben einen Pavillon für die Gartenparty gekauft.",
+      "english": "We bought a gazebo for the garden party.",
+      "highlight": [
+        "Pavillon"
+      ]
+    }
+  ],
+  "forms": [
+    "Pavillons",
+    "die Pavillons",
+    "der Pavillon"
+  ],
+  "memoryHook": "Pavillon: from French, once a tent like a butterfly (papilio).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Pavillon",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Pavillon is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Pavillon, zwei ___",
+      "answer": "Pavillons",
+      "fullAnswer": "ein Pavillon, zwei Pavillons",
+      "explanation": "The plural is Pavillons.",
+      "acceptedAnswers": [
+        "Pavillons"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Pavillon mean?",
+      "options": [
+        "pavilion",
+        "the job",
+        "expensive"
+      ],
+      "answer": "pavilion",
+      "explanation": "Pavillon: pavilion; gazebo.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "At an Expo, der Pavillon is…",
+      "options": [
+        "a country's exhibition building",
+        "a stage"
+      ],
+      "answer": "a country's exhibition building",
+      "explanation": "Expo.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pronunciation of the ending:",
+      "options": [
+        "French nasal -on",
+        "-ollon"
+      ],
+      "answer": "French nasal -on",
+      "explanation": "French.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Pavillons",
+        "die Pavillone"
+      ],
+      "answer": "die Pavillons",
+      "explanation": "-s.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Pavillon is a pavilion: a garden pavilion, a music pavilion in a spa park (Kurpark), a country's pavilion at a world fair (the Expo 2000 was in Hanover), or a folding gazebo for parties and markets. It comes from French pavillon, ultimately Latin papilio (butterfly, then tent), and the ending is often nasal. Plural: die Pavillons."
+}

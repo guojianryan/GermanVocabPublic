@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Stammspieler",
+    "partOfSpeech": "noun, masculine (der Stammspieler)",
+    "pronunciation": {
+      "respelling": "SHTAM-shpee-ler",
+      "ipa": "ˈʃtamˌʃpiːlɐ",
+      "notes": "Plural: die Stammspieler."
+    },
+    "meaning": "regular player, first-team player",
+    "shortDefinition": "Regular player, first-team player."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Stammspieler, plural die Stammspieler.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Stammspieler"
+        },
+        {
+          "label": "More than one",
+          "value": "die Stammspieler"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er ist seit zwei Jahren Stammspieler beim FC Bayern.",
+      "english": "He's been a regular at FC Bayern for two years.",
+      "highlight": [
+        "Stammspieler"
+      ]
+    },
+    {
+      "german": "Nach der Verletzung verlor sie ihren Platz als Stammspielerin.",
+      "english": "After the injury she lost her place as a regular.",
+      "highlight": [
+        "Stammspielerin."
+      ]
+    }
+  ],
+  "forms": [
+    "Stammspielerin",
+    "der Stammspieler"
+  ],
+  "memoryHook": "Stammspieler: a Spieler at the Stamm (trunk, core) of the team.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Stammspieler",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Stammspieler is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Stammspieler, zwei ___",
+      "answer": "Stammspieler",
+      "fullAnswer": "ein Stammspieler, zwei Stammspieler",
+      "explanation": "The plural is Stammspieler.",
+      "acceptedAnswers": [
+        "Stammspieler"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Stammspieler mean?",
+      "options": [
+        "the flower",
+        "the bread",
+        "regular player"
+      ],
+      "answer": "regular player",
+      "explanation": "Stammspieler: regular player, first-team player.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ersatzspieler is…",
+      "options": [
+        "substitute",
+        "regular player"
+      ],
+      "answer": "substitute",
+      "explanation": "Contrast.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Stammelf is…",
+      "options": [
+        "the regular starting eleven",
+        "the family tree"
+      ],
+      "answer": "the regular starting eleven",
+      "explanation": "Team.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stamm- means…",
+      "options": [
+        "regular, core (Stammkunde, Stammtisch)",
+        "old"
+      ],
+      "answer": "regular, core (Stammkunde, Stammtisch)",
+      "explanation": "Prefix.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Stammspieler (die Stammspielerin) is a regular, first-team player, as opposed to der Ersatzspieler or Reservist. The regular line-up is die Stammelf. Stamm- often means regular: der Stammkunde (regular customer), der Stammtisch (regulars' table at a pub), das Stammlokal (local). Der Stamm is a tree trunk or tribe. The plural is the same: die Stammspieler."
+}

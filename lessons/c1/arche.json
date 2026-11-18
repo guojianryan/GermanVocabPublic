@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Arche",
+    "partOfSpeech": "noun, feminine (die Arche)",
+    "pronunciation": {
+      "respelling": "AR-khe",
+      "ipa": "ˈaʁçə",
+      "notes": "Plural: die Archen."
+    },
+    "meaning": "ark",
+    "shortDefinition": "Ark."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Arche, plural die Archen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Arche"
+        },
+        {
+          "label": "More than one",
+          "value": "die Archen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Noah baute eine Arche.",
+      "english": "Noah built an ark.",
+      "highlight": [
+        "Arche."
+      ]
+    },
+    {
+      "german": "Die Arche Noah rettete die Tiere vor der Sintflut.",
+      "english": "Noah's Ark saved the animals from the Flood.",
+      "highlight": [
+        "Arche"
+      ]
+    }
+  ],
+  "forms": [
+    "Archen",
+    "die Arche",
+    "Arche Noah"
+  ],
+  "memoryHook": "Arche: Noah's ship, from Latin arca (chest).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Arche",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Arche is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Arche, zwei ___",
+      "answer": "Archen",
+      "fullAnswer": "ein Arche, zwei Archen",
+      "explanation": "The plural is Archen.",
+      "acceptedAnswers": [
+        "Archen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Arche mean?",
+      "options": [
+        "ark",
+        "to wait",
+        "the child"
+      ],
+      "answer": "ark",
+      "explanation": "Arche: ark.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Sintflut is…",
+      "options": [
+        "the Flood (biblical)",
+        "a sin"
+      ],
+      "answer": "the Flood (biblical)",
+      "explanation": "Flood.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Note the German form:",
+      "options": [
+        "die Arche Noah (no 's)",
+        "Noahs Arche only"
+      ],
+      "answer": "die Arche Noah (no 's)",
+      "explanation": "Form.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ch in Arche sounds like…",
+      "options": [
+        "ch in ich",
+        "k"
+      ],
+      "answer": "ch in ich",
+      "explanation": "Sound.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Arche is an ark: die Arche Noah (Noah's Ark), built to survive die Sintflut (the Flood). Figuratively, an Arche is a place of refuge; Die Arche is also a Christian charity in Berlin helping poor children, and seed banks are called Archen. Note the ch sound as in ich, unlike English ark. From Latin arca (chest). Plural: die Archen."
+}

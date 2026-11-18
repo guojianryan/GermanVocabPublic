@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "musizieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "mu-zi-TSEE-ren",
+      "ipa": "muziˈt͡siːʁən",
+      "notes": ""
+    },
+    "meaning": "to make music, play music",
+    "shortDefinition": "To make music, play music."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "musizier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "musizier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "musizier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "musizier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "musizier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "musizier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat musiziert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Familie musiziert jeden Sonntag zusammen.",
+      "english": "The family plays music together every Sunday.",
+      "highlight": [
+        "musiziert"
+      ]
+    },
+    {
+      "german": "In der Fußgängerzone musizieren Straßenmusiker.",
+      "english": "Street musicians are playing in the pedestrian zone.",
+      "highlight": [
+        "musizieren"
+      ]
+    }
+  ],
+  "forms": [
+    "musiziere",
+    "musizierst",
+    "musiziert",
+    "musizieren"
+  ],
+  "memoryHook": "Musizieren: actively make Musik.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (musizieren)",
+      "answer": "musiziert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: musiziert.",
+      "acceptedAnswers": [
+        "musiziert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (musizieren, past)",
+      "answer": "musiziert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe musiziert.",
+      "acceptedAnswers": [
+        "musiziert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does musizieren mean?",
+      "options": [
+        "to make music",
+        "to help",
+        "to travel"
+      ],
+      "answer": "to make music",
+      "explanation": "musizieren: to make music, play music.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Musizieren means…",
+      "options": [
+        "to make music (actively)",
+        "to listen to music"
+      ],
+      "answer": "to make music (actively)",
+      "explanation": "Make music.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hausmusik is…",
+      "options": [
+        "music-making at home",
+        "house music only"
+      ],
+      "answer": "music-making at home",
+      "explanation": "Tradition.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Musikschule is…",
+      "options": [
+        "a music school",
+        "a music shop"
+      ],
+      "answer": "a music school",
+      "explanation": "School.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Musizieren means to make or play music actively, alone or together: gemeinsam musizieren. Hausmusik (making music at home) has a long tradition in Germany, and there are around 900 public Musikschulen. Germany's orchestra and theatre culture is on Germany's national list of intangible cultural heritage, with about 130 publicly funded orchestras. Listening is Musik hören. Perfect without ge-: hat musiziert."
+}

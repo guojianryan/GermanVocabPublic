@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Finanzamt",
+    "partOfSpeech": "noun, neuter (das Finanzamt)",
+    "pronunciation": {
+      "respelling": "fi-NANTS-amt",
+      "ipa": "fiˈnant͡sˌʔamt",
+      "notes": "Plural: die Finanzämter."
+    },
+    "meaning": "tax office",
+    "shortDefinition": "Tax office."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Finanzamt, plural die Finanzämter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Finanzamt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Finanzämter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich habe einen Brief vom Finanzamt bekommen.",
+      "english": "I got a letter from the tax office.",
+      "highlight": [
+        "Finanzamt"
+      ]
+    },
+    {
+      "german": "Die Steuererklärung geht ans Finanzamt.",
+      "english": "The tax return goes to the tax office.",
+      "highlight": [
+        "Finanzamt."
+      ]
+    }
+  ],
+  "forms": [
+    "Finanzämter",
+    "die Finanzämter",
+    "das Finanzamt"
+  ],
+  "memoryHook": "Finanzamt: the office that wants your Steuererklärung.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Finanzamt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Finanzamt is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Finanzamt, zwei ___",
+      "answer": "Finanzämter",
+      "fullAnswer": "ein Finanzamt, zwei Finanzämter",
+      "explanation": "The plural is Finanzämter.",
+      "acceptedAnswers": [
+        "Finanzaemter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Finanzamt mean?",
+      "options": [
+        "to wait",
+        "the street",
+        "tax office"
+      ],
+      "answer": "tax office",
+      "explanation": "Finanzamt: tax office.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "ELSTER is…",
+      "options": [
+        "the online portal for German tax returns",
+        "a bird-watching club"
+      ],
+      "answer": "the online portal for German tax returns",
+      "explanation": "elster.de.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Steuernummer is issued by…",
+      "options": [
+        "the Finanzamt",
+        "the Bürgeramt"
+      ],
+      "answer": "the Finanzamt",
+      "explanation": "Tax number.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Finanzämter",
+        "die Finanzamte"
+      ],
+      "answer": "die Finanzämter",
+      "explanation": "Umlaut.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Finanzamt is the local tax office. Every German taxpayer deals with it: you submit your Steuererklärung (tax return), usually online through the ELSTER portal, and receive a Steuerbescheid (tax assessment) by post. The self-employed get a Steuernummer from it. A letter vom Finanzamt is famously not what anyone wants in their mailbox. Note the plural with an umlaut: die Finanzämter."
+}

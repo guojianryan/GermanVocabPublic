@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Durchgang",
+    "partOfSpeech": "noun, masculine (der Durchgang)",
+    "pronunciation": {
+      "respelling": "DURKH-gang",
+      "ipa": "ˈdʊʁçˌɡaŋ",
+      "notes": "Plural: die Durchgänge."
+    },
+    "meaning": "passage; round (in a contest)",
+    "shortDefinition": "Passage; round (in a contest)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Durchgang, plural die Durchgänge.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Durchgang"
+        },
+        {
+          "label": "More than one",
+          "value": "die Durchgänge"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Kein Durchgang!",
+      "english": "No through way!",
+      "highlight": [
+        "Durchgang!"
+      ]
+    },
+    {
+      "german": "Im zweiten Durchgang lag sie vorne.",
+      "english": "In the second round she was ahead.",
+      "highlight": [
+        "Durchgang"
+      ]
+    }
+  ],
+  "forms": [
+    "Durchgänge",
+    "die Durchgänge",
+    "der Durchgang",
+    "durchgängig"
+  ],
+  "memoryHook": "Durchgang: a way to go (gehen) through (durch).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Durchgang",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Durchgang is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Durchgang, zwei ___",
+      "answer": "Durchgänge",
+      "fullAnswer": "ein Durchgang, zwei Durchgänge",
+      "explanation": "The plural is Durchgänge.",
+      "acceptedAnswers": [
+        "Durchgaenge"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Durchgang mean?",
+      "options": [
+        "cheap",
+        "passage",
+        "the window"
+      ],
+      "answer": "passage",
+      "explanation": "Durchgang: passage; round (in a contest).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Durchgang verboten means…",
+      "options": [
+        "no passage, no entry",
+        "dead end"
+      ],
+      "answer": "no passage, no entry",
+      "explanation": "Sign.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In skiing or elections, ein Durchgang is…",
+      "options": [
+        "a run, a round",
+        "an exit"
+      ],
+      "answer": "a run, a round",
+      "explanation": "Round.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Durchgängig means…",
+      "options": [
+        "continuous, throughout",
+        "passable"
+      ],
+      "answer": "continuous, throughout",
+      "explanation": "Throughout.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Durchgang is a passage or passageway: ein schmaler Durchgang, Durchgang verboten (no thoroughfare), a common sign. In competitions, it's a round or run: der erste Durchgang beim Skispringen, and in elections a ballot: im zweiten Wahlgang. Der Durchgangsverkehr is through traffic. Durchgängig means continuous: durchgängig geöffnet (open all day). From durchgehen (to go through). Plural: die Durchgänge."
+}

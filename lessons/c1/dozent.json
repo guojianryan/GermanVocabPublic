@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Dozent",
+    "partOfSpeech": "noun, masculine (der Dozent)",
+    "pronunciation": {
+      "respelling": "do-TSENT",
+      "ipa": "doˈt͡sɛnt",
+      "notes": "Plural: die Dozenten."
+    },
+    "meaning": "lecturer",
+    "shortDefinition": "Lecturer."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Dozent, plural die Dozenten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Dozent"
+        },
+        {
+          "label": "More than one",
+          "value": "die Dozenten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Dozent hält eine Vorlesung über Kant.",
+      "english": "The lecturer is giving a lecture on Kant.",
+      "highlight": [
+        "Dozent"
+      ]
+    },
+    {
+      "german": "Sie arbeitet als Dozentin an der Volkshochschule.",
+      "english": "She works as a lecturer at the adult education centre.",
+      "highlight": [
+        "Dozentin"
+      ]
+    }
+  ],
+  "forms": [
+    "Dozenten",
+    "die Dozenten",
+    "der Dozent",
+    "Dozentin"
+  ],
+  "memoryHook": "Dozent: one who teaches (docere) adults.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Dozent",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Dozent is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Dozent, zwei ___",
+      "answer": "Dozenten",
+      "fullAnswer": "ein Dozent, zwei Dozenten",
+      "explanation": "The plural is Dozenten.",
+      "acceptedAnswers": [
+        "Dozenten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Dozent mean?",
+      "options": [
+        "the family",
+        "hot",
+        "lecturer"
+      ],
+      "answer": "lecturer",
+      "explanation": "Dozent: lecturer.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Dozent is a weak noun:",
+      "options": [
+        "den Dozenten",
+        "den Dozent"
+      ],
+      "answer": "den Dozenten",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Volkshochschule (VHS) is…",
+      "options": [
+        "an adult education centre",
+        "a high school"
+      ],
+      "answer": "an adult education centre",
+      "explanation": "VHS.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Vorlesung is…",
+      "options": [
+        "a university lecture",
+        "a reading aloud"
+      ],
+      "answer": "a university lecture",
+      "explanation": "Lecture.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Dozent (die Dozentin) is a lecturer at a university, college or adult education centre. Unlike a Professor, a Dozent may be on a short contract or teach part-time (Lehrbeauftragter). Germany's Volkshochschulen (VHS) offer evening courses in languages, crafts and integration courses, taught by Dozenten. It's a weak noun: den Dozenten. From Latin docere (to teach). Plural: die Dozenten."
+}

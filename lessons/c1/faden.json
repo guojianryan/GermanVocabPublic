@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Faden",
+    "partOfSpeech": "noun, masculine (der Faden)",
+    "pronunciation": {
+      "respelling": "FAA-den",
+      "ipa": "ˈfaːdn̩",
+      "notes": "Plural: die Fäden."
+    },
+    "meaning": "thread",
+    "shortDefinition": "Thread."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Faden, plural die Fäden.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Faden"
+        },
+        {
+          "label": "More than one",
+          "value": "die Fäden"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich brauche Nadel und Faden.",
+      "english": "I need a needle and thread.",
+      "highlight": [
+        "Faden."
+      ]
+    },
+    {
+      "german": "Ich habe den Faden verloren.",
+      "english": "I've lost my train of thought.",
+      "highlight": [
+        "Faden"
+      ]
+    }
+  ],
+  "forms": [
+    "Fäden",
+    "die Fäden",
+    "der Faden"
+  ],
+  "memoryHook": "Faden: a thread you can lose, or follow (der rote Faden).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Faden",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Faden is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Faden, zwei ___",
+      "answer": "Fäden",
+      "fullAnswer": "ein Faden, zwei Fäden",
+      "explanation": "The plural is Fäden.",
+      "acceptedAnswers": [
+        "Faeden"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Faden mean?",
+      "options": [
+        "thread",
+        "the street",
+        "to help"
+      ],
+      "answer": "thread",
+      "explanation": "Faden: thread.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Faden verlieren means…",
+      "options": [
+        "to lose one's train of thought",
+        "to lose a button"
+      ],
+      "answer": "to lose one's train of thought",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der rote Faden is…",
+      "options": [
+        "the common thread, main theme",
+        "a red flag"
+      ],
+      "answer": "the common thread, main theme",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Fäden",
+        "die Faden"
+      ],
+      "answer": "die Fäden",
+      "explanation": "Umlaut.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Faden is a thread: Nadel und Faden. Many idioms use it: den Faden verlieren (to lose your train of thought), der rote Faden (the common thread or central theme, Goethe's image from ropes of the British navy), alle Fäden in der Hand halten (to pull all the strings), an einem seidenen Faden hängen (to hang by a thread). After surgery, die Fäden ziehen means to take out the stitches. Plural: die Fäden."
+}

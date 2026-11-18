@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "beschreiten",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-SHRAI-ten",
+      "ipa": "bəˈʃʁaɪ̯tn̩",
+      "notes": ""
+    },
+    "meaning": "to take (a path), embark on",
+    "shortDefinition": "To take (a path), embark on."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "beschreit|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "beschreit|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "beschreit|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "beschreit|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "beschreit|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "beschreit|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat beschritten"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Unternehmen beschreitet neue Wege.",
+      "english": "The company is breaking new ground.",
+      "highlight": [
+        "beschreitet"
+      ]
+    },
+    {
+      "german": "Sie hat den Rechtsweg beschritten.",
+      "english": "She took legal action.",
+      "highlight": [
+        "beschritten."
+      ]
+    }
+  ],
+  "forms": [
+    "beschreite",
+    "beschreitest",
+    "beschreitet",
+    "beschreiten",
+    "beschritten",
+    "beschritt"
+  ],
+  "memoryHook": "Beschreiten: schreiten (stride) along a path.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (beschreiten)",
+      "answer": "beschreitet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: beschreitet.",
+      "acceptedAnswers": [
+        "beschreitet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (beschreiten, past)",
+      "answer": "beschritten",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe beschritten.",
+      "acceptedAnswers": [
+        "beschritten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does beschreiten mean?",
+      "options": [
+        "to buy",
+        "to take (a path)",
+        "the bread"
+      ],
+      "answer": "to take (a path)",
+      "explanation": "beschreiten: to take (a path), embark on.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Neue Wege beschreiten means…",
+      "options": [
+        "to break new ground",
+        "to walk new streets"
+      ],
+      "answer": "to break new ground",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "beschritt, beschritten",
+        "beschreitete"
+      ],
+      "answer": "beschritt, beschritten",
+      "explanation": "Irregular.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schreiten means…",
+      "options": [
+        "to stride",
+        "to shout"
+      ],
+      "answer": "to stride",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Beschreiten means to take a path, figuratively and formally: neue Wege beschreiten (to break new ground), den Rechtsweg beschreiten (to go to court), einen Mittelweg beschreiten. It's elevated; literal walking is gehen or laufen. From schreiten (to stride), irregular: beschritt, beschritten. Not to be confused with bestreiten (to deny; to fund)."
+}

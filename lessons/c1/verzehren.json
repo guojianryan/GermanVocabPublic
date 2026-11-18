@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verzehren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-TSAY-ren",
+      "ipa": "fɛɐ̯ˈt͡seːʁən",
+      "notes": ""
+    },
+    "meaning": "to consume (food)",
+    "shortDefinition": "To consume (food)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verzehr|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verzehr|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verzehr|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verzehr|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verzehr|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verzehr|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verzehrt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die mitgebrachten Speisen dürfen hier nicht verzehrt werden.",
+      "english": "Food brought in may not be consumed here.",
+      "highlight": [
+        "verzehrt"
+      ]
+    },
+    {
+      "german": "Er verzehrte sich vor Sehnsucht.",
+      "english": "He was consumed with longing.",
+      "highlight": [
+        "verzehrte"
+      ]
+    }
+  ],
+  "forms": [
+    "verzehre",
+    "verzehrst",
+    "verzehrt",
+    "verzehren",
+    "Verzehr"
+  ],
+  "memoryHook": "Verzehren: eat (old zehren) something up completely.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verzehren)",
+      "answer": "verzehrt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verzehrt.",
+      "acceptedAnswers": [
+        "verzehrt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verzehren, past)",
+      "answer": "verzehrt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verzehrt.",
+      "acceptedAnswers": [
+        "verzehrt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verzehren mean?",
+      "options": [
+        "to consume (food)",
+        "quiet",
+        "the door"
+      ],
+      "answer": "to consume (food)",
+      "explanation": "verzehren: to consume (food).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Verzehr is…",
+      "options": [
+        "consumption (of food)",
+        "a burden"
+      ],
+      "answer": "consumption (of food)",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zum sofortigen Verzehr means…",
+      "options": [
+        "for immediate consumption",
+        "for later"
+      ],
+      "answer": "for immediate consumption",
+      "explanation": "Label.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich verzehren nach means…",
+      "options": [
+        "to pine for",
+        "to eat up"
+      ],
+      "answer": "to pine for",
+      "explanation": "Pine.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verzehren means to consume food or drink, a formal word: Speisen verzehren. Der Verzehr is consumption: zum Verzehr geeignet (fit for consumption), Mindestverzehr (minimum spend in a bar or club). Signs say Kein Verzehr mitgebrachter Speisen (no outside food). Figuratively, sich verzehren nach means to pine for. Not separable: hat verzehrt."
+}

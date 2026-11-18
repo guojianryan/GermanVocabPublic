@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Legitimation",
+    "partOfSpeech": "noun, feminine (die Legitimation)",
+    "pronunciation": {
+      "respelling": "le-gi-ti-ma-TSYOHN",
+      "ipa": "leɡitimaˈt͡si̯oːn",
+      "notes": "Plural: die Legitimationen."
+    },
+    "meaning": "legitimation, legitimacy; ID",
+    "shortDefinition": "Legitimation, legitimacy; ID."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Legitimation, plural die Legitimationen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Legitimation"
+        },
+        {
+          "label": "More than one",
+          "value": "die Legitimationen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Regierung fehlt die demokratische Legitimation.",
+      "english": "The government lacks democratic legitimacy.",
+      "highlight": [
+        "Legitimation."
+      ]
+    },
+    {
+      "german": "Bitte zeigen Sie eine Legitimation vor.",
+      "english": "Please show some identification.",
+      "highlight": [
+        "Legitimation"
+      ]
+    }
+  ],
+  "forms": [
+    "Legitimationen",
+    "die Legitimation",
+    "legitim",
+    "legitimieren"
+  ],
+  "memoryHook": "Legitimation: what makes something lawful (legitim).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Legitimation",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Legitimation is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Legitimation, zwei ___",
+      "answer": "Legitimationen",
+      "fullAnswer": "ein Legitimation, zwei Legitimationen",
+      "explanation": "The plural is Legitimationen.",
+      "acceptedAnswers": [
+        "Legitimationen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Legitimation mean?",
+      "options": [
+        "cheap",
+        "to wait",
+        "legitimation"
+      ],
+      "answer": "legitimation",
+      "explanation": "Legitimation: legitimation, legitimacy; ID.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Legitim means…",
+      "options": [
+        "legitimate",
+        "legible"
+      ],
+      "answer": "legitimate",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich legitimieren means…",
+      "options": [
+        "to identify oneself; to justify",
+        "to legalise"
+      ],
+      "answer": "to identify oneself; to justify",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Legitimität is…",
+      "options": [
+        "legitimacy",
+        "legislation"
+      ],
+      "answer": "legitimacy",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Legitimation is legitimation or legitimacy: demokratische Legitimation (through elections), die Legitimation einer Entscheidung. In formal contexts, it also means proof of identity: eine Legitimation vorzeigen. Legitim means legitimate, and legitimieren means to legitimise or, reflexively, to prove one's identity. Die Legitimität is a close synonym. Plural: die Legitimationen."
+}

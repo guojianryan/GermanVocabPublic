@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kamerad",
+    "partOfSpeech": "noun, masculine (der Kamerad)",
+    "pronunciation": {
+      "respelling": "ka-me-RAAT",
+      "ipa": "kaməˈʁaːt",
+      "notes": "Plural: die Kameraden."
+    },
+    "meaning": "comrade (military); mate",
+    "shortDefinition": "Comrade (military); mate."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kamerad, plural die Kameraden.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kamerad"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kameraden"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er half seinem verwundeten Kameraden.",
+      "english": "He helped his wounded comrade.",
+      "highlight": [
+        "Kameraden."
+      ]
+    },
+    {
+      "german": "Sie waren alte Schulkameraden.",
+      "english": "They were old school friends.",
+      "highlight": [
+        "Schulkameraden."
+      ]
+    }
+  ],
+  "forms": [
+    "Kameraden",
+    "die Kameraden",
+    "der Kamerad",
+    "Kameradin",
+    "Kameradschaft"
+  ],
+  "memoryHook": "Kamerad: the soldier next to you.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kamerad",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kamerad is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kamerad, zwei ___",
+      "answer": "Kameraden",
+      "fullAnswer": "ein Kamerad, zwei Kameraden",
+      "explanation": "The plural is Kameraden.",
+      "acceptedAnswers": [
+        "Kameraden"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kamerad mean?",
+      "options": [
+        "to sleep",
+        "comrade (military)",
+        "the bed"
+      ],
+      "answer": "comrade (military)",
+      "explanation": "Kamerad: comrade (military); mate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kameradschaft is…",
+      "options": [
+        "comradeship, camaraderie",
+        "a camera shop"
+      ],
+      "answer": "comradeship, camaraderie",
+      "explanation": "Camaraderie.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kamerad is a weak noun, so dative singular:",
+      "options": [
+        "dem Kameraden",
+        "dem Kamerad"
+      ],
+      "answer": "dem Kameraden",
+      "explanation": "Weak.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "A political 'comrade' in the SPD or GDR:",
+      "options": [
+        "der Genosse",
+        "der Kamerad"
+      ],
+      "answer": "der Genosse",
+      "explanation": "Genosse.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Kamerad (die Kameradin) is a comrade, especially in the army or fire brigade, or a mate: der Schulkamerad, der Spielkamerad. It's a weak noun: den Kameraden. A political comrade, in socialist parties, is der Genosse instead. Die Kameradschaft is camaraderie. Because of its use in Nazi-era and far-right groups, Kamerad can carry overtones there, so context matters. From French camarade, roommate."
+}

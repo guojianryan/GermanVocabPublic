@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Debüt",
+    "partOfSpeech": "noun, neuter (das Debüt)",
+    "pronunciation": {
+      "respelling": "de-BÜ",
+      "ipa": "deˈbyː",
+      "notes": "Plural: die Debüts."
+    },
+    "meaning": "debut",
+    "shortDefinition": "Debut."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Debüt, plural die Debüts.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Debüt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Debüts"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie gab ihr Debüt am Theater.",
+      "english": "She made her debut at the theatre.",
+      "highlight": [
+        "Debüt"
+      ]
+    },
+    {
+      "german": "Sein Debütalbum war ein Erfolg.",
+      "english": "His debut album was a success.",
+      "highlight": [
+        "Debütalbum"
+      ]
+    }
+  ],
+  "forms": [
+    "Debüts",
+    "die Debüts",
+    "das Debüt",
+    "debütieren"
+  ],
+  "memoryHook": "Debüt: say it the French way, de-BÜ.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Debüt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Debüt is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Debüt, zwei ___",
+      "answer": "Debüts",
+      "fullAnswer": "ein Debüt, zwei Debüts",
+      "explanation": "The plural is Debüts.",
+      "acceptedAnswers": [
+        "Debuets"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Debüt mean?",
+      "options": [
+        "the bed",
+        "debut",
+        "the weather"
+      ],
+      "answer": "debut",
+      "explanation": "Debüt: debut.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pronunciation of -büt:",
+      "options": [
+        "-BÜ (t is silent)",
+        "-BÜT"
+      ],
+      "answer": "-BÜ (t is silent)",
+      "explanation": "French: de-BÜ.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sein Debüt geben means…",
+      "options": [
+        "to make one's debut",
+        "to give up"
+      ],
+      "answer": "to make one's debut",
+      "explanation": "Debut.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Debütieren means…",
+      "options": [
+        "to debut",
+        "to debate"
+      ],
+      "answer": "to debut",
+      "explanation": "debütieren.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Debüt is a debut: ihr Debüt als Regisseurin, das Debütalbum, der Debütroman. It comes from French début, so many Germans drop the t: de-BÜ, though de-BÜT is also heard. Der Debütant (die Debütantin) is a newcomer, and der Debütantinnenball is a debutante ball, still held at the Vienna Opera Ball. Debütieren means to make one's debut. Plural: die Debüts."
+}

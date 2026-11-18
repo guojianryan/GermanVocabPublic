@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gleichstrom",
+    "partOfSpeech": "noun, masculine (der Gleichstrom)",
+    "pronunciation": {
+      "respelling": "GLAIKH-shtrohm",
+      "ipa": "ˈɡlaɪ̯çˌʃtʁoːm",
+      "notes": "Usually no plural."
+    },
+    "meaning": "direct current (DC)",
+    "shortDefinition": "Direct current (DC)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Gleichstrom, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Gleichstrom"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Batterien liefern Gleichstrom.",
+      "english": "Batteries supply direct current.",
+      "highlight": [
+        "Gleichstrom."
+      ]
+    },
+    {
+      "german": "Neue Leitungen sollen Strom per Gleichstrom nach Süden transportieren.",
+      "english": "New lines are to transport power south via direct current.",
+      "highlight": [
+        "Gleichstrom"
+      ]
+    }
+  ],
+  "forms": [
+    "der Gleichstrom"
+  ],
+  "memoryHook": "Gleichstrom: Strom flowing gleich (the same way).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gleichstrom",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Gleichstrom is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gleichstrom mean?",
+      "options": [
+        "never",
+        "direct current (DC)",
+        "tomorrow"
+      ],
+      "answer": "direct current (DC)",
+      "explanation": "Gleichstrom: direct current (DC).",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Wechselstrom is…",
+      "options": [
+        "alternating current (AC)",
+        "a power switch"
+      ],
+      "answer": "alternating current (AC)",
+      "explanation": "Opposite.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "SuedLink is…",
+      "options": [
+        "an HVDC line bringing northern wind power south",
+        "a railway"
+      ],
+      "answer": "an HVDC line bringing northern wind power south",
+      "explanation": "Germany.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Strom is…",
+      "options": [
+        "current; electricity; large river",
+        "a storm"
+      ],
+      "answer": "current; electricity; large river",
+      "explanation": "Root.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Gleichstrom is direct current (DC), as supplied by batteries and solar panels. The opposite is der Wechselstrom (AC), used in household sockets. Germany is building long HVDC lines (Hochspannungs-Gleichstrom-Übertragung), such as SuedLink, to carry wind power from the north to the industrial south. Der Strom means current or electricity, and also a big river."
+}

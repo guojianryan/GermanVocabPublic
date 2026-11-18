@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Abzug",
+    "partOfSpeech": "noun, masculine (der Abzug)",
+    "pronunciation": {
+      "respelling": "AP-tsook",
+      "ipa": "ˈapt͡suːk",
+      "notes": "Plural: die Abzüge."
+    },
+    "meaning": "withdrawal; deduction; trigger; print",
+    "shortDefinition": "Withdrawal; deduction; trigger; print."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Abzug, plural die Abzüge.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Abzug"
+        },
+        {
+          "label": "More than one",
+          "value": "die Abzüge"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Abzug der Truppen beginnt im Mai.",
+      "english": "The withdrawal of troops starts in May.",
+      "highlight": [
+        "Abzug"
+      ]
+    },
+    {
+      "german": "Nach Abzug der Steuern bleibt wenig.",
+      "english": "After tax deductions, not much is left.",
+      "highlight": [
+        "Abzug"
+      ]
+    }
+  ],
+  "forms": [
+    "Abzüge",
+    "die Abzüge",
+    "der Abzug",
+    "abziehen"
+  ],
+  "memoryHook": "Abzug: whatever gets pulled off (abziehen).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Abzug",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Abzug is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Abzug, zwei ___",
+      "answer": "Abzüge",
+      "fullAnswer": "ein Abzug, zwei Abzüge",
+      "explanation": "The plural is Abzüge.",
+      "acceptedAnswers": [
+        "Abzuege"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Abzug mean?",
+      "options": [
+        "the door",
+        "withdrawal",
+        "the bread"
+      ],
+      "answer": "withdrawal",
+      "explanation": "Abzug: withdrawal; deduction; trigger; print.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Abzug einer Waffe is…",
+      "options": [
+        "the trigger",
+        "the barrel"
+      ],
+      "answer": "the trigger",
+      "explanation": "Trigger.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Abzug bringen means…",
+      "options": [
+        "to deduct",
+        "to withdraw troops"
+      ],
+      "answer": "to deduct",
+      "explanation": "Deduct.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "From the verb…",
+      "options": [
+        "abziehen",
+        "abzahlen"
+      ],
+      "answer": "abziehen",
+      "explanation": "abziehen.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Abzug has many meanings, all from abziehen (to pull off): the withdrawal of troops, a deduction from pay (nach Abzug aller Kosten), the trigger of a gun (den Finger am Abzug), a photo print, and a kitchen extractor hood (der Dunstabzug). Punktabzug is a points deduction in a test. Plural: die Abzüge. In the vocabulary of the Cold War, der Abzug der Russen from East Germany ended in 1994."
+}

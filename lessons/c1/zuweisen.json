@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "zuweisen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "TSOO-vai-zen",
+      "ipa": "ˈt͡suːˌvaɪ̯zn̩",
+      "notes": ""
+    },
+    "meaning": "to assign, allocate",
+    "shortDefinition": "To assign, allocate."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "weis|e … |zu"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "weis|t … |zu"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "weis|t … |zu"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "weis|en … |zu"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "weis|t … |zu"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "weis|en … |zu"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat zugewiesen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Den Flüchtlingen wurde eine Wohnung zugewiesen.",
+      "english": "The refugees were assigned a flat.",
+      "highlight": [
+        "zugewiesen."
+      ]
+    },
+    {
+      "german": "Der Lehrer weist jedem Schüler eine Aufgabe zu.",
+      "english": "The teacher assigns each pupil a task.",
+      "highlight": [
+        "weist",
+        "zu."
+      ]
+    }
+  ],
+  "forms": [
+    "weise zu",
+    "weist zu",
+    "weisen zu",
+    "zugewiesen",
+    "wies zu",
+    "Zuweisung"
+  ],
+  "memoryHook": "Zuweisen: point (weisen) something to (zu) someone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … zu (zuweisen)",
+      "answer": "weist",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: weist … zu.",
+      "acceptedAnswers": [
+        "weist"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (zuweisen, past)",
+      "answer": "zugewiesen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe zugewiesen.",
+      "acceptedAnswers": [
+        "zugewiesen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does zuweisen mean?",
+      "options": [
+        "to wait",
+        "to assign",
+        "the bed"
+      ],
+      "answer": "to assign",
+      "explanation": "zuweisen: to assign, allocate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandem etwas zuweisen takes…",
+      "options": [
+        "dative person + accusative thing",
+        "two accusatives"
+      ],
+      "answer": "dative person + accusative thing",
+      "explanation": "Dative + accusative.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Zuweisung is…",
+      "options": [
+        "assignment, allocation; referral",
+        "an instruction"
+      ],
+      "answer": "assignment, allocation; referral",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "wies zu, zugewiesen",
+        "weiste zu"
+      ],
+      "answer": "wies zu, zugewiesen",
+      "explanation": "Irregular.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Zuweisen means to assign or allocate: jemandem eine Aufgabe zuweisen, Plätze zuweisen. It's common in administrative German: Asylsuchende werden einer Gemeinde zugewiesen (asylum seekers are allocated to a municipality). Die Zuweisung is an allocation, and in medicine a referral to a specialist (die Überweisung is the more common word). Jemandem die Schuld zuweisen means to blame someone. Separable and irregular: wies zu, zugewiesen."
+}

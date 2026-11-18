@@ -1,0 +1,142 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Chronik",
+    "partOfSpeech": "noun, feminine (die Chronik)",
+    "pronunciation": {
+      "respelling": "KHRO-nik",
+      "ipa": "ˈkʁoːnɪk",
+      "notes": "Plural: die Chroniken."
+    },
+    "meaning": "chronicle",
+    "shortDefinition": "Chronicle."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Chronik, plural die Chroniken.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Chronik"
+        },
+        {
+          "label": "More than one",
+          "value": "die Chroniken"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Chronik der Stadt reicht bis ins Mittelalter.",
+      "english": "The town's chronicle goes back to the Middle Ages.",
+      "highlight": [
+        "Chronik"
+      ]
+    },
+    {
+      "german": "Er schrieb eine Chronik der Ereignisse.",
+      "english": "He wrote a chronicle of events.",
+      "highlight": [
+        "Chronik"
+      ]
+    }
+  ],
+  "forms": [
+    "Chroniken",
+    "die Chroniken",
+    "die Chronik",
+    "chronisch",
+    "Chronist"
+  ],
+  "memoryHook": "Chronik: events in order of time.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Chronik",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Chronik is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Chronik, zwei ___",
+      "answer": "Chroniken",
+      "fullAnswer": "ein Chronik, zwei Chroniken",
+      "explanation": "The plural is Chroniken.",
+      "acceptedAnswers": [
+        "Chroniken"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Chronik mean?",
+      "options": [
+        "the evening",
+        "chronicle",
+        "the weather"
+      ],
+      "answer": "chronicle",
+      "explanation": "Chronik: chronicle.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Chronik comes from the Greek word for…",
+      "options": [
+        "time",
+        "stone"
+      ],
+      "answer": "time",
+      "explanation": "chronos.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Chronisch means…",
+      "options": [
+        "chronic",
+        "chronological only"
+      ],
+      "answer": "chronic",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Chroniken",
+        "Chroniks"
+      ],
+      "answer": "Chroniken",
+      "explanation": "-en.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Hauschronik is…",
+      "options": [
+        "a house or family chronicle",
+        "a house tax"
+      ],
+      "answer": "a house or family chronicle",
+      "explanation": "Compound.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Die Chronik is a chronicle: a record of events in chronological order, historically a town or monastery's annals. Today it's also used in news, such as Chronik on a newspaper page for local incidents. The adjective chronisch means chronic (eine chronische Krankheit), the adverb chronologisch means in time order, and der Chronist is the chronicler. The Greek root chronos (time) is the same."
+}

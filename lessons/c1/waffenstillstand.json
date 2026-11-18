@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Waffenstillstand",
+    "partOfSpeech": "noun, masculine (der Waffenstillstand)",
+    "pronunciation": {
+      "respelling": "VA-fen-shtil-shtant",
+      "ipa": "ˈvafn̩ˌʃtɪlʃtant",
+      "notes": "Plural: die Waffenstillstände."
+    },
+    "meaning": "ceasefire, armistice",
+    "shortDefinition": "Ceasefire, armistice."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Waffenstillstand, plural die Waffenstillstände.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Waffenstillstand"
+        },
+        {
+          "label": "More than one",
+          "value": "die Waffenstillstände"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Parteien einigten sich auf einen Waffenstillstand.",
+      "english": "The parties agreed on a ceasefire.",
+      "highlight": [
+        "Waffenstillstand."
+      ]
+    },
+    {
+      "german": "Der Waffenstillstand von 1918 beendete die Kämpfe.",
+      "english": "The 1918 armistice ended the fighting.",
+      "highlight": [
+        "Waffenstillstand"
+      ]
+    }
+  ],
+  "forms": [
+    "Waffenstillstände",
+    "die Waffenstillstände",
+    "der Waffenstillstand",
+    "Waffenruhe"
+  ],
+  "memoryHook": "Waffenstillstand: when the Waffen (weapons) stand still.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Waffenstillstand",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Waffenstillstand is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Waffenstillstand, zwei ___",
+      "answer": "Waffenstillstände",
+      "fullAnswer": "ein Waffenstillstand, zwei Waffenstillstände",
+      "explanation": "The plural is Waffenstillstände.",
+      "acceptedAnswers": [
+        "Waffenstillstaende"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Waffenstillstand mean?",
+      "options": [
+        "ceasefire",
+        "tomorrow",
+        "the car"
+      ],
+      "answer": "ceasefire",
+      "explanation": "Waffenstillstand: ceasefire, armistice.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Literally, Waffenstillstand means…",
+      "options": [
+        "weapons standing still",
+        "weapon storage"
+      ],
+      "answer": "weapons standing still",
+      "explanation": "Literal.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Waffenruhe is…",
+      "options": [
+        "a (temporary) ceasefire",
+        "a gun rest"
+      ],
+      "answer": "a (temporary) ceasefire",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The WWI armistice was signed in…",
+      "options": [
+        "Compiègne (11 November 1918)",
+        "Versailles"
+      ],
+      "answer": "Compiègne (11 November 1918)",
+      "explanation": "1918.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Waffenstillstand is a ceasefire or armistice: einen Waffenstillstand vereinbaren, brechen. The armistice of 11 November 1918, signed in a railway carriage at Compiègne, ended WWI fighting; Hitler had the French sign their surrender in the same carriage in 1940. Die Waffenruhe is a (often temporary) ceasefire; the Korean War ended only with a Waffenstillstand, not a peace treaty. Plural: die Waffenstillstände."
+}

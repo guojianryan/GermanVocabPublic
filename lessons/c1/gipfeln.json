@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "gipfeln",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "GIP-feln",
+      "ipa": "ˈɡɪp͡fl̩n",
+      "notes": ""
+    },
+    "meaning": "to culminate",
+    "shortDefinition": "To culminate."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "gipfl|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "gipfel|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "gipfel|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "gipfel|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "gipfel|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "gipfel|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gegipfelt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Streit gipfelte in einer Schlägerei.",
+      "english": "The argument culminated in a brawl.",
+      "highlight": [
+        "gipfelte"
+      ]
+    },
+    {
+      "german": "Ihre Karriere gipfelte im Olympiasieg.",
+      "english": "Her career culminated in Olympic gold.",
+      "highlight": [
+        "gipfelte"
+      ]
+    }
+  ],
+  "forms": [
+    "gipfle",
+    "gipfelst",
+    "gipfelt",
+    "gipfeln",
+    "gegipfelt",
+    "gipfelte"
+  ],
+  "memoryHook": "Gipfeln: reach the Gipfel (peak).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (gipfeln)",
+      "answer": "gipfelt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: gipfelt.",
+      "acceptedAnswers": [
+        "gipfelt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (gipfeln, past)",
+      "answer": "gegipfelt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gegipfelt.",
+      "acceptedAnswers": [
+        "gegipfelt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does gipfeln mean?",
+      "options": [
+        "the door",
+        "to culminate",
+        "the flower"
+      ],
+      "answer": "to culminate",
+      "explanation": "gipfeln: to culminate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gipfeln takes…",
+      "options": [
+        "in + dative",
+        "zu + dative"
+      ],
+      "answer": "in + dative",
+      "explanation": "Preposition.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Gipfel is…",
+      "options": [
+        "summit, peak; summit meeting",
+        "a gift"
+      ],
+      "answer": "summit, peak; summit meeting",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das ist der Gipfel! means…",
+      "options": [
+        "that's the limit!",
+        "that's the top!"
+      ],
+      "answer": "that's the limit!",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Gipfeln in means to culminate in: Die Proteste gipfelten in einem Generalstreik. Der Gipfel is a summit or peak, a summit meeting (der G7-Gipfel), and in Switzerland a croissant. Das ist doch der Gipfel! means that's the limit! Synonyms: seinen Höhepunkt erreichen, kulminieren. Regular: gipfelte, gegipfelt."
+}

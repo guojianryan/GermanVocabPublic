@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "beschuldigen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-SHUL-di-gen",
+      "ipa": "bəˈʃʊldɪɡn̩",
+      "notes": ""
+    },
+    "meaning": "to accuse",
+    "shortDefinition": "To accuse."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "beschuldig|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "beschuldig|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "beschuldig|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "beschuldig|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "beschuldig|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "beschuldig|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat beschuldigt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Man beschuldigt ihn des Diebstahls.",
+      "english": "He's accused of theft.",
+      "highlight": [
+        "beschuldigt"
+      ]
+    },
+    {
+      "german": "Sie beschuldigte ihren Kollegen, gelogen zu haben.",
+      "english": "She accused her colleague of lying.",
+      "highlight": [
+        "beschuldigte"
+      ]
+    }
+  ],
+  "forms": [
+    "beschuldige",
+    "beschuldigst",
+    "beschuldigt",
+    "beschuldigen",
+    "Beschuldigte",
+    "Beschuldigung"
+  ],
+  "memoryHook": "Beschuldigen: put the Schuld (blame) on someone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (beschuldigen)",
+      "answer": "beschuldigt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: beschuldigt.",
+      "acceptedAnswers": [
+        "beschuldigt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (beschuldigen, past)",
+      "answer": "beschuldigt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe beschuldigt.",
+      "acceptedAnswers": [
+        "beschuldigt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does beschuldigen mean?",
+      "options": [
+        "the street",
+        "to accuse",
+        "always"
+      ],
+      "answer": "to accuse",
+      "explanation": "beschuldigen: to accuse.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden einer Sache beschuldigen uses…",
+      "options": [
+        "the genitive for the charge",
+        "the dative"
+      ],
+      "answer": "the genitive for the charge",
+      "explanation": "Genitive.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der/die Beschuldigte is…",
+      "options": [
+        "the accused (in an investigation)",
+        "the guilty one"
+      ],
+      "answer": "the accused (in an investigation)",
+      "explanation": "Accused.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schuld is…",
+      "options": [
+        "guilt; debt",
+        "school"
+      ],
+      "answer": "guilt; debt",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Beschuldigen means to accuse: jemanden des Mordes beschuldigen (genitive, formal) or beschuldigen, etwas getan zu haben. In German criminal procedure, the suspect is first der Beschuldigte, then der Angeschuldigte once charged, and der Angeklagte at trial. Die Beschuldigung is an accusation. Die Schuld means guilt or blame and also debt: Schulden. Not separable: hat beschuldigt."
+}

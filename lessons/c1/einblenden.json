@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "einblenden",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AIN-blen-den",
+      "ipa": "ˈaɪ̯nˌblɛndn̩",
+      "notes": ""
+    },
+    "meaning": "to insert, display (on screen); to fade in",
+    "shortDefinition": "To insert, display (on screen); to fade in."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "blend|e … |ein"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "blend|est … |ein"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "blend|et … |ein"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "blend|en … |ein"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "blend|et … |ein"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "blend|en … |ein"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat eingeblendet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Kannst du die Untertitel einblenden?",
+      "english": "Can you turn on the subtitles?",
+      "highlight": [
+        "einblenden?"
+      ]
+    },
+    {
+      "german": "Während des Spiels wird Werbung eingeblendet.",
+      "english": "Ads are shown during the match.",
+      "highlight": [
+        "eingeblendet."
+      ]
+    }
+  ],
+  "forms": [
+    "blende ein",
+    "blendest ein",
+    "blendet ein",
+    "blenden ein",
+    "eingeblendet",
+    "blendete ein"
+  ],
+  "memoryHook": "Einblenden: blend (fade) something in (ein).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ein (einblenden)",
+      "answer": "blendet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: blendet … ein.",
+      "acceptedAnswers": [
+        "blendet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (einblenden, past)",
+      "answer": "eingeblendet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe eingeblendet.",
+      "acceptedAnswers": [
+        "eingeblendet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does einblenden mean?",
+      "options": [
+        "to insert",
+        "the weather",
+        "to travel"
+      ],
+      "answer": "to insert",
+      "explanation": "einblenden: to insert, display (on screen); to fade in.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ausblenden means…",
+      "options": [
+        "to hide; to fade out; to block out",
+        "to blind"
+      ],
+      "answer": "to hide; to fade out; to block out",
+      "explanation": "Opposite.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Einblendung is…",
+      "options": [
+        "insert, overlay (on screen)",
+        "a blend"
+      ],
+      "answer": "insert, overlay (on screen)",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, etwas ausblenden means…",
+      "options": [
+        "to ignore, block something out",
+        "to switch off TV"
+      ],
+      "answer": "to ignore, block something out",
+      "explanation": "Figurative.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Einblenden means to insert or display on a screen: Untertitel, eine Grafik, den Spielstand einblenden, and to fade in sound or picture. The opposite, ausblenden, means to hide or fade out, and figuratively to block out: Probleme ausblenden. Die Einblendung is an on-screen insert. In software menus: Einblenden / Ausblenden (show / hide). Separable: blendete ein, eingeblendet."
+}

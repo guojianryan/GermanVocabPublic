@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Moos",
+    "partOfSpeech": "noun, neuter (das Moos)",
+    "pronunciation": {
+      "respelling": "mohs",
+      "ipa": "moːs",
+      "notes": "Plural: die Moose."
+    },
+    "meaning": "moss; (colloquial) money",
+    "shortDefinition": "Moss; (colloquial) money."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Moos, plural die Moose.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Moos"
+        },
+        {
+          "label": "More than one",
+          "value": "die Moose"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Auf dem Stein wächst Moos.",
+      "english": "Moss is growing on the stone.",
+      "highlight": [
+        "Moos."
+      ]
+    },
+    {
+      "german": "Ohne Moos nix los.",
+      "english": "No money, no fun.",
+      "highlight": [
+        "Moos"
+      ]
+    }
+  ],
+  "forms": [
+    "Moose",
+    "das Moos"
+  ],
+  "memoryHook": "Moos: green carpet on stones, or cash in your pocket.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Moos",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Moos is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Moos, zwei ___",
+      "answer": "Moose",
+      "fullAnswer": "ein Moos, zwei Moose",
+      "explanation": "The plural is Moose.",
+      "acceptedAnswers": [
+        "Moose"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Moos mean?",
+      "options": [
+        "the door",
+        "the flower",
+        "moss"
+      ],
+      "answer": "moss",
+      "explanation": "Moos: moss; (colloquial) money.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ohne Moos nix los means…",
+      "options": [
+        "no money, no fun",
+        "no moss, no forest"
+      ],
+      "answer": "no money, no fun",
+      "explanation": "Saying.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Moos (colloquial) means…",
+      "options": [
+        "money",
+        "mud"
+      ],
+      "answer": "money",
+      "explanation": "Slang.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Bavaria, ein Moos is also…",
+      "options": [
+        "a bog, moor",
+        "a cow"
+      ],
+      "answer": "a bog, moor",
+      "explanation": "Regional.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Moos is moss: Moos ansetzen (to gather moss, also figuratively). Colloquially, Moos means money, from Hebrew ma'oth via Yiddish: Ohne Moos nix los (no money, no fun) is a well-known saying. In Bavarian place names, Moos means a bog or moor: Dachauer Moos, Erdinger Moos (where Munich airport stands). Plural: die Moose."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Werbeagentur",
+    "partOfSpeech": "noun, feminine (die Werbeagentur)",
+    "pronunciation": {
+      "respelling": "VER-be-a-gen-toor",
+      "ipa": "ˈvɛʁbəʔaɡɛnˌtuːɐ̯",
+      "notes": "Plural: die Werbeagenturen."
+    },
+    "meaning": "advertising agency",
+    "shortDefinition": "Advertising agency."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Werbeagentur, plural die Werbeagenturen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Werbeagentur"
+        },
+        {
+          "label": "More than one",
+          "value": "die Werbeagenturen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie arbeitet als Texterin in einer Werbeagentur.",
+      "english": "She works as a copywriter at an advertising agency.",
+      "highlight": [
+        "Werbeagentur."
+      ]
+    },
+    {
+      "german": "Die Werbeagentur entwickelte die neue Kampagne.",
+      "english": "The ad agency developed the new campaign.",
+      "highlight": [
+        "Werbeagentur"
+      ]
+    }
+  ],
+  "forms": [
+    "Werbeagenturen",
+    "die Werbeagentur"
+  ],
+  "memoryHook": "Werbeagentur: an Agentur that makes Werbung.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Werbeagentur",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Werbeagentur is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Werbeagentur, zwei ___",
+      "answer": "Werbeagenturen",
+      "fullAnswer": "ein Werbeagentur, zwei Werbeagenturen",
+      "explanation": "The plural is Werbeagenturen.",
+      "acceptedAnswers": [
+        "Werbeagenturen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Werbeagentur mean?",
+      "options": [
+        "to sleep",
+        "the street",
+        "advertising agency"
+      ],
+      "answer": "advertising agency",
+      "explanation": "Werbeagentur: advertising agency.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Werbung is…",
+      "options": [
+        "advertising, ads",
+        "recruitment only"
+      ],
+      "answer": "advertising, ads",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Texter is…",
+      "options": [
+        "copywriter",
+        "texter"
+      ],
+      "answer": "copywriter",
+      "explanation": "Copywriter.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Werbespot is…",
+      "options": [
+        "TV/radio ad",
+        "a billboard"
+      ],
+      "answer": "TV/radio ad",
+      "explanation": "Spot.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Werbeagentur is an advertising agency: Kampagnen, Werbespots, Plakate. Hamburg, Düsseldorf and Berlin are Germany's agency hubs. Die Werbung is advertising, and werben means to advertise and to recruit: um Kunden werben. A famous German ad slogan: Vorsprung durch Technik (Audi). Plural: die Werbeagenturen."
+}

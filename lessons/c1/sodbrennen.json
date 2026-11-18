@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sodbrennen",
+    "partOfSpeech": "noun, neuter (das Sodbrennen)",
+    "pronunciation": {
+      "respelling": "ZOHT-bre-nen",
+      "ipa": "ˈzoːtˌbʁɛnən",
+      "notes": "Usually no plural."
+    },
+    "meaning": "heartburn",
+    "shortDefinition": "Heartburn."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Sodbrennen, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Sodbrennen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nach scharfem Essen bekomme ich Sodbrennen.",
+      "english": "I get heartburn after spicy food.",
+      "highlight": [
+        "Sodbrennen."
+      ]
+    },
+    {
+      "german": "Gegen Sodbrennen hilft ein Glas Milch.",
+      "english": "A glass of milk helps against heartburn.",
+      "highlight": [
+        "Sodbrennen"
+      ]
+    }
+  ],
+  "forms": [
+    "das Sodbrennen"
+  ],
+  "memoryHook": "Sodbrennen: burning (brennen) from a welling up (Sod, from sieden).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sodbrennen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Sodbrennen is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sodbrennen mean?",
+      "options": [
+        "the bed",
+        "heartburn",
+        "to learn"
+      ],
+      "answer": "heartburn",
+      "explanation": "Sodbrennen: heartburn.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sodbrennen is caused by…",
+      "options": [
+        "stomach acid rising into the oesophagus",
+        "a burn"
+      ],
+      "answer": "stomach acid rising into the oesophagus",
+      "explanation": "Medicine.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Brennen means…",
+      "options": [
+        "to burn",
+        "to brew"
+      ],
+      "answer": "to burn",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Sod is…",
+      "options": [
+        "an old word for welling up, boiling",
+        "soda"
+      ],
+      "answer": "an old word for welling up, boiling",
+      "explanation": "Origin.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Sodbrennen is heartburn, caused by stomach acid (Magensäure) rising into the oesophagus (Speiseröhre). Sod is an old word related to sieden (to simmer, boil), describing the burning rise. Typical triggers include fatty food, coffee and alcohol. The medical term for chronic reflux is die Refluxkrankheit. It has no plural."
+}

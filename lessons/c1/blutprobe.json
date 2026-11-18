@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Blutprobe",
+    "partOfSpeech": "noun, feminine (die Blutprobe)",
+    "pronunciation": {
+      "respelling": "BLOOT-proh-be",
+      "ipa": "ˈbluːtˌpʁoːbə",
+      "notes": "Plural: die Blutproben."
+    },
+    "meaning": "blood sample, blood test",
+    "shortDefinition": "Blood sample, blood test."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Blutprobe, plural die Blutproben.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Blutprobe"
+        },
+        {
+          "label": "More than one",
+          "value": "die Blutproben"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Polizei ordnete eine Blutprobe an.",
+      "english": "The police ordered a blood test.",
+      "highlight": [
+        "Blutprobe"
+      ]
+    },
+    {
+      "german": "Der Arzt nimmt eine Blutprobe.",
+      "english": "The doctor takes a blood sample.",
+      "highlight": [
+        "Blutprobe."
+      ]
+    }
+  ],
+  "forms": [
+    "Blutproben",
+    "die Blutprobe"
+  ],
+  "memoryHook": "Blutprobe: a Probe (sample) of Blut.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Blutprobe",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Blutprobe is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Blutprobe, zwei ___",
+      "answer": "Blutproben",
+      "fullAnswer": "ein Blutprobe, zwei Blutproben",
+      "explanation": "The plural is Blutproben.",
+      "acceptedAnswers": [
+        "Blutproben"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Blutprobe mean?",
+      "options": [
+        "blood sample",
+        "hot",
+        "tomorrow"
+      ],
+      "answer": "blood sample",
+      "explanation": "Blutprobe: blood sample, blood test.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Probe is…",
+      "options": [
+        "sample; test; rehearsal",
+        "a probe only"
+      ],
+      "answer": "sample; test; rehearsal",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Blut abnehmen means…",
+      "options": [
+        "to take blood",
+        "to lose blood"
+      ],
+      "answer": "to take blood",
+      "explanation": "Phrase.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Blutbild is…",
+      "options": [
+        "blood count",
+        "a blood painting"
+      ],
+      "answer": "blood count",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Blutprobe is a blood sample or blood test: eine Blutprobe nehmen, abgeben. Doctors say Blut abnehmen (to take blood), and the result is das Blutbild (blood count). Police order a Blutprobe for suspected drink-driving; Germany's limit is 0.5 Promille. Die Probe is sample, test, and also rehearsal. Plural: die Blutproben."
+}

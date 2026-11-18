@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wertverlust",
+    "partOfSpeech": "noun, masculine (der Wertverlust)",
+    "pronunciation": {
+      "respelling": "VERT-fer-lust",
+      "ipa": "ˈveːɐ̯tfɛɐ̯ˌlʊst",
+      "notes": "Plural: die Wertverluste."
+    },
+    "meaning": "loss of value, depreciation",
+    "shortDefinition": "Loss of value, depreciation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Wertverlust, plural die Wertverluste.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Wertverlust"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wertverluste"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Neuwagen haben im ersten Jahr einen hohen Wertverlust.",
+      "english": "New cars lose a lot of value in the first year.",
+      "highlight": [
+        "Wertverlust."
+      ]
+    },
+    {
+      "german": "Die Inflation führt zum Wertverlust des Geldes.",
+      "english": "Inflation leads to a loss in the value of money.",
+      "highlight": [
+        "Wertverlust"
+      ]
+    }
+  ],
+  "forms": [
+    "Wertverluste",
+    "der Wertverlust"
+  ],
+  "memoryHook": "Wertverlust: Verlust (loss) of Wert (value).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wertverlust",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Wertverlust is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wertverlust, zwei ___",
+      "answer": "Wertverluste",
+      "fullAnswer": "ein Wertverlust, zwei Wertverluste",
+      "explanation": "The plural is Wertverluste.",
+      "acceptedAnswers": [
+        "Wertverluste"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wertverlust mean?",
+      "options": [
+        "slowly",
+        "the job",
+        "loss of value"
+      ],
+      "answer": "loss of value",
+      "explanation": "Wertverlust: loss of value, depreciation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Wertminderung, die Abwertung",
+        "die Wertsteigerung"
+      ],
+      "answer": "die Wertminderung, die Abwertung",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Opposite:",
+      "options": [
+        "die Wertsteigerung",
+        "der Wertverfall"
+      ],
+      "answer": "die Wertsteigerung",
+      "explanation": "Opposite.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Verlust is…",
+      "options": [
+        "loss",
+        "a lust"
+      ],
+      "answer": "loss",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Wertverlust is a loss of value or depreciation: der Wertverlust eines Autos, einer Immobilie, des Geldes durch Inflation. A new car typically loses a large share of its value in the first years. Synonyms: die Wertminderung, die Abwertung, der Wertverfall (collapse in value). The opposite is die Wertsteigerung. Der Verlust is loss. Plural: die Wertverluste."
+}

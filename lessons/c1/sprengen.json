@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "sprengen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHPRENG-en",
+      "ipa": "ˈʃpʁɛŋən",
+      "notes": ""
+    },
+    "meaning": "to blow up; to burst; to sprinkle",
+    "shortDefinition": "To blow up; to burst; to sprinkle."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "spreng|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "spreng|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "spreng|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "spreng|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "spreng|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "spreng|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gesprengt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die alte Brücke wurde gesprengt.",
+      "english": "The old bridge was blown up.",
+      "highlight": [
+        "gesprengt."
+      ]
+    },
+    {
+      "german": "Das sprengt den Rahmen.",
+      "english": "That goes beyond the scope.",
+      "highlight": [
+        "sprengt"
+      ]
+    }
+  ],
+  "forms": [
+    "sprenge",
+    "sprengst",
+    "sprengt",
+    "sprengen",
+    "gesprengt",
+    "Sprengung",
+    "Sprengstoff"
+  ],
+  "memoryHook": "Sprengen: make it spring (springen) apart.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (sprengen)",
+      "answer": "sprengt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: sprengt.",
+      "acceptedAnswers": [
+        "sprengt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (sprengen, past)",
+      "answer": "gesprengt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gesprengt.",
+      "acceptedAnswers": [
+        "gesprengt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does sprengen mean?",
+      "options": [
+        "the shop",
+        "to blow up",
+        "never"
+      ],
+      "answer": "to blow up",
+      "explanation": "sprengen: to blow up; to burst; to sprinkle.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Rahmen sprengen means…",
+      "options": [
+        "to go beyond the scope",
+        "to break a frame"
+      ],
+      "answer": "to go beyond the scope",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Rasen sprengen means…",
+      "options": [
+        "to water the lawn",
+        "to blow up the lawn"
+      ],
+      "answer": "to water the lawn",
+      "explanation": "Water.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Sprengstoff is…",
+      "options": [
+        "explosive",
+        "spray"
+      ],
+      "answer": "explosive",
+      "explanation": "Explosive.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Sprengen means to blow up (ein Gebäude sprengen, eine Bombe aus dem Zweiten Weltkrieg sprengen) and to burst or break open. Unexploded WWII bombs are still found and defused or detonated regularly in Germany. Figuratively, den Rahmen sprengen means to go beyond the scope, and eine Versammlung sprengen means to break up a meeting. Oddly, den Rasen sprengen means to water the lawn. Der Sprengstoff is an explosive."
+}

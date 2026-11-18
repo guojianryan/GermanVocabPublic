@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Thron",
+    "partOfSpeech": "noun, masculine (der Thron)",
+    "pronunciation": {
+      "respelling": "trohn",
+      "ipa": "tʁoːn",
+      "notes": "Plural: die Throne."
+    },
+    "meaning": "throne",
+    "shortDefinition": "Throne."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Thron, plural die Throne.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Thron"
+        },
+        {
+          "label": "More than one",
+          "value": "die Throne"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der König bestieg den Thron.",
+      "english": "The king ascended the throne.",
+      "highlight": [
+        "Thron."
+      ]
+    },
+    {
+      "german": "Bayern verteidigt den Thron in der Bundesliga.",
+      "english": "Bayern is defending its top spot in the Bundesliga.",
+      "highlight": [
+        "Thron"
+      ]
+    }
+  ],
+  "forms": [
+    "Throne",
+    "die Throne",
+    "der Thron",
+    "thronen",
+    "Thronfolger"
+  ],
+  "memoryHook": "Thron: say it with a plain T.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Thron",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Thron is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Thron, zwei ___",
+      "answer": "Throne",
+      "fullAnswer": "ein Thron, zwei Throne",
+      "explanation": "The plural is Throne.",
+      "acceptedAnswers": [
+        "Throne"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Thron mean?",
+      "options": [
+        "throne",
+        "expensive",
+        "the station"
+      ],
+      "answer": "throne",
+      "explanation": "Thron: throne.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Thron besteigen means…",
+      "options": [
+        "to ascend the throne",
+        "to climb a chair"
+      ],
+      "answer": "to ascend the throne",
+      "explanation": "Ascend.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Thronfolger is…",
+      "options": [
+        "the heir to the throne",
+        "the guard"
+      ],
+      "answer": "the heir to the throne",
+      "explanation": "Heir.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The th is pronounced…",
+      "options": [
+        "t",
+        "as in English 'the'"
+      ],
+      "answer": "t",
+      "explanation": "TROHN.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Thron is a throne: den Thron besteigen (to ascend the throne), auf dem Thron sitzen. The th is just a t sound, as in Theater and Thema. Der Thronfolger is the heir to the throne. In sport, journalists use der Thron for the top position: Wer stürzt Bayern vom Thron? Thronen means to sit enthroned or to tower: Die Burg thront über der Stadt. Plural: die Throne."
+}

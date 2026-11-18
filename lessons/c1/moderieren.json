@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "moderieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "mo-de-REE-ren",
+      "ipa": "modeˈʁiːʁən",
+      "notes": ""
+    },
+    "meaning": "to host, present, moderate",
+    "shortDefinition": "To host, present, moderate."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "moderier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "moderier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "moderier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "moderier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "moderier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "moderier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat moderiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie moderiert eine Talkshow.",
+      "english": "She hosts a talk show.",
+      "highlight": [
+        "moderiert"
+      ]
+    },
+    {
+      "german": "Wer moderiert die Diskussion?",
+      "english": "Who's moderating the discussion?",
+      "highlight": [
+        "moderiert"
+      ]
+    }
+  ],
+  "forms": [
+    "moderiere",
+    "moderierst",
+    "moderiert",
+    "moderieren",
+    "Moderator",
+    "Moderation",
+    "Moderatorin"
+  ],
+  "memoryHook": "Moderieren: hosting a show or a debate.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (moderieren)",
+      "answer": "moderiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: moderiert.",
+      "acceptedAnswers": [
+        "moderiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (moderieren, past)",
+      "answer": "moderiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe moderiert.",
+      "acceptedAnswers": [
+        "moderiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does moderieren mean?",
+      "options": [
+        "to learn",
+        "to host",
+        "the car"
+      ],
+      "answer": "to host",
+      "explanation": "moderieren: to host, present, moderate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Moderator is…",
+      "options": [
+        "TV/radio presenter, host",
+        "a moderate politician"
+      ],
+      "answer": "TV/radio presenter, host",
+      "explanation": "Presenter.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Moderat means…",
+      "options": [
+        "moderate",
+        "modern"
+      ],
+      "answer": "moderate",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "-ieren verbs form the perfect…",
+      "options": [
+        "without ge-",
+        "with ge-"
+      ],
+      "answer": "without ge-",
+      "explanation": "hat moderiert.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Moderieren means to host or present a TV or radio programme, or to moderate a discussion: eine Sendung moderieren, eine Podiumsdiskussion moderieren. Der Moderator (die Moderatorin) is a presenter or host; die Moderation is the presenting, or moderation of an online forum. Moderat means moderate, as in moderate prices. Like all -ieren verbs, it forms the perfect without ge-: hat moderiert."
+}

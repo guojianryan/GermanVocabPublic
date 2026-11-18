@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "stationieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "shta-tsyo-NEE-ren",
+      "ipa": "ʃtat͡si̯oˈniːʁən",
+      "notes": ""
+    },
+    "meaning": "to station, deploy",
+    "shortDefinition": "To station, deploy."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "stationier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "stationier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "stationier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "stationier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "stationier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "stationier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat stationiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In Litauen ist eine deutsche Brigade stationiert.",
+      "english": "A German brigade is stationed in Lithuania.",
+      "highlight": [
+        "stationiert."
+      ]
+    },
+    {
+      "german": "Die USA haben Truppen in Deutschland stationiert.",
+      "english": "The USA has stationed troops in Germany.",
+      "highlight": [
+        "stationiert."
+      ]
+    }
+  ],
+  "forms": [
+    "stationiere",
+    "stationierst",
+    "stationiert",
+    "stationieren",
+    "Stationierung"
+  ],
+  "memoryHook": "Stationieren: give troops a Station (post).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (stationieren)",
+      "answer": "stationiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: stationiert.",
+      "acceptedAnswers": [
+        "stationiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (stationieren, past)",
+      "answer": "stationiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe stationiert.",
+      "acceptedAnswers": [
+        "stationiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does stationieren mean?",
+      "options": [
+        "quiet",
+        "to station",
+        "the bed"
+      ],
+      "answer": "to station",
+      "explanation": "stationieren: to station, deploy.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Stationierung is…",
+      "options": [
+        "stationing, deployment",
+        "a railway station"
+      ],
+      "answer": "stationing, deployment",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's first permanent brigade abroad is in…",
+      "options": [
+        "Lithuania",
+        "France"
+      ],
+      "answer": "Lithuania",
+      "explanation": "Lithuania.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "-ieren verbs form the perfect…",
+      "options": [
+        "without ge-",
+        "with ge-"
+      ],
+      "answer": "without ge-",
+      "explanation": "hat stationiert.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Stationieren means to station or deploy troops or equipment: Truppen stationieren, Raketen stationieren. Die Stationierung is stationing. The 1983 Nachrüstung (stationing of US Pershing missiles in West Germany) sparked huge peace protests. Today, tens of thousands of US troops are stationed in Germany, and the Bundeswehr is building its first permanent brigade abroad, in Lithuania. Perfect without ge-: hat stationiert."
+}

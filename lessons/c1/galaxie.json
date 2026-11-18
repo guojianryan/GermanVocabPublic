@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Galaxie",
+    "partOfSpeech": "noun, feminine (die Galaxie)",
+    "pronunciation": {
+      "respelling": "ga-la-KSEE",
+      "ipa": "ɡalaˈksiː",
+      "notes": "Plural: die Galaxien."
+    },
+    "meaning": "galaxy",
+    "shortDefinition": "Galaxy."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Galaxie, plural die Galaxien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Galaxie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Galaxien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Milchstraße ist unsere Galaxie.",
+      "english": "The Milky Way is our galaxy.",
+      "highlight": [
+        "Galaxie."
+      ]
+    },
+    {
+      "german": "Das Teleskop entdeckte eine ferne Galaxie.",
+      "english": "The telescope discovered a distant galaxy.",
+      "highlight": [
+        "Galaxie."
+      ]
+    }
+  ],
+  "forms": [
+    "Galaxien",
+    "die Galaxien",
+    "die Galaxie"
+  ],
+  "memoryHook": "Galaxie: a milky (Greek gala, milk) system of stars.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Galaxie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Galaxie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Galaxie, zwei ___",
+      "answer": "Galaxien",
+      "fullAnswer": "ein Galaxie, zwei Galaxien",
+      "explanation": "The plural is Galaxien.",
+      "acceptedAnswers": [
+        "Galaxien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Galaxie mean?",
+      "options": [
+        "always",
+        "the family",
+        "galaxy"
+      ],
+      "answer": "galaxy",
+      "explanation": "Galaxie: galaxy.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Milchstraße is…",
+      "options": [
+        "the Milky Way",
+        "a dairy street"
+      ],
+      "answer": "the Milky Way",
+      "explanation": "Milky Way.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress:",
+      "options": [
+        "ga-la-XIE",
+        "GA-la-xie"
+      ],
+      "answer": "ga-la-XIE",
+      "explanation": "Last syllable.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Galaxien",
+        "die Galaxies"
+      ],
+      "answer": "die Galaxien",
+      "explanation": "-n.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Galaxie is a galaxy: Die Milchstraße ist eine Galaxie mit Milliarden Sternen. From Greek gala (milk), like the German Milchstraße (Milky Way). The Andromedagalaxie is our nearest large neighbour. Galaktisch means galactic, and colloquially fantastic. Stressed on the last syllable: ga-la-KSEE. Plural: die Galaxien."
+}

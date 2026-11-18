@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "stranden",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHTRAN-den",
+      "ipa": "ˈʃtʁandn̩",
+      "notes": ""
+    },
+    "meaning": "to be stranded; to run aground",
+    "shortDefinition": "To be stranded; to run aground."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "strand|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "strand|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "strand|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "strand|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "strand|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "strand|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist gestrandet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wegen des Streiks sind wir am Flughafen gestrandet.",
+      "english": "Because of the strike we got stranded at the airport.",
+      "highlight": [
+        "gestrandet."
+      ]
+    },
+    {
+      "german": "Ein Wal ist an der Küste gestrandet.",
+      "english": "A whale has been stranded on the coast.",
+      "highlight": [
+        "gestrandet."
+      ]
+    }
+  ],
+  "forms": [
+    "strande",
+    "strandest",
+    "strandet",
+    "stranden",
+    "gestrandet",
+    "strandete"
+  ],
+  "memoryHook": "Stranden: end up on the Strand (shore).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (stranden)",
+      "answer": "strandet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: strandet.",
+      "acceptedAnswers": [
+        "strandet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (stranden, past)",
+      "answer": "gestrandet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin gestrandet.",
+      "acceptedAnswers": [
+        "gestrandet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does stranden mean?",
+      "options": [
+        "expensive",
+        "the child",
+        "to be stranded"
+      ],
+      "answer": "to be stranded",
+      "explanation": "stranden: to be stranded; to run aground.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Auxiliary:",
+      "options": [
+        "sein",
+        "haben"
+      ],
+      "answer": "sein",
+      "explanation": "Movement.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Strand is…",
+      "options": [
+        "beach",
+        "a strand of hair"
+      ],
+      "answer": "beach",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, gestrandet means…",
+      "options": [
+        "stuck, failed",
+        "relaxed on a beach"
+      ],
+      "answer": "stuck, failed",
+      "explanation": "Figurative.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Stranden means to run aground or be stranded: Ein Schiff, ein Wal strandet; Reisende stranden am Flughafen. Figuratively, gestrandete Existenzen are people whose lives have run aground. It takes sein. From der Strand (beach). Ein gestrandeter Wal on the North Sea coast regularly makes headlines. Regular: strandete, ist gestrandet."
+}

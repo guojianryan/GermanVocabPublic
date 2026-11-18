@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "übersteigen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ü-ber-SHTAI-gen",
+      "ipa": "yːbɐˈʃtaɪ̯ɡn̩",
+      "notes": ""
+    },
+    "meaning": "to exceed, surpass",
+    "shortDefinition": "To exceed, surpass."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "übersteig|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "übersteig|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "übersteig|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "übersteig|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "übersteig|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "übersteig|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat überstiegen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Kosten übersteigen das Budget.",
+      "english": "The costs exceed the budget.",
+      "highlight": [
+        "übersteigen"
+      ]
+    },
+    {
+      "german": "Das übersteigt meine Vorstellungskraft.",
+      "english": "That's beyond my imagination.",
+      "highlight": [
+        "übersteigt"
+      ]
+    }
+  ],
+  "forms": [
+    "übersteige",
+    "übersteigst",
+    "übersteigt",
+    "übersteigen",
+    "überstiegen",
+    "überstieg"
+  ],
+  "memoryHook": "Übersteigen: climb (steigen) over (über) a limit.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (übersteigen)",
+      "answer": "übersteigt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: übersteigt.",
+      "acceptedAnswers": [
+        "uebersteigt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (übersteigen, past)",
+      "answer": "überstiegen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe überstiegen.",
+      "acceptedAnswers": [
+        "ueberstiegen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does übersteigen mean?",
+      "options": [
+        "to learn",
+        "to exceed",
+        "the bed"
+      ],
+      "answer": "to exceed",
+      "explanation": "übersteigen: to exceed, surpass.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "überstieg, überstiegen",
+        "übersteigte"
+      ],
+      "answer": "überstieg, überstiegen",
+      "explanation": "Irregular.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Nachfrage übersteigt das Angebot means…",
+      "options": [
+        "demand exceeds supply",
+        "supply exceeds demand"
+      ],
+      "answer": "demand exceeds supply",
+      "explanation": "Economy.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Übersteigert means…",
+      "options": [
+        "exaggerated, excessive",
+        "climbed"
+      ],
+      "answer": "exaggerated, excessive",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Übersteigen (not separable) means to exceed or surpass: Die Nachfrage übersteigt das Angebot, Das übersteigt meine Kräfte (that's beyond me). It's frequent in business and news: Die Ausgaben überstiegen die Einnahmen. Irregular: überstieg, überstiegen. Literally, it can also mean to climb over: eine Mauer übersteigen. Übersteigert means excessive: ein übersteigertes Selbstbewusstsein."
+}

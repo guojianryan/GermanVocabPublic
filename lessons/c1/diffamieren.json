@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "diffamieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "di-fa-MEE-ren",
+      "ipa": "difaˈmiːʁən",
+      "notes": ""
+    },
+    "meaning": "to defame, slander",
+    "shortDefinition": "To defame, slander."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "diffamier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "diffamier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "diffamier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "diffamier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "diffamier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "diffamier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat diffamiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Kampagne sollte den Kandidaten diffamieren.",
+      "english": "The campaign was meant to defame the candidate.",
+      "highlight": [
+        "diffamieren."
+      ]
+    },
+    {
+      "german": "Sie fühlt sich in den Medien diffamiert.",
+      "english": "She feels defamed in the media.",
+      "highlight": [
+        "diffamiert."
+      ]
+    }
+  ],
+  "forms": [
+    "diffamiere",
+    "diffamierst",
+    "diffamiert",
+    "diffamieren",
+    "Diffamierung"
+  ],
+  "memoryHook": "Diffamieren: spread bad fama (reputation).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (diffamieren)",
+      "answer": "diffamiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: diffamiert.",
+      "acceptedAnswers": [
+        "diffamiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (diffamieren, past)",
+      "answer": "diffamiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe diffamiert.",
+      "acceptedAnswers": [
+        "diffamiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does diffamieren mean?",
+      "options": [
+        "to wait",
+        "the car",
+        "to defame"
+      ],
+      "answer": "to defame",
+      "explanation": "diffamieren: to defame, slander.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Diffamierung is…",
+      "options": [
+        "defamation",
+        "a famine"
+      ],
+      "answer": "defamation",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In German criminal law, Verleumdung (§187) is…",
+      "options": [
+        "knowingly spreading false facts",
+        "an insult"
+      ],
+      "answer": "knowingly spreading false facts",
+      "explanation": "Law.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "verleumden, verunglimpfen",
+        "loben"
+      ],
+      "answer": "verleumden, verunglimpfen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Diffamieren means to defame or slander: einen Politiker, eine Minderheit diffamieren. Die Diffamierung is defamation. German criminal law distinguishes Beleidigung (insult, §185), üble Nachrede (defamation by unproven facts, §186) and Verleumdung (knowingly false facts, §187). Synonyms: verleumden, verunglimpfen, schlechtmachen. Perfect without ge-: hat diffamiert."
+}

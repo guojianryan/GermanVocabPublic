@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "schleudern",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHLOY-dern",
+      "ipa": "ˈʃlɔɪ̯dɐn",
+      "notes": ""
+    },
+    "meaning": "to hurl, fling; to spin (laundry); to skid",
+    "shortDefinition": "To hurl, fling; to spin (laundry); to skid."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schleuder|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schleuder|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schleuder|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schleuder|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schleuder|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schleuder|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geschleudert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Explosion schleuderte Trümmer durch die Luft.",
+      "english": "The explosion hurled debris through the air.",
+      "highlight": [
+        "schleuderte"
+      ]
+    },
+    {
+      "german": "Das Auto geriet auf dem Eis ins Schleudern.",
+      "english": "The car went into a skid on the ice.",
+      "highlight": [
+        "Schleudern."
+      ]
+    }
+  ],
+  "forms": [
+    "schleudere",
+    "schleuderst",
+    "schleudert",
+    "schleudern",
+    "geschleudert",
+    "schleuderte",
+    "Schleuder"
+  ],
+  "memoryHook": "Schleudern: throw with a Schleuder (sling).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (schleudern)",
+      "answer": "schleudert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schleudert.",
+      "acceptedAnswers": [
+        "schleudert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (schleudern, past)",
+      "answer": "geschleudert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geschleudert.",
+      "acceptedAnswers": [
+        "geschleudert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does schleudern mean?",
+      "options": [
+        "to sing",
+        "to wait",
+        "to hurl"
+      ],
+      "answer": "to hurl",
+      "explanation": "schleudern: to hurl, fling; to spin (laundry); to skid.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ins Schleudern geraten means…",
+      "options": [
+        "to skid; to get into difficulty",
+        "to do laundry"
+      ],
+      "answer": "to skid; to get into difficulty",
+      "explanation": "Skid.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schleudergang is…",
+      "options": [
+        "spin cycle",
+        "a sling walk"
+      ],
+      "answer": "spin cycle",
+      "explanation": "Laundry.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schleudersitz is…",
+      "options": [
+        "ejector seat; precarious job",
+        "a swing"
+      ],
+      "answer": "ejector seat; precarious job",
+      "explanation": "Seat.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Schleudern means to hurl or fling: einen Stein schleudern, and to spin laundry: die Wäsche schleudern (die Schleuder is a spin dryer or sling). A skidding car schleudert or gerät ins Schleudern, which figuratively means to get into trouble. When the car itself moves, the perfect uses sein: Das Auto ist von der Straße geschleudert. Der Schleudersitz is an ejector seat, also a job where you can be fired at any moment. Der Schleuderpreis is a giveaway price."
+}

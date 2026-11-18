@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "bewilligen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-VI-li-gen",
+      "ipa": "bəˈvɪlɪɡn̩",
+      "notes": ""
+    },
+    "meaning": "to approve, grant",
+    "shortDefinition": "To approve, grant."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "bewillig|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "bewillig|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "bewillig|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "bewillig|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "bewillig|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "bewillig|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat bewilligt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Antrag wurde bewilligt.",
+      "english": "The application was approved.",
+      "highlight": [
+        "bewilligt."
+      ]
+    },
+    {
+      "german": "Das Parlament bewilligte zusätzliche Mittel.",
+      "english": "Parliament approved additional funds.",
+      "highlight": [
+        "bewilligte"
+      ]
+    }
+  ],
+  "forms": [
+    "bewillige",
+    "bewilligst",
+    "bewilligt",
+    "bewilligen",
+    "Bewilligung"
+  ],
+  "memoryHook": "Bewilligen: give your Wille (will) to a request.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (bewilligen)",
+      "answer": "bewilligt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: bewilligt.",
+      "acceptedAnswers": [
+        "bewilligt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (bewilligen, past)",
+      "answer": "bewilligt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe bewilligt.",
+      "acceptedAnswers": [
+        "bewilligt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does bewilligen mean?",
+      "options": [
+        "the bed",
+        "to travel",
+        "to approve"
+      ],
+      "answer": "to approve",
+      "explanation": "bewilligen: to approve, grant.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Bewilligung is…",
+      "options": [
+        "approval, grant",
+        "willingness"
+      ],
+      "answer": "approval, grant",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Typical context:",
+      "options": [
+        "applications, funds, holidays",
+        "food"
+      ],
+      "answer": "applications, funds, holidays",
+      "explanation": "Context.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite:",
+      "options": [
+        "ablehnen",
+        "bewundern"
+      ],
+      "answer": "ablehnen",
+      "explanation": "Reject.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Bewilligen means to approve or grant, especially money or applications: einen Antrag bewilligen, Fördergelder bewilligen, Urlaub bewilligen. It's typical of bureaucracy: Ihr Antrag auf Elterngeld wurde bewilligt. Die Bewilligung is the approval, and der Bewilligungsbescheid the official notice of approval. The opposite is ablehnen. Not separable: hat bewilligt."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Geldgeber",
+    "partOfSpeech": "noun, masculine (der Geldgeber)",
+    "pronunciation": {
+      "respelling": "GELT-gay-ber",
+      "ipa": "ˈɡɛltˌɡeːbɐ",
+      "notes": "Plural: die Geldgeber."
+    },
+    "meaning": "financial backer, funder",
+    "shortDefinition": "Financial backer, funder."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Geldgeber, plural die Geldgeber.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Geldgeber"
+        },
+        {
+          "label": "More than one",
+          "value": "die Geldgeber"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Projekt sucht neue Geldgeber.",
+      "english": "The project is looking for new backers.",
+      "highlight": [
+        "Geldgeber."
+      ]
+    },
+    {
+      "german": "Die Geldgeber zogen sich zurück.",
+      "english": "The funders pulled out.",
+      "highlight": [
+        "Geldgeber"
+      ]
+    }
+  ],
+  "forms": [
+    "Geldgeberin",
+    "der Geldgeber"
+  ],
+  "memoryHook": "Geldgeber: someone who gibt (gives) Geld.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Geldgeber",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Geldgeber is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Geldgeber, zwei ___",
+      "answer": "Geldgeber",
+      "fullAnswer": "ein Geldgeber, zwei Geldgeber",
+      "explanation": "The plural is Geldgeber.",
+      "acceptedAnswers": [
+        "Geldgeber"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Geldgeber mean?",
+      "options": [
+        "tomorrow",
+        "financial backer",
+        "to wait"
+      ],
+      "answer": "financial backer",
+      "explanation": "Geldgeber: financial backer, funder.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Investor, der Sponsor",
+        "der Schuldner"
+      ],
+      "answer": "der Investor, der Sponsor",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kreditgeber is…",
+      "options": [
+        "lender",
+        "borrower"
+      ],
+      "answer": "lender",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Arbeitgeber is…",
+      "options": [
+        "employer",
+        "employee"
+      ],
+      "answer": "employer",
+      "explanation": "Pattern.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Geldgeber (die Geldgeberin) is a financial backer or funder: private Geldgeber, öffentliche Geldgeber. Related -geber words: der Arbeitgeber (employer), der Kreditgeber (lender), der Auftraggeber (client), der Ratgeber (adviser, guidebook). In politics, die Geldgeber of parties above certain amounts must be published. The plural is the same: die Geldgeber."
+}

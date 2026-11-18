@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vorabend",
+    "partOfSpeech": "noun, masculine (der Vorabend)",
+    "pronunciation": {
+      "respelling": "FOR-aa-bent",
+      "ipa": "ˈfoːɐ̯ˌʔaːbn̩t",
+      "notes": "Plural: die Vorabende."
+    },
+    "meaning": "eve, evening before",
+    "shortDefinition": "Eve, evening before."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Vorabend, plural die Vorabende.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Vorabend"
+        },
+        {
+          "label": "More than one",
+          "value": "die Vorabende"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Am Vorabend der Wahl gab es eine große Kundgebung.",
+      "english": "On the eve of the election there was a big rally.",
+      "highlight": [
+        "Vorabend"
+      ]
+    },
+    {
+      "german": "Wir sind am Vorabend angereist.",
+      "english": "We arrived the evening before.",
+      "highlight": [
+        "Vorabend"
+      ]
+    }
+  ],
+  "forms": [
+    "Vorabende",
+    "der Vorabend"
+  ],
+  "memoryHook": "Vorabend: the Abend before (vor) a big day.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vorabend",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Vorabend is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Vorabend, zwei ___",
+      "answer": "Vorabende",
+      "fullAnswer": "ein Vorabend, zwei Vorabende",
+      "explanation": "The plural is Vorabende.",
+      "acceptedAnswers": [
+        "Vorabende"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vorabend mean?",
+      "options": [
+        "expensive",
+        "eve",
+        "the bed"
+      ],
+      "answer": "eve",
+      "explanation": "Vorabend: eve, evening before.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Am Vorabend means…",
+      "options": [
+        "on the eve, the evening before",
+        "early evening"
+      ],
+      "answer": "on the eve, the evening before",
+      "explanation": "Eve.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Heiligabend is…",
+      "options": [
+        "Christmas Eve",
+        "a holy evening every week"
+      ],
+      "answer": "Christmas Eve",
+      "explanation": "Christmas.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Vorabendprogramm (TV) is…",
+      "options": [
+        "early-evening programming",
+        "next day's programme"
+      ],
+      "answer": "early-evening programming",
+      "explanation": "TV.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Vorabend is the eve, the evening before an event: am Vorabend der Hochzeit, der Wahl, des Krieges. Christmas Eve is Heiligabend, and New Year's Eve is Silvester. On German TV, das Vorabendprogramm is the early-evening slot before the 8 pm news (Tagesschau), with quiz shows and soaps. Plural: die Vorabende."
+}

@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Torf",
+    "partOfSpeech": "noun, masculine (der Torf)",
+    "pronunciation": {
+      "respelling": "TORF",
+      "ipa": "tɔʁf",
+      "notes": "Usually no plural."
+    },
+    "meaning": "peat",
+    "shortDefinition": "Peat."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Torf, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Torf"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Früher wurde Torf als Brennstoff gestochen.",
+      "english": "Peat used to be cut as fuel.",
+      "highlight": [
+        "Torf"
+      ]
+    },
+    {
+      "german": "Viele Gärtner verzichten heute auf Blumenerde mit Torf.",
+      "english": "Many gardeners now avoid potting soil with peat.",
+      "highlight": [
+        "Torf."
+      ]
+    }
+  ],
+  "forms": [
+    "der Torf",
+    "Torfs"
+  ],
+  "memoryHook": "Torf: peat, related to English turf.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Torf",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Torf is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Torf mean?",
+      "options": [
+        "the bill",
+        "the evening",
+        "peat"
+      ],
+      "answer": "peat",
+      "explanation": "Torf: peat.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Torfstechen means…",
+      "options": [
+        "cutting peat",
+        "a peat sting"
+      ],
+      "answer": "cutting peat",
+      "explanation": "Related.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Moor is…",
+      "options": [
+        "bog, moor",
+        "more"
+      ],
+      "answer": "bog, moor",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Peat bogs matter for the climate because they…",
+      "options": [
+        "store large amounts of carbon",
+        "produce oxygen only"
+      ],
+      "answer": "store large amounts of carbon",
+      "explanation": "Environment.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Torf is peat, formed in Moore (bogs) over thousands of years. It was once cut (gestochen) and burned as fuel in northern Germany, and it's used in potting soil. Since intact bogs store huge amounts of carbon, Germany plans to phase out peat in hobby gardening, and torffreie Erde is spreading. Related to English turf. It has no plural."
+}

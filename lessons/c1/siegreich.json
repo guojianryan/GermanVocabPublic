@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "siegreich",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "ZEEK-raikh",
+      "ipa": "ˈziːkʁaɪ̯ç",
+      "notes": ""
+    },
+    "meaning": "victorious",
+    "shortDefinition": "Victorious."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die siegreiche Mannschaft feierte bis spät in die Nacht.",
+      "english": "The victorious team celebrated late into the night.",
+      "highlight": [
+        "siegreiche"
+      ]
+    },
+    {
+      "german": "Sie ging siegreich aus dem Wettbewerb hervor.",
+      "english": "She emerged victorious from the competition.",
+      "highlight": [
+        "siegreich"
+      ]
+    }
+  ],
+  "forms": [
+    "siegreiche",
+    "siegreichen",
+    "siegreicher"
+  ],
+  "memoryHook": "Siegreich: reich (rich) in Siege (victories).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does siegreich mean?",
+      "options": [
+        "victorious",
+        "to buy",
+        "the flower"
+      ],
+      "answer": "victorious",
+      "explanation": "siegreich: victorious.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Sieg is…",
+      "options": [
+        "victory",
+        "a siege"
+      ],
+      "answer": "victory",
+      "explanation": "Root.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Siegreich hervorgehen means…",
+      "options": [
+        "to emerge victorious",
+        "to retreat"
+      ],
+      "answer": "to emerge victorious",
+      "explanation": "Phrase.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Sieger is…",
+      "options": [
+        "winner",
+        "sailor"
+      ],
+      "answer": "winner",
+      "explanation": "Person.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein ___ Feldzug (victorious)",
+      "answer": "siegreicher",
+      "fullAnswer": "ein siegreicher Feldzug",
+      "explanation": "Masculine -er.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Siegreich means victorious: die siegreiche Mannschaft, siegreich aus einer Wahl hervorgehen (to emerge victorious). Der Sieg is victory, der Sieger the winner, and siegen means to win. Everyday speech often just says gewinnen. The -reich suffix means rich in, as in erfolgreich (successful) and lehrreich (instructive)."
+}

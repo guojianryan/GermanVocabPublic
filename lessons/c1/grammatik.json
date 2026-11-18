@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Grammatik",
+    "partOfSpeech": "noun, feminine (die Grammatik)",
+    "pronunciation": {
+      "respelling": "gra-MA-tik",
+      "ipa": "ɡʁaˈmatɪk",
+      "notes": "Plural: die Grammatiken."
+    },
+    "meaning": "grammar",
+    "shortDefinition": "Grammar."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Grammatik, plural die Grammatiken.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Grammatik"
+        },
+        {
+          "label": "More than one",
+          "value": "die Grammatiken"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die deutsche Grammatik ist schwierig.",
+      "english": "German grammar is difficult.",
+      "highlight": [
+        "Grammatik"
+      ]
+    },
+    {
+      "german": "Ich habe mir eine Grammatik gekauft.",
+      "english": "I bought a grammar book.",
+      "highlight": [
+        "Grammatik"
+      ]
+    }
+  ],
+  "forms": [
+    "Grammatiken",
+    "die Grammatiken",
+    "die Grammatik",
+    "grammatisch"
+  ],
+  "memoryHook": "Grammatik: the rules, and the book that holds them.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Grammatik",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Grammatik is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Grammatik, zwei ___",
+      "answer": "Grammatiken",
+      "fullAnswer": "ein Grammatik, zwei Grammatiken",
+      "explanation": "The plural is Grammatiken.",
+      "acceptedAnswers": [
+        "Grammatiken"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Grammatik mean?",
+      "options": [
+        "grammar",
+        "always",
+        "slowly"
+      ],
+      "answer": "grammar",
+      "explanation": "Grammatik: grammar.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammatisch means…",
+      "options": [
+        "grammatical",
+        "grammar book"
+      ],
+      "answer": "grammatical",
+      "explanation": "grammatisch.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Grammatik can also mean…",
+      "options": [
+        "a grammar book",
+        "a teacher"
+      ],
+      "answer": "a grammar book",
+      "explanation": "Book.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress on…",
+      "options": [
+        "-MA-",
+        "GRAM-"
+      ],
+      "answer": "-MA-",
+      "explanation": "gra-MA-tik.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Grammatik is grammar, and also a grammar book. Mark Twain's essay The Awful German Language (1880) famously mocked German Grammatik: der, die, das, four cases and verbs at the end. Learners take comfort that German grammar is very regular once you know the rules. The Duden publishes the standard Grammatik. Grammatisch richtig means grammatically correct. Stress: gra-MA-tik."
+}

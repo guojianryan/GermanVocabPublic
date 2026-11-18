@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Überschneidung",
+    "partOfSpeech": "noun, feminine (die Überschneidung)",
+    "pronunciation": {
+      "respelling": "ü-ber-SHNAI-dung",
+      "ipa": "yːbɐˈʃnaɪ̯dʊŋ",
+      "notes": "Plural: die Überschneidungen."
+    },
+    "meaning": "overlap; clash",
+    "shortDefinition": "Overlap; clash."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Überschneidung, plural die Überschneidungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Überschneidung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Überschneidungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Es gibt viele Überschneidungen zwischen den Fächern.",
+      "english": "There's a lot of overlap between the subjects.",
+      "highlight": [
+        "Überschneidungen"
+      ]
+    },
+    {
+      "german": "Wegen einer Überschneidung im Stundenplan kann ich nicht teilnehmen.",
+      "english": "Because of a timetable clash I can't take part.",
+      "highlight": [
+        "Überschneidung"
+      ]
+    }
+  ],
+  "forms": [
+    "Überschneidungen",
+    "die Überschneidung"
+  ],
+  "memoryHook": "Überschneidung: lines schneiden (cut) across each other.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Überschneidung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Überschneidung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Überschneidung, zwei ___",
+      "answer": "Überschneidungen",
+      "fullAnswer": "ein Überschneidung, zwei Überschneidungen",
+      "explanation": "The plural is Überschneidungen.",
+      "acceptedAnswers": [
+        "Überschneidungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Überschneidung mean?",
+      "options": [
+        "slowly",
+        "the station",
+        "overlap"
+      ],
+      "answer": "overlap",
+      "explanation": "Überschneidung: overlap; clash.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich überschneiden means…",
+      "options": [
+        "to overlap; to clash",
+        "to cut oneself"
+      ],
+      "answer": "to overlap; to clash",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schnittmenge is…",
+      "options": [
+        "intersection (sets); common ground",
+        "a slice"
+      ],
+      "answer": "intersection (sets); common ground",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Überlappung",
+        "die Trennung"
+      ],
+      "answer": "die Überlappung",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Überschneidung is an overlap (inhaltliche Überschneidungen) or a scheduling clash (eine Terminüberschneidung). Sich überschneiden means to overlap or clash: Die Termine überschneiden sich. In maths, the overlap of two sets is die Schnittmenge, also used for common ground between parties. Synonym: die Überlappung. Plural: die Überschneidungen."
+}

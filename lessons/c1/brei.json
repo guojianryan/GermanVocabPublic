@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Brei",
+    "partOfSpeech": "noun, masculine (der Brei)",
+    "pronunciation": {
+      "respelling": "brai",
+      "ipa": "bʁaɪ̯",
+      "notes": "Plural: die Breie."
+    },
+    "meaning": "porridge, mash, purée",
+    "shortDefinition": "Porridge, mash, purée."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Brei, plural die Breie.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Brei"
+        },
+        {
+          "label": "More than one",
+          "value": "die Breie"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Baby isst Karottenbrei.",
+      "english": "The baby is eating carrot purée.",
+      "highlight": [
+        "Karottenbrei."
+      ]
+    },
+    {
+      "german": "Viele Köche verderben den Brei.",
+      "english": "Too many cooks spoil the broth.",
+      "highlight": [
+        "Brei."
+      ]
+    }
+  ],
+  "forms": [
+    "Breie",
+    "der Brei",
+    "Kartoffelbrei"
+  ],
+  "memoryHook": "Brei: anything mashed soft.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Brei",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Brei is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Brei, zwei ___",
+      "answer": "Breie",
+      "fullAnswer": "ein Brei, zwei Breie",
+      "explanation": "The plural is Breie.",
+      "acceptedAnswers": [
+        "Breie"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Brei mean?",
+      "options": [
+        "to buy",
+        "the child",
+        "porridge"
+      ],
+      "answer": "porridge",
+      "explanation": "Brei: porridge, mash, purée.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Viele Köche verderben den Brei means…",
+      "options": [
+        "too many cooks spoil the broth",
+        "cooking is hard"
+      ],
+      "answer": "too many cooks spoil the broth",
+      "explanation": "Proverb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Um den heißen Brei herumreden means…",
+      "options": [
+        "to beat about the bush",
+        "to cook"
+      ],
+      "answer": "to beat about the bush",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kartoffelbrei is…",
+      "options": [
+        "mashed potatoes",
+        "potato soup"
+      ],
+      "answer": "mashed potatoes",
+      "explanation": "Mash.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Brei is porridge, mash or purée: der Kartoffelbrei (mashed potatoes, also Püree), der Milchreis, Babybrei. Two idioms: um den heißen Brei herumreden (to beat about the bush, literally to talk around the hot porridge) and Viele Köche verderben den Brei (too many cooks spoil the broth). Jemandem Brei ums Maul schmieren means to butter someone up. Plural: die Breie."
+}

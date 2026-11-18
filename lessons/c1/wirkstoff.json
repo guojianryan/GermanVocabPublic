@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wirkstoff",
+    "partOfSpeech": "noun, masculine (der Wirkstoff)",
+    "pronunciation": {
+      "respelling": "VIRK-shtof",
+      "ipa": "ˈvɪʁkˌʃtɔf",
+      "notes": "Plural: die Wirkstoffe."
+    },
+    "meaning": "active ingredient",
+    "shortDefinition": "Active ingredient."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Wirkstoff, plural die Wirkstoffe.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Wirkstoff"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wirkstoffe"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Wirkstoff des Medikaments ist Ibuprofen.",
+      "english": "The drug's active ingredient is ibuprofen.",
+      "highlight": [
+        "Wirkstoff"
+      ]
+    },
+    {
+      "german": "Generika enthalten denselben Wirkstoff wie das Original.",
+      "english": "Generics contain the same active ingredient as the original.",
+      "highlight": [
+        "Wirkstoff"
+      ]
+    }
+  ],
+  "forms": [
+    "Wirkstoffe",
+    "die Wirkstoffe",
+    "der Wirkstoff"
+  ],
+  "memoryHook": "Wirkstoff: the Stoff (substance) that wirkt (has an effect).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wirkstoff",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Wirkstoff is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wirkstoff, zwei ___",
+      "answer": "Wirkstoffe",
+      "fullAnswer": "ein Wirkstoff, zwei Wirkstoffe",
+      "explanation": "The plural is Wirkstoffe.",
+      "acceptedAnswers": [
+        "Wirkstoffe"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wirkstoff mean?",
+      "options": [
+        "the key",
+        "active ingredient",
+        "to buy"
+      ],
+      "answer": "active ingredient",
+      "explanation": "Wirkstoff: active ingredient.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wirken means…",
+      "options": [
+        "to have an effect, work",
+        "to weave only"
+      ],
+      "answer": "to have an effect, work",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Aspirin's active ingredient was first synthesised at…",
+      "options": [
+        "Bayer (1897)",
+        "BASF"
+      ],
+      "answer": "Bayer (1897)",
+      "explanation": "Aspirin.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Wirkung is…",
+      "options": [
+        "effect",
+        "workshop"
+      ],
+      "answer": "effect",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Wirkstoff is an active ingredient in a medicine or pesticide: Der Wirkstoff heißt Paracetamol. German package leaflets (Beipackzettel) list it first. At Bayer in 1897, chemist Felix Hoffmann synthesised acetylsalicylic acid, sold as Aspirin from 1899. Wirken means to have an effect: Das Mittel wirkt schnell. Die Wirkung is effect, and die Nebenwirkung a side effect. Plural: die Wirkstoffe."
+}

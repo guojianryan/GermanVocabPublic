@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gerichtshof",
+    "partOfSpeech": "noun, masculine (der Gerichtshof)",
+    "pronunciation": {
+      "respelling": "ge-RIKHTS-hohf",
+      "ipa": "ɡəˈʁɪçt͡sˌhoːf",
+      "notes": "Plural: die Gerichtshöfe."
+    },
+    "meaning": "court (of justice), high court",
+    "shortDefinition": "Court (of justice), high court."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Gerichtshof, plural die Gerichtshöfe.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Gerichtshof"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gerichtshöfe"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Europäische Gerichtshof sitzt in Luxemburg.",
+      "english": "The European Court of Justice sits in Luxembourg.",
+      "highlight": [
+        "Gerichtshof"
+      ]
+    },
+    {
+      "german": "Der Fall landete vor dem Bundesgerichtshof.",
+      "english": "The case ended up before the Federal Court of Justice.",
+      "highlight": [
+        "Bundesgerichtshof."
+      ]
+    }
+  ],
+  "forms": [
+    "Gerichtshöfe",
+    "die Gerichtshöfe",
+    "der Gerichtshof",
+    "Bundesgerichtshof"
+  ],
+  "memoryHook": "Gerichtshof: a high Gericht.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gerichtshof",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Gerichtshof is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gerichtshof, zwei ___",
+      "answer": "Gerichtshöfe",
+      "fullAnswer": "ein Gerichtshof, zwei Gerichtshöfe",
+      "explanation": "The plural is Gerichtshöfe.",
+      "acceptedAnswers": [
+        "Gerichtshoefe"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gerichtshof mean?",
+      "options": [
+        "the job",
+        "court (of justice)",
+        "the flower"
+      ],
+      "answer": "court (of justice)",
+      "explanation": "Gerichtshof: court (of justice), high court.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Bundesgerichtshof (BGH) is in…",
+      "options": [
+        "Karlsruhe",
+        "Berlin"
+      ],
+      "answer": "Karlsruhe",
+      "explanation": "Karlsruhe.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der EuGH is…",
+      "options": [
+        "the EU's Court of Justice",
+        "a German court"
+      ],
+      "answer": "the EU's Court of Justice",
+      "explanation": "Luxembourg.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ordinary word for court:",
+      "options": [
+        "das Gericht",
+        "der Hof"
+      ],
+      "answer": "das Gericht",
+      "explanation": "Gericht.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Gerichtshof is a court, used for high and international courts: der Bundesgerichtshof (BGH, Germany's highest court for civil and criminal law, in Karlsruhe), der Europäische Gerichtshof (EuGH, in Luxembourg), der Internationale Strafgerichtshof (in The Hague). Ordinary courts are simply das Gericht. Karlsruhe also hosts the Bundesverfassungsgericht, so Karlsruhe has entschieden often means a top court has ruled."
+}

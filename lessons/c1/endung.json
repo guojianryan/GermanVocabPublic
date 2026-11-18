@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Endung",
+    "partOfSpeech": "noun, feminine (die Endung)",
+    "pronunciation": {
+      "respelling": "EN-dung",
+      "ipa": "ˈɛndʊŋ",
+      "notes": "Plural: die Endungen."
+    },
+    "meaning": "ending (grammar)",
+    "shortDefinition": "Ending (grammar)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Endung, plural die Endungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Endung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Endungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Endung hängt vom Kasus ab.",
+      "english": "The ending depends on the case.",
+      "highlight": [
+        "Endung"
+      ]
+    },
+    {
+      "german": "Substantive mit der Endung -ung sind feminin.",
+      "english": "Nouns ending in -ung are feminine.",
+      "highlight": [
+        "Endung"
+      ]
+    }
+  ],
+  "forms": [
+    "Endungen",
+    "die Endung"
+  ],
+  "memoryHook": "Endung: what comes at the Ende of a word.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Endung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Endung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Endung, zwei ___",
+      "answer": "Endungen",
+      "fullAnswer": "ein Endung, zwei Endungen",
+      "explanation": "The plural is Endungen.",
+      "acceptedAnswers": [
+        "Endungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Endung mean?",
+      "options": [
+        "ending (grammar)",
+        "cheap",
+        "the window"
+      ],
+      "answer": "ending (grammar)",
+      "explanation": "Endung: ending (grammar).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nouns ending in -ung, -heit, -keit are…",
+      "options": [
+        "feminine",
+        "neuter"
+      ],
+      "answer": "feminine",
+      "explanation": "Gender.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nouns ending in -chen, -lein are…",
+      "options": [
+        "neuter",
+        "masculine"
+      ],
+      "answer": "neuter",
+      "explanation": "Gender.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Dateiendung is…",
+      "options": [
+        "file extension",
+        "data end"
+      ],
+      "answer": "file extension",
+      "explanation": "IT.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Endung is a grammatical ending: Adjektivendungen, Verbendungen. Endings often show gender: -ung, -heit, -keit, -schaft and -ion are feminine; -chen, -lein and -ment usually neuter; -ling and -ismus masculine. That's why this very word is die Endung. In computing, die Dateiendung is a file extension like .pdf. Plural: die Endungen."
+}

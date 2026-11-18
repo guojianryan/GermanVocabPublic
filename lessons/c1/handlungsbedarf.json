@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Handlungsbedarf",
+    "partOfSpeech": "noun, masculine (der Handlungsbedarf)",
+    "pronunciation": {
+      "respelling": "HAND-lungs-be-darf",
+      "ipa": "ˈhandlʊŋsbəˌdaʁf",
+      "notes": "Usually no plural."
+    },
+    "meaning": "need for action",
+    "shortDefinition": "Need for action."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Handlungsbedarf, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Handlungsbedarf"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Es besteht dringender Handlungsbedarf.",
+      "english": "There is an urgent need for action.",
+      "highlight": [
+        "Handlungsbedarf."
+      ]
+    },
+    {
+      "german": "Die Regierung sieht keinen Handlungsbedarf.",
+      "english": "The government sees no need to act.",
+      "highlight": [
+        "Handlungsbedarf."
+      ]
+    }
+  ],
+  "forms": [
+    "der Handlungsbedarf",
+    "Handlungsbedarfs"
+  ],
+  "memoryHook": "Handlungsbedarf: Bedarf (need) for Handlung (action).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Handlungsbedarf",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Handlungsbedarf is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Handlungsbedarf mean?",
+      "options": [
+        "hot",
+        "the evening",
+        "need for action"
+      ],
+      "answer": "need for action",
+      "explanation": "Handlungsbedarf: need for action.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Typical verb:",
+      "options": [
+        "es besteht / sehen",
+        "machen"
+      ],
+      "answer": "es besteht / sehen",
+      "explanation": "Collocation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Handlung is…",
+      "options": [
+        "action; plot",
+        "trade"
+      ],
+      "answer": "action; plot",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Bedarf is…",
+      "options": [
+        "need, demand",
+        "consumption"
+      ],
+      "answer": "need, demand",
+      "explanation": "Root.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Handlungsbedarf is a need for action, a favourite word of politicians and reports: Es besteht dringender Handlungsbedarf, Wir sehen hier keinen Handlungsbedarf. Similar compounds: der Nachholbedarf (need to catch up), der Gesprächsbedarf (need to talk), der Klärungsbedarf (need for clarification). Die Handlung means action and also plot. It has no plural."
+}

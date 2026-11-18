@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schleier",
+    "partOfSpeech": "noun, masculine (der Schleier)",
+    "pronunciation": {
+      "respelling": "SHLAI-er",
+      "ipa": "ˈʃlaɪ̯ɐ",
+      "notes": "Plural: die Schleier."
+    },
+    "meaning": "veil",
+    "shortDefinition": "Veil."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schleier, plural die Schleier.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schleier"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schleier"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Braut trug einen langen Schleier.",
+      "english": "The bride wore a long veil.",
+      "highlight": [
+        "Schleier."
+      ]
+    },
+    {
+      "german": "Ein Schleier aus Nebel lag über dem Tal.",
+      "english": "A veil of mist lay over the valley.",
+      "highlight": [
+        "Schleier"
+      ]
+    }
+  ],
+  "forms": [
+    "die Schleier",
+    "der Schleier",
+    "schleierhaft"
+  ],
+  "memoryHook": "Schleier: a thin veil hiding a face or a secret.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schleier",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schleier is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schleier, zwei ___",
+      "answer": "Schleier",
+      "fullAnswer": "ein Schleier, zwei Schleier",
+      "explanation": "The plural is Schleier.",
+      "acceptedAnswers": [
+        "Schleier"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schleier mean?",
+      "options": [
+        "veil",
+        "never",
+        "the family"
+      ],
+      "answer": "veil",
+      "explanation": "Schleier: veil.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schleierhaft means…",
+      "options": [
+        "mysterious, baffling",
+        "veiled"
+      ],
+      "answer": "mysterious, baffling",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das ist mir schleierhaft means…",
+      "options": [
+        "that's a mystery to me",
+        "that's clear to me"
+      ],
+      "answer": "that's a mystery to me",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Schleier lüften means…",
+      "options": [
+        "to lift the veil, reveal",
+        "to marry"
+      ],
+      "answer": "to lift the veil, reveal",
+      "explanation": "Reveal.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Schleier is a veil: der Brautschleier, ein Schleier aus Nebel. Den Schleier lüften means to lift the veil, to reveal a secret. Schleierhaft means mysterious or baffling: Wie das passiert ist, ist mir schleierhaft. Islamic face veils are also called Schleier or Vollverschleierung, and some German states restrict them in schools. Plural: die Schleier."
+}

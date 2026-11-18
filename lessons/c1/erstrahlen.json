@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "erstrahlen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "er-SHTRAA-len",
+      "ipa": "ɛɐ̯ˈʃtʁaːlən",
+      "notes": ""
+    },
+    "meaning": "to shine, be lit up",
+    "shortDefinition": "To shine, be lit up."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "erstrahl|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "erstrahl|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "erstrahl|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "erstrahl|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "erstrahl|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "erstrahl|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat erstrahlt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Altstadt erstrahlt im Lichterglanz.",
+      "english": "The old town is lit up with lights.",
+      "highlight": [
+        "erstrahlt"
+      ]
+    },
+    {
+      "german": "Nach der Renovierung erstrahlt die Kirche in neuem Glanz.",
+      "english": "After the renovation the church shines with new splendour.",
+      "highlight": [
+        "erstrahlt"
+      ]
+    }
+  ],
+  "forms": [
+    "erstrahle",
+    "erstrahlst",
+    "erstrahlt",
+    "erstrahlen",
+    "erstrahlte"
+  ],
+  "memoryHook": "Erstrahlen: begin to strahlen (shine).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (erstrahlen)",
+      "answer": "erstrahlt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: erstrahlt.",
+      "acceptedAnswers": [
+        "erstrahlt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (erstrahlen, past)",
+      "answer": "erstrahlt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe erstrahlt.",
+      "acceptedAnswers": [
+        "erstrahlt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does erstrahlen mean?",
+      "options": [
+        "to travel",
+        "the flower",
+        "to shine"
+      ],
+      "answer": "to shine",
+      "explanation": "erstrahlen: to shine, be lit up.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In neuem Glanz erstrahlen means…",
+      "options": [
+        "to look as good as new after restoration",
+        "to be newly built"
+      ],
+      "answer": "to look as good as new after restoration",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Strahlen means…",
+      "options": [
+        "to shine, beam; to radiate",
+        "to strain"
+      ],
+      "answer": "to shine, beam; to radiate",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Strahl is…",
+      "options": [
+        "ray, beam, jet",
+        "a straw"
+      ],
+      "answer": "ray, beam, jet",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Erstrahlen means to shine or be lit up, usually in celebratory language: Der Weihnachtsbaum erstrahlt, ein Gebäude erstrahlt in neuem Glanz (after restoration). Strahlen means to shine or beam, also with joy: Sie strahlte vor Glück, and to radiate (radioactivity). Der Strahl is a ray or jet. Regular: erstrahlte, erstrahlt."
+}

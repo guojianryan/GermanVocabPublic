@@ -1,0 +1,190 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "unterzeichnen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "un-ter-TSAI-khnen",
+      "ipa": "ʊntɐˈt͡saɪ̯çnən",
+      "notes": ""
+    },
+    "meaning": "to sign (formally); to ratify",
+    "shortDefinition": "To sign (formally); to ratify."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "unter",
+        "meaning": "under"
+      },
+      {
+        "part": "zeichnen",
+        "meaning": "to mark, to draw"
+      }
+    ],
+    "literalMeaning": "to put your mark under"
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "unterzeichn|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "unterzeichne|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "unterzeichne|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "unterzeichn|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "unterzeichne|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "unterzeichn|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat unterzeichnet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Minister unterzeichneten den Vertrag.",
+      "english": "The ministers signed the treaty.",
+      "highlight": [
+        "unterzeichneten"
+      ]
+    },
+    {
+      "german": "Bitte unterzeichnen Sie hier.",
+      "english": "Please sign here.",
+      "highlight": [
+        "unterzeichnen"
+      ]
+    }
+  ],
+  "forms": [
+    "unterzeichne",
+    "unterzeichnest",
+    "unterzeichnet",
+    "unterzeichnen",
+    "unterzeichnete",
+    "Unterzeichner",
+    "Unterzeichnung"
+  ],
+  "memoryHook": "Unterzeichnen: put your name under the Zeichen.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (unterzeichnen)",
+      "answer": "unterzeichnet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: unterzeichnet.",
+      "acceptedAnswers": [
+        "unterzeichnet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (unterzeichnen, past)",
+      "answer": "unterzeichnet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe unterzeichnet.",
+      "acceptedAnswers": [
+        "unterzeichnet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does unterzeichnen mean?",
+      "options": [
+        "the bread",
+        "to sleep",
+        "to sign (formally)"
+      ],
+      "answer": "to sign (formally)",
+      "explanation": "unterzeichnen: to sign (formally); to ratify.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unterzeichnen is…",
+      "options": [
+        "formal, for contracts",
+        "casual, for a postcard"
+      ],
+      "answer": "formal, for contracts",
+      "explanation": "Official.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Unterzeichner is…",
+      "options": [
+        "the signatory",
+        "the undersigned (inferior)"
+      ],
+      "answer": "the signatory",
+      "explanation": "Person.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday word for sign:",
+      "options": [
+        "unterschreiben",
+        "unterlassen"
+      ],
+      "answer": "unterschreiben",
+      "explanation": "Normal.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Inseparable, so the participle is…",
+      "options": [
+        "unterzeichnet",
+        "gezeichnet"
+      ],
+      "answer": "unterzeichnet",
+      "explanation": "No ge-.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Unterzeichnen is the formal word for signing, used for treaties, contracts and laws: Beide Länder haben das Abkommen unterzeichnet. In daily life, people say unterschreiben: Ich muss den Mietvertrag unterschreiben. Der Unterzeichner is the signatory, and die Unterzeichnung is the signing ceremony. It's inseparable, with the stress on zeich: un-ter-ZEICH-nen, and the participle has no ge-: unterzeichnet."
+}

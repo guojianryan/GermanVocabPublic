@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rückspiel",
+    "partOfSpeech": "noun, neuter (das Rückspiel)",
+    "pronunciation": {
+      "respelling": "RÜK-shpeel",
+      "ipa": "ˈʁʏkˌʃpiːl",
+      "notes": "Plural: die Rückspiele."
+    },
+    "meaning": "return match, second leg",
+    "shortDefinition": "Return match, second leg."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Rückspiel, plural die Rückspiele.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Rückspiel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Rückspiele"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Rückspiel muss die Mannschaft zwei Tore aufholen.",
+      "english": "In the second leg the team has to make up two goals.",
+      "highlight": [
+        "Rückspiel"
+      ]
+    },
+    {
+      "german": "Das Rückspiel findet nächste Woche in München statt.",
+      "english": "The return match takes place in Munich next week.",
+      "highlight": [
+        "Rückspiel"
+      ]
+    }
+  ],
+  "forms": [
+    "Rückspiele",
+    "die Rückspiele",
+    "das Rückspiel",
+    "Hinspiel"
+  ],
+  "memoryHook": "Rückspiel: the game back (zurück) at the other ground.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rückspiel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Rückspiel is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Rückspiel, zwei ___",
+      "answer": "Rückspiele",
+      "fullAnswer": "ein Rückspiel, zwei Rückspiele",
+      "explanation": "The plural is Rückspiele.",
+      "acceptedAnswers": [
+        "Rueckspiele"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rückspiel mean?",
+      "options": [
+        "to sing",
+        "return match",
+        "to sleep"
+      ],
+      "answer": "return match",
+      "explanation": "Rückspiel: return match, second leg.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The first leg is…",
+      "options": [
+        "das Hinspiel",
+        "das Vorspiel"
+      ],
+      "answer": "das Hinspiel",
+      "explanation": "First leg.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Rückrunde is…",
+      "options": [
+        "the second half of the season",
+        "the return trip"
+      ],
+      "answer": "the second half of the season",
+      "explanation": "Season.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Hinrunde is…",
+      "options": [
+        "the first half of the season",
+        "a lap"
+      ],
+      "answer": "the first half of the season",
+      "explanation": "Season.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Rückspiel is the return match or second leg, as in Champions League knockout ties: Hinspiel (first leg) and Rückspiel. The Bundesliga season is split into die Hinrunde and die Rückrunde, with a winter break in between, and each team plays the others once in each half. Die Herbstmeisterschaft means leading at the halfway point. Plural: die Rückspiele."
+}

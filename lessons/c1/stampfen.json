@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "stampfen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHTAMP-fen",
+      "ipa": "ˈʃtamp͡fn̩",
+      "notes": ""
+    },
+    "meaning": "to stamp, stomp; to mash",
+    "shortDefinition": "To stamp, stomp; to mash."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "stampf|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "stampf|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "stampf|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "stampf|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "stampf|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "stampf|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gestampft"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wütend stampfte das Kind mit dem Fuß auf.",
+      "english": "The child angrily stamped its foot.",
+      "highlight": [
+        "stampfte"
+      ]
+    },
+    {
+      "german": "Die Kartoffeln werden zu Brei gestampft.",
+      "english": "The potatoes are mashed.",
+      "highlight": [
+        "gestampft."
+      ]
+    }
+  ],
+  "forms": [
+    "stampfe",
+    "stampfst",
+    "stampft",
+    "stampfen",
+    "gestampft",
+    "stampfte"
+  ],
+  "memoryHook": "Stampfen: the heavy sound of feet stamping.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (stampfen)",
+      "answer": "stampft",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: stampft.",
+      "acceptedAnswers": [
+        "stampft"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (stampfen, past)",
+      "answer": "gestampft",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gestampft.",
+      "acceptedAnswers": [
+        "gestampft"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does stampfen mean?",
+      "options": [
+        "the child",
+        "to stamp",
+        "hot"
+      ],
+      "answer": "to stamp",
+      "explanation": "stampfen: to stamp, stomp; to mash.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kartoffelstampf is…",
+      "options": [
+        "mashed potatoes",
+        "potato salad"
+      ],
+      "answer": "mashed potatoes",
+      "explanation": "Food.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Aus dem Boden stampfen means…",
+      "options": [
+        "to conjure up out of nowhere",
+        "to dig"
+      ],
+      "answer": "to conjure up out of nowhere",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Moving somewhere, stampfen takes…",
+      "options": [
+        "sein",
+        "haben"
+      ],
+      "answer": "sein",
+      "explanation": "Auxiliary.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Stampfen means to stamp or stomp: mit dem Fuß stampfen, and to mash: Kartoffeln stampfen (der Kartoffelstampfer is a masher). Moving heavily somewhere takes sein: Er ist durch den Schnee gestampft. Etwas aus dem Boden stampfen means to conjure something up quickly, like new housing estates. Regular: stampfte, gestampft."
+}

@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "zusetzen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "TSOO-zet-sen",
+      "ipa": "ˈt͡suːˌzɛt͡sn̩",
+      "notes": ""
+    },
+    "meaning": "to add; to pester; to take a toll on",
+    "shortDefinition": "To add; to pester; to take a toll on."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "setz|e … |zu"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "setz|t … |zu"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "setz|t … |zu"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "setz|en … |zu"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "setz|t … |zu"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "setz|en … |zu"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat zugesetzt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Hitze setzt den älteren Menschen sehr zu.",
+      "english": "The heat is taking a heavy toll on older people.",
+      "highlight": [
+        "setzt",
+        "zu."
+      ]
+    },
+    {
+      "german": "Dem Wasser wird Chlor zugesetzt.",
+      "english": "Chlorine is added to the water.",
+      "highlight": [
+        "zugesetzt."
+      ]
+    }
+  ],
+  "forms": [
+    "setze zu",
+    "setzt zu",
+    "setzen zu",
+    "zugesetzt",
+    "setzte zu",
+    "Zusatz"
+  ],
+  "memoryHook": "Zusetzen: setzen (put) something zu (onto) someone or something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … zu (zusetzen)",
+      "answer": "setzt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: setzt … zu.",
+      "acceptedAnswers": [
+        "setzt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (zusetzen, past)",
+      "answer": "zugesetzt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe zugesetzt.",
+      "acceptedAnswers": [
+        "zugesetzt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does zusetzen mean?",
+      "options": [
+        "to add",
+        "never",
+        "to learn"
+      ],
+      "answer": "to add",
+      "explanation": "zusetzen: to add; to pester; to take a toll on.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandem zusetzen means…",
+      "options": [
+        "to pester; to take a toll on someone",
+        "to sit next to someone"
+      ],
+      "answer": "to pester; to take a toll on someone",
+      "explanation": "Toll.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Zusatz is…",
+      "options": [
+        "additive; addition",
+        "a sentence"
+      ],
+      "answer": "additive; addition",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zusatzstoffe are…",
+      "options": [
+        "food additives",
+        "spare parts"
+      ],
+      "answer": "food additives",
+      "explanation": "Food.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Zusetzen has several meanings: to add (einer Flüssigkeit etwas zusetzen; der Zusatzstoff is an additive), to pester (jemandem mit Fragen zusetzen), and to take a toll: Die Krankheit hat ihm sehr zugesetzt. Colloquially, Geld zusetzen means to lose money on something. It takes the dative for people. Separable: setzte zu, zugesetzt."
+}

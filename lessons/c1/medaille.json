@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Medaille",
+    "partOfSpeech": "noun, feminine (die Medaille)",
+    "pronunciation": {
+      "respelling": "me-DAL-ye",
+      "ipa": "meˈdaljə",
+      "notes": "Plural: die Medaillen."
+    },
+    "meaning": "medal",
+    "shortDefinition": "Medal."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Medaille, plural die Medaillen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Medaille"
+        },
+        {
+          "label": "More than one",
+          "value": "die Medaillen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie gewann drei Medaillen.",
+      "english": "She won three medals.",
+      "highlight": [
+        "Medaillen."
+      ]
+    },
+    {
+      "german": "Jede Medaille hat zwei Seiten.",
+      "english": "Every coin has two sides.",
+      "highlight": [
+        "Medaille"
+      ]
+    }
+  ],
+  "forms": [
+    "Medaillen",
+    "die Medaillen",
+    "die Medaille",
+    "Goldmedaille"
+  ],
+  "memoryHook": "Medaille: me-DAL-ye, and every one has two sides.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Medaille",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Medaille is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Medaille, zwei ___",
+      "answer": "Medaillen",
+      "fullAnswer": "ein Medaille, zwei Medaillen",
+      "explanation": "The plural is Medaillen.",
+      "acceptedAnswers": [
+        "Medaillen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Medaille mean?",
+      "options": [
+        "medal",
+        "the family",
+        "the key"
+      ],
+      "answer": "medal",
+      "explanation": "Medaille: medal.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pronunciation:",
+      "options": [
+        "me-DAL-ye",
+        "me-DAIL"
+      ],
+      "answer": "me-DAL-ye",
+      "explanation": "French-style.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kehrseite der Medaille is…",
+      "options": [
+        "the flip side",
+        "the gold medal"
+      ],
+      "answer": "the flip side",
+      "explanation": "Downside.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Medaillenspiegel is…",
+      "options": [
+        "the medal table",
+        "a mirror"
+      ],
+      "answer": "the medal table",
+      "explanation": "Medal table.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Medaille is a medal: die Goldmedaille, eine Medaille gewinnen. Pronounced the French way: me-DAL-ye. Die Kehrseite der Medaille is the flip side of the coin. Der Medaillenspiegel is the Olympic medal table. Don't confuse it with das Medaillon, a locket or, in cooking, a small round fillet: Schweinemedaillons. Plural: die Medaillen."
+}

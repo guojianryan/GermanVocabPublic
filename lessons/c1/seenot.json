@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Seenot",
+    "partOfSpeech": "noun, feminine (die Seenot)",
+    "pronunciation": {
+      "respelling": "ZAY-noht",
+      "ipa": "ˈzeːˌnoːt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "distress at sea",
+    "shortDefinition": "Distress at sea."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Seenot, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Seenot"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Boot geriet in Seenot.",
+      "english": "The boat got into distress at sea.",
+      "highlight": [
+        "Seenot."
+      ]
+    },
+    {
+      "german": "Die Seenotretter retteten zwölf Menschen.",
+      "english": "The sea rescuers saved twelve people.",
+      "highlight": [
+        "Seenotretter"
+      ]
+    }
+  ],
+  "forms": [
+    "die Seenot"
+  ],
+  "memoryHook": "Seenot: Not (distress) on the See (sea).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Seenot",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Seenot is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Seenot mean?",
+      "options": [
+        "distress at sea",
+        "the evening",
+        "the bed"
+      ],
+      "answer": "distress at sea",
+      "explanation": "Seenot: distress at sea.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die DGzRS is…",
+      "options": [
+        "Germany's sea rescue service, funded by donations",
+        "the navy"
+      ],
+      "answer": "Germany's sea rescue service, funded by donations",
+      "explanation": "Rescue.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Seenotrettung is…",
+      "options": [
+        "sea rescue",
+        "sea travel"
+      ],
+      "answer": "sea rescue",
+      "explanation": "Compound.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die See (f.) is…",
+      "options": [
+        "the sea",
+        "a lake"
+      ],
+      "answer": "the sea",
+      "explanation": "Root.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Seenot is distress at sea: in Seenot geraten. Germany's Seenotretter, the DGzRS founded in 1865, operate rescue cruisers on the North Sea and Baltic, funded entirely by donations, including from small boat-shaped collection boxes. Private Seenotrettung of migrants in the Mediterranean is a politically contested topic. Die See (feminine) means sea, der See (masculine) lake. It has no plural."
+}

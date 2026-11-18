@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Preisträger",
+    "partOfSpeech": "noun, masculine (der Preisträger)",
+    "pronunciation": {
+      "respelling": "PRAIS-tray-ger",
+      "ipa": "ˈpʁaɪ̯sˌtʁɛːɡɐ",
+      "notes": "Plural: die Preisträger."
+    },
+    "meaning": "prizewinner, laureate",
+    "shortDefinition": "Prizewinner, laureate."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Preisträger, plural die Preisträger.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Preisträger"
+        },
+        {
+          "label": "More than one",
+          "value": "die Preisträger"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Preisträgerin bedankte sich bei ihrer Familie.",
+      "english": "The prizewinner thanked her family.",
+      "highlight": [
+        "Preisträgerin"
+      ]
+    },
+    {
+      "german": "Er ist Nobelpreisträger für Physik.",
+      "english": "He's a Nobel laureate in physics.",
+      "highlight": [
+        "Nobelpreisträger"
+      ]
+    }
+  ],
+  "forms": [
+    "die Preisträger",
+    "der Preisträger",
+    "Preisträgerin"
+  ],
+  "memoryHook": "Preisträger: someone who carries (trägt) off a Preis.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Preisträger",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Preisträger is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Preisträger, zwei ___",
+      "answer": "Preisträger",
+      "fullAnswer": "ein Preisträger, zwei Preisträger",
+      "explanation": "The plural is Preisträger.",
+      "acceptedAnswers": [
+        "Preistraeger"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Preisträger mean?",
+      "options": [
+        "prizewinner",
+        "the evening",
+        "the bed"
+      ],
+      "answer": "prizewinner",
+      "explanation": "Preisträger: prizewinner, laureate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Nobelpreisträger is…",
+      "options": [
+        "a Nobel laureate",
+        "a Nobel juror"
+      ],
+      "answer": "a Nobel laureate",
+      "explanation": "Laureate.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Preis means…",
+      "options": [
+        "price; prize",
+        "praise"
+      ],
+      "answer": "price; prize",
+      "explanation": "Two meanings.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Preisträgerin",
+        "die Preisträgin"
+      ],
+      "answer": "die Preisträgerin",
+      "explanation": "-in.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Preisträger (die Preisträgerin) is a prizewinner or laureate: der Nobelpreisträger, die Preisträgerin des Deutschen Buchpreises. Germany has produced over 100 Nobel laureates, including Einstein, Max Planck and Thomas Mann. Der Preis means both price and prize, so context matters: Der Preis ist zu hoch vs. Sie hat den Preis gewonnen. Literally, a Preisträger carries (trägt) the prize. The plural is the same."
+}

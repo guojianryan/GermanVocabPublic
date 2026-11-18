@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "gegnerisch",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "GAYG-ne-rish",
+      "ipa": "ˈɡeːɡnəʁɪʃ",
+      "notes": ""
+    },
+    "meaning": "opposing",
+    "shortDefinition": "Opposing."
+  },
+  "sampleSentences": [
+    {
+      "german": "Er schoss den Ball ins gegnerische Tor.",
+      "english": "He shot the ball into the opponents' goal.",
+      "highlight": [
+        "gegnerische"
+      ]
+    },
+    {
+      "german": "Die gegnerische Seite hat Berufung eingelegt.",
+      "english": "The opposing side has appealed.",
+      "highlight": [
+        "gegnerische"
+      ]
+    }
+  ],
+  "forms": [
+    "gegnerische",
+    "gegnerischen",
+    "Gegner"
+  ],
+  "memoryHook": "Gegnerisch: belonging to the Gegner (opponent).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does gegnerisch mean?",
+      "options": [
+        "opposing",
+        "the street",
+        "the door"
+      ],
+      "answer": "opposing",
+      "explanation": "gegnerisch: opposing.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Gegner is…",
+      "options": [
+        "opponent",
+        "a counterpart"
+      ],
+      "answer": "opponent",
+      "explanation": "Root.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die gegnerische Mannschaft is…",
+      "options": [
+        "the opposing team",
+        "the home team"
+      ],
+      "answer": "the opposing team",
+      "explanation": "Team.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Used…",
+      "options": [
+        "before nouns",
+        "as adverb"
+      ],
+      "answer": "before nouns",
+      "explanation": "Attributive.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "der ___ Anwalt (opposing)",
+      "answer": "gegnerische",
+      "fullAnswer": "der gegnerische Anwalt",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Gegnerisch means opposing or of the opponent: die gegnerische Mannschaft, das gegnerische Tor, der gegnerische Anwalt. Der Gegner is an opponent or adversary: ein fairer Gegner, Kriegsgegner (opponent of war). Footballers talk about der Gegner each week; the Erzrivale is the arch-rival, as in Schalke vs. Dortmund in the Revierderby. Synonym: feindlich (hostile), which is stronger."
+}

@@ -1,0 +1,120 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "A Frequency Dictionary of German (Jones & Tschirner); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "vorig",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "FOH-rikh",
+      "ipa": "ˈfoːʁɪç",
+      "notes": ""
+    },
+    "meaning": "previous, last",
+    "shortDefinition": "Previous, last."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "vor",
+        "meaning": "before"
+      },
+      {
+        "part": "ig",
+        "meaning": "adjective ending"
+      }
+    ],
+    "literalMeaning": "before-ish"
+  },
+  "sampleSentences": [
+    {
+      "german": "Im vorigen Jahr waren wir in Italien.",
+      "english": "Last year we were in Italy.",
+      "highlight": [
+        "vorigen"
+      ]
+    },
+    {
+      "german": "Im vorigen Jahr.",
+      "english": "Last year.",
+      "highlight": [
+        "vorigen"
+      ]
+    },
+    {
+      "german": "Sein voriger Job war besser.",
+      "english": "His previous job was better.",
+      "highlight": [
+        "voriger"
+      ]
+    }
+  ],
+  "forms": [
+    "vorher"
+  ],
+  "memoryHook": "Vorig = last, previous (= letzt-) ↔ nächst-.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does vorig mean?",
+      "options": [
+        "previous",
+        "cheap",
+        "the bed"
+      ],
+      "answer": "previous",
+      "explanation": "vorig: previous, last.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonyms:",
+      "options": [
+        "letzt-, vergangen",
+        "nächst-"
+      ],
+      "answer": "letzt-, vergangen",
+      "explanation": "Last.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Used…",
+      "options": [
+        "only before nouns",
+        "after sein"
+      ],
+      "answer": "only before nouns",
+      "explanation": "Attributive.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Opposite:",
+      "options": [
+        "nächst-, kommend",
+        "vorher"
+      ],
+      "answer": "nächst-, kommend",
+      "explanation": "Next.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ Monat. (last)",
+      "answer": "Voriger",
+      "fullAnswer": "Voriger Monat.",
+      "explanation": "Voriger.",
+      "acceptedAnswers": [
+        "Letzter"
+      ],
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Vorig means previous or last: voriges Jahr (last year), in der vorigen Woche. It's slightly old-fashioned; letzte is more common: letztes Jahr. In Austria and southern Germany, vorig is still widely used. Im Vorigen means in the above, in texts."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Übeltäter",
+    "partOfSpeech": "noun, masculine (der Übeltäter)",
+    "pronunciation": {
+      "respelling": "Ü-bel-tay-ter",
+      "ipa": "ˈyːbl̩ˌtɛːtɐ",
+      "notes": "Plural: die Übeltäter."
+    },
+    "meaning": "wrongdoer, culprit",
+    "shortDefinition": "Wrongdoer, culprit."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Übeltäter, plural die Übeltäter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Übeltäter"
+        },
+        {
+          "label": "More than one",
+          "value": "die Übeltäter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Polizei sucht noch den Übeltäter.",
+      "english": "The police are still looking for the culprit.",
+      "highlight": [
+        "Übeltäter."
+      ]
+    },
+    {
+      "german": "Der Übeltäter war eine Maus im Kabelschacht.",
+      "english": "The culprit was a mouse in the cable duct.",
+      "highlight": [
+        "Übeltäter"
+      ]
+    }
+  ],
+  "forms": [
+    "Übeltäterin",
+    "der Übeltäter"
+  ],
+  "memoryHook": "Übeltäter: someone who tut (does) Übel (evil).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Übeltäter",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Übeltäter is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Übeltäter, zwei ___",
+      "answer": "Übeltäter",
+      "fullAnswer": "ein Übeltäter, zwei Übeltäter",
+      "explanation": "The plural is Übeltäter.",
+      "acceptedAnswers": [
+        "Übeltaeter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Übeltäter mean?",
+      "options": [
+        "quiet",
+        "wrongdoer",
+        "the key"
+      ],
+      "answer": "wrongdoer",
+      "explanation": "Übeltäter: wrongdoer, culprit.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Often used humorously for…",
+      "options": [
+        "the cause of a problem (even a thing)",
+        "only murderers"
+      ],
+      "answer": "the cause of a problem (even a thing)",
+      "explanation": "Humour.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Übel is…",
+      "options": [
+        "evil, ill",
+        "an owl"
+      ],
+      "answer": "evil, ill",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Täter, der Schuldige",
+        "das Opfer"
+      ],
+      "answer": "der Täter, der Schuldige",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Übeltäter is a wrongdoer or culprit, slightly old-fashioned and often humorous: Der Übeltäter war der Hund, der den Kuchen gefressen hatte. It's also used for things causing a problem: Der Übeltäter war ein defektes Kabel. Das Übel means evil or ill: das kleinere Übel (the lesser evil). The plural is the same."
+}

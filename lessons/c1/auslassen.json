@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "auslassen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AUS-la-sen",
+      "ipa": "ˈaʊ̯sˌlasn̩",
+      "notes": ""
+    },
+    "meaning": "to leave out, skip; to vent",
+    "shortDefinition": "To leave out, skip; to vent."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "lass|e … |aus"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "läss|t … |aus"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "läss|t … |aus"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "lass|en … |aus"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "lass|t … |aus"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "lass|en … |aus"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat ausgelassen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Du hast ein Wort ausgelassen.",
+      "english": "You've left out a word.",
+      "highlight": [
+        "ausgelassen."
+      ]
+    },
+    {
+      "german": "Er lässt seine Wut an den Kindern aus.",
+      "english": "He takes his anger out on the children.",
+      "highlight": [
+        "lässt",
+        "aus."
+      ]
+    }
+  ],
+  "forms": [
+    "lasse aus",
+    "lässt aus",
+    "lassen aus",
+    "lasst aus",
+    "ausgelassen",
+    "ließ aus",
+    "Auslassung"
+  ],
+  "memoryHook": "Auslassen: let (lassen) something out (aus).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … aus (auslassen)",
+      "answer": "lässt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: lässt … aus.",
+      "acceptedAnswers": [
+        "laesst"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (auslassen, past)",
+      "answer": "ausgelassen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe ausgelassen.",
+      "acceptedAnswers": [
+        "ausgelassen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does auslassen mean?",
+      "options": [
+        "the child",
+        "to leave out",
+        "the bread"
+      ],
+      "answer": "to leave out",
+      "explanation": "auslassen: to leave out, skip; to vent.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Seine Wut an jemandem auslassen means…",
+      "options": [
+        "to take one's anger out on someone",
+        "to let someone go"
+      ],
+      "answer": "to take one's anger out on someone",
+      "explanation": "Vent.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ausgelassen (adj.) means…",
+      "options": [
+        "exuberant, boisterous",
+        "omitted only"
+      ],
+      "answer": "exuberant, boisterous",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Auslassung is…",
+      "options": [
+        "omission",
+        "exit"
+      ],
+      "answer": "omission",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Auslassen means to leave out or skip (eine Zeile auslassen, keine Gelegenheit auslassen, never miss an opportunity) and to vent: seinen Ärger an jemandem auslassen (to take it out on someone). Sich über etwas auslassen means to hold forth about something. The participle ausgelassen also means exuberant: eine ausgelassene Stimmung at a party. Separable and irregular: ließ aus, ausgelassen."
+}

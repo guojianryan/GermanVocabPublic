@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Richtigkeit",
+    "partOfSpeech": "noun, feminine (die Richtigkeit)",
+    "pronunciation": {
+      "respelling": "RIKH-tikh-kait",
+      "ipa": "ˈʁɪçtɪçkaɪ̯t",
+      "notes": "Usually no plural."
+    },
+    "meaning": "correctness, accuracy",
+    "shortDefinition": "Correctness, accuracy."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Richtigkeit, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Richtigkeit"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bitte prüfen Sie die Richtigkeit Ihrer Angaben.",
+      "english": "Please check that your details are correct.",
+      "highlight": [
+        "Richtigkeit"
+      ]
+    },
+    {
+      "german": "Das hat schon seine Richtigkeit.",
+      "english": "That's quite in order.",
+      "highlight": [
+        "Richtigkeit."
+      ]
+    }
+  ],
+  "forms": [
+    "die Richtigkeit",
+    "richtig"
+  ],
+  "memoryHook": "Richtigkeit: how richtig (correct) something is.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Richtigkeit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Richtigkeit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Richtigkeit mean?",
+      "options": [
+        "never",
+        "slowly",
+        "correctness"
+      ],
+      "answer": "correctness",
+      "explanation": "Richtigkeit: correctness, accuracy.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das hat seine Richtigkeit means…",
+      "options": [
+        "that's correct, it's in order",
+        "that's right-wing"
+      ],
+      "answer": "that's correct, it's in order",
+      "explanation": "Idiom.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Für die Richtigkeit means…",
+      "options": [
+        "certified correct (on documents)",
+        "for the right side"
+      ],
+      "answer": "certified correct (on documents)",
+      "explanation": "Certification.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Richtig means…",
+      "options": [
+        "right, correct",
+        "direction"
+      ],
+      "answer": "right, correct",
+      "explanation": "richtig.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Richtigkeit means correctness or accuracy: die Richtigkeit der Angaben (the accuracy of the information), a phrase on almost every German form, often with a signature line: Ich versichere die Richtigkeit meiner Angaben. Für die Richtigkeit on a copy means certified correct. Das hat schon seine Richtigkeit means that's quite in order, there's a good reason for it. From richtig (correct). It has no plural."
+}

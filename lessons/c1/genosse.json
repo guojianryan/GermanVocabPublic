@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Genosse",
+    "partOfSpeech": "noun, masculine (der Genosse)",
+    "pronunciation": {
+      "respelling": "ge-NO-se",
+      "ipa": "ɡəˈnɔsə",
+      "notes": "Plural: die Genossen."
+    },
+    "meaning": "comrade; party member",
+    "shortDefinition": "Comrade; party member."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Genosse, plural die Genossen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Genosse"
+        },
+        {
+          "label": "More than one",
+          "value": "die Genossen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Genossen der SPD treffen sich zum Parteitag.",
+      "english": "SPD party members meet for the party conference.",
+      "highlight": [
+        "Genossen"
+      ]
+    },
+    {
+      "german": "Er sprach seine Parteigenossen mit Genosse an.",
+      "english": "He addressed his party colleagues as comrade.",
+      "highlight": [
+        "Parteigenossen",
+        "Genosse"
+      ]
+    }
+  ],
+  "forms": [
+    "Genossen",
+    "die Genossen",
+    "der Genosse",
+    "Genossin"
+  ],
+  "memoryHook": "Genosse: someone who shares (genießen) with you.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Genosse",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Genosse is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Genosse, zwei ___",
+      "answer": "Genossen",
+      "fullAnswer": "ein Genosse, zwei Genossen",
+      "explanation": "The plural is Genossen.",
+      "acceptedAnswers": [
+        "Genossen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Genosse mean?",
+      "options": [
+        "to learn",
+        "comrade",
+        "slowly"
+      ],
+      "answer": "comrade",
+      "explanation": "Genosse: comrade; party member.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Genosse is a weak noun:",
+      "options": [
+        "den Genossen",
+        "den Genosse"
+      ],
+      "answer": "den Genossen",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which party traditionally uses Genossen?",
+      "options": [
+        "the SPD (and Die Linke)",
+        "the CDU"
+      ],
+      "answer": "the SPD (and Die Linke)",
+      "explanation": "Social democrats.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Zeitgenosse is…",
+      "options": [
+        "a contemporary",
+        "a time comrade"
+      ],
+      "answer": "a contemporary",
+      "explanation": "Contemporary.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Genosse (die Genossin) is a comrade. Social Democrats in the SPD traditionally call each other Genossen, as did members of the GDR's ruling SED. The word originally meant someone sharing in something, related to genießen (to enjoy). It also appears in der Zeitgenosse (contemporary), der Eidgenosse (Swiss confederate) and die Genossenschaft (cooperative). Weak noun: den Genossen. Plural: die Genossen."
+}

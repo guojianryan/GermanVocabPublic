@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ehrenbürger",
+    "partOfSpeech": "noun, masculine (der Ehrenbürger)",
+    "pronunciation": {
+      "respelling": "AY-ren-bür-ger",
+      "ipa": "ˈeːʁənˌbʏʁɡɐ",
+      "notes": "Plural: die Ehrenbürger."
+    },
+    "meaning": "honorary citizen",
+    "shortDefinition": "Honorary citizen."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Ehrenbürger, plural die Ehrenbürger.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Ehrenbürger"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ehrenbürger"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Stadt ernannte die Schriftstellerin zur Ehrenbürgerin.",
+      "english": "The city made the writer an honorary citizen.",
+      "highlight": [
+        "Ehrenbürgerin."
+      ]
+    },
+    {
+      "german": "Er ist Ehrenbürger von Berlin.",
+      "english": "He is an honorary citizen of Berlin.",
+      "highlight": [
+        "Ehrenbürger"
+      ]
+    }
+  ],
+  "forms": [
+    "Ehrenbürgerin",
+    "der Ehrenbürger"
+  ],
+  "memoryHook": "Ehrenbürger: a Bürger made so for Ehre (honour).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ehrenbürger",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Ehrenbürger is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Ehrenbürger, zwei ___",
+      "answer": "Ehrenbürger",
+      "fullAnswer": "ein Ehrenbürger, zwei Ehrenbürger",
+      "explanation": "The plural is Ehrenbürger.",
+      "acceptedAnswers": [
+        "Ehrenbuerger"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ehrenbürger mean?",
+      "options": [
+        "honorary citizen",
+        "slowly",
+        "to open"
+      ],
+      "answer": "honorary citizen",
+      "explanation": "Ehrenbürger: honorary citizen.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Ehrenbürgerschaft is…",
+      "options": [
+        "honorary citizenship",
+        "an honour guard"
+      ],
+      "answer": "honorary citizenship",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Ehre is…",
+      "options": [
+        "honour",
+        "ear"
+      ],
+      "answer": "honour",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ehren- in compounds means…",
+      "options": [
+        "honorary (Ehrendoktor, Ehrenamt)",
+        "honest"
+      ],
+      "answer": "honorary (Ehrendoktor, Ehrenamt)",
+      "explanation": "Prefix.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Ehrenbürger (die Ehrenbürgerin) is an honorary citizen, the highest honour a German city can award. Berlin's list includes Marlene Dietrich, honoured posthumously in 2002, and Mikhail Gorbachev. Some cities have revoked Nazi-era honorary citizenships, such as Hitler's. Ehren- means honorary: der Ehrendoktor, das Ehrenamt (voluntary post). The plural is the same."
+}

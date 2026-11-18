@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "infrage",
+    "partOfSpeech": "adverb",
+    "pronunciation": {
+      "respelling": "in-FRAA-ge",
+      "ipa": "ɪnˈfʁaːɡə",
+      "notes": ""
+    },
+    "meaning": "in question (infrage stellen / kommen)",
+    "shortDefinition": "In question (infrage stellen / kommen)."
+  },
+  "sampleSentences": [
+    {
+      "german": "Das kommt nicht infrage!",
+      "english": "That's out of the question!",
+      "highlight": [
+        "infrage!"
+      ]
+    },
+    {
+      "german": "Er stellt die ganze Strategie infrage.",
+      "english": "He's calling the whole strategy into question.",
+      "highlight": [
+        "infrage."
+      ]
+    }
+  ],
+  "forms": [
+    "in Frage",
+    "infrage stellen",
+    "infrage kommen"
+  ],
+  "memoryHook": "Infrage: in(to) question.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does infrage mean?",
+      "options": [
+        "to sing",
+        "in question (infrage stellen / kommen)",
+        "hot"
+      ],
+      "answer": "in question (infrage stellen / kommen)",
+      "explanation": "infrage: in question (infrage stellen / kommen).",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das kommt nicht infrage means…",
+      "options": [
+        "That's out of the question",
+        "That's not a question"
+      ],
+      "answer": "That's out of the question",
+      "explanation": "Refusal.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Etwas infrage stellen means…",
+      "options": [
+        "to call something into question",
+        "to ask about something politely"
+      ],
+      "answer": "to call something into question",
+      "explanation": "Challenge.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Alternative spelling:",
+      "options": [
+        "in Frage",
+        "inFrage"
+      ],
+      "answer": "in Frage",
+      "explanation": "Both allowed.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Er kommt als Kandidat ___. (comes into consideration)",
+      "answer": "infrage",
+      "fullAnswer": "Er kommt als Kandidat infrage.",
+      "explanation": "infrage kommen.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Infrage (also in Frage) appears in two set phrases. Infrage kommen means to come into consideration: Er kommt für den Job infrage, and Das kommt nicht infrage! means that's out of the question, a parent's classic. Infrage stellen means to question or challenge: Sie stellt die Entscheidung infrage. Since the 2006 spelling reform, both infrage and in Frage are correct. Similar: zurzeit, zuliebe."
+}

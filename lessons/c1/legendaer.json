@@ -1,0 +1,100 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "legendär",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "le-gen-DAIR",
+      "ipa": "leɡɛnˈdɛːɐ̯",
+      "notes": ""
+    },
+    "meaning": "legendary",
+    "shortDefinition": "Legendary."
+  },
+  "sampleSentences": [
+    {
+      "german": "Das Konzert war legendär.",
+      "english": "The concert was legendary.",
+      "highlight": [
+        "legendär."
+      ]
+    },
+    {
+      "german": "Seine Partys sind legendär.",
+      "english": "His parties are legendary.",
+      "highlight": [
+        "legendär."
+      ]
+    }
+  ],
+  "forms": [
+    "legendäre",
+    "legendären",
+    "legendärer",
+    "legendäres",
+    "Legende"
+  ],
+  "memoryHook": "Legendär: worthy of a Legende.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does legendär mean?",
+      "options": [
+        "to help",
+        "the station",
+        "legendary"
+      ],
+      "answer": "legendary",
+      "explanation": "legendär: legendary.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Legende is…",
+      "options": [
+        "legend; caption, key (on a map)",
+        "a reading"
+      ],
+      "answer": "legend; caption, key (on a map)",
+      "explanation": "Noun.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress falls on…",
+      "options": [
+        "the last syllable",
+        "the first syllable"
+      ],
+      "answer": "the last syllable",
+      "explanation": "le-gen-DAIR.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sagenhaft means…",
+      "options": [
+        "fabulous, legendary",
+        "said"
+      ],
+      "answer": "fabulous, legendary",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein ___ Spiel (legendary)",
+      "answer": "legendäres",
+      "fullAnswer": "ein legendäres Spiel",
+      "explanation": "Neuter -es.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Legendär means legendary: ein legendäres Spiel, eine legendäre Band. Like English, it's often used loosely for anything memorable: Die Party war legendär. Die Legende is a legend, and also the key on a map or chart. German football has its own legends, such as the 1954 World Cup win, das Wunder von Bern. A near synonym is sagenhaft, from die Sage (legend, saga). Stressed on the last syllable."
+}

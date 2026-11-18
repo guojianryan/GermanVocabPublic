@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Messlatte",
+    "partOfSpeech": "noun, feminine (die Messlatte)",
+    "pronunciation": {
+      "respelling": "MES-la-te",
+      "ipa": "ˈmɛsˌlatə",
+      "notes": "Plural: die Messlatten."
+    },
+    "meaning": "measuring rod; bar, standard",
+    "shortDefinition": "Measuring rod; bar, standard."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Messlatte, plural die Messlatten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Messlatte"
+        },
+        {
+          "label": "More than one",
+          "value": "die Messlatten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Messlatte für den Nachfolger liegt hoch.",
+      "english": "The bar is set high for the successor.",
+      "highlight": [
+        "Messlatte"
+      ]
+    },
+    {
+      "german": "Mit ihrem Rekord hat sie die Messlatte höher gelegt.",
+      "english": "With her record she has raised the bar.",
+      "highlight": [
+        "Messlatte"
+      ]
+    }
+  ],
+  "forms": [
+    "Messlatten",
+    "die Messlatte"
+  ],
+  "memoryHook": "Messlatte: a Latte (rod) for messen (measuring).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Messlatte",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Messlatte is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Messlatte, zwei ___",
+      "answer": "Messlatten",
+      "fullAnswer": "ein Messlatte, zwei Messlatten",
+      "explanation": "The plural is Messlatten.",
+      "acceptedAnswers": [
+        "Messlatten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Messlatte mean?",
+      "options": [
+        "the door",
+        "measuring rod",
+        "quiet"
+      ],
+      "answer": "measuring rod",
+      "explanation": "Messlatte: measuring rod; bar, standard.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Messlatte hoch legen means…",
+      "options": [
+        "to set the bar high",
+        "to measure height"
+      ],
+      "answer": "to set the bar high",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Latte is…",
+      "options": [
+        "slat, lath; crossbar",
+        "a coffee"
+      ],
+      "answer": "slat, lath; crossbar",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Maßstab",
+        "das Lineal"
+      ],
+      "answer": "der Maßstab",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Messlatte is literally a measuring rod, and figuratively the bar or standard: die Messlatte hoch legen (set the bar high), die Messlatte reißen (fail to meet it). It comes from the high jump bar. Die Latte also means the crossbar in football: an die Latte (hit the bar). Synonym: der Maßstab. Plural: die Messlatten."
+}

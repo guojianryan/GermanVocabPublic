@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Inspektion",
+    "partOfSpeech": "noun, feminine (die Inspektion)",
+    "pronunciation": {
+      "respelling": "in-spek-TSYOHN",
+      "ipa": "ɪnspɛkˈt͡si̯oːn",
+      "notes": "Plural: die Inspektionen."
+    },
+    "meaning": "inspection; (car) service",
+    "shortDefinition": "Inspection; (car) service."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Inspektion, plural die Inspektionen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Inspektion"
+        },
+        {
+          "label": "More than one",
+          "value": "die Inspektionen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Auto muss zur Inspektion.",
+      "english": "The car needs a service.",
+      "highlight": [
+        "Inspektion."
+      ]
+    },
+    {
+      "german": "Die Inspektion der Brücke ergab Mängel.",
+      "english": "The inspection of the bridge revealed defects.",
+      "highlight": [
+        "Inspektion"
+      ]
+    }
+  ],
+  "forms": [
+    "Inspektionen",
+    "die Inspektion",
+    "inspizieren"
+  ],
+  "memoryHook": "Inspektion: a careful look into (inspicere) something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Inspektion",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Inspektion is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Inspektion, zwei ___",
+      "answer": "Inspektionen",
+      "fullAnswer": "ein Inspektion, zwei Inspektionen",
+      "explanation": "The plural is Inspektionen.",
+      "acceptedAnswers": [
+        "Inspektionen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Inspektion mean?",
+      "options": [
+        "inspection",
+        "to wait",
+        "quiet"
+      ],
+      "answer": "inspection",
+      "explanation": "Inspektion: inspection; (car) service.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Auto zur Inspektion bringen means…",
+      "options": [
+        "to take the car for a service",
+        "to have the car inspected by police"
+      ],
+      "answer": "to take the car for a service",
+      "explanation": "Service.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Hauptuntersuchung (HU/TÜV) is…",
+      "options": [
+        "the compulsory roadworthiness test",
+        "a medical check"
+      ],
+      "answer": "the compulsory roadworthiness test",
+      "explanation": "TÜV.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Inspizieren means…",
+      "options": [
+        "to inspect",
+        "to inspire"
+      ],
+      "answer": "to inspect",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Inspektion is an inspection and, for cars, a regular service at the garage (Werkstatt), following the manufacturer's schedule. Separately, every car in Germany must pass the Hauptuntersuchung (HU), commonly called TÜV, every two years (after three years for new cars). Inspizieren means to inspect. Der Inspektor is an inspector. Plural: die Inspektionen."
+}

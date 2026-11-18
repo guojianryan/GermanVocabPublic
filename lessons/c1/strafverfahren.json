@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Strafverfahren",
+    "partOfSpeech": "noun, neuter (das Strafverfahren)",
+    "pronunciation": {
+      "respelling": "SHTRAAF-fer-faa-ren",
+      "ipa": "ˈʃtʁaːffɛɐ̯ˌfaːʁən",
+      "notes": "Plural: die Strafverfahren."
+    },
+    "meaning": "criminal proceedings",
+    "shortDefinition": "Criminal proceedings."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Strafverfahren, plural die Strafverfahren.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Strafverfahren"
+        },
+        {
+          "label": "More than one",
+          "value": "die Strafverfahren"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Gegen ihn läuft ein Strafverfahren.",
+      "english": "Criminal proceedings are under way against him.",
+      "highlight": [
+        "Strafverfahren."
+      ]
+    },
+    {
+      "german": "Das Strafverfahren wurde eingestellt.",
+      "english": "The criminal proceedings were dropped.",
+      "highlight": [
+        "Strafverfahren"
+      ]
+    }
+  ],
+  "forms": [
+    "die Strafverfahren",
+    "das Strafverfahren"
+  ],
+  "memoryHook": "Strafverfahren: a Verfahren (proceeding) about a Strafe (penalty).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Strafverfahren",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Strafverfahren is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Strafverfahren, zwei ___",
+      "answer": "Strafverfahren",
+      "fullAnswer": "ein Strafverfahren, zwei Strafverfahren",
+      "explanation": "The plural is Strafverfahren.",
+      "acceptedAnswers": [
+        "Strafverfahren"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Strafverfahren mean?",
+      "options": [
+        "to sleep",
+        "criminal proceedings",
+        "the evening"
+      ],
+      "answer": "criminal proceedings",
+      "explanation": "Strafverfahren: criminal proceedings.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Verfahren einstellen means…",
+      "options": [
+        "to drop proceedings",
+        "to set up proceedings"
+      ],
+      "answer": "to drop proceedings",
+      "explanation": "Drop.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Verfahren is…",
+      "options": [
+        "procedure; proceedings",
+        "a mistake"
+      ],
+      "answer": "procedure; proceedings",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Staatsanwaltschaft is…",
+      "options": [
+        "the public prosecutor's office",
+        "a state law firm"
+      ],
+      "answer": "the public prosecutor's office",
+      "explanation": "Prosecutor.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Strafverfahren is criminal proceedings: ein Strafverfahren einleiten (to open), einstellen (to drop). German criminal procedure starts with an investigation by the Staatsanwaltschaft (prosecutor's office), which can drop minor cases, sometimes against a payment (Einstellung gegen Geldauflage). The civil equivalent is der Zivilprozess. Das Verfahren means procedure. Plural: die Strafverfahren."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Massaker",
+    "partOfSpeech": "noun, neuter (das Massaker)",
+    "pronunciation": {
+      "respelling": "ma-SAA-ker",
+      "ipa": "maˈsaːkɐ",
+      "notes": "Plural: die Massaker."
+    },
+    "meaning": "massacre",
+    "shortDefinition": "Massacre."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Massaker, plural die Massaker.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Massaker"
+        },
+        {
+          "label": "More than one",
+          "value": "die Massaker"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Massaker forderte Hunderte Opfer.",
+      "english": "The massacre claimed hundreds of victims.",
+      "highlight": [
+        "Massaker"
+      ]
+    },
+    {
+      "german": "Historiker erinnern an das Massaker von 1944.",
+      "english": "Historians remember the massacre of 1944.",
+      "highlight": [
+        "Massaker"
+      ]
+    }
+  ],
+  "forms": [
+    "die Massaker",
+    "das Massaker",
+    "massakrieren"
+  ],
+  "memoryHook": "Massaker: neuter, unlike the English.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Massaker",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Massaker is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Massaker, zwei ___",
+      "answer": "Massaker",
+      "fullAnswer": "ein Massaker, zwei Massaker",
+      "explanation": "The plural is Massaker.",
+      "acceptedAnswers": [
+        "Massaker"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Massaker mean?",
+      "options": [
+        "the flower",
+        "the station",
+        "massacre"
+      ],
+      "answer": "massacre",
+      "explanation": "Massaker: massacre.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "das Massaker",
+        "der Massaker"
+      ],
+      "answer": "das Massaker",
+      "explanation": "Neuter.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Massaker",
+        "die Massakers"
+      ],
+      "answer": "die Massaker",
+      "explanation": "Unchanged.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Massakrieren means…",
+      "options": [
+        "to massacre",
+        "to massage"
+      ],
+      "answer": "to massacre",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Massaker is a massacre: ein Massaker an der Zivilbevölkerung. It's neuter in German, and the plural is the same. Massakrieren means to massacre. In German remembrance culture, massacres committed by the Wehrmacht and SS, such as in Oradour-sur-Glane (France, 1944) or Lidice (Czechoslovakia, 1942), are commemorated, often with visits by German presidents. From French massacre."
+}

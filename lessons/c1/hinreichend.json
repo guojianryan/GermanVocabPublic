@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "hinreichend",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "HIN-rai-khent",
+      "ipa": "ˈhɪnˌʁaɪ̯çn̩t",
+      "notes": ""
+    },
+    "meaning": "sufficient",
+    "shortDefinition": "Sufficient."
+  },
+  "sampleSentences": [
+    {
+      "german": "Es gibt keine hinreichenden Beweise.",
+      "english": "There's insufficient evidence.",
+      "highlight": [
+        "hinreichenden"
+      ]
+    },
+    {
+      "german": "Das ist hinreichend bekannt.",
+      "english": "That is well enough known.",
+      "highlight": [
+        "hinreichend"
+      ]
+    }
+  ],
+  "forms": [
+    "hinreichende",
+    "hinreichenden",
+    "hinreichender",
+    "hinreichen"
+  ],
+  "memoryHook": "Hinreichend: it reaches (reicht) far enough.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does hinreichend mean?",
+      "options": [
+        "the station",
+        "the car",
+        "sufficient"
+      ],
+      "answer": "sufficient",
+      "explanation": "hinreichend: sufficient.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Notwendig und hinreichend means…",
+      "options": [
+        "necessary and sufficient",
+        "needed and reached"
+      ],
+      "answer": "necessary and sufficient",
+      "explanation": "Logic.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hinreichen means…",
+      "options": [
+        "to suffice; to hand over",
+        "to rich up"
+      ],
+      "answer": "to suffice; to hand over",
+      "explanation": "Verb.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal, academic, legal",
+        "slang"
+      ],
+      "answer": "formal, academic, legal",
+      "explanation": "Formal.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein ___ Grund (sufficient)",
+      "answer": "hinreichender",
+      "fullAnswer": "ein hinreichender Grund",
+      "explanation": "Masculine -er.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Hinreichend means sufficient, and it's formal: hinreichende Beweise, ein hinreichender Tatverdacht (sufficient suspicion to bring charges, a key legal term). In maths and logic, notwendig und hinreichend means necessary and sufficient. The everyday word is ausreichend, which is also the German school grade 4 (pass). Hinreichend bekannt means well enough known, often ironic. From hinreichen (to suffice)."
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "praktizieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "prak-ti-TSEE-ren",
+      "ipa": "pʁaktiˈt͡siːʁən",
+      "notes": ""
+    },
+    "meaning": "to practise (a profession, religion)",
+    "shortDefinition": "To practise (a profession, religion)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "praktizier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "praktizier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "praktizier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "praktizier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "praktizier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "praktizier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat praktiziert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie praktiziert als Ärztin in Hamburg.",
+      "english": "She practises as a doctor in Hamburg.",
+      "highlight": [
+        "praktiziert"
+      ]
+    },
+    {
+      "german": "Er ist ein praktizierender Katholik.",
+      "english": "He's a practising Catholic.",
+      "highlight": [
+        "praktizierender"
+      ]
+    }
+  ],
+  "forms": [
+    "praktiziere",
+    "praktizierst",
+    "praktiziert",
+    "praktizieren",
+    "praktizierend"
+  ],
+  "memoryHook": "Praktizieren: put into Praxis (practice).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (praktizieren)",
+      "answer": "praktiziert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: praktiziert.",
+      "acceptedAnswers": [
+        "praktiziert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (praktizieren, past)",
+      "answer": "praktiziert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe praktiziert.",
+      "acceptedAnswers": [
+        "praktiziert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does praktizieren mean?",
+      "options": [
+        "the flower",
+        "to practise (a profession",
+        "tomorrow"
+      ],
+      "answer": "to practise (a profession",
+      "explanation": "praktizieren: to practise (a profession, religion).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "To practise (train, rehearse) is usually…",
+      "options": [
+        "üben",
+        "praktizieren"
+      ],
+      "answer": "üben",
+      "explanation": "Üben.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein praktizierender Muslim means…",
+      "options": [
+        "a practising Muslim",
+        "a Muslim in training"
+      ],
+      "answer": "a practising Muslim",
+      "explanation": "Religion.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Praktisch means…",
+      "options": [
+        "practical; virtually",
+        "practising"
+      ],
+      "answer": "practical; virtually",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Praktizieren means to practise a profession (als Anwalt praktizieren), a religion (ein praktizierender Christ) or a method (Yoga praktizieren). It's not used for rehearsing or training: for that, German says üben (Klavier üben). Praktisch means practical, and colloquially virtually: Das ist praktisch dasselbe. Die Praxis is a doctor's surgery or practice. Perfect without ge-: hat praktiziert."
+}

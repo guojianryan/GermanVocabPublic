@@ -1,0 +1,177 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "zocken",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "TSO-ken",
+      "ipa": "ˈt͡sɔkn̩",
+      "notes": ""
+    },
+    "meaning": "to gamble; to play video games (informal)",
+    "shortDefinition": "To gamble; to play video games (informal)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "zock|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "zock|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "zock|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "zock|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "zock|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "zock|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gezockt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er zockt jeden Abend Computerspiele.",
+      "english": "He plays video games every evening.",
+      "highlight": [
+        "zockt"
+      ]
+    },
+    {
+      "german": "Sie hat beim Pokern viel Geld verzockt.",
+      "english": "She lost a lot of money playing poker.",
+      "highlight": [
+        "verzockt"
+      ]
+    }
+  ],
+  "forms": [
+    "zocke",
+    "zockst",
+    "zockt",
+    "zocken",
+    "gezockt",
+    "zockte",
+    "Zocker",
+    "verzocken"
+  ],
+  "memoryHook": "Zocken: roll the dice or press the buttons.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (zocken)",
+      "answer": "zockt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: zockt.",
+      "acceptedAnswers": [
+        "zockt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (zocken, past)",
+      "answer": "gezockt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gezockt.",
+      "acceptedAnswers": [
+        "gezockt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does zocken mean?",
+      "options": [
+        "to gamble",
+        "to learn",
+        "to open"
+      ],
+      "answer": "to gamble",
+      "explanation": "zocken: to gamble; to play video games (informal).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Among young people, zocken mostly means…",
+      "options": [
+        "to play video games",
+        "to cook"
+      ],
+      "answer": "to play video games",
+      "explanation": "Gaming.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verzocken means…",
+      "options": [
+        "to lose by gambling",
+        "to win"
+      ],
+      "answer": "to lose by gambling",
+      "explanation": "Verzocken = gamble away.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "informal",
+        "very formal"
+      ],
+      "answer": "informal",
+      "explanation": "Colloquial.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Zocker is…",
+      "options": [
+        "a gambler or gamer",
+        "a doctor"
+      ],
+      "answer": "a gambler or gamer",
+      "explanation": "Zocker.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Zocken originally meant gambling, from Rotwelsch (old thieves' slang) and probably related to Yiddish. Today it mostly means playing video games: Wir zocken heute Abend. Der Zocker is a gambler or a gamer, and verzocken means to gamble away. It's informal, so you won't write it in a formal text. The neutral word for gaming is Computerspiele spielen."
+}

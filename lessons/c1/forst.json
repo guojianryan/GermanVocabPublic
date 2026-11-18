@@ -1,0 +1,142 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Forst",
+    "partOfSpeech": "noun, masculine (der Forst)",
+    "pronunciation": {
+      "respelling": "FORST",
+      "ipa": "fɔʁst",
+      "notes": "Plural: die Forste."
+    },
+    "meaning": "managed forest",
+    "shortDefinition": "Managed forest."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Forst, plural die Forste.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Forst"
+        },
+        {
+          "label": "More than one",
+          "value": "die Forste"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Forst gehört dem Land.",
+      "english": "The forest belongs to the state.",
+      "highlight": [
+        "Forst"
+      ]
+    },
+    {
+      "german": "Er arbeitet als Förster im Staatsforst.",
+      "english": "He works as a forester in the state forest.",
+      "highlight": [
+        "Staatsforst."
+      ]
+    }
+  ],
+  "forms": [
+    "Forste",
+    "die Forste",
+    "der Forst",
+    "Förster",
+    "Forstwirtschaft"
+  ],
+  "memoryHook": "Forst: a forest with an owner and a plan.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Forst",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Forst is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Forst, zwei ___",
+      "answer": "Forste",
+      "fullAnswer": "ein Forst, zwei Forste",
+      "explanation": "The plural is Forste.",
+      "acceptedAnswers": [
+        "Forste"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Forst mean?",
+      "options": [
+        "slowly",
+        "the street",
+        "managed forest"
+      ],
+      "answer": "managed forest",
+      "explanation": "Forst: managed forest.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Forst vs der Wald: Forst is…",
+      "options": [
+        "a managed, commercial forest",
+        "a wild, untouched forest"
+      ],
+      "answer": "a managed, commercial forest",
+      "explanation": "Cultivated.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Förster is…",
+      "options": [
+        "the forester",
+        "the founder"
+      ],
+      "answer": "the forester",
+      "explanation": "Profession.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Forstwirtschaft is…",
+      "options": [
+        "forestry",
+        "agriculture"
+      ],
+      "answer": "forestry",
+      "explanation": "Wald economy.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Forste",
+        "Förste"
+      ],
+      "answer": "Forste",
+      "explanation": "Also Forsten, rare.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Der Forst is a forest that is managed and used for timber, as opposed to der Wald, the general word. Der Förster looks after it, and die Forstwirtschaft is forestry. A Forsthaus is a forester's house, and Forst is also a town in Brandenburg. Many German forests are managed Forst, planted to be harvested."
+}

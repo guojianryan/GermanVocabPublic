@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Endeffekt",
+    "partOfSpeech": "noun, masculine (der Endeffekt)",
+    "pronunciation": {
+      "respelling": "ENT-e-fekt",
+      "ipa": "ˈɛntʔɛˌfɛkt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "final result (im Endeffekt)",
+    "shortDefinition": "Final result (im Endeffekt)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Endeffekt, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Endeffekt"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Endeffekt war alles umsonst.",
+      "english": "In the end it was all for nothing.",
+      "highlight": [
+        "Endeffekt"
+      ]
+    },
+    {
+      "german": "Im Endeffekt zahlt der Kunde.",
+      "english": "Ultimately, the customer pays.",
+      "highlight": [
+        "Endeffekt"
+      ]
+    }
+  ],
+  "forms": [
+    "im Endeffekt"
+  ],
+  "memoryHook": "Endeffekt: the effect at the Ende.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Endeffekt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Endeffekt is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Endeffekt mean?",
+      "options": [
+        "slowly",
+        "the station",
+        "final result (im Endeffekt)"
+      ],
+      "answer": "final result (im Endeffekt)",
+      "explanation": "Endeffekt: final result (im Endeffekt).",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Im Endeffekt means…",
+      "options": [
+        "in the end, ultimately",
+        "with special effects"
+      ],
+      "answer": "in the end, ultimately",
+      "explanation": "Ultimately.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "letztendlich, schließlich",
+        "zuerst"
+      ],
+      "answer": "letztendlich, schließlich",
+      "explanation": "In the end.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "colloquial, very common",
+        "very formal"
+      ],
+      "answer": "colloquial, very common",
+      "explanation": "Speech.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Endeffekt is the final result, almost only used in im Endeffekt (in the end, ultimately): Im Endeffekt ist es egal. It's very common in speech, and style guides note it can be filler, like basically. Synonyms: letztendlich, schlussendlich (Swiss and colloquial), am Ende, unterm Strich (bottom line). It has no plural."
+}

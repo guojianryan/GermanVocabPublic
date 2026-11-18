@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Referenz",
+    "partOfSpeech": "noun, feminine (die Referenz)",
+    "pronunciation": {
+      "respelling": "re-fe-RENTS",
+      "ipa": "ʁefeˈʁɛnt͡s",
+      "notes": "Plural: die Referenzen."
+    },
+    "meaning": "reference",
+    "shortDefinition": "Reference."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Referenz, plural die Referenzen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Referenz"
+        },
+        {
+          "label": "More than one",
+          "value": "die Referenzen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Können Sie Referenzen vorweisen?",
+      "english": "Can you provide references?",
+      "highlight": [
+        "Referenzen"
+      ]
+    },
+    {
+      "german": "Der Film ist voller Referenzen auf alte Klassiker.",
+      "english": "The film is full of references to old classics.",
+      "highlight": [
+        "Referenzen"
+      ]
+    }
+  ],
+  "forms": [
+    "Referenzen",
+    "die Referenzen",
+    "die Referenz"
+  ],
+  "memoryHook": "Referenz: something you refer to.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Referenz",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Referenz is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Referenz, zwei ___",
+      "answer": "Referenzen",
+      "fullAnswer": "ein Referenz, zwei Referenzen",
+      "explanation": "The plural is Referenzen.",
+      "acceptedAnswers": [
+        "Referenzen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Referenz mean?",
+      "options": [
+        "to open",
+        "the car",
+        "reference"
+      ],
+      "answer": "reference",
+      "explanation": "Referenz: reference.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In German job applications, written references are usually…",
+      "options": [
+        "das Arbeitszeugnis",
+        "die Referenz only"
+      ],
+      "answer": "das Arbeitszeugnis",
+      "explanation": "Zeugnis.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Referenzwert is…",
+      "options": [
+        "reference value",
+        "a referral"
+      ],
+      "answer": "reference value",
+      "explanation": "Value.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Referat is…",
+      "options": [
+        "a presentation (school, uni)",
+        "a reference"
+      ],
+      "answer": "a presentation (school, uni)",
+      "explanation": "Presentation.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Referenz is a reference: Referenzen angeben (to give references), eine Referenz auf ein anderes Werk, der Referenzwert. In German applications, the key document is das Arbeitszeugnis, a written job reference that employers are legally required to issue, with its own coded language: stets zu unserer vollsten Zufriedenheit means top marks. Das Referat is a student presentation. Plural: die Referenzen."
+}

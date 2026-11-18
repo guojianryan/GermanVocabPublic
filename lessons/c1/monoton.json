@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "monoton",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "mo-no-TOHN",
+      "ipa": "monoˈtoːn",
+      "notes": ""
+    },
+    "meaning": "monotonous",
+    "shortDefinition": "Monotonous."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die Arbeit am Fließband ist sehr monoton.",
+      "english": "Work on the assembly line is very monotonous.",
+      "highlight": [
+        "monoton."
+      ]
+    },
+    {
+      "german": "Er sprach mit monotoner Stimme.",
+      "english": "He spoke in a monotonous voice.",
+      "highlight": [
+        "monotoner"
+      ]
+    }
+  ],
+  "forms": [
+    "monotone",
+    "monotonen",
+    "monotoner"
+  ],
+  "memoryHook": "Monoton: one (mono) tone (Ton).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does monoton mean?",
+      "options": [
+        "the child",
+        "monotonous",
+        "the evening"
+      ],
+      "answer": "monotonous",
+      "explanation": "monoton: monotonous.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Monotonie is…",
+      "options": [
+        "monotony",
+        "a monopoly"
+      ],
+      "answer": "monotony",
+      "explanation": "Noun.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "eintönig, langweilig, gleichförmig",
+        "abwechslungsreich"
+      ],
+      "answer": "eintönig, langweilig, gleichförmig",
+      "explanation": "Synonym.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Opposite:",
+      "options": [
+        "abwechslungsreich",
+        "monogam"
+      ],
+      "answer": "abwechslungsreich",
+      "explanation": "Opposite.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Landschaft (monotonous)",
+      "answer": "monotone",
+      "fullAnswer": "eine monotone Landschaft",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Monoton means monotonous: monotone Arbeit, eine monotone Stimme, monoton ablaufen. The noun is die Monotonie. The native German synonym is eintönig (one-toned), also gleichförmig. The opposite is abwechslungsreich (varied). In maths, eine monoton steigende Funktion is a monotonically increasing function. From Greek mono (one) and tonos (tone)."
+}

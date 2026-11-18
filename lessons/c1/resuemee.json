@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Resümee",
+    "partOfSpeech": "noun, neuter (das Resümee)",
+    "pronunciation": {
+      "respelling": "re-zü-MAY",
+      "ipa": "ʁezyˈmeː",
+      "notes": "Plural: die Resümees."
+    },
+    "meaning": "summary, conclusion",
+    "shortDefinition": "Summary, conclusion."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Resümee, plural die Resümees.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Resümee"
+        },
+        {
+          "label": "More than one",
+          "value": "die Resümees"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Am Ende des Tages zogen wir ein positives Resümee.",
+      "english": "At the end of the day we drew a positive conclusion.",
+      "highlight": [
+        "Resümee."
+      ]
+    },
+    {
+      "german": "Sie schrieb ein kurzes Resümee des Buches.",
+      "english": "She wrote a short summary of the book.",
+      "highlight": [
+        "Resümee"
+      ]
+    }
+  ],
+  "forms": [
+    "Resümees",
+    "das Resümee"
+  ],
+  "memoryHook": "Resümee: a résumé (French) of what was said.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Resümee",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Resümee is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Resümee, zwei ___",
+      "answer": "Resümees",
+      "fullAnswer": "ein Resümee, zwei Resümees",
+      "explanation": "The plural is Resümees.",
+      "acceptedAnswers": [
+        "Resuemees"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Resümee mean?",
+      "options": [
+        "the child",
+        "summary",
+        "tomorrow"
+      ],
+      "answer": "summary",
+      "explanation": "Resümee: summary, conclusion.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Resümee ziehen means…",
+      "options": [
+        "to sum up, draw conclusions",
+        "to pull a CV"
+      ],
+      "answer": "to sum up, draw conclusions",
+      "explanation": "Phrase.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Is Resümee a CV in Germany?",
+      "options": [
+        "no, a CV is der Lebenslauf",
+        "yes"
+      ],
+      "answer": "no, a CV is der Lebenslauf",
+      "explanation": "False friend.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Resümieren means…",
+      "options": [
+        "to summarise",
+        "to resume"
+      ],
+      "answer": "to summarise",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Resümee is a summary or conclusion: ein Resümee ziehen (to take stock), ein positives Resümee. It comes from French résumé, but in Germany it doesn't mean CV; that's der Lebenslauf (though in Switzerland and Austria the word is sometimes used that way). Resümieren means to summarise. Synonyms: die Zusammenfassung, das Fazit, die Bilanz. Plural: die Resümees."
+}

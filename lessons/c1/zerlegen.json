@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "zerlegen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "tser-LAY-gen",
+      "ipa": "t͡sɛɐ̯ˈleːɡn̩",
+      "notes": ""
+    },
+    "meaning": "to dismantle, take apart; to carve",
+    "shortDefinition": "To dismantle, take apart; to carve."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "zerleg|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "zerleg|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "zerleg|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "zerleg|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "zerleg|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "zerleg|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat zerlegt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er zerlegte das Fahrrad in seine Einzelteile.",
+      "english": "He took the bike apart into its individual parts.",
+      "highlight": [
+        "zerlegte"
+      ]
+    },
+    {
+      "german": "Der Koch zerlegt das Huhn.",
+      "english": "The chef carves the chicken.",
+      "highlight": [
+        "zerlegt"
+      ]
+    }
+  ],
+  "forms": [
+    "zerlege",
+    "zerlegst",
+    "zerlegt",
+    "zerlegen",
+    "zerlegbar"
+  ],
+  "memoryHook": "Zerlegen: lay (legen) something out in pieces (zer-).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (zerlegen)",
+      "answer": "zerlegt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: zerlegt.",
+      "acceptedAnswers": [
+        "zerlegt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (zerlegen, past)",
+      "answer": "zerlegt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe zerlegt.",
+      "acceptedAnswers": [
+        "zerlegt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does zerlegen mean?",
+      "options": [
+        "to dismantle",
+        "to help",
+        "the evening"
+      ],
+      "answer": "to dismantle",
+      "explanation": "zerlegen: to dismantle, take apart; to carve.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zer- often means…",
+      "options": [
+        "apart, to pieces",
+        "together"
+      ],
+      "answer": "apart, to pieces",
+      "explanation": "Prefix.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In seine Einzelteile zerlegen means…",
+      "options": [
+        "to take apart into its parts",
+        "to repair"
+      ],
+      "answer": "to take apart into its parts",
+      "explanation": "Dismantle.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zerlegbar means…",
+      "options": [
+        "can be taken apart",
+        "breakable"
+      ],
+      "answer": "can be taken apart",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Zerlegen means to take apart or dismantle: einen Motor zerlegen, ein Möbelstück zerlegen. In the kitchen, it means to carve or joint: ein Huhn zerlegen. Figuratively, it can mean to analyse in detail or, in sport slang, to crush an opponent: Bayern hat den Gegner zerlegt. The prefix zer- means to pieces: zerbrechen, zerreißen, zerstören. Not separable: hat zerlegt."
+}

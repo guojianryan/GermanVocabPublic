@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sachbearbeiter",
+    "partOfSpeech": "noun, masculine (der Sachbearbeiter)",
+    "pronunciation": {
+      "respelling": "ZAKH-be-ar-bai-ter",
+      "ipa": "ˈzaxbəˌʔaʁbaɪ̯tɐ",
+      "notes": "Plural: die Sachbearbeiter."
+    },
+    "meaning": "case worker, clerk",
+    "shortDefinition": "Case worker, clerk."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Sachbearbeiter, plural die Sachbearbeiter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Sachbearbeiter"
+        },
+        {
+          "label": "More than one",
+          "value": "die Sachbearbeiter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Mein Sachbearbeiter beim Finanzamt ist im Urlaub.",
+      "english": "My case worker at the tax office is on holiday.",
+      "highlight": [
+        "Sachbearbeiter"
+      ]
+    },
+    {
+      "german": "Sie arbeitet als Sachbearbeiterin in der Buchhaltung.",
+      "english": "She works as a clerk in accounting.",
+      "highlight": [
+        "Sachbearbeiterin"
+      ]
+    }
+  ],
+  "forms": [
+    "die Sachbearbeiter",
+    "der Sachbearbeiter",
+    "Sachbearbeiterin"
+  ],
+  "memoryHook": "Sachbearbeiter: someone who bearbeitet (processes) a Sache (case).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sachbearbeiter",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Sachbearbeiter is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Sachbearbeiter, zwei ___",
+      "answer": "Sachbearbeiter",
+      "fullAnswer": "ein Sachbearbeiter, zwei Sachbearbeiter",
+      "explanation": "The plural is Sachbearbeiter.",
+      "acceptedAnswers": [
+        "Sachbearbeiter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sachbearbeiter mean?",
+      "options": [
+        "case worker",
+        "the weather",
+        "cheap"
+      ],
+      "answer": "case worker",
+      "explanation": "Sachbearbeiter: case worker, clerk.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Sachbearbeiter handles…",
+      "options": [
+        "specific cases/files",
+        "sales"
+      ],
+      "answer": "specific cases/files",
+      "explanation": "Cases.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bearbeiten means…",
+      "options": [
+        "to process, deal with; to edit",
+        "to work hard"
+      ],
+      "answer": "to process, deal with; to edit",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Sache is…",
+      "options": [
+        "thing; matter, case",
+        "a sack"
+      ],
+      "answer": "thing; matter, case",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Sachbearbeiter (die Sachbearbeiterin) is a clerk or case worker who handles specific cases in an office or authority: Ihr zuständiger Sachbearbeiter. It's the typical person you deal with at the Ausländerbehörde, Jobcenter or an insurance company, often named in letters with a direct phone number. Bearbeiten means to process: Ihr Antrag wird bearbeitet. Plural: die Sachbearbeiter."
+}

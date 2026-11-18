@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "variabel",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "va-RYAA-bel",
+      "ipa": "vaˈʁi̯aːbl̩",
+      "notes": ""
+    },
+    "meaning": "variable, flexible",
+    "shortDefinition": "Variable, flexible."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die Arbeitszeiten sind variabel.",
+      "english": "The working hours are flexible.",
+      "highlight": [
+        "variabel."
+      ]
+    },
+    {
+      "german": "Wir haben einen Kredit mit variablem Zins.",
+      "english": "We have a loan with a variable interest rate.",
+      "highlight": [
+        "variablem"
+      ]
+    }
+  ],
+  "forms": [
+    "variable",
+    "variablen",
+    "variablem",
+    "Variable"
+  ],
+  "memoryHook": "Variabel: it can vary (variieren).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does variabel mean?",
+      "options": [
+        "slowly",
+        "variable",
+        "to wait"
+      ],
+      "answer": "variable",
+      "explanation": "variabel: variable, flexible.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "With endings, variabel becomes…",
+      "options": [
+        "variabl- (variable Kosten)",
+        "variabel- (variabele)"
+      ],
+      "answer": "variabl- (variable Kosten)",
+      "explanation": "Drops e.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Variable is…",
+      "options": [
+        "a variable (maths, IT)",
+        "variety"
+      ],
+      "answer": "a variable (maths, IT)",
+      "explanation": "Noun.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Variable Kosten are…",
+      "options": [
+        "variable costs",
+        "fixed costs"
+      ],
+      "answer": "variable costs",
+      "explanation": "Costs.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ Kosten (variable)",
+      "answer": "variable",
+      "fullAnswer": "variable Kosten",
+      "explanation": "Drops e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Variabel means variable or flexible: variable Arbeitszeiten, ein variabler Zinssatz (variable interest rate), variable Kosten. Like dunkel and teuer, it drops its e with endings: variable, not variabele. Die Variable is a variable in maths or programming. The verb variieren means to vary. Note the pronunciation: va-RYAA-bel, not like English. Synonyms: flexibel, veränderlich."
+}

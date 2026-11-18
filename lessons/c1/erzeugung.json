@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Erzeugung",
+    "partOfSpeech": "noun, feminine (die Erzeugung)",
+    "pronunciation": {
+      "respelling": "er-TSOI-gung",
+      "ipa": "ɛɐ̯ˈt͡sɔɪ̯ɡʊŋ",
+      "notes": "Plural: die Erzeugungen."
+    },
+    "meaning": "production, generation",
+    "shortDefinition": "Production, generation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Erzeugung, plural die Erzeugungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Erzeugung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Erzeugungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Erzeugung von Strom aus Wind nimmt zu.",
+      "english": "The generation of electricity from wind is increasing.",
+      "highlight": [
+        "Erzeugung"
+      ]
+    },
+    {
+      "german": "Bei der Erzeugung von Lebensmitteln gelten strenge Regeln.",
+      "english": "Strict rules apply to food production.",
+      "highlight": [
+        "Erzeugung"
+      ]
+    }
+  ],
+  "forms": [
+    "Erzeugungen",
+    "die Erzeugung",
+    "erzeugen",
+    "Erzeuger"
+  ],
+  "memoryHook": "Erzeugung: bringing (zeugen) something into being.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Erzeugung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Erzeugung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Erzeugung, zwei ___",
+      "answer": "Erzeugungen",
+      "fullAnswer": "ein Erzeugung, zwei Erzeugungen",
+      "explanation": "The plural is Erzeugungen.",
+      "acceptedAnswers": [
+        "Erzeugungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Erzeugung mean?",
+      "options": [
+        "the shop",
+        "production",
+        "to wait"
+      ],
+      "answer": "production",
+      "explanation": "Erzeugung: production, generation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Erzeugen means…",
+      "options": [
+        "to produce, generate",
+        "to testify"
+      ],
+      "answer": "to produce, generate",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Erzeuger is…",
+      "options": [
+        "producer (farmer); (joke) father",
+        "a witness"
+      ],
+      "answer": "producer (farmer); (joke) father",
+      "explanation": "Producer.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Stromerzeugung is…",
+      "options": [
+        "electricity generation",
+        "electric shock"
+      ],
+      "answer": "electricity generation",
+      "explanation": "Power.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Erzeugung is production or generation: die Stromerzeugung (power generation), die Erzeugung von Lebensmitteln. In 2023, renewables generated more than half of Germany's electricity for the first time. Erzeugen means to produce or create, also feelings: Druck erzeugen. Der Erzeuger is a producer, especially a farmer (vom Erzeuger, direct from the farm), and jokingly a biological father. Plural: die Erzeugungen."
+}

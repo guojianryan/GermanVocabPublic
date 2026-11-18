@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sattel",
+    "partOfSpeech": "noun, masculine (der Sattel)",
+    "pronunciation": {
+      "respelling": "ZA-tel",
+      "ipa": "ˈzatl̩",
+      "notes": "Plural: die Sättel."
+    },
+    "meaning": "saddle",
+    "shortDefinition": "Saddle."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Sattel, plural die Sättel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Sattel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Sättel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Fahrradsattel ist zu hoch.",
+      "english": "The bike saddle is too high.",
+      "highlight": [
+        "Fahrradsattel"
+      ]
+    },
+    {
+      "german": "Sie sitzt fest im Sattel.",
+      "english": "She's firmly in the saddle (secure in her position).",
+      "highlight": [
+        "Sattel."
+      ]
+    }
+  ],
+  "forms": [
+    "Sättel",
+    "die Sättel",
+    "der Sattel",
+    "Fahrradsattel"
+  ],
+  "memoryHook": "Sattel: on a horse, a bike, or a position of power.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sattel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Sattel is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Sattel, zwei ___",
+      "answer": "Sättel",
+      "fullAnswer": "ein Sattel, zwei Sättel",
+      "explanation": "The plural is Sättel.",
+      "acceptedAnswers": [
+        "Saettel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sattel mean?",
+      "options": [
+        "saddle",
+        "the family",
+        "quiet"
+      ],
+      "answer": "saddle",
+      "explanation": "Sattel: saddle.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fest im Sattel sitzen means…",
+      "options": [
+        "to be secure in one's position",
+        "to ride well only"
+      ],
+      "answer": "to be secure in one's position",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden in den Sattel heben means…",
+      "options": [
+        "to help someone to power",
+        "to lift someone onto a horse only"
+      ],
+      "answer": "to help someone to power",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Sättel",
+        "die Sattel"
+      ],
+      "answer": "die Sättel",
+      "explanation": "Umlaut.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Sattel is a saddle, on a horse or a bike: den Sattel verstellen (to adjust the saddle). Figuratively, fest im Sattel sitzen means to be secure in a position, and jemanden aus dem Sattel heben means to oust someone. Sattelfest means well-versed: in Grammatik sattelfest sein. In geography, a Sattel is a saddle between two mountain peaks. The plural has an umlaut: die Sättel."
+}

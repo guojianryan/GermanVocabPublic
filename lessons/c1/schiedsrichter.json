@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schiedsrichter",
+    "partOfSpeech": "noun, masculine (der Schiedsrichter)",
+    "pronunciation": {
+      "respelling": "SHEETS-rikh-ter",
+      "ipa": "ˈʃiːt͡sˌʁɪçtɐ",
+      "notes": "Plural: die Schiedsrichter."
+    },
+    "meaning": "referee; arbitrator",
+    "shortDefinition": "Referee; arbitrator."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schiedsrichter, plural die Schiedsrichter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schiedsrichter"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schiedsrichter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Schiedsrichter pfiff einen Elfmeter.",
+      "english": "The referee awarded a penalty.",
+      "highlight": [
+        "Schiedsrichter"
+      ]
+    },
+    {
+      "german": "Ein Schiedsrichter soll den Streit schlichten.",
+      "english": "An arbitrator is to settle the dispute.",
+      "highlight": [
+        "Schiedsrichter"
+      ]
+    }
+  ],
+  "forms": [
+    "die Schiedsrichter",
+    "der Schiedsrichter",
+    "Schiedsrichterin",
+    "Schiri"
+  ],
+  "memoryHook": "Schiedsrichter: the judge (Richter) who decides (scheiden), the Schiri.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schiedsrichter",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schiedsrichter is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schiedsrichter, zwei ___",
+      "answer": "Schiedsrichter",
+      "fullAnswer": "ein Schiedsrichter, zwei Schiedsrichter",
+      "explanation": "The plural is Schiedsrichter.",
+      "acceptedAnswers": [
+        "Schiedsrichter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schiedsrichter mean?",
+      "options": [
+        "referee",
+        "to sing",
+        "the street"
+      ],
+      "answer": "referee",
+      "explanation": "Schiedsrichter: referee; arbitrator.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Casual abbreviation:",
+      "options": [
+        "der Schiri",
+        "der Richti"
+      ],
+      "answer": "der Schiri",
+      "explanation": "Schiri.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pfeifen means…",
+      "options": [
+        "to whistle",
+        "to shout"
+      ],
+      "answer": "to whistle",
+      "explanation": "pfeifen.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Schiedsgericht is…",
+      "options": [
+        "an arbitration court",
+        "a sports field"
+      ],
+      "answer": "an arbitration court",
+      "explanation": "Arbitration.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Schiedsrichter (die Schiedsrichterin) is a referee in sport, casually der Schiri: Schiri, wir wissen, wo dein Auto steht! is a notorious fan chant. In law and business, it's an arbitrator, and das Schiedsgericht is an arbitration court. From scheiden (to separate, decide) and der Richter (judge). Bibiana Steinhaus was the first woman to referee in the men's Bundesliga, in 2017."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Automatisierung",
+    "partOfSpeech": "noun, feminine (die Automatisierung)",
+    "pronunciation": {
+      "respelling": "au-to-ma-ti-ZEE-rung",
+      "ipa": "aʊ̯tomatiˈziːʁʊŋ",
+      "notes": "Plural: die Automatisierungen."
+    },
+    "meaning": "automation",
+    "shortDefinition": "Automation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Automatisierung, plural die Automatisierungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Automatisierung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Automatisierungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Automatisierung ersetzt viele Arbeitsplätze.",
+      "english": "Automation is replacing many jobs.",
+      "highlight": [
+        "Automatisierung"
+      ]
+    },
+    {
+      "german": "Durch Automatisierung wird die Produktion effizienter.",
+      "english": "Automation makes production more efficient.",
+      "highlight": [
+        "Automatisierung"
+      ]
+    }
+  ],
+  "forms": [
+    "Automatisierungen",
+    "die Automatisierung",
+    "automatisieren"
+  ],
+  "memoryHook": "Automatisierung: making things automatisch.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Automatisierung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Automatisierung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Automatisierung, zwei ___",
+      "answer": "Automatisierungen",
+      "fullAnswer": "ein Automatisierung, zwei Automatisierungen",
+      "explanation": "The plural is Automatisierungen.",
+      "acceptedAnswers": [
+        "Automatisierungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Automatisierung mean?",
+      "options": [
+        "expensive",
+        "automation",
+        "the job"
+      ],
+      "answer": "automation",
+      "explanation": "Automatisierung: automation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Automatisieren means…",
+      "options": [
+        "to automate",
+        "to drive"
+      ],
+      "answer": "to automate",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Industrie 4.0 refers to…",
+      "options": [
+        "digital, networked industry",
+        "four factories"
+      ],
+      "answer": "digital, networked industry",
+      "explanation": "Industry.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Roboter is…",
+      "options": [
+        "robot",
+        "red one"
+      ],
+      "answer": "robot",
+      "explanation": "Robot.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Automatisierung is automation: die Automatisierung der Produktion, Automatisierung durch künstliche Intelligenz. Germany coined the term Industrie 4.0 in 2011 for digital, networked manufacturing, and it has one of the highest densities of industrial robots in the world, especially in car factories. Automatisieren means to automate. Plural: die Automatisierungen."
+}

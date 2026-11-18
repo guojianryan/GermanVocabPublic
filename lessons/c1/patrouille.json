@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Patrouille",
+    "partOfSpeech": "noun, feminine (die Patrouille)",
+    "pronunciation": {
+      "respelling": "pa-TRUL-ye",
+      "ipa": "paˈtʁʊljə",
+      "notes": "Plural: die Patrouillen."
+    },
+    "meaning": "patrol",
+    "shortDefinition": "Patrol."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Patrouille, plural die Patrouillen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Patrouille"
+        },
+        {
+          "label": "More than one",
+          "value": "die Patrouillen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Eine Patrouille entdeckte die Schmuggler.",
+      "english": "A patrol discovered the smugglers.",
+      "highlight": [
+        "Patrouille"
+      ]
+    },
+    {
+      "german": "Soldaten waren auf Patrouille an der Grenze.",
+      "english": "Soldiers were on patrol at the border.",
+      "highlight": [
+        "Patrouille"
+      ]
+    }
+  ],
+  "forms": [
+    "Patrouillen",
+    "die Patrouille"
+  ],
+  "memoryHook": "Patrouille: a patrol (French patrouille).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Patrouille",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Patrouille is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Patrouille, zwei ___",
+      "answer": "Patrouillen",
+      "fullAnswer": "ein Patrouille, zwei Patrouillen",
+      "explanation": "The plural is Patrouillen.",
+      "acceptedAnswers": [
+        "Patrouillen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Patrouille mean?",
+      "options": [
+        "the weather",
+        "the station",
+        "patrol"
+      ],
+      "answer": "patrol",
+      "explanation": "Patrouille: patrol.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Patrouillieren means…",
+      "options": [
+        "to patrol",
+        "to petrol"
+      ],
+      "answer": "to patrol",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Streife (police) is…",
+      "options": [
+        "patrol, beat",
+        "a stripe only"
+      ],
+      "answer": "patrol, beat",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pronunciation:",
+      "options": [
+        "French (pa-TRUL-ye)",
+        "pa-TROW-il"
+      ],
+      "answer": "French (pa-TRUL-ye)",
+      "explanation": "French.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Patrouille is a patrol, mostly military or at sea: auf Patrouille gehen, eine Patrouille an der Grenze. It's pronounced the French way. Patrouillieren means to patrol. For police on the streets, Germans say die Streife: auf Streife sein, der Streifenwagen (patrol car). Plural: die Patrouillen."
+}

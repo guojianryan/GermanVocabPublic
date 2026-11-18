@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Textur",
+    "partOfSpeech": "noun, feminine (die Textur)",
+    "pronunciation": {
+      "respelling": "teks-TOOR",
+      "ipa": "tɛksˈtuːɐ̯",
+      "notes": "Plural: die Texturen."
+    },
+    "meaning": "texture",
+    "shortDefinition": "Texture."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Textur, plural die Texturen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Textur"
+        },
+        {
+          "label": "More than one",
+          "value": "die Texturen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Creme hat eine leichte Textur.",
+      "english": "The cream has a light texture.",
+      "highlight": [
+        "Textur."
+      ]
+    },
+    {
+      "german": "Der Koch spielt mit Texturen und Aromen.",
+      "english": "The chef plays with textures and aromas.",
+      "highlight": [
+        "Texturen"
+      ]
+    }
+  ],
+  "forms": [
+    "Texturen",
+    "die Textur"
+  ],
+  "memoryHook": "Textur: how something is woven (texere).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Textur",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Textur is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Textur, zwei ___",
+      "answer": "Texturen",
+      "fullAnswer": "ein Textur, zwei Texturen",
+      "explanation": "The plural is Texturen.",
+      "acceptedAnswers": [
+        "Texturen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Textur mean?",
+      "options": [
+        "texture",
+        "to buy",
+        "tomorrow"
+      ],
+      "answer": "texture",
+      "explanation": "Textur: texture.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Textur is…",
+      "options": [
+        "texture (surface, food)",
+        "a text"
+      ],
+      "answer": "texture (surface, food)",
+      "explanation": "Meaning.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Beschaffenheit, die Struktur",
+        "der Text"
+      ],
+      "answer": "die Beschaffenheit, die Struktur",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In 3D graphics, Texturen are…",
+      "options": [
+        "images applied to surfaces",
+        "fonts"
+      ],
+      "answer": "images applied to surfaces",
+      "explanation": "Graphics.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Textur is texture, of food (eine cremige Textur), skin products, fabrics, surfaces and in 3D graphics. It comes from Latin texere (to weave), like Textil and Text. Native synonyms: die Beschaffenheit (consistency), die Oberfläche, die Struktur. Food writers love words like knusprig (crunchy), zart (tender) and schmelzend (melting) to describe Texturen. Plural: die Texturen."
+}

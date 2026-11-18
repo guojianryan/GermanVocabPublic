@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Exemplar",
+    "partOfSpeech": "noun, neuter (das Exemplar)",
+    "pronunciation": {
+      "respelling": "eks-em-PLAAR",
+      "ipa": "ɛksɛmˈplaːɐ̯",
+      "notes": "Plural: die Exemplare."
+    },
+    "meaning": "copy; specimen",
+    "shortDefinition": "Copy; specimen."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Exemplar, plural die Exemplare.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Exemplar"
+        },
+        {
+          "label": "More than one",
+          "value": "die Exemplare"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Buch wurde eine Million Mal verkauft: eine Million Exemplare.",
+      "english": "The book sold a million copies.",
+      "highlight": [
+        "Exemplare."
+      ]
+    },
+    {
+      "german": "Ein seltenes Exemplar dieser Pflanze.",
+      "english": "A rare specimen of this plant.",
+      "highlight": [
+        "Exemplar"
+      ]
+    }
+  ],
+  "forms": [
+    "Exemplare",
+    "die Exemplare",
+    "das Exemplar",
+    "exemplarisch"
+  ],
+  "memoryHook": "Exemplar: one copy, one example.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Exemplar",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Exemplar is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Exemplar, zwei ___",
+      "answer": "Exemplare",
+      "fullAnswer": "ein Exemplar, zwei Exemplare",
+      "explanation": "The plural is Exemplare.",
+      "acceptedAnswers": [
+        "Exemplare"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Exemplar mean?",
+      "options": [
+        "to open",
+        "the window",
+        "copy"
+      ],
+      "answer": "copy",
+      "explanation": "Exemplar: copy; specimen.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "A copy of a book is…",
+      "options": [
+        "ein Exemplar",
+        "eine Kopie (photocopy)"
+      ],
+      "answer": "ein Exemplar",
+      "explanation": "Kopie = photocopy.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Exemplarisch means…",
+      "options": [
+        "exemplary, as an example",
+        "expensive"
+      ],
+      "answer": "exemplary, as an example",
+      "explanation": "exemplarisch.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Prachtexemplar is…",
+      "options": [
+        "a magnificent specimen",
+        "a ruined copy"
+      ],
+      "answer": "a magnificent specimen",
+      "explanation": "Pracht = splendour.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Exemplar is a copy of a book, newspaper or magazine: Das Buch hat sich zwei Millionen Mal verkauft, two million Exemplare. It's a false friend: it doesn't mean exemplary (that's vorbildlich). A photocopy is eine Kopie. Das Exemplar is also a specimen: ein seltenes Exemplar, ein Prachtexemplar (a fine specimen, also said of people). Exemplarisch means as an example: exemplarisch zeigen."
+}

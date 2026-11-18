@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Abnahme",
+    "partOfSpeech": "noun, feminine (die Abnahme)",
+    "pronunciation": {
+      "respelling": "AP-naa-me",
+      "ipa": "ˈapˌnaːmə",
+      "notes": "Plural: die Abnahmen."
+    },
+    "meaning": "decrease; acceptance (inspection)",
+    "shortDefinition": "Decrease; acceptance (inspection)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Abnahme, plural die Abnahmen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Abnahme"
+        },
+        {
+          "label": "More than one",
+          "value": "die Abnahmen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir beobachten eine Abnahme der Geburtenrate.",
+      "english": "We're observing a decrease in the birth rate.",
+      "highlight": [
+        "Abnahme"
+      ]
+    },
+    {
+      "german": "Die Abnahme des Gebäudes erfolgt nächste Woche.",
+      "english": "The building's inspection and acceptance takes place next week.",
+      "highlight": [
+        "Abnahme"
+      ]
+    }
+  ],
+  "forms": [
+    "Abnahmen",
+    "die Abnahmen",
+    "die Abnahme",
+    "abnehmen"
+  ],
+  "memoryHook": "Abnahme: when something is taken off (abgenommen).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Abnahme",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Abnahme is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Abnahme, zwei ___",
+      "answer": "Abnahmen",
+      "fullAnswer": "ein Abnahme, zwei Abnahmen",
+      "explanation": "The plural is Abnahmen.",
+      "acceptedAnswers": [
+        "Abnahmen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Abnahme mean?",
+      "options": [
+        "to learn",
+        "decrease",
+        "cheap"
+      ],
+      "answer": "decrease",
+      "explanation": "Abnahme: decrease; acceptance (inspection).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Abnehmen means…",
+      "options": [
+        "to decrease; to lose weight; to take off",
+        "to accept a gift"
+      ],
+      "answer": "to decrease; to lose weight; to take off",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Abnahme in construction is…",
+      "options": [
+        "formal acceptance of finished work",
+        "demolition"
+      ],
+      "answer": "formal acceptance of finished work",
+      "explanation": "Acceptance.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite (decrease):",
+      "options": [
+        "die Zunahme",
+        "die Annahme"
+      ],
+      "answer": "die Zunahme",
+      "explanation": "Increase.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Abnahme means decrease (die Abnahme der Bevölkerung; opposite: die Zunahme) and also formal acceptance: die Abnahme eines Bauwerks or of a software project, after checking the work is complete. Die Gewichtsabnahme is weight loss. The verb abnehmen means to decrease, to lose weight (Ich habe drei Kilo abgenommen), to pick up the phone, or to take off: den Hut abnehmen. Plural: die Abnahmen."
+}

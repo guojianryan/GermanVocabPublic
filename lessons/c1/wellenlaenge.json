@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wellenlänge",
+    "partOfSpeech": "noun, feminine (die Wellenlänge)",
+    "pronunciation": {
+      "respelling": "VE-len-leng-e",
+      "ipa": "ˈvɛlənˌlɛŋə",
+      "notes": "Plural: die Wellenlängen."
+    },
+    "meaning": "wavelength",
+    "shortDefinition": "Wavelength."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Wellenlänge, plural die Wellenlängen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Wellenlänge"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wellenlängen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir liegen auf einer Wellenlänge.",
+      "english": "We're on the same wavelength.",
+      "highlight": [
+        "Wellenlänge."
+      ]
+    },
+    {
+      "german": "Rotes Licht hat eine größere Wellenlänge als blaues.",
+      "english": "Red light has a longer wavelength than blue.",
+      "highlight": [
+        "Wellenlänge"
+      ]
+    }
+  ],
+  "forms": [
+    "Wellenlängen",
+    "die Wellenlänge"
+  ],
+  "memoryHook": "Wellenlänge: the Länge (length) of a Welle (wave).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wellenlänge",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Wellenlänge is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wellenlänge, zwei ___",
+      "answer": "Wellenlängen",
+      "fullAnswer": "ein Wellenlänge, zwei Wellenlängen",
+      "explanation": "The plural is Wellenlängen.",
+      "acceptedAnswers": [
+        "Wellenlaengen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wellenlänge mean?",
+      "options": [
+        "the shop",
+        "slowly",
+        "wavelength"
+      ],
+      "answer": "wavelength",
+      "explanation": "Wellenlänge: wavelength.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Auf einer Wellenlänge liegen means…",
+      "options": [
+        "to be on the same wavelength",
+        "to be at sea"
+      ],
+      "answer": "to be on the same wavelength",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Welle is…",
+      "options": [
+        "wave",
+        "well"
+      ],
+      "answer": "wave",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Heinrich Hertz proved…",
+      "options": [
+        "electromagnetic waves exist",
+        "gravity waves"
+      ],
+      "answer": "electromagnetic waves exist",
+      "explanation": "Hertz.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Wellenlänge is wavelength in physics: die Wellenlänge des Lichts. Figuratively, auf einer (or derselben) Wellenlänge liegen means to be on the same wavelength. German physicist Heinrich Hertz proved the existence of electromagnetic waves in 1886–88 in Karlsruhe, and the unit Hertz is named after him. Die Welle is a wave: die La-Ola-Welle in stadiums. Plural: die Wellenlängen."
+}

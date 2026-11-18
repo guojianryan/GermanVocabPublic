@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Legislaturperiode",
+    "partOfSpeech": "noun, feminine (die Legislaturperiode)",
+    "pronunciation": {
+      "respelling": "le-gis-la-TOOR-pe-ri-oh-de",
+      "ipa": "leɡɪslaˈtuːɐ̯peʁiˌoːdə",
+      "notes": "Plural: die Legislaturperioden."
+    },
+    "meaning": "legislative term",
+    "shortDefinition": "Legislative term."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Legislaturperiode, plural die Legislaturperioden.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Legislaturperiode"
+        },
+        {
+          "label": "More than one",
+          "value": "die Legislaturperioden"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Legislaturperiode des Bundestages dauert vier Jahre.",
+      "english": "The Bundestag's legislative term lasts four years.",
+      "highlight": [
+        "Legislaturperiode"
+      ]
+    },
+    {
+      "german": "Das Gesetz soll noch in dieser Legislaturperiode kommen.",
+      "english": "The law is due to come in this term.",
+      "highlight": [
+        "Legislaturperiode"
+      ]
+    }
+  ],
+  "forms": [
+    "Legislaturperioden",
+    "die Legislaturperioden",
+    "die Legislaturperiode"
+  ],
+  "memoryHook": "Legislaturperiode: the Periode of the Legislatur.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Legislaturperiode",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Legislaturperiode is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Legislaturperiode, zwei ___",
+      "answer": "Legislaturperioden",
+      "fullAnswer": "ein Legislaturperiode, zwei Legislaturperioden",
+      "explanation": "The plural is Legislaturperioden.",
+      "acceptedAnswers": [
+        "Legislaturperioden"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Legislaturperiode mean?",
+      "options": [
+        "legislative term",
+        "to open",
+        "to buy"
+      ],
+      "answer": "legislative term",
+      "explanation": "Legislaturperiode: legislative term.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Bundestag's term lasts…",
+      "options": [
+        "four years",
+        "five years"
+      ],
+      "answer": "four years",
+      "explanation": "Four years.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Legislative is…",
+      "options": [
+        "the legislature",
+        "a law"
+      ],
+      "answer": "the legislature",
+      "explanation": "Legislative.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Wahlperiode",
+        "die Amtszeit only"
+      ],
+      "answer": "die Wahlperiode",
+      "explanation": "Term.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Legislaturperiode is a legislative term, officially Wahlperiode: the period between elections. The Bundestag's term is four years, while most Landtage now have five-year terms. Plans not passed by the end of a term usually lapse, a principle called Diskontinuität. Die Legislative is the legislature, alongside die Exekutive and die Judikative in the separation of powers (Gewaltenteilung). Plural: die Legislaturperioden."
+}

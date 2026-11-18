@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "schnüren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHNÜ-ren",
+      "ipa": "ˈʃnyːʁən",
+      "notes": ""
+    },
+    "meaning": "to tie, lace; to put together (a package)",
+    "shortDefinition": "To tie, lace; to put together (a package)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schnür|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schnür|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schnür|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schnür|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schnür|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schnür|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geschnürt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er schnürte seine Wanderschuhe.",
+      "english": "He laced up his hiking boots.",
+      "highlight": [
+        "schnürte"
+      ]
+    },
+    {
+      "german": "Die Regierung schnürt ein Hilfspaket.",
+      "english": "The government is putting together an aid package.",
+      "highlight": [
+        "schnürt"
+      ]
+    }
+  ],
+  "forms": [
+    "schnüre",
+    "schnürst",
+    "schnürt",
+    "schnüren",
+    "geschnürt",
+    "schnürte"
+  ],
+  "memoryHook": "Schnüren: tie with a Schnur (string).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (schnüren)",
+      "answer": "schnürt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schnürt.",
+      "acceptedAnswers": [
+        "schnuert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (schnüren, past)",
+      "answer": "geschnürt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geschnürt.",
+      "acceptedAnswers": [
+        "geschnuert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does schnüren mean?",
+      "options": [
+        "the evening",
+        "to tie",
+        "the weather"
+      ],
+      "answer": "to tie",
+      "explanation": "schnüren: to tie, lace; to put together (a package).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Paket schnüren (politics) means…",
+      "options": [
+        "to put together a package of measures",
+        "to tie a parcel only"
+      ],
+      "answer": "to put together a package of measures",
+      "explanation": "Politics.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schnur is…",
+      "options": [
+        "string, cord",
+        "a snore"
+      ],
+      "answer": "string, cord",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schnürsenkel is…",
+      "options": [
+        "shoelace",
+        "a sinker"
+      ],
+      "answer": "shoelace",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Schnüren means to tie or lace: Schuhe schnüren, ein Paket schnüren. In politics it's very common: ein Konjunkturpaket, Rettungspaket, Maßnahmenpaket schnüren (to put together a package of measures). Die Schnur is string, and der Schnürsenkel (in the south der Schuhbändel) a shoelace. Die Kehle schnürt sich zu means one's throat tightens. Regular: schnürte, geschnürt."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sakko",
+    "partOfSpeech": "noun, neuter (das Sakko)",
+    "pronunciation": {
+      "respelling": "ZA-ko",
+      "ipa": "ˈzako",
+      "notes": "Plural: die Sakkos."
+    },
+    "meaning": "sports jacket, blazer",
+    "shortDefinition": "Sports jacket, blazer."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Sakko, plural die Sakkos.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Sakko"
+        },
+        {
+          "label": "More than one",
+          "value": "die Sakkos"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er trug ein Sakko und Jeans.",
+      "english": "He wore a sports jacket and jeans.",
+      "highlight": [
+        "Sakko"
+      ]
+    },
+    {
+      "german": "Zum Vorstellungsgespräch zieht er ein Sakko an.",
+      "english": "He puts on a blazer for the job interview.",
+      "highlight": [
+        "Sakko"
+      ]
+    }
+  ],
+  "forms": [
+    "Sakkos",
+    "das Sakko"
+  ],
+  "memoryHook": "Sakko: a German pseudo-Italian word, from Sack (loose jacket).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sakko",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Sakko is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Sakko, zwei ___",
+      "answer": "Sakkos",
+      "fullAnswer": "ein Sakko, zwei Sakkos",
+      "explanation": "The plural is Sakkos.",
+      "acceptedAnswers": [
+        "Sakkos"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sakko mean?",
+      "options": [
+        "sports jacket",
+        "the flower",
+        "the street"
+      ],
+      "answer": "sports jacket",
+      "explanation": "Sakko: sports jacket, blazer.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "das Sakko (Austria: der Sakko)",
+        "die Sakko"
+      ],
+      "answer": "das Sakko (Austria: der Sakko)",
+      "explanation": "Gender.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Anzug is…",
+      "options": [
+        "suit (jacket and trousers)",
+        "a pull"
+      ],
+      "answer": "suit (jacket and trousers)",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "das Jackett, der Blazer",
+        "der Mantel"
+      ],
+      "answer": "das Jackett, der Blazer",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Sakko is a sports jacket or blazer, worn without matching trousers; in Austria it's der Sakko. Der Anzug is a full suit. Synonyms: das Jackett, der Blazer. Despite its Italian look, the word is a German formation, based on English sack coat. Sakko und Jeans is a classic smart-casual look. Plural: die Sakkos."
+}

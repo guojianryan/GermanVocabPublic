@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Grünkohl",
+    "partOfSpeech": "noun, masculine (der Grünkohl)",
+    "pronunciation": {
+      "respelling": "GRÜN-kohl",
+      "ipa": "ˈɡʁyːnˌkoːl",
+      "notes": "Usually no plural."
+    },
+    "meaning": "kale",
+    "shortDefinition": "Kale."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Grünkohl, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Grünkohl"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Winter isst man in Bremen Grünkohl mit Pinkel.",
+      "english": "In winter in Bremen people eat kale with Pinkel sausage.",
+      "highlight": [
+        "Grünkohl"
+      ]
+    },
+    {
+      "german": "Grünkohl schmeckt besser nach dem ersten Frost.",
+      "english": "Kale tastes better after the first frost.",
+      "highlight": [
+        "Grünkohl"
+      ]
+    }
+  ],
+  "forms": [
+    "der Grünkohl",
+    "Grünkohls"
+  ],
+  "memoryHook": "Grünkohl: grüner (green) Kohl (cabbage).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Grünkohl",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Grünkohl is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Grünkohl mean?",
+      "options": [
+        "the car",
+        "kale",
+        "the shop"
+      ],
+      "answer": "kale",
+      "explanation": "Grünkohl: kale.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kohlfahrt is…",
+      "options": [
+        "a winter walk ending in a kale meal",
+        "a cabbage delivery"
+      ],
+      "answer": "a winter walk ending in a kale meal",
+      "explanation": "Tradition.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kohl is…",
+      "options": [
+        "cabbage",
+        "coal (die Kohle)"
+      ],
+      "answer": "cabbage",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pinkel is…",
+      "options": [
+        "a smoked sausage (North German)",
+        "a colour"
+      ],
+      "answer": "a smoked sausage (North German)",
+      "explanation": "Food.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Grünkohl is kale, a winter staple in northern Germany, cooked for hours with Pinkel or Kohlwurst sausage, Kassler and potatoes. In Bremen and Oldenburg, groups go on a Kohlfahrt, a winter walk with drinking games that ends in a kale feast, where a Kohlkönig is crowned. Tradition says it tastes best after the first frost. Der Kohl is cabbage. It has no plural."
+}

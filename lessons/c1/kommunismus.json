@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kommunismus",
+    "partOfSpeech": "noun, masculine (der Kommunismus)",
+    "pronunciation": {
+      "respelling": "ko-mu-NIS-mus",
+      "ipa": "kɔmuˈnɪsmʊs",
+      "notes": "Usually no plural."
+    },
+    "meaning": "communism",
+    "shortDefinition": "Communism."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kommunismus, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kommunismus"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nach dem Ende des Kommunismus öffnete sich Osteuropa.",
+      "english": "After the end of communism Eastern Europe opened up.",
+      "highlight": [
+        "Kommunismus"
+      ]
+    },
+    {
+      "german": "Marx beschrieb den Kommunismus als klassenlose Gesellschaft.",
+      "english": "Marx described communism as a classless society.",
+      "highlight": [
+        "Kommunismus"
+      ]
+    }
+  ],
+  "forms": [
+    "der Kommunismus",
+    "Kommunist",
+    "kommunistisch"
+  ],
+  "memoryHook": "Kommunismus: an idea from Trier that shaped the 20th century.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kommunismus",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kommunismus is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kommunismus mean?",
+      "options": [
+        "communism",
+        "to sing",
+        "the evening"
+      ],
+      "answer": "communism",
+      "explanation": "Kommunismus: communism.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "-ismus nouns are…",
+      "options": [
+        "masculine",
+        "feminine"
+      ],
+      "answer": "masculine",
+      "explanation": "der Kommunismus.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Sozialismus was, in Marxist theory…",
+      "options": [
+        "a stage before communism",
+        "the same as capitalism"
+      ],
+      "answer": "a stage before communism",
+      "explanation": "Theory.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Karl Marx was born in…",
+      "options": [
+        "Trier",
+        "Berlin"
+      ],
+      "answer": "Trier",
+      "explanation": "Trier, 1818.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Kommunismus is communism. Its founding text, the Kommunistisches Manifest (1848), was written by two Germans: Karl Marx, born in Trier in 1818, and Friedrich Engels, from Wuppertal. In the GDR, the official ideology was Sozialismus, seen as a step towards communism. After 1989, communist regimes collapsed across Eastern Europe. Today Trier has a Karl Marx museum, popular with visitors from China. Like all -ismus nouns, it's masculine."
+}

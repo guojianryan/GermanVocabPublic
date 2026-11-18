@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "reproduzieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "re-pro-du-TSEE-ren",
+      "ipa": "ʁepʁoduˈt͡siːʁən",
+      "notes": ""
+    },
+    "meaning": "to reproduce, replicate",
+    "shortDefinition": "To reproduce, replicate."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "reproduzier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "reproduzier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "reproduzier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "reproduzier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "reproduzier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "reproduzier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat reproduziert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Ergebnisse ließen sich nicht reproduzieren.",
+      "english": "The results could not be replicated.",
+      "highlight": [
+        "reproduzieren."
+      ]
+    },
+    {
+      "german": "Das Gemälde wurde tausendfach reproduziert.",
+      "english": "The painting has been reproduced thousands of times.",
+      "highlight": [
+        "reproduziert."
+      ]
+    }
+  ],
+  "forms": [
+    "reproduziere",
+    "reproduzierst",
+    "reproduziert",
+    "reproduzieren",
+    "Reproduktion"
+  ],
+  "memoryHook": "Reproduzieren: produce again (re-).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (reproduzieren)",
+      "answer": "reproduziert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: reproduziert.",
+      "acceptedAnswers": [
+        "reproduziert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (reproduzieren, past)",
+      "answer": "reproduziert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe reproduziert.",
+      "acceptedAnswers": [
+        "reproduziert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does reproduzieren mean?",
+      "options": [
+        "to reproduce",
+        "the door",
+        "the street"
+      ],
+      "answer": "to reproduce",
+      "explanation": "reproduzieren: to reproduce, replicate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Reproduktion is…",
+      "options": [
+        "reproduction (copy; biology)",
+        "a production"
+      ],
+      "answer": "reproduction (copy; biology)",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In science, reproduzierbar means…",
+      "options": [
+        "replicable",
+        "reusable"
+      ],
+      "answer": "replicable",
+      "explanation": "Science.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich reproduzieren (biology) means…",
+      "options": [
+        "to reproduce, breed",
+        "to repeat oneself"
+      ],
+      "answer": "to reproduce, breed",
+      "explanation": "Biology.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Reproduzieren means to reproduce or replicate: ein Experiment, Ergebnisse, ein Kunstwerk, Klischees reproduzieren (perpetuate stereotypes). In science, reproduzierbar (replicable) results are essential. In biology, sich reproduzieren means to breed; everyday German says sich fortpflanzen. Die Reproduktion is a reproduction. Perfect without ge-: hat reproduziert."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schwachstelle",
+    "partOfSpeech": "noun, feminine (die Schwachstelle)",
+    "pronunciation": {
+      "respelling": "SHVAKH-shte-le",
+      "ipa": "ˈʃvaxˌʃtɛlə",
+      "notes": "Plural: die Schwachstellen."
+    },
+    "meaning": "weak point; vulnerability",
+    "shortDefinition": "Weak point; vulnerability."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Schwachstelle, plural die Schwachstellen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Schwachstelle"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schwachstellen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Software hat eine kritische Schwachstelle.",
+      "english": "The software has a critical vulnerability.",
+      "highlight": [
+        "Schwachstelle."
+      ]
+    },
+    {
+      "german": "Wir müssen die Schwachstellen des Plans finden.",
+      "english": "We have to find the plan's weak points.",
+      "highlight": [
+        "Schwachstellen"
+      ]
+    }
+  ],
+  "forms": [
+    "Schwachstellen",
+    "die Schwachstelle"
+  ],
+  "memoryHook": "Schwachstelle: a schwache (weak) Stelle (spot).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schwachstelle",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Schwachstelle is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schwachstelle, zwei ___",
+      "answer": "Schwachstellen",
+      "fullAnswer": "ein Schwachstelle, zwei Schwachstellen",
+      "explanation": "The plural is Schwachstellen.",
+      "acceptedAnswers": [
+        "Schwachstellen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schwachstelle mean?",
+      "options": [
+        "to wait",
+        "weak point",
+        "the station"
+      ],
+      "answer": "weak point",
+      "explanation": "Schwachstelle: weak point; vulnerability.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In IT, eine Schwachstelle is…",
+      "options": [
+        "a security vulnerability",
+        "a slow computer"
+      ],
+      "answer": "a security vulnerability",
+      "explanation": "IT.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's federal IT security agency:",
+      "options": [
+        "das BSI",
+        "das BKA"
+      ],
+      "answer": "das BSI",
+      "explanation": "BSI.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Schwachpunkt",
+        "die Stärke"
+      ],
+      "answer": "der Schwachpunkt",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Schwachstelle is a weak point: die Schwachstellen eines Arguments, einer Mannschaft. In IT security it means a vulnerability: eine Schwachstelle ausnutzen (to exploit a vulnerability), eine Schwachstelle schließen (to patch it). Germany's Bundesamt für Sicherheit in der Informationstechnik (BSI) warns about them. Synonym: der Schwachpunkt. Plural: die Schwachstellen."
+}

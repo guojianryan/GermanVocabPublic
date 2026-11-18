@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Grundbesitzer",
+    "partOfSpeech": "noun, masculine (der Grundbesitzer)",
+    "pronunciation": {
+      "respelling": "GRUNT-be-zit-ser",
+      "ipa": "ˈɡʁʊntbəˌzɪt͡sɐ",
+      "notes": "Plural: die Grundbesitzer."
+    },
+    "meaning": "landowner",
+    "shortDefinition": "Landowner."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Grundbesitzer, plural die Grundbesitzer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Grundbesitzer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Grundbesitzer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Grundbesitzer müssen Grundsteuer zahlen.",
+      "english": "Landowners have to pay property tax.",
+      "highlight": [
+        "Grundbesitzer"
+      ]
+    },
+    {
+      "german": "Er war der größte Grundbesitzer der Region.",
+      "english": "He was the largest landowner in the region.",
+      "highlight": [
+        "Grundbesitzer"
+      ]
+    }
+  ],
+  "forms": [
+    "Grundbesitzerin",
+    "der Grundbesitzer"
+  ],
+  "memoryHook": "Grundbesitzer: a Besitzer (owner) of Grund (land).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Grundbesitzer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Grundbesitzer is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Grundbesitzer, zwei ___",
+      "answer": "Grundbesitzer",
+      "fullAnswer": "ein Grundbesitzer, zwei Grundbesitzer",
+      "explanation": "The plural is Grundbesitzer.",
+      "acceptedAnswers": [
+        "Grundbesitzer"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Grundbesitzer mean?",
+      "options": [
+        "landowner",
+        "the family",
+        "the job"
+      ],
+      "answer": "landowner",
+      "explanation": "Grundbesitzer: landowner.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Grund here means…",
+      "options": [
+        "land, ground",
+        "reason"
+      ],
+      "answer": "land, ground",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Grundsteuer is…",
+      "options": [
+        "property tax",
+        "a basic tax"
+      ],
+      "answer": "property tax",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Großgrundbesitzer is…",
+      "options": [
+        "large landowner",
+        "a big owner of reasons"
+      ],
+      "answer": "large landowner",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Grundbesitzer is a landowner: ein Großgrundbesitzer (large landowner), like the Prussian Junker estates east of the Elbe, expropriated in the Soviet zone after 1945. Der Grundbesitz is landed property, and der Grund means land as well as reason. Owners pay Grundsteuer, recalculated under a reform from 2025. The plural is the same."
+}

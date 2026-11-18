@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Häkchen",
+    "partOfSpeech": "noun, neuter (das Häkchen)",
+    "pronunciation": {
+      "respelling": "HAYK-khen",
+      "ipa": "ˈhɛːkçən",
+      "notes": "Plural: die Häkchen."
+    },
+    "meaning": "tick, check mark; little hook",
+    "shortDefinition": "Tick, check mark; little hook."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Häkchen, plural die Häkchen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Häkchen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Häkchen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Setzen Sie ein Häkchen bei Ja.",
+      "english": "Put a tick next to Yes.",
+      "highlight": [
+        "Häkchen"
+      ]
+    },
+    {
+      "german": "Das Häkchen am Bild hält nicht.",
+      "english": "The little hook for the picture won't hold.",
+      "highlight": [
+        "Häkchen"
+      ]
+    }
+  ],
+  "forms": [
+    "das Häkchen",
+    "Häkchens"
+  ],
+  "memoryHook": "Häkchen: a little (-chen) Haken (hook).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Häkchen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Häkchen is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Häkchen, zwei ___",
+      "answer": "Häkchen",
+      "fullAnswer": "ein Häkchen, zwei Häkchen",
+      "explanation": "The plural is Häkchen.",
+      "acceptedAnswers": [
+        "Haekchen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Häkchen mean?",
+      "options": [
+        "tick",
+        "the flower",
+        "quiet"
+      ],
+      "answer": "tick",
+      "explanation": "Häkchen: tick, check mark; little hook.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Häkchen setzen means…",
+      "options": [
+        "to tick a box",
+        "to hang a picture"
+      ],
+      "answer": "to tick a box",
+      "explanation": "Phrase.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Haken is…",
+      "options": [
+        "hook; catch (snag)",
+        "a hacker"
+      ],
+      "answer": "hook; catch (snag)",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Sache hat einen Haken means…",
+      "options": [
+        "there's a catch",
+        "it's hung up"
+      ],
+      "answer": "there's a catch",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Häkchen is a tick or check mark, ✓: ein Häkchen setzen, das Häkchen bei Datenschutz anklicken. It's also a little hook. Der Haken means hook and a catch: Wo ist der Haken? (what's the catch?). The proverb Was ein Häkchen werden will, krümmt sich beizeiten means talent or character shows early. The plural is the same."
+}

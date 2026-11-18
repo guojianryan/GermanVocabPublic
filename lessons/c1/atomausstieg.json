@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Atomausstieg",
+    "partOfSpeech": "noun, masculine (der Atomausstieg)",
+    "pronunciation": {
+      "respelling": "a-TOHM-aus-shteek",
+      "ipa": "aˈtoːmˌʔaʊ̯sʃtiːk",
+      "notes": "Usually no plural."
+    },
+    "meaning": "nuclear phase-out",
+    "shortDefinition": "Nuclear phase-out."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Atomausstieg, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Atomausstieg"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nach Fukushima beschloss Deutschland den Atomausstieg.",
+      "english": "After Fukushima Germany decided on a nuclear phase-out.",
+      "highlight": [
+        "Atomausstieg."
+      ]
+    },
+    {
+      "german": "Mit dem Atomausstieg gingen 2023 die letzten Kraftwerke vom Netz.",
+      "english": "With the phase-out, the last plants went offline in 2023.",
+      "highlight": [
+        "Atomausstieg"
+      ]
+    }
+  ],
+  "forms": [
+    "der Atomausstieg"
+  ],
+  "memoryHook": "Atomausstieg: the Ausstieg (exit) from Atom (nuclear) power.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Atomausstieg",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Atomausstieg is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Atomausstieg mean?",
+      "options": [
+        "the weather",
+        "nuclear phase-out",
+        "the evening"
+      ],
+      "answer": "nuclear phase-out",
+      "explanation": "Atomausstieg: nuclear phase-out.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "The last three German reactors shut down in…",
+      "options": [
+        "April 2023",
+        "2011"
+      ],
+      "answer": "April 2023",
+      "explanation": "2023.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ausstieg is…",
+      "options": [
+        "exit; withdrawal",
+        "a step up"
+      ],
+      "answer": "exit; withdrawal",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kohleausstieg is…",
+      "options": [
+        "coal phase-out",
+        "a mine exit"
+      ],
+      "answer": "coal phase-out",
+      "explanation": "Related.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Atomausstieg is the nuclear phase-out. The SPD-Green government agreed it in 2000, the Merkel government extended plant lifetimes in 2010, then reversed course after Fukushima in 2011. The last three reactors, Isar 2, Emsland and Neckarwestheim 2, went offline on 15 April 2023. The debate continues, as does der Kohleausstieg (coal phase-out). It has no plural."
+}

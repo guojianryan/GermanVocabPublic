@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Privatperson",
+    "partOfSpeech": "noun, feminine (die Privatperson)",
+    "pronunciation": {
+      "respelling": "pri-VAAT-per-zohn",
+      "ipa": "pʁiˈvaːtpɛʁˌzoːn",
+      "notes": "Plural: die Privatpersonen."
+    },
+    "meaning": "private individual",
+    "shortDefinition": "Private individual."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Privatperson, plural die Privatpersonen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Privatperson"
+        },
+        {
+          "label": "More than one",
+          "value": "die Privatpersonen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er verkauft das Auto als Privatperson.",
+      "english": "He's selling the car as a private individual.",
+      "highlight": [
+        "Privatperson."
+      ]
+    },
+    {
+      "german": "Privatpersonen können die Förderung beantragen.",
+      "english": "Private individuals can apply for the subsidy.",
+      "highlight": [
+        "Privatpersonen"
+      ]
+    }
+  ],
+  "forms": [
+    "Privatpersonen",
+    "die Privatpersonen",
+    "die Privatperson"
+  ],
+  "memoryHook": "Privatperson: a person acting privately (privat).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Privatperson",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Privatperson is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Privatperson, zwei ___",
+      "answer": "Privatpersonen",
+      "fullAnswer": "ein Privatperson, zwei Privatpersonen",
+      "explanation": "The plural is Privatpersonen.",
+      "acceptedAnswers": [
+        "Privatpersonen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Privatperson mean?",
+      "options": [
+        "private individual",
+        "to buy",
+        "to travel"
+      ],
+      "answer": "private individual",
+      "explanation": "Privatperson: private individual.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Selling als Privatperson usually means…",
+      "options": [
+        "no warranty obligations like a dealer",
+        "paying VAT"
+      ],
+      "answer": "no warranty obligations like a dealer",
+      "explanation": "Private sale.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite:",
+      "options": [
+        "die juristische Person / das Unternehmen",
+        "die Hauptperson"
+      ],
+      "answer": "die juristische Person / das Unternehmen",
+      "explanation": "Company.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Privat means…",
+      "options": [
+        "private",
+        "privileged"
+      ],
+      "answer": "private",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Privatperson is a private individual, as opposed to a business or official: als Privatperson verkaufen, Privatpersonen und Unternehmen. On Kleinanzeigen, private sellers often write Privatverkauf, keine Garantie oder Rücknahme, because private sellers can exclude the warranty that dealers must give. Politicians sometimes say they're speaking als Privatperson, not in their official role. Plural: die Privatpersonen."
+}

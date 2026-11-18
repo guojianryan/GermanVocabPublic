@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "anwendbar",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "AN-vent-baar",
+      "ipa": "ˈanvɛntbaːɐ̯",
+      "notes": ""
+    },
+    "meaning": "applicable",
+    "shortDefinition": "Applicable."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die Regel ist auf diesen Fall nicht anwendbar.",
+      "english": "The rule isn't applicable to this case.",
+      "highlight": [
+        "anwendbar."
+      ]
+    },
+    {
+      "german": "Das Wissen ist sofort anwendbar.",
+      "english": "The knowledge can be applied immediately.",
+      "highlight": [
+        "anwendbar."
+      ]
+    }
+  ],
+  "forms": [
+    "anwendbare",
+    "anwendbaren",
+    "anwenden",
+    "Anwendung"
+  ],
+  "memoryHook": "Anwendbar: can be angewendet (applied).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does anwendbar mean?",
+      "options": [
+        "to learn",
+        "applicable",
+        "cheap"
+      ],
+      "answer": "applicable",
+      "explanation": "anwendbar: applicable.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Anwendbar auf + acc. means…",
+      "options": [
+        "applicable to",
+        "usable for"
+      ],
+      "answer": "applicable to",
+      "explanation": "Applicable.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Anwenden means…",
+      "options": [
+        "to apply, use",
+        "to turn around"
+      ],
+      "answer": "to apply, use",
+      "explanation": "Verb.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Anwendung is…",
+      "options": [
+        "application; app",
+        "a turning"
+      ],
+      "answer": "application; app",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Das Gesetz ist hier nicht ___. (applicable)",
+      "answer": "anwendbar",
+      "fullAnswer": "Das Gesetz ist hier nicht anwendbar.",
+      "explanation": "anwendbar.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Anwendbar means applicable: anwendbar auf (applicable to), das anwendbare Recht (applicable law), praktisch anwendbares Wissen. It comes from anwenden (to apply, use): eine Methode anwenden, Gewalt anwenden. Die Anwendung means application, and is also used for an app: die Anwendung starten. Opposite: nicht anwendbar or unanwendbar."
+}

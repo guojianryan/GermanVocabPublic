@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verharren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-HA-ren",
+      "ipa": "fɛɐ̯ˈhaʁən",
+      "notes": ""
+    },
+    "meaning": "to remain, persist (motionless)",
+    "shortDefinition": "To remain, persist (motionless)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verharr|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verharr|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verharr|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verharr|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verharr|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verharr|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verharrt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er verharrte einen Moment in Schweigen.",
+      "english": "He remained silent for a moment.",
+      "highlight": [
+        "verharrte"
+      ]
+    },
+    {
+      "german": "Die Partei verharrt in ihrer Position.",
+      "english": "The party is sticking to its position.",
+      "highlight": [
+        "verharrt"
+      ]
+    }
+  ],
+  "forms": [
+    "verharre",
+    "verharrst",
+    "verharrt",
+    "verharren",
+    "verharrte"
+  ],
+  "memoryHook": "Verharren: harren (wait) and not move.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verharren)",
+      "answer": "verharrt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verharrt.",
+      "acceptedAnswers": [
+        "verharrt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verharren, past)",
+      "answer": "verharrt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verharrt.",
+      "acceptedAnswers": [
+        "verharrt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verharren mean?",
+      "options": [
+        "to remain",
+        "always",
+        "the car"
+      ],
+      "answer": "to remain",
+      "explanation": "verharren: to remain, persist (motionless).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal, literary",
+        "colloquial"
+      ],
+      "answer": "formal, literary",
+      "explanation": "Register.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Harren means…",
+      "options": [
+        "to wait (old)",
+        "to hurry"
+      ],
+      "answer": "to wait (old)",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "bleiben, beharren, verweilen",
+        "eilen"
+      ],
+      "answer": "bleiben, beharren, verweilen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verharren means to remain or persist, often motionless or unchanged: in einer Haltung, in Schweigen, auf einer Position verharren. Markets that verharren auf hohem Niveau stay high. It's formal and literary. From the old verb harren (to wait): der Dinge harren, die da kommen. Synonyms: bleiben, beharren auf (to insist on), verweilen. Regular: verharrte, hat verharrt."
+}

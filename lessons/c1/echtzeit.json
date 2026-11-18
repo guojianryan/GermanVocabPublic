@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Echtzeit",
+    "partOfSpeech": "noun, feminine (die Echtzeit)",
+    "pronunciation": {
+      "respelling": "EKHT-tsait",
+      "ipa": "ˈɛçtˌt͡saɪ̯t",
+      "notes": "Usually no plural."
+    },
+    "meaning": "real time",
+    "shortDefinition": "Real time."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Echtzeit, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Echtzeit"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die App zeigt die Busse in Echtzeit an.",
+      "english": "The app shows the buses in real time.",
+      "highlight": [
+        "Echtzeit"
+      ]
+    },
+    {
+      "german": "Die Daten werden in Echtzeit übertragen.",
+      "english": "The data is transmitted in real time.",
+      "highlight": [
+        "Echtzeit"
+      ]
+    }
+  ],
+  "forms": [
+    "die Echtzeit",
+    "in Echtzeit"
+  ],
+  "memoryHook": "Echtzeit: real (echt) time (Zeit).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Echtzeit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Echtzeit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Echtzeit mean?",
+      "options": [
+        "the flower",
+        "real time",
+        "the evening"
+      ],
+      "answer": "real time",
+      "explanation": "Echtzeit: real time.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Echtzeit means…",
+      "options": [
+        "in real time",
+        "on time"
+      ],
+      "answer": "in real time",
+      "explanation": "Real time.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Echt means…",
+      "options": [
+        "real, genuine",
+        "eight"
+      ],
+      "answer": "real, genuine",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Echt? in conversation means…",
+      "options": [
+        "Really?",
+        "Exactly?"
+      ],
+      "answer": "Really?",
+      "explanation": "Really.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Echtzeit is real time: in Echtzeit, Echtzeitdaten, Echtzeit-Übersetzung. Deutsche Bahn's DB Navigator app shows trains in Echtzeit, useful given German train delays. Echt means real or genuine (echtes Gold), and colloquially really: Das ist echt gut, and Echt? (really?). It's a calque of English real time. It has no plural."
+}

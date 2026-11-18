@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "angeboren",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "AN-ge-boh-ren",
+      "ipa": "ˈanɡəˌboːʁən",
+      "notes": ""
+    },
+    "meaning": "innate, congenital",
+    "shortDefinition": "Innate, congenital."
+  },
+  "sampleSentences": [
+    {
+      "german": "Der Herzfehler ist angeboren.",
+      "english": "The heart defect is congenital.",
+      "highlight": [
+        "angeboren."
+      ]
+    },
+    {
+      "german": "Ist Musikalität angeboren oder erlernt?",
+      "english": "Is musicality innate or learned?",
+      "highlight": [
+        "angeboren"
+      ]
+    }
+  ],
+  "forms": [
+    "angeborene",
+    "angeborenen",
+    "angeborenes"
+  ],
+  "memoryHook": "Angeboren: with you since you were geboren (born).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does angeboren mean?",
+      "options": [
+        "innate",
+        "the car",
+        "to learn"
+      ],
+      "answer": "innate",
+      "explanation": "angeboren: innate, congenital.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Angeboren means…",
+      "options": [
+        "innate, present from birth",
+        "offered"
+      ],
+      "answer": "innate, present from birth",
+      "explanation": "Innate.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Opposite:",
+      "options": [
+        "erworben, erlernt",
+        "geboren"
+      ],
+      "answer": "erworben, erlernt",
+      "explanation": "Opposite.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Geboren means…",
+      "options": [
+        "born",
+        "boring"
+      ],
+      "answer": "born",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein ___ Talent (innate)",
+      "answer": "angeborenes",
+      "fullAnswer": "ein angeborenes Talent",
+      "explanation": "Neuter -es.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Angeboren means innate or congenital: angeborene Fähigkeiten, ein angeborener Herzfehler, angeborene Instinkte. The opposite is erworben (acquired) or erlernt (learned). The nature versus nurture debate is in German Anlage oder Umwelt. Not to be confused with angeboten, the participle of anbieten (to offer)."
+}

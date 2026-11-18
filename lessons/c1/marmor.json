@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Marmor",
+    "partOfSpeech": "noun, masculine (der Marmor)",
+    "pronunciation": {
+      "respelling": "MAR-mor",
+      "ipa": "ˈmaʁmoːɐ̯",
+      "notes": "Usually no plural."
+    },
+    "meaning": "marble",
+    "shortDefinition": "Marble."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Marmor, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Marmor"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Boden ist aus Marmor.",
+      "english": "The floor is made of marble.",
+      "highlight": [
+        "Marmor."
+      ]
+    },
+    {
+      "german": "Die Statue ist aus weißem Marmor.",
+      "english": "The statue is made of white marble.",
+      "highlight": [
+        "Marmor."
+      ]
+    }
+  ],
+  "forms": [
+    "der Marmor",
+    "marmorn",
+    "Marmorkuchen"
+  ],
+  "memoryHook": "Marmor: stone for statues and Marmorkuchen.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Marmor",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Marmor is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Marmor mean?",
+      "options": [
+        "marble",
+        "cheap",
+        "always"
+      ],
+      "answer": "marble",
+      "explanation": "Marmor: marble.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Marmorkuchen is…",
+      "options": [
+        "marble cake",
+        "a stone cake"
+      ],
+      "answer": "marble cake",
+      "explanation": "Cake.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Murmel is…",
+      "options": [
+        "a (playing) marble",
+        "a murmur"
+      ],
+      "answer": "a (playing) marble",
+      "explanation": "Toy.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Marmorn means…",
+      "options": [
+        "marble, made of marble",
+        "mumbling"
+      ],
+      "answer": "marble, made of marble",
+      "explanation": "Adjective.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Marmor is marble, the stone: ein Marmorboden, eine Marmorstatue. Der Marmorkuchen (marble cake), with its swirls of chocolate and vanilla sponge, is a classic of German Kaffee und Kuchen. Playing marbles are die Murmeln. Germany's Walhalla memorial near Regensburg, modelled on the Parthenon, houses marble busts of famous Germans. It has no plural in normal use."
+}

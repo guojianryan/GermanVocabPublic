@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Betäubungsmittel",
+    "partOfSpeech": "noun, neuter (das Betäubungsmittel)",
+    "pronunciation": {
+      "respelling": "be-TOY-bungs-mi-tel",
+      "ipa": "bəˈtɔɪ̯bʊŋsˌmɪtl̩",
+      "notes": "Plural: die Betäubungsmittel."
+    },
+    "meaning": "narcotic; anaesthetic",
+    "shortDefinition": "Narcotic; anaesthetic."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Betäubungsmittel, plural die Betäubungsmittel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Betäubungsmittel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Betäubungsmittel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er wurde wegen Handels mit Betäubungsmitteln verurteilt.",
+      "english": "He was convicted of dealing in narcotics.",
+      "highlight": [
+        "Betäubungsmitteln"
+      ]
+    },
+    {
+      "german": "Der Zahnarzt gab ihm ein Betäubungsmittel.",
+      "english": "The dentist gave him an anaesthetic.",
+      "highlight": [
+        "Betäubungsmittel."
+      ]
+    }
+  ],
+  "forms": [
+    "das Betäubungsmittel",
+    "Betäubungsmitteln"
+  ],
+  "memoryHook": "Betäubungsmittel: a Mittel (agent) that betäubt (numbs).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Betäubungsmittel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Betäubungsmittel is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Betäubungsmittel, zwei ___",
+      "answer": "Betäubungsmittel",
+      "fullAnswer": "ein Betäubungsmittel, zwei Betäubungsmittel",
+      "explanation": "The plural is Betäubungsmittel.",
+      "acceptedAnswers": [
+        "Betaeubungsmittel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Betäubungsmittel mean?",
+      "options": [
+        "the door",
+        "to open",
+        "narcotic"
+      ],
+      "answer": "narcotic",
+      "explanation": "Betäubungsmittel: narcotic; anaesthetic.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The German drugs law is abbreviated…",
+      "options": [
+        "BtMG",
+        "StGB"
+      ],
+      "answer": "BtMG",
+      "explanation": "Law.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Betäuben means…",
+      "options": [
+        "to anaesthetise; to stun",
+        "to deafen only"
+      ],
+      "answer": "to anaesthetise; to stun",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Taub means…",
+      "options": [
+        "deaf; numb",
+        "dove"
+      ],
+      "answer": "deaf; numb",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Betäubungsmittel is a narcotic or anaesthetic. In law, the Betäubungsmittelgesetz (BtMG) regulates controlled drugs, and strong painkillers like morphine need a special BtM-Rezept. Since 2024, cannabis for adults is regulated separately and no longer under the BtMG. Betäuben means to anaesthetise or stun, from taub (deaf, numb). The plural is the same."
+}

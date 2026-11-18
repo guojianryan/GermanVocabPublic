@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Packung",
+    "partOfSpeech": "noun, feminine (die Packung)",
+    "pronunciation": {
+      "respelling": "PAK-ung",
+      "ipa": "ˈpakʊŋ",
+      "notes": "Plural: die Packungen."
+    },
+    "meaning": "packet, pack, package",
+    "shortDefinition": "Packet, pack, package."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Packung, plural die Packungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Packung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Packungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Kauf bitte eine Packung Milch.",
+      "english": "Please buy a carton of milk.",
+      "highlight": [
+        "Packung"
+      ]
+    },
+    {
+      "german": "Lesen Sie die Packungsbeilage.",
+      "english": "Read the package leaflet.",
+      "highlight": [
+        "Packungsbeilage."
+      ]
+    }
+  ],
+  "forms": [
+    "Packungen",
+    "die Packungen",
+    "die Packung",
+    "Packungsbeilage"
+  ],
+  "memoryHook": "Packung: a pack from the shop; a Paket comes by post.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Packung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Packung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Packung, zwei ___",
+      "answer": "Packungen",
+      "fullAnswer": "ein Packung, zwei Packungen",
+      "explanation": "The plural is Packungen.",
+      "acceptedAnswers": [
+        "Packungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Packung mean?",
+      "options": [
+        "the station",
+        "packet",
+        "the key"
+      ],
+      "answer": "packet",
+      "explanation": "Packung: packet, pack, package.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Packungsbeilage is…",
+      "options": [
+        "the leaflet inside medicines",
+        "a free gift"
+      ],
+      "answer": "the leaflet inside medicines",
+      "explanation": "Patient leaflet.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Packung kriegen (casually) means…",
+      "options": [
+        "to get a thrashing",
+        "to get a present"
+      ],
+      "answer": "to get a thrashing",
+      "explanation": "Heavy defeat.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "A parcel sent by post is…",
+      "options": [
+        "ein Paket",
+        "eine Packung"
+      ],
+      "answer": "ein Paket",
+      "explanation": "Paket.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Packung is a packet or pack of something you buy: eine Packung Nudeln, eine Packung Zigaretten. A parcel sent by post, however, is das Paket. Every German medicine contains a Packungsbeilage (patient leaflet), and TV ads end with the famous line Zu Risiken und Nebenwirkungen lesen Sie die Packungsbeilage. In sport slang, eine Packung kriegen means to suffer a heavy defeat. A beauty face mask is also a Packung."
+}

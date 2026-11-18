@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "falten",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "FAL-ten",
+      "ipa": "ˈfaltn̩",
+      "notes": ""
+    },
+    "meaning": "to fold",
+    "shortDefinition": "To fold."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "falt|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "falt|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "falt|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "falt|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "falt|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "falt|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gefaltet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Falte das Papier in der Mitte.",
+      "english": "Fold the paper in the middle.",
+      "highlight": [
+        "Falte"
+      ]
+    },
+    {
+      "german": "Sie faltete die Hände zum Gebet.",
+      "english": "She folded her hands in prayer.",
+      "highlight": [
+        "faltete"
+      ]
+    }
+  ],
+  "forms": [
+    "falte",
+    "faltest",
+    "faltet",
+    "falten",
+    "gefaltet",
+    "Falte",
+    "faltig",
+    "entfalten"
+  ],
+  "memoryHook": "Falten: put a Falte (fold) in something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (falten)",
+      "answer": "faltet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: faltet.",
+      "acceptedAnswers": [
+        "faltet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (falten, past)",
+      "answer": "gefaltet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gefaltet.",
+      "acceptedAnswers": [
+        "gefaltet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does falten mean?",
+      "options": [
+        "to fold",
+        "expensive",
+        "to sleep"
+      ],
+      "answer": "to fold",
+      "explanation": "falten: to fold.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Falte is…",
+      "options": [
+        "a fold; wrinkle",
+        "a trap"
+      ],
+      "answer": "a fold; wrinkle",
+      "explanation": "Falte.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Faltrad is…",
+      "options": [
+        "a folding bike",
+        "a paper wheel"
+      ],
+      "answer": "a folding bike",
+      "explanation": "Folding bike.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Entfalten means…",
+      "options": [
+        "to unfold, develop",
+        "to refold"
+      ],
+      "answer": "to unfold, develop",
+      "explanation": "entfalten.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Falten means to fold: einen Brief falten, Wäsche falten, die Hände falten. Die Falte is a fold, a crease or a wrinkle: Falten im Gesicht, die Stirn in Falten legen (to frown). Faltig means wrinkled. Das Faltrad is a folding bike, and der Faltplan a folding map. Entfalten means to unfold or develop: sich frei entfalten. Origami is called Papierfalten in German, though Origami is also used."
+}

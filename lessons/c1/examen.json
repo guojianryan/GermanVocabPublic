@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Examen",
+    "partOfSpeech": "noun, neuter (das Examen)",
+    "pronunciation": {
+      "respelling": "e-KSAA-men",
+      "ipa": "ɛˈksaːmən",
+      "notes": "Plural: die Examen."
+    },
+    "meaning": "(final) exam",
+    "shortDefinition": "(final) exam."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Examen, plural die Examen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Examen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Examen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie bereitet sich auf das Staatsexamen vor.",
+      "english": "She's preparing for the state exam.",
+      "highlight": [
+        "Staatsexamen"
+      ]
+    },
+    {
+      "german": "Nach dem Examen machte er eine Reise.",
+      "english": "After his finals he went travelling.",
+      "highlight": [
+        "Examen"
+      ]
+    }
+  ],
+  "forms": [
+    "Examina",
+    "die Examen",
+    "das Examen",
+    "Staatsexamen"
+  ],
+  "memoryHook": "Examen: a weighing (Latin examen) of knowledge.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Examen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Examen is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Examen, zwei ___",
+      "answer": "Examen",
+      "fullAnswer": "ein Examen, zwei Examen",
+      "explanation": "The plural is Examen.",
+      "acceptedAnswers": [
+        "Examen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Examen mean?",
+      "options": [
+        "tomorrow",
+        "(final) exam",
+        "never"
+      ],
+      "answer": "(final) exam",
+      "explanation": "Examen: (final) exam.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Staatsexamen is required for…",
+      "options": [
+        "law, medicine, teaching",
+        "engineering"
+      ],
+      "answer": "law, medicine, teaching",
+      "explanation": "Professions.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Examen or Examina",
+        "die Examens"
+      ],
+      "answer": "die Examen or Examina",
+      "explanation": "Plural.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday word for exam:",
+      "options": [
+        "die Prüfung",
+        "das Examen"
+      ],
+      "answer": "die Prüfung",
+      "explanation": "Everyday.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Examen is a major final exam, especially at university: das Staatsexamen, required for law, medicine, pharmacy and in many states teaching, is set by the state rather than the university. Law students face two Staatsexamen, notoriously tough. For everyday exams, Germans say die Prüfung or die Klausur. The plural is die Examen or, formally, die Examina."
+}

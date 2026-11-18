@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Klassenerhalt",
+    "partOfSpeech": "noun, masculine (der Klassenerhalt)",
+    "pronunciation": {
+      "respelling": "KLA-sen-er-halt",
+      "ipa": "ˈklasn̩ʔɛɐ̯ˌhalt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "avoiding relegation, staying up",
+    "shortDefinition": "Avoiding relegation, staying up."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Klassenerhalt, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Klassenerhalt"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Verein kämpft um den Klassenerhalt.",
+      "english": "The club is fighting to avoid relegation.",
+      "highlight": [
+        "Klassenerhalt."
+      ]
+    },
+    {
+      "german": "Mit dem Sieg ist der Klassenerhalt gesichert.",
+      "english": "With the win, staying up is secured.",
+      "highlight": [
+        "Klassenerhalt"
+      ]
+    }
+  ],
+  "forms": [
+    "der Klassenerhalt",
+    "Abstieg",
+    "Aufstieg"
+  ],
+  "memoryHook": "Klassenerhalt: keeping (erhalten) your league (Klasse).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Klassenerhalt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Klassenerhalt is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Klassenerhalt mean?",
+      "options": [
+        "avoiding relegation",
+        "to sleep",
+        "to buy"
+      ],
+      "answer": "avoiding relegation",
+      "explanation": "Klassenerhalt: avoiding relegation, staying up.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Abstieg is…",
+      "options": [
+        "relegation",
+        "a staircase"
+      ],
+      "answer": "relegation",
+      "explanation": "Relegation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Aufstieg is…",
+      "options": [
+        "promotion",
+        "relegation"
+      ],
+      "answer": "promotion",
+      "explanation": "Promotion.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Relegation in German football is…",
+      "options": [
+        "a play-off between leagues",
+        "being sent down directly"
+      ],
+      "answer": "a play-off between leagues",
+      "explanation": "Play-off.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Klassenerhalt means staying in your league, avoiding relegation: um den Klassenerhalt kämpfen. In the Bundesliga, the bottom two teams go down (der Abstieg), and the 16th-placed team plays two Relegation matches against the third-placed team from the 2. Bundesliga. Der Aufstieg is promotion, and der Abstiegskampf the relegation battle. Die Klasse here means division or league. It has no plural."
+}

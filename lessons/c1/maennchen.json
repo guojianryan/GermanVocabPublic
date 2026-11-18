@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Männchen",
+    "partOfSpeech": "noun, neuter (das Männchen)",
+    "pronunciation": {
+      "respelling": "MEN-khen",
+      "ipa": "ˈmɛnçən",
+      "notes": "Plural: die Männchen."
+    },
+    "meaning": "male (animal); little man",
+    "shortDefinition": "Male (animal); little man."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Männchen, plural die Männchen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Männchen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Männchen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Männchen hat ein buntes Gefieder.",
+      "english": "The male has colourful plumage.",
+      "highlight": [
+        "Männchen"
+      ]
+    },
+    {
+      "german": "Der Hund macht Männchen.",
+      "english": "The dog sits up and begs.",
+      "highlight": [
+        "Männchen."
+      ]
+    }
+  ],
+  "forms": [
+    "die Männchen",
+    "das Männchen",
+    "Ampelmännchen"
+  ],
+  "memoryHook": "Männchen: a male animal, or the man on the traffic light.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Männchen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Männchen is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Männchen, zwei ___",
+      "answer": "Männchen",
+      "fullAnswer": "ein Männchen, zwei Männchen",
+      "explanation": "The plural is Männchen.",
+      "acceptedAnswers": [
+        "Maennchen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Männchen mean?",
+      "options": [
+        "to open",
+        "male (animal)",
+        "slowly"
+      ],
+      "answer": "male (animal)",
+      "explanation": "Männchen: male (animal); little man.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The female animal is…",
+      "options": [
+        "das Weibchen",
+        "die Frau"
+      ],
+      "answer": "das Weibchen",
+      "explanation": "Weibchen.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Ampelmännchen is…",
+      "options": [
+        "the little man on traffic lights",
+        "a garden gnome"
+      ],
+      "answer": "the little man on traffic lights",
+      "explanation": "East German icon.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Männchen machen means…",
+      "options": [
+        "to sit up and beg (dog)",
+        "to be a coward"
+      ],
+      "answer": "to sit up and beg (dog)",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Männchen is a male animal: Männchen und Weibchen. Literally, it's a little man, so it's also used for small figures: das Ampelmännchen, the little man on pedestrian lights. The East German Ampelmännchen with his hat was saved after reunification by public campaigns and is now a Berlin icon on T-shirts and mugs. Männchen machen means to sit up and beg, said of dogs, or to bow and scrape. Neuter, like all -chen words."
+}

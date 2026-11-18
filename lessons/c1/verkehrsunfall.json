@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Verkehrsunfall",
+    "partOfSpeech": "noun, masculine (der Verkehrsunfall)",
+    "pronunciation": {
+      "respelling": "fer-KAIRS-un-fal",
+      "ipa": "fɛɐ̯ˈkeːɐ̯sˌʔʊnfal",
+      "notes": "Plural: die Verkehrsunfälle."
+    },
+    "meaning": "road accident",
+    "shortDefinition": "Road accident."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Verkehrsunfall, plural die Verkehrsunfälle.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Verkehrsunfall"
+        },
+        {
+          "label": "More than one",
+          "value": "die Verkehrsunfälle"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bei einem Verkehrsunfall wurden zwei Menschen verletzt.",
+      "english": "Two people were injured in a road accident.",
+      "highlight": [
+        "Verkehrsunfall"
+      ]
+    },
+    {
+      "german": "Die Zahl der Verkehrsunfälle sinkt.",
+      "english": "The number of road accidents is falling.",
+      "highlight": [
+        "Verkehrsunfälle"
+      ]
+    }
+  ],
+  "forms": [
+    "Verkehrsunfälle",
+    "die Verkehrsunfälle",
+    "der Verkehrsunfall"
+  ],
+  "memoryHook": "Verkehrsunfall: an Unfall in the Verkehr.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Verkehrsunfall",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Verkehrsunfall is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Verkehrsunfall, zwei ___",
+      "answer": "Verkehrsunfälle",
+      "fullAnswer": "ein Verkehrsunfall, zwei Verkehrsunfälle",
+      "explanation": "The plural is Verkehrsunfälle.",
+      "acceptedAnswers": [
+        "Verkehrsunfaelle"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Verkehrsunfall mean?",
+      "options": [
+        "never",
+        "road accident",
+        "the evening"
+      ],
+      "answer": "road accident",
+      "explanation": "Verkehrsunfall: road accident.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Emergency number in Germany:",
+      "options": [
+        "112 (ambulance/fire), 110 (police)",
+        "911"
+      ],
+      "answer": "112 (ambulance/fire), 110 (police)",
+      "explanation": "112 / 110.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Unfallflucht is…",
+      "options": [
+        "hit-and-run",
+        "accident insurance"
+      ],
+      "answer": "hit-and-run",
+      "explanation": "Fleeing the scene.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Every German car must carry…",
+      "options": [
+        "a warning triangle and first-aid kit",
+        "a fire extinguisher"
+      ],
+      "answer": "a warning triangle and first-aid kit",
+      "explanation": "Warndreieck, Verbandskasten.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Verkehrsunfall is a road accident. In Germany, after an accident you must secure the scene with das Warndreieck (warning triangle) and wear a warning vest, both compulsory in every car. Driving off is Unfallflucht, a crime. Call 110 for police and 112 for ambulance and fire. Compound: der Verkehr (traffic) + s + der Unfall (accident). Plural: die Verkehrsunfälle."
+}

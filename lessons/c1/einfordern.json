@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "einfordern",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AIN-for-dern",
+      "ipa": "ˈaɪ̯nˌfɔʁdɐn",
+      "notes": ""
+    },
+    "meaning": "to demand, call in",
+    "shortDefinition": "To demand, call in."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "forder|e … |ein"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "forder|st … |ein"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "forder|t … |ein"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "forder|n … |ein"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "forder|t … |ein"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "forder|n … |ein"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat eingefordert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Bürger fordern mehr Transparenz ein.",
+      "english": "Citizens are demanding more transparency.",
+      "highlight": [
+        "fordern",
+        "ein."
+      ]
+    },
+    {
+      "german": "Er hat sein Geld zurück eingefordert.",
+      "english": "He demanded his money back.",
+      "highlight": [
+        "eingefordert."
+      ]
+    }
+  ],
+  "forms": [
+    "fordere ein",
+    "forderst ein",
+    "fordert ein",
+    "fordern ein",
+    "eingefordert",
+    "forderte ein"
+  ],
+  "memoryHook": "Einfordern: fordern (demand) something in (ein) that is due.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ein (einfordern)",
+      "answer": "fordert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: fordert … ein.",
+      "acceptedAnswers": [
+        "fordert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (einfordern, past)",
+      "answer": "eingefordert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe eingefordert.",
+      "acceptedAnswers": [
+        "eingefordert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does einfordern mean?",
+      "options": [
+        "the evening",
+        "to demand",
+        "the car"
+      ],
+      "answer": "to demand",
+      "explanation": "einfordern: to demand, call in.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einfordern vs. fordern:",
+      "options": [
+        "claim what one is owed vs. demand",
+        "the same"
+      ],
+      "answer": "claim what one is owed vs. demand",
+      "explanation": "Nuance.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Forderung is…",
+      "options": [
+        "demand; claim (debt)",
+        "promotion"
+      ],
+      "answer": "demand; claim (debt)",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fördern means…",
+      "options": [
+        "to support, promote",
+        "to demand"
+      ],
+      "answer": "to support, promote",
+      "explanation": "Contrast.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Einfordern means to demand or call in something one is owed: Schulden einfordern, Rechte einfordern, Respekt einfordern. It's stronger than fordern in implying a rightful claim. Die Forderung is a demand or a financial claim. Don't confuse fordern with fördern (to support, promote): Fördern und Fordern was the slogan of Germany's 2005 welfare reform. Separable: forderte ein, eingefordert."
+}

@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Nahverkehr",
+    "partOfSpeech": "noun, masculine (der Nahverkehr)",
+    "pronunciation": {
+      "respelling": "NAA-fer-kair",
+      "ipa": "ˈnaːfɛɐ̯ˌkeːɐ̯",
+      "notes": "Usually no plural."
+    },
+    "meaning": "local public transport",
+    "shortDefinition": "Local public transport."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Nahverkehr, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Nahverkehr"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Mit dem Deutschlandticket fährt man im ganzen Nahverkehr.",
+      "english": "With the Deutschlandticket you can use all local transport.",
+      "highlight": [
+        "Nahverkehr."
+      ]
+    },
+    {
+      "german": "Der Nahverkehr wird ausgebaut.",
+      "english": "Local transport is being expanded.",
+      "highlight": [
+        "Nahverkehr"
+      ]
+    }
+  ],
+  "forms": [
+    "der Nahverkehr",
+    "ÖPNV",
+    "Fernverkehr"
+  ],
+  "memoryHook": "Nahverkehr: Verkehr (transport) for nah (near) distances.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Nahverkehr",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Nahverkehr is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Nahverkehr mean?",
+      "options": [
+        "never",
+        "the key",
+        "local public transport"
+      ],
+      "answer": "local public transport",
+      "explanation": "Nahverkehr: local public transport.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "ÖPNV stands for…",
+      "options": [
+        "öffentlicher Personennahverkehr",
+        "öffentliche Post"
+      ],
+      "answer": "öffentlicher Personennahverkehr",
+      "explanation": "Public transport.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Deutschlandticket covers…",
+      "options": [
+        "regional trains, buses, trams, S- and U-Bahn",
+        "ICE trains"
+      ],
+      "answer": "regional trains, buses, trams, S- and U-Bahn",
+      "explanation": "Not long-distance.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Long-distance rail is…",
+      "options": [
+        "der Fernverkehr",
+        "der Weitverkehr"
+      ],
+      "answer": "der Fernverkehr",
+      "explanation": "Fernverkehr.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Nahverkehr is local and regional public transport: buses, trams, U-Bahn, S-Bahn and regional trains, officially called ÖPNV (öffentlicher Personennahverkehr). Long-distance trains like the ICE and IC are der Fernverkehr. Since May 2023, the Deutschlandticket has allowed unlimited travel on all Nahverkehr across Germany for a monthly fee, a big success that has made regional trains much fuller. It has no plural."
+}

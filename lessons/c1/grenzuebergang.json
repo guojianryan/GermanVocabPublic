@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Grenzübergang",
+    "partOfSpeech": "noun, masculine (der Grenzübergang)",
+    "pronunciation": {
+      "respelling": "GRENTS-ü-ber-gang",
+      "ipa": "ˈɡʁɛnt͡sʔyːbɐˌɡaŋ",
+      "notes": "Plural: die Grenzübergänge."
+    },
+    "meaning": "border crossing",
+    "shortDefinition": "Border crossing."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Grenzübergang, plural die Grenzübergänge.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Grenzübergang"
+        },
+        {
+          "label": "More than one",
+          "value": "die Grenzübergänge"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Am Grenzübergang wurden die Pässe kontrolliert.",
+      "english": "Passports were checked at the border crossing.",
+      "highlight": [
+        "Grenzübergang"
+      ]
+    },
+    {
+      "german": "Checkpoint Charlie war ein berühmter Grenzübergang in Berlin.",
+      "english": "Checkpoint Charlie was a famous border crossing in Berlin.",
+      "highlight": [
+        "Grenzübergang"
+      ]
+    }
+  ],
+  "forms": [
+    "Grenzübergänge",
+    "der Grenzübergang"
+  ],
+  "memoryHook": "Grenzübergang: an Übergang (crossing) at the Grenze.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Grenzübergang",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Grenzübergang is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Grenzübergang, zwei ___",
+      "answer": "Grenzübergänge",
+      "fullAnswer": "ein Grenzübergang, zwei Grenzübergänge",
+      "explanation": "The plural is Grenzübergänge.",
+      "acceptedAnswers": [
+        "Grenzuebergaenge"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Grenzübergang mean?",
+      "options": [
+        "border crossing",
+        "the car",
+        "the door"
+      ],
+      "answer": "border crossing",
+      "explanation": "Grenzübergang: border crossing.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "On 9 November 1989, the first crossing to open was…",
+      "options": [
+        "Bornholmer Straße",
+        "Checkpoint Charlie"
+      ],
+      "answer": "Bornholmer Straße",
+      "explanation": "1989.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Grenzkontrolle is…",
+      "options": [
+        "border check",
+        "border fence"
+      ],
+      "answer": "border check",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schengen means…",
+      "options": [
+        "usually no checks at internal EU borders",
+        "visa required"
+      ],
+      "answer": "usually no checks at internal EU borders",
+      "explanation": "Schengen.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Grenzübergang is a border crossing. During the division of Germany, crossings like Checkpoint Charlie and Helmstedt-Marienborn were heavily guarded. On the night of 9 November 1989, the Bornholmer Straße crossing in Berlin was the first to open under the pressure of crowds. Within the Schengen Area there are normally no checks, although Germany reintroduced temporary checks at its land borders in 2024. Plural: die Grenzübergänge."
+}

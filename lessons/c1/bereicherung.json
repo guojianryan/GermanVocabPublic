@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bereicherung",
+    "partOfSpeech": "noun, feminine (die Bereicherung)",
+    "pronunciation": {
+      "respelling": "be-RAI-khe-rung",
+      "ipa": "bəˈʁaɪ̯çəʁʊŋ",
+      "notes": "Plural: die Bereicherungen."
+    },
+    "meaning": "enrichment; asset",
+    "shortDefinition": "Enrichment; asset."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Bereicherung, plural die Bereicherungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Bereicherung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bereicherungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie ist eine Bereicherung für das Team.",
+      "english": "She's an asset to the team.",
+      "highlight": [
+        "Bereicherung"
+      ]
+    },
+    {
+      "german": "Er wurde wegen persönlicher Bereicherung angeklagt.",
+      "english": "He was charged with personal enrichment.",
+      "highlight": [
+        "Bereicherung"
+      ]
+    }
+  ],
+  "forms": [
+    "Bereicherungen",
+    "die Bereicherung",
+    "bereichern"
+  ],
+  "memoryHook": "Bereicherung: making something reich, in a good or bad way.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bereicherung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Bereicherung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bereicherung, zwei ___",
+      "answer": "Bereicherungen",
+      "fullAnswer": "ein Bereicherung, zwei Bereicherungen",
+      "explanation": "The plural is Bereicherungen.",
+      "acceptedAnswers": [
+        "Bereicherungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bereicherung mean?",
+      "options": [
+        "quiet",
+        "enrichment",
+        "the shop"
+      ],
+      "answer": "enrichment",
+      "explanation": "Bereicherung: enrichment; asset.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Bereicherung für means…",
+      "options": [
+        "an asset to, an enrichment for",
+        "a profit from"
+      ],
+      "answer": "an asset to, an enrichment for",
+      "explanation": "Positive.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich bereichern means…",
+      "options": [
+        "to enrich oneself (often dishonestly)",
+        "to become rich by luck"
+      ],
+      "answer": "to enrich oneself (often dishonestly)",
+      "explanation": "Negative.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "From…",
+      "options": [
+        "reich (rich)",
+        "reichen (to reach)"
+      ],
+      "answer": "reich (rich)",
+      "explanation": "reich.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Bereicherung means enrichment, and it can be positive or negative. Positively, someone is eine Bereicherung, an asset: Die neue Kollegin ist eine echte Bereicherung. Negatively, sich bereichern means to enrich oneself, usually at others' expense, and in law ungerechtfertigte Bereicherung is unjust enrichment. In debates about immigration, the phrase kulturelle Bereicherung is used sincerely by some and ironically by others."
+}

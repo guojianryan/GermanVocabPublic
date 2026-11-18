@@ -1,0 +1,121 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zugehörigkeit",
+    "partOfSpeech": "noun, feminine (die Zugehörigkeit)",
+    "pronunciation": {
+      "respelling": "TSOO-ge-hö-rikh-kait",
+      "ipa": "ˈt͡suːɡəˌhøːʁɪçkaɪ̯t",
+      "notes": "Usually no plural."
+    },
+    "meaning": "belonging, membership, affiliation",
+    "shortDefinition": "Belonging, membership, affiliation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Zugehörigkeit, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Zugehörigkeit"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Gefühl der Zugehörigkeit ist wichtig.",
+      "english": "The sense of belonging is important.",
+      "highlight": [
+        "Zugehörigkeit"
+      ]
+    },
+    {
+      "german": "Die Zugehörigkeit zu einer Partei ist freiwillig.",
+      "english": "Membership of a party is voluntary.",
+      "highlight": [
+        "Zugehörigkeit"
+      ]
+    }
+  ],
+  "forms": [
+    "die Zugehörigkeit",
+    "zugehörig"
+  ],
+  "memoryHook": "Zugehörigkeit: the feeling of gehören zu (belonging to).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zugehörigkeit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Zugehörigkeit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zugehörigkeit mean?",
+      "options": [
+        "the evening",
+        "belonging",
+        "never"
+      ],
+      "answer": "belonging",
+      "explanation": "Zugehörigkeit: belonging, membership, affiliation.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zugehörig means…",
+      "options": [
+        "belonging, associated",
+        "audible"
+      ],
+      "answer": "belonging, associated",
+      "explanation": "zugehörig.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The preposition after Zugehörigkeit:",
+      "options": [
+        "zu",
+        "an"
+      ],
+      "answer": "zu",
+      "explanation": "zu einer Gruppe.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Betriebszugehörigkeit is…",
+      "options": [
+        "length of service with a company",
+        "a company badge"
+      ],
+      "answer": "length of service with a company",
+      "explanation": "Seniority.",
+      "id": "q5"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "die ___ zur EU (membership)",
+      "answer": "Zugehörigkeit",
+      "fullAnswer": "die Zugehörigkeit zur EU",
+      "explanation": "Zugehörigkeit.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Zugehörigkeit is belonging, membership or affiliation: ein Gefühl der Zugehörigkeit (a sense of belonging), die Zugehörigkeit zu einer Religion, die Parteizugehörigkeit. In employment law, die Betriebszugehörigkeit is length of service, which affects notice periods in Germany: the longer you've worked somewhere, the longer your employer's notice period. From gehören zu (to belong to), with the noun ending -keit."
+}

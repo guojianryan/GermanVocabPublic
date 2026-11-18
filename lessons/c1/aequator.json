@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Äquator",
+    "partOfSpeech": "noun, masculine (der Äquator)",
+    "pronunciation": {
+      "respelling": "ay-KVAA-tor",
+      "ipa": "ɛˈkvaːtoːɐ̯",
+      "notes": "Usually no plural."
+    },
+    "meaning": "equator",
+    "shortDefinition": "Equator."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Äquator, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Äquator"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ecuador liegt am Äquator.",
+      "english": "Ecuador lies on the equator.",
+      "highlight": [
+        "Äquator."
+      ]
+    },
+    {
+      "german": "Am Äquator ist es das ganze Jahr warm.",
+      "english": "It's warm all year round at the equator.",
+      "highlight": [
+        "Äquator"
+      ]
+    }
+  ],
+  "forms": [
+    "der Äquator",
+    "Äquators"
+  ],
+  "memoryHook": "Äquator: Latin aequator, the equaliser (of day and night).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Äquator",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Äquator is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Äquator mean?",
+      "options": [
+        "the car",
+        "equator",
+        "the weather"
+      ],
+      "answer": "equator",
+      "explanation": "Äquator: equator.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Halbkugel is…",
+      "options": [
+        "hemisphere",
+        "a half-ball game"
+      ],
+      "answer": "hemisphere",
+      "explanation": "Related.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The equator's length is about…",
+      "options": [
+        "40,000 km",
+        "4,000 km"
+      ],
+      "answer": "40,000 km",
+      "explanation": "Geography.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Äquatortaufe is…",
+      "options": [
+        "a line-crossing ceremony at sea",
+        "a baptism in Ecuador"
+      ],
+      "answer": "a line-crossing ceremony at sea",
+      "explanation": "Tradition.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Äquator is the equator, about 40,000 km long, dividing the Earth into northern and southern hemispheres (Nord- und Südhalbkugel). Sailors celebrate their first crossing with a Äquatortaufe. The word comes from Latin aequator (equaliser), because day and night are equal there. Ecuador is named after it. It has no plural."
+}

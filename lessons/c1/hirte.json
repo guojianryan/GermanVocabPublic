@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Hirte",
+    "partOfSpeech": "noun, masculine (der Hirte)",
+    "pronunciation": {
+      "respelling": "HIR-te",
+      "ipa": "ˈhɪʁtə",
+      "notes": "Plural: die Hirten."
+    },
+    "meaning": "shepherd, herdsman",
+    "shortDefinition": "Shepherd, herdsman."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Hirte, plural die Hirten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Hirte"
+        },
+        {
+          "label": "More than one",
+          "value": "die Hirten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Hirte treibt die Schafe auf die Weide.",
+      "english": "The shepherd drives the sheep to the pasture.",
+      "highlight": [
+        "Hirte"
+      ]
+    },
+    {
+      "german": "In der Weihnachtsgeschichte besuchen Hirten das Kind.",
+      "english": "In the Christmas story, shepherds visit the child.",
+      "highlight": [
+        "Hirten"
+      ]
+    }
+  ],
+  "forms": [
+    "Hirten",
+    "die Hirten",
+    "der Hirte",
+    "Hirtin"
+  ],
+  "memoryHook": "Hirte: one who herds (hüten) a Herde.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Hirte",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Hirte is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Hirte, zwei ___",
+      "answer": "Hirten",
+      "fullAnswer": "ein Hirte, zwei Hirten",
+      "explanation": "The plural is Hirten.",
+      "acceptedAnswers": [
+        "Hirten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Hirte mean?",
+      "options": [
+        "shepherd",
+        "the child",
+        "the station"
+      ],
+      "answer": "shepherd",
+      "explanation": "Hirte: shepherd, herdsman.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hirte is a weak noun:",
+      "options": [
+        "den Hirten",
+        "den Hirte"
+      ],
+      "answer": "den Hirten",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schäfer is…",
+      "options": [
+        "shepherd (of sheep)",
+        "a cupboard"
+      ],
+      "answer": "shepherd (of sheep)",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schäferhund is…",
+      "options": [
+        "German shepherd dog",
+        "a sheep"
+      ],
+      "answer": "German shepherd dog",
+      "explanation": "Dog.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Hirte (die Hirtin) is a shepherd or herdsman: Schafhirte, Kuhhirte. Der Schäfer specifically herds sheep, giving der Deutsche Schäferhund (German shepherd dog). In Christian language, der gute Hirte is Jesus, and priests are Seelenhirten (shepherds of souls). Hirten appear in the Christmas story and in nativity scenes (Krippen). It's a weak noun: den Hirten. Plural: die Hirten."
+}

@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "wohnhaft",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "VOHN-haft",
+      "ipa": "ˈvoːnhaft",
+      "notes": ""
+    },
+    "meaning": "resident (formal)",
+    "shortDefinition": "Resident (formal)."
+  },
+  "sampleSentences": [
+    {
+      "german": "Herr Meier, wohnhaft in Köln, wurde als Zeuge gehört.",
+      "english": "Mr Meier, resident in Cologne, was heard as a witness.",
+      "highlight": [
+        "wohnhaft"
+      ]
+    },
+    {
+      "german": "Sie ist in Hamburg wohnhaft.",
+      "english": "She is resident in Hamburg.",
+      "highlight": [
+        "wohnhaft."
+      ]
+    }
+  ],
+  "forms": [
+    "wohnhaft"
+  ],
+  "memoryHook": "Wohnhaft: haft (bound) to where you wohnen.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does wohnhaft mean?",
+      "options": [
+        "the job",
+        "resident (formal)",
+        "the bed"
+      ],
+      "answer": "resident (formal)",
+      "explanation": "wohnhaft: resident (formal).",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "official, bureaucratic",
+        "colloquial"
+      ],
+      "answer": "official, bureaucratic",
+      "explanation": "Official.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday equivalent:",
+      "options": [
+        "wohnt in",
+        "lebt nicht"
+      ],
+      "answer": "wohnt in",
+      "explanation": "Everyday.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Wohnsitz is…",
+      "options": [
+        "place of residence",
+        "a seat"
+      ],
+      "answer": "place of residence",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ in Berlin (resident)",
+      "answer": "wohnhaft",
+      "fullAnswer": "wohnhaft in Berlin",
+      "explanation": "wohnhaft.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Wohnhaft means resident, an official word on forms and in police and court reports: Max Muster, wohnhaft in Leipzig. In speech, you'd say er wohnt in Leipzig. Related: der Wohnsitz (place of residence), and in Germany you must register your address within two weeks of moving at the Bürgeramt (Anmeldung). The -haft suffix also appears in ernsthaft and fabelhaft."
+}

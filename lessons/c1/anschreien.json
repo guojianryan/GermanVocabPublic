@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "anschreien",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AN-shrai-en",
+      "ipa": "ˈanˌʃʁaɪ̯ən",
+      "notes": ""
+    },
+    "meaning": "to shout at, yell at",
+    "shortDefinition": "To shout at, yell at."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schrei|e … |an"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schrei|st … |an"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schrei|t … |an"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schrei|en … |an"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schrei|t … |an"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schrei|en … |an"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat angeschrien"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Schrei mich nicht so an!",
+      "english": "Don't shout at me like that!",
+      "highlight": [
+        "Schrei",
+        "an!"
+      ]
+    },
+    {
+      "german": "Der Trainer hat die Spieler in der Pause angeschrien.",
+      "english": "The coach yelled at the players at half-time.",
+      "highlight": [
+        "angeschrien."
+      ]
+    }
+  ],
+  "forms": [
+    "schreie an",
+    "schreist an",
+    "schreit an",
+    "schreien an",
+    "angeschrien",
+    "schrie an"
+  ],
+  "memoryHook": "Anschreien: schreien (shout) an (at) someone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … an (anschreien)",
+      "answer": "schreit",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schreit … an.",
+      "acceptedAnswers": [
+        "schreit"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (anschreien, past)",
+      "answer": "angeschrien",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe angeschrien.",
+      "acceptedAnswers": [
+        "angeschrien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does anschreien mean?",
+      "options": [
+        "to travel",
+        "always",
+        "to shout at"
+      ],
+      "answer": "to shout at",
+      "explanation": "anschreien: to shout at, yell at.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "schrie an, angeschrien",
+        "schreite an"
+      ],
+      "answer": "schrie an, angeschrien",
+      "explanation": "Irregular.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich anschreien means…",
+      "options": [
+        "to shout at each other",
+        "to scream alone"
+      ],
+      "answer": "to shout at each other",
+      "explanation": "Reflexive.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "anbrüllen, anfahren",
+        "flüstern"
+      ],
+      "answer": "anbrüllen, anfahren",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Anschreien means to shout or yell at someone: Er hat mich angeschrien. Sich anschreien means to shout at each other. Synonyms: anbrüllen (bellow at), anfahren (snap at), anblaffen (colloquial). Irregular like schreien: schrie an, angeschrien. Note the spelling of the participle: angeschrien, not angeschrieen."
+}

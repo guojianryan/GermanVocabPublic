@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Lobbyismus",
+    "partOfSpeech": "noun, masculine (der Lobbyismus)",
+    "pronunciation": {
+      "respelling": "lo-bi-IS-mus",
+      "ipa": "lɔbiˈɪsmʊs",
+      "notes": "Usually no plural."
+    },
+    "meaning": "lobbying",
+    "shortDefinition": "Lobbying."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Lobbyismus, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Lobbyismus"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Kritiker beklagen den wachsenden Einfluss des Lobbyismus.",
+      "english": "Critics lament the growing influence of lobbying.",
+      "highlight": [
+        "Lobbyismus."
+      ]
+    },
+    {
+      "german": "Seit 2022 gibt es ein Lobbyregister beim Bundestag.",
+      "english": "Since 2022 there has been a lobby register at the Bundestag.",
+      "highlight": [
+        "Lobbyregister"
+      ]
+    }
+  ],
+  "forms": [
+    "der Lobbyismus"
+  ],
+  "memoryHook": "Lobbyismus: working the Lobby (lobby) of parliament.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Lobbyismus",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Lobbyismus is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Lobbyismus mean?",
+      "options": [
+        "lobbying",
+        "the window",
+        "to sleep"
+      ],
+      "answer": "lobbying",
+      "explanation": "Lobbyismus: lobbying.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Lobbyist is…",
+      "options": [
+        "lobbyist",
+        "a hotel receptionist"
+      ],
+      "answer": "lobbyist",
+      "explanation": "Person.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Lobbyregister lists…",
+      "options": [
+        "interest groups contacting parliament and government",
+        "hotel guests"
+      ],
+      "answer": "interest groups contacting parliament and government",
+      "explanation": "Register.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Interessenvertretung",
+        "die Opposition"
+      ],
+      "answer": "die Interessenvertretung",
+      "explanation": "Synonym.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Lobbyismus is lobbying, interest groups trying to influence politicians. Since 2022, a Lobbyregister at the Bundestag requires lobbyists to register and disclose clients and budgets. The neutral term is die Interessenvertretung. Organisations like LobbyControl criticise undue influence, for example in the automotive and pharmaceutical sectors. Der Lobbyist is a lobbyist. It has no plural."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Grundriss",
+    "partOfSpeech": "noun, masculine (der Grundriss)",
+    "pronunciation": {
+      "respelling": "GRUNT-ris",
+      "ipa": "ˈɡʁʊntˌʁɪs",
+      "notes": "Plural: die Grundrisse."
+    },
+    "meaning": "floor plan; outline",
+    "shortDefinition": "Floor plan; outline."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Grundriss, plural die Grundrisse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Grundriss"
+        },
+        {
+          "label": "More than one",
+          "value": "die Grundrisse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Grundriss der Wohnung ist praktisch.",
+      "english": "The flat's floor plan is practical.",
+      "highlight": [
+        "Grundriss"
+      ]
+    },
+    {
+      "german": "Das Buch bietet einen Grundriss der Geschichte.",
+      "english": "The book offers an outline of history.",
+      "highlight": [
+        "Grundriss"
+      ]
+    }
+  ],
+  "forms": [
+    "Grundrisse",
+    "die Grundrisse",
+    "der Grundriss"
+  ],
+  "memoryHook": "Grundriss: the drawing (Riss) of the ground (Grund).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Grundriss",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Grundriss is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Grundriss, zwei ___",
+      "answer": "Grundrisse",
+      "fullAnswer": "ein Grundriss, zwei Grundrisse",
+      "explanation": "The plural is Grundrisse.",
+      "acceptedAnswers": [
+        "Grundrisse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Grundriss mean?",
+      "options": [
+        "floor plan",
+        "the shop",
+        "cheap"
+      ],
+      "answer": "floor plan",
+      "explanation": "Grundriss: floor plan; outline.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In a flat listing, der Grundriss shows…",
+      "options": [
+        "the floor plan",
+        "the price"
+      ],
+      "answer": "the floor plan",
+      "explanation": "Plan.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grundriss can also mean…",
+      "options": [
+        "outline, compendium (book)",
+        "basement"
+      ],
+      "answer": "outline, compendium (book)",
+      "explanation": "Outline.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Riss is…",
+      "options": [
+        "crack, tear; drawing",
+        "rice"
+      ],
+      "answer": "crack, tear; drawing",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Grundriss is a floor plan: der Grundriss der Wohnung, ein offener Grundriss (open-plan). It's always included in German flat listings, with the room count, so a 3-Zimmer-Wohnung has two bedrooms and a living room. It can also mean an outline or compendium, used in book titles: Grundriss der Philosophie. Der Riss means crack or tear, and in old usage, technical drawing. Plural: die Grundrisse."
+}

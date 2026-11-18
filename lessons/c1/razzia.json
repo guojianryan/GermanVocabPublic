@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Razzia",
+    "partOfSpeech": "noun, feminine (die Razzia)",
+    "pronunciation": {
+      "respelling": "RA-tsya",
+      "ipa": "ˈʁat͡si̯a",
+      "notes": "Plural: die Razzien."
+    },
+    "meaning": "(police) raid",
+    "shortDefinition": "(police) raid."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Razzia, plural die Razzien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Razzia"
+        },
+        {
+          "label": "More than one",
+          "value": "die Razzien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Polizei führte eine Razzia in mehreren Wohnungen durch.",
+      "english": "The police raided several flats.",
+      "highlight": [
+        "Razzia"
+      ]
+    },
+    {
+      "german": "Bei der Razzia wurden Drogen gefunden.",
+      "english": "Drugs were found in the raid.",
+      "highlight": [
+        "Razzia"
+      ]
+    }
+  ],
+  "forms": [
+    "Razzien",
+    "die Razzien",
+    "die Razzia"
+  ],
+  "memoryHook": "Razzia: a sudden police raid.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Razzia",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Razzia is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Razzia, zwei ___",
+      "answer": "Razzien",
+      "fullAnswer": "ein Razzia, zwei Razzien",
+      "explanation": "The plural is Razzien.",
+      "acceptedAnswers": [
+        "Razzien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Razzia mean?",
+      "options": [
+        "(police) raid",
+        "slowly",
+        "the child"
+      ],
+      "answer": "(police) raid",
+      "explanation": "Razzia: (police) raid.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Durchsuchung is…",
+      "options": [
+        "a search (of premises)",
+        "a scan"
+      ],
+      "answer": "a search (of premises)",
+      "explanation": "Search.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Razzien",
+        "die Razzias"
+      ],
+      "answer": "die Razzien",
+      "explanation": "Plural.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The word comes from…",
+      "options": [
+        "Arabic via Italian/French",
+        "Latin"
+      ],
+      "answer": "Arabic via Italian/French",
+      "explanation": "Origin.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Razzia is a police raid: eine Razzia gegen Clankriminalität, eine bundesweite Razzia. It's often combined with Durchsuchungen (searches) of homes and offices. In December 2022, over 3,000 officers took part in a nationwide Razzia against a Reichsbürger group accused of plotting a coup. The word comes from Arabic via French. Plural: die Razzien."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Pendler",
+    "partOfSpeech": "noun, masculine (der Pendler)",
+    "pronunciation": {
+      "respelling": "PENT-ler",
+      "ipa": "ˈpɛndlɐ",
+      "notes": "Plural: die Pendler."
+    },
+    "meaning": "commuter",
+    "shortDefinition": "Commuter."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Pendler, plural die Pendler.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Pendler"
+        },
+        {
+          "label": "More than one",
+          "value": "die Pendler"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Jeden Morgen fahren Tausende Pendler nach Frankfurt.",
+      "english": "Every morning thousands of commuters travel to Frankfurt.",
+      "highlight": [
+        "Pendler"
+      ]
+    },
+    {
+      "german": "Als Pendlerin verbringt sie zwei Stunden im Zug.",
+      "english": "As a commuter she spends two hours on the train.",
+      "highlight": [
+        "Pendlerin"
+      ]
+    }
+  ],
+  "forms": [
+    "die Pendler",
+    "der Pendler",
+    "Pendlerin",
+    "pendeln"
+  ],
+  "memoryHook": "Pendler: swinging (pendeln) back and forth like a Pendel.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Pendler",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Pendler is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Pendler, zwei ___",
+      "answer": "Pendler",
+      "fullAnswer": "ein Pendler, zwei Pendler",
+      "explanation": "The plural is Pendler.",
+      "acceptedAnswers": [
+        "Pendler"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Pendler mean?",
+      "options": [
+        "the child",
+        "cheap",
+        "commuter"
+      ],
+      "answer": "commuter",
+      "explanation": "Pendler: commuter.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pendeln means…",
+      "options": [
+        "to commute; to swing",
+        "to pedal"
+      ],
+      "answer": "to commute; to swing",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Pendlerpauschale is…",
+      "options": [
+        "a tax allowance for commuting",
+        "a train pass"
+      ],
+      "answer": "a tax allowance for commuting",
+      "explanation": "Tax.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Pendel is…",
+      "options": [
+        "pendulum",
+        "pedal"
+      ],
+      "answer": "pendulum",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Pendler (die Pendlerin) is a commuter. Around 20 million Germans commute to another municipality for work, and Munich and Frankfurt attract the most. Pendeln means to commute, like a pendulum (das Pendel) swinging back and forth. Commuters can claim the Pendlerpauschale (commuter allowance) in their tax return, a long-debated subsidy. Plural: die Pendler."
+}

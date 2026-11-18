@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mönch",
+    "partOfSpeech": "noun, masculine (der Mönch)",
+    "pronunciation": {
+      "respelling": "mönkh",
+      "ipa": "mœnç",
+      "notes": "Plural: die Mönche."
+    },
+    "meaning": "monk",
+    "shortDefinition": "Monk."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Mönch, plural die Mönche.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Mönch"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mönche"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Mönche beten mehrmals am Tag.",
+      "english": "The monks pray several times a day.",
+      "highlight": [
+        "Mönche"
+      ]
+    },
+    {
+      "german": "Das Bier wurde früher von Mönchen gebraut.",
+      "english": "The beer used to be brewed by monks.",
+      "highlight": [
+        "Mönchen"
+      ]
+    }
+  ],
+  "forms": [
+    "Mönche",
+    "die Mönche",
+    "der Mönch",
+    "Mönchen"
+  ],
+  "memoryHook": "Mönch: Munich's coat of arms shows one.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mönch",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Mönch is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mönch, zwei ___",
+      "answer": "Mönche",
+      "fullAnswer": "ein Mönch, zwei Mönche",
+      "explanation": "The plural is Mönche.",
+      "acceptedAnswers": [
+        "Moenche"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mönch mean?",
+      "options": [
+        "to sing",
+        "to learn",
+        "monk"
+      ],
+      "answer": "monk",
+      "explanation": "Mönch: monk.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "München's name comes from…",
+      "options": [
+        "monks (bei den Mönchen)",
+        "money"
+      ],
+      "answer": "monks (bei den Mönchen)",
+      "explanation": "Munich.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A female equivalent:",
+      "options": [
+        "die Nonne",
+        "die Mönchin"
+      ],
+      "answer": "die Nonne",
+      "explanation": "Nun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Martin Luther was originally…",
+      "options": [
+        "an Augustinian monk",
+        "a bishop"
+      ],
+      "answer": "an Augustinian monk",
+      "explanation": "Luther.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Mönch is a monk, living in a Kloster (monastery); a nun is die Nonne. The city of München takes its name from monks: bei den Mönchen. Its coat of arms shows a small monk, das Münchner Kindl. Martin Luther began as an Augustinian monk in Erfurt. Many famous German beers, like Andechser and Weihenstephaner, have monastic roots. The Swiss mountain Mönch stands between the Eiger and the Jungfrau. Plural: die Mönche."
+}

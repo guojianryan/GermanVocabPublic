@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "(sich) blamieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "bla-MEE-ren",
+      "ipa": "blaˈmiːʁən",
+      "notes": ""
+    },
+    "meaning": "to embarrass oneself, make a fool of oneself",
+    "shortDefinition": "To embarrass oneself, make a fool of oneself."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "blamier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "blamier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "blamier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "blamier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "blamier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "blamier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat blamiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich habe mich vor allen blamiert.",
+      "english": "I made a fool of myself in front of everyone.",
+      "highlight": [
+        "blamiert."
+      ]
+    },
+    {
+      "german": "Blamier mich bitte nicht!",
+      "english": "Please don't embarrass me!",
+      "highlight": [
+        "Blamier"
+      ]
+    }
+  ],
+  "forms": [
+    "blamiere",
+    "blamierst",
+    "blamiert",
+    "blamieren",
+    "Blamage"
+  ],
+  "memoryHook": "Sich blamieren: earn yourself a Blamage (embarrassment).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ ((sich) blamieren)",
+      "answer": "blamiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: blamiert.",
+      "acceptedAnswers": [
+        "blamiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe mich schon ___. ((sich) blamieren, past)",
+      "answer": "blamiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe mich blamiert.",
+      "acceptedAnswers": [
+        "blamiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does (sich) blamieren mean?",
+      "options": [
+        "never",
+        "to embarrass oneself",
+        "the family"
+      ],
+      "answer": "to embarrass oneself",
+      "explanation": "(sich) blamieren: to embarrass oneself, make a fool of oneself.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich blamieren means…",
+      "options": [
+        "to make a fool of oneself",
+        "to blame oneself"
+      ],
+      "answer": "to make a fool of oneself",
+      "explanation": "False friend.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "To blame someone is…",
+      "options": [
+        "jemandem die Schuld geben",
+        "jemanden blamieren"
+      ],
+      "answer": "jemandem die Schuld geben",
+      "explanation": "Blame.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Blamage is…",
+      "options": [
+        "embarrassment, disgrace",
+        "blame"
+      ],
+      "answer": "embarrassment, disgrace",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Sich blamieren means to embarrass oneself or make a fool of oneself: sich bis auf die Knochen blamieren (to disgrace oneself completely). Jemanden blamieren means to embarrass someone. It's a false friend: to blame is jemandem die Schuld geben. Die Blamage (pronounced like French) is an embarrassment: Das war eine Blamage! Perfect without ge-: hat sich blamiert."
+}

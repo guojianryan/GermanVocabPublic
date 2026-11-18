@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "schmieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHMEE-ren",
+      "ipa": "ˈʃmiːʁən",
+      "notes": ""
+    },
+    "meaning": "to spread; to grease; to bribe; to scrawl",
+    "shortDefinition": "To spread; to grease; to bribe; to scrawl."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schmier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schmier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schmier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schmier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schmier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schmier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geschmiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie schmiert Butter aufs Brot.",
+      "english": "She spreads butter on the bread.",
+      "highlight": [
+        "schmiert"
+      ]
+    },
+    {
+      "german": "Der Beamte wurde geschmiert.",
+      "english": "The official was bribed.",
+      "highlight": [
+        "geschmiert."
+      ]
+    }
+  ],
+  "forms": [
+    "schmiere",
+    "schmierst",
+    "schmiert",
+    "schmieren",
+    "geschmiert",
+    "Schmiergeld"
+  ],
+  "memoryHook": "Schmieren: spread Schmiere (grease).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (schmieren)",
+      "answer": "schmiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schmiert.",
+      "acceptedAnswers": [
+        "schmiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (schmieren, past)",
+      "answer": "geschmiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geschmiert.",
+      "acceptedAnswers": [
+        "geschmiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does schmieren mean?",
+      "options": [
+        "to spread",
+        "to wait",
+        "expensive"
+      ],
+      "answer": "to spread",
+      "explanation": "schmieren: to spread; to grease; to bribe; to scrawl.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Schmiergeld is…",
+      "options": [
+        "bribe money",
+        "grease"
+      ],
+      "answer": "bribe money",
+      "explanation": "Bribe.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wie geschmiert means…",
+      "options": [
+        "like clockwork, smoothly",
+        "messily"
+      ],
+      "answer": "like clockwork, smoothly",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schmiererei is…",
+      "options": [
+        "graffiti, scrawl",
+        "lubricant"
+      ],
+      "answer": "graffiti, scrawl",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Schmieren has many uses: to spread (Butter aufs Brot schmieren; ein Schmalzbrot), to grease or lubricate (die Kette schmieren), to scrawl or write messily, and to bribe (jemanden schmieren; das Schmiergeld). Es läuft wie geschmiert means it runs like clockwork. Jemandem eine schmieren (colloquial) means to slap someone. Regular: schmierte, geschmiert."
+}

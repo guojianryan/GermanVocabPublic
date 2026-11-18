@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kunstgeschichte",
+    "partOfSpeech": "noun, feminine (die Kunstgeschichte)",
+    "pronunciation": {
+      "respelling": "KUNST-ge-shikh-te",
+      "ipa": "ˈkʊnstɡəˌʃɪçtə",
+      "notes": "Usually no plural."
+    },
+    "meaning": "art history",
+    "shortDefinition": "Art history."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kunstgeschichte, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kunstgeschichte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie studiert Kunstgeschichte in München.",
+      "english": "She studies art history in Munich.",
+      "highlight": [
+        "Kunstgeschichte"
+      ]
+    },
+    {
+      "german": "Das Bild ist ein Meilenstein der Kunstgeschichte.",
+      "english": "The painting is a milestone in art history.",
+      "highlight": [
+        "Kunstgeschichte."
+      ]
+    }
+  ],
+  "forms": [
+    "die Kunstgeschichte",
+    "Kunsthistoriker"
+  ],
+  "memoryHook": "Kunstgeschichte: the Geschichte (history) of Kunst (art).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kunstgeschichte",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kunstgeschichte is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kunstgeschichte mean?",
+      "options": [
+        "never",
+        "art history",
+        "tomorrow"
+      ],
+      "answer": "art history",
+      "explanation": "Kunstgeschichte: art history.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kunsthistoriker is…",
+      "options": [
+        "an art historian",
+        "an art dealer"
+      ],
+      "answer": "an art historian",
+      "explanation": "Person.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kunst is…",
+      "options": [
+        "art; skill",
+        "a coast"
+      ],
+      "answer": "art; skill",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Art history as an academic field was largely founded in…",
+      "options": [
+        "German-speaking countries",
+        "Spain"
+      ],
+      "answer": "German-speaking countries",
+      "explanation": "Origins.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Kunstgeschichte is art history, a discipline largely founded in the German-speaking world, from Johann Joachim Winckelmann in the 18th century to Aby Warburg and Erwin Panofsky. Der Kunsthistoriker (die Kunsthistorikerin) is an art historian. Die Kunst means art and skill: Das ist keine Kunst (that's no great feat). Berlin's Museumsinsel is a UNESCO World Heritage Site. It has no plural."
+}

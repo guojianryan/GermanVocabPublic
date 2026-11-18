@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "einrahmen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AIN-raa-men",
+      "ipa": "ˈaɪ̯nˌʁaːmən",
+      "notes": ""
+    },
+    "meaning": "to frame",
+    "shortDefinition": "To frame."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "rahm|e … |ein"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "rahm|st … |ein"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "rahm|t … |ein"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "rahm|en … |ein"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "rahm|t … |ein"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "rahm|en … |ein"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat eingerahmt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir lassen das Foto einrahmen.",
+      "english": "We're having the photo framed.",
+      "highlight": [
+        "einrahmen."
+      ]
+    },
+    {
+      "german": "Der Garten ist von Hecken eingerahmt.",
+      "english": "The garden is framed by hedges.",
+      "highlight": [
+        "eingerahmt."
+      ]
+    }
+  ],
+  "forms": [
+    "rahme ein",
+    "rahmst ein",
+    "rahmt ein",
+    "rahmen ein",
+    "eingerahmt",
+    "rahmte ein"
+  ],
+  "memoryHook": "Einrahmen: put in a Rahmen (frame).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ein (einrahmen)",
+      "answer": "rahmt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: rahmt … ein.",
+      "acceptedAnswers": [
+        "rahmt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (einrahmen, past)",
+      "answer": "eingerahmt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe eingerahmt.",
+      "acceptedAnswers": [
+        "eingerahmt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does einrahmen mean?",
+      "options": [
+        "the bill",
+        "the weather",
+        "to frame"
+      ],
+      "answer": "to frame",
+      "explanation": "einrahmen: to frame.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Rahmen is…",
+      "options": [
+        "frame; framework",
+        "cream"
+      ],
+      "answer": "frame; framework",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das kannst du dir einrahmen lassen! (ironic) means…",
+      "options": [
+        "that's not worth much!",
+        "that's beautiful!"
+      ],
+      "answer": "that's not worth much!",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "umrahmen, umgeben",
+        "aufbrechen"
+      ],
+      "answer": "umrahmen, umgeben",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Einrahmen means to frame: ein Bild einrahmen lassen. Figuratively, something can be framed by its surroundings: von Bergen eingerahmt. Ironically, Das kannst du dir einrahmen lassen means it's worthless. Der Rahmen is a frame, and also a framework: im Rahmen des Projekts (as part of the project). Synonym: umrahmen. Regular: rahmte ein, eingerahmt."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Leibwächter",
+    "partOfSpeech": "noun, masculine (der Leibwächter)",
+    "pronunciation": {
+      "respelling": "LAIP-vekh-ter",
+      "ipa": "ˈlaɪ̯pˌvɛçtɐ",
+      "notes": "Plural: die Leibwächter."
+    },
+    "meaning": "bodyguard",
+    "shortDefinition": "Bodyguard."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Leibwächter, plural die Leibwächter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Leibwächter"
+        },
+        {
+          "label": "More than one",
+          "value": "die Leibwächter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Minister kam mit zwei Leibwächtern.",
+      "english": "The minister came with two bodyguards.",
+      "highlight": [
+        "Leibwächtern."
+      ]
+    },
+    {
+      "german": "Sie arbeitet als Leibwächterin für Prominente.",
+      "english": "She works as a bodyguard for celebrities.",
+      "highlight": [
+        "Leibwächterin"
+      ]
+    }
+  ],
+  "forms": [
+    "Leibwächterin",
+    "der Leibwächter"
+  ],
+  "memoryHook": "Leibwächter: someone who bewacht (guards) your Leib (body).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Leibwächter",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Leibwächter is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Leibwächter, zwei ___",
+      "answer": "Leibwächter",
+      "fullAnswer": "ein Leibwächter, zwei Leibwächter",
+      "explanation": "The plural is Leibwächter.",
+      "acceptedAnswers": [
+        "Leibwaechter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Leibwächter mean?",
+      "options": [
+        "bodyguard",
+        "the evening",
+        "to sing"
+      ],
+      "answer": "bodyguard",
+      "explanation": "Leibwächter: bodyguard.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Personenschützer is…",
+      "options": [
+        "bodyguard (official term)",
+        "a security guard"
+      ],
+      "answer": "bodyguard (official term)",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Leib is…",
+      "options": [
+        "body (elevated)",
+        "love"
+      ],
+      "answer": "body (elevated)",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Leibgarde is…",
+      "options": [
+        "personal guard (historical)",
+        "a garden"
+      ],
+      "answer": "personal guard (historical)",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Leibwächter (die Leibwächterin) is a bodyguard. In official German, especially for the federal police (BKA) protecting politicians, the term is der Personenschützer. Der Leib is an elevated word for body: Leib und Seele (body and soul), mit Leib und Seele (wholeheartedly). Historically, rulers had a Leibgarde. The plural is the same."
+}

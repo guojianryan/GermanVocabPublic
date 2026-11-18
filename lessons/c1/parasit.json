@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Parasit",
+    "partOfSpeech": "noun, masculine (der Parasit)",
+    "pronunciation": {
+      "respelling": "pa-ra-ZEET",
+      "ipa": "paʁaˈziːt",
+      "notes": "Plural: die Parasiten."
+    },
+    "meaning": "parasite",
+    "shortDefinition": "Parasite."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Parasit, plural die Parasiten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Parasit"
+        },
+        {
+          "label": "More than one",
+          "value": "die Parasiten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Zecken sind Parasiten.",
+      "english": "Ticks are parasites.",
+      "highlight": [
+        "Parasiten."
+      ]
+    },
+    {
+      "german": "Der Film Parasite gewann vier Oscars.",
+      "english": "The film Parasite won four Oscars.",
+      "highlight": [
+        "Parasite"
+      ]
+    }
+  ],
+  "forms": [
+    "Parasiten",
+    "die Parasiten",
+    "der Parasit",
+    "parasitär"
+  ],
+  "memoryHook": "Parasit: one who eats beside (para) another's food (sitos).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Parasit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Parasit is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Parasit, zwei ___",
+      "answer": "Parasiten",
+      "fullAnswer": "ein Parasit, zwei Parasiten",
+      "explanation": "The plural is Parasiten.",
+      "acceptedAnswers": [
+        "Parasiten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Parasit mean?",
+      "options": [
+        "to help",
+        "never",
+        "parasite"
+      ],
+      "answer": "parasite",
+      "explanation": "Parasit: parasite.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Parasit is a weak noun:",
+      "options": [
+        "den Parasiten",
+        "den Parasit"
+      ],
+      "answer": "den Parasiten",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schmarotzer is…",
+      "options": [
+        "a sponger, parasite (also for people)",
+        "a smoker"
+      ],
+      "answer": "a sponger, parasite (also for people)",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Parasitär means…",
+      "options": [
+        "parasitic",
+        "paradise-like"
+      ],
+      "answer": "parasitic",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Parasit is a parasite: Zecken, Flöhe und Würmer sind Parasiten. Applied to people, it's an insult; the Nazis used Parasit and Schmarotzer to dehumanise Jews, so such language is avoided in German public debate today. In nature, der Schmarotzer is also used for parasitic plants and animals. It's a weak noun: den Parasiten. Parasitär means parasitic. Plural: die Parasiten."
+}

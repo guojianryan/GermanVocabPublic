@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ziffer",
+    "partOfSpeech": "noun, feminine (die Ziffer)",
+    "pronunciation": {
+      "respelling": "TSI-fer",
+      "ipa": "ˈt͡sɪfɐ",
+      "notes": "Plural: die Ziffern."
+    },
+    "meaning": "digit, numeral; clause (in a text)",
+    "shortDefinition": "Digit, numeral; clause (in a text)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Ziffer, plural die Ziffern.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Ziffer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ziffern"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die PIN hat vier Ziffern.",
+      "english": "The PIN has four digits.",
+      "highlight": [
+        "Ziffern."
+      ]
+    },
+    {
+      "german": "Siehe Ziffer 3 des Vertrags.",
+      "english": "See clause 3 of the contract.",
+      "highlight": [
+        "Ziffer"
+      ]
+    }
+  ],
+  "forms": [
+    "Ziffern",
+    "die Ziffern",
+    "die Ziffer",
+    "Zifferblatt"
+  ],
+  "memoryHook": "Ziffer: a single digit, from Arabic sifr (zero).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ziffer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Ziffer is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Ziffer, zwei ___",
+      "answer": "Ziffern",
+      "fullAnswer": "ein Ziffer, zwei Ziffern",
+      "explanation": "The plural is Ziffern.",
+      "acceptedAnswers": [
+        "Ziffern"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ziffer mean?",
+      "options": [
+        "the key",
+        "expensive",
+        "digit"
+      ],
+      "answer": "digit",
+      "explanation": "Ziffer: digit, numeral; clause (in a text).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ziffer vs. Zahl:",
+      "options": [
+        "Ziffer = digit (0–9), Zahl = number",
+        "the same"
+      ],
+      "answer": "Ziffer = digit (0–9), Zahl = number",
+      "explanation": "Digit.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Zifferblatt is…",
+      "options": [
+        "a clock face, dial",
+        "a number sheet"
+      ],
+      "answer": "a clock face, dial",
+      "explanation": "Clock.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Römische Ziffern are…",
+      "options": [
+        "Roman numerals",
+        "Roman coins"
+      ],
+      "answer": "Roman numerals",
+      "explanation": "Roman.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Ziffer is a digit or numeral: die Ziffer 7, eine fünfstellige Zahl hat fünf Ziffern, römische Ziffern. Die Zahl is the number itself. In legal texts, Ziffer means a numbered clause or point: gemäß Ziffer 4. Das Zifferblatt is a clock face. The word comes from Arabic sifr (zero, empty), which also gave English cipher. Plural: die Ziffern."
+}

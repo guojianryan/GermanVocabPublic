@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verdreifachen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-DRAI-fa-khen",
+      "ipa": "fɛɐ̯ˈdʁaɪ̯faxn̩",
+      "notes": ""
+    },
+    "meaning": "to triple",
+    "shortDefinition": "To triple."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verdreifach|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verdreifach|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verdreifach|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verdreifach|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verdreifach|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verdreifach|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verdreifacht"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Firma hat ihren Umsatz verdreifacht.",
+      "english": "The company has tripled its turnover.",
+      "highlight": [
+        "verdreifacht."
+      ]
+    },
+    {
+      "german": "Die Preise haben sich verdreifacht.",
+      "english": "Prices have tripled.",
+      "highlight": [
+        "verdreifacht."
+      ]
+    }
+  ],
+  "forms": [
+    "verdreifache",
+    "verdreifachst",
+    "verdreifacht",
+    "verdreifachen"
+  ],
+  "memoryHook": "Verdreifachen: make something dreifach (threefold).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verdreifachen)",
+      "answer": "verdreifacht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verdreifacht.",
+      "acceptedAnswers": [
+        "verdreifacht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verdreifachen, past)",
+      "answer": "verdreifacht",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verdreifacht.",
+      "acceptedAnswers": [
+        "verdreifacht"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verdreifachen mean?",
+      "options": [
+        "the station",
+        "the window",
+        "to triple"
+      ],
+      "answer": "to triple",
+      "explanation": "verdreifachen: to triple.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verdoppeln means…",
+      "options": [
+        "to double",
+        "to triple"
+      ],
+      "answer": "to double",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Dreifach means…",
+      "options": [
+        "triple, threefold",
+        "three times only"
+      ],
+      "answer": "triple, threefold",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich verdreifachen means…",
+      "options": [
+        "to triple (increase threefold)",
+        "to divide in three"
+      ],
+      "answer": "to triple (increase threefold)",
+      "explanation": "Reflexive.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verdreifachen means to triple: den Gewinn verdreifachen, and sich verdreifachen means to increase threefold: Die Zahl der Fälle hat sich verdreifacht. Similar verbs: verdoppeln (double), vervierfachen (quadruple), vervielfachen (multiply). Dreifach means triple: in dreifacher Ausfertigung (in triplicate). Regular: verdreifachte, verdreifacht."
+}

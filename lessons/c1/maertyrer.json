@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Märtyrer",
+    "partOfSpeech": "noun, masculine (der Märtyrer)",
+    "pronunciation": {
+      "respelling": "MER-tü-rer",
+      "ipa": "ˈmɛʁtyʁɐ",
+      "notes": "Plural: die Märtyrer."
+    },
+    "meaning": "martyr",
+    "shortDefinition": "Martyr."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Märtyrer, plural die Märtyrer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Märtyrer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Märtyrer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er wurde als Märtyrer verehrt.",
+      "english": "He was venerated as a martyr.",
+      "highlight": [
+        "Märtyrer"
+      ]
+    },
+    {
+      "german": "Spiel nicht den Märtyrer!",
+      "english": "Don't play the martyr!",
+      "highlight": [
+        "Märtyrer!"
+      ]
+    }
+  ],
+  "forms": [
+    "die Märtyrer",
+    "der Märtyrer",
+    "Märtyrerin",
+    "Martyrium"
+  ],
+  "memoryHook": "Märtyrer: a witness (Greek martys) who suffers for faith.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Märtyrer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Märtyrer is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Märtyrer, zwei ___",
+      "answer": "Märtyrer",
+      "fullAnswer": "ein Märtyrer, zwei Märtyrer",
+      "explanation": "The plural is Märtyrer.",
+      "acceptedAnswers": [
+        "Maertyrer"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Märtyrer mean?",
+      "options": [
+        "expensive",
+        "to learn",
+        "martyr"
+      ],
+      "answer": "martyr",
+      "explanation": "Märtyrer: martyr.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Martyrium is…",
+      "options": [
+        "martyrdom; ordeal",
+        "a museum"
+      ],
+      "answer": "martyrdom; ordeal",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Märtyrer spielen means…",
+      "options": [
+        "to play the martyr",
+        "to act in a passion play"
+      ],
+      "answer": "to play the martyr",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Märtyrerin",
+        "die Märtyre"
+      ],
+      "answer": "die Märtyrerin",
+      "explanation": "-in.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Märtyrer (die Märtyrerin) is a martyr, someone who suffers or dies for their faith or convictions. Dietrich Bonhoeffer, the Protestant pastor executed by the Nazis in 1945, is honoured as a modern martyr. Colloquially, den Märtyrer spielen means to play the martyr. Das Martyrium is martyrdom and also an ordeal. From Greek martys (witness). Plural: die Märtyrer."
+}

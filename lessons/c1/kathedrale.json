@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kathedrale",
+    "partOfSpeech": "noun, feminine (die Kathedrale)",
+    "pronunciation": {
+      "respelling": "ka-te-DRAA-le",
+      "ipa": "kateˈdʁaːlə",
+      "notes": "Plural: die Kathedralen."
+    },
+    "meaning": "cathedral",
+    "shortDefinition": "Cathedral."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kathedrale, plural die Kathedralen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kathedrale"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kathedralen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Kathedrale ist im gotischen Stil gebaut.",
+      "english": "The cathedral is built in the Gothic style.",
+      "highlight": [
+        "Kathedrale"
+      ]
+    },
+    {
+      "german": "Notre-Dame ist eine berühmte Kathedrale.",
+      "english": "Notre-Dame is a famous cathedral.",
+      "highlight": [
+        "Kathedrale."
+      ]
+    }
+  ],
+  "forms": [
+    "Kathedralen",
+    "die Kathedralen",
+    "die Kathedrale"
+  ],
+  "memoryHook": "Kathedrale: the church with the bishop's chair (cathedra).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kathedrale",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kathedrale is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kathedrale, zwei ___",
+      "answer": "Kathedralen",
+      "fullAnswer": "ein Kathedrale, zwei Kathedralen",
+      "explanation": "The plural is Kathedralen.",
+      "acceptedAnswers": [
+        "Kathedralen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kathedrale mean?",
+      "options": [
+        "to travel",
+        "never",
+        "cathedral"
+      ],
+      "answer": "cathedral",
+      "explanation": "Kathedrale: cathedral.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Germany, a cathedral is usually called…",
+      "options": [
+        "der Dom or das Münster",
+        "die Kathedrale only"
+      ],
+      "answer": "der Dom or das Münster",
+      "explanation": "Dom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kölner Dom took…",
+      "options": [
+        "over 600 years to complete (1248–1880)",
+        "50 years"
+      ],
+      "answer": "over 600 years to complete (1248–1880)",
+      "explanation": "Cologne.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Strictly, a Kathedrale is…",
+      "options": [
+        "a bishop's church",
+        "any big church"
+      ],
+      "answer": "a bishop's church",
+      "explanation": "Bishop.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kathedrale is a cathedral, strictly a church with a bishop's seat (Latin cathedra). In Germany, cathedrals are usually called der Dom (Kölner Dom, Berliner Dom, which isn't even a bishop's seat) or das Münster (Ulmer Münster, with the world's tallest church spire, 161.5 metres). Kathedrale is used more for foreign cathedrals: die Kathedrale von Chartres. Plural: die Kathedralen."
+}

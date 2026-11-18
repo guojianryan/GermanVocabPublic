@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sommerpause",
+    "partOfSpeech": "noun, feminine (die Sommerpause)",
+    "pronunciation": {
+      "respelling": "ZO-mer-pau-ze",
+      "ipa": "ˈzɔmɐˌpaʊ̯zə",
+      "notes": "Plural: die Sommerpausen."
+    },
+    "meaning": "summer break, recess",
+    "shortDefinition": "Summer break, recess."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Sommerpause, plural die Sommerpausen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Sommerpause"
+        },
+        {
+          "label": "More than one",
+          "value": "die Sommerpausen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Bundestag geht in die Sommerpause.",
+      "english": "The Bundestag is going into summer recess.",
+      "highlight": [
+        "Sommerpause."
+      ]
+    },
+    {
+      "german": "Nach der Sommerpause startet die neue Staffel.",
+      "english": "After the summer break, the new season starts.",
+      "highlight": [
+        "Sommerpause"
+      ]
+    }
+  ],
+  "forms": [
+    "Sommerpausen",
+    "die Sommerpause"
+  ],
+  "memoryHook": "Sommerpause: a Pause in the Sommer.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sommerpause",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Sommerpause is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Sommerpause, zwei ___",
+      "answer": "Sommerpausen",
+      "fullAnswer": "ein Sommerpause, zwei Sommerpausen",
+      "explanation": "The plural is Sommerpausen.",
+      "acceptedAnswers": [
+        "Sommerpausen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sommerpause mean?",
+      "options": [
+        "never",
+        "the job",
+        "summer break"
+      ],
+      "answer": "summer break",
+      "explanation": "Sommerpause: summer break, recess.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Sommerloch is…",
+      "options": [
+        "the silly season (slow news)",
+        "a summer hole in the road"
+      ],
+      "answer": "the silly season (slow news)",
+      "explanation": "Silly season.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Pause is…",
+      "options": [
+        "break, pause",
+        "price"
+      ],
+      "answer": "break, pause",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Sommerferien are…",
+      "options": [
+        "school summer holidays",
+        "a summer job"
+      ],
+      "answer": "school summer holidays",
+      "explanation": "Holidays.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Sommerpause is the summer break or recess: die parlamentarische Sommerpause, the Bundesliga's Sommerpause. During it, politicians give a traditional Sommerinterview on TV. Slow news days are called das Sommerloch (summer hole), when odd stories, like escaped animals, fill the papers. School summer holidays (Sommerferien) are staggered by state. Plural: die Sommerpausen."
+}

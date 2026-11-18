@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verantworten",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-ANT-vor-ten",
+      "ipa": "fɛɐ̯ˈʔantvɔʁtn̩",
+      "notes": ""
+    },
+    "meaning": "to take responsibility for, answer for",
+    "shortDefinition": "To take responsibility for, answer for."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verantwort|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verantwort|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verantwort|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verantwort|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verantwort|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verantwort|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verantwortet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das kann ich nicht verantworten.",
+      "english": "I can't take responsibility for that.",
+      "highlight": [
+        "verantworten."
+      ]
+    },
+    {
+      "german": "Er muss sich vor Gericht verantworten.",
+      "english": "He has to answer to the court.",
+      "highlight": [
+        "verantworten."
+      ]
+    }
+  ],
+  "forms": [
+    "verantworte",
+    "verantwortest",
+    "verantwortet",
+    "verantworten",
+    "Verantwortung",
+    "verantwortlich"
+  ],
+  "memoryHook": "Verantworten: give an Antwort (answer) for what you've done.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verantworten)",
+      "answer": "verantwortet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verantwortet.",
+      "acceptedAnswers": [
+        "verantwortet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verantworten, past)",
+      "answer": "verantwortet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verantwortet.",
+      "acceptedAnswers": [
+        "verantwortet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verantworten mean?",
+      "options": [
+        "to take responsibility for",
+        "to buy",
+        "the family"
+      ],
+      "answer": "to take responsibility for",
+      "explanation": "verantworten: to take responsibility for, answer for.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich vor Gericht verantworten means…",
+      "options": [
+        "to stand trial",
+        "to defend someone"
+      ],
+      "answer": "to stand trial",
+      "explanation": "Answer for.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Verantwortung is…",
+      "options": [
+        "responsibility",
+        "the answer"
+      ],
+      "answer": "responsibility",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verantwortlich means…",
+      "options": [
+        "responsible",
+        "answerable only to God"
+      ],
+      "answer": "responsible",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verantworten means to take responsibility for or answer for: eine Entscheidung verantworten. Das kann ich nicht verantworten means I can't justify that. Sich verantworten müssen means to have to answer for something: sich vor Gericht verantworten (to stand trial). Die Verantwortung is responsibility: Verantwortung übernehmen, and verantwortlich means responsible. It's built around die Antwort (answer): being answerable."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vermächtnis",
+    "partOfSpeech": "noun, neuter (das Vermächtnis)",
+    "pronunciation": {
+      "respelling": "fer-MEKHT-nis",
+      "ipa": "fɛɐ̯ˈmɛçtnɪs",
+      "notes": "Plural: die Vermächtnisse."
+    },
+    "meaning": "legacy; bequest",
+    "shortDefinition": "Legacy; bequest."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Vermächtnis, plural die Vermächtnisse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Vermächtnis"
+        },
+        {
+          "label": "More than one",
+          "value": "die Vermächtnisse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das ist das Vermächtnis des großen Künstlers.",
+      "english": "That's the great artist's legacy.",
+      "highlight": [
+        "Vermächtnis"
+      ]
+    },
+    {
+      "german": "Im Testament steht ein Vermächtnis für die Nichte.",
+      "english": "The will contains a bequest for the niece.",
+      "highlight": [
+        "Vermächtnis"
+      ]
+    }
+  ],
+  "forms": [
+    "Vermächtnisse",
+    "das Vermächtnis",
+    "vermachen"
+  ],
+  "memoryHook": "Vermächtnis: what someone vermacht (leaves) behind.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vermächtnis",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Vermächtnis is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Vermächtnis, zwei ___",
+      "answer": "Vermächtnisse",
+      "fullAnswer": "ein Vermächtnis, zwei Vermächtnisse",
+      "explanation": "The plural is Vermächtnisse.",
+      "acceptedAnswers": [
+        "Vermaechtnisse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vermächtnis mean?",
+      "options": [
+        "legacy",
+        "hot",
+        "the bread"
+      ],
+      "answer": "legacy",
+      "explanation": "Vermächtnis: legacy; bequest.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Vermächtnis (law) is…",
+      "options": [
+        "a bequest (specific item)",
+        "the entire estate"
+      ],
+      "answer": "a bequest (specific item)",
+      "explanation": "Law.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Erbe is…",
+      "options": [
+        "inheritance; heritage",
+        "a pea"
+      ],
+      "answer": "inheritance; heritage",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vermachen means…",
+      "options": [
+        "to bequeath",
+        "to make"
+      ],
+      "answer": "to bequeath",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Vermächtnis is a legacy, figuratively (das politische Vermächtnis eines Kanzlers) and, in law, a bequest: a specific item left to someone in a will, unlike das Erbe (the inheritance as a whole). The verb vermachen means to bequeath: Sie vermachte ihr Haus der Stadt. Plural: die Vermächtnisse."
+}

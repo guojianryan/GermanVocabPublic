@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Tinte",
+    "partOfSpeech": "noun, feminine (die Tinte)",
+    "pronunciation": {
+      "respelling": "TIN-te",
+      "ipa": "ˈtɪntə",
+      "notes": "Plural: die Tinten."
+    },
+    "meaning": "ink",
+    "shortDefinition": "Ink."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Tinte, plural die Tinten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Tinte"
+        },
+        {
+          "label": "More than one",
+          "value": "die Tinten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Tinte ist leer.",
+      "english": "The ink has run out.",
+      "highlight": [
+        "Tinte"
+      ]
+    },
+    {
+      "german": "Jetzt sitzen wir ganz schön in der Tinte.",
+      "english": "Now we're really in a fix.",
+      "highlight": [
+        "Tinte."
+      ]
+    }
+  ],
+  "forms": [
+    "Tinten",
+    "die Tinten",
+    "die Tinte"
+  ],
+  "memoryHook": "Tinte: dyed (Latin tincta) liquid for writing.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Tinte",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Tinte is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Tinte, zwei ___",
+      "answer": "Tinten",
+      "fullAnswer": "ein Tinte, zwei Tinten",
+      "explanation": "The plural is Tinten.",
+      "acceptedAnswers": [
+        "Tinten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Tinte mean?",
+      "options": [
+        "the job",
+        "to travel",
+        "ink"
+      ],
+      "answer": "ink",
+      "explanation": "Tinte: ink.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In der Tinte sitzen means…",
+      "options": [
+        "to be in a fix",
+        "to write a lot"
+      ],
+      "answer": "to be in a fix",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Tintenfisch is…",
+      "options": [
+        "squid, octopus",
+        "a fountain pen"
+      ],
+      "answer": "squid, octopus",
+      "explanation": "Squid.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Füller is…",
+      "options": [
+        "fountain pen",
+        "filling"
+      ],
+      "answer": "fountain pen",
+      "explanation": "Pen.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Tinte is ink: die Tintenpatrone (ink cartridge), der Tintenstrahldrucker (inkjet printer). German primary school children traditionally learn to write with a Füller (fountain pen) and blue ink, using a Tintenkiller to erase. Idiom: in der Tinte sitzen means to be in a fix. Der Tintenfisch (ink fish) is a squid or octopus. Plural: die Tinten."
+}

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Takt",
+    "partOfSpeech": "noun, masculine (der Takt)",
+    "pronunciation": {
+      "respelling": "takt",
+      "ipa": "takt",
+      "notes": "Plural: die Takte."
+    },
+    "meaning": "beat, bar (music); tact; rhythm",
+    "shortDefinition": "Beat, bar (music); tact; rhythm."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Takt, plural die Takte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Takt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Takte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er klopft im Takt.",
+      "english": "He's tapping in time.",
+      "highlight": [
+        "Takt."
+      ]
+    },
+    {
+      "german": "Das war ein Mangel an Takt.",
+      "english": "That was a lack of tact.",
+      "highlight": [
+        "Takt."
+      ]
+    }
+  ],
+  "forms": [
+    "Takte",
+    "die Takte",
+    "der Takt",
+    "taktvoll",
+    "taktlos"
+  ],
+  "memoryHook": "Takt: keep the beat, and keep your manners.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Takt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Takt is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Takt, zwei ___",
+      "answer": "Takte",
+      "fullAnswer": "ein Takt, zwei Takte",
+      "explanation": "The plural is Takte.",
+      "acceptedAnswers": [
+        "Takte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Takt mean?",
+      "options": [
+        "beat",
+        "to open",
+        "tomorrow"
+      ],
+      "answer": "beat",
+      "explanation": "Takt: beat, bar (music); tact; rhythm.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Taktvoll means…",
+      "options": [
+        "tactful",
+        "rhythmic"
+      ],
+      "answer": "tactful",
+      "explanation": "taktvoll.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Bus fährt im Zehn-Minuten-Takt means…",
+      "options": [
+        "every ten minutes",
+        "for ten minutes"
+      ],
+      "answer": "every ten minutes",
+      "explanation": "Interval.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Aus dem Takt kommen means…",
+      "options": [
+        "to lose one's rhythm",
+        "to be rude"
+      ],
+      "answer": "to lose one's rhythm",
+      "explanation": "Rhythm.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Takt is the beat or bar in music: im Takt (in time), der Dreivierteltakt (three-four time, the waltz). Transport uses it for regular intervals: Die S-Bahn fährt im 20-Minuten-Takt. Der Takt also means tact: Er hat keinen Takt. Taktvoll means tactful, and taktlos tactless. Der Taktstock is a conductor's baton. Don't confuse it with die Taktik (tactics)."
+}

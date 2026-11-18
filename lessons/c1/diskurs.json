@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Diskurs",
+    "partOfSpeech": "noun, masculine (der Diskurs)",
+    "pronunciation": {
+      "respelling": "dis-KURS",
+      "ipa": "dɪsˈkʊʁs",
+      "notes": "Plural: die Diskurse."
+    },
+    "meaning": "discourse, debate",
+    "shortDefinition": "Discourse, debate."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Diskurs, plural die Diskurse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Diskurs"
+        },
+        {
+          "label": "More than one",
+          "value": "die Diskurse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der öffentliche Diskurs über Migration ist hitzig.",
+      "english": "The public debate on migration is heated.",
+      "highlight": [
+        "Diskurs"
+      ]
+    },
+    {
+      "german": "Sie analysiert politische Diskurse.",
+      "english": "She analyses political discourses.",
+      "highlight": [
+        "Diskurse."
+      ]
+    }
+  ],
+  "forms": [
+    "Diskurse",
+    "die Diskurse",
+    "der Diskurs",
+    "diskursiv"
+  ],
+  "memoryHook": "Diskurs: how a society talks about something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Diskurs",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Diskurs is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Diskurs, zwei ___",
+      "answer": "Diskurse",
+      "fullAnswer": "ein Diskurs, zwei Diskurse",
+      "explanation": "The plural is Diskurse.",
+      "acceptedAnswers": [
+        "Diskurse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Diskurs mean?",
+      "options": [
+        "the key",
+        "discourse",
+        "to travel"
+      ],
+      "answer": "discourse",
+      "explanation": "Diskurs: discourse, debate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "academic, journalistic",
+        "casual"
+      ],
+      "answer": "academic, journalistic",
+      "explanation": "Formal.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Habermas's theory is called…",
+      "options": [
+        "Diskursethik",
+        "Diskursrecht"
+      ],
+      "answer": "Diskursethik",
+      "explanation": "Discourse ethics.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday synonym:",
+      "options": [
+        "die Debatte / Diskussion",
+        "der Streit only"
+      ],
+      "answer": "die Debatte / Diskussion",
+      "explanation": "Debate.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Diskurs is discourse: the way a society discusses a topic, as in der öffentliche Diskurs, der gesellschaftliche Diskurs. It's common in academia, media and politics, sometimes criticised as jargon; in everyday speech, Germans say die Debatte or die Diskussion. The philosopher Jürgen Habermas developed the Diskursethik (discourse ethics) and is one of Germany's best-known public intellectuals. Plural: die Diskurse."
+}

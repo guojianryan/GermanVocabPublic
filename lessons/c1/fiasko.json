@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fiasko",
+    "partOfSpeech": "noun, neuter (das Fiasko)",
+    "pronunciation": {
+      "respelling": "fi-AS-ko",
+      "ipa": "fiˈasko",
+      "notes": "Plural: die Fiaskos."
+    },
+    "meaning": "fiasco, disaster",
+    "shortDefinition": "Fiasco, disaster."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Fiasko, plural die Fiaskos.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Fiasko"
+        },
+        {
+          "label": "More than one",
+          "value": "die Fiaskos"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Premiere war ein totales Fiasko.",
+      "english": "The premiere was a total fiasco.",
+      "highlight": [
+        "Fiasko."
+      ]
+    },
+    {
+      "german": "Das Projekt endete im Fiasko.",
+      "english": "The project ended in disaster.",
+      "highlight": [
+        "Fiasko."
+      ]
+    }
+  ],
+  "forms": [
+    "Fiaskos",
+    "das Fiasko"
+  ],
+  "memoryHook": "Fiasko: an Italian flask (fiasco), a theatre flop.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fiasko",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Fiasko is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Fiasko, zwei ___",
+      "answer": "Fiaskos",
+      "fullAnswer": "ein Fiasko, zwei Fiaskos",
+      "explanation": "The plural is Fiaskos.",
+      "acceptedAnswers": [
+        "Fiaskos"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fiasko mean?",
+      "options": [
+        "to buy",
+        "to sing",
+        "fiasco"
+      ],
+      "answer": "fiasco",
+      "explanation": "Fiasko: fiasco, disaster.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "das Desaster, der Reinfall",
+        "der Erfolg"
+      ],
+      "answer": "das Desaster, der Reinfall",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fiasko comes from…",
+      "options": [
+        "Italian (fare fiasco)",
+        "Spanish"
+      ],
+      "answer": "Italian (fare fiasco)",
+      "explanation": "Origin.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "das Fiasko",
+        "der Fiasko"
+      ],
+      "answer": "das Fiasko",
+      "explanation": "Gender.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Fiasko is a fiasco or disaster: ein politisches Fiasko, in einem Fiasko enden. It comes from Italian fare fiasco (to make a flask), theatre slang for a flop. Berlin's new airport BER, opened in 2020 after nine years of delays, is often called a Fiasko. Synonyms: das Desaster, die Pleite, der Reinfall. Plural: die Fiaskos."
+}

@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "abzielen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AP-tsee-len",
+      "ipa": "ˈapˌt͡siːlən",
+      "notes": ""
+    },
+    "meaning": "to aim at, be aimed at",
+    "shortDefinition": "To aim at, be aimed at."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "ziel|e … |ab"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "ziel|st … |ab"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "ziel|t … |ab"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "ziel|en … |ab"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "ziel|t … |ab"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "ziel|en … |ab"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat abgezielt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Maßnahme zielt darauf ab, Emissionen zu senken.",
+      "english": "The measure aims to reduce emissions.",
+      "highlight": [
+        "zielt",
+        "ab,"
+      ]
+    },
+    {
+      "german": "Worauf zielt diese Frage ab?",
+      "english": "What is this question getting at?",
+      "highlight": [
+        "zielt",
+        "ab?"
+      ]
+    }
+  ],
+  "forms": [
+    "ziele ab",
+    "zielst ab",
+    "zielt ab",
+    "zielen ab",
+    "abgezielt",
+    "zielte ab"
+  ],
+  "memoryHook": "Abzielen: zielen (aim) at something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ab (abzielen)",
+      "answer": "zielt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: zielt … ab.",
+      "acceptedAnswers": [
+        "zielt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (abzielen, past)",
+      "answer": "abgezielt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe abgezielt.",
+      "acceptedAnswers": [
+        "abgezielt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does abzielen mean?",
+      "options": [
+        "the child",
+        "never",
+        "to aim at"
+      ],
+      "answer": "to aim at",
+      "explanation": "abzielen: to aim at, be aimed at.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Auf etwas abzielen means…",
+      "options": [
+        "to aim at, be intended for",
+        "to deviate from"
+      ],
+      "answer": "to aim at, be intended for",
+      "explanation": "Meaning.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Ziel is…",
+      "options": [
+        "goal, target",
+        "a tile"
+      ],
+      "answer": "goal, target",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "bezwecken, beabsichtigen, anstreben",
+        "verfehlen"
+      ],
+      "answer": "bezwecken, beabsichtigen, anstreben",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Abzielen auf means to aim at or be intended for, typical of official and academic German: Das Gesetz zielt darauf ab, Bürokratie abzubauen. Worauf zielt das ab? asks what something is getting at. Zielen means to aim (a weapon), and das Ziel is a goal or target. Synonyms: bezwecken, anstreben. Regular: zielte ab, abgezielt."
+}

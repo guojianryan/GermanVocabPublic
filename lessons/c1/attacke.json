@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Attacke",
+    "partOfSpeech": "noun, feminine (die Attacke)",
+    "pronunciation": {
+      "respelling": "a-TA-ke",
+      "ipa": "aˈtakə",
+      "notes": "Plural: die Attacken."
+    },
+    "meaning": "attack, assault",
+    "shortDefinition": "Attack, assault."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Attacke, plural die Attacken.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Attacke"
+        },
+        {
+          "label": "More than one",
+          "value": "die Attacken"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Spieler startete eine Attacke über links.",
+      "english": "The player launched an attack down the left.",
+      "highlight": [
+        "Attacke"
+      ]
+    },
+    {
+      "german": "Er reagierte auf die verbalen Attacken gelassen.",
+      "english": "He reacted calmly to the verbal attacks.",
+      "highlight": [
+        "Attacken"
+      ]
+    }
+  ],
+  "forms": [
+    "Attacken",
+    "die Attacken",
+    "die Attacke",
+    "attackieren",
+    "Panikattacke"
+  ],
+  "memoryHook": "Attacke: a French-style Angriff.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Attacke",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Attacke is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Attacke, zwei ___",
+      "answer": "Attacken",
+      "fullAnswer": "ein Attacke, zwei Attacken",
+      "explanation": "The plural is Attacken.",
+      "acceptedAnswers": [
+        "Attacken"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Attacke mean?",
+      "options": [
+        "attack",
+        "to sleep",
+        "the child"
+      ],
+      "answer": "attack",
+      "explanation": "Attacke: attack, assault.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "More common word for attack:",
+      "options": [
+        "der Angriff",
+        "die Abwehr"
+      ],
+      "answer": "der Angriff",
+      "explanation": "Angriff.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Attackieren means…",
+      "options": [
+        "to attack",
+        "to attach"
+      ],
+      "answer": "to attack",
+      "explanation": "attackieren.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Panikattacke is…",
+      "options": [
+        "a panic attack",
+        "a burglary"
+      ],
+      "answer": "a panic attack",
+      "explanation": "Panic attack.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Attacke is an attack, especially a verbal one, in sport, or in medicine: eine Herzattacke, eine Panikattacke. For military attacks German usually says der Angriff, the more common word. Attackieren means to attack. Zur Attacke blasen means to sound the attack, often used about politicians going on the offensive. The word came via French attaque. Plural: die Attacken."
+}

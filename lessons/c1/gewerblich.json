@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "gewerblich",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "ge-VERP-likh",
+      "ipa": "ɡəˈvɛʁplɪç",
+      "notes": ""
+    },
+    "meaning": "commercial, trade",
+    "shortDefinition": "Commercial, trade."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die Räume werden gewerblich genutzt.",
+      "english": "The premises are used commercially.",
+      "highlight": [
+        "gewerblich"
+      ]
+    },
+    {
+      "german": "Ist das ein privater oder gewerblicher Verkäufer?",
+      "english": "Is that a private or commercial seller?",
+      "highlight": [
+        "gewerblicher"
+      ]
+    }
+  ],
+  "forms": [
+    "gewerbliche",
+    "gewerblichen",
+    "gewerblicher",
+    "Gewerbe"
+  ],
+  "memoryHook": "Gewerblich: having to do with a Gewerbe (trade).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does gewerblich mean?",
+      "options": [
+        "the bill",
+        "always",
+        "commercial"
+      ],
+      "answer": "commercial",
+      "explanation": "gewerblich: commercial, trade.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gewerbe is…",
+      "options": [
+        "trade, business",
+        "weapon"
+      ],
+      "answer": "trade, business",
+      "explanation": "Root.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "To start a business you register at the…",
+      "options": [
+        "Gewerbeamt (Gewerbeanmeldung)",
+        "Jobcenter"
+      ],
+      "answer": "Gewerbeamt (Gewerbeanmeldung)",
+      "explanation": "Register.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gewerbesteuer is…",
+      "options": [
+        "local business tax",
+        "VAT"
+      ],
+      "answer": "local business tax",
+      "explanation": "Tax.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ Kunden (commercial)",
+      "answer": "gewerbliche",
+      "fullAnswer": "gewerbliche Kunden",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Gewerblich means commercial or relating to trade: gewerbliche Nutzung (commercial use), ein gewerblicher Händler (as opposed to a private seller, important for consumer rights). Das Gewerbe is a trade or business; to become self-employed in most trades, you need a Gewerbeanmeldung at the local Gewerbeamt. Municipalities collect die Gewerbesteuer, their main source of income. Das Gewerbegebiet is an industrial estate."
+}

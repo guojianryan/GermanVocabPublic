@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Pionier",
+    "partOfSpeech": "noun, masculine (der Pionier)",
+    "pronunciation": {
+      "respelling": "pi-o-NEER",
+      "ipa": "pi̯oˈniːɐ̯",
+      "notes": "Plural: die Pioniere."
+    },
+    "meaning": "pioneer",
+    "shortDefinition": "Pioneer."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Pionier, plural die Pioniere.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Pionier"
+        },
+        {
+          "label": "More than one",
+          "value": "die Pioniere"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Konrad Zuse war ein Pionier der Informatik.",
+      "english": "Konrad Zuse was a pioneer of computer science.",
+      "highlight": [
+        "Pionier"
+      ]
+    },
+    {
+      "german": "In der DDR waren fast alle Kinder Junge Pioniere.",
+      "english": "In the GDR almost all children were Young Pioneers.",
+      "highlight": [
+        "Pioniere."
+      ]
+    }
+  ],
+  "forms": [
+    "Pioniere",
+    "die Pioniere",
+    "der Pionier",
+    "Pionierin"
+  ],
+  "memoryHook": "Pionier: the one who goes first, from French pionnier (foot soldier).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Pionier",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Pionier is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Pionier, zwei ___",
+      "answer": "Pioniere",
+      "fullAnswer": "ein Pionier, zwei Pioniere",
+      "explanation": "The plural is Pioniere.",
+      "acceptedAnswers": [
+        "Pioniere"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Pionier mean?",
+      "options": [
+        "pioneer",
+        "the child",
+        "the door"
+      ],
+      "answer": "pioneer",
+      "explanation": "Pionier: pioneer.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Jungen Pioniere were…",
+      "options": [
+        "the GDR's children's organisation",
+        "early settlers"
+      ],
+      "answer": "the GDR's children's organisation",
+      "explanation": "GDR.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the army, Pioniere are…",
+      "options": [
+        "combat engineers",
+        "scouts"
+      ],
+      "answer": "combat engineers",
+      "explanation": "Army.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Pionierarbeit is…",
+      "options": [
+        "pioneering work",
+        "child labour"
+      ],
+      "answer": "pioneering work",
+      "explanation": "Work.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Pionier (die Pionierin) is a pioneer: ein Pionier der Luftfahrt, Pionierarbeit leisten. In the GDR, children aged 6 to 14 joined the Junge Pioniere and Thälmann-Pioniere, wearing blue and red neckerchiefs, before moving to the FDJ youth organisation. In the army, Pioniere are combat engineers who build bridges and clear mines. Plural: die Pioniere."
+}

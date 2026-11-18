@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gesichtserkennung",
+    "partOfSpeech": "noun, feminine (die Gesichtserkennung)",
+    "pronunciation": {
+      "respelling": "ge-ZIKHTS-er-ken-ung",
+      "ipa": "ɡəˈzɪçt͡sʔɛɐ̯ˌkɛnʊŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "facial recognition",
+    "shortDefinition": "Facial recognition."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Gesichtserkennung, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Gesichtserkennung"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Handy entsperrt sich per Gesichtserkennung.",
+      "english": "The phone unlocks via facial recognition.",
+      "highlight": [
+        "Gesichtserkennung."
+      ]
+    },
+    {
+      "german": "Datenschützer kritisieren Gesichtserkennung im öffentlichen Raum.",
+      "english": "Data protection advocates criticise facial recognition in public spaces.",
+      "highlight": [
+        "Gesichtserkennung"
+      ]
+    }
+  ],
+  "forms": [
+    "die Gesichtserkennung"
+  ],
+  "memoryHook": "Gesichtserkennung: Erkennung (recognition) of a Gesicht (face).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gesichtserkennung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Gesichtserkennung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gesichtserkennung mean?",
+      "options": [
+        "the window",
+        "facial recognition",
+        "quiet"
+      ],
+      "answer": "facial recognition",
+      "explanation": "Gesichtserkennung: facial recognition.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Erkennen means…",
+      "options": [
+        "to recognise",
+        "to know a person"
+      ],
+      "answer": "to recognise",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The EU AI Act restricts…",
+      "options": [
+        "real-time facial recognition in public by police",
+        "all phone unlocking"
+      ],
+      "answer": "real-time facial recognition in public by police",
+      "explanation": "Law.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Datenschutz is…",
+      "options": [
+        "data protection",
+        "a data backup"
+      ],
+      "answer": "data protection",
+      "explanation": "Related.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Gesichtserkennung is facial recognition: Smartphones per Gesichtserkennung entsperren. Its use by police in public spaces is controversial in Germany, where Datenschutz (data protection) is taken very seriously; the EU's AI Act largely bans real-time remote biometric identification in public, with narrow exceptions. Erkennen means to recognise. It has no plural."
+}

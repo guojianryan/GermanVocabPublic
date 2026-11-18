@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Hauptverhandlung",
+    "partOfSpeech": "noun, feminine (die Hauptverhandlung)",
+    "pronunciation": {
+      "respelling": "HAUPT-fer-han-dlung",
+      "ipa": "ˈhaʊ̯ptfɛɐ̯ˌhandlʊŋ",
+      "notes": "Plural: die Hauptverhandlungen."
+    },
+    "meaning": "main trial (hearing)",
+    "shortDefinition": "Main trial (hearing)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Hauptverhandlung, plural die Hauptverhandlungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Hauptverhandlung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Hauptverhandlungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Hauptverhandlung beginnt im März.",
+      "english": "The main trial begins in March.",
+      "highlight": [
+        "Hauptverhandlung"
+      ]
+    },
+    {
+      "german": "Die Hauptverhandlung ist grundsätzlich öffentlich.",
+      "english": "The main trial is generally public.",
+      "highlight": [
+        "Hauptverhandlung"
+      ]
+    }
+  ],
+  "forms": [
+    "Hauptverhandlungen",
+    "die Hauptverhandlung"
+  ],
+  "memoryHook": "Hauptverhandlung: the Haupt (main) Verhandlung (hearing).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Hauptverhandlung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Hauptverhandlung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Hauptverhandlung, zwei ___",
+      "answer": "Hauptverhandlungen",
+      "fullAnswer": "ein Hauptverhandlung, zwei Hauptverhandlungen",
+      "explanation": "The plural is Hauptverhandlungen.",
+      "acceptedAnswers": [
+        "Hauptverhandlungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Hauptverhandlung mean?",
+      "options": [
+        "the child",
+        "to help",
+        "main trial (hearing)"
+      ],
+      "answer": "main trial (hearing)",
+      "explanation": "Hauptverhandlung: main trial (hearing).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Ermittlungsverfahren is…",
+      "options": [
+        "the investigation stage",
+        "the trial"
+      ],
+      "answer": "the investigation stage",
+      "explanation": "Stages.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "At the end of the Hauptverhandlung comes…",
+      "options": [
+        "das Urteil",
+        "die Anklage"
+      ],
+      "answer": "das Urteil",
+      "explanation": "Verdict.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Verhandlung is…",
+      "options": [
+        "negotiation; court hearing",
+        "a treatment"
+      ],
+      "answer": "negotiation; court hearing",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Hauptverhandlung is the main trial in German criminal procedure, after the Ermittlungsverfahren (investigation) and the court's decision to admit the charges. It's generally public, with witnesses heard directly, and ends with die Urteilsverkündung (pronouncement of the verdict). Germany has no jury; professional judges sit with Schöffen (lay judges) in many courts. Plural: die Hauptverhandlungen."
+}

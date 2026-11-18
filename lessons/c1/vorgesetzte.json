@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vorgesetzte",
+    "partOfSpeech": "noun, masculine (der Vorgesetzte)",
+    "pronunciation": {
+      "respelling": "FOHR-ge-zets-te",
+      "ipa": "ˈfoːɐ̯ɡəˌzɛt͡stə",
+      "notes": "Plural: die Vorgesetzten."
+    },
+    "meaning": "superior, boss",
+    "shortDefinition": "Superior, boss."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Vorgesetzte, plural die Vorgesetzten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Vorgesetzte"
+        },
+        {
+          "label": "More than one",
+          "value": "die Vorgesetzten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Mein Vorgesetzter hat den Urlaub genehmigt.",
+      "english": "My boss approved the leave.",
+      "highlight": [
+        "Vorgesetzter"
+      ]
+    },
+    {
+      "german": "Sie spricht mit ihrer Vorgesetzten.",
+      "english": "She's talking to her superior.",
+      "highlight": [
+        "Vorgesetzten."
+      ]
+    }
+  ],
+  "forms": [
+    "Vorgesetzten",
+    "die Vorgesetzten",
+    "der Vorgesetzte",
+    "die Vorgesetzte",
+    "ein Vorgesetzter"
+  ],
+  "memoryHook": "Vorgesetzte: the person set (gesetzt) above (vor) you.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vorgesetzte",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Vorgesetzte is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Vorgesetzte, zwei ___",
+      "answer": "Vorgesetzten",
+      "fullAnswer": "ein Vorgesetzte, zwei Vorgesetzten",
+      "explanation": "The plural is Vorgesetzten.",
+      "acceptedAnswers": [
+        "Vorgesetzten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vorgesetzte mean?",
+      "options": [
+        "to buy",
+        "to sing",
+        "superior"
+      ],
+      "answer": "superior",
+      "explanation": "Vorgesetzte: superior, boss.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vorgesetzte declines like…",
+      "options": [
+        "an adjective (der Vorgesetzte, ein Vorgesetzter)",
+        "a normal noun"
+      ],
+      "answer": "an adjective (der Vorgesetzte, ein Vorgesetzter)",
+      "explanation": "Adjectival noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Casual synonym:",
+      "options": [
+        "der Chef / die Chefin",
+        "der Kollege"
+      ],
+      "answer": "der Chef / die Chefin",
+      "explanation": "Boss.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Literally:",
+      "options": [
+        "one placed in front",
+        "one sitting next to you"
+      ],
+      "answer": "one placed in front",
+      "explanation": "vor + gesetzt.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der/die Vorgesetzte is a superior or boss at work. It declines like an adjective: der Vorgesetzte, ein Vorgesetzter, meine Vorgesetzte, die Vorgesetzten. It's more formal than der Chef or die Chefin, and common in HR language and contracts: Melden Sie sich bei Ihrem direkten Vorgesetzten. Literally, it's someone vorgesetzt, placed in front of you. The opposite is der Mitarbeiter (employee)."
+}

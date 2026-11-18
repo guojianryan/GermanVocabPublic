@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wächter",
+    "partOfSpeech": "noun, masculine (der Wächter)",
+    "pronunciation": {
+      "respelling": "VEKH-ter",
+      "ipa": "ˈvɛçtɐ",
+      "notes": "Plural: die Wächter."
+    },
+    "meaning": "guard, watchman, guardian",
+    "shortDefinition": "Guard, watchman, guardian."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Wächter, plural die Wächter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Wächter"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wächter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Wächter bewacht das Museum nachts.",
+      "english": "The guard watches the museum at night.",
+      "highlight": [
+        "Wächter"
+      ]
+    },
+    {
+      "german": "Die Verfassungsrichter gelten als Wächter des Grundgesetzes.",
+      "english": "The constitutional judges are seen as guardians of the Basic Law.",
+      "highlight": [
+        "Wächter"
+      ]
+    }
+  ],
+  "forms": [
+    "die Wächter",
+    "der Wächter",
+    "Wächterin",
+    "Nachtwächter"
+  ],
+  "memoryHook": "Wächter: one who wacht (keeps watch).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wächter",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Wächter is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wächter, zwei ___",
+      "answer": "Wächter",
+      "fullAnswer": "ein Wächter, zwei Wächter",
+      "explanation": "The plural is Wächter.",
+      "acceptedAnswers": [
+        "Waechter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wächter mean?",
+      "options": [
+        "guard",
+        "to buy",
+        "hot"
+      ],
+      "answer": "guard",
+      "explanation": "Wächter: guard, watchman, guardian.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wachen means…",
+      "options": [
+        "to watch, keep guard",
+        "to grow"
+      ],
+      "answer": "to watch, keep guard",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Nachtwächter is…",
+      "options": [
+        "a night watchman",
+        "a nightingale"
+      ],
+      "answer": "a night watchman",
+      "explanation": "Night.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Wächterin",
+        "die Wächtin"
+      ],
+      "answer": "die Wächterin",
+      "explanation": "-in.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Wächter (die Wächterin) is a guard, watchman or guardian: der Nachtwächter (night watchman), der Torwächter (gatekeeper), and figuratively die Wächter der Demokratie. Old towns like Rothenburg ob der Tauber offer evening tours with a costumed Nachtwächter. Wachen means to keep watch; bewachen means to guard; der Wachmann is a security guard. In everyday German, a security guard is usually der Security or der Sicherheitsdienst. Plural: die Wächter."
+}

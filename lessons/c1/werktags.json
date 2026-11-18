@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "werktags",
+    "partOfSpeech": "adverb",
+    "pronunciation": {
+      "respelling": "VERK-taaks",
+      "ipa": "ˈvɛʁkˌtaːks",
+      "notes": ""
+    },
+    "meaning": "on weekdays, on working days",
+    "shortDefinition": "On weekdays, on working days."
+  },
+  "sampleSentences": [
+    {
+      "german": "Der Laden ist werktags von 9 bis 20 Uhr geöffnet.",
+      "english": "The shop is open on weekdays from 9 to 8.",
+      "highlight": [
+        "werktags"
+      ]
+    },
+    {
+      "german": "Der Bus fährt nur werktags.",
+      "english": "The bus only runs on working days.",
+      "highlight": [
+        "werktags."
+      ]
+    }
+  ],
+  "forms": [
+    "werktags",
+    "Werktag"
+  ],
+  "memoryHook": "Werktags: on a Werktag (working day).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does werktags mean?",
+      "options": [
+        "the key",
+        "on weekdays",
+        "the evening"
+      ],
+      "answer": "on weekdays",
+      "explanation": "werktags: on weekdays, on working days.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Germany, ein Werktag usually includes…",
+      "options": [
+        "Monday to Saturday",
+        "Monday to Friday only"
+      ],
+      "answer": "Monday to Saturday",
+      "explanation": "Definition.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Arbeitstag usually means…",
+      "options": [
+        "Monday to Friday",
+        "Sunday"
+      ],
+      "answer": "Monday to Friday",
+      "explanation": "Contrast.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sonn- und Feiertags means…",
+      "options": [
+        "on Sundays and public holidays",
+        "on weekdays"
+      ],
+      "answer": "on Sundays and public holidays",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Die Praxis ist ___ geöffnet. (on weekdays)",
+      "answer": "werktags",
+      "fullAnswer": "Die Praxis ist werktags geöffnet.",
+      "explanation": "werktags.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Werktags means on weekdays or working days, common on timetables and opening hours: werktags 8–18 Uhr. Careful: legally, a Werktag in Germany includes Saturday, so werktags often means Monday to Saturday, while Arbeitstag usually means Monday to Friday. The opposite is sonn- und feiertags. Delivery times like drei Werktage include Saturdays."
+}

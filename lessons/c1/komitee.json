@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Komitee",
+    "partOfSpeech": "noun, neuter (das Komitee)",
+    "pronunciation": {
+      "respelling": "ko-mi-TAY",
+      "ipa": "komiˈteː",
+      "notes": "Plural: die Komitees."
+    },
+    "meaning": "committee",
+    "shortDefinition": "Committee."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Komitee, plural die Komitees.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Komitee"
+        },
+        {
+          "label": "More than one",
+          "value": "die Komitees"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Komitee hat sich für den Vorschlag entschieden.",
+      "english": "The committee decided in favour of the proposal.",
+      "highlight": [
+        "Komitee"
+      ]
+    },
+    {
+      "german": "Das Internationale Olympische Komitee sitzt in Lausanne.",
+      "english": "The International Olympic Committee is based in Lausanne.",
+      "highlight": [
+        "Komitee"
+      ]
+    }
+  ],
+  "forms": [
+    "Komitees",
+    "die Komitees",
+    "das Komitee"
+  ],
+  "memoryHook": "Komitee: a committee, the French-style word.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Komitee",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Komitee is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Komitee, zwei ___",
+      "answer": "Komitees",
+      "fullAnswer": "ein Komitee, zwei Komitees",
+      "explanation": "The plural is Komitees.",
+      "acceptedAnswers": [
+        "Komitees"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Komitee mean?",
+      "options": [
+        "to learn",
+        "committee",
+        "the bill"
+      ],
+      "answer": "committee",
+      "explanation": "Komitee: committee.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "das Komitee",
+        "der Komitee"
+      ],
+      "answer": "das Komitee",
+      "explanation": "Neuter.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The IOC in German:",
+      "options": [
+        "das IOK / IOC (Internationales Olympisches Komitee)",
+        "die Olympische Kommission"
+      ],
+      "answer": "das IOK / IOC (Internationales Olympisches Komitee)",
+      "explanation": "IOC.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Common synonym for parliamentary committees:",
+      "options": [
+        "der Ausschuss",
+        "die Gruppe"
+      ],
+      "answer": "der Ausschuss",
+      "explanation": "Ausschuss.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Komitee is a committee: das Organisationskomitee, das Nobelkomitee, das Internationale Olympische Komitee. It's neuter and stressed on the last syllable: ko-mi-TAY. For parliamentary committees, German uses der Ausschuss instead: der Haushaltsausschuss. Other synonyms: das Gremium, die Kommission. The word came from French comité, itself from English committee. Plural: die Komitees."
+}

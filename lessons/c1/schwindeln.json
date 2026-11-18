@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "schwindeln",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHVIN-deln",
+      "ipa": "ˈʃvɪndl̩n",
+      "notes": ""
+    },
+    "meaning": "to fib, tell white lies; to feel dizzy",
+    "shortDefinition": "To fib, tell white lies; to feel dizzy."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schwind|le"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schwindel|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schwindel|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schwindel|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schwindel|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schwindel|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geschwindelt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hat bei seinem Alter geschwindelt.",
+      "english": "He fibbed about his age.",
+      "highlight": [
+        "geschwindelt."
+      ]
+    },
+    {
+      "german": "Mir schwindelt, wenn ich nach unten schaue.",
+      "english": "I get dizzy when I look down.",
+      "highlight": [
+        "schwindelt,"
+      ]
+    }
+  ],
+  "forms": [
+    "schwindle",
+    "schwindelst",
+    "schwindelt",
+    "schwindeln",
+    "geschwindelt",
+    "Schwindel",
+    "schwindelig",
+    "Schwindler"
+  ],
+  "memoryHook": "Schwindeln: bend the truth, or the world spins.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (schwindeln)",
+      "answer": "schwindelt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schwindelt.",
+      "acceptedAnswers": [
+        "schwindelt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (schwindeln, past)",
+      "answer": "geschwindelt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geschwindelt.",
+      "acceptedAnswers": [
+        "geschwindelt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does schwindeln mean?",
+      "options": [
+        "to fib",
+        "the car",
+        "the door"
+      ],
+      "answer": "to fib",
+      "explanation": "schwindeln: to fib, tell white lies; to feel dizzy.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schwindeln is…",
+      "options": [
+        "a mild word for lying",
+        "a serious crime"
+      ],
+      "answer": "a mild word for lying",
+      "explanation": "Fib.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schwindel is…",
+      "options": [
+        "dizziness; swindle",
+        "a swing"
+      ],
+      "answer": "dizziness; swindle",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schwindelfrei means…",
+      "options": [
+        "having a head for heights",
+        "lie-free"
+      ],
+      "answer": "having a head for heights",
+      "explanation": "Heights.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Schwindeln means to fib or tell white lies: Hast du geschwindelt? (did you fib?), a milder word than lügen. Impersonally, mir schwindelt means I feel dizzy. Der Schwindel is dizziness and a swindle or con; der Schwindler is a con man. Schwindelig means dizzy, and schwindelfrei means having a head for heights, often required for roofers. Regular: schwindelte, geschwindelt."
+}

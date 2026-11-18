@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kernkraftwerk",
+    "partOfSpeech": "noun, neuter (das Kernkraftwerk)",
+    "pronunciation": {
+      "respelling": "KERN-kraft-verk",
+      "ipa": "ˈkɛʁnkʁaftˌvɛʁk",
+      "notes": "Plural: die Kernkraftwerke."
+    },
+    "meaning": "nuclear power plant",
+    "shortDefinition": "Nuclear power plant."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Kernkraftwerk, plural die Kernkraftwerke.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Kernkraftwerk"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kernkraftwerke"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das letzte Kernkraftwerk ging 2023 vom Netz.",
+      "english": "The last nuclear power plant went offline in 2023.",
+      "highlight": [
+        "Kernkraftwerk"
+      ]
+    },
+    {
+      "german": "Der Rückbau eines Kernkraftwerks dauert Jahrzehnte.",
+      "english": "Dismantling a nuclear power plant takes decades.",
+      "highlight": [
+        "Kernkraftwerks"
+      ]
+    }
+  ],
+  "forms": [
+    "Kernkraftwerke",
+    "das Kernkraftwerk",
+    "Kernkraftwerks"
+  ],
+  "memoryHook": "Kernkraftwerk: a Kraftwerk (power station) using Kernkraft (nuclear power).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kernkraftwerk",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Kernkraftwerk is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kernkraftwerk, zwei ___",
+      "answer": "Kernkraftwerke",
+      "fullAnswer": "ein Kernkraftwerk, zwei Kernkraftwerke",
+      "explanation": "The plural is Kernkraftwerke.",
+      "acceptedAnswers": [
+        "Kernkraftwerke"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kernkraftwerk mean?",
+      "options": [
+        "expensive",
+        "the window",
+        "nuclear power plant"
+      ],
+      "answer": "nuclear power plant",
+      "explanation": "Kernkraftwerk: nuclear power plant.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "das Atomkraftwerk (AKW)",
+        "das Kohlekraftwerk"
+      ],
+      "answer": "das Atomkraftwerk (AKW)",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Rückbau is…",
+      "options": [
+        "dismantling, decommissioning",
+        "a rebuild"
+      ],
+      "answer": "dismantling, decommissioning",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Endlager is…",
+      "options": [
+        "final repository for nuclear waste",
+        "a warehouse"
+      ],
+      "answer": "final repository for nuclear waste",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Kernkraftwerk (KKW) is a nuclear power plant; opponents prefer Atomkraftwerk (AKW). Germany's last three were shut down in April 2023, and their Rückbau (dismantling) will take decades. The search for an Endlager (permanent repository) for nuclear waste continues, after the Gorleben salt dome was ruled out in 2020. Plural: die Kernkraftwerke."
+}

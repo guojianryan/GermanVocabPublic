@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Seelsorger",
+    "partOfSpeech": "noun, masculine (der Seelsorger)",
+    "pronunciation": {
+      "respelling": "ZAYL-zor-ger",
+      "ipa": "ˈzeːlˌzɔʁɡɐ",
+      "notes": "Plural: die Seelsorger."
+    },
+    "meaning": "pastor, chaplain, pastoral counsellor",
+    "shortDefinition": "Pastor, chaplain, pastoral counsellor."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Seelsorger, plural die Seelsorger.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Seelsorger"
+        },
+        {
+          "label": "More than one",
+          "value": "die Seelsorger"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Seelsorger besucht die Kranken im Krankenhaus.",
+      "english": "The chaplain visits the sick in hospital.",
+      "highlight": [
+        "Seelsorger"
+      ]
+    },
+    {
+      "german": "Die Telefonseelsorge ist rund um die Uhr erreichbar.",
+      "english": "The telephone helpline is available around the clock.",
+      "highlight": [
+        "Telefonseelsorge"
+      ]
+    }
+  ],
+  "forms": [
+    "Seelsorgerin",
+    "der Seelsorger"
+  ],
+  "memoryHook": "Seelsorger: someone who sorgt (cares) for the Seele (soul).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Seelsorger",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Seelsorger is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Seelsorger, zwei ___",
+      "answer": "Seelsorger",
+      "fullAnswer": "ein Seelsorger, zwei Seelsorger",
+      "explanation": "The plural is Seelsorger.",
+      "acceptedAnswers": [
+        "Seelsorger"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Seelsorger mean?",
+      "options": [
+        "to open",
+        "pastor",
+        "the evening"
+      ],
+      "answer": "pastor",
+      "explanation": "Seelsorger: pastor, chaplain, pastoral counsellor.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Seelsorge is…",
+      "options": [
+        "pastoral care",
+        "worry"
+      ],
+      "answer": "pastoral care",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Telefonseelsorge is…",
+      "options": [
+        "a free, anonymous crisis helpline",
+        "a church hotline for donations"
+      ],
+      "answer": "a free, anonymous crisis helpline",
+      "explanation": "Helpline.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Seele is…",
+      "options": [
+        "soul",
+        "sea"
+      ],
+      "answer": "soul",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Seelsorger (die Seelsorgerin) is a pastor or chaplain giving pastoral care, in parishes, hospitals, prisons, the army or after disasters (Notfallseelsorge). Die Seelsorge is pastoral care. Germany's Telefonseelsorge, run by the Protestant and Catholic churches, offers free, anonymous support day and night at 0800 111 0 111 and 0800 111 0 222. The plural is the same: die Seelsorger."
+}

@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Majestät",
+    "partOfSpeech": "noun, feminine (die Majestät)",
+    "pronunciation": {
+      "respelling": "ma-yes-TET",
+      "ipa": "majɛsˈtɛːt",
+      "notes": "Plural: die Majestäten."
+    },
+    "meaning": "majesty",
+    "shortDefinition": "Majesty."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Majestät, plural die Majestäten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Majestät"
+        },
+        {
+          "label": "More than one",
+          "value": "die Majestäten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Eure Majestät, der Wagen wartet.",
+      "english": "Your Majesty, the car is waiting.",
+      "highlight": [
+        "Majestät,"
+      ]
+    },
+    {
+      "german": "Die Majestät der Berge beeindruckte uns.",
+      "english": "The majesty of the mountains impressed us.",
+      "highlight": [
+        "Majestät"
+      ]
+    }
+  ],
+  "forms": [
+    "Majestäten",
+    "die Majestäten",
+    "die Majestät",
+    "majestätisch"
+  ],
+  "memoryHook": "Majestät: always feminine, always grand.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Majestät",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Majestät is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Majestät, zwei ___",
+      "answer": "Majestäten",
+      "fullAnswer": "ein Majestät, zwei Majestäten",
+      "explanation": "The plural is Majestäten.",
+      "acceptedAnswers": [
+        "Majestaeten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Majestät mean?",
+      "options": [
+        "never",
+        "quiet",
+        "majesty"
+      ],
+      "answer": "majesty",
+      "explanation": "Majestät: majesty.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "die Majestät",
+        "der Majestät"
+      ],
+      "answer": "die Majestät",
+      "explanation": "Feminine, even for a king.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Seine Majestät der König means…",
+      "options": [
+        "His Majesty the King",
+        "the king's majesty"
+      ],
+      "answer": "His Majesty the King",
+      "explanation": "Form of address.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Majestäten",
+        "Majestäts"
+      ],
+      "answer": "Majestäten",
+      "explanation": "-en.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Majestätisch means…",
+      "options": [
+        "majestic",
+        "magical"
+      ],
+      "answer": "majestic",
+      "explanation": "Adjective.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Die Majestät is feminine even when it refers to a king: Seine Majestät der König. Ihre Majestät die Königin is the form of address for a queen. Direct address: Eure Majestät (your majesty). The adjective is majestätisch, and the word also describes nature: die Majestät des Hochgebirges. The offence of Majestätsbeleidigung (insulting a foreign head of state, §103 of the criminal code) was repealed with effect from 2018."
+}

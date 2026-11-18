@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verschlimmern",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-SHLI-mern",
+      "ipa": "fɛɐ̯ˈʃlɪmɐn",
+      "notes": ""
+    },
+    "meaning": "to make worse, aggravate",
+    "shortDefinition": "To make worse, aggravate."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verschlimmer|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verschlimmer|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verschlimmer|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verschlimmer|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verschlimmer|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verschlimmer|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verschlimmert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das hat die Lage nur verschlimmert.",
+      "english": "That only made the situation worse.",
+      "highlight": [
+        "verschlimmert."
+      ]
+    },
+    {
+      "german": "Sein Zustand verschlimmerte sich über Nacht.",
+      "english": "His condition worsened overnight.",
+      "highlight": [
+        "verschlimmerte"
+      ]
+    }
+  ],
+  "forms": [
+    "verschlimmere",
+    "verschlimmerst",
+    "verschlimmert",
+    "verschlimmern",
+    "verschlimmerte"
+  ],
+  "memoryHook": "Verschlimmern: make schlimmer (worse).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verschlimmern)",
+      "answer": "verschlimmert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verschlimmert.",
+      "acceptedAnswers": [
+        "verschlimmert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verschlimmern, past)",
+      "answer": "verschlimmert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verschlimmert.",
+      "acceptedAnswers": [
+        "verschlimmert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verschlimmern mean?",
+      "options": [
+        "to make worse",
+        "to buy",
+        "the flower"
+      ],
+      "answer": "to make worse",
+      "explanation": "verschlimmern: to make worse, aggravate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich verschlimmern means…",
+      "options": [
+        "to get worse",
+        "to slim"
+      ],
+      "answer": "to get worse",
+      "explanation": "Reflexive.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Opposite:",
+      "options": [
+        "verbessern",
+        "verschönern"
+      ],
+      "answer": "verbessern",
+      "explanation": "Opposite.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Verschlimmbesserung (humorous) is…",
+      "options": [
+        "an 'improvement' that makes things worse",
+        "a correction"
+      ],
+      "answer": "an 'improvement' that makes things worse",
+      "explanation": "Wordplay.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verschlimmern means to make worse or aggravate: die Lage, die Schmerzen verschlimmern. Sich verschlimmern means to worsen: Die Krankheit verschlimmert sich. The opposite is verbessern. The humorous blend Verschlimmbesserung describes a supposed improvement that makes things worse. Synonym: verschärfen. Regular: verschlimmerte, verschlimmert."
+}

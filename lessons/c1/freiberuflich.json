@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "freiberuflich",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "FRAI-be-roof-likh",
+      "ipa": "ˈfʁaɪ̯bəˌʁuːflɪç",
+      "notes": ""
+    },
+    "meaning": "freelance, self-employed (profession)",
+    "shortDefinition": "Freelance, self-employed (profession)."
+  },
+  "sampleSentences": [
+    {
+      "german": "Sie arbeitet freiberuflich als Übersetzerin.",
+      "english": "She works freelance as a translator.",
+      "highlight": [
+        "freiberuflich"
+      ]
+    },
+    {
+      "german": "Freiberufliche Ärzte zahlen keine Gewerbesteuer.",
+      "english": "Self-employed doctors don't pay trade tax.",
+      "highlight": [
+        "Freiberufliche"
+      ]
+    }
+  ],
+  "forms": [
+    "freiberufliche",
+    "freiberuflichen"
+  ],
+  "memoryHook": "Freiberuflich: in a freier Beruf (liberal profession).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does freiberuflich mean?",
+      "options": [
+        "the bed",
+        "the weather",
+        "freelance"
+      ],
+      "answer": "freelance",
+      "explanation": "freiberuflich: freelance, self-employed (profession).",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Freiberufler is…",
+      "options": [
+        "freelancer, self-employed professional",
+        "a free citizen"
+      ],
+      "answer": "freelancer, self-employed professional",
+      "explanation": "Noun.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Freie Berufe include…",
+      "options": [
+        "doctors, lawyers, artists, journalists",
+        "shopkeepers"
+      ],
+      "answer": "doctors, lawyers, artists, journalists",
+      "explanation": "Examples.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Freiberufler don't pay…",
+      "options": [
+        "Gewerbesteuer (trade tax)",
+        "income tax"
+      ],
+      "answer": "Gewerbesteuer (trade tax)",
+      "explanation": "Tax.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Grafikerin (freelance)",
+      "answer": "freiberufliche",
+      "fullAnswer": "eine freiberufliche Grafikerin",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Freiberuflich means freelance or self-employed in a liberal profession: freiberuflich tätig sein. In German law, die freien Berufe (doctors, lawyers, architects, journalists, artists, translators) are distinct from trades: Freiberufler don't need a Gewerbeanmeldung and don't pay Gewerbesteuer. Artists and writers can join the Künstlersozialkasse for social insurance. Synonym: selbstständig."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schützling",
+    "partOfSpeech": "noun, masculine (der Schützling)",
+    "pronunciation": {
+      "respelling": "SHÜTS-ling",
+      "ipa": "ˈʃʏt͡slɪŋ",
+      "notes": "Plural: die Schützlinge."
+    },
+    "meaning": "protégé, charge",
+    "shortDefinition": "Protégé, charge."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schützling, plural die Schützlinge.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schützling"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schützlinge"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Trainer ist stolz auf seine Schützlinge.",
+      "english": "The coach is proud of his charges.",
+      "highlight": [
+        "Schützlinge."
+      ]
+    },
+    {
+      "german": "Die Erzieherin kümmert sich um ihre Schützlinge.",
+      "english": "The nursery teacher looks after her charges.",
+      "highlight": [
+        "Schützlinge."
+      ]
+    }
+  ],
+  "forms": [
+    "Schützlinge",
+    "der Schützling"
+  ],
+  "memoryHook": "Schützling: someone you schützt (protect).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schützling",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schützling is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schützling, zwei ___",
+      "answer": "Schützlinge",
+      "fullAnswer": "ein Schützling, zwei Schützlinge",
+      "explanation": "The plural is Schützlinge.",
+      "acceptedAnswers": [
+        "Schuetzlinge"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schützling mean?",
+      "options": [
+        "protégé",
+        "to open",
+        "quiet"
+      ],
+      "answer": "protégé",
+      "explanation": "Schützling: protégé, charge.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schützlinge of a coach are…",
+      "options": [
+        "his players",
+        "his bodyguards"
+      ],
+      "answer": "his players",
+      "explanation": "Sport.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schützen means…",
+      "options": [
+        "to protect",
+        "to shoot"
+      ],
+      "answer": "to protect",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nouns in -ling are…",
+      "options": [
+        "masculine",
+        "feminine"
+      ],
+      "answer": "masculine",
+      "explanation": "Gender.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Schützling is a protégé or charge, someone under another's protection or care: a coach's players, a teacher's pupils, a mentor's protégé. Sports reports often write Der Trainer und seine Schützlinge. It's masculine even for women, like der Liebling. From schützen (to protect). Plural: die Schützlinge."
+}

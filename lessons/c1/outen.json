@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "outen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "AU-ten",
+      "ipa": "ˈaʊ̯tn̩",
+      "notes": ""
+    },
+    "meaning": "to out; (sich) to come out",
+    "shortDefinition": "To out; (sich) to come out."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "out|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "out|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "out|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "out|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "out|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "out|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geoutet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Fußballer hat sich als schwul geoutet.",
+      "english": "The footballer came out as gay.",
+      "highlight": [
+        "geoutet."
+      ]
+    },
+    {
+      "german": "Sie outete sich als großer Fan der Band.",
+      "english": "She admitted to being a big fan of the band.",
+      "highlight": [
+        "outete"
+      ]
+    }
+  ],
+  "forms": [
+    "oute",
+    "outest",
+    "outet",
+    "outen",
+    "geoutet",
+    "outete"
+  ],
+  "memoryHook": "Outen: from English to out.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (outen)",
+      "answer": "outet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: outet.",
+      "acceptedAnswers": [
+        "outet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (outen, past)",
+      "answer": "geoutet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geoutet.",
+      "acceptedAnswers": [
+        "geoutet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does outen mean?",
+      "options": [
+        "expensive",
+        "hot",
+        "to out"
+      ],
+      "answer": "to out",
+      "explanation": "outen: to out; (sich) to come out.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich als Fan outen (humorous) means…",
+      "options": [
+        "to admit to being a fan",
+        "to leave a fan club"
+      ],
+      "answer": "to admit to being a fan",
+      "explanation": "Humour.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Coming-out is…",
+      "options": [
+        "coming out",
+        "an exit"
+      ],
+      "answer": "coming out",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden outen means…",
+      "options": [
+        "to reveal someone's secret identity",
+        "to send someone out"
+      ],
+      "answer": "to reveal someone's secret identity",
+      "explanation": "Transitive.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Outen, borrowed from English, means to out someone, and sich outen means to come out, especially about sexual orientation: Berlin's mayor Klaus Wowereit famously came out in 2001, and footballer Thomas Hitzlsperger in 2014. Humorously, sich als Schlagerfan outen means to admit a guilty pleasure. Das Coming-out is the noun. Regular: outete, geoutet."
+}

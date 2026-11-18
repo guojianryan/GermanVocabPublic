@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "mitspielen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "MIT-shpee-len",
+      "ipa": "ˈmɪtˌʃpiːlən",
+      "notes": ""
+    },
+    "meaning": "to play along, join in",
+    "shortDefinition": "To play along, join in."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "spiel|e … |mit"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "spiel|st … |mit"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "spiel|t … |mit"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "spiel|en … |mit"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "spiel|t … |mit"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "spiel|en … |mit"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat mitgespielt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Darf ich mitspielen?",
+      "english": "Can I join in?",
+      "highlight": [
+        "mitspielen?"
+      ]
+    },
+    {
+      "german": "Das Wetter hat nicht mitgespielt.",
+      "english": "The weather didn't play along.",
+      "highlight": [
+        "mitgespielt."
+      ]
+    }
+  ],
+  "forms": [
+    "spiele mit",
+    "spielst mit",
+    "spielt mit",
+    "spielen mit",
+    "mitgespielt",
+    "spielte mit",
+    "Mitspieler"
+  ],
+  "memoryHook": "Mitspielen: play (spielen) along (mit).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … mit (mitspielen)",
+      "answer": "spielt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: spielt … mit.",
+      "acceptedAnswers": [
+        "spielt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (mitspielen, past)",
+      "answer": "mitgespielt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe mitgespielt.",
+      "acceptedAnswers": [
+        "mitgespielt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does mitspielen mean?",
+      "options": [
+        "to play along",
+        "the station",
+        "the weather"
+      ],
+      "answer": "to play along",
+      "explanation": "mitspielen: to play along, join in.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Wetter spielt mit means…",
+      "options": [
+        "the weather cooperates",
+        "the weather changes"
+      ],
+      "answer": "the weather cooperates",
+      "explanation": "Cooperate.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandem übel mitspielen means…",
+      "options": [
+        "to treat someone badly",
+        "to play well with someone"
+      ],
+      "answer": "to treat someone badly",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Mitspieler is…",
+      "options": [
+        "a teammate, fellow player",
+        "an opponent"
+      ],
+      "answer": "a teammate, fellow player",
+      "explanation": "Teammate.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Mitspielen means to join in a game or play along: Kann ich mitspielen? It's often used figuratively: Wenn das Wetter mitspielt (if the weather cooperates), Da spiele ich nicht mit! (I'm not going along with that). Jemandem übel mitspielen means to treat someone badly. In films, mitspielen means to act in: Sie spielt in dem Film mit. Separable: spielt mit, mitgespielt. Der Mitspieler is a teammate."
+}

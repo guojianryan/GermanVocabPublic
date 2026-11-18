@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kunststück",
+    "partOfSpeech": "noun, neuter (das Kunststück)",
+    "pronunciation": {
+      "respelling": "KUNST-shtük",
+      "ipa": "ˈkʊnstˌʃtʏk",
+      "notes": "Plural: die Kunststücke."
+    },
+    "meaning": "trick, feat",
+    "shortDefinition": "Trick, feat."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Kunststück, plural die Kunststücke.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Kunststück"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kunststücke"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Hund kann viele Kunststücke.",
+      "english": "The dog can do lots of tricks.",
+      "highlight": [
+        "Kunststücke."
+      ]
+    },
+    {
+      "german": "Bei dem Verkehr pünktlich zu sein, ist ein Kunststück.",
+      "english": "Being on time in this traffic is quite a feat.",
+      "highlight": [
+        "Kunststück."
+      ]
+    }
+  ],
+  "forms": [
+    "Kunststücke",
+    "das Kunststück"
+  ],
+  "memoryHook": "Kunststück: a Stück (piece) of Kunst (skill).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kunststück",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Kunststück is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kunststück, zwei ___",
+      "answer": "Kunststücke",
+      "fullAnswer": "ein Kunststück, zwei Kunststücke",
+      "explanation": "The plural is Kunststücke.",
+      "acceptedAnswers": [
+        "Kunststuecke"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kunststück mean?",
+      "options": [
+        "the car",
+        "trick",
+        "the evening"
+      ],
+      "answer": "trick",
+      "explanation": "Kunststück: trick, feat.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kunststück! (ironic) means…",
+      "options": [
+        "No wonder! / Big deal!",
+        "Great art!"
+      ],
+      "answer": "No wonder! / Big deal!",
+      "explanation": "Irony.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das ist kein Kunststück means…",
+      "options": [
+        "that's no great feat",
+        "that's not art"
+      ],
+      "answer": "that's no great feat",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kunstgriff is…",
+      "options": [
+        "trick, knack",
+        "a sculpture"
+      ],
+      "answer": "trick, knack",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Kunststück is a trick or feat: Kunststücke vorführen, ein artistisches Kunststück. Figuratively, Das ist kein Kunststück means it's no great achievement, and an ironic Kunststück! means no wonder or big deal: Er hat gewonnen? Kunststück, er hat ja geschummelt. Related: der Kunstgriff (knack, trick). Plural: die Kunststücke."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Drahtzieher",
+    "partOfSpeech": "noun, masculine (der Drahtzieher)",
+    "pronunciation": {
+      "respelling": "DRAAT-tsee-er",
+      "ipa": "ˈdʁaːtˌt͡siːɐ",
+      "notes": "Plural: die Drahtzieher."
+    },
+    "meaning": "mastermind, wire-puller",
+    "shortDefinition": "Mastermind, wire-puller."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Drahtzieher, plural die Drahtzieher.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Drahtzieher"
+        },
+        {
+          "label": "More than one",
+          "value": "die Drahtzieher"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Polizei sucht den Drahtzieher des Anschlags.",
+      "english": "The police are looking for the mastermind behind the attack.",
+      "highlight": [
+        "Drahtzieher"
+      ]
+    },
+    {
+      "german": "Er gilt als Drahtzieher hinter den Kulissen.",
+      "english": "He is seen as the one pulling the strings behind the scenes.",
+      "highlight": [
+        "Drahtzieher"
+      ]
+    }
+  ],
+  "forms": [
+    "der Drahtzieher",
+    "Drahtzieherin"
+  ],
+  "memoryHook": "Drahtzieher: one who zieht (pulls) the Drähte (wires) of puppets.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Drahtzieher",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Drahtzieher is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Drahtzieher, zwei ___",
+      "answer": "Drahtzieher",
+      "fullAnswer": "ein Drahtzieher, zwei Drahtzieher",
+      "explanation": "The plural is Drahtzieher.",
+      "acceptedAnswers": [
+        "Drahtzieher"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Drahtzieher mean?",
+      "options": [
+        "slowly",
+        "the window",
+        "mastermind"
+      ],
+      "answer": "mastermind",
+      "explanation": "Drahtzieher: mastermind, wire-puller.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Drahtzieher is…",
+      "options": [
+        "the person pulling the strings",
+        "a wire-maker only"
+      ],
+      "answer": "the person pulling the strings",
+      "explanation": "Meaning.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Draht is…",
+      "options": [
+        "wire",
+        "a thread"
+      ],
+      "answer": "wire",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Strippenzieher, der Hintermann",
+        "der Mitläufer"
+      ],
+      "answer": "der Strippenzieher, der Hintermann",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Drahtzieher is a mastermind or wire-puller, the person secretly controlling events: der Drahtzieher eines Verbrechens, einer Intrige. The image is of a puppeteer pulling wires; a synonym is der Strippenzieher (from Strippe, string) or der Hintermann. Literally, a Drahtzieher was a craftsman who drew metal into wire. The plural is the same."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vorwort",
+    "partOfSpeech": "noun, neuter (das Vorwort)",
+    "pronunciation": {
+      "respelling": "FOHR-vort",
+      "ipa": "ˈfoːɐ̯ˌvɔʁt",
+      "notes": "Plural: die Vorworte."
+    },
+    "meaning": "preface, foreword",
+    "shortDefinition": "Preface, foreword."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Vorwort, plural die Vorworte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Vorwort"
+        },
+        {
+          "label": "More than one",
+          "value": "die Vorworte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Vorwort erklärt die Autorin ihr Ziel.",
+      "english": "In the preface the author explains her aim.",
+      "highlight": [
+        "Vorwort"
+      ]
+    },
+    {
+      "german": "Er hat das Vorwort zu dem Buch geschrieben.",
+      "english": "He wrote the foreword to the book.",
+      "highlight": [
+        "Vorwort"
+      ]
+    }
+  ],
+  "forms": [
+    "Vorworte",
+    "die Vorworte",
+    "das Vorwort",
+    "Nachwort"
+  ],
+  "memoryHook": "Vorwort: the Wort before (vor) the book begins.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vorwort",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Vorwort is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Vorwort, zwei ___",
+      "answer": "Vorworte",
+      "fullAnswer": "ein Vorwort, zwei Vorworte",
+      "explanation": "The plural is Vorworte.",
+      "acceptedAnswers": [
+        "Vorworte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vorwort mean?",
+      "options": [
+        "to buy",
+        "preface",
+        "to wait"
+      ],
+      "answer": "preface",
+      "explanation": "Vorwort: preface, foreword.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Vorworte",
+        "die Vorwörter"
+      ],
+      "answer": "die Vorworte",
+      "explanation": "Not Vorwörter!",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Nachwort is…",
+      "options": [
+        "an afterword, epilogue",
+        "a footnote"
+      ],
+      "answer": "an afterword, epilogue",
+      "explanation": "Afterword.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In grammar, a preposition is…",
+      "options": [
+        "eine Präposition (old: Verhältniswort)",
+        "ein Vorwort"
+      ],
+      "answer": "eine Präposition (old: Verhältniswort)",
+      "explanation": "Not Vorwort.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Vorwort is a preface or foreword: ein Vorwort schreiben. Its partner at the end is das Nachwort (afterword). Note the plural: die Vorworte, not Vorwörter. German distinguishes Wörter (single words, as in a dictionary) and Worte (connected words, statements): ein paar Worte sagen. Prefaces belong to the Worte family. In German grammar, a preposition is eine Präposition, though some old textbooks called it a Verhältniswort."
+}

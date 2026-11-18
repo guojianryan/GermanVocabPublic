@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Tötung",
+    "partOfSpeech": "noun, feminine (die Tötung)",
+    "pronunciation": {
+      "respelling": "TÖ-tung",
+      "ipa": "ˈtøːtʊŋ",
+      "notes": "Plural: die Tötungen."
+    },
+    "meaning": "killing",
+    "shortDefinition": "Killing."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Tötung, plural die Tötungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Tötung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Tötungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er wurde wegen fahrlässiger Tötung verurteilt.",
+      "english": "He was convicted of negligent homicide.",
+      "highlight": [
+        "Tötung"
+      ]
+    },
+    {
+      "german": "Die Tötung von Tieren ist streng geregelt.",
+      "english": "The killing of animals is strictly regulated.",
+      "highlight": [
+        "Tötung"
+      ]
+    }
+  ],
+  "forms": [
+    "Tötungen",
+    "die Tötungen",
+    "die Tötung",
+    "töten"
+  ],
+  "memoryHook": "Tötung: the act of töten (killing).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Tötung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Tötung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Tötung, zwei ___",
+      "answer": "Tötungen",
+      "fullAnswer": "ein Tötung, zwei Tötungen",
+      "explanation": "The plural is Tötungen.",
+      "acceptedAnswers": [
+        "Toetungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Tötung mean?",
+      "options": [
+        "the door",
+        "killing",
+        "the weather"
+      ],
+      "answer": "killing",
+      "explanation": "Tötung: killing.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fahrlässige Tötung means…",
+      "options": [
+        "negligent homicide",
+        "murder"
+      ],
+      "answer": "negligent homicide",
+      "explanation": "Negligence.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Töten means…",
+      "options": [
+        "to kill",
+        "to die"
+      ],
+      "answer": "to kill",
+      "explanation": "töten.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Tötung auf Verlangen is…",
+      "options": [
+        "killing on request (euthanasia), illegal in Germany",
+        "self-defence"
+      ],
+      "answer": "killing on request (euthanasia), illegal in Germany",
+      "explanation": "§ 216 StGB.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Tötung is killing, a neutral and legal term: die Tötung eines Menschen. German criminal law distinguishes Mord (murder), Totschlag (manslaughter), fahrlässige Tötung (negligent homicide, e.g. in a car accident) and Tötung auf Verlangen (killing on request, still a crime). In 2020 the Constitutional Court ruled that people have a right to assisted suicide, a separate and much-debated issue. Töten means to kill, and tot means dead."
+}

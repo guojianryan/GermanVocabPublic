@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "austreten",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AUS-tray-ten",
+      "ipa": "ˈaʊ̯sˌtʁeːtn̩",
+      "notes": ""
+    },
+    "meaning": "to leave (an organisation); to leak; to go to the toilet",
+    "shortDefinition": "To leave (an organisation); to leak; to go to the toilet."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "tret|e … |aus"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "tritt|st … |aus"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "tritt … |aus"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "tret|en … |aus"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "tret|et … |aus"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "tret|en … |aus"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist ausgetreten"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er ist aus der Kirche ausgetreten.",
+      "english": "He has left the church.",
+      "highlight": [
+        "ausgetreten."
+      ]
+    },
+    {
+      "german": "Aus dem Tank tritt Öl aus.",
+      "english": "Oil is leaking from the tank.",
+      "highlight": [
+        "tritt",
+        "aus."
+      ]
+    }
+  ],
+  "forms": [
+    "trete aus",
+    "trittst aus",
+    "tritt aus",
+    "treten aus",
+    "tretet aus",
+    "ausgetreten",
+    "trat aus",
+    "Austritt"
+  ],
+  "memoryHook": "Austreten: step (treten) out (aus) of a club, a church or a tank.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … aus (austreten)",
+      "answer": "tritt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: tritt … aus.",
+      "acceptedAnswers": [
+        "tritt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (austreten, past)",
+      "answer": "ausgetreten",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin ausgetreten.",
+      "acceptedAnswers": [
+        "ausgetreten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does austreten mean?",
+      "options": [
+        "to leave (an organisation)",
+        "the evening",
+        "the flower"
+      ],
+      "answer": "to leave (an organisation)",
+      "explanation": "austreten: to leave (an organisation); to leak; to go to the toilet.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Aus der Kirche austreten means…",
+      "options": [
+        "to leave the church",
+        "to step out of a church building"
+      ],
+      "answer": "to leave the church",
+      "explanation": "Kirchenaustritt.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mal austreten müssen is a polite way of saying…",
+      "options": [
+        "you need the toilet",
+        "you need fresh air"
+      ],
+      "answer": "you need the toilet",
+      "explanation": "Euphemism.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Austritt is…",
+      "options": [
+        "the exit, withdrawal",
+        "the entrance"
+      ],
+      "answer": "the exit, withdrawal",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Austreten means to leave an organisation: aus der Partei austreten, aus der Kirche austreten. Leaving the church ends the Kirchensteuer, and hundreds of thousands of Germans do it each year; der Kirchenaustritt is done at the Standesamt or court. Liquids or gas can austreten (leak). Ich muss mal austreten is a polite way to say you need the toilet. The Brexit was called der Austritt Großbritanniens. Irregular, with sein: trat aus, ist ausgetreten."
+}

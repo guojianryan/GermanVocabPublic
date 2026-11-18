@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rezeptur",
+    "partOfSpeech": "noun, feminine (die Rezeptur)",
+    "pronunciation": {
+      "respelling": "re-tsep-TOOR",
+      "ipa": "ʁet͡sɛpˈtuːɐ̯",
+      "notes": "Plural: die Rezepturen."
+    },
+    "meaning": "formula, recipe (product)",
+    "shortDefinition": "Formula, recipe (product)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Rezeptur, plural die Rezepturen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Rezeptur"
+        },
+        {
+          "label": "More than one",
+          "value": "die Rezepturen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Rezeptur ist ein Firmengeheimnis.",
+      "english": "The formula is a company secret.",
+      "highlight": [
+        "Rezeptur"
+      ]
+    },
+    {
+      "german": "Der Hersteller hat die Rezeptur geändert.",
+      "english": "The manufacturer has changed the formula.",
+      "highlight": [
+        "Rezeptur"
+      ]
+    }
+  ],
+  "forms": [
+    "Rezepturen",
+    "die Rezeptur"
+  ],
+  "memoryHook": "Rezeptur: the fixed Rezept of a product.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rezeptur",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Rezeptur is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Rezeptur, zwei ___",
+      "answer": "Rezepturen",
+      "fullAnswer": "ein Rezeptur, zwei Rezepturen",
+      "explanation": "The plural is Rezepturen.",
+      "acceptedAnswers": [
+        "Rezepturen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rezeptur mean?",
+      "options": [
+        "formula",
+        "the bill",
+        "cheap"
+      ],
+      "answer": "formula",
+      "explanation": "Rezeptur: formula, recipe (product).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Rezept is…",
+      "options": [
+        "recipe; prescription",
+        "a receipt"
+      ],
+      "answer": "recipe; prescription",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rezeptur is used for…",
+      "options": [
+        "products, medicines, cosmetics",
+        "home cooking only"
+      ],
+      "answer": "products, medicines, cosmetics",
+      "explanation": "Usage.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Formel, die Zusammensetzung",
+        "die Verpackung"
+      ],
+      "answer": "die Formel, die Zusammensetzung",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Rezeptur is a formula or product recipe: die geheime Rezeptur, eine neue Rezeptur. It's used for medicines, cosmetics, drinks and industrial food. In pharmacies, eine Rezeptur is a medicine made up individually. Das Rezept means a cooking recipe and also a doctor's prescription; die Quittung is a receipt. Synonyms: die Formel, die Zusammensetzung. Plural: die Rezepturen."
+}

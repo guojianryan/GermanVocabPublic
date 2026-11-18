@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Versprechung",
+    "partOfSpeech": "noun, feminine (die Versprechung)",
+    "pronunciation": {
+      "respelling": "fer-SHPRE-khung",
+      "ipa": "fɛɐ̯ˈʃpʁɛçʊŋ",
+      "notes": "Plural: die Versprechungen."
+    },
+    "meaning": "promise (often empty)",
+    "shortDefinition": "Promise (often empty)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Versprechung, plural die Versprechungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Versprechung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Versprechungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hat ihr viele Versprechungen gemacht.",
+      "english": "He made her lots of promises.",
+      "highlight": [
+        "Versprechungen"
+      ]
+    },
+    {
+      "german": "Leere Versprechungen helfen niemandem.",
+      "english": "Empty promises help nobody.",
+      "highlight": [
+        "Versprechungen"
+      ]
+    }
+  ],
+  "forms": [
+    "Versprechungen",
+    "die Versprechungen",
+    "die Versprechung"
+  ],
+  "memoryHook": "Versprechung: what's versprochen, not always kept.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Versprechung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Versprechung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Versprechung, zwei ___",
+      "answer": "Versprechungen",
+      "fullAnswer": "ein Versprechung, zwei Versprechungen",
+      "explanation": "The plural is Versprechungen.",
+      "acceptedAnswers": [
+        "Versprechungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Versprechung mean?",
+      "options": [
+        "the window",
+        "promise (often empty)",
+        "cheap"
+      ],
+      "answer": "promise (often empty)",
+      "explanation": "Versprechung: promise (often empty).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Versprechung vs. Versprechen:",
+      "options": [
+        "Versprechungen often suggests empty promises",
+        "no difference ever"
+      ],
+      "answer": "Versprechungen often suggests empty promises",
+      "explanation": "Nuance.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Leere Versprechungen means…",
+      "options": [
+        "empty promises",
+        "free promises"
+      ],
+      "answer": "empty promises",
+      "explanation": "Empty.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich versprechen means…",
+      "options": [
+        "to make a slip of the tongue",
+        "to promise oneself"
+      ],
+      "answer": "to make a slip of the tongue",
+      "explanation": "Slip.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Versprechung, mostly plural Versprechungen, is a promise, often with a hint of doubt: leere Versprechungen, Versprechungen machen, große Versprechungen. The neutral word is das Versprechen: ein Versprechen halten, brechen. The verb versprechen means to promise, while sich versprechen means to make a slip of the tongue: Entschuldigung, ich habe mich versprochen. Plural: die Versprechungen."
+}

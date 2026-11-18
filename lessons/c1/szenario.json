@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Szenario",
+    "partOfSpeech": "noun, neuter (das Szenario)",
+    "pronunciation": {
+      "respelling": "stse-NAA-ri-o",
+      "ipa": "st͡seˈnaːʁi̯o",
+      "notes": "Plural: die Szenarien."
+    },
+    "meaning": "scenario",
+    "shortDefinition": "Scenario."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Szenario, plural die Szenarien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Szenario"
+        },
+        {
+          "label": "More than one",
+          "value": "die Szenarien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im schlimmsten Szenario steigen die Preise stark.",
+      "english": "In the worst-case scenario prices rise sharply.",
+      "highlight": [
+        "Szenario"
+      ]
+    },
+    {
+      "german": "Die Forscher berechnen verschiedene Szenarien.",
+      "english": "The researchers are calculating different scenarios.",
+      "highlight": [
+        "Szenarien."
+      ]
+    }
+  ],
+  "forms": [
+    "Szenarien",
+    "die Szenarien",
+    "das Szenario",
+    "Szenarios"
+  ],
+  "memoryHook": "Szenario: German spells it with Sz.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Szenario",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Szenario is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Szenario, zwei ___",
+      "answer": "Szenarien",
+      "fullAnswer": "ein Szenario, zwei Szenarien",
+      "explanation": "The plural is Szenarien.",
+      "acceptedAnswers": [
+        "Szenarien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Szenario mean?",
+      "options": [
+        "scenario",
+        "the bill",
+        "to help"
+      ],
+      "answer": "scenario",
+      "explanation": "Szenario: scenario.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Szenarien",
+        "die Szenarios"
+      ],
+      "answer": "die Szenarien",
+      "explanation": "Szenarien (Szenarios also seen).",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sz is pronounced…",
+      "options": [
+        "sts",
+        "sh"
+      ],
+      "answer": "sts",
+      "explanation": "stse-NAA-rio.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Worst-Case-Szenario is…",
+      "options": [
+        "the worst-case scenario",
+        "a disaster film"
+      ],
+      "answer": "the worst-case scenario",
+      "explanation": "Common anglicism.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Szenario is a scenario: ein mögliches Szenario, das Worst-Case-Szenario. German spells it with Sz, pronounced sts, like die Szene (scene). The plural is usually die Szenarien, though Szenarios is also accepted. In climate science and economics, Szenarien are model projections. It came via Italian scenario, originally a plan of the scenes in a play. It's neuter."
+}

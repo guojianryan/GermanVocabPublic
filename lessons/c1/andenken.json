@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Andenken",
+    "partOfSpeech": "noun, neuter (das Andenken)",
+    "pronunciation": {
+      "respelling": "AN-den-ken",
+      "ipa": "ˈanˌdɛŋkn̩",
+      "notes": "Plural: die Andenken."
+    },
+    "meaning": "souvenir, keepsake; memory",
+    "shortDefinition": "Souvenir, keepsake; memory."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Andenken, plural die Andenken.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Andenken"
+        },
+        {
+          "label": "More than one",
+          "value": "die Andenken"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich habe ein Andenken aus Paris mitgebracht.",
+      "english": "I brought a souvenir back from Paris.",
+      "highlight": [
+        "Andenken"
+      ]
+    },
+    {
+      "german": "Zum Andenken an die Opfer wurde ein Denkmal errichtet.",
+      "english": "A memorial was erected in memory of the victims.",
+      "highlight": [
+        "Andenken"
+      ]
+    }
+  ],
+  "forms": [
+    "die Andenken",
+    "das Andenken"
+  ],
+  "memoryHook": "Andenken: something to think (denken) back on (an).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Andenken",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Andenken is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Andenken, zwei ___",
+      "answer": "Andenken",
+      "fullAnswer": "ein Andenken, zwei Andenken",
+      "explanation": "The plural is Andenken.",
+      "acceptedAnswers": [
+        "Andenken"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Andenken mean?",
+      "options": [
+        "souvenir",
+        "slowly",
+        "the evening"
+      ],
+      "answer": "souvenir",
+      "explanation": "Andenken: souvenir, keepsake; memory.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zum Andenken an means…",
+      "options": [
+        "in memory of",
+        "thinking about"
+      ],
+      "answer": "in memory of",
+      "explanation": "Memory.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A tourist souvenir is also called…",
+      "options": [
+        "das Souvenir",
+        "das Gedenken"
+      ],
+      "answer": "das Souvenir",
+      "explanation": "Souvenir.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Andenken",
+        "die Andenkens"
+      ],
+      "answer": "die Andenken",
+      "explanation": "Unchanged.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Andenken is a souvenir or keepsake (ein Andenken an den Urlaub) and also remembrance: zum Andenken an meine Großmutter, jemandes Andenken ehren (to honour someone's memory). For tourist trinkets, Germans also say das Souvenir, and der Andenkenladen is a souvenir shop. It's a nominalised verb, an + denken (to think of). Das Gedenken is more solemn commemoration. The plural is unchanged: die Andenken."
+}

@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fortgang",
+    "partOfSpeech": "noun, masculine (der Fortgang)",
+    "pronunciation": {
+      "respelling": "FORT-gang",
+      "ipa": "ˈfɔʁtˌɡaŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "progress, continuation",
+    "shortDefinition": "Progress, continuation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Fortgang, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Fortgang"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir berichten über den Fortgang der Ermittlungen.",
+      "english": "We'll report on the progress of the investigation.",
+      "highlight": [
+        "Fortgang"
+      ]
+    },
+    {
+      "german": "Der Streik behindert den Fortgang der Arbeiten.",
+      "english": "The strike is hindering the progress of the work.",
+      "highlight": [
+        "Fortgang"
+      ]
+    }
+  ],
+  "forms": [
+    "der Fortgang",
+    "Fortgangs"
+  ],
+  "memoryHook": "Fortgang: going (Gang) onwards (fort).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fortgang",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Fortgang is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fortgang mean?",
+      "options": [
+        "progress",
+        "hot",
+        "to wait"
+      ],
+      "answer": "progress",
+      "explanation": "Fortgang: progress, continuation.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Fortgang is…",
+      "options": [
+        "progress, continuation",
+        "departure only"
+      ],
+      "answer": "progress, continuation",
+      "explanation": "Meaning.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fortgehen means…",
+      "options": [
+        "to go away, leave; to continue",
+        "to go forth only"
+      ],
+      "answer": "to go away, leave; to continue",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Verlauf, die Fortsetzung",
+        "der Stillstand"
+      ],
+      "answer": "der Verlauf, die Fortsetzung",
+      "explanation": "Synonym.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Fortgang is progress or continuation of a process: der Fortgang der Verhandlungen, der Ermittlungen, seinen Fortgang nehmen (to proceed). It can also mean someone's departure. Synonyms: der Verlauf, die Fortsetzung, die Entwicklung. Fort means onwards or away: fortsetzen (continue), fortfahren. It has no plural."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Hilfskraft",
+    "partOfSpeech": "noun, feminine (die Hilfskraft)",
+    "pronunciation": {
+      "respelling": "HILFS-kraft",
+      "ipa": "ˈhɪlfsˌkʁaft",
+      "notes": "Plural: die Hilfskräfte."
+    },
+    "meaning": "assistant, auxiliary worker",
+    "shortDefinition": "Assistant, auxiliary worker."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Hilfskraft, plural die Hilfskräfte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Hilfskraft"
+        },
+        {
+          "label": "More than one",
+          "value": "die Hilfskräfte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er arbeitet als studentische Hilfskraft am Institut.",
+      "english": "He works as a student assistant at the institute.",
+      "highlight": [
+        "Hilfskraft"
+      ]
+    },
+    {
+      "german": "In der Erntezeit werden Hilfskräfte gesucht.",
+      "english": "Seasonal helpers are needed at harvest time.",
+      "highlight": [
+        "Hilfskräfte"
+      ]
+    }
+  ],
+  "forms": [
+    "Hilfskräfte",
+    "die Hilfskraft"
+  ],
+  "memoryHook": "Hilfskraft: a Kraft (worker) for Hilfe (help).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Hilfskraft",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Hilfskraft is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Hilfskraft, zwei ___",
+      "answer": "Hilfskräfte",
+      "fullAnswer": "ein Hilfskraft, zwei Hilfskräfte",
+      "explanation": "The plural is Hilfskräfte.",
+      "acceptedAnswers": [
+        "Hilfskraefte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Hilfskraft mean?",
+      "options": [
+        "the bed",
+        "assistant",
+        "to sleep"
+      ],
+      "answer": "assistant",
+      "explanation": "Hilfskraft: assistant, auxiliary worker.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der HiWi (colloquial) is…",
+      "options": [
+        "a student research assistant",
+        "a hiker"
+      ],
+      "answer": "a student research assistant",
+      "explanation": "University.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Fachkraft is…",
+      "options": [
+        "skilled worker",
+        "a subject"
+      ],
+      "answer": "skilled worker",
+      "explanation": "Contrast.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kraft (here) is…",
+      "options": [
+        "worker, employee; strength",
+        "a cheese"
+      ],
+      "answer": "worker, employee; strength",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Hilfskraft is an assistant or auxiliary worker, unskilled or for support tasks: Küchenhilfskraft, Erntehelfer. At universities, a studentische Hilfskraft, colloquially HiWi, assists professors with research and teaching. The contrast is die Fachkraft (skilled worker); Germany's Fachkräftemangel is a major issue. Die Kraft here means worker. Plural: die Hilfskräfte."
+}

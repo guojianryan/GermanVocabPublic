@@ -1,0 +1,190 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ausschneiden",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AUS-shnai-den",
+      "ipa": "ˈaʊ̯sˌʃnaɪ̯dn̩",
+      "notes": ""
+    },
+    "meaning": "to cut out",
+    "shortDefinition": "To cut out."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "aus",
+        "meaning": "out"
+      },
+      {
+        "part": "schneiden",
+        "meaning": "to cut"
+      }
+    ],
+    "literalMeaning": "to cut out"
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schneid|e … |aus"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schneid|est … |aus"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schneid|et … |aus"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schneid|en … |aus"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schneid|et … |aus"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schneid|en … |aus"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat ausgeschnitten"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie schneidet die Bilder aus der Zeitung aus.",
+      "english": "She's cutting the pictures out of the newspaper.",
+      "highlight": [
+        "schneidet"
+      ]
+    },
+    {
+      "german": "Das Kleid hat einen tiefen Ausschnitt.",
+      "english": "The dress has a plunging neckline.",
+      "highlight": [
+        "Ausschnitt."
+      ]
+    }
+  ],
+  "forms": [
+    "schneide aus",
+    "schneidest aus",
+    "schneidet aus",
+    "schneiden aus",
+    "ausgeschnitten",
+    "schnitt aus",
+    "Ausschnitt"
+  ],
+  "memoryHook": "Ausschneiden: cut it out and keep it.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … aus (ausschneiden)",
+      "answer": "schneidet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schneidet … aus.",
+      "acceptedAnswers": [
+        "schneidet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (ausschneiden, past)",
+      "answer": "ausgeschnitten",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe ausgeschnitten.",
+      "acceptedAnswers": [
+        "ausgeschnitten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does ausschneiden mean?",
+      "options": [
+        "to cut out",
+        "to wait",
+        "to sing"
+      ],
+      "answer": "to cut out",
+      "explanation": "ausschneiden: to cut out.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ausschnitt means…",
+      "options": [
+        "cutting, clip; neckline",
+        "a cut in price"
+      ],
+      "answer": "cutting, clip; neckline",
+      "explanation": "From ausschneiden.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Zeitungsausschnitt is…",
+      "options": [
+        "a newspaper clipping",
+        "a newspaper stand"
+      ],
+      "answer": "a newspaper clipping",
+      "explanation": "Clipping.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Ausschnitt aus dem Film is…",
+      "options": [
+        "a clip or excerpt",
+        "a fee"
+      ],
+      "answer": "a clip or excerpt",
+      "explanation": "Extract.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past tense (preterite), er:",
+      "options": [
+        "schnitt aus",
+        "schneidete aus"
+      ],
+      "answer": "schnitt aus",
+      "explanation": "Strong verb.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Ausschneiden is separable and irregular: er schneidet aus, schnitt aus, hat ausgeschnitten. Its noun der Ausschnitt covers a lot: der Zeitungsausschnitt (clipping), ein Ausschnitt aus dem Film (a clip), and the neckline of a dress, ein tiefer Ausschnitt. The adjective ausgeschnitten describes a low-cut piece of clothing. Children in German kindergartens spend a lot of time with Schere und Papier: ausschneiden und kleben."
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "kurbeln",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "KUR-beln",
+      "ipa": "ˈkʊʁbl̩n",
+      "notes": ""
+    },
+    "meaning": "to crank, wind",
+    "shortDefinition": "To crank, wind."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "kurbl|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "kurbel|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "kurbel|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "kurbel|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "kurbel|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "kurbel|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gekurbelt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Früher musste man das Autofenster herunterkurbeln.",
+      "english": "You used to have to wind down the car window.",
+      "highlight": [
+        "herunterkurbeln."
+      ]
+    },
+    {
+      "german": "Er kurbelte am Lenkrad.",
+      "english": "He turned the steering wheel hard.",
+      "highlight": [
+        "kurbelte"
+      ]
+    }
+  ],
+  "forms": [
+    "kurble",
+    "kurbelst",
+    "kurbelt",
+    "kurbeln",
+    "gekurbelt",
+    "kurbelte"
+  ],
+  "memoryHook": "Kurbeln: turn a Kurbel (crank).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (kurbeln)",
+      "answer": "kurbelt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: kurbelt.",
+      "acceptedAnswers": [
+        "kurbelt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (kurbeln, past)",
+      "answer": "gekurbelt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gekurbelt.",
+      "acceptedAnswers": [
+        "gekurbelt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does kurbeln mean?",
+      "options": [
+        "the bread",
+        "to crank",
+        "to buy"
+      ],
+      "answer": "to crank",
+      "explanation": "kurbeln: to crank, wind.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kurbel is…",
+      "options": [
+        "crank, handle",
+        "a curve"
+      ],
+      "answer": "crank, handle",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Wirtschaft ankurbeln means…",
+      "options": [
+        "to boost the economy",
+        "to crank the economy down"
+      ],
+      "answer": "to boost the economy",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "drehen, winden",
+        "schieben"
+      ],
+      "answer": "drehen, winden",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Kurbeln means to crank or wind: das Fenster herunterkurbeln, am Leierkasten kurbeln. Die Kurbel is a crank or handle. Very common figuratively is ankurbeln: die Wirtschaft, den Konsum ankurbeln (to boost). Old film cameras were hand-cranked, so einen Film kurbeln once meant to shoot a film. Regular: kurbelte, gekurbelt; ich kurble."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Werdegang",
+    "partOfSpeech": "noun, masculine (der Werdegang)",
+    "pronunciation": {
+      "respelling": "VAIR-de-gang",
+      "ipa": "ˈveːɐ̯dəˌɡaŋ",
+      "notes": "Plural: die Werdegänge."
+    },
+    "meaning": "career path, background",
+    "shortDefinition": "Career path, background."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Werdegang, plural die Werdegänge.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Werdegang"
+        },
+        {
+          "label": "More than one",
+          "value": "die Werdegänge"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Erzählen Sie uns von Ihrem beruflichen Werdegang.",
+      "english": "Tell us about your professional background.",
+      "highlight": [
+        "Werdegang."
+      ]
+    },
+    {
+      "german": "Ihr Werdegang ist ungewöhnlich.",
+      "english": "Her career path is unusual.",
+      "highlight": [
+        "Werdegang"
+      ]
+    }
+  ],
+  "forms": [
+    "Werdegänge",
+    "der Werdegang"
+  ],
+  "memoryHook": "Werdegang: the path (Gang) of becoming (werden) who you are.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Werdegang",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Werdegang is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Werdegang, zwei ___",
+      "answer": "Werdegänge",
+      "fullAnswer": "ein Werdegang, zwei Werdegänge",
+      "explanation": "The plural is Werdegänge.",
+      "acceptedAnswers": [
+        "Werdegaenge"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Werdegang mean?",
+      "options": [
+        "the weather",
+        "career path",
+        "the key"
+      ],
+      "answer": "career path",
+      "explanation": "Werdegang: career path, background.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der berufliche Werdegang is…",
+      "options": [
+        "one's career history",
+        "a job title"
+      ],
+      "answer": "one's career history",
+      "explanation": "Career.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Werden means…",
+      "options": [
+        "to become",
+        "to want"
+      ],
+      "answer": "to become",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Lebenslauf is…",
+      "options": [
+        "CV, résumé",
+        "a life run"
+      ],
+      "answer": "CV, résumé",
+      "explanation": "CV.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Werdegang is someone's career path or development: der berufliche Werdegang, der schulische Werdegang. In job interviews, Erzählen Sie etwas über Ihren Werdegang is a classic opener. The written version is der Lebenslauf (CV), which in Germany is traditionally in table form, with a photo still common. From werden (to become). Plural: die Werdegänge."
+}

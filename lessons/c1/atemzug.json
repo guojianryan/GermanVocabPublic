@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Atemzug",
+    "partOfSpeech": "noun, masculine (der Atemzug)",
+    "pronunciation": {
+      "respelling": "AA-tem-tsook",
+      "ipa": "ˈaːtəmˌt͡suːk",
+      "notes": "Plural: die Atemzüge."
+    },
+    "meaning": "breath",
+    "shortDefinition": "Breath."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Atemzug, plural die Atemzüge.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Atemzug"
+        },
+        {
+          "label": "More than one",
+          "value": "die Atemzüge"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er tat einen tiefen Atemzug.",
+      "english": "He took a deep breath.",
+      "highlight": [
+        "Atemzug."
+      ]
+    },
+    {
+      "german": "Bis zum letzten Atemzug kämpfte sie weiter.",
+      "english": "She fought on to her last breath.",
+      "highlight": [
+        "Atemzug"
+      ]
+    }
+  ],
+  "forms": [
+    "Atemzüge",
+    "der Atemzug"
+  ],
+  "memoryHook": "Atemzug: one pull (Zug) of Atem (breath).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Atemzug",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Atemzug is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Atemzug, zwei ___",
+      "answer": "Atemzüge",
+      "fullAnswer": "ein Atemzug, zwei Atemzüge",
+      "explanation": "The plural is Atemzüge.",
+      "acceptedAnswers": [
+        "Atemzuege"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Atemzug mean?",
+      "options": [
+        "quiet",
+        "breath",
+        "the flower"
+      ],
+      "answer": "breath",
+      "explanation": "Atemzug: breath.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Im selben Atemzug means…",
+      "options": [
+        "in the same breath",
+        "at the same pace"
+      ],
+      "answer": "in the same breath",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Atem is…",
+      "options": [
+        "breath",
+        "atom"
+      ],
+      "answer": "breath",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bis zum letzten Atemzug means…",
+      "options": [
+        "to one's dying breath",
+        "until the train stops"
+      ],
+      "answer": "to one's dying breath",
+      "explanation": "Last.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Atemzug is a single breath: ein tiefer Atemzug, bis zum letzten Atemzug (to one's last breath). Im selben Atemzug means in the same breath: Er lobte sie und kritisierte sie im selben Atemzug. Der Atem is breath: außer Atem (out of breath), den Atem anhalten (to hold one's breath). Der Zug here means a pull or draught. Plural: die Atemzüge."
+}

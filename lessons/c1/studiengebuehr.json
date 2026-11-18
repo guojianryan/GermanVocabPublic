@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Studiengebühr",
+    "partOfSpeech": "noun, feminine (die Studiengebühr)",
+    "pronunciation": {
+      "respelling": "SHTOO-di-en-ge-bür",
+      "ipa": "ˈʃtuːdi̯ənɡəˌbyːɐ̯",
+      "notes": "Plural: die Studiengebühren."
+    },
+    "meaning": "tuition fee",
+    "shortDefinition": "Tuition fee."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Studiengebühr, plural die Studiengebühren.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Studiengebühr"
+        },
+        {
+          "label": "More than one",
+          "value": "die Studiengebühren"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In Deutschland gibt es kaum Studiengebühren.",
+      "english": "There are hardly any tuition fees in Germany.",
+      "highlight": [
+        "Studiengebühren."
+      ]
+    },
+    {
+      "german": "Studierende zahlen nur einen Semesterbeitrag.",
+      "english": "Students only pay a semester contribution.",
+      "highlight": [
+        "Semesterbeitrag."
+      ]
+    }
+  ],
+  "forms": [
+    "Studiengebühren",
+    "die Studiengebühr"
+  ],
+  "memoryHook": "Studiengebühr: a Gebühr (fee) for the Studium.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Studiengebühr",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Studiengebühr is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Studiengebühr, zwei ___",
+      "answer": "Studiengebühren",
+      "fullAnswer": "ein Studiengebühr, zwei Studiengebühren",
+      "explanation": "The plural is Studiengebühren.",
+      "acceptedAnswers": [
+        "Studiengebuehren"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Studiengebühr mean?",
+      "options": [
+        "the flower",
+        "tuition fee",
+        "quiet"
+      ],
+      "answer": "tuition fee",
+      "explanation": "Studiengebühr: tuition fee.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "General tuition fees in German states were abolished by…",
+      "options": [
+        "2014",
+        "1990"
+      ],
+      "answer": "2014",
+      "explanation": "Abolished.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Semesterbeitrag usually includes…",
+      "options": [
+        "a public transport ticket",
+        "rent"
+      ],
+      "answer": "a public transport ticket",
+      "explanation": "Semester fee.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Baden-Württemberg charges fees to…",
+      "options": [
+        "most non-EU students",
+        "all students"
+      ],
+      "answer": "most non-EU students",
+      "explanation": "BW.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Studiengebühr is a tuition fee, mostly used in the plural. After a 2005 court ruling, seven western states introduced general fees of about 500 euros a semester, but protests led all of them to abolish them again by 2014. Since 2017, Baden-Württemberg charges most non-EU students 1,500 euros per semester. All students pay a Semesterbeitrag, which usually includes a transport ticket. Plural: die Studiengebühren."
+}

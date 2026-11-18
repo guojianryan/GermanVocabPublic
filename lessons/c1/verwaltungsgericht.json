@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Verwaltungsgericht",
+    "partOfSpeech": "noun, neuter (das Verwaltungsgericht)",
+    "pronunciation": {
+      "respelling": "fer-VAL-tungs-ge-rikht",
+      "ipa": "fɛɐ̯ˈvaltʊŋsɡəˌʁɪçt",
+      "notes": "Plural: die Verwaltungsgerichte."
+    },
+    "meaning": "administrative court",
+    "shortDefinition": "Administrative court."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Verwaltungsgericht, plural die Verwaltungsgerichte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Verwaltungsgericht"
+        },
+        {
+          "label": "More than one",
+          "value": "die Verwaltungsgerichte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er klagt vor dem Verwaltungsgericht gegen die Behörde.",
+      "english": "He's suing the authority at the administrative court.",
+      "highlight": [
+        "Verwaltungsgericht"
+      ]
+    },
+    {
+      "german": "Das Verwaltungsgericht hob das Verbot auf.",
+      "english": "The administrative court lifted the ban.",
+      "highlight": [
+        "Verwaltungsgericht"
+      ]
+    }
+  ],
+  "forms": [
+    "Verwaltungsgerichte",
+    "das Verwaltungsgericht"
+  ],
+  "memoryHook": "Verwaltungsgericht: a Gericht (court) for Verwaltung (administration).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Verwaltungsgericht",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Verwaltungsgericht is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Verwaltungsgericht, zwei ___",
+      "answer": "Verwaltungsgerichte",
+      "fullAnswer": "ein Verwaltungsgericht, zwei Verwaltungsgerichte",
+      "explanation": "The plural is Verwaltungsgerichte.",
+      "acceptedAnswers": [
+        "Verwaltungsgerichte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Verwaltungsgericht mean?",
+      "options": [
+        "to help",
+        "administrative court",
+        "slowly"
+      ],
+      "answer": "administrative court",
+      "explanation": "Verwaltungsgericht: administrative court.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Verwaltungsgericht decides…",
+      "options": [
+        "disputes between citizens and authorities",
+        "criminal cases"
+      ],
+      "answer": "disputes between citizens and authorities",
+      "explanation": "Jurisdiction.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The highest administrative court is…",
+      "options": [
+        "the Bundesverwaltungsgericht (Leipzig)",
+        "the Bundestag"
+      ],
+      "answer": "the Bundesverwaltungsgericht (Leipzig)",
+      "explanation": "Highest.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Verwaltung is…",
+      "options": [
+        "administration",
+        "a forest"
+      ],
+      "answer": "administration",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Verwaltungsgericht is an administrative court, where citizens can challenge decisions by authorities: building permits, school places, asylum decisions, demonstration bans. Germany has specialised court branches: ordinary, administrative, labour, social and tax courts. The highest administrative court is the Bundesverwaltungsgericht in Leipzig, which in 2018 allowed diesel driving bans in cities. Plural: die Verwaltungsgerichte."
+}

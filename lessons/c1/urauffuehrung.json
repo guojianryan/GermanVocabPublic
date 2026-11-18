@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Uraufführung",
+    "partOfSpeech": "noun, feminine (die Uraufführung)",
+    "pronunciation": {
+      "respelling": "OOR-auf-fü-rung",
+      "ipa": "ˈuːɐ̯ʔaʊ̯fˌfyːʁʊŋ",
+      "notes": "Plural: die Uraufführungen."
+    },
+    "meaning": "premiere, first performance",
+    "shortDefinition": "Premiere, first performance."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Uraufführung, plural die Uraufführungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Uraufführung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Uraufführungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Uraufführung der Oper fand 1876 in Bayreuth statt.",
+      "english": "The opera's premiere took place in Bayreuth in 1876.",
+      "highlight": [
+        "Uraufführung"
+      ]
+    },
+    {
+      "german": "Das Stück erlebt heute seine Uraufführung.",
+      "english": "The play has its world premiere today.",
+      "highlight": [
+        "Uraufführung."
+      ]
+    }
+  ],
+  "forms": [
+    "Uraufführungen",
+    "die Uraufführung"
+  ],
+  "memoryHook": "Uraufführung: the very first (Ur-) Aufführung (performance).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Uraufführung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Uraufführung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Uraufführung, zwei ___",
+      "answer": "Uraufführungen",
+      "fullAnswer": "ein Uraufführung, zwei Uraufführungen",
+      "explanation": "The plural is Uraufführungen.",
+      "acceptedAnswers": [
+        "Urauffuehrungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Uraufführung mean?",
+      "options": [
+        "the station",
+        "the shop",
+        "premiere"
+      ],
+      "answer": "premiere",
+      "explanation": "Uraufführung: premiere, first performance.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Uraufführung vs. Premiere:",
+      "options": [
+        "first ever performance vs. first night of a production",
+        "the same"
+      ],
+      "answer": "first ever performance vs. first night of a production",
+      "explanation": "Difference.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Erstaufführung is…",
+      "options": [
+        "first performance in a country/city",
+        "rehearsal"
+      ],
+      "answer": "first performance in a country/city",
+      "explanation": "Local.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ur- means…",
+      "options": [
+        "original, primeval",
+        "your"
+      ],
+      "answer": "original, primeval",
+      "explanation": "Prefix.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Uraufführung is the world premiere, the very first performance of a work: Beethovens Neunte had its Uraufführung in Vienna in 1824, Wagner's Ring cycle at the first Bayreuth Festival in 1876. Die Premiere is the opening night of any new production, and die Erstaufführung the first performance in a particular country or city. Ur- means original: der Urwald, die Urzeit. Plural: die Uraufführungen."
+}

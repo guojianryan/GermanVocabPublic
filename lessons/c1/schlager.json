@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schlager",
+    "partOfSpeech": "noun, masculine (der Schlager)",
+    "pronunciation": {
+      "respelling": "SHLAA-ger",
+      "ipa": "ˈʃlaːɡɐ",
+      "notes": "Plural: die Schlager."
+    },
+    "meaning": "Schlager (German pop song); hit",
+    "shortDefinition": "Schlager (German pop song); hit."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schlager, plural die Schlager.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schlager"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schlager"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Auf der Party liefen nur Schlager.",
+      "english": "They only played Schlager at the party.",
+      "highlight": [
+        "Schlager."
+      ]
+    },
+    {
+      "german": "Das Produkt ist ein echter Schlager.",
+      "english": "The product is a real hit.",
+      "highlight": [
+        "Schlager."
+      ]
+    }
+  ],
+  "forms": [
+    "die Schlager",
+    "der Schlager",
+    "Verkaufsschlager"
+  ],
+  "memoryHook": "Schlager: a hit, in music or on the shelf.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schlager",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schlager is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schlager, zwei ___",
+      "answer": "Schlager",
+      "fullAnswer": "ein Schlager, zwei Schlager",
+      "explanation": "The plural is Schlager.",
+      "acceptedAnswers": [
+        "Schlager"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schlager mean?",
+      "options": [
+        "the evening",
+        "Schlager (German pop song)",
+        "expensive"
+      ],
+      "answer": "Schlager (German pop song)",
+      "explanation": "Schlager: Schlager (German pop song); hit.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schlager is…",
+      "options": [
+        "a sentimental German pop genre",
+        "heavy metal"
+      ],
+      "answer": "a sentimental German pop genre",
+      "explanation": "Genre.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Verkaufsschlager is…",
+      "options": [
+        "a bestseller",
+        "a pushy salesman"
+      ],
+      "answer": "a bestseller",
+      "explanation": "Bestseller.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "From schlagen because…",
+      "options": [
+        "a hit 'strikes' the public",
+        "it's loud"
+      ],
+      "answer": "a hit 'strikes' the public",
+      "explanation": "Etymology.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Schlager is a genre of German-language pop music: catchy, sentimental songs about love, longing and holidays, sung at parties, festivals and in the Schlagerparade on TV. Helene Fischer is today's biggest Schlager star; older classics are sung loudly at carnival and Oktoberfest. More generally, ein Schlager is a hit: der Verkaufsschlager (bestseller). From schlagen (to strike): a song that strikes a chord."
+}

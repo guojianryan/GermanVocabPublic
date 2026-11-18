@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "erklimmen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "er-KLI-men",
+      "ipa": "ɛɐ̯ˈklɪmən",
+      "notes": ""
+    },
+    "meaning": "to climb, scale",
+    "shortDefinition": "To climb, scale."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "erklimm|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "erklimm|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "erklimm|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "erklimm|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "erklimm|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "erklimm|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat erklommen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie erklommen den Gipfel bei Sonnenaufgang.",
+      "english": "They climbed the summit at sunrise.",
+      "highlight": [
+        "erklommen"
+      ]
+    },
+    {
+      "german": "Die Band erklomm die Spitze der Charts.",
+      "english": "The band climbed to the top of the charts.",
+      "highlight": [
+        "erklomm"
+      ]
+    }
+  ],
+  "forms": [
+    "erklimme",
+    "erklimmst",
+    "erklimmt",
+    "erklimmen",
+    "erklommen",
+    "erklomm"
+  ],
+  "memoryHook": "Erklimmen: klimmen (climb) all the way up.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (erklimmen)",
+      "answer": "erklimmt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: erklimmt.",
+      "acceptedAnswers": [
+        "erklimmt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (erklimmen, past)",
+      "answer": "erklommen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe erklommen.",
+      "acceptedAnswers": [
+        "erklommen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does erklimmen mean?",
+      "options": [
+        "hot",
+        "to climb",
+        "to travel"
+      ],
+      "answer": "to climb",
+      "explanation": "erklimmen: to climb, scale.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "erklomm, erklommen",
+        "erklimmte"
+      ],
+      "answer": "erklomm, erklommen",
+      "explanation": "Irregular.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "elevated",
+        "slang"
+      ],
+      "answer": "elevated",
+      "explanation": "Register.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "besteigen, hinaufklettern",
+        "hinabsteigen"
+      ],
+      "answer": "besteigen, hinaufklettern",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Erklimmen means to climb or scale, an elevated word: einen Berg, eine Mauer, die Karriereleiter erklimmen, die Tabellenspitze erklimmen (go top of the league). It's irregular: erklomm, erklommen. The simple verb klimmen is rare except in der Klimmzug (pull-up). Everyday synonyms: besteigen, hinaufklettern."
+}

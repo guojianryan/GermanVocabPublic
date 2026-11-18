@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wahlsieg",
+    "partOfSpeech": "noun, masculine (der Wahlsieg)",
+    "pronunciation": {
+      "respelling": "VAAL-zeek",
+      "ipa": "ˈvaːlˌziːk",
+      "notes": "Plural: die Wahlsiege."
+    },
+    "meaning": "election victory",
+    "shortDefinition": "Election victory."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Wahlsieg, plural die Wahlsiege.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Wahlsieg"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wahlsiege"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Partei feierte einen klaren Wahlsieg.",
+      "english": "The party celebrated a clear election victory.",
+      "highlight": [
+        "Wahlsieg."
+      ]
+    },
+    {
+      "german": "Nach seinem Wahlsieg bildete er eine Koalition.",
+      "english": "After his election victory he formed a coalition.",
+      "highlight": [
+        "Wahlsieg"
+      ]
+    }
+  ],
+  "forms": [
+    "Wahlsiege",
+    "der Wahlsieg"
+  ],
+  "memoryHook": "Wahlsieg: a Sieg (victory) in a Wahl (election).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wahlsieg",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Wahlsieg is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wahlsieg, zwei ___",
+      "answer": "Wahlsiege",
+      "fullAnswer": "ein Wahlsieg, zwei Wahlsiege",
+      "explanation": "The plural is Wahlsiege.",
+      "acceptedAnswers": [
+        "Wahlsiege"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wahlsieg mean?",
+      "options": [
+        "election victory",
+        "the street",
+        "cheap"
+      ],
+      "answer": "election victory",
+      "explanation": "Wahlsieg: election victory.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Wahlniederlage is…",
+      "options": [
+        "election defeat",
+        "polling station"
+      ],
+      "answer": "election defeat",
+      "explanation": "Opposite.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Erdrutschsieg is…",
+      "options": [
+        "a landslide victory",
+        "a mud fight"
+      ],
+      "answer": "a landslide victory",
+      "explanation": "Landslide.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Wahlkampf is…",
+      "options": [
+        "election campaign",
+        "polling"
+      ],
+      "answer": "election campaign",
+      "explanation": "Campaign.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Wahlsieg is an election victory: ein knapper Wahlsieg (narrow), ein Erdrutschsieg (landslide). Its opposite is die Wahlniederlage. In Germany's proportional system, the party with the most votes doesn't automatically govern: it needs a majority coalition in the Bundestag. Related: der Wahlkampf (campaign), der Wahlabend (election night). Plural: die Wahlsiege."
+}

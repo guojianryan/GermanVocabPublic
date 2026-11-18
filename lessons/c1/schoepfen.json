@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "schöpfen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHÖP-fen",
+      "ipa": "ˈʃœp͡fn̩",
+      "notes": ""
+    },
+    "meaning": "to scoop, draw; to gain (hope, strength)",
+    "shortDefinition": "To scoop, draw; to gain (hope, strength)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schöpf|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schöpf|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schöpf|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schöpf|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schöpf|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schöpf|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geschöpft"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie schöpft Wasser aus dem Brunnen.",
+      "english": "She draws water from the well.",
+      "highlight": [
+        "schöpft"
+      ]
+    },
+    {
+      "german": "Nach dem Gespräch schöpfte er neue Hoffnung.",
+      "english": "After the talk he gained new hope.",
+      "highlight": [
+        "schöpfte"
+      ]
+    }
+  ],
+  "forms": [
+    "schöpfe",
+    "schöpfst",
+    "schöpft",
+    "schöpfen",
+    "geschöpft",
+    "Schöpfer",
+    "Schöpfung"
+  ],
+  "memoryHook": "Schöpfen: scoop something up, or draw new strength.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (schöpfen)",
+      "answer": "schöpft",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schöpft.",
+      "acceptedAnswers": [
+        "schoepft"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (schöpfen, past)",
+      "answer": "geschöpft",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geschöpft.",
+      "acceptedAnswers": [
+        "geschoepft"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does schöpfen mean?",
+      "options": [
+        "to help",
+        "to scoop",
+        "to sleep"
+      ],
+      "answer": "to scoop",
+      "explanation": "schöpfen: to scoop, draw; to gain (hope, strength).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hoffnung schöpfen means…",
+      "options": [
+        "to gain hope",
+        "to lose hope"
+      ],
+      "answer": "to gain hope",
+      "explanation": "Hope.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verdacht schöpfen means…",
+      "options": [
+        "to become suspicious",
+        "to clear suspicion"
+      ],
+      "answer": "to become suspicious",
+      "explanation": "Suspicion.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schöpfung is…",
+      "options": [
+        "creation",
+        "a scoop"
+      ],
+      "answer": "creation",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Schöpfen means to scoop or draw: Wasser schöpfen, Suppe schöpfen (die Schöpfkelle, ladle). Figuratively: Hoffnung schöpfen (to gain hope), Kraft schöpfen, Luft schöpfen (to catch one's breath), Verdacht schöpfen (to become suspicious), aus dem Vollen schöpfen (to draw on plentiful resources). Der Schöpfer is the creator, and die Schöpfung creation. Regular: schöpfte, geschöpft."
+}

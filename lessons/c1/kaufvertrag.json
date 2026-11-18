@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kaufvertrag",
+    "partOfSpeech": "noun, masculine (der Kaufvertrag)",
+    "pronunciation": {
+      "respelling": "KAUF-fer-traak",
+      "ipa": "ˈkaʊ̯ffɛɐ̯ˌtʁaːk",
+      "notes": "Plural: die Kaufverträge."
+    },
+    "meaning": "purchase contract",
+    "shortDefinition": "Purchase contract."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kaufvertrag, plural die Kaufverträge.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kaufvertrag"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kaufverträge"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir haben den Kaufvertrag für die Wohnung unterschrieben.",
+      "english": "We signed the purchase contract for the flat.",
+      "highlight": [
+        "Kaufvertrag"
+      ]
+    },
+    {
+      "german": "Ein Kaufvertrag für ein Grundstück muss notariell beurkundet werden.",
+      "english": "A contract to buy land must be notarised.",
+      "highlight": [
+        "Kaufvertrag"
+      ]
+    }
+  ],
+  "forms": [
+    "Kaufverträge",
+    "der Kaufvertrag"
+  ],
+  "memoryHook": "Kaufvertrag: a Vertrag for a Kauf (purchase).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kaufvertrag",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kaufvertrag is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kaufvertrag, zwei ___",
+      "answer": "Kaufverträge",
+      "fullAnswer": "ein Kaufvertrag, zwei Kaufverträge",
+      "explanation": "The plural is Kaufverträge.",
+      "acceptedAnswers": [
+        "Kaufvertraege"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kaufvertrag mean?",
+      "options": [
+        "cheap",
+        "purchase contract",
+        "quiet"
+      ],
+      "answer": "purchase contract",
+      "explanation": "Kaufvertrag: purchase contract.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Property purchase contracts in Germany must be…",
+      "options": [
+        "notarised",
+        "verbal"
+      ],
+      "answer": "notarised",
+      "explanation": "Notary.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Mietvertrag is…",
+      "options": [
+        "rental contract",
+        "purchase contract"
+      ],
+      "answer": "rental contract",
+      "explanation": "Contrast.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Vertrag is…",
+      "options": [
+        "contract, treaty",
+        "a lecture"
+      ],
+      "answer": "contract, treaty",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Kaufvertrag is a purchase contract. Legally, even buying bread is a Kaufvertrag under the BGB, made by offer and acceptance. A Kaufvertrag for land or a flat must be notariell beurkundet (notarised); the notary reads the whole contract aloud. Private car sales use a written Kaufvertrag, often with Gewährleistungsausschluss (no warranty). Plural: die Kaufverträge."
+}

@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "kneten",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "KNAY-ten",
+      "ipa": "ˈkneːtn̩",
+      "notes": ""
+    },
+    "meaning": "to knead; to mould",
+    "shortDefinition": "To knead; to mould."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "knet|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "knet|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "knet|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "knet|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "knet|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "knet|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geknetet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Den Teig zehn Minuten kneten.",
+      "english": "Knead the dough for ten minutes.",
+      "highlight": [
+        "kneten."
+      ]
+    },
+    {
+      "german": "Die Kinder kneten Figuren aus Ton.",
+      "english": "The children mould figures from clay.",
+      "highlight": [
+        "kneten"
+      ]
+    }
+  ],
+  "forms": [
+    "knete",
+    "knetest",
+    "knetet",
+    "kneten",
+    "geknetet",
+    "knetete",
+    "Knete"
+  ],
+  "memoryHook": "Kneten: press and fold, like dough.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (kneten)",
+      "answer": "knetet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: knetet.",
+      "acceptedAnswers": [
+        "knetet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (kneten, past)",
+      "answer": "geknetet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geknetet.",
+      "acceptedAnswers": [
+        "geknetet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does kneten mean?",
+      "options": [
+        "the job",
+        "the child",
+        "to knead"
+      ],
+      "answer": "to knead",
+      "explanation": "kneten: to knead; to mould.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Knete is…",
+      "options": [
+        "modelling clay; (slang) money",
+        "a knee"
+      ],
+      "answer": "modelling clay; (slang) money",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kneten (massage) means…",
+      "options": [
+        "to knead muscles",
+        "to stretch"
+      ],
+      "answer": "to knead muscles",
+      "explanation": "Massage.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Teig is…",
+      "options": [
+        "dough",
+        "day"
+      ],
+      "answer": "dough",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Kneten means to knead: Teig kneten, die Schultern kneten (massage), and to mould: Figuren aus Knete kneten. Die Knete is modelling clay, also called Knetmasse, and colloquial slang for money: Hast du genug Knete? Kitchen machines are often called Küchenmaschinen mit Knethaken (dough hooks). Regular: knetete, geknetet."
+}

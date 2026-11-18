@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Millionär",
+    "partOfSpeech": "noun, masculine (der Millionär)",
+    "pronunciation": {
+      "respelling": "mi-lyo-NAIR",
+      "ipa": "mɪli̯oˈnɛːɐ̯",
+      "notes": "Plural: die Millionäre."
+    },
+    "meaning": "millionaire",
+    "shortDefinition": "Millionaire."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Millionär, plural die Millionäre.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Millionär"
+        },
+        {
+          "label": "More than one",
+          "value": "die Millionäre"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er ist mit seiner Firma zum Millionär geworden.",
+      "english": "He became a millionaire with his company.",
+      "highlight": [
+        "Millionär"
+      ]
+    },
+    {
+      "german": "Wer wird Millionär? ist eine bekannte Quizshow.",
+      "english": "Who Wants to Be a Millionaire? is a well-known quiz show.",
+      "highlight": [
+        "Millionär?"
+      ]
+    }
+  ],
+  "forms": [
+    "Millionäre",
+    "die Millionäre",
+    "der Millionär",
+    "Millionärin"
+  ],
+  "memoryHook": "Millionär: someone with a Million.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Millionär",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Millionär is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Millionär, zwei ___",
+      "answer": "Millionäre",
+      "fullAnswer": "ein Millionär, zwei Millionäre",
+      "explanation": "The plural is Millionäre.",
+      "acceptedAnswers": [
+        "Millionaere"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Millionär mean?",
+      "options": [
+        "the family",
+        "millionaire",
+        "the street"
+      ],
+      "answer": "millionaire",
+      "explanation": "Millionär: millionaire.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Millionärin",
+        "die Millionärse"
+      ],
+      "answer": "die Millionärin",
+      "explanation": "-in.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Milliardär is…",
+      "options": [
+        "a billionaire",
+        "a millionaire"
+      ],
+      "answer": "a billionaire",
+      "explanation": "Billion.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "German Milliarde equals…",
+      "options": [
+        "English billion (10⁹)",
+        "English million"
+      ],
+      "answer": "English billion (10⁹)",
+      "explanation": "Milliarde.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Millionär (die Millionärin) is a millionaire. Wer wird Millionär?, hosted by Günther Jauch since 1999, is one of Germany's most popular TV shows. Careful with big numbers: German eine Milliarde is an English billion, and eine Billion is a trillion, so a billionaire is der Milliardär. Germany has about 1.6 million millionaires in US dollars, according to bank wealth reports. Plural: die Millionäre."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mittelständler",
+    "partOfSpeech": "noun, masculine (der Mittelständler)",
+    "pronunciation": {
+      "respelling": "MI-tel-shtent-ler",
+      "ipa": "ˈmɪtl̩ˌʃtɛntlɐ",
+      "notes": "Plural: die Mittelständler."
+    },
+    "meaning": "medium-sized company (owner)",
+    "shortDefinition": "Medium-sized company (owner)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Mittelständler, plural die Mittelständler.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Mittelständler"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mittelständler"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Viele Mittelständler klagen über Fachkräftemangel.",
+      "english": "Many medium-sized businesses complain about the skills shortage.",
+      "highlight": [
+        "Mittelständler"
+      ]
+    },
+    {
+      "german": "Der Mittelständler beschäftigt 300 Mitarbeiter.",
+      "english": "The mid-sized firm employs 300 staff.",
+      "highlight": [
+        "Mittelständler"
+      ]
+    }
+  ],
+  "forms": [
+    "der Mittelständler",
+    "Mittelständlers"
+  ],
+  "memoryHook": "Mittelständler: a member of the Mittelstand.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mittelständler",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Mittelständler is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mittelständler, zwei ___",
+      "answer": "Mittelständler",
+      "fullAnswer": "ein Mittelständler, zwei Mittelständler",
+      "explanation": "The plural is Mittelständler.",
+      "acceptedAnswers": [
+        "Mittelstaendler"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mittelständler mean?",
+      "options": [
+        "cheap",
+        "medium-sized company (owner)",
+        "to buy"
+      ],
+      "answer": "medium-sized company (owner)",
+      "explanation": "Mittelständler: medium-sized company (owner).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Mittelstand is…",
+      "options": [
+        "Germany's small and medium-sized businesses",
+        "the middle class only"
+      ],
+      "answer": "Germany's small and medium-sized businesses",
+      "explanation": "Germany.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hidden champions are…",
+      "options": [
+        "little-known world market leaders, often Mittelständler",
+        "secret athletes"
+      ],
+      "answer": "little-known world market leaders, often Mittelständler",
+      "explanation": "Economy.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Typical ownership:",
+      "options": [
+        "often family-owned",
+        "always state-owned"
+      ],
+      "answer": "often family-owned",
+      "explanation": "Economy.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Mittelständler is a medium-sized company, or its owner, part of the German Mittelstand: mostly family-owned small and medium-sized firms, seen as the backbone of the economy. Many are hidden champions, world market leaders in niche products that few people know. Der Mittelstand can also mean the middle class. The plural is the same."
+}

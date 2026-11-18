@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Luftschloss",
+    "partOfSpeech": "noun, neuter (das Luftschloss)",
+    "pronunciation": {
+      "respelling": "LUFT-shlos",
+      "ipa": "ˈlʊftˌʃlɔs",
+      "notes": "Plural: die Luftschlösser."
+    },
+    "meaning": "castle in the air, pipe dream",
+    "shortDefinition": "Castle in the air, pipe dream."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Luftschloss, plural die Luftschlösser.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Luftschloss"
+        },
+        {
+          "label": "More than one",
+          "value": "die Luftschlösser"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Seine Pläne sind nur Luftschlösser.",
+      "english": "His plans are just castles in the air.",
+      "highlight": [
+        "Luftschlösser."
+      ]
+    },
+    {
+      "german": "Hör auf, Luftschlösser zu bauen!",
+      "english": "Stop building castles in the air!",
+      "highlight": [
+        "Luftschlösser"
+      ]
+    }
+  ],
+  "forms": [
+    "Luftschlösser",
+    "das Luftschloss"
+  ],
+  "memoryHook": "Luftschloss: a Schloss (castle) built of Luft (air).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Luftschloss",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Luftschloss is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Luftschloss, zwei ___",
+      "answer": "Luftschlösser",
+      "fullAnswer": "ein Luftschloss, zwei Luftschlösser",
+      "explanation": "The plural is Luftschlösser.",
+      "acceptedAnswers": [
+        "Luftschloesser"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Luftschloss mean?",
+      "options": [
+        "castle in the air",
+        "expensive",
+        "cheap"
+      ],
+      "answer": "castle in the air",
+      "explanation": "Luftschloss: castle in the air, pipe dream.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Luftschlösser bauen means…",
+      "options": [
+        "to daydream about unrealistic plans",
+        "to build airports"
+      ],
+      "answer": "to daydream about unrealistic plans",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Schloss is…",
+      "options": [
+        "castle; lock",
+        "a slope"
+      ],
+      "answer": "castle; lock",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "das Hirngespinst, die Träumerei",
+        "der Plan B"
+      ],
+      "answer": "das Hirngespinst, die Träumerei",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Luftschloss is a castle in the air or pipe dream, usually plural: Luftschlösser bauen (to build castles in the air). Das Schloss means castle and also lock. Synonyms: das Hirngespinst (figment), die Träumerei, die Utopie. The opposite is something realistic: auf dem Boden der Tatsachen bleiben (to stay down to earth). Plural: die Luftschlösser."
+}

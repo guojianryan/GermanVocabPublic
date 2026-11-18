@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "lancieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "lã-SEE-ren",
+      "ipa": "lɑ̃ˈsiːʁən",
+      "notes": ""
+    },
+    "meaning": "to launch; to leak, plant (news)",
+    "shortDefinition": "To launch; to leak, plant (news)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "lancier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "lancier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "lancier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "lancier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "lancier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "lancier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat lanciert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Firma lanciert ein neues Produkt.",
+      "english": "The company is launching a new product.",
+      "highlight": [
+        "lanciert"
+      ]
+    },
+    {
+      "german": "Jemand hat die Information gezielt an die Presse lanciert.",
+      "english": "Someone deliberately leaked the information to the press.",
+      "highlight": [
+        "lanciert."
+      ]
+    }
+  ],
+  "forms": [
+    "lanciere",
+    "lancierst",
+    "lanciert",
+    "lancieren",
+    "lancierte"
+  ],
+  "memoryHook": "Lancieren: French lancer, to throw, launch.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (lancieren)",
+      "answer": "lanciert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: lanciert.",
+      "acceptedAnswers": [
+        "lanciert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (lancieren, past)",
+      "answer": "lanciert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe lanciert.",
+      "acceptedAnswers": [
+        "lanciert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does lancieren mean?",
+      "options": [
+        "the street",
+        "the weather",
+        "to launch"
+      ],
+      "answer": "to launch",
+      "explanation": "lancieren: to launch; to leak, plant (news).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pronunciation:",
+      "options": [
+        "French nasal (lã-SEE-ren)",
+        "LAN-tsee-ren"
+      ],
+      "answer": "French nasal (lã-SEE-ren)",
+      "explanation": "Pronunciation.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Etwas an die Presse lancieren means…",
+      "options": [
+        "to leak something to the press",
+        "to sue the press"
+      ],
+      "answer": "to leak something to the press",
+      "explanation": "Phrase.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym (launch):",
+      "options": [
+        "einführen, starten, auf den Markt bringen",
+        "zurückziehen"
+      ],
+      "answer": "einführen, starten, auf den Markt bringen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Lancieren means to launch a product, campaign or initiative: eine Kampagne lancieren. It's especially common in Switzerland, where a Volksinitiative is lanciert. It also means to leak or plant information strategically: eine Meldung in die Presse lancieren. From French lancer (to throw). Pronounced with a French nasal. Participle: lanciert."
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "überschreiben",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ü-ber-SHRAI-ben",
+      "ipa": "yːbɐˈʃʁaɪ̯bn̩",
+      "notes": ""
+    },
+    "meaning": "to overwrite; to transfer (property); to title",
+    "shortDefinition": "To overwrite; to transfer (property); to title."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "überschreib|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "überschreib|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "überschreib|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "überschreib|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "überschreib|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "überschreib|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat überschrieben"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die alte Datei wurde überschrieben.",
+      "english": "The old file was overwritten.",
+      "highlight": [
+        "überschrieben."
+      ]
+    },
+    {
+      "german": "Sie hat das Haus auf ihren Sohn überschrieben.",
+      "english": "She transferred the house to her son.",
+      "highlight": [
+        "überschrieben."
+      ]
+    }
+  ],
+  "forms": [
+    "überschreibe",
+    "überschreibst",
+    "überschreibt",
+    "überschreiben",
+    "überschrieben",
+    "überschrieb"
+  ],
+  "memoryHook": "Überschreiben: schreiben (write) over (über) something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (überschreiben)",
+      "answer": "überschreibt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: überschreibt.",
+      "acceptedAnswers": [
+        "ueberschreibt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (überschreiben, past)",
+      "answer": "überschrieben",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe überschrieben.",
+      "acceptedAnswers": [
+        "ueberschrieben"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does überschreiben mean?",
+      "options": [
+        "quiet",
+        "to overwrite",
+        "to buy"
+      ],
+      "answer": "to overwrite",
+      "explanation": "überschreiben: to overwrite; to transfer (property); to title.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Etwas auf jemanden überschreiben means…",
+      "options": [
+        "to transfer ownership to someone",
+        "to write over someone"
+      ],
+      "answer": "to transfer ownership to someone",
+      "explanation": "Property.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "überschrieb, überschrieben",
+        "überschreibte"
+      ],
+      "answer": "überschrieb, überschrieben",
+      "explanation": "Irregular.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Überschrift is…",
+      "options": [
+        "heading, headline",
+        "signature"
+      ],
+      "answer": "heading, headline",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Überschreiben means to overwrite (eine Datei überschreiben), to transfer property (das Haus auf die Kinder überschreiben, often to save inheritance tax), and to give a title: Das Kapitel ist mit Anfang überschrieben. Die Überschrift is a heading. It's inseparable and irregular: überschreibt, überschrieb, hat überschrieben."
+}

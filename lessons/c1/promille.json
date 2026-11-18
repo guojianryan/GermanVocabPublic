@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Promille",
+    "partOfSpeech": "noun, neuter (das Promille)",
+    "pronunciation": {
+      "respelling": "pro-MI-le",
+      "ipa": "pʁoˈmɪlə",
+      "notes": "Plural: die Promille."
+    },
+    "meaning": "per mille; blood alcohol level",
+    "shortDefinition": "Per mille; blood alcohol level."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Promille, plural die Promille.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Promille"
+        },
+        {
+          "label": "More than one",
+          "value": "die Promille"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er fuhr mit 1,5 Promille.",
+      "english": "He was driving with a blood alcohol level of 1.5 per mille.",
+      "highlight": [
+        "Promille."
+      ]
+    },
+    {
+      "german": "In Deutschland gilt beim Autofahren eine Grenze von 0,5 Promille.",
+      "english": "In Germany the drink-drive limit is 0.5 per mille.",
+      "highlight": [
+        "Promille."
+      ]
+    }
+  ],
+  "forms": [
+    "die Promille",
+    "das Promille",
+    "Promillegrenze"
+  ],
+  "memoryHook": "Promille: per thousand (pro mille), used for alcohol levels.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Promille",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Promille is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Promille, zwei ___",
+      "answer": "Promille",
+      "fullAnswer": "ein Promille, zwei Promille",
+      "explanation": "The plural is Promille.",
+      "acceptedAnswers": [
+        "Promille"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Promille mean?",
+      "options": [
+        "the shop",
+        "per mille",
+        "to open"
+      ],
+      "answer": "per mille",
+      "explanation": "Promille: per mille; blood alcohol level.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's general drink-drive limit is…",
+      "options": [
+        "0.5 Promille",
+        "0.8 Promille"
+      ],
+      "answer": "0.5 Promille",
+      "explanation": "Limit.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "For new drivers (Probezeit) and under 21, the limit is…",
+      "options": [
+        "0.0",
+        "0.3"
+      ],
+      "answer": "0.0",
+      "explanation": "Zero.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Promillegrenze is…",
+      "options": [
+        "the legal alcohol limit",
+        "a speed limit"
+      ],
+      "answer": "the legal alcohol limit",
+      "explanation": "Limit.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Promille means per thousand (‰) and is mostly used for blood alcohol levels: 0,5 Promille. In Germany, driving with 0.5 or more brings a fine, points and a driving ban; from 1.1 Promille it's a criminal offence; new drivers and under-21s must have 0.0. Cyclists face criminal charges from 1.6 Promille. Mit wie viel Promille? is a standard question in police reports. Plural: die Promille."
+}

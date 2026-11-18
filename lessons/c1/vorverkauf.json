@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vorverkauf",
+    "partOfSpeech": "noun, masculine (der Vorverkauf)",
+    "pronunciation": {
+      "respelling": "FOHR-fer-kauf",
+      "ipa": "ˈfoːɐ̯fɛɐ̯ˌkaʊ̯f",
+      "notes": "Plural: die Vorverkäufe."
+    },
+    "meaning": "advance sale (tickets)",
+    "shortDefinition": "Advance sale (tickets)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Vorverkauf, plural die Vorverkäufe.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Vorverkauf"
+        },
+        {
+          "label": "More than one",
+          "value": "die Vorverkäufe"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Vorverkauf kosten die Karten 30 Euro.",
+      "english": "In advance the tickets cost 30 euros.",
+      "highlight": [
+        "Vorverkauf"
+      ]
+    },
+    {
+      "german": "Der Vorverkauf für das Konzert beginnt am Montag.",
+      "english": "Advance ticket sales for the concert start on Monday.",
+      "highlight": [
+        "Vorverkauf"
+      ]
+    }
+  ],
+  "forms": [
+    "Vorverkäufe",
+    "der Vorverkauf"
+  ],
+  "memoryHook": "Vorverkauf: a Verkauf (sale) vor (before) the event.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vorverkauf",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Vorverkauf is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Vorverkauf, zwei ___",
+      "answer": "Vorverkäufe",
+      "fullAnswer": "ein Vorverkauf, zwei Vorverkäufe",
+      "explanation": "The plural is Vorverkäufe.",
+      "acceptedAnswers": [
+        "Vorverkaeufe"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vorverkauf mean?",
+      "options": [
+        "the child",
+        "advance sale (tickets)",
+        "the station"
+      ],
+      "answer": "advance sale (tickets)",
+      "explanation": "Vorverkauf: advance sale (tickets).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Abbreviation on posters:",
+      "options": [
+        "VVK",
+        "VKF"
+      ],
+      "answer": "VVK",
+      "explanation": "VVK.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Abendkasse is…",
+      "options": [
+        "box office on the night",
+        "an evening till"
+      ],
+      "answer": "box office on the night",
+      "explanation": "Contrast.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Vorverkaufsstelle is…",
+      "options": [
+        "ticket agency",
+        "pre-sale warehouse"
+      ],
+      "answer": "ticket agency",
+      "explanation": "Compound.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Vorverkauf (VVK on posters) is the advance sale of tickets: Karten im Vorverkauf, VVK 25 €, AK 30 €. AK stands for Abendkasse, buying at the door on the night, usually dearer. Tickets are sold at Vorverkaufsstellen or online, sometimes with a Vorverkaufsgebühr (booking fee). Plural: die Vorverkäufe."
+}

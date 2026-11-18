@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zwischenbilanz",
+    "partOfSpeech": "noun, feminine (die Zwischenbilanz)",
+    "pronunciation": {
+      "respelling": "TSVI-shen-bi-lants",
+      "ipa": "ˈt͡svɪʃn̩biˌlant͡s",
+      "notes": "Plural: die Zwischenbilanzen."
+    },
+    "meaning": "interim review, interim results",
+    "shortDefinition": "Interim review, interim results."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Zwischenbilanz, plural die Zwischenbilanzen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Zwischenbilanz"
+        },
+        {
+          "label": "More than one",
+          "value": "die Zwischenbilanzen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nach 100 Tagen zieht die Regierung eine Zwischenbilanz.",
+      "english": "After 100 days the government takes stock.",
+      "highlight": [
+        "Zwischenbilanz."
+      ]
+    },
+    {
+      "german": "Die Zwischenbilanz fällt gemischt aus.",
+      "english": "The interim review is mixed.",
+      "highlight": [
+        "Zwischenbilanz"
+      ]
+    }
+  ],
+  "forms": [
+    "Zwischenbilanzen",
+    "die Zwischenbilanz"
+  ],
+  "memoryHook": "Zwischenbilanz: a Bilanz taken zwischendurch (in between).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zwischenbilanz",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Zwischenbilanz is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Zwischenbilanz, zwei ___",
+      "answer": "Zwischenbilanzen",
+      "fullAnswer": "ein Zwischenbilanz, zwei Zwischenbilanzen",
+      "explanation": "The plural is Zwischenbilanzen.",
+      "acceptedAnswers": [
+        "Zwischenbilanzen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zwischenbilanz mean?",
+      "options": [
+        "interim review",
+        "the street",
+        "the car"
+      ],
+      "answer": "interim review",
+      "explanation": "Zwischenbilanz: interim review, interim results.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Zwischenbilanz ziehen means…",
+      "options": [
+        "to take stock halfway",
+        "to draw a line"
+      ],
+      "answer": "to take stock halfway",
+      "explanation": "Phrase.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Bilanz is…",
+      "options": [
+        "balance sheet; review, outcome",
+        "a balance beam"
+      ],
+      "answer": "balance sheet; review, outcome",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zwischen- means…",
+      "options": [
+        "interim, intermediate",
+        "twin"
+      ],
+      "answer": "interim, intermediate",
+      "explanation": "Prefix.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Zwischenbilanz is an interim review or interim results: eine Zwischenbilanz ziehen (to take stock halfway). It's common in politics (after 100 days in office), business and sport. Die Bilanz means balance sheet and also the overall outcome: eine positive Bilanz. Zwischen- means interim: das Zwischenergebnis, die Zwischenprüfung. Plural: die Zwischenbilanzen."
+}

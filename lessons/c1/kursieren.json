@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "kursieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "kur-ZEE-ren",
+      "ipa": "kʊʁˈziːʁən",
+      "notes": ""
+    },
+    "meaning": "to circulate (rumours)",
+    "shortDefinition": "To circulate (rumours)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "kursier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "kursier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "kursier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "kursier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "kursier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "kursier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat kursiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Internet kursieren falsche Gerüchte.",
+      "english": "False rumours are circulating online.",
+      "highlight": [
+        "kursieren"
+      ]
+    },
+    {
+      "german": "Es kursiert ein Video von dem Vorfall.",
+      "english": "A video of the incident is circulating.",
+      "highlight": [
+        "kursiert"
+      ]
+    }
+  ],
+  "forms": [
+    "kursiere",
+    "kursierst",
+    "kursiert",
+    "kursieren"
+  ],
+  "memoryHook": "Kursieren: run (currere) around.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (kursieren)",
+      "answer": "kursiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: kursiert.",
+      "acceptedAnswers": [
+        "kursiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (kursieren, past)",
+      "answer": "kursiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe kursiert.",
+      "acceptedAnswers": [
+        "kursiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does kursieren mean?",
+      "options": [
+        "to help",
+        "to sing",
+        "to circulate (rumours)"
+      ],
+      "answer": "to circulate (rumours)",
+      "explanation": "kursieren: to circulate (rumours).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kursieren means…",
+      "options": [
+        "to circulate, do the rounds",
+        "to curse"
+      ],
+      "answer": "to circulate, do the rounds",
+      "explanation": "Circulate.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Typical subjects:",
+      "options": [
+        "Gerüchte, Videos, Falschnachrichten",
+        "Autos"
+      ],
+      "answer": "Gerüchte, Videos, Falschnachrichten",
+      "explanation": "Subjects.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kurs is…",
+      "options": [
+        "course; exchange rate; share price",
+        "a curse"
+      ],
+      "answer": "course; exchange rate; share price",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Kursieren means to circulate or do the rounds, of rumours, documents, videos and fake banknotes: Gerüchte kursieren, Im Netz kursiert eine Liste. It comes from Latin currere (to run), like der Kurs (course, exchange rate). Synonyms: im Umlauf sein, umgehen, die Runde machen. Perfect without ge-: hat kursiert."
+}

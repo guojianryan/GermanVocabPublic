@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Futtermittel",
+    "partOfSpeech": "noun, neuter (das Futtermittel)",
+    "pronunciation": {
+      "respelling": "FU-ter-mi-tel",
+      "ipa": "ˈfʊtɐˌmɪtl̩",
+      "notes": "Plural: die Futtermittel."
+    },
+    "meaning": "animal feed",
+    "shortDefinition": "Animal feed."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Futtermittel, plural die Futtermittel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Futtermittel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Futtermittel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Soja wird oft als Futtermittel importiert.",
+      "english": "Soy is often imported as animal feed.",
+      "highlight": [
+        "Futtermittel"
+      ]
+    },
+    {
+      "german": "In den Futtermitteln wurde Dioxin gefunden.",
+      "english": "Dioxin was found in the animal feed.",
+      "highlight": [
+        "Futtermitteln"
+      ]
+    }
+  ],
+  "forms": [
+    "das Futtermittel",
+    "Futtermitteln"
+  ],
+  "memoryHook": "Futtermittel: a Mittel (agent) used as Futter (fodder).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Futtermittel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Futtermittel is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Futtermittel, zwei ___",
+      "answer": "Futtermittel",
+      "fullAnswer": "ein Futtermittel, zwei Futtermittel",
+      "explanation": "The plural is Futtermittel.",
+      "acceptedAnswers": [
+        "Futtermittel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Futtermittel mean?",
+      "options": [
+        "animal feed",
+        "quiet",
+        "the window"
+      ],
+      "answer": "animal feed",
+      "explanation": "Futtermittel: animal feed.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Futter is…",
+      "options": [
+        "animal food, fodder; lining (coat)",
+        "a father"
+      ],
+      "answer": "animal food, fodder; lining (coat)",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Füttern means…",
+      "options": [
+        "to feed (animals, babies)",
+        "to fatten"
+      ],
+      "answer": "to feed (animals, babies)",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Lebensmittel are…",
+      "options": [
+        "food for humans",
+        "animal feed"
+      ],
+      "answer": "food for humans",
+      "explanation": "Contrast.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Futtermittel is animal feed: Kraftfutter, Futtermittelimporte. Much German livestock eats imported soy, linked to deforestation in South America. Feed scandals, such as dioxin found in 2011, led to stricter controls. Das Futter means fodder, and also the lining of a coat. Füttern means to feed. Human food is Lebensmittel. The plural is the same."
+}

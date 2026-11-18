@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kommando",
+    "partOfSpeech": "noun, neuter (das Kommando)",
+    "pronunciation": {
+      "respelling": "ko-MAN-do",
+      "ipa": "kɔˈmando",
+      "notes": "Plural: die Kommandos."
+    },
+    "meaning": "command, order; command unit",
+    "shortDefinition": "Command, order; command unit."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Kommando, plural die Kommandos.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Kommando"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kommandos"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Auf mein Kommando!",
+      "english": "On my command!",
+      "highlight": [
+        "Kommando!"
+      ]
+    },
+    {
+      "german": "Er hat das Kommando übernommen.",
+      "english": "He took command.",
+      "highlight": [
+        "Kommando"
+      ]
+    }
+  ],
+  "forms": [
+    "Kommandos",
+    "die Kommandos",
+    "das Kommando",
+    "kommandieren"
+  ],
+  "memoryHook": "Kommando: the order the commander gives.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kommando",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Kommando is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kommando, zwei ___",
+      "answer": "Kommandos",
+      "fullAnswer": "ein Kommando, zwei Kommandos",
+      "explanation": "The plural is Kommandos.",
+      "acceptedAnswers": [
+        "Kommandos"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kommando mean?",
+      "options": [
+        "the car",
+        "command",
+        "the family"
+      ],
+      "answer": "command",
+      "explanation": "Kommando: command, order; command unit.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Kommando übernehmen means…",
+      "options": [
+        "to take charge",
+        "to resign"
+      ],
+      "answer": "to take charge",
+      "explanation": "Take command.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kommandant is…",
+      "options": [
+        "the commander",
+        "the soldier"
+      ],
+      "answer": "the commander",
+      "explanation": "Commander.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wie auf Kommando means…",
+      "options": [
+        "as if on cue",
+        "too late"
+      ],
+      "answer": "as if on cue",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Kommando is a command or order: Auf mein Kommando! It also means command or leadership: das Kommando übernehmen (to take charge), and a unit for special operations: das Kommando Spezialkräfte (KSK) is Germany's special forces. Wie auf Kommando means as if on cue: Wie auf Kommando fingen alle an zu lachen. Kommandieren means to command, often used for bossy people."
+}

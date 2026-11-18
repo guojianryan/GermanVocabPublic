@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Umverteilung",
+    "partOfSpeech": "noun, feminine (die Umverteilung)",
+    "pronunciation": {
+      "respelling": "UM-fer-tai-lung",
+      "ipa": "ˈʊmfɛɐ̯ˌtaɪ̯lʊŋ",
+      "notes": "Plural: die Umverteilungen."
+    },
+    "meaning": "redistribution",
+    "shortDefinition": "Redistribution."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Umverteilung, plural die Umverteilungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Umverteilung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Umverteilungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Partei fordert eine Umverteilung von oben nach unten.",
+      "english": "The party demands redistribution from rich to poor.",
+      "highlight": [
+        "Umverteilung"
+      ]
+    },
+    {
+      "german": "Steuern dienen auch der Umverteilung.",
+      "english": "Taxes also serve redistribution.",
+      "highlight": [
+        "Umverteilung."
+      ]
+    }
+  ],
+  "forms": [
+    "Umverteilungen",
+    "die Umverteilung"
+  ],
+  "memoryHook": "Umverteilung: verteilen (distribute) anew (um).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Umverteilung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Umverteilung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Umverteilung, zwei ___",
+      "answer": "Umverteilungen",
+      "fullAnswer": "ein Umverteilung, zwei Umverteilungen",
+      "explanation": "The plural is Umverteilungen.",
+      "acceptedAnswers": [
+        "Umverteilungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Umverteilung mean?",
+      "options": [
+        "expensive",
+        "the family",
+        "redistribution"
+      ],
+      "answer": "redistribution",
+      "explanation": "Umverteilung: redistribution.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Umverteilen means…",
+      "options": [
+        "to redistribute",
+        "to distribute evenly once"
+      ],
+      "answer": "to redistribute",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Länderfinanzausgleich redistributes money…",
+      "options": [
+        "between the federal states",
+        "between banks"
+      ],
+      "answer": "between the federal states",
+      "explanation": "Federalism.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Vermögensteuer is…",
+      "options": [
+        "wealth tax",
+        "income tax"
+      ],
+      "answer": "wealth tax",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Umverteilung is redistribution, especially of income and wealth: Umverteilung von oben nach unten (from rich to poor). It's a core issue in German politics, from debates on the Vermögensteuer (wealth tax, not levied since 1997) to inheritance tax. Between the federal states, money is redistributed through the Finanzausgleich. Umverteilen means to redistribute. Plural: die Umverteilungen."
+}

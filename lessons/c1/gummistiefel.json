@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gummistiefel",
+    "partOfSpeech": "noun, masculine (der Gummistiefel)",
+    "pronunciation": {
+      "respelling": "GU-mi-shtee-fel",
+      "ipa": "ˈɡʊmiˌʃtiːfl̩",
+      "notes": "Plural: die Gummistiefel."
+    },
+    "meaning": "rubber boot, wellington",
+    "shortDefinition": "Rubber boot, wellington."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Gummistiefel, plural die Gummistiefel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Gummistiefel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gummistiefel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bei dem Regen brauchst du Gummistiefel.",
+      "english": "You need wellies in this rain.",
+      "highlight": [
+        "Gummistiefel."
+      ]
+    },
+    {
+      "german": "Die Kinder sprangen in Gummistiefeln durch die Pfützen.",
+      "english": "The children jumped through the puddles in rubber boots.",
+      "highlight": [
+        "Gummistiefeln"
+      ]
+    }
+  ],
+  "forms": [
+    "der Gummistiefel",
+    "Gummistiefeln"
+  ],
+  "memoryHook": "Gummistiefel: a Stiefel (boot) of Gummi (rubber).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gummistiefel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Gummistiefel is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gummistiefel, zwei ___",
+      "answer": "Gummistiefel",
+      "fullAnswer": "ein Gummistiefel, zwei Gummistiefel",
+      "explanation": "The plural is Gummistiefel.",
+      "acceptedAnswers": [
+        "Gummistiefel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gummistiefel mean?",
+      "options": [
+        "the bed",
+        "the car",
+        "rubber boot"
+      ],
+      "answer": "rubber boot",
+      "explanation": "Gummistiefel: rubber boot, wellington.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Gummi is…",
+      "options": [
+        "rubber; eraser (Radiergummi)",
+        "gum disease"
+      ],
+      "answer": "rubber; eraser (Radiergummi)",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Stiefel is…",
+      "options": [
+        "boot",
+        "staff"
+      ],
+      "answer": "boot",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Pfütze is…",
+      "options": [
+        "puddle",
+        "pipe"
+      ],
+      "answer": "puddle",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Gummistiefel is a rubber boot or wellington: ein Paar Gummistiefel. They're standard for children in Kita, for farmers and at muddy festivals. Politicians in Gummistiefeln visiting flood areas became a symbol after the 2002 Elbe flood, when Gerhard Schröder's visit helped him win the election. Der Stiefel is a boot. The plural is the same: die Gummistiefel."
+}

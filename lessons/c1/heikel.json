@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "heikel",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "HAI-kel",
+      "ipa": "ˈhaɪ̯kl̩",
+      "notes": ""
+    },
+    "meaning": "delicate, tricky; fussy",
+    "shortDefinition": "Delicate, tricky; fussy."
+  },
+  "sampleSentences": [
+    {
+      "german": "Das ist ein heikles Thema.",
+      "english": "That's a delicate subject.",
+      "highlight": [
+        "heikles"
+      ]
+    },
+    {
+      "german": "Mein Sohn ist beim Essen sehr heikel.",
+      "english": "My son is very fussy about food.",
+      "highlight": [
+        "heikel."
+      ]
+    }
+  ],
+  "forms": [
+    "heikle",
+    "heiklen",
+    "heikles",
+    "heikler"
+  ],
+  "memoryHook": "Heikel: a ticklish matter.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does heikel mean?",
+      "options": [
+        "delicate",
+        "to sing",
+        "cheap"
+      ],
+      "answer": "delicate",
+      "explanation": "heikel: delicate, tricky; fussy.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "With endings, heikel becomes…",
+      "options": [
+        "heikle (drops e)",
+        "heikele"
+      ],
+      "answer": "heikle (drops e)",
+      "explanation": "Drops e.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Heikel (Southern German/Austrian, food) means…",
+      "options": [
+        "fussy, picky",
+        "spicy"
+      ],
+      "answer": "fussy, picky",
+      "explanation": "Regional.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "prekär, knifflig",
+        "einfach"
+      ],
+      "answer": "prekär, knifflig",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Situation (tricky)",
+      "answer": "heikle",
+      "fullAnswer": "eine heikle Situation",
+      "explanation": "Drops e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Heikel means delicate or tricky: ein heikles Thema, eine heikle Frage, eine heikle Mission. Like dunkel and eitel, it drops the e with endings: heikle, heikles. In southern Germany, Austria and Switzerland, heikel also means fussy, especially about food: Sei nicht so heikel! Synonyms: prekär, knifflig, delikat."
+}

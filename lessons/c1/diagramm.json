@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Diagramm",
+    "partOfSpeech": "noun, neuter (das Diagramm)",
+    "pronunciation": {
+      "respelling": "di-a-GRAM",
+      "ipa": "di̯aˈɡʁam",
+      "notes": "Plural: die Diagramme."
+    },
+    "meaning": "diagram, chart",
+    "shortDefinition": "Diagram, chart."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Diagramm, plural die Diagramme.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Diagramm"
+        },
+        {
+          "label": "More than one",
+          "value": "die Diagramme"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Diagramm zeigt die Entwicklung der Preise.",
+      "english": "The chart shows how prices have developed.",
+      "highlight": [
+        "Diagramm"
+      ]
+    },
+    {
+      "german": "Erstellen Sie ein Diagramm aus den Daten.",
+      "english": "Create a chart from the data.",
+      "highlight": [
+        "Diagramm"
+      ]
+    }
+  ],
+  "forms": [
+    "Diagramme",
+    "die Diagramme",
+    "das Diagramm"
+  ],
+  "memoryHook": "Diagramm: data drawn (gramma) through (dia) a chart.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Diagramm",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Diagramm is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Diagramm, zwei ___",
+      "answer": "Diagramme",
+      "fullAnswer": "ein Diagramm, zwei Diagramme",
+      "explanation": "The plural is Diagramme.",
+      "acceptedAnswers": [
+        "Diagramme"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Diagramm mean?",
+      "options": [
+        "diagram",
+        "the key",
+        "expensive"
+      ],
+      "answer": "diagram",
+      "explanation": "Diagramm: diagram, chart.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Balkendiagramm is…",
+      "options": [
+        "a bar chart",
+        "a balcony plan"
+      ],
+      "answer": "a bar chart",
+      "explanation": "Bar.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Kreisdiagramm / Tortendiagramm is…",
+      "options": [
+        "a pie chart",
+        "a circle drawing"
+      ],
+      "answer": "a pie chart",
+      "explanation": "Pie.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "das Diagramm",
+        "der Diagramm"
+      ],
+      "answer": "das Diagramm",
+      "explanation": "Neuter.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Diagramm is a diagram or chart: ein Diagramm erstellen, das Liniendiagramm (line chart), das Balkendiagramm (bar chart), das Kreisdiagramm or Tortendiagramm (pie chart, literally cake chart). Describing a Diagramm is a classic task in German language exams: Das Diagramm zeigt..., Auffällig ist, dass... Plural: die Diagramme."
+}

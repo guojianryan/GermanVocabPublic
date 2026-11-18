@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ungnade",
+    "partOfSpeech": "noun, feminine (die Ungnade)",
+    "pronunciation": {
+      "respelling": "UN-gnaa-de",
+      "ipa": "ˈʊnˌɡnaːdə",
+      "notes": "Usually no plural."
+    },
+    "meaning": "disfavour, disgrace",
+    "shortDefinition": "Disfavour, disgrace."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Ungnade, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Ungnade"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Minister fiel beim Kanzler in Ungnade.",
+      "english": "The minister fell out of favour with the chancellor.",
+      "highlight": [
+        "Ungnade."
+      ]
+    },
+    {
+      "german": "Nach dem Skandal ist er in Ungnade gefallen.",
+      "english": "After the scandal he fell into disgrace.",
+      "highlight": [
+        "Ungnade"
+      ]
+    }
+  ],
+  "forms": [
+    "die Ungnade"
+  ],
+  "memoryHook": "Ungnade: the opposite of Gnade (favour).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ungnade",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Ungnade is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ungnade mean?",
+      "options": [
+        "the shop",
+        "disfavour",
+        "to sing"
+      ],
+      "answer": "disfavour",
+      "explanation": "Ungnade: disfavour, disgrace.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Ungnade fallen means…",
+      "options": [
+        "to fall out of favour",
+        "to be pardoned"
+      ],
+      "answer": "to fall out of favour",
+      "explanation": "Idiom.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gnade is…",
+      "options": [
+        "mercy, grace",
+        "gnat"
+      ],
+      "answer": "mercy, grace",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gnadenlos means…",
+      "options": [
+        "merciless",
+        "graceful"
+      ],
+      "answer": "merciless",
+      "explanation": "Related.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Ungnade is disfavour or disgrace, used almost only in bei jemandem in Ungnade fallen (to fall out of favour) and sich jemandes Ungnade zuziehen. It comes from court language, when subjects depended on a ruler's Gnade (favour, mercy). Die Gnade also means grace and mercy: um Gnade bitten, das Gnadengesuch (petition for clemency). Gnadenlos means merciless. It has no plural."
+}

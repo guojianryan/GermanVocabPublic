@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "lästern",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "LES-tern",
+      "ipa": "ˈlɛstɐn",
+      "notes": ""
+    },
+    "meaning": "to gossip maliciously, bitch; to blaspheme",
+    "shortDefinition": "To gossip maliciously, bitch; to blaspheme."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "läster|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "läster|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "läster|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "läster|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "läster|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "läster|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gelästert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Kollegen lästern ständig über den Chef.",
+      "english": "The colleagues constantly bitch about the boss.",
+      "highlight": [
+        "lästern"
+      ]
+    },
+    {
+      "german": "Hinter ihrem Rücken wurde über sie gelästert.",
+      "english": "People talked badly about her behind her back.",
+      "highlight": [
+        "gelästert."
+      ]
+    }
+  ],
+  "forms": [
+    "lästere",
+    "lästerst",
+    "lästert",
+    "lästern",
+    "gelästert",
+    "lästerte"
+  ],
+  "memoryHook": "Lästern: speak Laster (vice, slander) about someone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (lästern)",
+      "answer": "lästert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: lästert.",
+      "acceptedAnswers": [
+        "laestert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (lästern, past)",
+      "answer": "gelästert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gelästert.",
+      "acceptedAnswers": [
+        "gelaestert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does lästern mean?",
+      "options": [
+        "the child",
+        "to open",
+        "to gossip maliciously"
+      ],
+      "answer": "to gossip maliciously",
+      "explanation": "lästern: to gossip maliciously, bitch; to blaspheme.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Lästern über takes…",
+      "options": [
+        "über + accusative",
+        "von + dative"
+      ],
+      "answer": "über + accusative",
+      "explanation": "Preposition.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gotteslästerung is…",
+      "options": [
+        "blasphemy",
+        "a prayer"
+      ],
+      "answer": "blasphemy",
+      "explanation": "Religion.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Lästermaul is…",
+      "options": [
+        "a malicious gossip",
+        "a big mouth (eater)"
+      ],
+      "answer": "a malicious gossip",
+      "explanation": "Person.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Lästern über means to gossip maliciously or bitch about someone, usually behind their back: über die Nachbarn lästern. Das Lästermaul or die Lästerzunge is a malicious gossip. Its older meaning is to blaspheme: die Gotteslästerung (blasphemy), still an offence under §166 StGB if it threatens public peace. Regular: lästerte, gelästert."
+}

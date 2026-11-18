@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wegfall",
+    "partOfSpeech": "noun, masculine (der Wegfall)",
+    "pronunciation": {
+      "respelling": "VEK-fal",
+      "ipa": "ˈvɛkˌfal",
+      "notes": "Usually no plural."
+    },
+    "meaning": "abolition, removal, discontinuation",
+    "shortDefinition": "Abolition, removal, discontinuation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Wegfall, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Wegfall"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Wegfall der Grenzkontrollen erleichtert das Reisen.",
+      "english": "The abolition of border controls makes travel easier.",
+      "highlight": [
+        "Wegfall"
+      ]
+    },
+    {
+      "german": "Mit dem Wegfall des Zuschusses wird es teuer.",
+      "english": "With the loss of the subsidy, it'll be expensive.",
+      "highlight": [
+        "Wegfall"
+      ]
+    }
+  ],
+  "forms": [
+    "der Wegfall",
+    "wegfallen"
+  ],
+  "memoryHook": "Wegfall: something falls (fallen) away (weg).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wegfall",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Wegfall is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wegfall mean?",
+      "options": [
+        "the window",
+        "abolition",
+        "slowly"
+      ],
+      "answer": "abolition",
+      "explanation": "Wegfall: abolition, removal, discontinuation.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wegfallen means…",
+      "options": [
+        "to be dropped, cease to apply",
+        "to fall on the way"
+      ],
+      "answer": "to be dropped, cease to apply",
+      "explanation": "Verb.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Typical in…",
+      "options": [
+        "official and news language",
+        "slang"
+      ],
+      "answer": "official and news language",
+      "explanation": "Register.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Entfallen means…",
+      "options": [
+        "to be cancelled; to slip one's mind",
+        "to fall in"
+      ],
+      "answer": "to be cancelled; to slip one's mind",
+      "explanation": "Synonym.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Wegfall is the abolition, removal or loss of something: der Wegfall der Roaminggebühren (EU, 2017), der Wegfall von Arbeitsplätzen, der Wegfall der Maskenpflicht. The verb wegfallen means to be dropped or cease to apply: Die Gebühr fällt weg. Similar: entfallen. It's typical of official and news German. It has no plural."
+}

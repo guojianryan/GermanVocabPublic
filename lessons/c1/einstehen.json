@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "einstehen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AIN-shtay-en",
+      "ipa": "ˈaɪ̯nˌʃteːən",
+      "notes": ""
+    },
+    "meaning": "to vouch for, stand up for; to answer for",
+    "shortDefinition": "To vouch for, stand up for; to answer for."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "steh|e … |ein"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "steh|st … |ein"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "steh|t … |ein"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "steh|en … |ein"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "steh|t … |ein"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "steh|en … |ein"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist eingestanden"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich stehe für meine Fehler ein.",
+      "english": "I take responsibility for my mistakes.",
+      "highlight": [
+        "stehe",
+        "ein."
+      ]
+    },
+    {
+      "german": "Sie steht für ihre Überzeugungen ein.",
+      "english": "She stands up for her convictions.",
+      "highlight": [
+        "steht",
+        "ein."
+      ]
+    }
+  ],
+  "forms": [
+    "stehe ein",
+    "stehst ein",
+    "steht ein",
+    "stehen ein",
+    "eingestanden",
+    "stand ein"
+  ],
+  "memoryHook": "Einstehen: stehen (stand) in (ein) for something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ein (einstehen)",
+      "answer": "steht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: steht … ein.",
+      "acceptedAnswers": [
+        "steht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (einstehen, past)",
+      "answer": "eingestanden",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin eingestanden.",
+      "acceptedAnswers": [
+        "eingestanden"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does einstehen mean?",
+      "options": [
+        "to buy",
+        "to vouch for",
+        "the weather"
+      ],
+      "answer": "to vouch for",
+      "explanation": "einstehen: to vouch for, stand up for; to answer for.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Für etwas einstehen means…",
+      "options": [
+        "to stand up for; to answer for something",
+        "to stand in a queue"
+      ],
+      "answer": "to stand up for; to answer for something",
+      "explanation": "Vouch.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Füreinander einstehen means…",
+      "options": [
+        "to stand by each other",
+        "to stand in line"
+      ],
+      "answer": "to stand by each other",
+      "explanation": "Phrase.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "stand ein, eingestanden",
+        "stehte ein"
+      ],
+      "answer": "stand ein, eingestanden",
+      "explanation": "Irregular.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Einstehen für means to vouch for, stand up for, or answer for: für seine Überzeugungen, seine Fehler, einen Freund einstehen; füreinander einstehen (to stand by each other). Legally, it can mean to be liable for damages. Don't confuse its participle eingestanden with that of eingestehen (to admit). Separable and irregular: stand ein, ist eingestanden (some regions use hat)."
+}

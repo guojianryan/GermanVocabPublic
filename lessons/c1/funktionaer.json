@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Funktionär",
+    "partOfSpeech": "noun, masculine (der Funktionär)",
+    "pronunciation": {
+      "respelling": "funk-tsyo-NAIR",
+      "ipa": "fʊŋkt͡si̯oˈnɛːɐ̯",
+      "notes": "Plural: die Funktionäre."
+    },
+    "meaning": "official, functionary",
+    "shortDefinition": "Official, functionary."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Funktionär, plural die Funktionäre.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Funktionär"
+        },
+        {
+          "label": "More than one",
+          "value": "die Funktionäre"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Funktionäre des Verbands trafen sich in Zürich.",
+      "english": "The association's officials met in Zurich.",
+      "highlight": [
+        "Funktionäre"
+      ]
+    },
+    {
+      "german": "Er war Parteifunktionär in der DDR.",
+      "english": "He was a party official in the GDR.",
+      "highlight": [
+        "Parteifunktionär"
+      ]
+    }
+  ],
+  "forms": [
+    "Funktionäre",
+    "die Funktionäre",
+    "der Funktionär",
+    "Funktionärin"
+  ],
+  "memoryHook": "Funktionär: someone holding a Funktion (office) in an organisation.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Funktionär",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Funktionär is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Funktionär, zwei ___",
+      "answer": "Funktionäre",
+      "fullAnswer": "ein Funktionär, zwei Funktionäre",
+      "explanation": "The plural is Funktionäre.",
+      "acceptedAnswers": [
+        "Funktionaere"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Funktionär mean?",
+      "options": [
+        "expensive",
+        "to learn",
+        "official"
+      ],
+      "answer": "official",
+      "explanation": "Funktionär: official, functionary.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Funktionär often has…",
+      "options": [
+        "a slightly negative ring (bureaucrat)",
+        "a positive ring"
+      ],
+      "answer": "a slightly negative ring (bureaucrat)",
+      "explanation": "Tone.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Funktionärin",
+        "die Funktionäre"
+      ],
+      "answer": "die Funktionärin",
+      "explanation": "-in.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Typical contexts:",
+      "options": [
+        "parties, unions, sports associations",
+        "hospitals only"
+      ],
+      "answer": "parties, unions, sports associations",
+      "explanation": "Context.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Funktionär (die Funktionärin) is an official of a party, union or association: Sportfunktionäre (as at FIFA or the DFB), Gewerkschaftsfunktionäre. It often sounds slightly negative, suggesting bureaucrats far from the grassroots. In the GDR, SED-Funktionäre ran the state. Ehrenamtliche Funktionäre in local clubs are unpaid volunteers. Plural: die Funktionäre."
+}

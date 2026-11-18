@@ -1,0 +1,120 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Todesstrafe",
+    "partOfSpeech": "noun, feminine (die Todesstrafe)",
+    "pronunciation": {
+      "respelling": "TOH-des-shtraa-fe",
+      "ipa": "ˈtoːdəsˌʃtʁaːfə",
+      "notes": "Usually no plural."
+    },
+    "meaning": "death penalty, capital punishment",
+    "shortDefinition": "Death penalty, capital punishment."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Todesstrafe, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Todesstrafe"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Todesstrafe ist in Deutschland abgeschafft.",
+      "english": "The death penalty has been abolished in Germany.",
+      "highlight": [
+        "Todesstrafe"
+      ]
+    },
+    {
+      "german": "Darauf steht in manchen Ländern die Todesstrafe.",
+      "english": "In some countries that carries the death penalty.",
+      "highlight": [
+        "Todesstrafe."
+      ]
+    }
+  ],
+  "forms": [
+    "die Todesstrafe"
+  ],
+  "memoryHook": "Todesstrafe: Strafe (punishment) by Tod (death).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Todesstrafe",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Todesstrafe is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Todesstrafe mean?",
+      "options": [
+        "the evening",
+        "death penalty",
+        "the street"
+      ],
+      "answer": "death penalty",
+      "explanation": "Todesstrafe: death penalty, capital punishment.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Article 102 of the Grundgesetz says…",
+      "options": [
+        "the death penalty is abolished",
+        "the death penalty is allowed in wartime"
+      ],
+      "answer": "the death penalty is abolished",
+      "explanation": "Abgeschafft.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "West Germany abolished it in…",
+      "options": [
+        "1949",
+        "1990"
+      ],
+      "answer": "1949",
+      "explanation": "With the Grundgesetz.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Strafe means…",
+      "options": [
+        "punishment, penalty",
+        "street"
+      ],
+      "answer": "punishment, penalty",
+      "explanation": "Strafe.",
+      "id": "q5"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Die ___ ist abgeschafft. (death penalty)",
+      "answer": "Todesstrafe",
+      "fullAnswer": "Die Todesstrafe ist abgeschafft.",
+      "explanation": "die Todesstrafe.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Todesstrafe is the death penalty. Article 102 of the Grundgesetz states simply: Die Todesstrafe ist abgeschafft. West Germany abolished it in 1949; East Germany only in 1987. The state constitution of Hesse still mentioned it until a 2018 referendum removed the clause, though it had long been void. Compound: der Tod (death) + s + die Strafe (punishment). Darauf steht die Todesstrafe means that crime carries the death penalty."
+}

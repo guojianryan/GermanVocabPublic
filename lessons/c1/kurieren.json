@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "kurieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ku-REE-ren",
+      "ipa": "kuˈʁiːʁən",
+      "notes": ""
+    },
+    "meaning": "to cure, heal",
+    "shortDefinition": "To cure, heal."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "kurier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "kurier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "kurier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "kurier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "kurier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "kurier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat kuriert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich muss meine Erkältung erst auskurieren.",
+      "english": "I need to get over my cold first.",
+      "highlight": [
+        "auskurieren."
+      ]
+    },
+    {
+      "german": "Davon bin ich kuriert!",
+      "english": "I'm cured of that!",
+      "highlight": [
+        "kuriert!"
+      ]
+    }
+  ],
+  "forms": [
+    "kuriere",
+    "kurierst",
+    "kuriert",
+    "kurieren",
+    "auskurieren",
+    "Kur"
+  ],
+  "memoryHook": "Kurieren: what a Kur is meant to do.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (kurieren)",
+      "answer": "kuriert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: kuriert.",
+      "acceptedAnswers": [
+        "kuriert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (kurieren, past)",
+      "answer": "kuriert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe kuriert.",
+      "acceptedAnswers": [
+        "kuriert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does kurieren mean?",
+      "options": [
+        "the evening",
+        "to cure",
+        "always"
+      ],
+      "answer": "to cure",
+      "explanation": "kurieren: to cure, heal.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Davon bin ich kuriert means…",
+      "options": [
+        "I've learned my lesson",
+        "I'm healthy again"
+      ],
+      "answer": "I've learned my lesson",
+      "explanation": "Figurative.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Auskurieren means…",
+      "options": [
+        "to recover fully",
+        "to cure someone else"
+      ],
+      "answer": "to recover fully",
+      "explanation": "Fully cure.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kur is…",
+      "options": [
+        "a health cure, spa stay",
+        "a church"
+      ],
+      "answer": "a health cure, spa stay",
+      "explanation": "Kur.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Kurieren means to cure or heal: eine Krankheit kurieren. You'll often hear auskurieren, to get fully over an illness: Kurier dich erst richtig aus! Figuratively, von etwas kuriert sein means to be cured of something, to have learned your lesson. It's related to die Kur, a stay at a spa town, which German health insurance still sometimes pays for; towns with Bad in their name, like Bad Ems, are Kurorte. From Latin curare, to care for."
+}

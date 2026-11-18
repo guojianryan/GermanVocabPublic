@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Stadtgebiet",
+    "partOfSpeech": "noun, neuter (das Stadtgebiet)",
+    "pronunciation": {
+      "respelling": "SHTAT-ge-beet",
+      "ipa": "ˈʃtatɡəˌbiːt",
+      "notes": "Plural: die Stadtgebiete."
+    },
+    "meaning": "city area, municipal territory",
+    "shortDefinition": "City area, municipal territory."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Stadtgebiet, plural die Stadtgebiete.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Stadtgebiet"
+        },
+        {
+          "label": "More than one",
+          "value": "die Stadtgebiete"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im gesamten Stadtgebiet gilt Tempo 30.",
+      "english": "There's a 30 km/h limit throughout the city.",
+      "highlight": [
+        "Stadtgebiet"
+      ]
+    },
+    {
+      "german": "Das Haus liegt am Rand des Stadtgebiets.",
+      "english": "The house is on the edge of the city.",
+      "highlight": [
+        "Stadtgebiets."
+      ]
+    }
+  ],
+  "forms": [
+    "Stadtgebiete",
+    "die Stadtgebiete",
+    "das Stadtgebiet"
+  ],
+  "memoryHook": "Stadtgebiet: the Gebiet (area) of a Stadt.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Stadtgebiet",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Stadtgebiet is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Stadtgebiet, zwei ___",
+      "answer": "Stadtgebiete",
+      "fullAnswer": "ein Stadtgebiet, zwei Stadtgebiete",
+      "explanation": "The plural is Stadtgebiete.",
+      "acceptedAnswers": [
+        "Stadtgebiete"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Stadtgebiet mean?",
+      "options": [
+        "to wait",
+        "city area",
+        "the station"
+      ],
+      "answer": "city area",
+      "explanation": "Stadtgebiet: city area, municipal territory.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gebiet is…",
+      "options": [
+        "area, territory, field",
+        "the mountain range"
+      ],
+      "answer": "area, territory, field",
+      "explanation": "Gebiet.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Im Stadtgebiet means…",
+      "options": [
+        "within the city limits",
+        "in the city hall"
+      ],
+      "answer": "within the city limits",
+      "explanation": "City limits.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Stadtgebiete",
+        "die Stadtgebieten"
+      ],
+      "answer": "die Stadtgebiete",
+      "explanation": "-e.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Stadtgebiet is the area within a city's boundaries: im gesamten Stadtgebiet, am Rand des Stadtgebiets. It's common in official notices and news: Im Stadtgebiet gilt ein Böllerverbot. Das Gebiet means area or territory, and also a field of knowledge: Das ist nicht mein Gebiet. Related: das Gemeindegebiet, das Bundesgebiet (federal territory), das Wohngebiet (residential area). Plural: die Stadtgebiete."
+}

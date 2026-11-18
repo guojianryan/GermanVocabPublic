@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verwischen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-VI-shen",
+      "ipa": "fɛɐ̯ˈvɪʃn̩",
+      "notes": ""
+    },
+    "meaning": "to blur, smudge; to cover (tracks)",
+    "shortDefinition": "To blur, smudge; to cover (tracks)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verwisch|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verwisch|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verwisch|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verwisch|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verwisch|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verwisch|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verwischt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Täter verwischte alle Spuren.",
+      "english": "The offender covered all his tracks.",
+      "highlight": [
+        "verwischte"
+      ]
+    },
+    {
+      "german": "Die Grenzen zwischen Arbeit und Freizeit verwischen.",
+      "english": "The boundaries between work and leisure are blurring.",
+      "highlight": [
+        "verwischen."
+      ]
+    }
+  ],
+  "forms": [
+    "verwische",
+    "verwischst",
+    "verwischt",
+    "verwischen",
+    "verwischte"
+  ],
+  "memoryHook": "Verwischen: wischen (wipe) until it's unclear.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verwischen)",
+      "answer": "verwischt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verwischt.",
+      "acceptedAnswers": [
+        "verwischt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verwischen, past)",
+      "answer": "verwischt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verwischt.",
+      "acceptedAnswers": [
+        "verwischt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verwischen mean?",
+      "options": [
+        "the bread",
+        "to learn",
+        "to blur"
+      ],
+      "answer": "to blur",
+      "explanation": "verwischen: to blur, smudge; to cover (tracks).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Spuren verwischen means…",
+      "options": [
+        "to cover one's tracks",
+        "to clean shoes"
+      ],
+      "answer": "to cover one's tracks",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wischen means…",
+      "options": [
+        "to wipe",
+        "to wish"
+      ],
+      "answer": "to wipe",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verwischt (photo) means…",
+      "options": [
+        "blurred",
+        "deleted"
+      ],
+      "answer": "blurred",
+      "explanation": "Photo.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verwischen means to blur or smudge: Die Tinte ist verwischt, ein verwischtes Foto. Spuren verwischen means to cover one's tracks. Figuratively, Grenzen verwischen (boundaries blur), and sich verwischen means to fade: Die Erinnerungen verwischen sich. From wischen (to wipe), as in der Scheibenwischer (windscreen wiper). Regular: verwischte, verwischt."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Palast",
+    "partOfSpeech": "noun, masculine (der Palast)",
+    "pronunciation": {
+      "respelling": "pa-LAST",
+      "ipa": "paˈlast",
+      "notes": "Plural: die Paläste."
+    },
+    "meaning": "palace",
+    "shortDefinition": "Palace."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Palast, plural die Paläste.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Palast"
+        },
+        {
+          "label": "More than one",
+          "value": "die Paläste"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Palast ist für Besucher geöffnet.",
+      "english": "The palace is open to visitors.",
+      "highlight": [
+        "Palast"
+      ]
+    },
+    {
+      "german": "Sie wohnen in einem richtigen Palast.",
+      "english": "They live in a real palace.",
+      "highlight": [
+        "Palast."
+      ]
+    }
+  ],
+  "forms": [
+    "Paläste",
+    "die Paläste",
+    "der Palast"
+  ],
+  "memoryHook": "Palast: more palace, less fortress.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Palast",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Palast is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Palast, zwei ___",
+      "answer": "Paläste",
+      "fullAnswer": "ein Palast, zwei Paläste",
+      "explanation": "The plural is Paläste.",
+      "acceptedAnswers": [
+        "Palaeste"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Palast mean?",
+      "options": [
+        "palace",
+        "to open",
+        "the car"
+      ],
+      "answer": "palace",
+      "explanation": "Palast: palace.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "A German Schloss is…",
+      "options": [
+        "a palace or castle",
+        "only a lock"
+      ],
+      "answer": "a palace or castle",
+      "explanation": "Schloss.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Palast der Republik was in…",
+      "options": [
+        "East Berlin",
+        "Munich"
+      ],
+      "answer": "East Berlin",
+      "explanation": "GDR parliament.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Paläste",
+        "die Palaste"
+      ],
+      "answer": "die Paläste",
+      "explanation": "Umlaut.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Palast is a palace: der Buckingham-Palast, der Kremlpalast. In German, royal residences are usually called das Schloss or die Residenz, so Palast often refers to foreign palaces or grand buildings. Der Palast der Republik was the GDR's parliament building in East Berlin, demolished in 2008 to make way for the rebuilt Berlin Palace (Humboldt Forum). Plural: die Paläste."
+}

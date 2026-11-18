@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Haftbefehl",
+    "partOfSpeech": "noun, masculine (der Haftbefehl)",
+    "pronunciation": {
+      "respelling": "HAFT-be-fayl",
+      "ipa": "ˈhaftbəˌfeːl",
+      "notes": "Plural: die Haftbefehle."
+    },
+    "meaning": "arrest warrant",
+    "shortDefinition": "Arrest warrant."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Haftbefehl, plural die Haftbefehle.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Haftbefehl"
+        },
+        {
+          "label": "More than one",
+          "value": "die Haftbefehle"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Gegen ihn wurde ein Haftbefehl erlassen.",
+      "english": "An arrest warrant was issued against him.",
+      "highlight": [
+        "Haftbefehl"
+      ]
+    },
+    {
+      "german": "Der Internationale Strafgerichtshof erließ einen Haftbefehl.",
+      "english": "The International Criminal Court issued an arrest warrant.",
+      "highlight": [
+        "Haftbefehl."
+      ]
+    }
+  ],
+  "forms": [
+    "Haftbefehle",
+    "die Haftbefehle",
+    "der Haftbefehl"
+  ],
+  "memoryHook": "Haftbefehl: an order (Befehl) to put someone in Haft.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Haftbefehl",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Haftbefehl is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Haftbefehl, zwei ___",
+      "answer": "Haftbefehle",
+      "fullAnswer": "ein Haftbefehl, zwei Haftbefehle",
+      "explanation": "The plural is Haftbefehle.",
+      "acceptedAnswers": [
+        "Haftbefehle"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Haftbefehl mean?",
+      "options": [
+        "always",
+        "the station",
+        "arrest warrant"
+      ],
+      "answer": "arrest warrant",
+      "explanation": "Haftbefehl: arrest warrant.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einen Haftbefehl erlassen means…",
+      "options": [
+        "to issue an arrest warrant",
+        "to cancel an arrest"
+      ],
+      "answer": "to issue an arrest warrant",
+      "explanation": "Issue.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Haft is…",
+      "options": [
+        "custody, detention",
+        "the handle"
+      ],
+      "answer": "custody, detention",
+      "explanation": "Haft.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Untersuchungshaft is…",
+      "options": [
+        "custody on remand",
+        "a medical examination"
+      ],
+      "answer": "custody on remand",
+      "explanation": "Remand.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Haftbefehl is an arrest warrant: einen Haftbefehl erlassen (to issue one), ein internationaler Haftbefehl. In Germany, a judge must issue it; the police can only arrest without one in urgent cases. Die Haft is custody or detention: die Untersuchungshaft (U-Haft, remand), die Haftstrafe (prison sentence). Der Befehl is an order or command. Haftbefehl is also the stage name of a well-known German rapper."
+}

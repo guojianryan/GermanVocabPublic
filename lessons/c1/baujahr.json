@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Baujahr",
+    "partOfSpeech": "noun, neuter (das Baujahr)",
+    "pronunciation": {
+      "respelling": "BAU-yaar",
+      "ipa": "ˈbaʊ̯ˌjaːɐ̯",
+      "notes": "Plural: die Baujahre."
+    },
+    "meaning": "year of construction/manufacture",
+    "shortDefinition": "Year of construction/manufacture."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Baujahr, plural die Baujahre.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Baujahr"
+        },
+        {
+          "label": "More than one",
+          "value": "die Baujahre"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Auto ist Baujahr 2015.",
+      "english": "The car was built in 2015.",
+      "highlight": [
+        "Baujahr"
+      ]
+    },
+    {
+      "german": "Das Haus hat Baujahr 1960 und muss saniert werden.",
+      "english": "The house dates from 1960 and needs renovation.",
+      "highlight": [
+        "Baujahr"
+      ]
+    }
+  ],
+  "forms": [
+    "Baujahre",
+    "die Baujahre",
+    "das Baujahr"
+  ],
+  "memoryHook": "Baujahr: the Jahr something was gebaut.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Baujahr",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Baujahr is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Baujahr, zwei ___",
+      "answer": "Baujahre",
+      "fullAnswer": "ein Baujahr, zwei Baujahre",
+      "explanation": "The plural is Baujahre.",
+      "acceptedAnswers": [
+        "Baujahre"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Baujahr mean?",
+      "options": [
+        "the job",
+        "to help",
+        "year of construction/manufacture"
+      ],
+      "answer": "year of construction/manufacture",
+      "explanation": "Baujahr: year of construction/manufacture.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Baujahr 1975 (joking, of a person) means…",
+      "options": [
+        "born in 1975",
+        "renovated in 1975"
+      ],
+      "answer": "born in 1975",
+      "explanation": "Humour.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In flat listings, Baujahr tells you…",
+      "options": [
+        "when the building was built",
+        "the rent"
+      ],
+      "answer": "when the building was built",
+      "explanation": "Listings.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Altbau is…",
+      "options": [
+        "an old building (pre-1949 typically)",
+        "a ruin"
+      ],
+      "answer": "an old building (pre-1949 typically)",
+      "explanation": "Altbau.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Baujahr is the year of construction or manufacture: Baujahr 1998, ein Auto älteren Baujahrs. It's essential in car and flat listings. Many Germans love Altbau flats (typically pre-WWII) with high ceilings and stucco, while a Neubau is newer. Jokingly, people say Ich bin Baujahr 1980 about their birth year. Plural: die Baujahre."
+}

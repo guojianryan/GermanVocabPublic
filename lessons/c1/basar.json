@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Basar",
+    "partOfSpeech": "noun, masculine (der Basar)",
+    "pronunciation": {
+      "respelling": "ba-ZAAR",
+      "ipa": "baˈzaːɐ̯",
+      "notes": "Plural: die Basare."
+    },
+    "meaning": "bazaar; charity sale",
+    "shortDefinition": "Bazaar; charity sale."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Basar, plural die Basare.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Basar"
+        },
+        {
+          "label": "More than one",
+          "value": "die Basare"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In Istanbul besuchten wir den großen Basar.",
+      "english": "In Istanbul we visited the Grand Bazaar.",
+      "highlight": [
+        "Basar."
+      ]
+    },
+    {
+      "german": "Die Schule veranstaltet einen Weihnachtsbasar.",
+      "english": "The school is holding a Christmas sale.",
+      "highlight": [
+        "Weihnachtsbasar."
+      ]
+    }
+  ],
+  "forms": [
+    "Basare",
+    "der Basar"
+  ],
+  "memoryHook": "Basar: an oriental market (Persian bāzār).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Basar",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Basar is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Basar, zwei ___",
+      "answer": "Basare",
+      "fullAnswer": "ein Basar, zwei Basare",
+      "explanation": "The plural is Basare.",
+      "acceptedAnswers": [
+        "Basare"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Basar mean?",
+      "options": [
+        "hot",
+        "bazaar",
+        "expensive"
+      ],
+      "answer": "bazaar",
+      "explanation": "Basar: bazaar; charity sale.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Germany, ein Basar is often…",
+      "options": [
+        "a charity or school sale",
+        "a shopping mall"
+      ],
+      "answer": "a charity or school sale",
+      "explanation": "Germany.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Flohmarkt is…",
+      "options": [
+        "flea market",
+        "a flower market"
+      ],
+      "answer": "flea market",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Basar comes from…",
+      "options": [
+        "Persian",
+        "Latin"
+      ],
+      "answer": "Persian",
+      "explanation": "Origin.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Basar is a bazaar, an oriental market, and in Germany a charity or school sale: der Weihnachtsbasar, der Kinderkleiderbasar where parents sell used children's clothes. The word comes from Persian. Related: der Flohmarkt (flea market), der Trödelmarkt, and the Basar-Ökonomie, a term for Germany's role assembling foreign-made parts. Plural: die Basare."
+}

@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Homöopathie",
+    "partOfSpeech": "noun, feminine (die Homöopathie)",
+    "pronunciation": {
+      "respelling": "ho-mö-o-pa-TEE",
+      "ipa": "homøopaˈtiː",
+      "notes": "Usually no plural."
+    },
+    "meaning": "homeopathy",
+    "shortDefinition": "Homeopathy."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Homöopathie, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Homöopathie"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Viele Ärzte halten Homöopathie für unwirksam.",
+      "english": "Many doctors consider homeopathy ineffective.",
+      "highlight": [
+        "Homöopathie"
+      ]
+    },
+    {
+      "german": "Sie behandelt ihre Erkältung mit Homöopathie.",
+      "english": "She treats her cold with homeopathy.",
+      "highlight": [
+        "Homöopathie."
+      ]
+    }
+  ],
+  "forms": [
+    "die Homöopathie",
+    "homöopathisch",
+    "Globuli"
+  ],
+  "memoryHook": "Homöopathie: invented in Germany, debated ever since.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Homöopathie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Homöopathie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Homöopathie mean?",
+      "options": [
+        "homeopathy",
+        "expensive",
+        "the car"
+      ],
+      "answer": "homeopathy",
+      "explanation": "Homöopathie: homeopathy.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Homeopathy was founded by…",
+      "options": [
+        "Samuel Hahnemann, a German doctor",
+        "Robert Koch"
+      ],
+      "answer": "Samuel Hahnemann, a German doctor",
+      "explanation": "Around 1796.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Globuli are…",
+      "options": [
+        "homeopathic sugar pills",
+        "blood cells"
+      ],
+      "answer": "homeopathic sugar pills",
+      "explanation": "Globuli.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Scientific studies show homeopathy…",
+      "options": [
+        "has no effect beyond placebo",
+        "cures infections"
+      ],
+      "answer": "has no effect beyond placebo",
+      "explanation": "Evidence.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Homöopathie is homeopathy. It was founded around 1796 by the German doctor Samuel Hahnemann, and it's still popular in Germany: many people take Globuli (tiny sugar pills), and some insurers have paid for it. Scientific studies show no effect beyond placebo, and the debate is heated; in 2024 the health minister proposed ending statutory insurance coverage. Homöopathisch means homeopathic, also used ironically for tiny amounts: eine homöopathische Dosis."
+}

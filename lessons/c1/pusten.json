@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "pusten",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "POOS-ten",
+      "ipa": "ˈpuːstn̩",
+      "notes": ""
+    },
+    "meaning": "to blow, puff",
+    "shortDefinition": "To blow, puff."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "pust|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "pust|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "pust|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "pust|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "pust|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "pust|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gepustet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Kind pustet die Kerzen aus.",
+      "english": "The child blows out the candles.",
+      "highlight": [
+        "pustet"
+      ]
+    },
+    {
+      "german": "Bei der Kontrolle musste er pusten.",
+      "english": "At the check he had to take a breath test.",
+      "highlight": [
+        "pusten."
+      ]
+    }
+  ],
+  "forms": [
+    "puste",
+    "pustest",
+    "pustet",
+    "pusten",
+    "gepustet",
+    "pustete",
+    "Puste"
+  ],
+  "memoryHook": "Pusten: the sound of blowing air.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (pusten)",
+      "answer": "pustet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: pustet.",
+      "acceptedAnswers": [
+        "pustet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (pusten, past)",
+      "answer": "gepustet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gepustet.",
+      "acceptedAnswers": [
+        "gepustet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does pusten mean?",
+      "options": [
+        "to help",
+        "the evening",
+        "to blow"
+      ],
+      "answer": "to blow",
+      "explanation": "pusten: to blow, puff.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pusten müssen (police) means…",
+      "options": [
+        "to take a breathalyser test",
+        "to whistle"
+      ],
+      "answer": "to take a breathalyser test",
+      "explanation": "Police.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Puste (colloquial) is…",
+      "options": [
+        "breath",
+        "a pastry"
+      ],
+      "answer": "breath",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Aus der Puste sein means…",
+      "options": [
+        "to be out of breath",
+        "to be out of paste"
+      ],
+      "answer": "to be out of breath",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Pusten means to blow or puff: Kerzen auspusten, in die Suppe pusten, Seifenblasen pusten. At a traffic stop, the police may ask you to pusten into a breathalyser (der Alkoholtest). Die Puste is breath: aus der Puste sein (out of breath), Mir geht die Puste aus (I'm running out of steam). Die Pusteblume is a dandelion clock. Regular: pustete, gepustet."
+}

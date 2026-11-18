@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wohnort",
+    "partOfSpeech": "noun, masculine (der Wohnort)",
+    "pronunciation": {
+      "respelling": "VOHN-ort",
+      "ipa": "ˈvoːnˌʔɔʁt",
+      "notes": "Plural: die Wohnorte."
+    },
+    "meaning": "place of residence",
+    "shortDefinition": "Place of residence."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Wohnort, plural die Wohnorte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Wohnort"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wohnorte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bitte geben Sie Ihren Wohnort an.",
+      "english": "Please state your place of residence.",
+      "highlight": [
+        "Wohnort"
+      ]
+    },
+    {
+      "german": "Er hat seinen Wohnort nach München verlegt.",
+      "english": "He moved his residence to Munich.",
+      "highlight": [
+        "Wohnort"
+      ]
+    }
+  ],
+  "forms": [
+    "Wohnorte",
+    "die Wohnorte",
+    "der Wohnort"
+  ],
+  "memoryHook": "Wohnort: the Ort where you wohnen.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wohnort",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Wohnort is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wohnort, zwei ___",
+      "answer": "Wohnorte",
+      "fullAnswer": "ein Wohnort, zwei Wohnorte",
+      "explanation": "The plural is Wohnorte.",
+      "acceptedAnswers": [
+        "Wohnorte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wohnort mean?",
+      "options": [
+        "to buy",
+        "the weather",
+        "place of residence"
+      ],
+      "answer": "place of residence",
+      "explanation": "Wohnort: place of residence.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "On forms, Wohnort means…",
+      "options": [
+        "the town where you live",
+        "your street"
+      ],
+      "answer": "the town where you live",
+      "explanation": "Town.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Wohnsitz is…",
+      "options": [
+        "the (official) residence",
+        "a sofa"
+      ],
+      "answer": "the (official) residence",
+      "explanation": "Legal term.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Geburtsort is…",
+      "options": [
+        "place of birth",
+        "hospital"
+      ],
+      "answer": "place of birth",
+      "explanation": "Birthplace.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Wohnort is your place of residence, the town where you live, a standard field on forms: Name, Vorname, Geburtsdatum, Wohnort. The legal term is der Wohnsitz: der erste Wohnsitz or Hauptwohnsitz (main residence), which you must register at the Bürgeramt. Your birthplace is der Geburtsort. A student might have their Wohnort in the university town and their Heimatort elsewhere. Plural: die Wohnorte."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fiktion",
+    "partOfSpeech": "noun, feminine (die Fiktion)",
+    "pronunciation": {
+      "respelling": "fik-TSYOHN",
+      "ipa": "fɪkˈt͡si̯oːn",
+      "notes": "Plural: die Fiktionen."
+    },
+    "meaning": "fiction",
+    "shortDefinition": "Fiction."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Fiktion, plural die Fiktionen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Fiktion"
+        },
+        {
+          "label": "More than one",
+          "value": "die Fiktionen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Geschichte ist reine Fiktion.",
+      "english": "The story is pure fiction.",
+      "highlight": [
+        "Fiktion."
+      ]
+    },
+    {
+      "german": "Fakten und Fiktion sind schwer zu trennen.",
+      "english": "Fact and fiction are hard to separate.",
+      "highlight": [
+        "Fiktion"
+      ]
+    }
+  ],
+  "forms": [
+    "Fiktionen",
+    "die Fiktion",
+    "fiktiv"
+  ],
+  "memoryHook": "Fiktion: something made up (Latin fingere).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fiktion",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Fiktion is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Fiktion, zwei ___",
+      "answer": "Fiktionen",
+      "fullAnswer": "ein Fiktion, zwei Fiktionen",
+      "explanation": "The plural is Fiktionen.",
+      "acceptedAnswers": [
+        "Fiktionen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fiktion mean?",
+      "options": [
+        "fiction",
+        "the window",
+        "to travel"
+      ],
+      "answer": "fiction",
+      "explanation": "Fiktion: fiction.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fiktiv means…",
+      "options": [
+        "fictitious",
+        "fictional only in books"
+      ],
+      "answer": "fictitious",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fiction as a book genre is often…",
+      "options": [
+        "die Belletristik",
+        "die Fiktion only"
+      ],
+      "answer": "die Belletristik",
+      "explanation": "Genre.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Sachbuch is…",
+      "options": [
+        "non-fiction book",
+        "a law book"
+      ],
+      "answer": "non-fiction book",
+      "explanation": "Non-fiction.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Fiktion is fiction, in the sense of invention: reine Fiktion, Wahrheit und Fiktion. As a bookshop genre, fiction is usually called die Belletristik, and non-fiction das Sachbuch. Fiktiv means fictitious: eine fiktive Figur. Science fiction is usually just Science-Fiction. In law, eine Fiktion is a legal fiction. Plural: die Fiktionen."
+}

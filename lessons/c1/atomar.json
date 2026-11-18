@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "atomar",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "a-to-MAAR",
+      "ipa": "atoˈmaːɐ̯",
+      "notes": ""
+    },
+    "meaning": "atomic, nuclear",
+    "shortDefinition": "Atomic, nuclear."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die Welt fürchtete einen atomaren Krieg.",
+      "english": "The world feared a nuclear war.",
+      "highlight": [
+        "atomaren"
+      ]
+    },
+    {
+      "german": "Atomare Abfälle müssen sicher gelagert werden.",
+      "english": "Nuclear waste must be stored safely.",
+      "highlight": [
+        "Atomare"
+      ]
+    }
+  ],
+  "forms": [
+    "atomare",
+    "atomaren",
+    "atomarer"
+  ],
+  "memoryHook": "Atomar: relating to the Atom.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does atomar mean?",
+      "options": [
+        "atomic",
+        "hot",
+        "the flower"
+      ],
+      "answer": "atomic",
+      "explanation": "atomar: atomic, nuclear.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym (adjective):",
+      "options": [
+        "nuklear, Atom- (compound)",
+        "elektrisch"
+      ],
+      "answer": "nuklear, Atom- (compound)",
+      "explanation": "Synonym.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany shut down its last nuclear plants in…",
+      "options": [
+        "2023",
+        "2011"
+      ],
+      "answer": "2023",
+      "explanation": "History.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die atomare Abrüstung is…",
+      "options": [
+        "nuclear disarmament",
+        "nuclear power"
+      ],
+      "answer": "nuclear disarmament",
+      "explanation": "Phrase.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "die ___ Bedrohung (nuclear)",
+      "answer": "atomare",
+      "fullAnswer": "die atomare Bedrohung",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Atomar means atomic or nuclear: atomare Waffen, atomare Abrüstung, die atomare Bedrohung. It's interchangeable with nuklear, and compounds use Atom-: Atomkraft, Atomkraftwerk, Atommüll. The anti-nuclear movement (Atomkraft? Nein danke) was strong in West Germany, and the country's last three reactors went offline in April 2023."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Promi",
+    "partOfSpeech": "noun, masculine (der Promi)",
+    "pronunciation": {
+      "respelling": "PRO-mi",
+      "ipa": "ˈpʁoːmi",
+      "notes": "Plural: die Promis."
+    },
+    "meaning": "celeb, celebrity (colloquial)",
+    "shortDefinition": "Celeb, celebrity (colloquial)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Promi, plural die Promis.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Promi"
+        },
+        {
+          "label": "More than one",
+          "value": "die Promis"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Auf der Party waren viele Promis.",
+      "english": "There were lots of celebs at the party.",
+      "highlight": [
+        "Promis."
+      ]
+    },
+    {
+      "german": "Sie liest gern Promi-News.",
+      "english": "She likes reading celebrity news.",
+      "highlight": [
+        "Promi-News."
+      ]
+    }
+  ],
+  "forms": [
+    "Promis",
+    "die Promis",
+    "der Promi",
+    "Prominente"
+  ],
+  "memoryHook": "Promi: short for Prominente, the famous ones.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Promi",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Promi is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Promi, zwei ___",
+      "answer": "Promis",
+      "fullAnswer": "ein Promi, zwei Promis",
+      "explanation": "The plural is Promis.",
+      "acceptedAnswers": [
+        "Promis"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Promi mean?",
+      "options": [
+        "to buy",
+        "celeb",
+        "to sleep"
+      ],
+      "answer": "celeb",
+      "explanation": "Promi: celeb, celebrity (colloquial).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Promi is short for…",
+      "options": [
+        "der/die Prominente",
+        "die Promotion"
+      ],
+      "answer": "der/die Prominente",
+      "explanation": "Short form.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Prominent means…",
+      "options": [
+        "famous, well-known",
+        "promising"
+      ],
+      "answer": "famous, well-known",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "A female celeb is…",
+      "options": [
+        "die Promi or die Prominente",
+        "die Promiin"
+      ],
+      "answer": "die Promi or die Prominente",
+      "explanation": "Both genders.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der or die Promi is a colloquial short form of der/die Prominente (a celebrity), from prominent (famous). Typical phrases: Promi-Klatsch (celebrity gossip), die Promi-Hochzeit, die B-Promis (minor celebs). German reality TV is full of Promi-shows like Promi Big Brother. The more formal word is die Berühmtheit. Prominenz means the famous people collectively: die ganze Prominenz war da. Plural: die Promis."
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "gemeinschaftlich",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "ge-MAIN-shaft-likh",
+      "ipa": "ɡəˈmaɪ̯nʃaftlɪç",
+      "notes": ""
+    },
+    "meaning": "joint, communal",
+    "shortDefinition": "Joint, communal."
+  },
+  "sampleSentences": [
+    {
+      "german": "Der Garten wird gemeinschaftlich genutzt.",
+      "english": "The garden is used communally.",
+      "highlight": [
+        "gemeinschaftlich"
+      ]
+    },
+    {
+      "german": "Sie wurden wegen gemeinschaftlichen Betrugs angeklagt.",
+      "english": "They were charged with joint fraud.",
+      "highlight": [
+        "gemeinschaftlichen"
+      ]
+    }
+  ],
+  "forms": [
+    "gemeinschaftliche",
+    "gemeinschaftlichen",
+    "gemeinschaftliches"
+  ],
+  "memoryHook": "Gemeinschaftlich: done as a Gemeinschaft (community).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does gemeinschaftlich mean?",
+      "options": [
+        "joint",
+        "the shop",
+        "the job"
+      ],
+      "answer": "joint",
+      "explanation": "gemeinschaftlich: joint, communal.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gemeinschaft is…",
+      "options": [
+        "community",
+        "municipality"
+      ],
+      "answer": "community",
+      "explanation": "Root.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "In law, gemeinschaftlich means…",
+      "options": [
+        "committed jointly",
+        "publicly"
+      ],
+      "answer": "committed jointly",
+      "explanation": "Law.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "gemeinsam",
+        "einsam"
+      ],
+      "answer": "gemeinsam",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein ___ Projekt (joint)",
+      "answer": "gemeinschaftliches",
+      "fullAnswer": "ein gemeinschaftliches Projekt",
+      "explanation": "Neuter -es.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Gemeinschaftlich means joint or communal: gemeinschaftliches Eigentum, gemeinschaftlich nutzen. In German law, an offence committed by several people together is gemeinschaftlich begangen, and das gemeinschaftliche Testament is a joint will that married couples often make. Die Gemeinschaft is community: die Europäische Gemeinschaft, die Wohngemeinschaft (WG, shared flat). Everyday synonym: gemeinsam."
+}

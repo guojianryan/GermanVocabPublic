@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mitgliedstaat",
+    "partOfSpeech": "noun, masculine (der Mitgliedstaat)",
+    "pronunciation": {
+      "respelling": "MIT-gleet-shtaat",
+      "ipa": "ˈmɪtɡliːtˌʃtaːt",
+      "notes": "Plural: die Mitgliedstaaten."
+    },
+    "meaning": "member state",
+    "shortDefinition": "Member state."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Mitgliedstaat, plural die Mitgliedstaaten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Mitgliedstaat"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mitgliedstaaten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die EU hat 27 Mitgliedstaaten.",
+      "english": "The EU has 27 member states.",
+      "highlight": [
+        "Mitgliedstaaten."
+      ]
+    },
+    {
+      "german": "Jeder Mitgliedstaat hat einen Kommissar.",
+      "english": "Each member state has a commissioner.",
+      "highlight": [
+        "Mitgliedstaat"
+      ]
+    }
+  ],
+  "forms": [
+    "Mitgliedstaaten",
+    "die Mitgliedstaaten",
+    "der Mitgliedstaat",
+    "Mitgliedsstaat"
+  ],
+  "memoryHook": "Mitgliedstaat: a Staat that's a Mitglied.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mitgliedstaat",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Mitgliedstaat is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mitgliedstaat, zwei ___",
+      "answer": "Mitgliedstaaten",
+      "fullAnswer": "ein Mitgliedstaat, zwei Mitgliedstaaten",
+      "explanation": "The plural is Mitgliedstaaten.",
+      "acceptedAnswers": [
+        "Mitgliedstaaten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mitgliedstaat mean?",
+      "options": [
+        "the bill",
+        "member state",
+        "the job"
+      ],
+      "answer": "member state",
+      "explanation": "Mitgliedstaat: member state.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Also spelled…",
+      "options": [
+        "Mitgliedsstaat",
+        "Mitgliederstaat"
+      ],
+      "answer": "Mitgliedsstaat",
+      "explanation": "Both forms exist.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Mitglied is…",
+      "options": [
+        "a member",
+        "a limb"
+      ],
+      "answer": "a member",
+      "explanation": "Mitglied.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Number of EU member states (since 2020):",
+      "options": [
+        "27",
+        "28"
+      ],
+      "answer": "27",
+      "explanation": "After Brexit.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Mitgliedstaat is a member state, mostly of the EU or UN: die 27 EU-Mitgliedstaaten. Both Mitgliedstaat and Mitgliedsstaat are correct; EU documents use the form without the linking s, everyday writing often adds it. Germany was a founding member of the European communities in 1957, signed in Rome. Das Mitglied is a member, of a club or party, and is always neuter, even for a person: Sie ist ein Mitglied."
+}

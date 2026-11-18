@@ -1,0 +1,140 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Pater",
+    "partOfSpeech": "noun, masculine (der Pater)",
+    "pronunciation": {
+      "respelling": "PAA-ter",
+      "ipa": "ˈpaːtɐ",
+      "notes": "Plural: die Patres."
+    },
+    "meaning": "Father (Catholic priest of a religious order)",
+    "shortDefinition": "Father (Catholic priest of a religious order)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Pater, plural die Patres.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Pater"
+        },
+        {
+          "label": "More than one",
+          "value": "die Patres"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Pater Anselm leitet das Kloster.",
+      "english": "Father Anselm leads the monastery.",
+      "highlight": [
+        "Pater"
+      ]
+    },
+    {
+      "german": "Die Patres feiern jeden Morgen die Messe.",
+      "english": "The fathers celebrate Mass every morning.",
+      "highlight": [
+        "Patres"
+      ]
+    }
+  ],
+  "forms": [
+    "Patres",
+    "die Patres",
+    "der Pater"
+  ],
+  "memoryHook": "Pater: Latin for father, used for monks.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Pater",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Pater is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Pater, zwei ___",
+      "answer": "Patres",
+      "fullAnswer": "ein Pater, zwei Patres",
+      "explanation": "The plural is Patres.",
+      "acceptedAnswers": [
+        "Patres"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Pater mean?",
+      "options": [
+        "to travel",
+        "the key",
+        "Father (Catholic priest of a religious order)"
+      ],
+      "answer": "Father (Catholic priest of a religious order)",
+      "explanation": "Pater: Father (Catholic priest of a religious order).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Patres",
+        "Pater"
+      ],
+      "answer": "Patres",
+      "explanation": "Latin plural.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A Pater is a priest who…",
+      "options": [
+        "belongs to a religious order",
+        "is a bishop"
+      ],
+      "answer": "belongs to a religious order",
+      "explanation": "Monk-priest.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "A normal parish priest is addressed as…",
+      "options": [
+        "Herr Pfarrer",
+        "Pater"
+      ],
+      "answer": "Herr Pfarrer",
+      "explanation": "Parish priest.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pater comes from Latin…",
+      "options": [
+        "father",
+        "stone"
+      ],
+      "answer": "father",
+      "explanation": "Latin pater.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Der Pater (plural Patres) is the title of a priest who belongs to a religious order, such as the Benedictines or Jesuits: Pater Anselm. A priest in a parish is called der Pfarrer, and a monk who isn't ordained is der Bruder (Frater). The word is Latin for father. You'll see it in names of monasteries and as the first word of the Lord's Prayer, Pater noster (Vaterunser)."
+}

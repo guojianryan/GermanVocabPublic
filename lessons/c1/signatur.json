@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Signatur",
+    "partOfSpeech": "noun, feminine (die Signatur)",
+    "pronunciation": {
+      "respelling": "zig-na-TOOR",
+      "ipa": "zɪɡnaˈtuːɐ̯",
+      "notes": "Plural: die Signaturen."
+    },
+    "meaning": "signature (formal, digital); shelf mark",
+    "shortDefinition": "Signature (formal, digital); shelf mark."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Signatur, plural die Signaturen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Signatur"
+        },
+        {
+          "label": "More than one",
+          "value": "die Signaturen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die E-Mail endet mit einer Signatur.",
+      "english": "The email ends with a signature.",
+      "highlight": [
+        "Signatur."
+      ]
+    },
+    {
+      "german": "Das Buch hat die Signatur B 1234.",
+      "english": "The book has the shelf mark B 1234.",
+      "highlight": [
+        "Signatur"
+      ]
+    }
+  ],
+  "forms": [
+    "Signaturen",
+    "die Signaturen",
+    "die Signatur",
+    "signieren"
+  ],
+  "memoryHook": "Signatur: a sign (signum) that marks something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Signatur",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Signatur is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Signatur, zwei ___",
+      "answer": "Signaturen",
+      "fullAnswer": "ein Signatur, zwei Signaturen",
+      "explanation": "The plural is Signaturen.",
+      "acceptedAnswers": [
+        "Signaturen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Signatur mean?",
+      "options": [
+        "always",
+        "signature (formal",
+        "to buy"
+      ],
+      "answer": "signature (formal",
+      "explanation": "Signatur: signature (formal, digital); shelf mark.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "A handwritten signature is usually…",
+      "options": [
+        "die Unterschrift",
+        "die Signatur"
+      ],
+      "answer": "die Unterschrift",
+      "explanation": "Unterschrift.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In a library, die Signatur is…",
+      "options": [
+        "the shelf mark",
+        "the librarian's name"
+      ],
+      "answer": "the shelf mark",
+      "explanation": "Library.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Signieren means…",
+      "options": [
+        "to sign (books, artworks)",
+        "to signal"
+      ],
+      "answer": "to sign (books, artworks)",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Signatur is a signature in technical or formal contexts: die E-Mail-Signatur, die elektronische Signatur, an artist's signature on a painting. For everyday handwritten signatures, Germans say die Unterschrift. In libraries, die Signatur is the shelf mark. Signieren means to sign books or artworks: Der Autor signiert sein Buch. Stressed on the last syllable: zig-na-TOOR. Plural: die Signaturen."
+}

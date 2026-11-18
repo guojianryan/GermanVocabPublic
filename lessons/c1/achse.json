@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Achse",
+    "partOfSpeech": "noun, feminine (die Achse)",
+    "pronunciation": {
+      "respelling": "AK-se",
+      "ipa": "ˈaksə",
+      "notes": "Plural: die Achsen."
+    },
+    "meaning": "axle; axis",
+    "shortDefinition": "Axle; axis."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Achse, plural die Achsen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Achse"
+        },
+        {
+          "label": "More than one",
+          "value": "die Achsen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Rad dreht sich um seine Achse.",
+      "english": "The wheel turns on its axis.",
+      "highlight": [
+        "Achse"
+      ]
+    },
+    {
+      "german": "Er ist ständig auf Achse.",
+      "english": "He's always on the move.",
+      "highlight": [
+        "Achse."
+      ]
+    }
+  ],
+  "forms": [
+    "Achsen",
+    "die Achsen",
+    "die Achse"
+  ],
+  "memoryHook": "Achse: always auf Achse, always turning.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Achse",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Achse is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Achse, zwei ___",
+      "answer": "Achsen",
+      "fullAnswer": "ein Achse, zwei Achsen",
+      "explanation": "The plural is Achsen.",
+      "acceptedAnswers": [
+        "Achsen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Achse mean?",
+      "options": [
+        "the bill",
+        "axle",
+        "to sing"
+      ],
+      "answer": "axle",
+      "explanation": "Achse: axle; axis.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Auf Achse sein means…",
+      "options": [
+        "to be on the move",
+        "to be broken"
+      ],
+      "answer": "to be on the move",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The x-axis in maths:",
+      "options": [
+        "die x-Achse",
+        "der x-Strich"
+      ],
+      "answer": "die x-Achse",
+      "explanation": "x-Achse.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The chs is pronounced…",
+      "options": [
+        "ks",
+        "ch"
+      ],
+      "answer": "ks",
+      "explanation": "AK-se.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Achse is an axle (die Hinterachse of a car) or an axis: die Erdachse, die x-Achse. The chs is pronounced ks, as in Fuchs and sechs. Auf Achse sein means to be on the move, always travelling: Meine Oma ist ständig auf Achse. In history, die Achsenmächte were the Axis powers of the Second World War. Plural: die Achsen."
+}

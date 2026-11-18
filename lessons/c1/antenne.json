@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Antenne",
+    "partOfSpeech": "noun, feminine (die Antenne)",
+    "pronunciation": {
+      "respelling": "an-TE-ne",
+      "ipa": "anˈtɛnə",
+      "notes": "Plural: die Antennen."
+    },
+    "meaning": "aerial, antenna",
+    "shortDefinition": "Aerial, antenna."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Antenne, plural die Antennen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Antenne"
+        },
+        {
+          "label": "More than one",
+          "value": "die Antennen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Auf dem Dach ist eine Antenne.",
+      "english": "There's an aerial on the roof.",
+      "highlight": [
+        "Antenne."
+      ]
+    },
+    {
+      "german": "Sie hat eine Antenne für Stimmungen.",
+      "english": "She has a feel for moods.",
+      "highlight": [
+        "Antenne"
+      ]
+    }
+  ],
+  "forms": [
+    "Antennen",
+    "die Antennen",
+    "die Antenne"
+  ],
+  "memoryHook": "Antenne: catches signals, and moods.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Antenne",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Antenne is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Antenne, zwei ___",
+      "answer": "Antennen",
+      "fullAnswer": "ein Antenne, zwei Antennen",
+      "explanation": "The plural is Antennen.",
+      "acceptedAnswers": [
+        "Antennen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Antenne mean?",
+      "options": [
+        "aerial",
+        "the key",
+        "always"
+      ],
+      "answer": "aerial",
+      "explanation": "Antenne: aerial, antenna.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Antenne für etwas haben means…",
+      "options": [
+        "to have a feel, sense for something",
+        "to receive TV"
+      ],
+      "answer": "to have a feel, sense for something",
+      "explanation": "Feel.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Insects' antennae are also called…",
+      "options": [
+        "die Fühler",
+        "die Haare"
+      ],
+      "answer": "die Fühler",
+      "explanation": "Feelers.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Antennen",
+        "die Antennae"
+      ],
+      "answer": "die Antennen",
+      "explanation": "-n.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Antenne is an aerial or antenna: die Fernsehantenne, die Satellitenschüssel (satellite dish). Figuratively, eine Antenne für etwas haben means to have a feel for something: Er hat keine Antenne für Ironie. Insect antennae are usually die Fühler. Several German radio stations are named Antenne, like Antenne Bayern. Plural: die Antennen."
+}

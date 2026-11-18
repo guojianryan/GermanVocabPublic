@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Putsch",
+    "partOfSpeech": "noun, masculine (der Putsch)",
+    "pronunciation": {
+      "respelling": "putsh",
+      "ipa": "pʊt͡ʃ",
+      "notes": "Plural: die Putsche."
+    },
+    "meaning": "coup (d'état)",
+    "shortDefinition": "Coup (d'état)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Putsch, plural die Putsche.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Putsch"
+        },
+        {
+          "label": "More than one",
+          "value": "die Putsche"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Militär hat einen Putsch versucht.",
+      "english": "The military attempted a coup.",
+      "highlight": [
+        "Putsch"
+      ]
+    },
+    {
+      "german": "Der Putsch scheiterte nach wenigen Stunden.",
+      "english": "The coup failed after a few hours.",
+      "highlight": [
+        "Putsch"
+      ]
+    }
+  ],
+  "forms": [
+    "Putsche",
+    "die Putsche",
+    "der Putsch",
+    "putschen"
+  ],
+  "memoryHook": "Putsch: a sudden blow (Swiss) against the government.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Putsch",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Putsch is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Putsch, zwei ___",
+      "answer": "Putsche",
+      "fullAnswer": "ein Putsch, zwei Putsche",
+      "explanation": "The plural is Putsche.",
+      "acceptedAnswers": [
+        "Putsche"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Putsch mean?",
+      "options": [
+        "to sing",
+        "never",
+        "coup (d'état)"
+      ],
+      "answer": "coup (d'état)",
+      "explanation": "Putsch: coup (d'état).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "English borrowed putsch from…",
+      "options": [
+        "Swiss German",
+        "Russian"
+      ],
+      "answer": "Swiss German",
+      "explanation": "Swiss.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hitler's failed 1923 coup was…",
+      "options": [
+        "der Hitlerputsch in Munich",
+        "the Reichstag fire"
+      ],
+      "answer": "der Hitlerputsch in Munich",
+      "explanation": "1923.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Putschen means…",
+      "options": [
+        "to stage a coup",
+        "to push a door"
+      ],
+      "answer": "to stage a coup",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Putsch is a coup d'état: ein Militärputsch, einen Putsch vereiteln (to thwart a coup). The word came from Swiss German, meaning a blow or push, and English borrowed it. Famous German examples: the Kapp-Putsch of 1920 in Berlin and the Hitlerputsch of November 1923 in Munich. In December 2022, police raided Reichsbürger groups accused of planning a coup. Plural: die Putsche."
+}

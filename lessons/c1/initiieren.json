@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "initiieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "i-ni-tsi-EE-ren",
+      "ipa": "init͡siˈʔiːʁən",
+      "notes": ""
+    },
+    "meaning": "to initiate, launch",
+    "shortDefinition": "To initiate, launch."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "initiier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "initiier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "initiier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "initiier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "initiier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "initiier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat initiiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie hat das Projekt initiiert.",
+      "english": "She initiated the project.",
+      "highlight": [
+        "initiiert."
+      ]
+    },
+    {
+      "german": "Die Stadt initiiert eine neue Kampagne.",
+      "english": "The city is launching a new campaign.",
+      "highlight": [
+        "initiiert"
+      ]
+    }
+  ],
+  "forms": [
+    "initiiere",
+    "initiierst",
+    "initiiert",
+    "initiieren",
+    "Initiator",
+    "Initiative"
+  ],
+  "memoryHook": "Initiieren: start (initium) something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (initiieren)",
+      "answer": "initiiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: initiiert.",
+      "acceptedAnswers": [
+        "initiiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (initiieren, past)",
+      "answer": "initiiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe initiiert.",
+      "acceptedAnswers": [
+        "initiiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does initiieren mean?",
+      "options": [
+        "the station",
+        "to initiate",
+        "to wait"
+      ],
+      "answer": "to initiate",
+      "explanation": "initiieren: to initiate, launch.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Initiative is…",
+      "options": [
+        "initiative; campaign group",
+        "initial"
+      ],
+      "answer": "initiative; campaign group",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Initiator is…",
+      "options": [
+        "the person who started it",
+        "a starter motor"
+      ],
+      "answer": "the person who started it",
+      "explanation": "Person.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Spelling note:",
+      "options": [
+        "double i: initiieren",
+        "single i: initieren"
+      ],
+      "answer": "double i: initiieren",
+      "explanation": "Spelling.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Initiieren means to initiate or launch: ein Projekt, eine Petition initiieren. Note the double i: initi-ieren. Der Initiator (die Initiatorin) is the person who started something. Die Initiative is an initiative or a citizens' group: eine Bürgerinitiative. In German direct democracy at state level, a Volksinitiative can lead to a referendum. Perfect without ge-: hat initiiert."
+}

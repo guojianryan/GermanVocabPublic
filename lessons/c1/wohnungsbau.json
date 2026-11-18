@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wohnungsbau",
+    "partOfSpeech": "noun, masculine (der Wohnungsbau)",
+    "pronunciation": {
+      "respelling": "VOH-nungs-bau",
+      "ipa": "ˈvoːnʊŋsˌbaʊ̯",
+      "notes": "Usually no plural."
+    },
+    "meaning": "housing construction",
+    "shortDefinition": "Housing construction."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Wohnungsbau, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Wohnungsbau"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der soziale Wohnungsbau soll gefördert werden.",
+      "english": "Social housing construction is to be promoted.",
+      "highlight": [
+        "Wohnungsbau"
+      ]
+    },
+    {
+      "german": "Im Wohnungsbau fehlen Fachkräfte.",
+      "english": "Housing construction lacks skilled workers.",
+      "highlight": [
+        "Wohnungsbau"
+      ]
+    }
+  ],
+  "forms": [
+    "der Wohnungsbau",
+    "Wohnungsbaus"
+  ],
+  "memoryHook": "Wohnungsbau: building (Bau) flats (Wohnungen).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wohnungsbau",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Wohnungsbau is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wohnungsbau mean?",
+      "options": [
+        "to travel",
+        "housing construction",
+        "to open"
+      ],
+      "answer": "housing construction",
+      "explanation": "Wohnungsbau: housing construction.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der soziale Wohnungsbau is…",
+      "options": [
+        "social (subsidised) housing",
+        "a housing estate name"
+      ],
+      "answer": "social (subsidised) housing",
+      "explanation": "Social housing.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Sozialwohnung requires…",
+      "options": [
+        "a WBS (Wohnberechtigungsschein)",
+        "a car"
+      ],
+      "answer": "a WBS (Wohnberechtigungsschein)",
+      "explanation": "WBS.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Neubau is…",
+      "options": [
+        "a new building",
+        "a renovation"
+      ],
+      "answer": "a new building",
+      "explanation": "New build.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Wohnungsbau is housing construction: der soziale Wohnungsbau (social housing), Wohnungsbau fördern. Germany's government set a target of 400,000 new homes a year from 2021, but actual completions fell well short because of high interest rates and building costs. To rent a Sozialwohnung, you need a Wohnberechtigungsschein (WBS), based on income. Most Germans rent rather than own. It has no plural."
+}

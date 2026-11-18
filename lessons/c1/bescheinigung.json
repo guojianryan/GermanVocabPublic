@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bescheinigung",
+    "partOfSpeech": "noun, feminine (die Bescheinigung)",
+    "pronunciation": {
+      "respelling": "be-SHAI-ni-gung",
+      "ipa": "bəˈʃaɪ̯nɪɡʊŋ",
+      "notes": "Plural: die Bescheinigungen."
+    },
+    "meaning": "certificate, written confirmation",
+    "shortDefinition": "Certificate, written confirmation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Bescheinigung, plural die Bescheinigungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Bescheinigung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bescheinigungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich brauche eine Bescheinigung vom Arbeitgeber.",
+      "english": "I need a written confirmation from my employer.",
+      "highlight": [
+        "Bescheinigung"
+      ]
+    },
+    {
+      "german": "Die Arbeitsunfähigkeitsbescheinigung wird jetzt elektronisch übermittelt.",
+      "english": "Sick notes are now transmitted electronically.",
+      "highlight": [
+        "Arbeitsunfähigkeitsbescheinigung"
+      ]
+    }
+  ],
+  "forms": [
+    "Bescheinigungen",
+    "die Bescheinigung"
+  ],
+  "memoryHook": "Bescheinigung: a document that bescheinigt (certifies).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bescheinigung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Bescheinigung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bescheinigung, zwei ___",
+      "answer": "Bescheinigungen",
+      "fullAnswer": "ein Bescheinigung, zwei Bescheinigungen",
+      "explanation": "The plural is Bescheinigungen.",
+      "acceptedAnswers": [
+        "Bescheinigungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bescheinigung mean?",
+      "options": [
+        "to sleep",
+        "certificate",
+        "the child"
+      ],
+      "answer": "certificate",
+      "explanation": "Bescheinigung: certificate, written confirmation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bescheinigen means…",
+      "options": [
+        "to certify, confirm in writing",
+        "to shine"
+      ],
+      "answer": "to certify, confirm in writing",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die AU-Bescheinigung is…",
+      "options": [
+        "a sick note",
+        "a holiday form"
+      ],
+      "answer": "a sick note",
+      "explanation": "Sick note.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Nachweis, das Attest",
+        "die Rechnung"
+      ],
+      "answer": "der Nachweis, das Attest",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Bescheinigung is a certificate or written confirmation, a cornerstone of German bureaucracy: Meldebescheinigung (proof of registration), Immatrikulationsbescheinigung (proof of enrolment), Arbeitsunfähigkeitsbescheinigung (sick note, AU). Since 2023, doctors send sick notes to employers' health insurers electronically (the eAU). Bescheinigen means to certify. Plural: die Bescheinigungen."
+}

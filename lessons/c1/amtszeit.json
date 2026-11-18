@@ -1,0 +1,118 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Amtszeit",
+    "partOfSpeech": "noun, feminine (die Amtszeit)",
+    "pronunciation": {
+      "respelling": "AMTS-tsait",
+      "ipa": "ˈamt͡sˌt͡saɪ̯t",
+      "notes": "Plural: die Amtszeiten."
+    },
+    "meaning": "term of office",
+    "shortDefinition": "Term of office."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Amtszeit, plural die Amtszeiten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Amtszeit"
+        },
+        {
+          "label": "More than one",
+          "value": "die Amtszeiten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ihre Amtszeit endet im Mai.",
+      "english": "Her term of office ends in May.",
+      "highlight": [
+        "Amtszeit"
+      ]
+    },
+    {
+      "german": "In seiner Amtszeit wurde viel gebaut.",
+      "english": "A lot was built during his term.",
+      "highlight": [
+        "Amtszeit"
+      ]
+    }
+  ],
+  "forms": [
+    "Amtszeiten",
+    "die Amtszeiten",
+    "die Amtszeit"
+  ],
+  "memoryHook": "Amtszeit: the Zeit you hold the Amt.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Amtszeit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Amtszeit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Amtszeit, zwei ___",
+      "answer": "Amtszeiten",
+      "fullAnswer": "ein Amtszeit, zwei Amtszeiten",
+      "explanation": "The plural is Amtszeiten.",
+      "acceptedAnswers": [
+        "Amtszeiten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Amtszeit mean?",
+      "options": [
+        "the child",
+        "term of office",
+        "to learn"
+      ],
+      "answer": "term of office",
+      "explanation": "Amtszeit: term of office.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Amt here means…",
+      "options": [
+        "office, post",
+        "doctor"
+      ],
+      "answer": "office, post",
+      "explanation": "Amt = office.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A German chancellor's term normally lasts…",
+      "options": [
+        "four years",
+        "seven years"
+      ],
+      "answer": "four years",
+      "explanation": "One Bundestag term.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Amtszeit is the term of office: Die Amtszeit des Bundespräsidenten beträgt fünf Jahre. A chancellor's term follows the Bundestag's four-year Legislaturperiode, and there's no limit on how many terms they can serve: Angela Merkel and Helmut Kohl each served 16 years. The linking s in Amt-s-zeit is typical of compounds. Das Amt means office, as in das Auswärtige Amt (Foreign Office) and der Amtsantritt (taking office)."
+}

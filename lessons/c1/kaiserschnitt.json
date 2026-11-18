@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kaiserschnitt",
+    "partOfSpeech": "noun, masculine (der Kaiserschnitt)",
+    "pronunciation": {
+      "respelling": "KAI-zer-shnit",
+      "ipa": "ˈkaɪ̯zɐˌʃnɪt",
+      "notes": "Plural: die Kaiserschnitte."
+    },
+    "meaning": "caesarean section",
+    "shortDefinition": "Caesarean section."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kaiserschnitt, plural die Kaiserschnitte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kaiserschnitt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kaiserschnitte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Baby kam per Kaiserschnitt zur Welt.",
+      "english": "The baby was born by caesarean section.",
+      "highlight": [
+        "Kaiserschnitt"
+      ]
+    },
+    {
+      "german": "Fast ein Drittel der Kinder wird per Kaiserschnitt geboren.",
+      "english": "Almost a third of children are born by caesarean.",
+      "highlight": [
+        "Kaiserschnitt"
+      ]
+    }
+  ],
+  "forms": [
+    "Kaiserschnitte",
+    "der Kaiserschnitt"
+  ],
+  "memoryHook": "Kaiserschnitt: a Schnitt (cut) named after the Kaiser (Caesar).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kaiserschnitt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kaiserschnitt is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kaiserschnitt, zwei ___",
+      "answer": "Kaiserschnitte",
+      "fullAnswer": "ein Kaiserschnitt, zwei Kaiserschnitte",
+      "explanation": "The plural is Kaiserschnitte.",
+      "acceptedAnswers": [
+        "Kaiserschnitte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kaiserschnitt mean?",
+      "options": [
+        "caesarean section",
+        "slowly",
+        "the shop"
+      ],
+      "answer": "caesarean section",
+      "explanation": "Kaiserschnitt: caesarean section.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kaiser is…",
+      "options": [
+        "emperor",
+        "a cheese"
+      ],
+      "answer": "emperor",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The word translates…",
+      "options": [
+        "Latin sectio caesarea",
+        "Greek"
+      ],
+      "answer": "Latin sectio caesarea",
+      "explanation": "Origin.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "A natural birth is…",
+      "options": [
+        "eine natürliche / vaginale Geburt",
+        "ein Kaiserschnitt"
+      ],
+      "answer": "eine natürliche / vaginale Geburt",
+      "explanation": "Contrast.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Kaiserschnitt is a caesarean section: per Kaiserschnitt entbinden. Almost a third of babies in Germany are born this way. The name translates Latin sectio caesarea, linked by legend to Julius Caesar, though the link is probably false; Kaiser itself comes from Caesar. A natural birth is eine natürliche Geburt. Midwives are Hebammen. Plural: die Kaiserschnitte."
+}

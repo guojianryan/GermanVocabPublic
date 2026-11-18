@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "anhängig",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "AN-heng-ikh",
+      "ipa": "ˈanhɛŋɪç",
+      "notes": ""
+    },
+    "meaning": "pending (legal)",
+    "shortDefinition": "Pending (legal)."
+  },
+  "sampleSentences": [
+    {
+      "german": "Gegen ihn ist ein Verfahren anhängig.",
+      "english": "Proceedings are pending against him.",
+      "highlight": [
+        "anhängig."
+      ]
+    },
+    {
+      "german": "Die Klage ist beim Verfassungsgericht anhängig.",
+      "english": "The case is pending before the Constitutional Court.",
+      "highlight": [
+        "anhängig."
+      ]
+    }
+  ],
+  "forms": [
+    "anhängige",
+    "anhängigen",
+    "anhängiges"
+  ],
+  "memoryHook": "Anhängig: hanging (hängen) on at court.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does anhängig mean?",
+      "options": [
+        "pending (legal)",
+        "the family",
+        "to wait"
+      ],
+      "answer": "pending (legal)",
+      "explanation": "anhängig: pending (legal).",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "legal, formal",
+        "colloquial"
+      ],
+      "answer": "legal, formal",
+      "explanation": "Register.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "laufend, schwebend",
+        "abgeschlossen"
+      ],
+      "answer": "laufend, schwebend",
+      "explanation": "Synonym.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Anhang is…",
+      "options": [
+        "appendix; attachment; followers",
+        "a slope"
+      ],
+      "answer": "appendix; attachment; followers",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein ___ Verfahren (pending)",
+      "answer": "anhängiges",
+      "fullAnswer": "ein anhängiges Verfahren",
+      "explanation": "Neuter -es.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Anhängig is a legal term meaning pending before a court or authority: ein anhängiges Verfahren, Die Klage ist anhängig. Einen Rechtsstreit anhängig machen means to bring a case. Synonyms: laufend, schwebend. Don't confuse it with abhängig (dependent) or anhänglich (clingy, devoted). Der Anhang is an appendix or email attachment."
+}

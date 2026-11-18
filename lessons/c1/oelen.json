@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ölen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "Ö-len",
+      "ipa": "ˈøːlən",
+      "notes": ""
+    },
+    "meaning": "to oil, lubricate",
+    "shortDefinition": "To oil, lubricate."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "öl|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "öl|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "öl|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "öl|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "öl|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "öl|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geölt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er ölt die Fahrradkette.",
+      "english": "He oils the bike chain.",
+      "highlight": [
+        "ölt"
+      ]
+    },
+    {
+      "german": "Das Team lief wie geölt.",
+      "english": "The team ran like clockwork.",
+      "highlight": [
+        "geölt."
+      ]
+    }
+  ],
+  "forms": [
+    "öle",
+    "ölst",
+    "ölt",
+    "ölen",
+    "geölt",
+    "ölte"
+  ],
+  "memoryHook": "Ölen: put Öl (oil) on.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (ölen)",
+      "answer": "ölt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: ölt.",
+      "acceptedAnswers": [
+        "oelt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (ölen, past)",
+      "answer": "geölt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geölt.",
+      "acceptedAnswers": [
+        "geoelt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does ölen mean?",
+      "options": [
+        "to oil",
+        "the street",
+        "the door"
+      ],
+      "answer": "to oil",
+      "explanation": "ölen: to oil, lubricate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wie geölt means…",
+      "options": [
+        "smoothly, like clockwork",
+        "greasy"
+      ],
+      "answer": "smoothly, like clockwork",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Öl is…",
+      "options": [
+        "oil",
+        "a hole"
+      ],
+      "answer": "oil",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein geölter Blitz means…",
+      "options": [
+        "something extremely fast",
+        "an oily storm"
+      ],
+      "answer": "something extremely fast",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Ölen means to oil or lubricate: die Kette, die Tür, ein Holzbrett ölen. Wie geölt means smoothly or like clockwork: Es lief wie geölt. Wie ein geölter Blitz means extremely fast. Das Öl is oil: Olivenöl, Speiseöl, Heizöl. Öl ins Feuer gießen means to add fuel to the fire. Regular: ölte, geölt."
+}

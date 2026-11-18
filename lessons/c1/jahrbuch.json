@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Jahrbuch",
+    "partOfSpeech": "noun, neuter (das Jahrbuch)",
+    "pronunciation": {
+      "respelling": "YAAR-bookh",
+      "ipa": "ˈjaːɐ̯ˌbuːx",
+      "notes": "Plural: die Jahrbücher."
+    },
+    "meaning": "yearbook, annual",
+    "shortDefinition": "Yearbook, annual."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Jahrbuch, plural die Jahrbücher.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Jahrbuch"
+        },
+        {
+          "label": "More than one",
+          "value": "die Jahrbücher"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Statistische Jahrbuch enthält viele Zahlen.",
+      "english": "The statistical yearbook contains lots of figures.",
+      "highlight": [
+        "Jahrbuch"
+      ]
+    },
+    {
+      "german": "Die Schule gibt ein Jahrbuch heraus.",
+      "english": "The school publishes a yearbook.",
+      "highlight": [
+        "Jahrbuch"
+      ]
+    }
+  ],
+  "forms": [
+    "Jahrbücher",
+    "die Jahrbücher",
+    "das Jahrbuch"
+  ],
+  "memoryHook": "Jahrbuch: a Buch for each Jahr.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Jahrbuch",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Jahrbuch is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Jahrbuch, zwei ___",
+      "answer": "Jahrbücher",
+      "fullAnswer": "ein Jahrbuch, zwei Jahrbücher",
+      "explanation": "The plural is Jahrbücher.",
+      "acceptedAnswers": [
+        "Jahrbuecher"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Jahrbuch mean?",
+      "options": [
+        "the job",
+        "tomorrow",
+        "yearbook"
+      ],
+      "answer": "yearbook",
+      "explanation": "Jahrbuch: yearbook, annual.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Jahrbücher",
+        "die Jahrbuche"
+      ],
+      "answer": "die Jahrbücher",
+      "explanation": "Umlaut + er.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Statistische Jahrbuch is published by…",
+      "options": [
+        "Destatis (Federal Statistical Office)",
+        "the Bundestag"
+      ],
+      "answer": "Destatis (Federal Statistical Office)",
+      "explanation": "Statistics.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "School yearbooks in Germany are…",
+      "options": [
+        "less common than in the US",
+        "compulsory"
+      ],
+      "answer": "less common than in the US",
+      "explanation": "Abibuch is more typical.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Jahrbuch is a yearbook or annual: das Statistische Jahrbuch, published by the Federal Statistical Office, or academic Jahrbücher for a field. American-style school yearbooks are less common in Germany; instead, graduating Gymnasium students make an Abibuch or Abizeitung with photos and jokes about classmates and teachers. Plural: die Jahrbücher, with umlaut and -er."
+}

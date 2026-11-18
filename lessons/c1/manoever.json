@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Manöver",
+    "partOfSpeech": "noun, neuter (das Manöver)",
+    "pronunciation": {
+      "respelling": "ma-NÖ-ver",
+      "ipa": "maˈnøːvɐ",
+      "notes": "Plural: die Manöver."
+    },
+    "meaning": "manoeuvre; military exercise",
+    "shortDefinition": "Manoeuvre; military exercise."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Manöver, plural die Manöver.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Manöver"
+        },
+        {
+          "label": "More than one",
+          "value": "die Manöver"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Bundeswehr hält ein Manöver ab.",
+      "english": "The Bundeswehr is holding a military exercise.",
+      "highlight": [
+        "Manöver"
+      ]
+    },
+    {
+      "german": "Das war nur ein Ablenkungsmanöver.",
+      "english": "That was just a diversionary tactic.",
+      "highlight": [
+        "Ablenkungsmanöver."
+      ]
+    }
+  ],
+  "forms": [
+    "die Manöver",
+    "das Manöver",
+    "manövrieren"
+  ],
+  "memoryHook": "Manöver: a skilful move, by army, driver or politician.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Manöver",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Manöver is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Manöver, zwei ___",
+      "answer": "Manöver",
+      "fullAnswer": "ein Manöver, zwei Manöver",
+      "explanation": "The plural is Manöver.",
+      "acceptedAnswers": [
+        "Manoever"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Manöver mean?",
+      "options": [
+        "manoeuvre",
+        "the weather",
+        "the door"
+      ],
+      "answer": "manoeuvre",
+      "explanation": "Manöver: manoeuvre; military exercise.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Ablenkungsmanöver is…",
+      "options": [
+        "a diversionary tactic",
+        "a traffic diversion"
+      ],
+      "answer": "a diversionary tactic",
+      "explanation": "Diversion.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Manövrieren means…",
+      "options": [
+        "to manoeuvre",
+        "to manage"
+      ],
+      "answer": "to manoeuvre",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Wendemanöver is…",
+      "options": [
+        "turning manoeuvre (car)",
+        "a political U-turn only"
+      ],
+      "answer": "turning manoeuvre (car)",
+      "explanation": "Turn.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Manöver is a manoeuvre: ein Einparkmanöver (parking manoeuvre), ein Überholmanöver (overtaking), and a military exercise: ein NATO-Manöver. Figuratively, it's a tactic: ein Ablenkungsmanöver (diversion), ein Täuschungsmanöver (deception). Manövrieren means to manoeuvre: sich in eine schwierige Lage manövrieren. From French manœuvre. Plural: die Manöver."
+}

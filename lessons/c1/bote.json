@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bote",
+    "partOfSpeech": "noun, masculine (der Bote)",
+    "pronunciation": {
+      "respelling": "BOH-te",
+      "ipa": "ˈboːtə",
+      "notes": "Plural: die Boten."
+    },
+    "meaning": "messenger, courier",
+    "shortDefinition": "Messenger, courier."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Bote, plural die Boten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Bote"
+        },
+        {
+          "label": "More than one",
+          "value": "die Boten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Bote brachte ein Paket.",
+      "english": "The courier brought a parcel.",
+      "highlight": [
+        "Bote"
+      ]
+    },
+    {
+      "german": "Die Schneeglöckchen sind die Boten des Frühlings.",
+      "english": "The snowdrops are the messengers of spring.",
+      "highlight": [
+        "Boten"
+      ]
+    }
+  ],
+  "forms": [
+    "Boten",
+    "die Boten",
+    "der Bote",
+    "Botin",
+    "Botschaft"
+  ],
+  "memoryHook": "Bote: brings a Botschaft (message).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bote",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Bote is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bote, zwei ___",
+      "answer": "Boten",
+      "fullAnswer": "ein Bote, zwei Boten",
+      "explanation": "The plural is Boten.",
+      "acceptedAnswers": [
+        "Boten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bote mean?",
+      "options": [
+        "messenger",
+        "to wait",
+        "quiet"
+      ],
+      "answer": "messenger",
+      "explanation": "Bote: messenger, courier.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bote is a weak noun:",
+      "options": [
+        "den Boten",
+        "den Bote"
+      ],
+      "answer": "den Boten",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Fahrradkurier / Lieferbote is…",
+      "options": [
+        "a delivery rider",
+        "a postman"
+      ],
+      "answer": "a delivery rider",
+      "explanation": "Delivery.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Botschaft is…",
+      "options": [
+        "message; embassy",
+        "a boat"
+      ],
+      "answer": "message; embassy",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Bote (die Botin) is a messenger or courier: der Paketbote (parcel courier), der Fahrradbote. Figuratively, Boten des Frühlings are signs of spring. It's a weak noun: den Boten. Related: die Botschaft (message, also embassy), der Botschafter (ambassador). Den Überbringer schlechter Nachrichten bestraft man (shooting the messenger) is a common idea. Plural: die Boten."
+}

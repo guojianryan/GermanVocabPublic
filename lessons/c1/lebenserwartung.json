@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Lebenserwartung",
+    "partOfSpeech": "noun, feminine (die Lebenserwartung)",
+    "pronunciation": {
+      "respelling": "LAY-bens-er-var-tung",
+      "ipa": "ˈleːbn̩sʔɛɐ̯ˌvaʁtʊŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "life expectancy",
+    "shortDefinition": "Life expectancy."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Lebenserwartung, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Lebenserwartung"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Lebenserwartung in Deutschland liegt bei etwa 81 Jahren.",
+      "english": "Life expectancy in Germany is about 81 years.",
+      "highlight": [
+        "Lebenserwartung"
+      ]
+    },
+    {
+      "german": "Frauen haben eine höhere Lebenserwartung als Männer.",
+      "english": "Women have a higher life expectancy than men.",
+      "highlight": [
+        "Lebenserwartung"
+      ]
+    }
+  ],
+  "forms": [
+    "die Lebenserwartung"
+  ],
+  "memoryHook": "Lebenserwartung: how long your Leben is expected (erwartet) to last.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Lebenserwartung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Lebenserwartung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Lebenserwartung mean?",
+      "options": [
+        "cheap",
+        "never",
+        "life expectancy"
+      ],
+      "answer": "life expectancy",
+      "explanation": "Lebenserwartung: life expectancy.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Erwartung is…",
+      "options": [
+        "expectation",
+        "waiting room"
+      ],
+      "answer": "expectation",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Women in Germany live on average about… longer.",
+      "options": [
+        "5 years",
+        "15 years"
+      ],
+      "answer": "5 years",
+      "explanation": "Gap.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rising life expectancy affects…",
+      "options": [
+        "the pension system",
+        "speed limits"
+      ],
+      "answer": "the pension system",
+      "explanation": "Pensions.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Lebenserwartung is life expectancy: In Germany it's about 81 years, around 83 for women and 79 for men, slightly below the Western European average. Differences between rich and poor are significant. Rising life expectancy puts pressure on the Rentensystem, so the retirement age is rising gradually to 67. Die Erwartung means expectation. It has no plural."
+}

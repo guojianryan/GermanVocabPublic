@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "einweihen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AIN-vai-en",
+      "ipa": "ˈaɪ̯nˌvaɪ̯ən",
+      "notes": ""
+    },
+    "meaning": "to inaugurate, open; to let in on (a secret)",
+    "shortDefinition": "To inaugurate, open; to let in on (a secret)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "weih|e … |ein"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "weih|st … |ein"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "weih|t … |ein"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "weih|en … |ein"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "weih|t … |ein"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "weih|en … |ein"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat eingeweiht"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die neue Brücke wird morgen eingeweiht.",
+      "english": "The new bridge will be officially opened tomorrow.",
+      "highlight": [
+        "eingeweiht."
+      ]
+    },
+    {
+      "german": "Hast du sie schon in den Plan eingeweiht?",
+      "english": "Have you let her in on the plan yet?",
+      "highlight": [
+        "eingeweiht?"
+      ]
+    }
+  ],
+  "forms": [
+    "weihe ein",
+    "weihst ein",
+    "weiht ein",
+    "weihen ein",
+    "eingeweiht",
+    "weihte ein",
+    "Einweihung"
+  ],
+  "memoryHook": "Einweihen: consecrate (weihen) something new, or let someone in.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ein (einweihen)",
+      "answer": "weiht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: weiht … ein.",
+      "acceptedAnswers": [
+        "weiht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (einweihen, past)",
+      "answer": "eingeweiht",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe eingeweiht.",
+      "acceptedAnswers": [
+        "eingeweiht"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does einweihen mean?",
+      "options": [
+        "to help",
+        "to wait",
+        "to inaugurate"
+      ],
+      "answer": "to inaugurate",
+      "explanation": "einweihen: to inaugurate, open; to let in on (a secret).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden in etwas einweihen means…",
+      "options": [
+        "to let someone in on something",
+        "to bless someone"
+      ],
+      "answer": "to let someone in on something",
+      "explanation": "Initiate.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Einweihungsparty is…",
+      "options": [
+        "a housewarming party",
+        "a wedding"
+      ],
+      "answer": "a housewarming party",
+      "explanation": "Housewarming.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Weihen means…",
+      "options": [
+        "to consecrate",
+        "to weigh"
+      ],
+      "answer": "to consecrate",
+      "explanation": "weihen.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Einweihen means to inaugurate or officially open: ein Gebäude einweihen, a new road or school. Die Einweihungsparty is a housewarming party, and new flats are often eingeweiht with friends and Brot und Salz (bread and salt), a traditional gift. Jemanden in ein Geheimnis einweihen means to let someone in on a secret, and die Eingeweihten are the insiders. From weihen (to consecrate), as in Weihnachten (holy night)."
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "einschlägig",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "AIN-shlai-gikh",
+      "ipa": "ˈaɪ̯nˌʃlɛːɡɪç",
+      "notes": ""
+    },
+    "meaning": "relevant; (criminal) previous",
+    "shortDefinition": "Relevant; (criminal) previous."
+  },
+  "sampleSentences": [
+    {
+      "german": "Sie hat einschlägige Erfahrung im Vertrieb.",
+      "english": "She has relevant experience in sales.",
+      "highlight": [
+        "einschlägige"
+      ]
+    },
+    {
+      "german": "Der Täter ist einschlägig vorbestraft.",
+      "english": "The offender has previous convictions for similar crimes.",
+      "highlight": [
+        "einschlägig"
+      ]
+    }
+  ],
+  "forms": [
+    "einschlägige",
+    "einschlägigen",
+    "einschlägiger"
+  ],
+  "memoryHook": "Einschlägig: falling into (einschlagen) the right field.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does einschlägig mean?",
+      "options": [
+        "the shop",
+        "relevant",
+        "expensive"
+      ],
+      "answer": "relevant",
+      "explanation": "einschlägig: relevant; (criminal) previous.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einschlägige Erfahrung means…",
+      "options": [
+        "relevant experience",
+        "hard-hitting experience"
+      ],
+      "answer": "relevant experience",
+      "explanation": "Relevant.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einschlägig vorbestraft means…",
+      "options": [
+        "previously convicted of similar offences",
+        "never convicted"
+      ],
+      "answer": "previously convicted of similar offences",
+      "explanation": "Criminal.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einschlägige Kreise means…",
+      "options": [
+        "the relevant (often shady) circles",
+        "social clubs"
+      ],
+      "answer": "the relevant (often shady) circles",
+      "explanation": "Circles.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ Literatur (relevant)",
+      "answer": "einschlägige",
+      "fullAnswer": "einschlägige Literatur",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Einschlägig means relevant or pertinent, a favourite in job ads and academia: einschlägige Berufserfahrung, die einschlägige Literatur. It also means known in a certain (often shady) field: in einschlägigen Kreisen bekannt (known in the relevant circles), and einschlägig vorbestraft means having previous convictions for the same kind of offence. From einschlagen (to strike into, to take a direction)."
+}

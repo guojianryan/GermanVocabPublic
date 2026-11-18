@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kleriker",
+    "partOfSpeech": "noun, masculine (der Kleriker)",
+    "pronunciation": {
+      "respelling": "KLAY-ri-ker",
+      "ipa": "ˈkleːʁikɐ",
+      "notes": "Plural: die Kleriker."
+    },
+    "meaning": "cleric, clergyman",
+    "shortDefinition": "Cleric, clergyman."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kleriker, plural die Kleriker.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kleriker"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kleriker"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Kleriker predigte vor großem Publikum.",
+      "english": "The cleric preached to a large audience.",
+      "highlight": [
+        "Kleriker"
+      ]
+    },
+    {
+      "german": "Hohe Kleriker nahmen an der Zeremonie teil.",
+      "english": "Senior clerics took part in the ceremony.",
+      "highlight": [
+        "Kleriker"
+      ]
+    }
+  ],
+  "forms": [
+    "der Kleriker",
+    "Klerikers"
+  ],
+  "memoryHook": "Kleriker: a member of the Klerus (clergy).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kleriker",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kleriker is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kleriker, zwei ___",
+      "answer": "Kleriker",
+      "fullAnswer": "ein Kleriker, zwei Kleriker",
+      "explanation": "The plural is Kleriker.",
+      "acceptedAnswers": [
+        "Kleriker"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kleriker mean?",
+      "options": [
+        "cleric",
+        "the door",
+        "the street"
+      ],
+      "answer": "cleric",
+      "explanation": "Kleriker: cleric, clergyman.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Klerus is…",
+      "options": [
+        "the clergy",
+        "a clerk"
+      ],
+      "answer": "the clergy",
+      "explanation": "Collective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Klerikal means…",
+      "options": [
+        "clerical (of the clergy)",
+        "office work"
+      ],
+      "answer": "clerical (of the clergy)",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Geistliche is…",
+      "options": [
+        "clergyman (everyday word)",
+        "a ghost"
+      ],
+      "answer": "clergyman (everyday word)",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Kleriker is a cleric, a member of the clergy (der Klerus), used for Christian and also Muslim religious leaders in news. The everyday German word is der Geistliche (declined like an adjective) or der Pfarrer. Klerikal means clerical, of the clergy, not office work (that's Büro-). Antiklerikal movements opposed church influence in the 19th-century Kulturkampf. The plural is the same."
+}

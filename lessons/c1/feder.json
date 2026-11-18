@@ -1,0 +1,142 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Feder",
+    "partOfSpeech": "noun, feminine (die Feder)",
+    "pronunciation": {
+      "respelling": "FAY-der",
+      "ipa": "ˈfeːdɐ",
+      "notes": "Plural: die Federn."
+    },
+    "meaning": "feather; pen nib; spring",
+    "shortDefinition": "Feather; pen nib; spring."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Feder, plural die Federn.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Feder"
+        },
+        {
+          "label": "More than one",
+          "value": "die Federn"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Vogel verlor eine Feder.",
+      "english": "The bird lost a feather.",
+      "highlight": [
+        "Feder."
+      ]
+    },
+    {
+      "german": "Die Feder im Sofa ist kaputt.",
+      "english": "The spring in the sofa is broken.",
+      "highlight": [
+        "Feder"
+      ]
+    }
+  ],
+  "forms": [
+    "Federn",
+    "die Federn",
+    "die Feder",
+    "federleicht",
+    "Federball"
+  ],
+  "memoryHook": "Feder: it flies, it writes, it bounces.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Feder",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Feder is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Feder, zwei ___",
+      "answer": "Federn",
+      "fullAnswer": "ein Feder, zwei Federn",
+      "explanation": "The plural is Federn.",
+      "acceptedAnswers": [
+        "Federn"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Feder mean?",
+      "options": [
+        "cheap",
+        "feather",
+        "the bread"
+      ],
+      "answer": "feather",
+      "explanation": "Feder: feather; pen nib; spring.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Feder in a mattress is…",
+      "options": [
+        "a spring",
+        "a feather"
+      ],
+      "answer": "a spring",
+      "explanation": "Also spring.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In den Federn liegen means…",
+      "options": [
+        "to be in bed (informal)",
+        "to be flying"
+      ],
+      "answer": "to be in bed (informal)",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Federleicht means…",
+      "options": [
+        "light as a feather",
+        "feathered"
+      ],
+      "answer": "light as a feather",
+      "explanation": "Very light.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Federn",
+        "Feder"
+      ],
+      "answer": "Federn",
+      "explanation": "-n.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Die Feder has three common meanings: a bird's feather, a pen's nib (die Schreibfeder) and a spring (die Sprungfeder). Idioms: noch in den Federn liegen (to still be in bed), sich mit fremden Federn schmücken (to take credit for others' work). Federleicht means light as a feather. Das Federbett is a feather-filled duvet, and der Federball is the shuttlecock, or casual badminton."
+}

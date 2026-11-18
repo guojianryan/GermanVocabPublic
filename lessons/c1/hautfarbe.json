@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Hautfarbe",
+    "partOfSpeech": "noun, feminine (die Hautfarbe)",
+    "pronunciation": {
+      "respelling": "HAUT-far-be",
+      "ipa": "ˈhaʊ̯tˌfaʁbə",
+      "notes": "Plural: die Hautfarben."
+    },
+    "meaning": "skin colour",
+    "shortDefinition": "Skin colour."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Hautfarbe, plural die Hautfarben.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Hautfarbe"
+        },
+        {
+          "label": "More than one",
+          "value": "die Hautfarben"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Niemand darf wegen seiner Hautfarbe benachteiligt werden.",
+      "english": "No one may be discriminated against because of their skin colour.",
+      "highlight": [
+        "Hautfarbe"
+      ]
+    },
+    {
+      "german": "Die Farbe heißt Hautfarbe, ist aber nur eine von vielen.",
+      "english": "The colour is called skin colour, but it's only one of many.",
+      "highlight": [
+        "Hautfarbe,"
+      ]
+    }
+  ],
+  "forms": [
+    "Hautfarben",
+    "die Hautfarbe"
+  ],
+  "memoryHook": "Hautfarbe: the Farbe (colour) of the Haut (skin).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Hautfarbe",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Hautfarbe is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Hautfarbe, zwei ___",
+      "answer": "Hautfarben",
+      "fullAnswer": "ein Hautfarbe, zwei Hautfarben",
+      "explanation": "The plural is Hautfarben.",
+      "acceptedAnswers": [
+        "Hautfarben"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Hautfarbe mean?",
+      "options": [
+        "the station",
+        "skin colour",
+        "expensive"
+      ],
+      "answer": "skin colour",
+      "explanation": "Hautfarbe: skin colour.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Haut is…",
+      "options": [
+        "skin",
+        "hat"
+      ],
+      "answer": "skin",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The AGG (2006) prohibits discrimination based on…",
+      "options": [
+        "ethnic origin, among other things",
+        "hair colour only"
+      ],
+      "answer": "ethnic origin, among other things",
+      "explanation": "Law.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Crayons once labelled hautfarben are now often called…",
+      "options": [
+        "hellbeige / apricot",
+        "rosa"
+      ],
+      "answer": "hellbeige / apricot",
+      "explanation": "Language change.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Hautfarbe is skin colour: Menschen jeder Hautfarbe. Discrimination on grounds of ethnic origin is prohibited by the General Equal Treatment Act (AGG) and Article 3 of the Grundgesetz. In recent years, crayons and plasters once labelled hautfarben (skin-coloured, meaning pale pink-beige) have been relabelled, since skin comes in many colours. Die Haut is skin: mit Haut und Haaren (completely). Plural: die Hautfarben."
+}

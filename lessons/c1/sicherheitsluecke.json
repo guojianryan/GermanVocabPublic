@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sicherheitslücke",
+    "partOfSpeech": "noun, feminine (die Sicherheitslücke)",
+    "pronunciation": {
+      "respelling": "ZI-kher-haits-lü-ke",
+      "ipa": "ˈzɪçɐhaɪ̯t͡sˌlʏkə",
+      "notes": "Plural: die Sicherheitslücken."
+    },
+    "meaning": "security gap, vulnerability",
+    "shortDefinition": "Security gap, vulnerability."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Sicherheitslücke, plural die Sicherheitslücken.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Sicherheitslücke"
+        },
+        {
+          "label": "More than one",
+          "value": "die Sicherheitslücken"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Update schließt eine Sicherheitslücke.",
+      "english": "The update closes a security hole.",
+      "highlight": [
+        "Sicherheitslücke."
+      ]
+    },
+    {
+      "german": "Hacker nutzten die Sicherheitslücke aus.",
+      "english": "Hackers exploited the vulnerability.",
+      "highlight": [
+        "Sicherheitslücke"
+      ]
+    }
+  ],
+  "forms": [
+    "Sicherheitslücken",
+    "die Sicherheitslücke"
+  ],
+  "memoryHook": "Sicherheitslücke: a Lücke (gap) in Sicherheit.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sicherheitslücke",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Sicherheitslücke is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Sicherheitslücke, zwei ___",
+      "answer": "Sicherheitslücken",
+      "fullAnswer": "ein Sicherheitslücke, zwei Sicherheitslücken",
+      "explanation": "The plural is Sicherheitslücken.",
+      "acceptedAnswers": [
+        "Sicherheitsluecken"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sicherheitslücke mean?",
+      "options": [
+        "the bread",
+        "the weather",
+        "security gap"
+      ],
+      "answer": "security gap",
+      "explanation": "Sicherheitslücke: security gap, vulnerability.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Sicherheitslücke schließen means…",
+      "options": [
+        "to patch a vulnerability",
+        "to lock a door"
+      ],
+      "answer": "to patch a vulnerability",
+      "explanation": "Patch.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Lücke is…",
+      "options": [
+        "gap",
+        "luck"
+      ],
+      "answer": "gap",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Schwachstelle",
+        "die Firewall"
+      ],
+      "answer": "die Schwachstelle",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Sicherheitslücke is a security gap or vulnerability, in software (eine kritische Sicherheitslücke), buildings or systems. Updates schließen Sicherheitslücken; criminals nutzen sie aus. Germany's BSI publishes warnings about serious ones. Die Lücke means gap: die Wissenslücke, die Parklücke, and Mind the gap is Bitte auf die Lücke achten. Plural: die Sicherheitslücken."
+}

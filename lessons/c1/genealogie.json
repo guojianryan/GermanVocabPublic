@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Genealogie",
+    "partOfSpeech": "noun, feminine (die Genealogie)",
+    "pronunciation": {
+      "respelling": "ge-ne-a-lo-GEE",
+      "ipa": "ɡenealoˈɡiː",
+      "notes": "Plural: die Genealogien."
+    },
+    "meaning": "genealogy",
+    "shortDefinition": "Genealogy."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Genealogie, plural die Genealogien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Genealogie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Genealogien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Seit seiner Pensionierung beschäftigt er sich mit Genealogie.",
+      "english": "Since retiring he's been doing genealogy.",
+      "highlight": [
+        "Genealogie."
+      ]
+    },
+    {
+      "german": "Kirchenbücher sind wichtige Quellen für die Genealogie.",
+      "english": "Parish registers are important sources for genealogy.",
+      "highlight": [
+        "Genealogie."
+      ]
+    }
+  ],
+  "forms": [
+    "Genealogien",
+    "die Genealogie"
+  ],
+  "memoryHook": "Genealogie: the study (logos) of descent (genea).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Genealogie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Genealogie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Genealogie, zwei ___",
+      "answer": "Genealogien",
+      "fullAnswer": "ein Genealogie, zwei Genealogien",
+      "explanation": "The plural is Genealogien.",
+      "acceptedAnswers": [
+        "Genealogien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Genealogie mean?",
+      "options": [
+        "to sleep",
+        "genealogy",
+        "slowly"
+      ],
+      "answer": "genealogy",
+      "explanation": "Genealogie: genealogy.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday synonym:",
+      "options": [
+        "die Ahnenforschung, die Familienforschung",
+        "die Archäologie"
+      ],
+      "answer": "die Ahnenforschung, die Familienforschung",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Stammbaum is…",
+      "options": [
+        "family tree",
+        "tree trunk"
+      ],
+      "answer": "family tree",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ahnenpass in the Nazi era was…",
+      "options": [
+        "a document proving 'Aryan' descent",
+        "a passport"
+      ],
+      "answer": "a document proving 'Aryan' descent",
+      "explanation": "History.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Genealogie is genealogy, also called Ahnenforschung or Familienforschung, a popular hobby using Kirchenbücher (parish registers), archives and DNA tests. The result is a Stammbaum (family tree). In the Nazi era, genealogy was misused: people needed an Ahnenpass to prove Aryan descent. Der Genealoge is a genealogist. Plural: die Genealogien."
+}

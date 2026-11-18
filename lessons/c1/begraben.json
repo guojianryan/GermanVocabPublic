@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "begraben",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-GRAA-ben",
+      "ipa": "bəˈɡʁaːbn̩",
+      "notes": ""
+    },
+    "meaning": "to bury",
+    "shortDefinition": "To bury."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "begrab|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "begräb|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "begräb|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "begrab|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "begrab|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "begrab|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat begraben"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er wurde in seinem Heimatdorf begraben.",
+      "english": "He was buried in his home village.",
+      "highlight": [
+        "begraben."
+      ]
+    },
+    {
+      "german": "Diese Hoffnung können wir begraben.",
+      "english": "We can bury that hope.",
+      "highlight": [
+        "begraben."
+      ]
+    }
+  ],
+  "forms": [
+    "begrabe",
+    "begräbst",
+    "begräbt",
+    "begraben",
+    "begrabt",
+    "begrub",
+    "Begräbnis"
+  ],
+  "memoryHook": "Begraben: dig (graben) a grave (Grab).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (begraben)",
+      "answer": "begräbt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: begräbt.",
+      "acceptedAnswers": [
+        "begraebt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (begraben, past)",
+      "answer": "begraben",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe begraben.",
+      "acceptedAnswers": [
+        "begraben"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does begraben mean?",
+      "options": [
+        "to buy",
+        "to wait",
+        "to bury"
+      ],
+      "answer": "to bury",
+      "explanation": "begraben: to bury.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hier liegt der Hund begraben means…",
+      "options": [
+        "that's the crux of the matter",
+        "the dog died here"
+      ],
+      "answer": "that's the crux of the matter",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Begräbnis is…",
+      "options": [
+        "the burial, funeral",
+        "the grave"
+      ],
+      "answer": "the burial, funeral",
+      "explanation": "Begräbnis.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Simple form (to dig):",
+      "options": [
+        "graben",
+        "greifen"
+      ],
+      "answer": "graben",
+      "explanation": "graben.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Begraben means to bury: Er wurde auf dem Friedhof begraben. Figuratively, Hoffnungen or einen Streit begraben means to give up hope or bury the hatchet. Da liegt der Hund begraben means that's the heart of the matter. It's irregular: begräbt, begrub, begraben. Das Begräbnis is the burial, and das Grab the grave. Beerdigen and bestatten mean the same, bestatten being the most formal."
+}

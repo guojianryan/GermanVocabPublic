@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Synthese",
+    "partOfSpeech": "noun, feminine (die Synthese)",
+    "pronunciation": {
+      "respelling": "zün-TAY-ze",
+      "ipa": "zʏnˈteːzə",
+      "notes": "Plural: die Synthesen."
+    },
+    "meaning": "synthesis",
+    "shortDefinition": "Synthesis."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Synthese, plural die Synthesen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Synthese"
+        },
+        {
+          "label": "More than one",
+          "value": "die Synthesen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Aufsatz endet mit einer Synthese der Argumente.",
+      "english": "The essay ends with a synthesis of the arguments.",
+      "highlight": [
+        "Synthese"
+      ]
+    },
+    {
+      "german": "Bei der Photosynthese entsteht Sauerstoff.",
+      "english": "Oxygen is produced in photosynthesis.",
+      "highlight": [
+        "Photosynthese"
+      ]
+    }
+  ],
+  "forms": [
+    "Synthesen",
+    "die Synthesen",
+    "die Synthese",
+    "synthetisch"
+  ],
+  "memoryHook": "Synthese: putting (thesis) together (syn).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Synthese",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Synthese is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Synthese, zwei ___",
+      "answer": "Synthesen",
+      "fullAnswer": "ein Synthese, zwei Synthesen",
+      "explanation": "The plural is Synthesen.",
+      "acceptedAnswers": [
+        "Synthesen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Synthese mean?",
+      "options": [
+        "quiet",
+        "the job",
+        "synthesis"
+      ],
+      "answer": "synthesis",
+      "explanation": "Synthese: synthesis.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "These, Antithese, Synthese is associated with…",
+      "options": [
+        "Hegelian dialectics",
+        "chemistry only"
+      ],
+      "answer": "Hegelian dialectics",
+      "explanation": "Hegel.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synthetisch means…",
+      "options": [
+        "synthetic",
+        "sympathetic"
+      ],
+      "answer": "synthetic",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Photosynthese is…",
+      "options": [
+        "photosynthesis",
+        "a camera"
+      ],
+      "answer": "photosynthesis",
+      "explanation": "Biology.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Synthese is synthesis: in chemistry (die Synthese von Ammoniak, by Fritz Haber, 1909), in biology (die Photosynthese) and in thinking. German school essays (Erörterungen) often follow These, Antithese, Synthese, a pattern associated with Hegel's dialectics, though Hegel himself rarely used those words. Synthetisch means synthetic. The y is pronounced ü. Plural: die Synthesen."
+}

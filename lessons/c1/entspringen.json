@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "entspringen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ent-SHPRING-en",
+      "ipa": "ɛntˈʃpʁɪŋən",
+      "notes": ""
+    },
+    "meaning": "to rise, have its source; to spring from",
+    "shortDefinition": "To rise, have its source; to spring from."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "entspring|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "entspring|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "entspring|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "entspring|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "entspring|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "entspring|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist entsprungen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Donau entspringt im Schwarzwald.",
+      "english": "The Danube rises in the Black Forest.",
+      "highlight": [
+        "entspringt"
+      ]
+    },
+    {
+      "german": "Die Idee entsprang einem Zufall.",
+      "english": "The idea arose from chance.",
+      "highlight": [
+        "entsprang"
+      ]
+    }
+  ],
+  "forms": [
+    "entspringe",
+    "entspringst",
+    "entspringt",
+    "entspringen",
+    "entsprungen",
+    "entsprang"
+  ],
+  "memoryHook": "Entspringen: spring (springen) out of (ent-) a source.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (entspringen)",
+      "answer": "entspringt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: entspringt.",
+      "acceptedAnswers": [
+        "entspringt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (entspringen, past)",
+      "answer": "entsprungen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin entsprungen.",
+      "acceptedAnswers": [
+        "entsprungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does entspringen mean?",
+      "options": [
+        "the child",
+        "slowly",
+        "to rise"
+      ],
+      "answer": "to rise",
+      "explanation": "entspringen: to rise, have its source; to spring from.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Donau entspringt in…",
+      "options": [
+        "the Black Forest",
+        "the Alps"
+      ],
+      "answer": "the Black Forest",
+      "explanation": "Danube.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "entsprang, ist entsprungen",
+        "entspringte"
+      ],
+      "answer": "entsprang, ist entsprungen",
+      "explanation": "Irregular.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ursprung is…",
+      "options": [
+        "origin",
+        "a high jump"
+      ],
+      "answer": "origin",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Entspringen means to rise or have its source, of rivers: Der Rhein entspringt in der Schweiz, Die Donau entspringt im Schwarzwald (at Donaueschingen, though two streams compete for the title). Figuratively, it means to arise from: einer Laune entspringen (to arise from a whim). It can also mean to escape: aus dem Gefängnis entsprungen. Irregular, with sein: entsprang, ist entsprungen."
+}

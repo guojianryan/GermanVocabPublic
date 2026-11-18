@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fachwissen",
+    "partOfSpeech": "noun, neuter (das Fachwissen)",
+    "pronunciation": {
+      "respelling": "FAKH-vi-sen",
+      "ipa": "ˈfaxˌvɪsn̩",
+      "notes": "Usually no plural."
+    },
+    "meaning": "expertise, specialist knowledge",
+    "shortDefinition": "Expertise, specialist knowledge."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Fachwissen, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Fachwissen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Für diese Aufgabe braucht man viel Fachwissen.",
+      "english": "This task requires a lot of expertise.",
+      "highlight": [
+        "Fachwissen."
+      ]
+    },
+    {
+      "german": "Sie verfügt über umfangreiches Fachwissen.",
+      "english": "She has extensive specialist knowledge.",
+      "highlight": [
+        "Fachwissen."
+      ]
+    }
+  ],
+  "forms": [
+    "das Fachwissen"
+  ],
+  "memoryHook": "Fachwissen: Wissen (knowledge) of a Fach (field).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fachwissen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Fachwissen is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fachwissen mean?",
+      "options": [
+        "expertise",
+        "the shop",
+        "the window"
+      ],
+      "answer": "expertise",
+      "explanation": "Fachwissen: expertise, specialist knowledge.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Wissen is…",
+      "options": [
+        "knowledge",
+        "a white thing"
+      ],
+      "answer": "knowledge",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Know-how in German is…",
+      "options": [
+        "also used: das Know-how",
+        "never used"
+      ],
+      "answer": "also used: das Know-how",
+      "explanation": "Anglicism.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Fachmann is…",
+      "options": [
+        "expert",
+        "a drawer"
+      ],
+      "answer": "expert",
+      "explanation": "Expert.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Fachwissen is expertise or specialist knowledge: fundiertes Fachwissen, Fachwissen vermitteln. Job ads ask for Fachkenntnisse (specialist skills), and Germany's Fachkräftemangel (shortage of skilled workers) is a major economic issue. Das Wissen is knowledge: Wissen ist Macht. The anglicism das Know-how is also common. It has no plural."
+}

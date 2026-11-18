@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Monopol",
+    "partOfSpeech": "noun, neuter (das Monopol)",
+    "pronunciation": {
+      "respelling": "mo-no-POHL",
+      "ipa": "monoˈpoːl",
+      "notes": "Plural: die Monopole."
+    },
+    "meaning": "monopoly",
+    "shortDefinition": "Monopoly."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Monopol, plural die Monopole.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Monopol"
+        },
+        {
+          "label": "More than one",
+          "value": "die Monopole"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Post hatte früher ein Monopol auf Briefe.",
+      "english": "The post office used to have a monopoly on letters.",
+      "highlight": [
+        "Monopol"
+      ]
+    },
+    {
+      "german": "Das Kartellamt will Monopole verhindern.",
+      "english": "The cartel office wants to prevent monopolies.",
+      "highlight": [
+        "Monopole"
+      ]
+    }
+  ],
+  "forms": [
+    "Monopole",
+    "die Monopole",
+    "das Monopol"
+  ],
+  "memoryHook": "Monopol: sole (monos) selling (polein).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Monopol",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Monopol is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Monopol, zwei ___",
+      "answer": "Monopole",
+      "fullAnswer": "ein Monopol, zwei Monopole",
+      "explanation": "The plural is Monopole.",
+      "acceptedAnswers": [
+        "Monopole"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Monopol mean?",
+      "options": [
+        "monopoly",
+        "the street",
+        "the station"
+      ],
+      "answer": "monopoly",
+      "explanation": "Monopol: monopoly.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Bundeskartellamt is…",
+      "options": [
+        "Germany's competition authority",
+        "a cartel"
+      ],
+      "answer": "Germany's competition authority",
+      "explanation": "Authority.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gewaltmonopol des Staates means…",
+      "options": [
+        "the state's monopoly on force",
+        "a violent company"
+      ],
+      "answer": "the state's monopoly on force",
+      "explanation": "Weber.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The board game Monopoly in German is…",
+      "options": [
+        "Monopoly",
+        "Monopol"
+      ],
+      "answer": "Monopoly",
+      "explanation": "Game.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Monopol is a monopoly: ein Monopol haben, das Staatsmonopol. Deutsche Post and Telekom once had state monopolies on post and phones until liberalisation in the 1990s. The Bundeskartellamt in Bonn fights abuse of market power. Das Gewaltmonopol des Staates (the state's monopoly on the use of force), from Max Weber, is a key concept of German political theory. Plural: die Monopole."
+}

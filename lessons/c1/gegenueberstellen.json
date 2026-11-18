@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "gegenüberstellen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "gay-gen-Ü-ber-shte-len",
+      "ipa": "ɡeːɡn̩ˈʔyːbɐˌʃtɛlən",
+      "notes": ""
+    },
+    "meaning": "to compare, contrast; to confront",
+    "shortDefinition": "To compare, contrast; to confront."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "stell|e … |gegenüber"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "stell|st … |gegenüber"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "stell|t … |gegenüber"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "stell|en … |gegenüber"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "stell|t … |gegenüber"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "stell|en … |gegenüber"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gegenübergestellt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Studie stellt Vor- und Nachteile gegenüber.",
+      "english": "The study contrasts the advantages and disadvantages.",
+      "highlight": [
+        "stellt",
+        "gegenüber."
+      ]
+    },
+    {
+      "german": "Der Zeuge wurde dem Verdächtigen gegenübergestellt.",
+      "english": "The witness was confronted with the suspect.",
+      "highlight": [
+        "gegenübergestellt."
+      ]
+    }
+  ],
+  "forms": [
+    "stelle gegenüber",
+    "stellst gegenüber",
+    "stellt gegenüber",
+    "stellen gegenüber",
+    "gegenübergestellt",
+    "stellte gegenüber"
+  ],
+  "memoryHook": "Gegenüberstellen: stellen (put) gegenüber (opposite).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … gegenüber (gegenüberstellen)",
+      "answer": "stellt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: stellt … gegenüber.",
+      "acceptedAnswers": [
+        "stellt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (gegenüberstellen, past)",
+      "answer": "gegenübergestellt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gegenübergestellt.",
+      "acceptedAnswers": [
+        "gegenuebergestellt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does gegenüberstellen mean?",
+      "options": [
+        "to learn",
+        "the street",
+        "to compare"
+      ],
+      "answer": "to compare",
+      "explanation": "gegenüberstellen: to compare, contrast; to confront.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gegenüberstellung (police) is…",
+      "options": [
+        "identity parade, line-up",
+        "a statement"
+      ],
+      "answer": "identity parade, line-up",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym (compare):",
+      "options": [
+        "vergleichen, kontrastieren",
+        "verbinden"
+      ],
+      "answer": "vergleichen, kontrastieren",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gegenüber means…",
+      "options": [
+        "opposite, across from",
+        "above"
+      ],
+      "answer": "opposite, across from",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Gegenüberstellen means to compare or contrast: Kosten und Nutzen gegenüberstellen. It also means to confront someone with someone else: einen Zeugen dem Täter gegenüberstellen. Die Gegenüberstellung is a comparison, and in criminal law an identity parade. Gegenüber means opposite: das Haus gegenüber. Regular: stellte gegenüber, gegenübergestellt."
+}

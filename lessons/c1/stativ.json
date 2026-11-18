@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Stativ",
+    "partOfSpeech": "noun, neuter (das Stativ)",
+    "pronunciation": {
+      "respelling": "shta-TEEF",
+      "ipa": "ʃtaˈtiːf",
+      "notes": "Plural: die Stative."
+    },
+    "meaning": "tripod, stand",
+    "shortDefinition": "Tripod, stand."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Stativ, plural die Stative.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Stativ"
+        },
+        {
+          "label": "More than one",
+          "value": "die Stative"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Für Nachtaufnahmen braucht man ein Stativ.",
+      "english": "You need a tripod for night shots.",
+      "highlight": [
+        "Stativ."
+      ]
+    },
+    {
+      "german": "Er stellte die Kamera auf das Stativ.",
+      "english": "He put the camera on the tripod.",
+      "highlight": [
+        "Stativ."
+      ]
+    }
+  ],
+  "forms": [
+    "Stative",
+    "das Stativ"
+  ],
+  "memoryHook": "Stativ: Latin stativus, standing still.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Stativ",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Stativ is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Stativ, zwei ___",
+      "answer": "Stative",
+      "fullAnswer": "ein Stativ, zwei Stative",
+      "explanation": "The plural is Stative.",
+      "acceptedAnswers": [
+        "Stative"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Stativ mean?",
+      "options": [
+        "to learn",
+        "tripod",
+        "to sing"
+      ],
+      "answer": "tripod",
+      "explanation": "Stativ: tripod, stand.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "das Stativ",
+        "der Stativ"
+      ],
+      "answer": "das Stativ",
+      "explanation": "Gender.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Statisch means…",
+      "options": [
+        "static",
+        "statistical"
+      ],
+      "answer": "static",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Selfie-Stick is…",
+      "options": [
+        "selfie stick",
+        "a tripod"
+      ],
+      "answer": "selfie stick",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Stativ is a tripod or stand for cameras, telescopes or lab equipment: mit Stativ fotografieren, das Dreibeinstativ. It's essential for long exposures (Langzeitbelichtung). From Latin stativus (standing still), related to statisch (static). Note the stress on the second syllable. Plural: die Stative."
+}

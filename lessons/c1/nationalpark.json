@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Nationalpark",
+    "partOfSpeech": "noun, masculine (der Nationalpark)",
+    "pronunciation": {
+      "respelling": "na-tsyo-NAAL-park",
+      "ipa": "nat͡si̯oˈnaːlˌpaʁk",
+      "notes": "Plural: die Nationalparks."
+    },
+    "meaning": "national park",
+    "shortDefinition": "National park."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Nationalpark, plural die Nationalparks.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Nationalpark"
+        },
+        {
+          "label": "More than one",
+          "value": "die Nationalparks"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Nationalpark Bayerischer Wald war der erste in Deutschland.",
+      "english": "The Bavarian Forest National Park was Germany's first.",
+      "highlight": [
+        "Nationalpark"
+      ]
+    },
+    {
+      "german": "Im Nationalpark darf man die Wege nicht verlassen.",
+      "english": "In the national park you mustn't leave the paths.",
+      "highlight": [
+        "Nationalpark"
+      ]
+    }
+  ],
+  "forms": [
+    "Nationalparks",
+    "die Nationalparks",
+    "der Nationalpark",
+    "Nationalparke"
+  ],
+  "memoryHook": "Nationalpark: nature left to itself.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Nationalpark",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Nationalpark is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Nationalpark, zwei ___",
+      "answer": "Nationalparks",
+      "fullAnswer": "ein Nationalpark, zwei Nationalparks",
+      "explanation": "The plural is Nationalparks.",
+      "acceptedAnswers": [
+        "Nationalparks"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Nationalpark mean?",
+      "options": [
+        "to sing",
+        "national park",
+        "the street"
+      ],
+      "answer": "national park",
+      "explanation": "Nationalpark: national park.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's first national park (1970):",
+      "options": [
+        "Bayerischer Wald",
+        "Harz"
+      ],
+      "answer": "Bayerischer Wald",
+      "explanation": "1970.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Wattenmeer national parks protect…",
+      "options": [
+        "the North Sea mudflats",
+        "the Alps"
+      ],
+      "answer": "the North Sea mudflats",
+      "explanation": "Wadden Sea.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Nationalparks",
+        "die Nationalparke"
+      ],
+      "answer": "die Nationalparks",
+      "explanation": "Both are used.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Nationalpark is a national park. Germany has 16, starting with the Nationalpark Bayerischer Wald in 1970. Others include Berchtesgaden in the Alps, the Sächsische Schweiz with its sandstone rocks, the Harz, and the Wattenmeer parks protecting the North Sea mudflats, a UNESCO World Heritage site. The motto is often Natur Natur sein lassen: let nature be nature. Plural: die Nationalparks or Nationalparke."
+}

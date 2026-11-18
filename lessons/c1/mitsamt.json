@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "mitsamt",
+    "partOfSpeech": "preposition",
+    "pronunciation": {
+      "respelling": "mit-ZAMT",
+      "ipa": "mɪtˈzamt",
+      "notes": ""
+    },
+    "meaning": "together with, including",
+    "shortDefinition": "Together with, including."
+  },
+  "sampleSentences": [
+    {
+      "german": "Er kam mitsamt seiner ganzen Familie.",
+      "english": "He came along with his whole family.",
+      "highlight": [
+        "mitsamt"
+      ]
+    },
+    {
+      "german": "Das Auto wurde mitsamt Gepäck gestohlen.",
+      "english": "The car was stolen along with the luggage.",
+      "highlight": [
+        "mitsamt"
+      ]
+    }
+  ],
+  "forms": [
+    "samt"
+  ],
+  "memoryHook": "Mitsamt: mit + samt, everything included.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does mitsamt mean?",
+      "options": [
+        "the weather",
+        "to sleep",
+        "together with"
+      ],
+      "answer": "together with",
+      "explanation": "mitsamt: together with, including.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mitsamt takes…",
+      "options": [
+        "the dative",
+        "the genitive"
+      ],
+      "answer": "the dative",
+      "explanation": "Dative.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "samt, zusammen mit",
+        "statt"
+      ],
+      "answer": "samt, zusammen mit",
+      "explanation": "Synonym.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Samt (noun) means…",
+      "options": [
+        "velvet",
+        "seed"
+      ],
+      "answer": "velvet",
+      "explanation": "Homonym.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Er verlor die Tasche ___ Inhalt. (together with)",
+      "answer": "mitsamt",
+      "fullAnswer": "Er verlor die Tasche mitsamt Inhalt.",
+      "explanation": "mitsamt + dative.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Mitsamt means together with or including, and it takes the dative: das Haus mitsamt Garten, mitsamt seinen Kindern. It's slightly more emphatic than samt, which means the same: Wohnung samt Möbeln. Both are a bit formal; in speech, people say mit or zusammen mit. Der Samt is velvet, a homonym: samtweich (velvety soft). Samt und sonders means each and every one."
+}

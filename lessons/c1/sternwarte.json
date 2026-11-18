@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sternwarte",
+    "partOfSpeech": "noun, feminine (die Sternwarte)",
+    "pronunciation": {
+      "respelling": "SHTERN-var-te",
+      "ipa": "ˈʃtɛʁnˌvaʁtə",
+      "notes": "Plural: die Sternwarten."
+    },
+    "meaning": "observatory",
+    "shortDefinition": "Observatory."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Sternwarte, plural die Sternwarten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Sternwarte"
+        },
+        {
+          "label": "More than one",
+          "value": "die Sternwarten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Am Wochenende hat die Sternwarte für Besucher geöffnet.",
+      "english": "The observatory is open to visitors at weekends.",
+      "highlight": [
+        "Sternwarte"
+      ]
+    },
+    {
+      "german": "Von der Sternwarte aus sieht man die Ringe des Saturn.",
+      "english": "From the observatory you can see Saturn's rings.",
+      "highlight": [
+        "Sternwarte"
+      ]
+    }
+  ],
+  "forms": [
+    "Sternwarten",
+    "die Sternwarte"
+  ],
+  "memoryHook": "Sternwarte: a Warte (lookout) for Sterne.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sternwarte",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Sternwarte is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Sternwarte, zwei ___",
+      "answer": "Sternwarten",
+      "fullAnswer": "ein Sternwarte, zwei Sternwarten",
+      "explanation": "The plural is Sternwarten.",
+      "acceptedAnswers": [
+        "Sternwarten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sternwarte mean?",
+      "options": [
+        "to learn",
+        "hot",
+        "observatory"
+      ],
+      "answer": "observatory",
+      "explanation": "Sternwarte: observatory.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Planetarium is…",
+      "options": [
+        "a dome showing the night sky",
+        "an observatory"
+      ],
+      "answer": "a dome showing the night sky",
+      "explanation": "Contrast.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Warte is…",
+      "options": [
+        "lookout, watchtower",
+        "a waiting room"
+      ],
+      "answer": "lookout, watchtower",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Berlin's Archenhold-Sternwarte has…",
+      "options": [
+        "the longest movable refracting telescope",
+        "the oldest planetarium"
+      ],
+      "answer": "the longest movable refracting telescope",
+      "explanation": "Berlin.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Sternwarte is an observatory. Many German towns have public Volkssternwarten run by amateur astronomy clubs. Berlin's Archenhold-Sternwarte, opened in 1896, houses the longest movable refracting telescope in the world, the Großer Refraktor, 21 metres long; Albert Einstein gave his first public Berlin lecture on relativity there in 1915. Die Warte means lookout. Plural: die Sternwarten."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Insasse",
+    "partOfSpeech": "noun, masculine (der Insasse)",
+    "pronunciation": {
+      "respelling": "IN-za-se",
+      "ipa": "ˈɪnˌzasə",
+      "notes": "Plural: die Insassen."
+    },
+    "meaning": "occupant, passenger; inmate",
+    "shortDefinition": "Occupant, passenger; inmate."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Insasse, plural die Insassen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Insasse"
+        },
+        {
+          "label": "More than one",
+          "value": "die Insassen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Alle Insassen des Autos blieben unverletzt.",
+      "english": "All the car's occupants were unhurt.",
+      "highlight": [
+        "Insassen"
+      ]
+    },
+    {
+      "german": "Die Insassen des Gefängnisses protestierten.",
+      "english": "The prison inmates protested.",
+      "highlight": [
+        "Insassen"
+      ]
+    }
+  ],
+  "forms": [
+    "Insassen",
+    "die Insassen",
+    "der Insasse",
+    "Insassin"
+  ],
+  "memoryHook": "Insasse: someone who sits (sitzen) in (in) a vehicle or institution.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Insasse",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Insasse is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Insasse, zwei ___",
+      "answer": "Insassen",
+      "fullAnswer": "ein Insasse, zwei Insassen",
+      "explanation": "The plural is Insassen.",
+      "acceptedAnswers": [
+        "Insassen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Insasse mean?",
+      "options": [
+        "cheap",
+        "occupant",
+        "the window"
+      ],
+      "answer": "occupant",
+      "explanation": "Insasse: occupant, passenger; inmate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Weak noun, accusative:",
+      "options": [
+        "den Insassen",
+        "den Insasse"
+      ],
+      "answer": "den Insassen",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Insassen can be in…",
+      "options": [
+        "a car, plane or prison",
+        "a house only"
+      ],
+      "answer": "a car, plane or prison",
+      "explanation": "Occupants.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Typical news phrase:",
+      "options": [
+        "Die Insassen wurden leicht verletzt.",
+        "Die Insassen kochten."
+      ],
+      "answer": "Die Insassen wurden leicht verletzt.",
+      "explanation": "Accident report.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Insasse (die Insassin) is an occupant of a vehicle (die Insassen des Wagens) or an inmate of a prison or institution: die Insassen der Justizvollzugsanstalt. It's typical of police and news reports: Die beiden Insassen wurden leicht verletzt. It's a weak noun: den Insassen, des Insassen. Car insurance often includes eine Insassenunfallversicherung. The word comes from an old form meaning one who sits inside."
+}

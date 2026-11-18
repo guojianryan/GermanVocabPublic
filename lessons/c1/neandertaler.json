@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Neandertaler",
+    "partOfSpeech": "noun, masculine (der Neandertaler)",
+    "pronunciation": {
+      "respelling": "ne-AN-der-taa-ler",
+      "ipa": "neˈandɐˌtaːlɐ",
+      "notes": "Plural: die Neandertaler."
+    },
+    "meaning": "Neanderthal",
+    "shortDefinition": "Neanderthal."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Neandertaler, plural die Neandertaler.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Neandertaler"
+        },
+        {
+          "label": "More than one",
+          "value": "die Neandertaler"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Neandertaler starben vor etwa 40.000 Jahren aus.",
+      "english": "Neanderthals died out about 40,000 years ago.",
+      "highlight": [
+        "Neandertaler"
+      ]
+    },
+    {
+      "german": "Viele Menschen tragen Gene von Neandertalern in sich.",
+      "english": "Many people carry Neanderthal genes.",
+      "highlight": [
+        "Neandertalern"
+      ]
+    }
+  ],
+  "forms": [
+    "der Neandertaler",
+    "Neandertalern"
+  ],
+  "memoryHook": "Neandertaler: from the Neandertal, a valley near Düsseldorf.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Neandertaler",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Neandertaler is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Neandertaler, zwei ___",
+      "answer": "Neandertaler",
+      "fullAnswer": "ein Neandertaler, zwei Neandertaler",
+      "explanation": "The plural is Neandertaler.",
+      "acceptedAnswers": [
+        "Neandertaler"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Neandertaler mean?",
+      "options": [
+        "the door",
+        "Neanderthal",
+        "to help"
+      ],
+      "answer": "Neanderthal",
+      "explanation": "Neandertaler: Neanderthal.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The first recognised fossils were found…",
+      "options": [
+        "in the Neandertal near Düsseldorf (1856)",
+        "in France"
+      ],
+      "answer": "in the Neandertal near Düsseldorf (1856)",
+      "explanation": "1856.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Svante Pääbo won the 2022 Nobel Prize for…",
+      "options": [
+        "sequencing the Neanderthal genome",
+        "finding fossils"
+      ],
+      "answer": "sequencing the Neanderthal genome",
+      "explanation": "Nobel.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Tal is…",
+      "options": [
+        "valley",
+        "tail"
+      ],
+      "answer": "valley",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Neandertaler is a Neanderthal. The species is named after the Neandertal, a valley near Düsseldorf, where quarry workers found bones in 1856. The Swedish geneticist Svante Pääbo, working at the Max Planck Institute in Leipzig, sequenced its genome and won the 2022 Nobel Prize; people of non-African descent carry about 1–2 percent Neanderthal DNA. As an insult, Neandertaler means a brute. The plural is the same."
+}

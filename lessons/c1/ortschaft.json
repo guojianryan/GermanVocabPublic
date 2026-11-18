@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ortschaft",
+    "partOfSpeech": "noun, feminine (die Ortschaft)",
+    "pronunciation": {
+      "respelling": "ORT-shaft",
+      "ipa": "ˈɔʁtʃaft",
+      "notes": "Plural: die Ortschaften."
+    },
+    "meaning": "village, locality",
+    "shortDefinition": "Village, locality."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Ortschaft, plural die Ortschaften.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Ortschaft"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ortschaften"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In der Ortschaft gibt es keinen Laden.",
+      "english": "There's no shop in the village.",
+      "highlight": [
+        "Ortschaft"
+      ]
+    },
+    {
+      "german": "Innerhalb geschlossener Ortschaften gilt Tempo 50.",
+      "english": "Within built-up areas the limit is 50 km/h.",
+      "highlight": [
+        "Ortschaften"
+      ]
+    }
+  ],
+  "forms": [
+    "Ortschaften",
+    "die Ortschaften",
+    "die Ortschaft"
+  ],
+  "memoryHook": "Ortschaft: a small Ort, a place with houses.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ortschaft",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Ortschaft is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Ortschaft, zwei ___",
+      "answer": "Ortschaften",
+      "fullAnswer": "ein Ortschaft, zwei Ortschaften",
+      "explanation": "The plural is Ortschaften.",
+      "acceptedAnswers": [
+        "Ortschaften"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ortschaft mean?",
+      "options": [
+        "village",
+        "the key",
+        "quiet"
+      ],
+      "answer": "village",
+      "explanation": "Ortschaft: village, locality.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Geschlossene Ortschaft is a traffic term for…",
+      "options": [
+        "built-up area (50 km/h)",
+        "a closed village"
+      ],
+      "answer": "built-up area (50 km/h)",
+      "explanation": "Speed limit.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ort means…",
+      "options": [
+        "place; village",
+        "word"
+      ],
+      "answer": "place; village",
+      "explanation": "Ort.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Ortschaften",
+        "die Ortschafte"
+      ],
+      "answer": "die Ortschaften",
+      "explanation": "-en.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Ortschaft is a village or locality, a small settlement: eine kleine Ortschaft im Schwarzwald. In traffic law, innerhalb geschlossener Ortschaften (within built-up areas) the speed limit is 50 km/h; the yellow place-name sign marks where it begins. Außerhalb geschlossener Ortschaften it's 100 km/h. Der Ort means place, village or town, and die Ortschaft is a slightly more formal word for a small Ort. Plural: die Ortschaften."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Verbund",
+    "partOfSpeech": "noun, masculine (der Verbund)",
+    "pronunciation": {
+      "respelling": "fer-BUNT",
+      "ipa": "fɛɐ̯ˈbʊnt",
+      "notes": "Plural: die Verbünde."
+    },
+    "meaning": "association, network, alliance",
+    "shortDefinition": "Association, network, alliance."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Verbund, plural die Verbünde.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Verbund"
+        },
+        {
+          "label": "More than one",
+          "value": "die Verbünde"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Verkehrsbetriebe bilden einen Verkehrsverbund.",
+      "english": "The transport companies form a transport association.",
+      "highlight": [
+        "Verkehrsverbund."
+      ]
+    },
+    {
+      "german": "Die Hochschulen arbeiten im Verbund.",
+      "english": "The universities work together in a network.",
+      "highlight": [
+        "Verbund."
+      ]
+    }
+  ],
+  "forms": [
+    "Verbünde",
+    "die Verbünde",
+    "der Verbund",
+    "Verkehrsverbund"
+  ],
+  "memoryHook": "Verbund: things bound (verbunden) together.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Verbund",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Verbund is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Verbund, zwei ___",
+      "answer": "Verbünde",
+      "fullAnswer": "ein Verbund, zwei Verbünde",
+      "explanation": "The plural is Verbünde.",
+      "acceptedAnswers": [
+        "Verbuende"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Verbund mean?",
+      "options": [
+        "the flower",
+        "association",
+        "the door"
+      ],
+      "answer": "association",
+      "explanation": "Verbund: association, network, alliance.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Verkehrsverbund means…",
+      "options": [
+        "one ticket system for all local transport",
+        "a traffic jam"
+      ],
+      "answer": "one ticket system for all local transport",
+      "explanation": "Transport.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Im Verbund means…",
+      "options": [
+        "jointly, in alliance",
+        "in bondage"
+      ],
+      "answer": "jointly, in alliance",
+      "explanation": "Jointly.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verbunden means…",
+      "options": [
+        "connected, joined",
+        "forbidden"
+      ],
+      "answer": "connected, joined",
+      "explanation": "Participle.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Verbund is an association or network of organisations: der Verkehrsverbund (a regional transport association with one ticket and fare system, like the VBB in Berlin-Brandenburg or the MVV in Munich), ein Forschungsverbund, ein Krankenhausverbund. Im Verbund means jointly. BASF's huge Verbund site in Ludwigshafen links production plants together. From verbinden (to connect). Plural: die Verbünde."
+}

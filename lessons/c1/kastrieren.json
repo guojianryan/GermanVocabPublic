@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "kastrieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "kas-TREE-ren",
+      "ipa": "kasˈtʁiːʁən",
+      "notes": ""
+    },
+    "meaning": "to castrate, neuter",
+    "shortDefinition": "To castrate, neuter."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "kastrier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "kastrier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "kastrier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "kastrier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "kastrier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "kastrier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat kastriert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir lassen den Kater kastrieren.",
+      "english": "We're having the tomcat neutered.",
+      "highlight": [
+        "kastrieren."
+      ]
+    },
+    {
+      "german": "Viele Städte schreiben vor, dass Freigängerkatzen kastriert werden.",
+      "english": "Many cities require outdoor cats to be neutered.",
+      "highlight": [
+        "kastriert"
+      ]
+    }
+  ],
+  "forms": [
+    "kastriere",
+    "kastrierst",
+    "kastriert",
+    "kastrieren",
+    "Kastration"
+  ],
+  "memoryHook": "Kastrieren: cut (castrare).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (kastrieren)",
+      "answer": "kastriert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: kastriert.",
+      "acceptedAnswers": [
+        "kastriert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (kastrieren, past)",
+      "answer": "kastriert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe kastriert.",
+      "acceptedAnswers": [
+        "kastriert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does kastrieren mean?",
+      "options": [
+        "to castrate",
+        "to wait",
+        "always"
+      ],
+      "answer": "to castrate",
+      "explanation": "kastrieren: to castrate, neuter.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kastration is…",
+      "options": [
+        "castration, neutering",
+        "a casting"
+      ],
+      "answer": "castration, neutering",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sterilisieren (animals) means…",
+      "options": [
+        "to sterilise (without removing organs)",
+        "to clean"
+      ],
+      "answer": "to sterilise (without removing organs)",
+      "explanation": "Contrast.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, kastriert can mean…",
+      "options": [
+        "watered down, emasculated",
+        "punished"
+      ],
+      "answer": "watered down, emasculated",
+      "explanation": "Figurative.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Kastrieren means to castrate or neuter: einen Kater, Hund, Hengst kastrieren. Many German cities have a Katzenschutzverordnung requiring outdoor cats to be neutered, chipped and registered to limit stray populations. Figuratively, eine kastrierte Version is a watered-down one. Die Kastration is castration. Perfect without ge-: hat kastriert."
+}

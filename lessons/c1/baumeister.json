@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Baumeister",
+    "partOfSpeech": "noun, masculine (der Baumeister)",
+    "pronunciation": {
+      "respelling": "BAU-mai-ster",
+      "ipa": "ˈbaʊ̯ˌmaɪ̯stɐ",
+      "notes": "Plural: die Baumeister."
+    },
+    "meaning": "master builder, architect",
+    "shortDefinition": "Master builder, architect."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Baumeister, plural die Baumeister.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Baumeister"
+        },
+        {
+          "label": "More than one",
+          "value": "die Baumeister"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Baumeister des Doms ist unbekannt.",
+      "english": "The master builder of the cathedral is unknown.",
+      "highlight": [
+        "Baumeister"
+      ]
+    },
+    {
+      "german": "Er gilt als Baumeister der deutschen Einheit.",
+      "english": "He's regarded as the architect of German unity.",
+      "highlight": [
+        "Baumeister"
+      ]
+    }
+  ],
+  "forms": [
+    "die Baumeister",
+    "der Baumeister"
+  ],
+  "memoryHook": "Baumeister: the Meister of building (Bau).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Baumeister",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Baumeister is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Baumeister, zwei ___",
+      "answer": "Baumeister",
+      "fullAnswer": "ein Baumeister, zwei Baumeister",
+      "explanation": "The plural is Baumeister.",
+      "acceptedAnswers": [
+        "Baumeister"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Baumeister mean?",
+      "options": [
+        "cheap",
+        "master builder",
+        "to travel"
+      ],
+      "answer": "master builder",
+      "explanation": "Baumeister: master builder, architect.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, der Baumeister is…",
+      "options": [
+        "the architect (of a success)",
+        "a building inspector"
+      ],
+      "answer": "the architect (of a success)",
+      "explanation": "Architect.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Karl Friedrich Schinkel was…",
+      "options": [
+        "Prussia's great Baumeister",
+        "a composer"
+      ],
+      "answer": "Prussia's great Baumeister",
+      "explanation": "Schinkel.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Today's professional title is usually…",
+      "options": [
+        "der Architekt",
+        "der Baumeister"
+      ],
+      "answer": "der Architekt",
+      "explanation": "Architect.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Baumeister is a master builder or architect, historically the person in charge of building cathedrals or palaces: Karl Friedrich Schinkel was Prussia's great Baumeister, designing much of Berlin's classical centre. Today the usual title is Architekt, though Baumeister remains a professional qualification in Austria. Figuratively, it's the architect of an achievement: Kohl gilt als Baumeister der Einheit. Plural: die Baumeister."
+}

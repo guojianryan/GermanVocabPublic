@@ -1,0 +1,142 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Athlet",
+    "partOfSpeech": "noun, masculine (der Athlet)",
+    "pronunciation": {
+      "respelling": "at-LET",
+      "ipa": "atˈleːt",
+      "notes": "Plural: die Athleten."
+    },
+    "meaning": "athlete",
+    "shortDefinition": "Athlete."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Athlet, plural die Athleten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Athlet"
+        },
+        {
+          "label": "More than one",
+          "value": "die Athleten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Athlet stellte einen Weltrekord auf.",
+      "english": "The athlete set a world record.",
+      "highlight": [
+        "Athlet"
+      ]
+    },
+    {
+      "german": "Die Athletin gewann Gold.",
+      "english": "The athlete won gold.",
+      "highlight": [
+        "Athletin"
+      ]
+    }
+  ],
+  "forms": [
+    "Athleten",
+    "die Athleten",
+    "der Athlet",
+    "Athletin",
+    "athletisch"
+  ],
+  "memoryHook": "Athlet: weak noun, strong body.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Athlet",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Athlet is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Athlet, zwei ___",
+      "answer": "Athleten",
+      "fullAnswer": "ein Athlet, zwei Athleten",
+      "explanation": "The plural is Athleten.",
+      "acceptedAnswers": [
+        "Athleten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Athlet mean?",
+      "options": [
+        "athlete",
+        "cheap",
+        "the window"
+      ],
+      "answer": "athlete",
+      "explanation": "Athlet: athlete.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Athlet is a…",
+      "options": [
+        "weak noun (den Athleten)",
+        "strong noun"
+      ],
+      "answer": "weak noun (den Athleten)",
+      "explanation": "Weak masculine.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Feminine form:",
+      "options": [
+        "die Athletin",
+        "die Athlete"
+      ],
+      "answer": "die Athletin",
+      "explanation": "-in.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Athletisch means…",
+      "options": [
+        "athletic, muscular",
+        "weak"
+      ],
+      "answer": "athletic, muscular",
+      "explanation": "Adjective.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday word for sportsperson:",
+      "options": [
+        "der Sportler",
+        "der Athleter"
+      ],
+      "answer": "der Sportler",
+      "explanation": "More common.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Der Athlet is a weak noun: den Athleten, dem Athleten, des Athleten. The female form is die Athletin, and the adjective is athletisch. In everyday German, people say der Sportler or die Sportlerin for an athlete, while Athlet is typical of elite sport, such as at the Olympics (Olympische Spiele). The Greek root athlon means contest, prize. Die Leichtathletik is track and field."
+}

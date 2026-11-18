@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "selbsternannt",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "ZELPST-er-nant",
+      "ipa": "ˈzɛlpstʔɛɐ̯ˌnant",
+      "notes": ""
+    },
+    "meaning": "self-appointed, self-proclaimed",
+    "shortDefinition": "Self-appointed, self-proclaimed."
+  },
+  "sampleSentences": [
+    {
+      "german": "Er ist ein selbsternannter Experte.",
+      "english": "He's a self-proclaimed expert.",
+      "highlight": [
+        "selbsternannter"
+      ]
+    },
+    {
+      "german": "Die selbsternannte Bürgerwehr patrouillierte nachts.",
+      "english": "The self-appointed vigilante group patrolled at night.",
+      "highlight": [
+        "selbsternannte"
+      ]
+    }
+  ],
+  "forms": [
+    "selbsternannte",
+    "selbsternannten",
+    "selbsternannter",
+    "selbst ernannt"
+  ],
+  "memoryHook": "Selbsternannt: ernannt (appointed) by oneself (selbst).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does selbsternannt mean?",
+      "options": [
+        "self-appointed",
+        "tomorrow",
+        "to buy"
+      ],
+      "answer": "self-appointed",
+      "explanation": "selbsternannt: self-appointed, self-proclaimed.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ernennen means…",
+      "options": [
+        "to appoint, nominate",
+        "to rename"
+      ],
+      "answer": "to appoint, nominate",
+      "explanation": "Root.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Connotation:",
+      "options": [
+        "sceptical, ironic",
+        "admiring"
+      ],
+      "answer": "sceptical, ironic",
+      "explanation": "Tone.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "angeblich, sogenannt",
+        "offiziell"
+      ],
+      "answer": "angeblich, sogenannt",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein ___ Guru (self-proclaimed)",
+      "answer": "selbsternannter",
+      "fullAnswer": "ein selbsternannter Guru",
+      "explanation": "Masculine -er.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Selbsternannt (also selbst ernannt) means self-appointed or self-proclaimed, usually sceptically: ein selbsternannter Experte, Retter, Guru, der selbsternannte Kalif. Ernennen means to appoint: zum Minister ernannt werden. Similar sceptical words: angeblich (supposed), sogenannt (so-called). The opposite is offiziell or gewählt."
+}

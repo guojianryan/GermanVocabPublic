@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Grundregel",
+    "partOfSpeech": "noun, feminine (die Grundregel)",
+    "pronunciation": {
+      "respelling": "GRUNT-ray-gel",
+      "ipa": "ˈɡʁʊntˌʁeːɡl̩",
+      "notes": "Plural: die Grundregeln."
+    },
+    "meaning": "basic rule",
+    "shortDefinition": "Basic rule."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Grundregel, plural die Grundregeln.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Grundregel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Grundregeln"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Eine Grundregel lautet: Erst denken, dann reden.",
+      "english": "A basic rule is: think first, then speak.",
+      "highlight": [
+        "Grundregel"
+      ]
+    },
+    {
+      "german": "Die Grundregeln des Fußballs sind einfach.",
+      "english": "The basic rules of football are simple.",
+      "highlight": [
+        "Grundregeln"
+      ]
+    }
+  ],
+  "forms": [
+    "Grundregeln",
+    "die Grundregel"
+  ],
+  "memoryHook": "Grundregel: a Regel at the Grund (base).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Grundregel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Grundregel is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Grundregel, zwei ___",
+      "answer": "Grundregeln",
+      "fullAnswer": "ein Grundregel, zwei Grundregeln",
+      "explanation": "The plural is Grundregeln.",
+      "acceptedAnswers": [
+        "Grundregeln"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Grundregel mean?",
+      "options": [
+        "basic rule",
+        "the bill",
+        "to travel"
+      ],
+      "answer": "basic rule",
+      "explanation": "Grundregel: basic rule.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "das Grundprinzip, die Faustregel",
+        "die Ausnahme"
+      ],
+      "answer": "das Grundprinzip, die Faustregel",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Regel is…",
+      "options": [
+        "rule; (also) period",
+        "a rail"
+      ],
+      "answer": "rule; (also) period",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In der Regel means…",
+      "options": [
+        "as a rule, usually",
+        "in the rules"
+      ],
+      "answer": "as a rule, usually",
+      "explanation": "Phrase.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Grundregel is a basic rule: die Grundregeln der Höflichkeit, des Schachs, der Demokratie. Synonyms: das Grundprinzip, die Faustregel (rule of thumb). Die Regel means rule: in der Regel (as a rule), Ausnahmen bestätigen die Regel (exceptions prove the rule). Plural: die Grundregeln."
+}

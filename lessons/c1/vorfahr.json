@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vorfahr",
+    "partOfSpeech": "noun, masculine (der Vorfahr)",
+    "pronunciation": {
+      "respelling": "FOHR-faar",
+      "ipa": "ˈfoːɐ̯faːɐ̯",
+      "notes": "Plural: die Vorfahren."
+    },
+    "meaning": "ancestor",
+    "shortDefinition": "Ancestor."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Vorfahr, plural die Vorfahren.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Vorfahr"
+        },
+        {
+          "label": "More than one",
+          "value": "die Vorfahren"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Meine Vorfahren kamen aus Polen.",
+      "english": "My ancestors came from Poland.",
+      "highlight": [
+        "Vorfahren"
+      ]
+    },
+    {
+      "german": "Er erforscht seine Vorfahren.",
+      "english": "He's researching his ancestors.",
+      "highlight": [
+        "Vorfahren."
+      ]
+    }
+  ],
+  "forms": [
+    "Vorfahren",
+    "die Vorfahren",
+    "der Vorfahr",
+    "Vorfahrin"
+  ],
+  "memoryHook": "Vorfahren: they went (fahren) before (vor) you.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vorfahr",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Vorfahr is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Vorfahr, zwei ___",
+      "answer": "Vorfahren",
+      "fullAnswer": "ein Vorfahr, zwei Vorfahren",
+      "explanation": "The plural is Vorfahren.",
+      "acceptedAnswers": [
+        "Vorfahren"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vorfahr mean?",
+      "options": [
+        "ancestor",
+        "expensive",
+        "to help"
+      ],
+      "answer": "ancestor",
+      "explanation": "Vorfahr: ancestor.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mostly used in the…",
+      "options": [
+        "plural (die Vorfahren)",
+        "singular"
+      ],
+      "answer": "plural (die Vorfahren)",
+      "explanation": "Plural.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Opposite:",
+      "options": [
+        "die Nachkommen",
+        "die Nachbarn"
+      ],
+      "answer": "die Nachkommen",
+      "explanation": "Descendants.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Literal meaning:",
+      "options": [
+        "those who went before",
+        "those who drive ahead"
+      ],
+      "answer": "those who went before",
+      "explanation": "Fahren = go.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Vorfahr (die Vorfahrin) is an ancestor, usually in the plural: meine Vorfahren. It's a weak noun: den Vorfahren. The opposite is die Nachkommen (descendants). Literally, the Vorfahren are those who went (fahren, in its old meaning to go) before (vor) us. Die Ahnenforschung (genealogy) is a popular hobby in Germany. Don't confuse it with die Vorfahrt (right of way)."
+}

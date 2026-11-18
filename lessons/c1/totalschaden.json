@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Totalschaden",
+    "partOfSpeech": "noun, masculine (der Totalschaden)",
+    "pronunciation": {
+      "respelling": "to-TAAL-shaa-den",
+      "ipa": "toˈtaːlˌʃaːdn̩",
+      "notes": "Plural: die Totalschäden."
+    },
+    "meaning": "write-off (car)",
+    "shortDefinition": "Write-off (car)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Totalschaden, plural die Totalschäden.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Totalschaden"
+        },
+        {
+          "label": "More than one",
+          "value": "die Totalschäden"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nach dem Unfall hatte das Auto einen Totalschaden.",
+      "english": "After the accident the car was a write-off.",
+      "highlight": [
+        "Totalschaden."
+      ]
+    },
+    {
+      "german": "Die Versicherung zahlt bei Totalschaden den Wiederbeschaffungswert.",
+      "english": "In a write-off the insurer pays the replacement value.",
+      "highlight": [
+        "Totalschaden"
+      ]
+    }
+  ],
+  "forms": [
+    "Totalschäden",
+    "der Totalschaden"
+  ],
+  "memoryHook": "Totalschaden: total Schaden (damage).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Totalschaden",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Totalschaden is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Totalschaden, zwei ___",
+      "answer": "Totalschäden",
+      "fullAnswer": "ein Totalschaden, zwei Totalschäden",
+      "explanation": "The plural is Totalschäden.",
+      "acceptedAnswers": [
+        "Totalschaeden"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Totalschaden mean?",
+      "options": [
+        "the bread",
+        "hot",
+        "write-off (car)"
+      ],
+      "answer": "write-off (car)",
+      "explanation": "Totalschaden: write-off (car).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wirtschaftlicher Totalschaden means…",
+      "options": [
+        "repair costs exceed the car's value",
+        "the car is crushed"
+      ],
+      "answer": "repair costs exceed the car's value",
+      "explanation": "Insurance.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schaden is…",
+      "options": [
+        "damage",
+        "shadow"
+      ],
+      "answer": "damage",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kfz-Haftpflicht is…",
+      "options": [
+        "compulsory third-party car insurance",
+        "a car tax"
+      ],
+      "answer": "compulsory third-party car insurance",
+      "explanation": "Insurance.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Totalschaden is a write-off: a vehicle destroyed beyond repair (technischer Totalschaden) or whose repair would cost more than it's worth (wirtschaftlicher Totalschaden). The insurer then pays the Wiederbeschaffungswert (replacement value) minus the Restwert. Jokingly, people also call a disastrous event or person ein Totalschaden. Plural: die Totalschäden."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Einteilung",
+    "partOfSpeech": "noun, feminine (die Einteilung)",
+    "pronunciation": {
+      "respelling": "AIN-tai-lung",
+      "ipa": "ˈaɪ̯nˌtaɪ̯lʊŋ",
+      "notes": "Plural: die Einteilungen."
+    },
+    "meaning": "division, classification; planning",
+    "shortDefinition": "Division, classification; planning."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Einteilung, plural die Einteilungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Einteilung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Einteilungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Einteilung in Gruppen erfolgt nach dem Niveau.",
+      "english": "The division into groups is by level.",
+      "highlight": [
+        "Einteilung"
+      ]
+    },
+    {
+      "german": "Mit guter Zeiteinteilung schaffst du alles.",
+      "english": "With good time management, you'll manage it all.",
+      "highlight": [
+        "Zeiteinteilung"
+      ]
+    }
+  ],
+  "forms": [
+    "Einteilungen",
+    "die Einteilungen",
+    "die Einteilung",
+    "einteilen"
+  ],
+  "memoryHook": "Einteilung: dividing (teilen) things into (ein) parts.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Einteilung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Einteilung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Einteilung, zwei ___",
+      "answer": "Einteilungen",
+      "fullAnswer": "ein Einteilung, zwei Einteilungen",
+      "explanation": "The plural is Einteilungen.",
+      "acceptedAnswers": [
+        "Einteilungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Einteilung mean?",
+      "options": [
+        "the flower",
+        "division",
+        "to help"
+      ],
+      "answer": "division",
+      "explanation": "Einteilung: division, classification; planning.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einteilen means…",
+      "options": [
+        "to divide up, plan, allocate",
+        "to share a meal"
+      ],
+      "answer": "to divide up, plan, allocate",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Zeiteinteilung is…",
+      "options": [
+        "time management, scheduling",
+        "a time zone"
+      ],
+      "answer": "time management, scheduling",
+      "explanation": "Time.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich das Geld einteilen means…",
+      "options": [
+        "to budget one's money",
+        "to split a bill"
+      ],
+      "answer": "to budget one's money",
+      "explanation": "Budget.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Einteilung is division, classification or planning: die Einteilung in Kategorien, die Schichteinteilung (shift scheduling), die Zeiteinteilung (time management). The verb einteilen means to divide up or allocate: Wir teilen die Klasse in Gruppen ein, Ich muss mir mein Geld gut einteilen (I have to budget carefully). Separable: teilte ein, eingeteilt. Plural: die Einteilungen."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Historiker",
+    "partOfSpeech": "noun, masculine (der Historiker)",
+    "pronunciation": {
+      "respelling": "his-TOH-ri-ker",
+      "ipa": "hɪsˈtoːʁɪkɐ",
+      "notes": "Plural: die Historiker."
+    },
+    "meaning": "historian",
+    "shortDefinition": "Historian."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Historiker, plural die Historiker.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Historiker"
+        },
+        {
+          "label": "More than one",
+          "value": "die Historiker"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Historiker streiten über die Ursachen.",
+      "english": "Historians argue about the causes.",
+      "highlight": [
+        "Historiker"
+      ]
+    },
+    {
+      "german": "Sie ist Historikerin an der Uni Bonn.",
+      "english": "She's a historian at the University of Bonn.",
+      "highlight": [
+        "Historikerin"
+      ]
+    }
+  ],
+  "forms": [
+    "die Historiker",
+    "Historikerin",
+    "historisch"
+  ],
+  "memoryHook": "Der Historiker studies die Geschichte.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Historiker",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Historiker is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Historiker, zwei ___",
+      "answer": "Historiker",
+      "fullAnswer": "ein Historiker, zwei Historiker",
+      "explanation": "The plural is Historiker.",
+      "acceptedAnswers": [
+        "Historiker"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Historiker mean?",
+      "options": [
+        "historian",
+        "never",
+        "to sleep"
+      ],
+      "answer": "historian",
+      "explanation": "Historiker: historian.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Historikerin",
+        "die Historikin"
+      ],
+      "answer": "die Historikerin",
+      "explanation": "-in.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Historisch means…",
+      "options": [
+        "historic, historical",
+        "hysterical"
+      ],
+      "answer": "historic, historical",
+      "explanation": "historisch.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The subject is…",
+      "options": [
+        "die Geschichte",
+        "die Historikerei"
+      ],
+      "answer": "die Geschichte",
+      "explanation": "Geschichte = history.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Historiker (die Historikerin) is a historian. The school subject is Geschichte, which also means story. Germany has a strong tradition of history writing; the Historikerstreit of 1986–87 was a famous public debate about how to remember the Holocaust. Historisch means historic or historical: ein historischer Tag. Don't confuse it with hysterisch (hysterical). The plural stays the same: die Historiker."
+}

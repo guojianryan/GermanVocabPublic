@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "aufwarten",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AUF-var-ten",
+      "ipa": "ˈaʊ̯fˌvaʁtn̩",
+      "notes": ""
+    },
+    "meaning": "to come up with, offer (mit)",
+    "shortDefinition": "To come up with, offer (mit)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "wart|e … |auf"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "wart|est … |auf"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "wart|et … |auf"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "wart|en … |auf"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "wart|et … |auf"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "wart|en … |auf"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat aufgewartet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Museum wartet mit einer neuen Ausstellung auf.",
+      "english": "The museum has a new exhibition to offer.",
+      "highlight": [
+        "wartet",
+        "auf."
+      ]
+    },
+    {
+      "german": "Der Bericht wartet mit überraschenden Zahlen auf.",
+      "english": "The report comes up with surprising figures.",
+      "highlight": [
+        "wartet",
+        "auf."
+      ]
+    }
+  ],
+  "forms": [
+    "warte auf",
+    "wartest auf",
+    "wartet auf",
+    "warten auf",
+    "aufgewartet",
+    "wartete auf"
+  ],
+  "memoryHook": "Aufwarten: serve (warten) something up (auf).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … auf (aufwarten)",
+      "answer": "wartet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: wartet … auf.",
+      "acceptedAnswers": [
+        "wartet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (aufwarten, past)",
+      "answer": "aufgewartet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe aufgewartet.",
+      "acceptedAnswers": [
+        "aufgewartet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does aufwarten mean?",
+      "options": [
+        "to come up with",
+        "the bed",
+        "to sing"
+      ],
+      "answer": "to come up with",
+      "explanation": "aufwarten: to come up with, offer (mit).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mit etwas aufwarten means…",
+      "options": [
+        "to offer, come up with something",
+        "to wait for something"
+      ],
+      "answer": "to offer, come up with something",
+      "explanation": "Offer.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Older meaning (servants):",
+      "options": [
+        "to wait on, serve",
+        "to wake up"
+      ],
+      "answer": "to wait on, serve",
+      "explanation": "History.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal, journalistic",
+        "slang"
+      ],
+      "answer": "formal, journalistic",
+      "explanation": "Register.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Aufwarten mit means to come up with or offer something, often impressive or surprising: mit einer Sensation, Neuheiten, einem Rekord aufwarten. It's typical of journalism and marketing. Its older meaning was to wait on or serve guests, as servants did. It's unrelated to waiting in the usual sense. Separable: wartete auf, aufgewartet."
+}

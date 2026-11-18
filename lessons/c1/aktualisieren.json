@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "aktualisieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ak-tu-a-li-ZEE-ren",
+      "ipa": "aktu̯aliˈziːʁən",
+      "notes": ""
+    },
+    "meaning": "to update",
+    "shortDefinition": "To update."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "aktualisier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "aktualisier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "aktualisier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "aktualisier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "aktualisier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "aktualisier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat aktualisiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bitte aktualisieren Sie die Seite.",
+      "english": "Please refresh the page.",
+      "highlight": [
+        "aktualisieren"
+      ]
+    },
+    {
+      "german": "Die App wurde aktualisiert.",
+      "english": "The app has been updated.",
+      "highlight": [
+        "aktualisiert."
+      ]
+    }
+  ],
+  "forms": [
+    "aktualisiere",
+    "aktualisierst",
+    "aktualisiert",
+    "aktualisieren",
+    "Aktualisierung"
+  ],
+  "memoryHook": "Aktualisieren: make it aktuell (current).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (aktualisieren)",
+      "answer": "aktualisiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: aktualisiert.",
+      "acceptedAnswers": [
+        "aktualisiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (aktualisieren, past)",
+      "answer": "aktualisiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe aktualisiert.",
+      "acceptedAnswers": [
+        "aktualisiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does aktualisieren mean?",
+      "options": [
+        "to update",
+        "to learn",
+        "tomorrow"
+      ],
+      "answer": "to update",
+      "explanation": "aktualisieren: to update.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "False friend: aktuell means…",
+      "options": [
+        "current, up to date",
+        "actual"
+      ],
+      "answer": "current, up to date",
+      "explanation": "aktuell = current.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Aktualisierung is…",
+      "options": [
+        "the update",
+        "the actualisation"
+      ],
+      "answer": "the update",
+      "explanation": "Update.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Informal alternative:",
+      "options": [
+        "updaten",
+        "upgraden only"
+      ],
+      "answer": "updaten",
+      "explanation": "Anglicism.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Aktualisieren means to update or refresh: die Software aktualisieren, die Seite aktualisieren (refresh the page). It comes from aktuell, a classic false friend: aktuell means current, not actual (that's tatsächlich). So aktualisieren means to make current. In everyday tech talk, many Germans just say updaten: Ich hab die App geupdatet. Die Aktualisierung is the update."
+}

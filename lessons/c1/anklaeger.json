@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ankläger",
+    "partOfSpeech": "noun, masculine (der Ankläger)",
+    "pronunciation": {
+      "respelling": "AN-klay-ger",
+      "ipa": "ˈanˌklɛːɡɐ",
+      "notes": "Plural: die Ankläger."
+    },
+    "meaning": "prosecutor, accuser",
+    "shortDefinition": "Prosecutor, accuser."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Ankläger, plural die Ankläger.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Ankläger"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ankläger"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Ankläger forderte fünf Jahre Haft.",
+      "english": "The prosecutor demanded five years in prison.",
+      "highlight": [
+        "Ankläger"
+      ]
+    },
+    {
+      "german": "Die Opfer traten als Nebenkläger auf.",
+      "english": "The victims appeared as joint plaintiffs.",
+      "highlight": [
+        "Nebenkläger"
+      ]
+    }
+  ],
+  "forms": [
+    "Anklägerin",
+    "der Ankläger"
+  ],
+  "memoryHook": "Ankläger: someone who anklagt (accuses).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ankläger",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Ankläger is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Ankläger, zwei ___",
+      "answer": "Ankläger",
+      "fullAnswer": "ein Ankläger, zwei Ankläger",
+      "explanation": "The plural is Ankläger.",
+      "acceptedAnswers": [
+        "Anklaeger"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ankläger mean?",
+      "options": [
+        "prosecutor",
+        "to open",
+        "the key"
+      ],
+      "answer": "prosecutor",
+      "explanation": "Ankläger: prosecutor, accuser.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In German criminal courts, the public prosecutor is…",
+      "options": [
+        "der Staatsanwalt",
+        "der Richter"
+      ],
+      "answer": "der Staatsanwalt",
+      "explanation": "Prosecutor.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Nebenkläger is…",
+      "options": [
+        "a victim joining the prosecution",
+        "a defence lawyer"
+      ],
+      "answer": "a victim joining the prosecution",
+      "explanation": "Joint plaintiff.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Anklage is…",
+      "options": [
+        "charge, indictment",
+        "complaint form"
+      ],
+      "answer": "charge, indictment",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Ankläger (die Anklägerin) is a prosecutor or accuser. In German criminal trials, the prosecution is led by the Staatsanwaltschaft, and victims can join as Nebenkläger (joint plaintiffs) with their own lawyer. At the Nuremberg Trials (1945–46), the Allied chief prosecutors were called Hauptankläger. Anklagen means to charge, and die Anklage is the indictment. The plural is the same."
+}

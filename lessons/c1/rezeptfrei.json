@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "rezeptfrei",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "re-TSEPT-frai",
+      "ipa": "ʁeˈt͡sɛptˌfʁaɪ̯",
+      "notes": ""
+    },
+    "meaning": "over-the-counter, without prescription",
+    "shortDefinition": "Over-the-counter, without prescription."
+  },
+  "sampleSentences": [
+    {
+      "german": "Das Medikament ist rezeptfrei in der Apotheke erhältlich.",
+      "english": "The medicine is available without prescription at the pharmacy.",
+      "highlight": [
+        "rezeptfrei"
+      ]
+    },
+    {
+      "german": "Auch rezeptfreie Mittel können Nebenwirkungen haben.",
+      "english": "Even over-the-counter drugs can have side effects.",
+      "highlight": [
+        "rezeptfreie"
+      ]
+    }
+  ],
+  "forms": [
+    "rezeptfreie",
+    "rezeptfreien",
+    "rezeptfreies",
+    "Rezept"
+  ],
+  "memoryHook": "Rezeptfrei: frei (free) of a Rezept (prescription).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does rezeptfrei mean?",
+      "options": [
+        "never",
+        "to sing",
+        "over-the-counter"
+      ],
+      "answer": "over-the-counter",
+      "explanation": "rezeptfrei: over-the-counter, without prescription.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite:",
+      "options": [
+        "verschreibungspflichtig / rezeptpflichtig",
+        "kostenlos"
+      ],
+      "answer": "verschreibungspflichtig / rezeptpflichtig",
+      "explanation": "Prescription.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Germany, rezeptfreie Medikamente are sold…",
+      "options": [
+        "mostly only in pharmacies",
+        "in every supermarket"
+      ],
+      "answer": "mostly only in pharmacies",
+      "explanation": "Apotheke.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Rezept means…",
+      "options": [
+        "prescription; recipe",
+        "receipt"
+      ],
+      "answer": "prescription; recipe",
+      "explanation": "Two meanings.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein ___ Schmerzmittel (OTC)",
+      "answer": "rezeptfreies",
+      "fullAnswer": "ein rezeptfreies Schmerzmittel",
+      "explanation": "Neuter -es.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Rezeptfrei means available without a prescription, over the counter. In Germany, even rezeptfreie medicines like ibuprofen are mostly sold only in pharmacies (apothekenpflichtig), not supermarkets, which surprises many visitors. The opposite is verschreibungspflichtig. Das Rezept means both prescription and recipe. A receipt is der Kassenbon or die Quittung."
+}

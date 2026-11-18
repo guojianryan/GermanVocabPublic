@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wegweiser",
+    "partOfSpeech": "noun, masculine (der Wegweiser)",
+    "pronunciation": {
+      "respelling": "VAYK-vai-zer",
+      "ipa": "ˈveːkˌvaɪ̯zɐ",
+      "notes": "Plural: die Wegweiser."
+    },
+    "meaning": "signpost; guide",
+    "shortDefinition": "Signpost; guide."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Wegweiser, plural die Wegweiser.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Wegweiser"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wegweiser"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Folgen Sie dem Wegweiser zum Bahnhof.",
+      "english": "Follow the signpost to the station.",
+      "highlight": [
+        "Wegweiser"
+      ]
+    },
+    {
+      "german": "Das Buch ist ein Wegweiser durch das deutsche Steuerrecht.",
+      "english": "The book is a guide through German tax law.",
+      "highlight": [
+        "Wegweiser"
+      ]
+    }
+  ],
+  "forms": [
+    "die Wegweiser",
+    "der Wegweiser",
+    "wegweisend"
+  ],
+  "memoryHook": "Wegweiser: something that weist (shows) the Weg (way).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wegweiser",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Wegweiser is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wegweiser, zwei ___",
+      "answer": "Wegweiser",
+      "fullAnswer": "ein Wegweiser, zwei Wegweiser",
+      "explanation": "The plural is Wegweiser.",
+      "acceptedAnswers": [
+        "Wegweiser"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wegweiser mean?",
+      "options": [
+        "the window",
+        "to open",
+        "signpost"
+      ],
+      "answer": "signpost",
+      "explanation": "Wegweiser: signpost; guide.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, ein Wegweiser is…",
+      "options": [
+        "a guide, pointer",
+        "a road worker"
+      ],
+      "answer": "a guide, pointer",
+      "explanation": "Guide.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Weisen means…",
+      "options": [
+        "to point, show",
+        "to wash"
+      ],
+      "answer": "to point, show",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wegweisend means…",
+      "options": [
+        "pioneering, groundbreaking",
+        "pointing away"
+      ],
+      "answer": "pioneering, groundbreaking",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Wegweiser is a signpost, and figuratively a guide: ein Wegweiser für Eltern, durch den Behördendschungel. German hiking trails are well signposted, often maintained by local hiking clubs (Wandervereine). Wegweisend means pioneering: ein wegweisendes Urteil (a landmark ruling). From der Weg and weisen (to point, show). Plural: die Wegweiser."
+}

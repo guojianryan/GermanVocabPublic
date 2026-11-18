@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Größenordnung",
+    "partOfSpeech": "noun, feminine (die Größenordnung)",
+    "pronunciation": {
+      "respelling": "GRÖ-sen-ord-nung",
+      "ipa": "ˈɡʁøːsn̩ˌʔɔʁdnʊŋ",
+      "notes": "Plural: die Größenordnungen."
+    },
+    "meaning": "order of magnitude, scale",
+    "shortDefinition": "Order of magnitude, scale."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Größenordnung, plural die Größenordnungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Größenordnung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Größenordnungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Kosten in dieser Größenordnung sind normal.",
+      "english": "Costs of this order are normal.",
+      "highlight": [
+        "Größenordnung"
+      ]
+    },
+    {
+      "german": "Es geht um eine Größenordnung von zehn Millionen.",
+      "english": "We're talking about something in the region of ten million.",
+      "highlight": [
+        "Größenordnung"
+      ]
+    }
+  ],
+  "forms": [
+    "Größenordnungen",
+    "die Größenordnungen",
+    "die Größenordnung"
+  ],
+  "memoryHook": "Größenordnung: ordering by Größe (size).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Größenordnung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Größenordnung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Größenordnung, zwei ___",
+      "answer": "Größenordnungen",
+      "fullAnswer": "ein Größenordnung, zwei Größenordnungen",
+      "explanation": "The plural is Größenordnungen.",
+      "acceptedAnswers": [
+        "Groeßenordnungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Größenordnung mean?",
+      "options": [
+        "order of magnitude",
+        "hot",
+        "the street"
+      ],
+      "answer": "order of magnitude",
+      "explanation": "Größenordnung: order of magnitude, scale.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In der Größenordnung von means…",
+      "options": [
+        "in the region of",
+        "in the order of arrival"
+      ],
+      "answer": "in the region of",
+      "explanation": "Approximately.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Größe is…",
+      "options": [
+        "size; greatness",
+        "greeting"
+      ],
+      "answer": "size; greatness",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In science, it means…",
+      "options": [
+        "order of magnitude (factor of 10)",
+        "alphabetical order"
+      ],
+      "answer": "order of magnitude (factor of 10)",
+      "explanation": "Science.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Größenordnung is an order of magnitude or a scale: in der Größenordnung von 5 Millionen (in the region of 5 million), eine ganz andere Größenordnung (a completely different scale). In science, it means a power of ten: zwei Größenordnungen größer (a hundred times bigger). It's a favourite of journalists and managers for rough figures. From Größe (size) and Ordnung (order). Plural: die Größenordnungen."
+}

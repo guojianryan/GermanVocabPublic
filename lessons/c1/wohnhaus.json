@@ -1,0 +1,155 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wohnhaus",
+    "partOfSpeech": "noun, neuter (das Wohnhaus)",
+    "pronunciation": {
+      "respelling": "VOHN-hows",
+      "ipa": "ˈvoːnˌhaʊ̯s",
+      "notes": "Plural: die Wohnhäuser."
+    },
+    "meaning": "residential building, house",
+    "shortDefinition": "Residential building, house."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "Wohn",
+        "meaning": "living",
+        "note": "From wohnen, to live."
+      },
+      {
+        "part": "Haus",
+        "meaning": "house"
+      }
+    ],
+    "literalMeaning": "living house"
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Wohnhaus, plural die Wohnhäuser.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Wohnhaus"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wohnhäuser"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Wohnhaus wurde 1950 gebaut.",
+      "english": "The residential building was built in 1950.",
+      "highlight": [
+        "Wohnhaus"
+      ]
+    },
+    {
+      "german": "In dem Wohnhaus wohnen zwölf Familien.",
+      "english": "Twelve families live in the building.",
+      "highlight": [
+        "Wohnhaus"
+      ]
+    }
+  ],
+  "forms": [
+    "Wohnhäuser",
+    "die Wohnhäuser",
+    "das Wohnhaus"
+  ],
+  "memoryHook": "Wohnhaus: built for living.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wohnhaus",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Wohnhaus is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wohnhaus, zwei ___",
+      "answer": "Wohnhäuser",
+      "fullAnswer": "ein Wohnhaus, zwei Wohnhäuser",
+      "explanation": "The plural is Wohnhäuser.",
+      "acceptedAnswers": [
+        "Wohnhaeuser"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wohnhaus mean?",
+      "options": [
+        "the bread",
+        "residential building",
+        "the street"
+      ],
+      "answer": "residential building",
+      "explanation": "Wohnhaus: residential building, house.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Wohnhäuser",
+        "Wohnhause"
+      ],
+      "answer": "Wohnhäuser",
+      "explanation": "Umlaut and -er.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wohnhaus differs from Geschäftshaus because…",
+      "options": [
+        "it's for living in",
+        "it's for offices"
+      ],
+      "answer": "it's for living in",
+      "explanation": "Residence vs commercial.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Mehrfamilienhaus is…",
+      "options": [
+        "an apartment building",
+        "a farmhouse"
+      ],
+      "answer": "an apartment building",
+      "explanation": "Multiple families.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Haus is…",
+      "options": [
+        "neuter",
+        "feminine"
+      ],
+      "answer": "neuter",
+      "explanation": "Das Wohnhaus.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Das Wohnhaus is a building in which people live, as opposed to an office, shop or industrial building. It appears in building law and property ads: Wohnhaus mit Garten. Compounds specify the type: Einfamilienhaus (single-family), Mehrfamilienhaus (apartment block). The plural has both an umlaut and an ending: die Wohnhäuser. A Nebengebäude is an outbuilding next to the Wohnhaus."
+}

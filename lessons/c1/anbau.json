@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Anbau",
+    "partOfSpeech": "noun, masculine (der Anbau)",
+    "pronunciation": {
+      "respelling": "AN-bau",
+      "ipa": "ˈanbaʊ̯",
+      "notes": "Plural: die Anbauten."
+    },
+    "meaning": "cultivation, growing; extension (building)",
+    "shortDefinition": "Cultivation, growing; extension (building)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Anbau, plural die Anbauten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Anbau"
+        },
+        {
+          "label": "More than one",
+          "value": "die Anbauten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Anbau von Wein hat hier Tradition.",
+      "english": "Growing wine has a long tradition here.",
+      "highlight": [
+        "Anbau"
+      ]
+    },
+    {
+      "german": "Wir planen einen Anbau ans Haus.",
+      "english": "We're planning an extension to the house.",
+      "highlight": [
+        "Anbau"
+      ]
+    }
+  ],
+  "forms": [
+    "Anbauten",
+    "die Anbauten",
+    "der Anbau",
+    "anbauen"
+  ],
+  "memoryHook": "Anbau: what you grow, or what you build on.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Anbau",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Anbau is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Anbau, zwei ___",
+      "answer": "Anbauten",
+      "fullAnswer": "ein Anbau, zwei Anbauten",
+      "explanation": "The plural is Anbauten.",
+      "acceptedAnswers": [
+        "Anbauten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Anbau mean?",
+      "options": [
+        "the flower",
+        "slowly",
+        "cultivation"
+      ],
+      "answer": "cultivation",
+      "explanation": "Anbau: cultivation, growing; extension (building).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Anbauen means…",
+      "options": [
+        "to grow (crops); to build on",
+        "to dismantle"
+      ],
+      "answer": "to grow (crops); to build on",
+      "explanation": "anbauen.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bio-Anbau means…",
+      "options": [
+        "organic farming",
+        "building with wood"
+      ],
+      "answer": "organic farming",
+      "explanation": "Organic.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural of the building sense:",
+      "options": [
+        "die Anbauten",
+        "die Anbaue"
+      ],
+      "answer": "die Anbauten",
+      "explanation": "Anbauten.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Anbau has two meanings: cultivation or growing crops (der Anbau von Kartoffeln, aus ökologischem Anbau, from organic farming), and an extension to a building: Das Haus hat einen modernen Anbau. The verb is anbauen: Gemüse anbauen, ein Zimmer anbauen. On German food labels, aus kontrolliert biologischem Anbau (kbA) means certified organic. The building sense has the plural die Anbauten."
+}

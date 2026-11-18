@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sammler",
+    "partOfSpeech": "noun, masculine (der Sammler)",
+    "pronunciation": {
+      "respelling": "ZAM-ler",
+      "ipa": "ˈzamlɐ",
+      "notes": "Plural: die Sammler."
+    },
+    "meaning": "collector",
+    "shortDefinition": "Collector."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Sammler, plural die Sammler.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Sammler"
+        },
+        {
+          "label": "More than one",
+          "value": "die Sammler"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er ist ein leidenschaftlicher Briefmarkensammler.",
+      "english": "He's a passionate stamp collector.",
+      "highlight": [
+        "Briefmarkensammler."
+      ]
+    },
+    {
+      "german": "Das Bild wurde an einen privaten Sammler verkauft.",
+      "english": "The painting was sold to a private collector.",
+      "highlight": [
+        "Sammler"
+      ]
+    }
+  ],
+  "forms": [
+    "die Sammler",
+    "der Sammler",
+    "Sammlerin",
+    "sammeln",
+    "Sammlung"
+  ],
+  "memoryHook": "Sammler: someone who sammelt.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sammler",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Sammler is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Sammler, zwei ___",
+      "answer": "Sammler",
+      "fullAnswer": "ein Sammler, zwei Sammler",
+      "explanation": "The plural is Sammler.",
+      "acceptedAnswers": [
+        "Sammler"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sammler mean?",
+      "options": [
+        "the bed",
+        "the street",
+        "collector"
+      ],
+      "answer": "collector",
+      "explanation": "Sammler: collector.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sammeln means…",
+      "options": [
+        "to collect, gather",
+        "to sit"
+      ],
+      "answer": "to collect, gather",
+      "explanation": "sammeln.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jäger und Sammler are…",
+      "options": [
+        "hunter-gatherers",
+        "hunters and shooters"
+      ],
+      "answer": "hunter-gatherers",
+      "explanation": "Prehistory.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Sammlerin",
+        "die Sammlin"
+      ],
+      "answer": "die Sammlerin",
+      "explanation": "-in.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Sammler (die Sammlerin) is a collector: ein Kunstsammler, ein Briefmarkensammler. Jäger und Sammler are hunter-gatherers. Germans love collecting: from Panini football stickers before every World Cup to Pfandflaschen (deposit bottles), which some people collect from bins to earn the deposit, called Flaschensammler. Die Sammlung is a collection, and der Sammlerwert is a collector's value. From sammeln, to collect."
+}

@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Einkünfte",
+    "partOfSpeech": "noun, plural",
+    "pronunciation": {
+      "respelling": "AIN-künf-te",
+      "ipa": "ˈaɪ̯nˌkʏnftə",
+      "notes": ""
+    },
+    "meaning": "income, earnings (plural only)",
+    "shortDefinition": "Income, earnings (plural only)."
+  },
+  "sampleSentences": [
+    {
+      "german": "Er muss alle Einkünfte in der Steuererklärung angeben.",
+      "english": "He must declare all income in his tax return.",
+      "highlight": [
+        "Einkünfte"
+      ]
+    },
+    {
+      "german": "Ihre Einkünfte aus Vermietung sind gestiegen.",
+      "english": "Her rental income has risen.",
+      "highlight": [
+        "Einkünfte"
+      ]
+    }
+  ],
+  "forms": [
+    "die Einkünfte",
+    "Einkommen"
+  ],
+  "memoryHook": "Einkünfte: what comes in (einkommen), counted for tax.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does Einkünfte mean?",
+      "options": [
+        "income",
+        "never",
+        "always"
+      ],
+      "answer": "income",
+      "explanation": "Einkünfte: income, earnings (plural only).",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einkünfte is used…",
+      "options": [
+        "only in the plural (die Einkünfte)",
+        "only in the singular"
+      ],
+      "answer": "only in the plural (die Einkünfte)",
+      "explanation": "Plural only.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einkünfte aus nichtselbständiger Arbeit means…",
+      "options": [
+        "income from employment",
+        "freelance income"
+      ],
+      "answer": "income from employment",
+      "explanation": "Tax term.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The everyday singular word is…",
+      "options": [
+        "das Einkommen",
+        "die Einkunft"
+      ],
+      "answer": "das Einkommen",
+      "explanation": "Einkommen.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Er hat hohe ___. (earnings)",
+      "answer": "Einkünfte",
+      "fullAnswer": "Er hat hohe Einkünfte.",
+      "explanation": "Plural.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Einkünfte (plural only) means income or earnings, especially in tax language. German income tax law lists seven types of Einkünfte, including from employment (aus nichtselbständiger Arbeit), self-employment, renting (Vermietung und Verpachtung) and capital. In everyday speech, people say das Einkommen. Members of the Bundestag must publish their Nebeneinkünfte (side income). From einkommen (to come in)."
+}

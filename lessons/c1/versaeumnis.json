@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Versäumnis",
+    "partOfSpeech": "noun, neuter (das Versäumnis)",
+    "pronunciation": {
+      "respelling": "fer-ZOYM-nis",
+      "ipa": "fɛɐ̯ˈzɔɪ̯mnɪs",
+      "notes": "Plural: die Versäumnisse."
+    },
+    "meaning": "omission, failure, neglect",
+    "shortDefinition": "Omission, failure, neglect."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Versäumnis, plural die Versäumnisse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Versäumnis"
+        },
+        {
+          "label": "More than one",
+          "value": "die Versäumnisse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Regierung räumte Versäumnisse ein.",
+      "english": "The government admitted failings.",
+      "highlight": [
+        "Versäumnisse"
+      ]
+    },
+    {
+      "german": "Das ist ein schweres Versäumnis der Behörden.",
+      "english": "That's a serious failure on the part of the authorities.",
+      "highlight": [
+        "Versäumnis"
+      ]
+    }
+  ],
+  "forms": [
+    "Versäumnisse",
+    "das Versäumnis"
+  ],
+  "memoryHook": "Versäumnis: what was versäumt (missed, neglected).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Versäumnis",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Versäumnis is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Versäumnis, zwei ___",
+      "answer": "Versäumnisse",
+      "fullAnswer": "ein Versäumnis, zwei Versäumnisse",
+      "explanation": "The plural is Versäumnisse.",
+      "acceptedAnswers": [
+        "Versaeumnisse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Versäumnis mean?",
+      "options": [
+        "to help",
+        "omission",
+        "the bed"
+      ],
+      "answer": "omission",
+      "explanation": "Versäumnis: omission, failure, neglect.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Versäumen means…",
+      "options": [
+        "to miss, neglect, fail to do",
+        "to hem"
+      ],
+      "answer": "to miss, neglect, fail to do",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "das Versäumnis (also die in some regions)",
+        "der Versäumnis"
+      ],
+      "answer": "das Versäumnis (also die in some regions)",
+      "explanation": "Gender.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Unterlassung, das Fehlverhalten",
+        "die Leistung"
+      ],
+      "answer": "die Unterlassung, das Fehlverhalten",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Versäumnis is an omission, failure or neglect: Versäumnisse einräumen (to admit failings), ein Versäumnis der Politik. Reports after scandals often list Versäumnisse of authorities. Versäumen means to miss or neglect: den Zug, eine Frist versäumen; das Versäumte nachholen (to catch up). Synonyms: die Unterlassung, das Defizit. Plural: die Versäumnisse."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gütesiegel",
+    "partOfSpeech": "noun, neuter (das Gütesiegel)",
+    "pronunciation": {
+      "respelling": "GÜ-te-zee-gel",
+      "ipa": "ˈɡyːtəˌziːɡl̩",
+      "notes": "Plural: die Gütesiegel."
+    },
+    "meaning": "seal of quality, quality label",
+    "shortDefinition": "Seal of quality, quality label."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Gütesiegel, plural die Gütesiegel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Gütesiegel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gütesiegel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Produkt trägt ein Gütesiegel.",
+      "english": "The product carries a seal of quality.",
+      "highlight": [
+        "Gütesiegel."
+      ]
+    },
+    {
+      "german": "Der Blaue Engel ist ein bekanntes Umweltgütesiegel.",
+      "english": "The Blue Angel is a well-known eco-label.",
+      "highlight": [
+        "Umweltgütesiegel."
+      ]
+    }
+  ],
+  "forms": [
+    "das Gütesiegel",
+    "Gütesiegels"
+  ],
+  "memoryHook": "Gütesiegel: a Siegel (seal) of Güte (quality).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gütesiegel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Gütesiegel is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gütesiegel, zwei ___",
+      "answer": "Gütesiegel",
+      "fullAnswer": "ein Gütesiegel, zwei Gütesiegel",
+      "explanation": "The plural is Gütesiegel.",
+      "acceptedAnswers": [
+        "Guetesiegel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gütesiegel mean?",
+      "options": [
+        "the child",
+        "seal of quality",
+        "to learn"
+      ],
+      "answer": "seal of quality",
+      "explanation": "Gütesiegel: seal of quality, quality label.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Blaue Engel, since 1978, is…",
+      "options": [
+        "Germany's eco-label",
+        "a police award"
+      ],
+      "answer": "Germany's eco-label",
+      "explanation": "Eco-label.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Güte is…",
+      "options": [
+        "quality; kindness",
+        "a goat"
+      ],
+      "answer": "quality; kindness",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Siegel is…",
+      "options": [
+        "seal",
+        "sail"
+      ],
+      "answer": "seal",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Gütesiegel is a seal of quality or label: ein staatliches Gütesiegel, das Bio-Siegel for organic food. Germany's Blauer Engel, created in 1978, is one of the world's oldest eco-labels. Test results from Stiftung Warentest are also used like seals on packaging. Critics warn of a jungle of Siegel. Die Güte means quality and kindness: Ach du meine Güte! (goodness me). The plural is the same."
+}

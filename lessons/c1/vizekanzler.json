@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vizekanzler",
+    "partOfSpeech": "noun, masculine (der Vizekanzler)",
+    "pronunciation": {
+      "respelling": "FEE-tse-kants-ler",
+      "ipa": "ˈfiːt͡səˌkant͡slɐ",
+      "notes": "Plural: die Vizekanzler."
+    },
+    "meaning": "vice chancellor",
+    "shortDefinition": "Vice chancellor."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Vizekanzler, plural die Vizekanzler.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Vizekanzler"
+        },
+        {
+          "label": "More than one",
+          "value": "die Vizekanzler"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Vizekanzler vertritt den Kanzler.",
+      "english": "The vice chancellor deputises for the chancellor.",
+      "highlight": [
+        "Vizekanzler"
+      ]
+    },
+    {
+      "german": "Traditionell stellt der kleinere Koalitionspartner den Vizekanzler.",
+      "english": "Traditionally, the smaller coalition partner provides the vice chancellor.",
+      "highlight": [
+        "Vizekanzler."
+      ]
+    }
+  ],
+  "forms": [
+    "die Vizekanzler",
+    "der Vizekanzler",
+    "Vizekanzlerin"
+  ],
+  "memoryHook": "Vizekanzler: the deputy (vize) Kanzler.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vizekanzler",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Vizekanzler is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Vizekanzler, zwei ___",
+      "answer": "Vizekanzler",
+      "fullAnswer": "ein Vizekanzler, zwei Vizekanzler",
+      "explanation": "The plural is Vizekanzler.",
+      "acceptedAnswers": [
+        "Vizekanzler"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vizekanzler mean?",
+      "options": [
+        "vice chancellor",
+        "expensive",
+        "the evening"
+      ],
+      "answer": "vice chancellor",
+      "explanation": "Vizekanzler: vice chancellor.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Germany, the Vizekanzler is usually…",
+      "options": [
+        "a minister from the junior coalition party",
+        "elected by the people"
+      ],
+      "answer": "a minister from the junior coalition party",
+      "explanation": "Coalition.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vize- means…",
+      "options": [
+        "deputy, vice-",
+        "wise"
+      ],
+      "answer": "deputy, vice-",
+      "explanation": "Prefix.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Vizemeister is…",
+      "options": [
+        "the runner-up",
+        "the vice master"
+      ],
+      "answer": "the runner-up",
+      "explanation": "Runner-up.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Vizekanzler (die Vizekanzlerin) is the vice chancellor, the chancellor's deputy, usually a minister from the junior coalition partner, such as foreign or finance minister. Vize- means deputy: der Vizepräsident, der Vizemeister (runner-up), and German football's Bayer Leverkusen was once mocked as Vizekusen for so often finishing second, until winning the league in 2024. Plural: die Vizekanzler."
+}

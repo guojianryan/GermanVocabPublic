@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "sausen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ZAU-zen",
+      "ipa": "ˈzaʊ̯zn̩",
+      "notes": ""
+    },
+    "meaning": "to whizz, rush; to whistle (wind)",
+    "shortDefinition": "To whizz, rush; to whistle (wind)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "saus|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "saus|t"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "saus|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "saus|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "saus|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "saus|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist gesaust"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Kinder sausen mit dem Schlitten den Hügel hinunter.",
+      "english": "The children whizz down the hill on the sledge.",
+      "highlight": [
+        "sausen"
+      ]
+    },
+    {
+      "german": "Ich lasse die Party heute sausen.",
+      "english": "I'm giving the party a miss today.",
+      "highlight": [
+        "sausen."
+      ]
+    }
+  ],
+  "forms": [
+    "sause",
+    "saust",
+    "sausen",
+    "gesaust",
+    "sauste"
+  ],
+  "memoryHook": "Sausen: the whooshing sound of speed.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (sausen)",
+      "answer": "saust",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: saust.",
+      "acceptedAnswers": [
+        "saust"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (sausen, past)",
+      "answer": "gesaust",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin gesaust.",
+      "acceptedAnswers": [
+        "gesaust"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does sausen mean?",
+      "options": [
+        "cheap",
+        "to whizz",
+        "to learn"
+      ],
+      "answer": "to whizz",
+      "explanation": "sausen: to whizz, rush; to whistle (wind).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Etwas sausen lassen means…",
+      "options": [
+        "to skip, give something a miss",
+        "to let something fly"
+      ],
+      "answer": "to skip, give something a miss",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Moving fast, sausen takes…",
+      "options": [
+        "sein",
+        "haben"
+      ],
+      "answer": "sein",
+      "explanation": "Auxiliary.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Durch die Prüfung sausen means…",
+      "options": [
+        "to fail the exam",
+        "to pass easily"
+      ],
+      "answer": "to fail the exam",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Sausen means to whizz or rush along: mit dem Fahrrad sausen, Die Zeit saust vorbei. It takes sein for movement; for the sound of wind (Der Wind saust) it takes haben. Etwas sausen lassen means to skip or give up something: eine Chance sausen lassen. Durch eine Prüfung sausen means to fail. Saus und Braus means living it up. Regular: sauste, gesaust."
+}

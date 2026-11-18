@@ -1,0 +1,143 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mühle",
+    "partOfSpeech": "noun, feminine (die Mühle)",
+    "pronunciation": {
+      "respelling": "MÜ-le",
+      "ipa": "ˈmyːlə",
+      "notes": "Plural: die Mühlen."
+    },
+    "meaning": "mill; (board game) nine men's morris",
+    "shortDefinition": "Mill; (board game) nine men's morris."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Mühle, plural die Mühlen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Mühle"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mühlen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die alte Mühle am Bach ist ein Museum.",
+      "english": "The old mill by the stream is a museum.",
+      "highlight": [
+        "Mühle"
+      ]
+    },
+    {
+      "german": "Wollen wir eine Runde Mühle spielen?",
+      "english": "Shall we play a round of nine men's morris?",
+      "highlight": [
+        "Mühle"
+      ]
+    }
+  ],
+  "forms": [
+    "Mühlen",
+    "die Mühlen",
+    "die Mühle",
+    "Windmühle",
+    "Wassermühle",
+    "Müller"
+  ],
+  "memoryHook": "Mühle: where grain is ground, or counters are lined up.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mühle",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Mühle is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mühle, zwei ___",
+      "answer": "Mühlen",
+      "fullAnswer": "ein Mühle, zwei Mühlen",
+      "explanation": "The plural is Mühlen.",
+      "acceptedAnswers": [
+        "Muehlen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mühle mean?",
+      "options": [
+        "the evening",
+        "mill",
+        "to wait"
+      ],
+      "answer": "mill",
+      "explanation": "Mühle: mill; (board game) nine men's morris.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mühle is also…",
+      "options": [
+        "a board game",
+        "a type of bread"
+      ],
+      "answer": "a board game",
+      "explanation": "Nine men's morris.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Windmühle is…",
+      "options": [
+        "a windmill",
+        "a wind turbine only"
+      ],
+      "answer": "a windmill",
+      "explanation": "Wind + Mühle.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Mühlen",
+        "Mühle"
+      ],
+      "answer": "Mühlen",
+      "explanation": "-n.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Müller is…",
+      "options": [
+        "the miller",
+        "the mover"
+      ],
+      "answer": "the miller",
+      "explanation": "Common surname.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Die Mühle is a mill, powered by water (Wassermühle), wind (Windmühle) or, in the modern sense, an electric motor: die Kaffeemühle, die Pfeffermühle. In the board game Mühle (nine men's morris), you win by lining up three counters. Müller is one of the most common German surnames, from the miller's trade. In the proverb, Wer zuerst kommt, mahlt zuerst, the first to arrive gets his grain ground first."
+}

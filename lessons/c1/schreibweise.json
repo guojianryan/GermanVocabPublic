@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schreibweise",
+    "partOfSpeech": "noun, feminine (die Schreibweise)",
+    "pronunciation": {
+      "respelling": "SHRAIP-vai-ze",
+      "ipa": "ˈʃʁaɪ̯pˌvaɪ̯zə",
+      "notes": "Plural: die Schreibweisen."
+    },
+    "meaning": "spelling; writing style",
+    "shortDefinition": "Spelling; writing style."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Schreibweise, plural die Schreibweisen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Schreibweise"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schreibweisen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Beide Schreibweisen sind korrekt.",
+      "english": "Both spellings are correct.",
+      "highlight": [
+        "Schreibweisen"
+      ]
+    },
+    {
+      "german": "Die alte Schreibweise war daß mit ß.",
+      "english": "The old spelling was daß with ß.",
+      "highlight": [
+        "Schreibweise"
+      ]
+    }
+  ],
+  "forms": [
+    "Schreibweisen",
+    "die Schreibweisen",
+    "die Schreibweise"
+  ],
+  "memoryHook": "Schreibweise: the way (Weise) a word is written.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schreibweise",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Schreibweise is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schreibweise, zwei ___",
+      "answer": "Schreibweisen",
+      "fullAnswer": "ein Schreibweise, zwei Schreibweisen",
+      "explanation": "The plural is Schreibweisen.",
+      "acceptedAnswers": [
+        "Schreibweisen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schreibweise mean?",
+      "options": [
+        "to learn",
+        "the shop",
+        "spelling"
+      ],
+      "answer": "spelling",
+      "explanation": "Schreibweise: spelling; writing style.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The 1996 Rechtschreibreform changed…",
+      "options": [
+        "many spellings (e.g. daß → dass)",
+        "the alphabet"
+      ],
+      "answer": "many spellings (e.g. daß → dass)",
+      "explanation": "Reform.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Rechtschreibung is…",
+      "options": [
+        "spelling, orthography",
+        "handwriting"
+      ],
+      "answer": "spelling, orthography",
+      "explanation": "Orthography.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Weise is…",
+      "options": [
+        "way, manner; melody",
+        "a wise man"
+      ],
+      "answer": "way, manner; melody",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Schreibweise is the spelling of a word or a writing style: die richtige Schreibweise, eine eigenwillige Schreibweise. The 1996 German spelling reform (Rechtschreibreform), revised in 2006, changed many Schreibweisen: daß became dass, Fluß became Fluss. The official standard is set by the Rat für deutsche Rechtschreibung, and the Duden dictionary is the popular reference. Plural: die Schreibweisen."
+}

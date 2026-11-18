@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "schwänzen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHVEN-tsen",
+      "ipa": "ˈʃvɛnt͡sn̩",
+      "notes": ""
+    },
+    "meaning": "to skip (school, class)",
+    "shortDefinition": "To skip (school, class)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schwänz|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schwänz|t"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schwänz|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schwänz|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schwänz|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schwänz|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geschwänzt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hat heute die Schule geschwänzt.",
+      "english": "He skipped school today.",
+      "highlight": [
+        "geschwänzt."
+      ]
+    },
+    {
+      "german": "Wer die Vorlesung schwänzt, verpasst viel.",
+      "english": "Anyone who skips the lecture misses a lot.",
+      "highlight": [
+        "schwänzt,"
+      ]
+    }
+  ],
+  "forms": [
+    "schwänze",
+    "schwänzt",
+    "schwänzen",
+    "geschwänzt",
+    "Schulschwänzer"
+  ],
+  "memoryHook": "Schwänzen: skip school without an excuse.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (schwänzen)",
+      "answer": "schwänzt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schwänzt.",
+      "acceptedAnswers": [
+        "schwaenzt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (schwänzen, past)",
+      "answer": "geschwänzt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geschwänzt.",
+      "acceptedAnswers": [
+        "geschwaenzt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does schwänzen mean?",
+      "options": [
+        "to skip (school",
+        "the weather",
+        "the flower"
+      ],
+      "answer": "to skip (school",
+      "explanation": "schwänzen: to skip (school, class).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schwänzen means…",
+      "options": [
+        "to skip (school) without permission",
+        "to wag a tail"
+      ],
+      "answer": "to skip (school) without permission",
+      "explanation": "Skip.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schulschwänzer is…",
+      "options": [
+        "a truant",
+        "a school bus"
+      ],
+      "answer": "a truant",
+      "explanation": "Truant.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Germany, school attendance is…",
+      "options": [
+        "compulsory (Schulpflicht); homeschooling is banned",
+        "optional"
+      ],
+      "answer": "compulsory (Schulpflicht); homeschooling is banned",
+      "explanation": "Law.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Schwänzen means to skip school or a class without permission: die Schule schwänzen, Mathe schwänzen. Der Schulschwänzer is a truant. Germany has strict compulsory school attendance (Schulpflicht), and homeschooling is generally not allowed; parents can be fined, and police may even escort pupils to school in rare cases. The 2019 Fridays for Future school strikes sparked debate about schwänzen for the climate."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Satellit",
+    "partOfSpeech": "noun, masculine (der Satellit)",
+    "pronunciation": {
+      "respelling": "za-te-LEET",
+      "ipa": "zatɛˈliːt",
+      "notes": "Plural: die Satelliten."
+    },
+    "meaning": "satellite",
+    "shortDefinition": "Satellite."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Satellit, plural die Satelliten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Satellit"
+        },
+        {
+          "label": "More than one",
+          "value": "die Satelliten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Satellit umkreist die Erde.",
+      "english": "The satellite orbits the Earth.",
+      "highlight": [
+        "Satellit"
+      ]
+    },
+    {
+      "german": "Das Fernsehen kommt über Satellit.",
+      "english": "The TV comes via satellite.",
+      "highlight": [
+        "Satellit."
+      ]
+    }
+  ],
+  "forms": [
+    "Satelliten",
+    "die Satelliten",
+    "der Satellit",
+    "Satellitenschüssel"
+  ],
+  "memoryHook": "Satellit: one t, two l's, and weak like Planet.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Satellit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Satellit is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Satellit, zwei ___",
+      "answer": "Satelliten",
+      "fullAnswer": "ein Satellit, zwei Satelliten",
+      "explanation": "The plural is Satelliten.",
+      "acceptedAnswers": [
+        "Satelliten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Satellit mean?",
+      "options": [
+        "satellite",
+        "the weather",
+        "tomorrow"
+      ],
+      "answer": "satellite",
+      "explanation": "Satellit: satellite.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Weak noun, accusative:",
+      "options": [
+        "den Satelliten",
+        "den Satellit"
+      ],
+      "answer": "den Satelliten",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Satellitenschüssel is…",
+      "options": [
+        "a satellite dish",
+        "a satellite town"
+      ],
+      "answer": "a satellite dish",
+      "explanation": "Dish.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Spelling:",
+      "options": [
+        "Satellit (double l, one t)",
+        "Sattelit"
+      ],
+      "answer": "Satellit (double l, one t)",
+      "explanation": "Watch the spelling.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Satellit is a satellite: ein Wettersatellit, über Satellit empfangen. It's a weak noun: den Satelliten, des Satelliten. Many German households receive TV via Satellit, which is why you see Satellitenschüsseln (dishes) on balconies. Spelling trap: one t, two l's (Sa-tel-lit). Die Satellitenstadt is a satellite town, and East Germany was called a Satellitenstaat of the Soviet Union. From Latin satelles, bodyguard."
+}

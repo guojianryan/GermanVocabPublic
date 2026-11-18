@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wertsache",
+    "partOfSpeech": "noun, feminine (die Wertsache)",
+    "pronunciation": {
+      "respelling": "VERT-za-khe",
+      "ipa": "ˈveːɐ̯tˌzaxə",
+      "notes": "Plural: die Wertsachen."
+    },
+    "meaning": "valuable item, valuables (plural)",
+    "shortDefinition": "Valuable item, valuables (plural)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Wertsache, plural die Wertsachen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Wertsache"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wertsachen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Lassen Sie keine Wertsachen im Auto.",
+      "english": "Don't leave any valuables in the car.",
+      "highlight": [
+        "Wertsachen"
+      ]
+    },
+    {
+      "german": "Wertsachen können im Hotelsafe aufbewahrt werden.",
+      "english": "Valuables can be kept in the hotel safe.",
+      "highlight": [
+        "Wertsachen"
+      ]
+    }
+  ],
+  "forms": [
+    "Wertsachen",
+    "die Wertsache"
+  ],
+  "memoryHook": "Wertsache: a Sache (thing) of Wert (value).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wertsache",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Wertsache is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wertsache, zwei ___",
+      "answer": "Wertsachen",
+      "fullAnswer": "ein Wertsache, zwei Wertsachen",
+      "explanation": "The plural is Wertsachen.",
+      "acceptedAnswers": [
+        "Wertsachen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wertsache mean?",
+      "options": [
+        "the car",
+        "valuable item",
+        "never"
+      ],
+      "answer": "valuable item",
+      "explanation": "Wertsache: valuable item, valuables (plural).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Usually used in…",
+      "options": [
+        "the plural (Wertsachen)",
+        "the singular"
+      ],
+      "answer": "the plural (Wertsachen)",
+      "explanation": "Plural.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Für Wertsachen keine Haftung means…",
+      "options": [
+        "no liability for valuables",
+        "valuables are free"
+      ],
+      "answer": "no liability for valuables",
+      "explanation": "Sign.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Wert is…",
+      "options": [
+        "value",
+        "word"
+      ],
+      "answer": "value",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Wertsache is a valuable item, almost always plural: Wertsachen wie Schmuck, Bargeld und Dokumente. Signs in cloakrooms and gyms warn Für Wertsachen keine Haftung (no liability for valuables), and police advise never to leave Wertsachen visible in a parked car. Hotels offer a Safe or Schließfach. Plural: die Wertsachen."
+}

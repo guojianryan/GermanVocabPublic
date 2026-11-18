@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kurfürst",
+    "partOfSpeech": "noun, masculine (der Kurfürst)",
+    "pronunciation": {
+      "respelling": "KOOR-fürst",
+      "ipa": "ˈkuːɐ̯ˌfʏʁst",
+      "notes": "Plural: die Kurfürsten."
+    },
+    "meaning": "prince-elector",
+    "shortDefinition": "Prince-elector."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kurfürst, plural die Kurfürsten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kurfürst"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kurfürsten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Kurfürsten wählten den König.",
+      "english": "The prince-electors elected the king.",
+      "highlight": [
+        "Kurfürsten"
+      ]
+    },
+    {
+      "german": "Der Kurfürst von Sachsen residierte in Dresden.",
+      "english": "The Elector of Saxony resided in Dresden.",
+      "highlight": [
+        "Kurfürst"
+      ]
+    }
+  ],
+  "forms": [
+    "Kurfürsten",
+    "die Kurfürsten",
+    "der Kurfürst"
+  ],
+  "memoryHook": "Kurfürst: a Fürst who could küren (elect) the king.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kurfürst",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kurfürst is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kurfürst, zwei ___",
+      "answer": "Kurfürsten",
+      "fullAnswer": "ein Kurfürst, zwei Kurfürsten",
+      "explanation": "The plural is Kurfürsten.",
+      "acceptedAnswers": [
+        "Kurfuersten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kurfürst mean?",
+      "options": [
+        "the door",
+        "prince-elector",
+        "the station"
+      ],
+      "answer": "prince-elector",
+      "explanation": "Kurfürst: prince-elector.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kur- in Kurfürst comes from…",
+      "options": [
+        "küren (to choose)",
+        "die Kur (spa cure)"
+      ],
+      "answer": "küren (to choose)",
+      "explanation": "Choose.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Golden Bull of 1356 fixed…",
+      "options": [
+        "seven electors",
+        "twelve electors"
+      ],
+      "answer": "seven electors",
+      "explanation": "1356.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Fürst is…",
+      "options": [
+        "prince, ruler",
+        "first"
+      ],
+      "answer": "prince, ruler",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Kurfürst is a prince-elector of the Holy Roman Empire, one of the princes entitled to elect the king. The Golden Bull of 1356 fixed seven electors: three archbishops (Mainz, Cologne, Trier) and four secular princes. Kur- comes from küren (to choose), not die Kur (spa cure). Saxony's Kurfürst Augustus the Strong made Dresden splendid. Der Fürst means prince. Weak noun: den Kurfürsten. Plural: die Kurfürsten."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Waschlappen",
+    "partOfSpeech": "noun, masculine (der Waschlappen)",
+    "pronunciation": {
+      "respelling": "VASH-la-pen",
+      "ipa": "ˈvaʃˌlapn̩",
+      "notes": "Plural: die Waschlappen."
+    },
+    "meaning": "flannel, washcloth; wimp",
+    "shortDefinition": "Flannel, washcloth; wimp."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Waschlappen, plural die Waschlappen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Waschlappen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Waschlappen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er wusch sich mit einem Waschlappen.",
+      "english": "He washed with a flannel.",
+      "highlight": [
+        "Waschlappen."
+      ]
+    },
+    {
+      "german": "Sei doch kein Waschlappen!",
+      "english": "Don't be such a wimp!",
+      "highlight": [
+        "Waschlappen!"
+      ]
+    }
+  ],
+  "forms": [
+    "der Waschlappen",
+    "Waschlappens"
+  ],
+  "memoryHook": "Waschlappen: a Lappen (cloth) for waschen.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Waschlappen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Waschlappen is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Waschlappen, zwei ___",
+      "answer": "Waschlappen",
+      "fullAnswer": "ein Waschlappen, zwei Waschlappen",
+      "explanation": "The plural is Waschlappen.",
+      "acceptedAnswers": [
+        "Waschlappen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Waschlappen mean?",
+      "options": [
+        "flannel",
+        "the station",
+        "always"
+      ],
+      "answer": "flannel",
+      "explanation": "Waschlappen: flannel, washcloth; wimp.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, ein Waschlappen is…",
+      "options": [
+        "a wimp, weakling",
+        "a cleaner"
+      ],
+      "answer": "a wimp, weakling",
+      "explanation": "Insult.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Lappen is…",
+      "options": [
+        "cloth, rag; (slang) driving licence",
+        "a lap"
+      ],
+      "answer": "cloth, rag; (slang) driving licence",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In 2022 a politician recommended washing with…",
+      "options": [
+        "a Waschlappen to save energy",
+        "cold showers only"
+      ],
+      "answer": "a Waschlappen to save energy",
+      "explanation": "2022.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Waschlappen is a flannel or washcloth, often mitten-shaped in Germany. Figuratively, it's a wimp: Sei kein Waschlappen! In the 2022 energy crisis, Baden-Württemberg's premier Winfried Kretschmann suggested using a Waschlappen instead of showering, which sparked jokes. Der Lappen is a cloth, and in slang a driving licence: den Lappen abgeben. The plural is the same."
+}

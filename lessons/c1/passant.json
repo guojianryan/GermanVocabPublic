@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Passant",
+    "partOfSpeech": "noun, masculine (der Passant)",
+    "pronunciation": {
+      "respelling": "pa-SANT",
+      "ipa": "paˈsant",
+      "notes": "Plural: die Passanten."
+    },
+    "meaning": "passer-by",
+    "shortDefinition": "Passer-by."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Passant, plural die Passanten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Passant"
+        },
+        {
+          "label": "More than one",
+          "value": "die Passanten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ein Passant rief die Polizei.",
+      "english": "A passer-by called the police.",
+      "highlight": [
+        "Passant"
+      ]
+    },
+    {
+      "german": "Die Reporterin befragte Passanten.",
+      "english": "The reporter questioned passers-by.",
+      "highlight": [
+        "Passanten."
+      ]
+    }
+  ],
+  "forms": [
+    "Passanten",
+    "die Passanten",
+    "der Passant",
+    "Passantin"
+  ],
+  "memoryHook": "Passant: someone passing (passieren) by.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Passant",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Passant is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Passant, zwei ___",
+      "answer": "Passanten",
+      "fullAnswer": "ein Passant, zwei Passanten",
+      "explanation": "The plural is Passanten.",
+      "acceptedAnswers": [
+        "Passanten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Passant mean?",
+      "options": [
+        "passer-by",
+        "slowly",
+        "quiet"
+      ],
+      "answer": "passer-by",
+      "explanation": "Passant: passer-by.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Passant is a weak noun:",
+      "options": [
+        "den Passanten",
+        "den Passant"
+      ],
+      "answer": "den Passanten",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Passantin",
+        "die Passante"
+      ],
+      "answer": "die Passantin",
+      "explanation": "-in.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Typical in…",
+      "options": [
+        "news reports and street interviews",
+        "recipes"
+      ],
+      "answer": "news reports and street interviews",
+      "explanation": "News.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Passant (die Passantin) is a passer-by, common in news reports: Passanten leisteten Erste Hilfe (passers-by gave first aid). Street interviews are often called Passantenbefragungen. It's a weak noun: den Passanten. In Germany, failing to help in an emergency (unterlassene Hilfeleistung) is a criminal offence, so passers-by are legally required to help where reasonable. From French passant. Plural: die Passanten."
+}

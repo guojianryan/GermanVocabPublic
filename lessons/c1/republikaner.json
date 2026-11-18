@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Republikaner",
+    "partOfSpeech": "noun, masculine (der Republikaner)",
+    "pronunciation": {
+      "respelling": "re-pu-bli-KAA-ner",
+      "ipa": "ʁepubliˈkaːnɐ",
+      "notes": "Plural: die Republikaner."
+    },
+    "meaning": "republican; Republican (US)",
+    "shortDefinition": "Republican; Republican (US)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Republikaner, plural die Republikaner.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Republikaner"
+        },
+        {
+          "label": "More than one",
+          "value": "die Republikaner"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Republikaner haben die Mehrheit im Senat.",
+      "english": "The Republicans have the majority in the Senate.",
+      "highlight": [
+        "Republikaner"
+      ]
+    },
+    {
+      "german": "Er war ein überzeugter Republikaner.",
+      "english": "He was a committed republican.",
+      "highlight": [
+        "Republikaner."
+      ]
+    }
+  ],
+  "forms": [
+    "die Republikaner",
+    "der Republikaner",
+    "Republikanerin",
+    "republikanisch"
+  ],
+  "memoryHook": "Republikaner: supports a Republik, or the US party.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Republikaner",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Republikaner is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Republikaner, zwei ___",
+      "answer": "Republikaner",
+      "fullAnswer": "ein Republikaner, zwei Republikaner",
+      "explanation": "The plural is Republikaner.",
+      "acceptedAnswers": [
+        "Republikaner"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Republikaner mean?",
+      "options": [
+        "hot",
+        "the car",
+        "republican"
+      ],
+      "answer": "republican",
+      "explanation": "Republikaner: republican; Republican (US).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Republikanisch means…",
+      "options": [
+        "republican",
+        "repulsive"
+      ],
+      "answer": "republican",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's official name:",
+      "options": [
+        "Bundesrepublik Deutschland",
+        "Deutsche Republik"
+      ],
+      "answer": "Bundesrepublik Deutschland",
+      "explanation": "Federal Republic.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Republikanerin",
+        "die Republikin"
+      ],
+      "answer": "die Republikanerin",
+      "explanation": "-in.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Republikaner (die Republikanerin) is a republican, someone who supports a republic rather than a monarchy, and a member of the US Republican Party: die Republikaner, as opposed to die Demokraten. In German history, die Republikaner was also the name of a small far-right party from the 1980s. Germany itself is a republic: die Bundesrepublik Deutschland, founded in 1949, after the Weimar Republic of 1919–1933."
+}

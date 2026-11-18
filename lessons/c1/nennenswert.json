@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "nennenswert",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "NE-nens-vert",
+      "ipa": "ˈnɛnənsˌveːɐ̯t",
+      "notes": ""
+    },
+    "meaning": "significant, worth mentioning",
+    "shortDefinition": "Significant, worth mentioning."
+  },
+  "sampleSentences": [
+    {
+      "german": "Es gab keine nennenswerten Probleme.",
+      "english": "There were no significant problems.",
+      "highlight": [
+        "nennenswerten"
+      ]
+    },
+    {
+      "german": "Die Preise sind nicht nennenswert gestiegen.",
+      "english": "Prices haven't risen significantly.",
+      "highlight": [
+        "nennenswert"
+      ]
+    }
+  ],
+  "forms": [
+    "nennenswerte",
+    "nennenswerten"
+  ],
+  "memoryHook": "Nennenswert: wert (worth) nennen (naming).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does nennenswert mean?",
+      "options": [
+        "significant",
+        "to help",
+        "the family"
+      ],
+      "answer": "significant",
+      "explanation": "nennenswert: significant, worth mentioning.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nennenswert is mostly used…",
+      "options": [
+        "with negation (nicht, kein)",
+        "only positively"
+      ],
+      "answer": "with negation (nicht, kein)",
+      "explanation": "Usage.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nennen means…",
+      "options": [
+        "to name, call",
+        "to deny"
+      ],
+      "answer": "to name, call",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Similar -wert adjectives:",
+      "options": [
+        "sehenswert, lesenswert",
+        "wertvoll only"
+      ],
+      "answer": "sehenswert, lesenswert",
+      "explanation": "Pattern.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "keine ___ Schäden (worth mentioning)",
+      "answer": "nennenswerten",
+      "fullAnswer": "keine nennenswerten Schäden",
+      "explanation": "Plural -en.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Nennenswert means significant or worth mentioning, usually in negative statements: keine nennenswerten Schäden (no significant damage), nicht nennenswert. It's typical of news and reports. The suffix -wert (worth) forms many adjectives: sehenswert (worth seeing), lesenswert, empfehlenswert (recommendable), lebenswert (worth living), bemerkenswert (remarkable)."
+}

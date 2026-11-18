@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Verschiebung",
+    "partOfSpeech": "noun, feminine (die Verschiebung)",
+    "pronunciation": {
+      "respelling": "fer-SHEE-bung",
+      "ipa": "fɛɐ̯ˈʃiːbʊŋ",
+      "notes": "Plural: die Verschiebungen."
+    },
+    "meaning": "postponement; shift",
+    "shortDefinition": "Postponement; shift."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Verschiebung, plural die Verschiebungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Verschiebung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Verschiebungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Verschiebung des Termins ist ärgerlich.",
+      "english": "The postponement of the appointment is annoying.",
+      "highlight": [
+        "Verschiebung"
+      ]
+    },
+    {
+      "german": "Es gab eine Verschiebung der Machtverhältnisse.",
+      "english": "There was a shift in the balance of power.",
+      "highlight": [
+        "Verschiebung"
+      ]
+    }
+  ],
+  "forms": [
+    "Verschiebungen",
+    "die Verschiebungen",
+    "die Verschiebung",
+    "verschieben"
+  ],
+  "memoryHook": "Verschiebung: moving (schieben) something elsewhere.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Verschiebung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Verschiebung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Verschiebung, zwei ___",
+      "answer": "Verschiebungen",
+      "fullAnswer": "ein Verschiebung, zwei Verschiebungen",
+      "explanation": "The plural is Verschiebungen.",
+      "acceptedAnswers": [
+        "Verschiebungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Verschiebung mean?",
+      "options": [
+        "never",
+        "postponement",
+        "the bread"
+      ],
+      "answer": "postponement",
+      "explanation": "Verschiebung: postponement; shift.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verschieben means…",
+      "options": [
+        "to postpone; to move",
+        "to push open"
+      ],
+      "answer": "to postpone; to move",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Lautverschiebung is…",
+      "options": [
+        "a sound shift (linguistics)",
+        "a volume change"
+      ],
+      "answer": "a sound shift (linguistics)",
+      "explanation": "Linguistics.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verschieb nicht auf morgen... is…",
+      "options": [
+        "a proverb about procrastination",
+        "a weather forecast"
+      ],
+      "answer": "a proverb about procrastination",
+      "explanation": "Proverb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Verschiebung is a postponement (die Verschiebung der Wahl) or a shift (eine Verschiebung der Kräfte). Verschieben means to postpone or to move: einen Termin verschieben, Möbel verschieben. The proverb: Was du heute kannst besorgen, das verschiebe nicht auf morgen. In linguistics, die zweite Lautverschiebung (the High German consonant shift) explains why English has water and German Wasser. Plural: die Verschiebungen."
+}

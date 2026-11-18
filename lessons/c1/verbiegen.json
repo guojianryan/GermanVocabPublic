@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verbiegen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-BEE-gen",
+      "ipa": "fɛɐ̯ˈbiːɡn̩",
+      "notes": ""
+    },
+    "meaning": "to bend (out of shape); (sich) to compromise oneself",
+    "shortDefinition": "To bend (out of shape); (sich) to compromise oneself."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verbieg|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verbieg|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verbieg|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verbieg|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verbieg|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verbieg|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verbogen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Schlüssel ist verbogen.",
+      "english": "The key is bent.",
+      "highlight": [
+        "verbogen."
+      ]
+    },
+    {
+      "german": "Ich verbiege mich nicht für einen Job.",
+      "english": "I won't compromise myself for a job.",
+      "highlight": [
+        "verbiege"
+      ]
+    }
+  ],
+  "forms": [
+    "verbiege",
+    "verbiegst",
+    "verbiegt",
+    "verbiegen",
+    "verbogen",
+    "verbog"
+  ],
+  "memoryHook": "Verbiegen: biegen (bend) something the wrong way.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verbiegen)",
+      "answer": "verbiegt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verbiegt.",
+      "acceptedAnswers": [
+        "verbiegt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verbiegen, past)",
+      "answer": "verbogen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verbogen.",
+      "acceptedAnswers": [
+        "verbogen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verbiegen mean?",
+      "options": [
+        "to bend (out of shape)",
+        "to help",
+        "the child"
+      ],
+      "answer": "to bend (out of shape)",
+      "explanation": "verbiegen: to bend (out of shape); (sich) to compromise oneself.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich verbiegen means…",
+      "options": [
+        "to betray one's own nature, compromise oneself",
+        "to bow"
+      ],
+      "answer": "to betray one's own nature, compromise oneself",
+      "explanation": "Figurative.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "verbog, verbogen",
+        "verbiegte"
+      ],
+      "answer": "verbog, verbogen",
+      "explanation": "Irregular.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Biegen means…",
+      "options": [
+        "to bend; to turn",
+        "to beg"
+      ],
+      "answer": "to bend; to turn",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verbiegen means to bend out of shape: ein verbogener Löffel, eine verbogene Felge. Figuratively, sich verbiegen means to compromise oneself or betray one's nature to please others: Sie hat sich nie verbogen (she stayed true to herself). It's irregular like biegen: verbog, verbogen. Related: auf Biegen und Brechen (by hook or by crook)."
+}

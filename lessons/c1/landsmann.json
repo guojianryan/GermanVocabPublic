@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Landsmann",
+    "partOfSpeech": "noun, masculine (der Landsmann)",
+    "pronunciation": {
+      "respelling": "LANTS-man",
+      "ipa": "ˈlant͡sˌman",
+      "notes": "Plural: die Landsleute."
+    },
+    "meaning": "compatriot, fellow countryman",
+    "shortDefinition": "Compatriot, fellow countryman."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Landsmann, plural die Landsleute.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Landsmann"
+        },
+        {
+          "label": "More than one",
+          "value": "die Landsleute"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Ausland traf er einen Landsmann.",
+      "english": "Abroad he met a fellow countryman.",
+      "highlight": [
+        "Landsmann."
+      ]
+    },
+    {
+      "german": "Viele ihrer Landsleute leben in Berlin.",
+      "english": "Many of her compatriots live in Berlin.",
+      "highlight": [
+        "Landsleute"
+      ]
+    }
+  ],
+  "forms": [
+    "Landsleute",
+    "die Landsleute",
+    "der Landsmann",
+    "Landsmännin"
+  ],
+  "memoryHook": "Landsmann: a Mann from the same Land.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Landsmann",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Landsmann is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Landsmann, zwei ___",
+      "answer": "Landsleute",
+      "fullAnswer": "ein Landsmann, zwei Landsleute",
+      "explanation": "The plural is Landsleute.",
+      "acceptedAnswers": [
+        "Landsleute"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Landsmann mean?",
+      "options": [
+        "the evening",
+        "the flower",
+        "compatriot"
+      ],
+      "answer": "compatriot",
+      "explanation": "Landsmann: compatriot, fellow countryman.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Landsleute",
+        "die Landsmänner"
+      ],
+      "answer": "die Landsleute",
+      "explanation": "-leute.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Landsmännin",
+        "die Landsfrau"
+      ],
+      "answer": "die Landsmännin",
+      "explanation": "Female.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Landsmannschaft can be…",
+      "options": [
+        "an association of expellees from a region; a student fraternity",
+        "a national team"
+      ],
+      "answer": "an association of expellees from a region; a student fraternity",
+      "explanation": "Association.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Landsmann (die Landsmännin) is a compatriot or fellow countryman: Er ist ein Landsmann von mir. The plural is die Landsleute. In sport reports, Landsmann often refers to a fellow national: Der Deutsche besiegte seinen Landsmann. Landsmannschaften are associations of Germans expelled from Eastern Europe after 1945, and also a type of student fraternity."
+}

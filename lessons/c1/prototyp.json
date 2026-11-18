@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Prototyp",
+    "partOfSpeech": "noun, masculine (der Prototyp)",
+    "pronunciation": {
+      "respelling": "PROH-to-tüp",
+      "ipa": "ˈpʁoːtoˌtyːp",
+      "notes": "Plural: die Prototypen."
+    },
+    "meaning": "prototype",
+    "shortDefinition": "Prototype."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Prototyp, plural die Prototypen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Prototyp"
+        },
+        {
+          "label": "More than one",
+          "value": "die Prototypen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Prototyp wird auf der Messe vorgestellt.",
+      "english": "The prototype will be presented at the trade fair.",
+      "highlight": [
+        "Prototyp"
+      ]
+    },
+    {
+      "german": "Er ist der Prototyp des deutschen Beamten.",
+      "english": "He's the archetypal German civil servant.",
+      "highlight": [
+        "Prototyp"
+      ]
+    }
+  ],
+  "forms": [
+    "Prototypen",
+    "die Prototypen",
+    "der Prototyp"
+  ],
+  "memoryHook": "Prototyp: the first (protos) type.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Prototyp",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Prototyp is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Prototyp, zwei ___",
+      "answer": "Prototypen",
+      "fullAnswer": "ein Prototyp, zwei Prototypen",
+      "explanation": "The plural is Prototypen.",
+      "acceptedAnswers": [
+        "Prototypen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Prototyp mean?",
+      "options": [
+        "prototype",
+        "to wait",
+        "the door"
+      ],
+      "answer": "prototype",
+      "explanation": "Prototyp: prototype.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, der Prototyp means…",
+      "options": [
+        "the archetype, classic example",
+        "a beginner"
+      ],
+      "answer": "the archetype, classic example",
+      "explanation": "Archetype.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Prototypen",
+        "die Prototyps"
+      ],
+      "answer": "die Prototypen",
+      "explanation": "-en.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Typ (colloquial) means…",
+      "options": [
+        "guy, bloke",
+        "typo"
+      ],
+      "answer": "guy, bloke",
+      "explanation": "Colloquial.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Prototyp is a prototype, the first model of a product: einen Prototyp testen, der Prototyp eines Elektroautos. Figuratively, it's the archetype: der Prototyp des Beamten, des Machos. Carl Benz's Patent-Motorwagen of 1886 is considered the prototype of the modern car. Der Typ also means type and, colloquially, guy. Plural: die Prototypen."
+}

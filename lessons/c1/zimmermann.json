@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zimmermann",
+    "partOfSpeech": "noun, masculine (der Zimmermann)",
+    "pronunciation": {
+      "respelling": "TSIM-er-man",
+      "ipa": "ˈt͡sɪmɐˌman",
+      "notes": "Plural: die Zimmerleute."
+    },
+    "meaning": "carpenter (building with timber)",
+    "shortDefinition": "Carpenter (building with timber)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Zimmermann, plural die Zimmerleute.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Zimmermann"
+        },
+        {
+          "label": "More than one",
+          "value": "die Zimmerleute"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Zimmermann baut den Dachstuhl.",
+      "english": "The carpenter is building the roof truss.",
+      "highlight": [
+        "Zimmermann"
+      ]
+    },
+    {
+      "german": "Zimmerleute gehen traditionell auf die Walz.",
+      "english": "Carpenters traditionally go on journeyman travels.",
+      "highlight": [
+        "Zimmerleute"
+      ]
+    }
+  ],
+  "forms": [
+    "Zimmerleute",
+    "die Zimmerleute",
+    "der Zimmermann",
+    "Zimmerin"
+  ],
+  "memoryHook": "Zimmermann: builds the wooden frame (Zimmer meant timber).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zimmermann",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Zimmermann is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Zimmermann, zwei ___",
+      "answer": "Zimmerleute",
+      "fullAnswer": "ein Zimmermann, zwei Zimmerleute",
+      "explanation": "The plural is Zimmerleute.",
+      "acceptedAnswers": [
+        "Zimmerleute"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zimmermann mean?",
+      "options": [
+        "to help",
+        "to sleep",
+        "carpenter (building with timber)"
+      ],
+      "answer": "carpenter (building with timber)",
+      "explanation": "Zimmermann: carpenter (building with timber).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Zimmerleute",
+        "die Zimmermänner"
+      ],
+      "answer": "die Zimmerleute",
+      "explanation": "-leute.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A furniture maker / joiner is…",
+      "options": [
+        "der Tischler / Schreiner",
+        "der Zimmermann"
+      ],
+      "answer": "der Tischler / Schreiner",
+      "explanation": "Tischler.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Walz is…",
+      "options": [
+        "the journeyman years on the road",
+        "a dance"
+      ],
+      "answer": "the journeyman years on the road",
+      "explanation": "Tradition.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Zimmermann is a carpenter who builds with timber: roofs, frames, half-timbered houses. Furniture is made by der Tischler or Schreiner. The plural is die Zimmerleute. Zimmer once meant timber, so a Zimmer was a timber-built room. Some young Zimmerleute still go auf die Walz: three years and a day travelling, in black corduroy outfits, working for food and board, and not allowed within 50 km of home."
+}

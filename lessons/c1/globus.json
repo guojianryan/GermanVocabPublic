@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Globus",
+    "partOfSpeech": "noun, masculine (der Globus)",
+    "pronunciation": {
+      "respelling": "GLOH-bus",
+      "ipa": "ˈɡloːbʊs",
+      "notes": "Plural: die Globen."
+    },
+    "meaning": "globe",
+    "shortDefinition": "Globe."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Globus, plural die Globen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Globus"
+        },
+        {
+          "label": "More than one",
+          "value": "die Globen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Auf dem Schreibtisch steht ein Globus.",
+      "english": "There's a globe on the desk.",
+      "highlight": [
+        "Globus"
+      ]
+    },
+    {
+      "german": "Sie reist rund um den Globus.",
+      "english": "She travels around the globe.",
+      "highlight": [
+        "Globus."
+      ]
+    }
+  ],
+  "forms": [
+    "Globen",
+    "Globusse",
+    "der Globus"
+  ],
+  "memoryHook": "Globus: a ball (Latin globus) showing the earth.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Globus",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Globus is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Globus, zwei ___",
+      "answer": "Globen",
+      "fullAnswer": "ein Globus, zwei Globen",
+      "explanation": "The plural is Globen.",
+      "acceptedAnswers": [
+        "Globen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Globus mean?",
+      "options": [
+        "to wait",
+        "globe",
+        "hot"
+      ],
+      "answer": "globe",
+      "explanation": "Globus: globe.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Globen or Globusse",
+        "die Globi"
+      ],
+      "answer": "die Globen or Globusse",
+      "explanation": "Plural.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The oldest surviving globe, the Erdapfel (1492), was made in…",
+      "options": [
+        "Nuremberg",
+        "Venice"
+      ],
+      "answer": "Nuremberg",
+      "explanation": "Behaim.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Global means…",
+      "options": [
+        "global, worldwide",
+        "round"
+      ],
+      "answer": "global, worldwide",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Globus is a globe, and figuratively the world: rund um den Globus. The oldest surviving terrestrial globe, the Erdapfel (earth apple), was made by Martin Behaim in Nuremberg in 1492, just before Columbus returned, so it doesn't show the Americas. Global means global: die Globalisierung. Plural: die Globen or die Globusse."
+}

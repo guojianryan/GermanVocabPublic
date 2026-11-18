@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Pudel",
+    "partOfSpeech": "noun, masculine (der Pudel)",
+    "pronunciation": {
+      "respelling": "POO-del",
+      "ipa": "ˈpuːdl̩",
+      "notes": "Plural: die Pudel."
+    },
+    "meaning": "poodle",
+    "shortDefinition": "Poodle."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Pudel, plural die Pudel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Pudel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Pudel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Pudel hat lockiges Fell.",
+      "english": "The poodle has curly fur.",
+      "highlight": [
+        "Pudel"
+      ]
+    },
+    {
+      "german": "Er stand da wie ein begossener Pudel.",
+      "english": "He stood there looking sheepish.",
+      "highlight": [
+        "Pudel."
+      ]
+    }
+  ],
+  "forms": [
+    "der Pudel",
+    "Pudels"
+  ],
+  "memoryHook": "Pudel: a dog that loves to pudeln (splash) in water.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Pudel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Pudel is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Pudel, zwei ___",
+      "answer": "Pudel",
+      "fullAnswer": "ein Pudel, zwei Pudel",
+      "explanation": "The plural is Pudel.",
+      "acceptedAnswers": [
+        "Pudel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Pudel mean?",
+      "options": [
+        "slowly",
+        "the family",
+        "poodle"
+      ],
+      "answer": "poodle",
+      "explanation": "Pudel: poodle.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wie ein begossener Pudel means…",
+      "options": [
+        "crestfallen, sheepish",
+        "wet and happy"
+      ],
+      "answer": "crestfallen, sheepish",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Des Pudels Kern (Goethe's Faust) means…",
+      "options": [
+        "the heart of the matter",
+        "a dog's food"
+      ],
+      "answer": "the heart of the matter",
+      "explanation": "Faust.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Pudelmütze is…",
+      "options": [
+        "bobble hat",
+        "a dog collar"
+      ],
+      "answer": "bobble hat",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Pudel is a poodle, originally a German water dog for hunting ducks; its name comes from pudeln, to splash. In Goethe's Faust, the devil Mephisto first appears as a black poodle, giving the idiom des Pudels Kern (the heart of the matter). Wie ein begossener Pudel means crestfallen. Die Pudelmütze is a bobble hat, and sich pudelwohl fühlen means to feel on top of the world. The plural is the same."
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "besiedeln",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-ZEE-deln",
+      "ipa": "bəˈziːdl̩n",
+      "notes": ""
+    },
+    "meaning": "to settle, colonise",
+    "shortDefinition": "To settle, colonise."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "besied|le"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "besiedel|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "besiedel|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "besiedel|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "besiedel|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "besiedel|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat besiedelt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Gebiet wurde im Mittelalter besiedelt.",
+      "english": "The area was settled in the Middle Ages.",
+      "highlight": [
+        "besiedelt."
+      ]
+    },
+    {
+      "german": "Die Region ist dünn besiedelt.",
+      "english": "The region is sparsely populated.",
+      "highlight": [
+        "besiedelt."
+      ]
+    }
+  ],
+  "forms": [
+    "besiedle",
+    "besiedelst",
+    "besiedelt",
+    "besiedeln",
+    "Besiedlung"
+  ],
+  "memoryHook": "Besiedeln: put Siedlungen (settlements) on land.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (besiedeln)",
+      "answer": "besiedelt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: besiedelt.",
+      "acceptedAnswers": [
+        "besiedelt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (besiedeln, past)",
+      "answer": "besiedelt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe besiedelt.",
+      "acceptedAnswers": [
+        "besiedelt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does besiedeln mean?",
+      "options": [
+        "quiet",
+        "to settle",
+        "slowly"
+      ],
+      "answer": "to settle",
+      "explanation": "besiedeln: to settle, colonise.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Dünn besiedelt means…",
+      "options": [
+        "sparsely populated",
+        "badly built"
+      ],
+      "answer": "sparsely populated",
+      "explanation": "Sparse.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Siedlung is…",
+      "options": [
+        "settlement; housing estate",
+        "a seal"
+      ],
+      "answer": "settlement; housing estate",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's most sparsely populated state is…",
+      "options": [
+        "Mecklenburg-Western Pomerania",
+        "Saarland"
+      ],
+      "answer": "Mecklenburg-Western Pomerania",
+      "explanation": "Sparse.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Besiedeln means to settle or colonise land: ein Gebiet besiedeln. Dicht besiedelt means densely populated, like the Ruhr, and dünn besiedelt sparsely populated, like Mecklenburg-Vorpommern or Brandenburg. Die Besiedlung is settlement. Die Siedlung is a settlement or housing estate. In the Middle Ages, German settlers moved east in the Ostsiedlung. Not separable: hat besiedelt."
+}

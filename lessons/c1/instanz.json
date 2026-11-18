@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Instanz",
+    "partOfSpeech": "noun, feminine (die Instanz)",
+    "pronunciation": {
+      "respelling": "in-STANTS",
+      "ipa": "ɪnˈstant͡s",
+      "notes": "Plural: die Instanzen."
+    },
+    "meaning": "authority; (court) instance",
+    "shortDefinition": "Authority; (court) instance."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Instanz, plural die Instanzen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Instanz"
+        },
+        {
+          "label": "More than one",
+          "value": "die Instanzen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Urteil der ersten Instanz wurde aufgehoben.",
+      "english": "The first-instance verdict was overturned.",
+      "highlight": [
+        "Instanz"
+      ]
+    },
+    {
+      "german": "Er ist in Modefragen eine Instanz.",
+      "english": "He's an authority on fashion.",
+      "highlight": [
+        "Instanz."
+      ]
+    }
+  ],
+  "forms": [
+    "Instanzen",
+    "die Instanzen",
+    "die Instanz"
+  ],
+  "memoryHook": "Instanz: a court level or an authority, never 'for instance'.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Instanz",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Instanz is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Instanz, zwei ___",
+      "answer": "Instanzen",
+      "fullAnswer": "ein Instanz, zwei Instanzen",
+      "explanation": "The plural is Instanzen.",
+      "acceptedAnswers": [
+        "Instanzen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Instanz mean?",
+      "options": [
+        "hot",
+        "authority",
+        "to buy"
+      ],
+      "answer": "authority",
+      "explanation": "Instanz: authority; (court) instance.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In erster Instanz means…",
+      "options": [
+        "at first instance (lowest court)",
+        "first of all"
+      ],
+      "answer": "at first instance (lowest court)",
+      "explanation": "Court level.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die letzte Instanz is…",
+      "options": [
+        "the final authority / court",
+        "the last example"
+      ],
+      "answer": "the final authority / court",
+      "explanation": "Final say.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In German, 'for instance' is…",
+      "options": [
+        "zum Beispiel",
+        "zur Instanz"
+      ],
+      "answer": "zum Beispiel",
+      "explanation": "False friend.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Instanz is a court level: in erster Instanz (at first instance), durch alle Instanzen gehen (to go through every court). It also means an authority: eine moralische Instanz, Sie ist eine Instanz in ihrem Fach. In computing, it's an instance of a program. False friend: for instance is zum Beispiel. The highest Instanz in German civil and criminal law is the Bundesgerichtshof in Karlsruhe."
+}

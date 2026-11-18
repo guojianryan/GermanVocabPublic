@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "kapitalistisch",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "ka-pi-ta-LIS-tish",
+      "ipa": "kapitaˈlɪstɪʃ",
+      "notes": ""
+    },
+    "meaning": "capitalist",
+    "shortDefinition": "Capitalist."
+  },
+  "sampleSentences": [
+    {
+      "german": "Er kritisiert das kapitalistische System.",
+      "english": "He criticises the capitalist system.",
+      "highlight": [
+        "kapitalistische"
+      ]
+    },
+    {
+      "german": "Die BRD war kapitalistisch, die DDR sozialistisch.",
+      "english": "West Germany was capitalist, East Germany socialist.",
+      "highlight": [
+        "kapitalistisch,"
+      ]
+    }
+  ],
+  "forms": [
+    "kapitalistische",
+    "kapitalistischen",
+    "Kapitalismus",
+    "Kapitalist"
+  ],
+  "memoryHook": "Kapitalistisch: based on Kapital.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does kapitalistisch mean?",
+      "options": [
+        "capitalist",
+        "the evening",
+        "to travel"
+      ],
+      "answer": "capitalist",
+      "explanation": "kapitalistisch: capitalist.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kapitalismus is…",
+      "options": [
+        "capitalism",
+        "a capital city"
+      ],
+      "answer": "capitalism",
+      "explanation": "Noun.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Kapital (Marx) was written in…",
+      "options": [
+        "German",
+        "English"
+      ],
+      "answer": "German",
+      "explanation": "Marx.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kapitalist is…",
+      "options": [
+        "capitalist (person)",
+        "a capital"
+      ],
+      "answer": "capitalist (person)",
+      "explanation": "Person.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Wirtschaft (capitalist)",
+      "answer": "kapitalistische",
+      "fullAnswer": "eine kapitalistische Wirtschaft",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Kapitalistisch means capitalist: das kapitalistische System, kapitalistische Länder. Der Kapitalismus is capitalism and der Kapitalist a capitalist. Karl Marx, from Trier, wrote Das Kapital (1867) in German. West Germany called its model soziale Marktwirtschaft rather than Kapitalismus, and in the GDR, kapitalistisch was a standard insult for the West."
+}

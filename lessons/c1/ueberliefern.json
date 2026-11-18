@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "überliefern",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ü-ber-LEE-fern",
+      "ipa": "yːbɐˈliːfɐn",
+      "notes": ""
+    },
+    "meaning": "to hand down, pass on (tradition)",
+    "shortDefinition": "To hand down, pass on (tradition)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "überliefere"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "überliefer|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "überliefer|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "überliefer|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "überliefer|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "überliefer|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat überliefert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Geschichte wurde mündlich überliefert.",
+      "english": "The story was passed down orally.",
+      "highlight": [
+        "überliefert."
+      ]
+    },
+    {
+      "german": "Diese Bräuche sind seit dem Mittelalter überliefert.",
+      "english": "These customs have been handed down since the Middle Ages.",
+      "highlight": [
+        "überliefert."
+      ]
+    }
+  ],
+  "forms": [
+    "überliefere",
+    "überlieferst",
+    "überliefert",
+    "überliefern",
+    "Überlieferung"
+  ],
+  "memoryHook": "Überliefern: deliver (liefern) over (über) the generations.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (überliefern)",
+      "answer": "überliefert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: überliefert.",
+      "acceptedAnswers": [
+        "ueberliefert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (überliefern, past)",
+      "answer": "überliefert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe überliefert.",
+      "acceptedAnswers": [
+        "ueberliefert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does überliefern mean?",
+      "options": [
+        "to hand down",
+        "the job",
+        "tomorrow"
+      ],
+      "answer": "to hand down",
+      "explanation": "überliefern: to hand down, pass on (tradition).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Überlieferung is…",
+      "options": [
+        "tradition, record handed down",
+        "delivery"
+      ],
+      "answer": "tradition, record handed down",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Überliefern is…",
+      "options": [
+        "not separable",
+        "separable"
+      ],
+      "answer": "not separable",
+      "explanation": "hat überliefert.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Grimm brothers collected…",
+      "options": [
+        "orally handed-down tales",
+        "laws"
+      ],
+      "answer": "orally handed-down tales",
+      "explanation": "Märchen.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Überliefern means to hand down or pass on, through generations: mündlich überliefert (passed down orally), schriftlich überliefert. Die Überlieferung is a tradition or historical record: laut Überlieferung (according to tradition). The Brothers Grimm collected überlieferte Märchen from storytellers in the 1810s. Not separable, stressed on lie: hat überliefert, unlike ausliefern (to deliver, extradite)."
+}

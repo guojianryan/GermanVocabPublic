@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verwickeln",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-VIK-eln",
+      "ipa": "fɛɐ̯ˈvɪkl̩n",
+      "notes": ""
+    },
+    "meaning": "to involve, entangle",
+    "shortDefinition": "To involve, entangle."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verwick|le"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verwickel|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verwickel|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verwickel|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verwickel|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verwickel|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verwickelt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er war in einen Skandal verwickelt.",
+      "english": "He was involved in a scandal.",
+      "highlight": [
+        "verwickelt."
+      ]
+    },
+    {
+      "german": "Sie verwickelte mich in ein langes Gespräch.",
+      "english": "She drew me into a long conversation.",
+      "highlight": [
+        "verwickelte"
+      ]
+    }
+  ],
+  "forms": [
+    "verwickle",
+    "verwickelst",
+    "verwickelt",
+    "verwickeln",
+    "Verwicklung"
+  ],
+  "memoryHook": "Verwickeln: wind (wickeln) someone into something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verwickeln)",
+      "answer": "verwickelt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verwickelt.",
+      "acceptedAnswers": [
+        "verwickelt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verwickeln, past)",
+      "answer": "verwickelt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verwickelt.",
+      "acceptedAnswers": [
+        "verwickelt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verwickeln mean?",
+      "options": [
+        "to involve",
+        "the shop",
+        "hot"
+      ],
+      "answer": "to involve",
+      "explanation": "verwickeln: to involve, entangle.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In etwas verwickelt sein means…",
+      "options": [
+        "to be mixed up in something",
+        "to be wrapped as a present"
+      ],
+      "answer": "to be mixed up in something",
+      "explanation": "Involved.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verwickelt (adjective) also means…",
+      "options": [
+        "complicated",
+        "rolled"
+      ],
+      "answer": "complicated",
+      "explanation": "Complicated.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Verwicklung is…",
+      "options": [
+        "entanglement, complication",
+        "a bandage"
+      ],
+      "answer": "entanglement, complication",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verwickeln means to involve or entangle, usually in something unpleasant: in einen Unfall verwickelt, in einen Streit verwickelt, in einen Skandal verwickelt. Jemanden in ein Gespräch verwickeln means to draw someone into a conversation. Verwickelt as an adjective means complicated: eine verwickelte Geschichte. From wickeln (to wind, wrap, also to change a nappy). Note the ich-form: ich verwickle."
+}

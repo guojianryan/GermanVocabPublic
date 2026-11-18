@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Evangelium",
+    "partOfSpeech": "noun, neuter (das Evangelium)",
+    "pronunciation": {
+      "respelling": "e-van-GAY-li-um",
+      "ipa": "evaŋˈɡeːli̯ʊm",
+      "notes": "Plural: die Evangelien."
+    },
+    "meaning": "gospel",
+    "shortDefinition": "Gospel."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Evangelium, plural die Evangelien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Evangelium"
+        },
+        {
+          "label": "More than one",
+          "value": "die Evangelien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Pfarrer liest aus dem Evangelium.",
+      "english": "The priest reads from the gospel.",
+      "highlight": [
+        "Evangelium."
+      ]
+    },
+    {
+      "german": "Für ihn ist das Buch das reinste Evangelium.",
+      "english": "For him the book is gospel truth.",
+      "highlight": [
+        "Evangelium."
+      ]
+    }
+  ],
+  "forms": [
+    "Evangelien",
+    "die Evangelien",
+    "das Evangelium",
+    "evangelisch"
+  ],
+  "memoryHook": "Evangelium: the good news (Greek euangelion).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Evangelium",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Evangelium is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Evangelium, zwei ___",
+      "answer": "Evangelien",
+      "fullAnswer": "ein Evangelium, zwei Evangelien",
+      "explanation": "The plural is Evangelien.",
+      "acceptedAnswers": [
+        "Evangelien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Evangelium mean?",
+      "options": [
+        "the car",
+        "the weather",
+        "gospel"
+      ],
+      "answer": "gospel",
+      "explanation": "Evangelium: gospel.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Evangelisch in Germany means…",
+      "options": [
+        "Protestant",
+        "evangelical (US-style)"
+      ],
+      "answer": "Protestant",
+      "explanation": "Protestant.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The four gospels are by…",
+      "options": [
+        "Matthew, Mark, Luke, John",
+        "Peter, Paul, Mary, James"
+      ],
+      "answer": "Matthew, Mark, Luke, John",
+      "explanation": "Gospels.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Evangelien",
+        "die Evangeliums"
+      ],
+      "answer": "die Evangelien",
+      "explanation": "Latin.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Evangelium is the gospel: die vier Evangelien (Matthäus, Markus, Lukas, Johannes). Figuratively, etwas für das Evangelium halten means to take it as gospel. Note: evangelisch in Germany simply means Protestant (die Evangelische Kirche in Deutschland, EKD), not evangelical in the American sense, which is evangelikal. Luther's Bible translation began with the New Testament in 1522. Plural: die Evangelien."
+}

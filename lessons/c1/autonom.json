@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "autonom",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "au-to-NOHM",
+      "ipa": "aʊ̯toˈnoːm",
+      "notes": ""
+    },
+    "meaning": "autonomous",
+    "shortDefinition": "Autonomous."
+  },
+  "sampleSentences": [
+    {
+      "german": "Autonomes Fahren wird getestet.",
+      "english": "Autonomous driving is being tested.",
+      "highlight": [
+        "Autonomes"
+      ]
+    },
+    {
+      "german": "Südtirol ist eine autonome Provinz.",
+      "english": "South Tyrol is an autonomous province.",
+      "highlight": [
+        "autonome"
+      ]
+    }
+  ],
+  "forms": [
+    "autonome",
+    "autonomen",
+    "autonomes",
+    "Autonomie"
+  ],
+  "memoryHook": "Autonom: making its own (auto) laws (nomos).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does autonom mean?",
+      "options": [
+        "the car",
+        "the weather",
+        "autonomous"
+      ],
+      "answer": "autonomous",
+      "explanation": "autonom: autonomous.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Autonomie is…",
+      "options": [
+        "autonomy",
+        "a car show"
+      ],
+      "answer": "autonomy",
+      "explanation": "Noun.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Autonomen in Germany were…",
+      "options": [
+        "a radical left-wing scene",
+        "self-driving cars"
+      ],
+      "answer": "a radical left-wing scene",
+      "explanation": "Politics.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "South Tyrol (Südtirol), largely German-speaking, belongs to…",
+      "options": [
+        "Italy",
+        "Austria"
+      ],
+      "answer": "Italy",
+      "explanation": "Italy.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ Fahrzeuge (autonomous)",
+      "answer": "autonome",
+      "fullAnswer": "autonome Fahrzeuge",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Autonom means autonomous: autonomes Fahren (self-driving), eine autonome Region. Die Autonomie is autonomy. Südtirol (South Tyrol), a largely German-speaking region, is an autonomous province of Italy. In German politics, die Autonomen are a radical left-wing scene, known for squats and black-bloc protests since the 1980s. From Greek autos (self) and nomos (law). Stressed on the last syllable."
+}

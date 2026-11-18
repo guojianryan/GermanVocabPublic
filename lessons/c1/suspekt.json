@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "suspekt",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "zus-PEKT",
+      "ipa": "zʊsˈpɛkt",
+      "notes": ""
+    },
+    "meaning": "suspicious, dubious",
+    "shortDefinition": "Suspicious, dubious."
+  },
+  "sampleSentences": [
+    {
+      "german": "Das Angebot ist mir suspekt.",
+      "english": "The offer seems dubious to me.",
+      "highlight": [
+        "suspekt."
+      ]
+    },
+    {
+      "german": "Er fand die ganze Sache suspekt.",
+      "english": "He found the whole thing suspicious.",
+      "highlight": [
+        "suspekt."
+      ]
+    }
+  ],
+  "forms": [
+    "suspekte",
+    "suspekten"
+  ],
+  "memoryHook": "Suspekt: looked at from below (suspicere) with doubt.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does suspekt mean?",
+      "options": [
+        "the bread",
+        "to travel",
+        "suspicious"
+      ],
+      "answer": "suspicious",
+      "explanation": "suspekt: suspicious, dubious.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandem suspekt sein means…",
+      "options": [
+        "to seem suspicious to someone",
+        "to suspect someone"
+      ],
+      "answer": "to seem suspicious to someone",
+      "explanation": "Usage.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "verdächtig, zweifelhaft, dubios",
+        "vertrauenswürdig"
+      ],
+      "answer": "verdächtig, zweifelhaft, dubios",
+      "explanation": "Synonym.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "A suspect (person) is…",
+      "options": [
+        "der Verdächtige",
+        "der Suspekt"
+      ],
+      "answer": "der Verdächtige",
+      "explanation": "Contrast.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Das kommt mir ___ vor. (suspicious)",
+      "answer": "suspekt",
+      "fullAnswer": "Das kommt mir suspekt vor.",
+      "explanation": "suspekt.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Suspekt means suspicious or dubious, describing things that arouse distrust, mostly with sein and the dative: Das ist mir suspekt. Synonyms: verdächtig, zweifelhaft, dubios, nicht ganz koscher (colloquial). A suspect in a crime is der Verdächtige or der Tatverdächtige, not der Suspekt. From Latin suspicere (to look at with suspicion)."
+}

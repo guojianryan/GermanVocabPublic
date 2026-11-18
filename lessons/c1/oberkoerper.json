@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Oberkörper",
+    "partOfSpeech": "noun, masculine (der Oberkörper)",
+    "pronunciation": {
+      "respelling": "OH-ber-kör-per",
+      "ipa": "ˈoːbɐˌkœʁpɐ",
+      "notes": "Plural: die Oberkörper."
+    },
+    "meaning": "upper body, torso",
+    "shortDefinition": "Upper body, torso."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Oberkörper, plural die Oberkörper.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Oberkörper"
+        },
+        {
+          "label": "More than one",
+          "value": "die Oberkörper"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Machen Sie bitte den Oberkörper frei.",
+      "english": "Please remove your top.",
+      "highlight": [
+        "Oberkörper"
+      ]
+    },
+    {
+      "german": "Er trainiert vor allem den Oberkörper.",
+      "english": "He mainly trains his upper body.",
+      "highlight": [
+        "Oberkörper."
+      ]
+    }
+  ],
+  "forms": [
+    "die Oberkörper",
+    "der Oberkörper"
+  ],
+  "memoryHook": "Oberkörper: the upper (ober) part of the Körper (body).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Oberkörper",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Oberkörper is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Oberkörper, zwei ___",
+      "answer": "Oberkörper",
+      "fullAnswer": "ein Oberkörper, zwei Oberkörper",
+      "explanation": "The plural is Oberkörper.",
+      "acceptedAnswers": [
+        "Oberkoerper"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Oberkörper mean?",
+      "options": [
+        "the shop",
+        "slowly",
+        "upper body"
+      ],
+      "answer": "upper body",
+      "explanation": "Oberkörper: upper body, torso.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Oberkörper frei machen (at the doctor's) means…",
+      "options": [
+        "to undress to the waist",
+        "to stretch"
+      ],
+      "answer": "to undress to the waist",
+      "explanation": "Doctor.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Unterkörper is…",
+      "options": [
+        "lower body",
+        "underwear"
+      ],
+      "answer": "lower body",
+      "explanation": "Opposite.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mit nacktem Oberkörper means…",
+      "options": [
+        "shirtless",
+        "with a bare face"
+      ],
+      "answer": "shirtless",
+      "explanation": "Shirtless.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Oberkörper is the upper body or torso: mit nacktem Oberkörper (shirtless), Oberkörpertraining. At the doctor's, Machen Sie bitte den Oberkörper frei means please undress to the waist. Der Unterkörper is the lower body. Der Körper means body: die Körpersprache (body language), die Körperverletzung (bodily harm, a criminal offence). Plural: die Oberkörper."
+}

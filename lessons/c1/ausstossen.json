@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ausstoßen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AUS-shtoh-sen",
+      "ipa": "ˈaʊ̯sˌʃtoːsn̩",
+      "notes": ""
+    },
+    "meaning": "to emit; to expel; to utter",
+    "shortDefinition": "To emit; to expel; to utter."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "stoß|e … |aus"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "stöß|t … |aus"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "stöß|t … |aus"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "stoß|en … |aus"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "stoß|t … |aus"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "stoß|en … |aus"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat ausgestoßen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Autos stoßen viel CO₂ aus.",
+      "english": "Cars emit a lot of CO₂.",
+      "highlight": [
+        "stoßen",
+        "aus."
+      ]
+    },
+    {
+      "german": "Sie stieß einen Schrei aus.",
+      "english": "She let out a scream.",
+      "highlight": [
+        "stieß",
+        "aus."
+      ]
+    }
+  ],
+  "forms": [
+    "stoße aus",
+    "stößt aus",
+    "stoßen aus",
+    "stoßt aus",
+    "ausgestoßen",
+    "stieß aus",
+    "Ausstoß"
+  ],
+  "memoryHook": "Ausstoßen: push (stoßen) out (aus).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … aus (ausstoßen)",
+      "answer": "stößt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: stößt … aus.",
+      "acceptedAnswers": [
+        "stoesst"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (ausstoßen, past)",
+      "answer": "ausgestoßen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe ausgestoßen.",
+      "acceptedAnswers": [
+        "ausgestossen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does ausstoßen mean?",
+      "options": [
+        "to emit",
+        "the weather",
+        "cheap"
+      ],
+      "answer": "to emit",
+      "explanation": "ausstoßen: to emit; to expel; to utter.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ausstoß is…",
+      "options": [
+        "emissions; output",
+        "a kick-off"
+      ],
+      "answer": "emissions; output",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einen Seufzer ausstoßen means…",
+      "options": [
+        "to heave a sigh",
+        "to suppress a sigh"
+      ],
+      "answer": "to heave a sigh",
+      "explanation": "Utter.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ausgestoßene is…",
+      "options": [
+        "an outcast",
+        "an exhaust pipe"
+      ],
+      "answer": "an outcast",
+      "explanation": "Outcast.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Ausstoßen means to emit (CO₂, Abgase ausstoßen), to utter a sound (einen Schrei, einen Fluch ausstoßen), and to expel someone from a group: aus der Partei ausgestoßen. Der Ausstoß is emissions or output: der CO₂-Ausstoß, der Schadstoffausstoß. Der/die Ausgestoßene is an outcast. Separable and irregular: stieß aus, ausgestoßen."
+}

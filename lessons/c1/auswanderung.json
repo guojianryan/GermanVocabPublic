@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Auswanderung",
+    "partOfSpeech": "noun, feminine (die Auswanderung)",
+    "pronunciation": {
+      "respelling": "AUS-van-de-rung",
+      "ipa": "ˈaʊ̯sˌvandəʁʊŋ",
+      "notes": "Plural: die Auswanderungen."
+    },
+    "meaning": "emigration",
+    "shortDefinition": "Emigration."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Auswanderung, plural die Auswanderungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Auswanderung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Auswanderungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im 19. Jahrhundert gab es eine große Auswanderung nach Amerika.",
+      "english": "In the 19th century there was mass emigration to America.",
+      "highlight": [
+        "Auswanderung"
+      ]
+    },
+    {
+      "german": "Die Auswanderung von Fachkräften ist ein Problem.",
+      "english": "The emigration of skilled workers is a problem.",
+      "highlight": [
+        "Auswanderung"
+      ]
+    }
+  ],
+  "forms": [
+    "Auswanderungen",
+    "die Auswanderung",
+    "auswandern",
+    "Auswanderer"
+  ],
+  "memoryHook": "Auswanderung: wandering (wandern) out (aus) of a country.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Auswanderung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Auswanderung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Auswanderung, zwei ___",
+      "answer": "Auswanderungen",
+      "fullAnswer": "ein Auswanderung, zwei Auswanderungen",
+      "explanation": "The plural is Auswanderungen.",
+      "acceptedAnswers": [
+        "Auswanderungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Auswanderung mean?",
+      "options": [
+        "always",
+        "emigration",
+        "the station"
+      ],
+      "answer": "emigration",
+      "explanation": "Auswanderung: emigration.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Auswandern means…",
+      "options": [
+        "to emigrate",
+        "to hike out"
+      ],
+      "answer": "to emigrate",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Einwanderung is…",
+      "options": [
+        "immigration",
+        "emigration"
+      ],
+      "answer": "immigration",
+      "explanation": "Opposite.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bremerhaven has a museum about…",
+      "options": [
+        "emigration (Deutsches Auswandererhaus)",
+        "fishing only"
+      ],
+      "answer": "emigration (Deutsches Auswandererhaus)",
+      "explanation": "Museum.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Auswanderung is emigration: die Auswanderung nach Amerika. In the 19th century, over five million Germans emigrated to the USA, many via Bremerhaven and Hamburg; the Deutsches Auswandererhaus in Bremerhaven tells their stories. Today about 40 million Americans claim German ancestry. Auswandern means to emigrate, and der Auswanderer is an emigrant; TV shows like Goodbye Deutschland follow them. Plural: die Auswanderungen."
+}

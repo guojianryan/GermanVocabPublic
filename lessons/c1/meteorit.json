@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Meteorit",
+    "partOfSpeech": "noun, masculine (der Meteorit)",
+    "pronunciation": {
+      "respelling": "me-te-o-REET",
+      "ipa": "meteoˈʁiːt",
+      "notes": "Plural: die Meteoriten."
+    },
+    "meaning": "meteorite",
+    "shortDefinition": "Meteorite."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Meteorit, plural die Meteoriten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Meteorit"
+        },
+        {
+          "label": "More than one",
+          "value": "die Meteoriten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Museum ist ein Meteorit aus Bayern ausgestellt.",
+      "english": "A meteorite from Bavaria is on display in the museum.",
+      "highlight": [
+        "Meteorit"
+      ]
+    },
+    {
+      "german": "Das Nördlinger Ries entstand durch einen Meteoriteneinschlag.",
+      "english": "The Nördlinger Ries was formed by a meteorite impact.",
+      "highlight": [
+        "Meteoriteneinschlag."
+      ]
+    }
+  ],
+  "forms": [
+    "Meteoriten",
+    "der Meteorit"
+  ],
+  "memoryHook": "Meteorit: a Meteor that reaches the ground.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Meteorit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Meteorit is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Meteorit, zwei ___",
+      "answer": "Meteoriten",
+      "fullAnswer": "ein Meteorit, zwei Meteoriten",
+      "explanation": "The plural is Meteoriten.",
+      "acceptedAnswers": [
+        "Meteoriten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Meteorit mean?",
+      "options": [
+        "the car",
+        "meteorite",
+        "the child"
+      ],
+      "answer": "meteorite",
+      "explanation": "Meteorit: meteorite.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Meteor is…",
+      "options": [
+        "a shooting star (in the air)",
+        "a meteorite on the ground"
+      ],
+      "answer": "a shooting star (in the air)",
+      "explanation": "Contrast.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Nördlinger Ries is…",
+      "options": [
+        "an impact crater about 15 million years old",
+        "a volcano"
+      ],
+      "answer": "an impact crater about 15 million years old",
+      "explanation": "Crater.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Meteorit is a weak noun?",
+      "options": [
+        "yes: den Meteoriten",
+        "no: den Meteorit"
+      ],
+      "answer": "yes: den Meteoriten",
+      "explanation": "Declension.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Meteorit is a meteorite, a rock from space that reaches the ground; der Meteor is the streak of light in the sky, also die Sternschnuppe (shooting star). In 2002 the Neuschwanstein meteorite fell near the famous castle in Bavaria. The Nördlinger Ries, about 15 million years old, is one of Europe's best-preserved impact craters. It's declined weakly: den Meteoriten. Plural: die Meteoriten."
+}

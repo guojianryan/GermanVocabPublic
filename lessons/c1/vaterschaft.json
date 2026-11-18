@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vaterschaft",
+    "partOfSpeech": "noun, feminine (die Vaterschaft)",
+    "pronunciation": {
+      "respelling": "FAA-ter-shaft",
+      "ipa": "ˈfaːtɐʃaft",
+      "notes": "Plural: die Vaterschaften."
+    },
+    "meaning": "paternity, fatherhood",
+    "shortDefinition": "Paternity, fatherhood."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Vaterschaft, plural die Vaterschaften.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Vaterschaft"
+        },
+        {
+          "label": "More than one",
+          "value": "die Vaterschaften"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hat die Vaterschaft anerkannt.",
+      "english": "He acknowledged paternity.",
+      "highlight": [
+        "Vaterschaft"
+      ]
+    },
+    {
+      "german": "Ein Test soll die Vaterschaft klären.",
+      "english": "A test is to establish paternity.",
+      "highlight": [
+        "Vaterschaft"
+      ]
+    }
+  ],
+  "forms": [
+    "Vaterschaften",
+    "die Vaterschaft"
+  ],
+  "memoryHook": "Vaterschaft: the state of being a Vater.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vaterschaft",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Vaterschaft is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Vaterschaft, zwei ___",
+      "answer": "Vaterschaften",
+      "fullAnswer": "ein Vaterschaft, zwei Vaterschaften",
+      "explanation": "The plural is Vaterschaften.",
+      "acceptedAnswers": [
+        "Vaterschaften"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vaterschaft mean?",
+      "options": [
+        "paternity",
+        "the station",
+        "the car"
+      ],
+      "answer": "paternity",
+      "explanation": "Vaterschaft: paternity, fatherhood.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Vaterschaftstest is…",
+      "options": [
+        "paternity test",
+        "a father's exam"
+      ],
+      "answer": "paternity test",
+      "explanation": "Test.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A secret paternity test in Germany is…",
+      "options": [
+        "illegal without consent",
+        "allowed"
+      ],
+      "answer": "illegal without consent",
+      "explanation": "Law.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Mutterschaft is…",
+      "options": [
+        "motherhood, maternity",
+        "a mother's shop"
+      ],
+      "answer": "motherhood, maternity",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Vaterschaft is paternity or fatherhood: die Vaterschaft anerkennen (acknowledge paternity, for unmarried fathers at the Jugendamt), die Vaterschaft anfechten (contest it). Since 2010, secret paternity tests without the consent of mother and child are banned under the Gendiagnostikgesetz. Fathers can take Elternzeit too. Die Mutterschaft is motherhood. Plural: die Vaterschaften."
+}

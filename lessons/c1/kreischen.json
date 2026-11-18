@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "kreischen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "KRAI-shen",
+      "ipa": "ˈkʁaɪ̯ʃn̩",
+      "notes": ""
+    },
+    "meaning": "to shriek, screech",
+    "shortDefinition": "To shriek, screech."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "kreisch|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "kreisch|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "kreisch|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "kreisch|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "kreisch|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "kreisch|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gekreischt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Fans kreischten, als die Band kam.",
+      "english": "The fans shrieked when the band arrived.",
+      "highlight": [
+        "kreischten,"
+      ]
+    },
+    {
+      "german": "Die Bremsen kreischten.",
+      "english": "The brakes screeched.",
+      "highlight": [
+        "kreischten."
+      ]
+    }
+  ],
+  "forms": [
+    "kreische",
+    "kreischst",
+    "kreischt",
+    "kreischen",
+    "gekreischt",
+    "kreischte"
+  ],
+  "memoryHook": "Kreischen: the shrill sound of a gull.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (kreischen)",
+      "answer": "kreischt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: kreischt.",
+      "acceptedAnswers": [
+        "kreischt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (kreischen, past)",
+      "answer": "gekreischt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gekreischt.",
+      "acceptedAnswers": [
+        "gekreischt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does kreischen mean?",
+      "options": [
+        "the evening",
+        "to open",
+        "to shriek"
+      ],
+      "answer": "to shriek",
+      "explanation": "kreischen: to shriek, screech.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kreischen vs. schreien:",
+      "options": [
+        "shrill shrieking vs. shouting in general",
+        "the same"
+      ],
+      "answer": "shrill shrieking vs. shouting in general",
+      "explanation": "Nuance.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms (standard):",
+      "options": [
+        "kreischte, gekreischt",
+        "krisch, gekrischen only"
+      ],
+      "answer": "kreischte, gekreischt",
+      "explanation": "Regular.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Things that can kreischen:",
+      "options": [
+        "Möwen, Bremsen, Kinder",
+        "Bäume"
+      ],
+      "answer": "Möwen, Bremsen, Kinder",
+      "explanation": "Subjects.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Kreischen means to shriek or screech, a high, shrill sound: kreischende Kinder, kreischende Möwen (gulls), kreischende Bremsen, Fans who kreischen at concerts. Schreien is to shout or scream in general. The standard forms are regular: kreischte, gekreischt; old strong forms like krisch survive only in dialect. Das Gekreische is shrieking."
+}

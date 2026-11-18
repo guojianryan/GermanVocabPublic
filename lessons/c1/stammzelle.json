@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Stammzelle",
+    "partOfSpeech": "noun, feminine (die Stammzelle)",
+    "pronunciation": {
+      "respelling": "SHTAM-tse-le",
+      "ipa": "ˈʃtamˌt͡sɛlə",
+      "notes": "Plural: die Stammzellen."
+    },
+    "meaning": "stem cell",
+    "shortDefinition": "Stem cell."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Stammzelle, plural die Stammzellen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Stammzelle"
+        },
+        {
+          "label": "More than one",
+          "value": "die Stammzellen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Stammzellen können sich in verschiedene Zelltypen entwickeln.",
+      "english": "Stem cells can develop into different cell types.",
+      "highlight": [
+        "Stammzellen"
+      ]
+    },
+    {
+      "german": "Er hat sich als Stammzellspender registrieren lassen.",
+      "english": "He registered as a stem cell donor.",
+      "highlight": [
+        "Stammzellspender"
+      ]
+    }
+  ],
+  "forms": [
+    "Stammzellen",
+    "die Stammzelle"
+  ],
+  "memoryHook": "Stammzelle: the Zelle at the Stamm (stem) of all others.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Stammzelle",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Stammzelle is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Stammzelle, zwei ___",
+      "answer": "Stammzellen",
+      "fullAnswer": "ein Stammzelle, zwei Stammzellen",
+      "explanation": "The plural is Stammzellen.",
+      "acceptedAnswers": [
+        "Stammzellen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Stammzelle mean?",
+      "options": [
+        "the job",
+        "the weather",
+        "stem cell"
+      ],
+      "answer": "stem cell",
+      "explanation": "Stammzelle: stem cell.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The DKMS is…",
+      "options": [
+        "a stem cell donor registry",
+        "a hospital"
+      ],
+      "answer": "a stem cell donor registry",
+      "explanation": "DKMS.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Embryonic stem cell research in Germany is…",
+      "options": [
+        "strictly regulated by law",
+        "unrestricted"
+      ],
+      "answer": "strictly regulated by law",
+      "explanation": "Law.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Stamm is…",
+      "options": [
+        "trunk, stem; tribe",
+        "stamp"
+      ],
+      "answer": "trunk, stem; tribe",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Stammzelle is a stem cell, able to develop into different cell types. Germany's Stammzellgesetz (2002) strictly limits research with human embryonic stem cells. The German registry DKMS, founded in 1991, is one of the world's largest for stem cell donors, who help patients with blood cancer; registering takes a cheek swab. Plural: die Stammzellen."
+}

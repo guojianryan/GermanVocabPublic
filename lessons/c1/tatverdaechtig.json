@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "tatverdächtig",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "TAAT-fer-dekh-tikh",
+      "ipa": "ˈtaːtfɛɐ̯ˌdɛçtɪç",
+      "notes": ""
+    },
+    "meaning": "suspected (of a crime)",
+    "shortDefinition": "Suspected (of a crime)."
+  },
+  "sampleSentences": [
+    {
+      "german": "Ein tatverdächtiger Mann wurde festgenommen.",
+      "english": "A suspected man was arrested.",
+      "highlight": [
+        "tatverdächtiger"
+      ]
+    },
+    {
+      "german": "Die Tatverdächtige schweigt bisher.",
+      "english": "The suspect has remained silent so far.",
+      "highlight": [
+        "Tatverdächtige"
+      ]
+    }
+  ],
+  "forms": [
+    "tatverdächtige",
+    "tatverdächtigen",
+    "tatverdächtiger",
+    "Tatverdächtige"
+  ],
+  "memoryHook": "Tatverdächtig: under Verdacht (suspicion) of the Tat (deed).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does tatverdächtig mean?",
+      "options": [
+        "quiet",
+        "the evening",
+        "suspected (of a crime)"
+      ],
+      "answer": "suspected (of a crime)",
+      "explanation": "tatverdächtig: suspected (of a crime).",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Tatverdächtige is…",
+      "options": [
+        "the suspect",
+        "the victim"
+      ],
+      "answer": "the suspect",
+      "explanation": "Noun.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Tat is…",
+      "options": [
+        "act, deed; crime",
+        "a tattoo"
+      ],
+      "answer": "act, deed; crime",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Verdacht is…",
+      "options": [
+        "suspicion",
+        "contempt"
+      ],
+      "answer": "suspicion",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein ___ Jugendlicher (suspected)",
+      "answer": "tatverdächtiger",
+      "fullAnswer": "ein tatverdächtiger Jugendlicher",
+      "explanation": "Masculine -er.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Tatverdächtig means suspected of a crime, mostly used in police and news language. Der/die Tatverdächtige (declined like an adjective) is the suspect. German media usually give only the first name and initial of suspects, like Ahmed K. or Thomas M., because of privacy rules in the press code. Die Tat is the deed, and der Tatort is the crime scene, as in the famous Sunday crime series."
+}

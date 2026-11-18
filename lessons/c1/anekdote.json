@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Anekdote",
+    "partOfSpeech": "noun, feminine (die Anekdote)",
+    "pronunciation": {
+      "respelling": "a-nek-DOH-te",
+      "ipa": "anɛkˈdoːtə",
+      "notes": "Plural: die Anekdoten."
+    },
+    "meaning": "anecdote",
+    "shortDefinition": "Anecdote."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Anekdote, plural die Anekdoten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Anekdote"
+        },
+        {
+          "label": "More than one",
+          "value": "die Anekdoten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er erzählte eine lustige Anekdote aus seiner Jugend.",
+      "english": "He told a funny anecdote from his youth.",
+      "highlight": [
+        "Anekdote"
+      ]
+    },
+    {
+      "german": "Das Buch ist voller Anekdoten über berühmte Leute.",
+      "english": "The book is full of anecdotes about famous people.",
+      "highlight": [
+        "Anekdoten"
+      ]
+    }
+  ],
+  "forms": [
+    "Anekdoten",
+    "die Anekdoten",
+    "die Anekdote"
+  ],
+  "memoryHook": "Anekdote: a short, unpublished (Greek anekdotos) story.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Anekdote",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Anekdote is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Anekdote, zwei ___",
+      "answer": "Anekdoten",
+      "fullAnswer": "ein Anekdote, zwei Anekdoten",
+      "explanation": "The plural is Anekdoten.",
+      "acceptedAnswers": [
+        "Anekdoten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Anekdote mean?",
+      "options": [
+        "the weather",
+        "hot",
+        "anecdote"
+      ],
+      "answer": "anecdote",
+      "explanation": "Anekdote: anecdote.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Anekdotisch means…",
+      "options": [
+        "anecdotal",
+        "antidote"
+      ],
+      "answer": "anecdotal",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gegengift is…",
+      "options": [
+        "antidote",
+        "anecdote"
+      ],
+      "answer": "antidote",
+      "explanation": "Antidote.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Johann Peter Hebel is known for…",
+      "options": [
+        "short German anecdotes and calendar stories",
+        "symphonies"
+      ],
+      "answer": "short German anecdotes and calendar stories",
+      "explanation": "Hebel.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Anekdote is an anecdote: eine Anekdote erzählen. Anekdotisch means anecdotal: anekdotische Evidenz. In German literature, Johann Peter Hebel and Heinrich von Kleist wrote short, pointed Anekdoten and Kalendergeschichten (calendar stories), still read in schools. Anecdotes about Frederick the Great (der Alte Fritz) are a genre of their own. From Greek anekdotos (unpublished). Plural: die Anekdoten."
+}

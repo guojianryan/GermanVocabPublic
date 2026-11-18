@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Urenkel",
+    "partOfSpeech": "noun, masculine (der Urenkel)",
+    "pronunciation": {
+      "respelling": "OOR-eng-kel",
+      "ipa": "ˈuːɐ̯ʔɛŋkl̩",
+      "notes": "Plural: die Urenkel."
+    },
+    "meaning": "great-grandson, great-grandchild",
+    "shortDefinition": "Great-grandson, great-grandchild."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Urenkel, plural die Urenkel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Urenkel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Urenkel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Mit 90 Jahren hat sie schon drei Urenkel.",
+      "english": "At 90 she already has three great-grandchildren.",
+      "highlight": [
+        "Urenkel."
+      ]
+    },
+    {
+      "german": "Ihr Urenkel kam letzte Woche zur Welt.",
+      "english": "Her great-grandson was born last week.",
+      "highlight": [
+        "Urenkel"
+      ]
+    }
+  ],
+  "forms": [
+    "Urenkelin",
+    "der Urenkel"
+  ],
+  "memoryHook": "Urenkel: Ur- (one more generation) + Enkel (grandchild).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Urenkel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Urenkel is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Urenkel, zwei ___",
+      "answer": "Urenkel",
+      "fullAnswer": "ein Urenkel, zwei Urenkel",
+      "explanation": "The plural is Urenkel.",
+      "acceptedAnswers": [
+        "Urenkel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Urenkel mean?",
+      "options": [
+        "great-grandson",
+        "the family",
+        "slowly"
+      ],
+      "answer": "great-grandson",
+      "explanation": "Urenkel: great-grandson, great-grandchild.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Urenkelin is…",
+      "options": [
+        "great-granddaughter",
+        "great-aunt"
+      ],
+      "answer": "great-granddaughter",
+      "explanation": "Feminine.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ur- in family words means…",
+      "options": [
+        "great- (one generation further)",
+        "original only"
+      ],
+      "answer": "great- (one generation further)",
+      "explanation": "Prefix.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Urgroßvater is…",
+      "options": [
+        "great-grandfather",
+        "great-uncle"
+      ],
+      "answer": "great-grandfather",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Urenkel is a great-grandson or great-grandchild, die Urenkelin a great-granddaughter. The prefix Ur- adds one generation: Urgroßmutter, Urgroßvater, and Ururenkel (great-great-grandchild). Der Enkel is a grandchild. Ur- also means original or primeval: der Urwald, die Urzeit. The plural is the same: die Urenkel."
+}

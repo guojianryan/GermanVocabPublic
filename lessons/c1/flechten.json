@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "flechten",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "FLEKH-ten",
+      "ipa": "ˈflɛçtn̩",
+      "notes": ""
+    },
+    "meaning": "to braid, plait, weave",
+    "shortDefinition": "To braid, plait, weave."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "flecht|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "flich|tst"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "flich|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "flecht|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "flecht|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "flecht|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geflochten"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie flicht ihrer Tochter Zöpfe.",
+      "english": "She braids her daughter's hair.",
+      "highlight": [
+        "flicht"
+      ]
+    },
+    {
+      "german": "Der Korb ist aus Weidenruten geflochten.",
+      "english": "The basket is woven from willow rods.",
+      "highlight": [
+        "geflochten."
+      ]
+    }
+  ],
+  "forms": [
+    "flechte",
+    "flichtst",
+    "flicht",
+    "flechten",
+    "flechtet",
+    "geflochten",
+    "flocht"
+  ],
+  "memoryHook": "Flechten: twist strands together like a Flechtwerk.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (flechten)",
+      "answer": "flicht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: flicht.",
+      "acceptedAnswers": [
+        "flicht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (flechten, past)",
+      "answer": "geflochten",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geflochten.",
+      "acceptedAnswers": [
+        "geflochten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does flechten mean?",
+      "options": [
+        "hot",
+        "to braid",
+        "tomorrow"
+      ],
+      "answer": "to braid",
+      "explanation": "flechten: to braid, plait, weave.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Present (er):",
+      "options": [
+        "er flicht",
+        "er flechtet"
+      ],
+      "answer": "er flicht",
+      "explanation": "Vowel change.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "flocht, geflochten",
+        "flechtete, geflechtet"
+      ],
+      "answer": "flocht, geflochten",
+      "explanation": "Irregular.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Zopf is…",
+      "options": [
+        "braid, plait",
+        "a stick"
+      ],
+      "answer": "braid, plait",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Flechten means to braid, plait or weave: Zöpfe flechten, einen Kranz flechten, einen Korb flechten. It's irregular: du flichtst, er flicht, flocht, geflochten. Figuratively, you can flechten details into a speech: Er flocht einige Anekdoten ein. Das Flechtwerk is wickerwork, and der Hefezopf is a braided sweet loaf. Die Flechte (a different word) is lichen."
+}

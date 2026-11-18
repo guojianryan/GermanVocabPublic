@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Reiseveranstalter",
+    "partOfSpeech": "noun, masculine (der Reiseveranstalter)",
+    "pronunciation": {
+      "respelling": "RAI-ze-fer-an-shtal-ter",
+      "ipa": "ˈʁaɪ̯zəfɛɐ̯ˌʔanʃtaltɐ",
+      "notes": "Plural: die Reiseveranstalter."
+    },
+    "meaning": "tour operator",
+    "shortDefinition": "Tour operator."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Reiseveranstalter, plural die Reiseveranstalter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Reiseveranstalter"
+        },
+        {
+          "label": "More than one",
+          "value": "die Reiseveranstalter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Reiseveranstalter musste die Kosten erstatten.",
+      "english": "The tour operator had to refund the costs.",
+      "highlight": [
+        "Reiseveranstalter"
+      ]
+    },
+    {
+      "german": "TUI ist einer der größten Reiseveranstalter Europas.",
+      "english": "TUI is one of Europe's largest tour operators.",
+      "highlight": [
+        "Reiseveranstalter"
+      ]
+    }
+  ],
+  "forms": [
+    "der Reiseveranstalter",
+    "Reiseveranstalters"
+  ],
+  "memoryHook": "Reiseveranstalter: someone who veranstaltet (organises) Reisen.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Reiseveranstalter",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Reiseveranstalter is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Reiseveranstalter, zwei ___",
+      "answer": "Reiseveranstalter",
+      "fullAnswer": "ein Reiseveranstalter, zwei Reiseveranstalter",
+      "explanation": "The plural is Reiseveranstalter.",
+      "acceptedAnswers": [
+        "Reiseveranstalter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Reiseveranstalter mean?",
+      "options": [
+        "tour operator",
+        "the family",
+        "to sleep"
+      ],
+      "answer": "tour operator",
+      "explanation": "Reiseveranstalter: tour operator.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Pauschalreise is…",
+      "options": [
+        "package holiday",
+        "a lump sum"
+      ],
+      "answer": "package holiday",
+      "explanation": "Package.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "TUI is based in…",
+      "options": [
+        "Hanover",
+        "Munich"
+      ],
+      "answer": "Hanover",
+      "explanation": "TUI.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Reisebüro is…",
+      "options": [
+        "travel agency",
+        "a tour operator's factory"
+      ],
+      "answer": "travel agency",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Reiseveranstalter is a tour operator who puts together Pauschalreisen (package holidays), sold online or through a Reisebüro. Under EU and German law, the organiser is liable for defects, and travellers can claim a price reduction for problems like a noisy building site next to the hotel. TUI, headquartered in Hanover, is one of the largest. The plural is the same."
+}

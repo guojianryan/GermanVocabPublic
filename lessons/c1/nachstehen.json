@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "nachstehen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "NAAKH-shtay-en",
+      "ipa": "ˈnaːxˌʃteːən",
+      "notes": ""
+    },
+    "meaning": "to be inferior to; to follow (below)",
+    "shortDefinition": "To be inferior to; to follow (below)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "steh|e … |nach"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "steh|st … |nach"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "steh|t … |nach"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "steh|en … |nach"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "steh|t … |nach"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "steh|en … |nach"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat nachgestanden"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Kopie steht dem Original in nichts nach.",
+      "english": "The copy is in no way inferior to the original.",
+      "highlight": [
+        "steht",
+        "nach."
+      ]
+    },
+    {
+      "german": "Die nachstehenden Hinweise sind wichtig.",
+      "english": "The following notes are important.",
+      "highlight": [
+        "nachstehenden"
+      ]
+    }
+  ],
+  "forms": [
+    "stehe nach",
+    "stehst nach",
+    "steht nach",
+    "stehen nach",
+    "nachgestanden",
+    "stand nach",
+    "nachstehend"
+  ],
+  "memoryHook": "Nachstehen: stand nach (behind) someone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … nach (nachstehen)",
+      "answer": "steht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: steht … nach.",
+      "acceptedAnswers": [
+        "steht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (nachstehen, past)",
+      "answer": "nachgestanden",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe nachgestanden.",
+      "acceptedAnswers": [
+        "nachgestanden"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does nachstehen mean?",
+      "options": [
+        "hot",
+        "to be inferior to",
+        "the family"
+      ],
+      "answer": "to be inferior to",
+      "explanation": "nachstehen: to be inferior to; to follow (below).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandem in nichts nachstehen means…",
+      "options": [
+        "to be every bit as good as someone",
+        "to stand behind someone"
+      ],
+      "answer": "to be every bit as good as someone",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nachstehend (in texts) means…",
+      "options": [
+        "below, following",
+        "behind"
+      ],
+      "answer": "below, following",
+      "explanation": "Texts.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vorstehend means…",
+      "options": [
+        "above, preceding",
+        "standing"
+      ],
+      "answer": "above, preceding",
+      "explanation": "Opposite.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Nachstehen means to be inferior to, almost always negated: jemandem in nichts nachstehen (to be every bit as good). In written texts, nachstehend means below or following: die nachstehenden Bedingungen, and vorstehend means above. Separable and irregular like stehen: stand nach, nachgestanden."
+}

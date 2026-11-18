@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Glashaus",
+    "partOfSpeech": "noun, neuter (das Glashaus)",
+    "pronunciation": {
+      "respelling": "GLAAS-haus",
+      "ipa": "ˈɡlaːsˌhaʊ̯s",
+      "notes": "Plural: die Glashäuser."
+    },
+    "meaning": "glasshouse, greenhouse",
+    "shortDefinition": "Glasshouse, greenhouse."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Glashaus, plural die Glashäuser.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Glashaus"
+        },
+        {
+          "label": "More than one",
+          "value": "die Glashäuser"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wer im Glashaus sitzt, sollte nicht mit Steinen werfen.",
+      "english": "People who live in glass houses shouldn't throw stones.",
+      "highlight": [
+        "Glashaus"
+      ]
+    },
+    {
+      "german": "Im Glashaus wachsen Tomaten.",
+      "english": "Tomatoes grow in the glasshouse.",
+      "highlight": [
+        "Glashaus"
+      ]
+    }
+  ],
+  "forms": [
+    "Glashäuser",
+    "das Glashaus"
+  ],
+  "memoryHook": "Glashaus: a Haus made of Glas.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Glashaus",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Glashaus is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Glashaus, zwei ___",
+      "answer": "Glashäuser",
+      "fullAnswer": "ein Glashaus, zwei Glashäuser",
+      "explanation": "The plural is Glashäuser.",
+      "acceptedAnswers": [
+        "Glashaeuser"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Glashaus mean?",
+      "options": [
+        "to help",
+        "glasshouse",
+        "the bill"
+      ],
+      "answer": "glasshouse",
+      "explanation": "Glashaus: glasshouse, greenhouse.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The proverb about Glashaus warns against…",
+      "options": [
+        "criticising others for your own faults",
+        "breaking glass"
+      ],
+      "answer": "criticising others for your own faults",
+      "explanation": "Proverb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gewächshaus is…",
+      "options": [
+        "greenhouse",
+        "a growth"
+      ],
+      "answer": "greenhouse",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Treibhauseffekt is…",
+      "options": [
+        "greenhouse effect",
+        "a hot house"
+      ],
+      "answer": "greenhouse effect",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Glashaus is a glasshouse or greenhouse; the common words are das Gewächshaus and das Treibhaus (der Treibhauseffekt is the greenhouse effect). It's best known from the proverb Wer im Glashaus sitzt, sollte nicht mit Steinen werfen, a warning not to criticise others for faults you share. Plural: die Glashäuser."
+}

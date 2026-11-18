@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rebell",
+    "partOfSpeech": "noun, masculine (der Rebell)",
+    "pronunciation": {
+      "respelling": "re-BEL",
+      "ipa": "ʁeˈbɛl",
+      "notes": "Plural: die Rebellen."
+    },
+    "meaning": "rebel",
+    "shortDefinition": "Rebel."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Rebell, plural die Rebellen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Rebell"
+        },
+        {
+          "label": "More than one",
+          "value": "die Rebellen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Rebellen kontrollieren den Norden.",
+      "english": "The rebels control the north.",
+      "highlight": [
+        "Rebellen"
+      ]
+    },
+    {
+      "german": "Als Teenager war er ein Rebell.",
+      "english": "As a teenager he was a rebel.",
+      "highlight": [
+        "Rebell."
+      ]
+    }
+  ],
+  "forms": [
+    "Rebellen",
+    "die Rebellen",
+    "der Rebell",
+    "rebellisch",
+    "rebellieren"
+  ],
+  "memoryHook": "Rebell: a weak noun that won't behave: den Rebellen.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rebell",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Rebell is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Rebell, zwei ___",
+      "answer": "Rebellen",
+      "fullAnswer": "ein Rebell, zwei Rebellen",
+      "explanation": "The plural is Rebellen.",
+      "acceptedAnswers": [
+        "Rebellen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rebell mean?",
+      "options": [
+        "the station",
+        "rebel",
+        "never"
+      ],
+      "answer": "rebel",
+      "explanation": "Rebell: rebel.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rebellieren means…",
+      "options": [
+        "to rebel",
+        "to repeat"
+      ],
+      "answer": "to rebel",
+      "explanation": "rebellieren.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Rebellion is…",
+      "options": [
+        "the rebellion",
+        "the rebel"
+      ],
+      "answer": "the rebellion",
+      "explanation": "Rebellion.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rebell is a weak noun, so the accusative is…",
+      "options": [
+        "den Rebellen",
+        "den Rebell"
+      ],
+      "answer": "den Rebellen",
+      "explanation": "Weak -en.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Rebell (die Rebellin) is a rebel, in war or in life: Er war schon immer ein Rebell. It's a weak noun, so it adds -en in all cases except the nominative singular: den Rebellen, dem Rebellen. Rebellisch means rebellious, and rebellieren to rebel. In German history, der Bauernkrieg (1524–25) was a large peasants' rebellion. Stress is on the last syllable: re-BELL."
+}

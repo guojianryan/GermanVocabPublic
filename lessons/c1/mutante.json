@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mutante",
+    "partOfSpeech": "noun, feminine (die Mutante)",
+    "pronunciation": {
+      "respelling": "mu-TAN-te",
+      "ipa": "muˈtantə",
+      "notes": "Plural: die Mutanten."
+    },
+    "meaning": "mutant; variant (virus)",
+    "shortDefinition": "Mutant; variant (virus)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Mutante, plural die Mutanten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Mutante"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mutanten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die neue Mutante des Virus ist ansteckender.",
+      "english": "The new variant of the virus is more contagious.",
+      "highlight": [
+        "Mutante"
+      ]
+    },
+    {
+      "german": "In Comics haben Mutanten oft Superkräfte.",
+      "english": "In comics, mutants often have superpowers.",
+      "highlight": [
+        "Mutanten"
+      ]
+    }
+  ],
+  "forms": [
+    "Mutanten",
+    "die Mutante"
+  ],
+  "memoryHook": "Mutante: Latin mutare, to change.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mutante",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Mutante is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mutante, zwei ___",
+      "answer": "Mutanten",
+      "fullAnswer": "ein Mutante, zwei Mutanten",
+      "explanation": "The plural is Mutanten.",
+      "acceptedAnswers": [
+        "Mutanten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mutante mean?",
+      "options": [
+        "mutant",
+        "to open",
+        "always"
+      ],
+      "answer": "mutant",
+      "explanation": "Mutante: mutant; variant (virus).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Mutation is…",
+      "options": [
+        "mutation",
+        "a mutiny"
+      ],
+      "answer": "mutation",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "During the pandemic, the official term shifted to…",
+      "options": [
+        "die Variante",
+        "das Virus"
+      ],
+      "answer": "die Variante",
+      "explanation": "Usage.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mutieren means…",
+      "options": [
+        "to mutate",
+        "to mute"
+      ],
+      "answer": "to mutate",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Mutante is a mutant, an organism with a genetic mutation, and in the Covid pandemic a virus variant: die britische Mutante. Experts preferred die Variante, as not every change is a new mutation. Mutieren means to mutate, and colloquially to turn into: Er mutiert zum Langweiler. Die Mutation is mutation. Plural: die Mutanten."
+}

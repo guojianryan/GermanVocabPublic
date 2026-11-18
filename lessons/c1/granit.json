@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Granit",
+    "partOfSpeech": "noun, masculine (der Granit)",
+    "pronunciation": {
+      "respelling": "gra-NEET",
+      "ipa": "ɡʁaˈniːt",
+      "notes": "Plural: die Granite."
+    },
+    "meaning": "granite",
+    "shortDefinition": "Granite."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Granit, plural die Granite.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Granit"
+        },
+        {
+          "label": "More than one",
+          "value": "die Granite"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Küche hat eine Arbeitsplatte aus Granit.",
+      "english": "The kitchen has a granite worktop.",
+      "highlight": [
+        "Granit."
+      ]
+    },
+    {
+      "german": "Bei ihm beißt man auf Granit.",
+      "english": "With him you'll get nowhere.",
+      "highlight": [
+        "Granit."
+      ]
+    }
+  ],
+  "forms": [
+    "Granite",
+    "der Granit"
+  ],
+  "memoryHook": "Granit: the hard, grainy (granum) rock.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Granit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Granit is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Granit, zwei ___",
+      "answer": "Granite",
+      "fullAnswer": "ein Granit, zwei Granite",
+      "explanation": "The plural is Granite.",
+      "acceptedAnswers": [
+        "Granite"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Granit mean?",
+      "options": [
+        "never",
+        "granite",
+        "the family"
+      ],
+      "answer": "granite",
+      "explanation": "Granit: granite.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Auf Granit beißen means…",
+      "options": [
+        "to get nowhere, meet stiff resistance",
+        "to eat hard bread"
+      ],
+      "answer": "to get nowhere, meet stiff resistance",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress:",
+      "options": [
+        "gra-NIT",
+        "GRA-nit"
+      ],
+      "answer": "gra-NIT",
+      "explanation": "Last syllable.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Granite is common in…",
+      "options": [
+        "the Harz and Bavarian Forest",
+        "the North Sea islands"
+      ],
+      "answer": "the Harz and Bavarian Forest",
+      "explanation": "Regions.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Granit is granite, found in German uplands like the Harz, the Fichtelgebirge and the Bavarian Forest. Idiom: bei jemandem auf Granit beißen means to bite on granite, to get nowhere with someone: Mit seiner Bitte biss er beim Chef auf Granit. Stressed on the last syllable: gra-NEET. From Italian granito (grainy). Plural: die Granite."
+}

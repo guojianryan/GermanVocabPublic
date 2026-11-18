@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "anspannen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AN-shpa-nen",
+      "ipa": "ˈanˌʃpanən",
+      "notes": ""
+    },
+    "meaning": "to tense, tighten; to harness",
+    "shortDefinition": "To tense, tighten; to harness."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "spann|e … |an"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "spann|st … |an"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "spann|t … |an"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "spann|en … |an"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "spann|t … |an"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "spann|en … |an"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat angespannt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Spannen Sie die Bauchmuskeln an.",
+      "english": "Tense your stomach muscles.",
+      "highlight": [
+        "Spannen",
+        "an."
+      ]
+    },
+    {
+      "german": "Die Lage ist sehr angespannt.",
+      "english": "The situation is very tense.",
+      "highlight": [
+        "angespannt."
+      ]
+    }
+  ],
+  "forms": [
+    "spanne an",
+    "spannst an",
+    "spannt an",
+    "spannen an",
+    "angespannt",
+    "spannte an",
+    "Anspannung"
+  ],
+  "memoryHook": "Anspannen: stretch (spannen) tight.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … an (anspannen)",
+      "answer": "spannt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: spannt … an.",
+      "acceptedAnswers": [
+        "spannt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (anspannen, past)",
+      "answer": "angespannt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe angespannt.",
+      "acceptedAnswers": [
+        "angespannt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does anspannen mean?",
+      "options": [
+        "to tense",
+        "quiet",
+        "to sing"
+      ],
+      "answer": "to tense",
+      "explanation": "anspannen: to tense, tighten; to harness.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Angespannt (adj.) means…",
+      "options": [
+        "tense, strained",
+        "relaxed"
+      ],
+      "answer": "tense, strained",
+      "explanation": "Tense.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Anspannung is…",
+      "options": [
+        "tension, strain",
+        "a span"
+      ],
+      "answer": "tension, strain",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Pferde anspannen means…",
+      "options": [
+        "to harness the horses",
+        "to frighten the horses"
+      ],
+      "answer": "to harness the horses",
+      "explanation": "Harness.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Anspannen means to tense or tighten (die Muskeln anspannen) and to harness horses to a carriage. The participle angespannt means tense or strained: eine angespannte Lage, angespannte Nerven, ein angespannter Wohnungsmarkt (a tight housing market, a legal term for rent control areas). Die Anspannung is tension. The opposite is entspannen (to relax). Separable: spannte an, angespannt."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Preisverleihung",
+    "partOfSpeech": "noun, feminine (die Preisverleihung)",
+    "pronunciation": {
+      "respelling": "PRAIS-fer-lai-ung",
+      "ipa": "ˈpʁaɪ̯sfɛɐ̯ˌlaɪ̯ʊŋ",
+      "notes": "Plural: die Preisverleihungen."
+    },
+    "meaning": "award ceremony",
+    "shortDefinition": "Award ceremony."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Preisverleihung, plural die Preisverleihungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Preisverleihung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Preisverleihungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Preisverleihung findet im Rathaus statt.",
+      "english": "The award ceremony takes place at the town hall.",
+      "highlight": [
+        "Preisverleihung"
+      ]
+    },
+    {
+      "german": "Bei der Preisverleihung hielt sie eine bewegende Rede.",
+      "english": "At the award ceremony she gave a moving speech.",
+      "highlight": [
+        "Preisverleihung"
+      ]
+    }
+  ],
+  "forms": [
+    "Preisverleihungen",
+    "die Preisverleihung"
+  ],
+  "memoryHook": "Preisverleihung: the verleihen (awarding) of a Preis (prize).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Preisverleihung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Preisverleihung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Preisverleihung, zwei ___",
+      "answer": "Preisverleihungen",
+      "fullAnswer": "ein Preisverleihung, zwei Preisverleihungen",
+      "explanation": "The plural is Preisverleihungen.",
+      "acceptedAnswers": [
+        "Preisverleihungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Preisverleihung mean?",
+      "options": [
+        "to help",
+        "the weather",
+        "award ceremony"
+      ],
+      "answer": "award ceremony",
+      "explanation": "Preisverleihung: award ceremony.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verleihen means…",
+      "options": [
+        "to award; to lend",
+        "to borrow"
+      ],
+      "answer": "to award; to lend",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Preisträger is…",
+      "options": [
+        "award winner",
+        "a price tag"
+      ],
+      "answer": "award winner",
+      "explanation": "Winner.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Peace Prize of the German Book Trade is awarded at…",
+      "options": [
+        "the Frankfurt Book Fair",
+        "the Berlinale"
+      ],
+      "answer": "the Frankfurt Book Fair",
+      "explanation": "Peace Prize.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Preisverleihung is an award ceremony: die Preisverleihung der Berlinale (Golden and Silver Bears), des Deutschen Filmpreises (Lolas). The Friedenspreis des Deutschen Buchhandels is presented every October in Frankfurt's Paulskirche. Der Preisträger (die Preisträgerin) is the winner. Verleihen means to award and to lend. Plural: die Preisverleihungen."
+}

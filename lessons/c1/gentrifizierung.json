@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gentrifizierung",
+    "partOfSpeech": "noun, feminine (die Gentrifizierung)",
+    "pronunciation": {
+      "respelling": "gen-tri-fi-TSEE-rung",
+      "ipa": "ɡɛntʁifiˈt͡siːʁʊŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "gentrification",
+    "shortDefinition": "Gentrification."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Gentrifizierung, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Gentrifizierung"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Gentrifizierung treibt die Mieten in die Höhe.",
+      "english": "Gentrification is driving rents up.",
+      "highlight": [
+        "Gentrifizierung"
+      ]
+    },
+    {
+      "german": "Prenzlauer Berg gilt als Beispiel für Gentrifizierung.",
+      "english": "Prenzlauer Berg is seen as an example of gentrification.",
+      "highlight": [
+        "Gentrifizierung."
+      ]
+    }
+  ],
+  "forms": [
+    "die Gentrifizierung",
+    "gentrifiziert"
+  ],
+  "memoryHook": "Gentrifizierung: from English gentry.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gentrifizierung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Gentrifizierung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gentrifizierung mean?",
+      "options": [
+        "to buy",
+        "gentrification",
+        "to open"
+      ],
+      "answer": "gentrification",
+      "explanation": "Gentrifizierung: gentrification.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gentrifizierung means…",
+      "options": [
+        "wealthier residents displacing poorer ones",
+        "renovation only"
+      ],
+      "answer": "wealthier residents displacing poorer ones",
+      "explanation": "Meaning.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Verdrängung is…",
+      "options": [
+        "displacement",
+        "a crowd"
+      ],
+      "answer": "displacement",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Milieuschutz aims to…",
+      "options": [
+        "protect residents from displacement",
+        "protect forests"
+      ],
+      "answer": "protect residents from displacement",
+      "explanation": "Policy.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Gentrifizierung is gentrification: wealthier newcomers move into a district, rents rise and long-time residents are displaced (verdrängt). Berlin's Prenzlauer Berg and Kreuzberg and Hamburg's Schanzenviertel are classic examples. Cities respond with Milieuschutzgebiete and the Mietpreisbremse (rent brake). The word comes from English gentry. It has no plural."
+}

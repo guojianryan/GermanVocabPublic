@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rechtslage",
+    "partOfSpeech": "noun, feminine (die Rechtslage)",
+    "pronunciation": {
+      "respelling": "REKHTS-laa-ge",
+      "ipa": "ˈʁɛçt͡sˌlaːɡə",
+      "notes": "Plural: die Rechtslagen."
+    },
+    "meaning": "legal position, legal situation",
+    "shortDefinition": "Legal position, legal situation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Rechtslage, plural die Rechtslagen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Rechtslage"
+        },
+        {
+          "label": "More than one",
+          "value": "die Rechtslagen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Rechtslage ist eindeutig.",
+      "english": "The legal position is clear.",
+      "highlight": [
+        "Rechtslage"
+      ]
+    },
+    {
+      "german": "Nach der aktuellen Rechtslage ist das erlaubt.",
+      "english": "Under current law, that's allowed.",
+      "highlight": [
+        "Rechtslage"
+      ]
+    }
+  ],
+  "forms": [
+    "Rechtslagen",
+    "die Rechtslage"
+  ],
+  "memoryHook": "Rechtslage: the Lage (situation) according to Recht (law).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rechtslage",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Rechtslage is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Rechtslage, zwei ___",
+      "answer": "Rechtslagen",
+      "fullAnswer": "ein Rechtslage, zwei Rechtslagen",
+      "explanation": "The plural is Rechtslagen.",
+      "acceptedAnswers": [
+        "Rechtslagen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rechtslage mean?",
+      "options": [
+        "legal position",
+        "the key",
+        "the door"
+      ],
+      "answer": "legal position",
+      "explanation": "Rechtslage: legal position, legal situation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nach geltender Rechtslage means…",
+      "options": [
+        "under current law",
+        "after the trial"
+      ],
+      "answer": "under current law",
+      "explanation": "Current law.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Lage is…",
+      "options": [
+        "situation, position; location",
+        "a lie"
+      ],
+      "answer": "situation, position; location",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Rechtsprechung is…",
+      "options": [
+        "case law, judicature",
+        "legal position"
+      ],
+      "answer": "case law, judicature",
+      "explanation": "Case law.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Rechtslage is the legal position or situation: Wie ist die Rechtslage? (what does the law say?), nach geltender Rechtslage (under current law), eine unklare Rechtslage. It's common in news and consumer advice: Darf mein Vermieter das? Die Rechtslage ist eindeutig. Die Lage means situation and location: Lage, Lage, Lage, the property rule. Plural: die Rechtslagen."
+}

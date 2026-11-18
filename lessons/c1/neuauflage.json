@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Neuauflage",
+    "partOfSpeech": "noun, feminine (die Neuauflage)",
+    "pronunciation": {
+      "respelling": "NOY-auf-laa-ge",
+      "ipa": "ˈnɔɪ̯ˌʔaʊ̯flaːɡə",
+      "notes": "Plural: die Neuauflagen."
+    },
+    "meaning": "new edition; remake, revival",
+    "shortDefinition": "New edition; remake, revival."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Neuauflage, plural die Neuauflagen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Neuauflage"
+        },
+        {
+          "label": "More than one",
+          "value": "die Neuauflagen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Neuauflage des Buches erscheint im Herbst.",
+      "english": "The new edition of the book comes out in autumn.",
+      "highlight": [
+        "Neuauflage"
+      ]
+    },
+    {
+      "german": "Das Finale ist eine Neuauflage des Endspiels von 2014.",
+      "english": "The final is a rematch of the 2014 final.",
+      "highlight": [
+        "Neuauflage"
+      ]
+    }
+  ],
+  "forms": [
+    "Neuauflagen",
+    "die Neuauflagen",
+    "die Neuauflage"
+  ],
+  "memoryHook": "Neuauflage: a new (neu) edition (Auflage) of something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Neuauflage",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Neuauflage is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Neuauflage, zwei ___",
+      "answer": "Neuauflagen",
+      "fullAnswer": "ein Neuauflage, zwei Neuauflagen",
+      "explanation": "The plural is Neuauflagen.",
+      "acceptedAnswers": [
+        "Neuauflagen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Neuauflage mean?",
+      "options": [
+        "new edition",
+        "the car",
+        "to sleep"
+      ],
+      "answer": "new edition",
+      "explanation": "Neuauflage: new edition; remake, revival.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Auflage is…",
+      "options": [
+        "edition; print run; condition",
+        "a tablecloth"
+      ],
+      "answer": "edition; print run; condition",
+      "explanation": "Auflage.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In sport, eine Neuauflage is…",
+      "options": [
+        "a rematch",
+        "a new team"
+      ],
+      "answer": "a rematch",
+      "explanation": "Rematch.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Neuauflage of a coalition is…",
+      "options": [
+        "a renewed coalition of the same parties",
+        "a new party"
+      ],
+      "answer": "a renewed coalition of the same parties",
+      "explanation": "Politics.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Neuauflage is a new edition of a book: eine überarbeitete Neuauflage. Figuratively, it's a remake or repeat: die Neuauflage eines Klassikers, or in sport a rematch: die Neuauflage des WM-Finales. In politics, die Neuauflage der großen Koalition means the same parties governing together again. Die Auflage means edition or print run, and also a condition imposed by an authority: unter Auflagen genehmigt."
+}

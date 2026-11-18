@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Raumschiff",
+    "partOfSpeech": "noun, neuter (das Raumschiff)",
+    "pronunciation": {
+      "respelling": "RAUM-shif",
+      "ipa": "ˈʁaʊ̯mˌʃɪf",
+      "notes": "Plural: die Raumschiffe."
+    },
+    "meaning": "spaceship",
+    "shortDefinition": "Spaceship."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Raumschiff, plural die Raumschiffe.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Raumschiff"
+        },
+        {
+          "label": "More than one",
+          "value": "die Raumschiffe"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Raumschiff dockte an der Raumstation an.",
+      "english": "The spaceship docked at the space station.",
+      "highlight": [
+        "Raumschiff"
+      ]
+    },
+    {
+      "german": "Raumschiff Enterprise war in Deutschland sehr beliebt.",
+      "english": "Star Trek was very popular in Germany.",
+      "highlight": [
+        "Raumschiff"
+      ]
+    }
+  ],
+  "forms": [
+    "Raumschiffe",
+    "die Raumschiffe",
+    "das Raumschiff"
+  ],
+  "memoryHook": "Raumschiff: a Schiff (ship) for outer Raum (space).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Raumschiff",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Raumschiff is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Raumschiff, zwei ___",
+      "answer": "Raumschiffe",
+      "fullAnswer": "ein Raumschiff, zwei Raumschiffe",
+      "explanation": "The plural is Raumschiffe.",
+      "acceptedAnswers": [
+        "Raumschiffe"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Raumschiff mean?",
+      "options": [
+        "spaceship",
+        "the job",
+        "the flower"
+      ],
+      "answer": "spaceship",
+      "explanation": "Raumschiff: spaceship.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Star Trek's original German title was…",
+      "options": [
+        "Raumschiff Enterprise",
+        "Sternreise"
+      ],
+      "answer": "Raumschiff Enterprise",
+      "explanation": "Star Trek.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Raum is…",
+      "options": [
+        "space; room",
+        "a dream"
+      ],
+      "answer": "space; room",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Raumfahrt is…",
+      "options": [
+        "space travel",
+        "a room trip"
+      ],
+      "answer": "space travel",
+      "explanation": "Space travel.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Raumschiff is a spaceship: ein bemanntes Raumschiff. Star Trek ran in German as Raumschiff Enterprise, and the 1970s German series Raumpatrouille Orion is a cult classic. Der Raum means space and room: der Weltraum, das Wohnzimmer is a Raum too. Die Raumstation is a space station, and die Raumfahrt space travel. The German Aerospace Center (DLR) trains astronauts in Cologne. Plural: die Raumschiffe."
+}

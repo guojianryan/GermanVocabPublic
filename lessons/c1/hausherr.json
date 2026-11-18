@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Hausherr",
+    "partOfSpeech": "noun, masculine (der Hausherr)",
+    "pronunciation": {
+      "respelling": "HAUS-her",
+      "ipa": "ˈhaʊ̯sˌhɛʁ",
+      "notes": "Plural: die Hausherren."
+    },
+    "meaning": "host; master of the house; home team",
+    "shortDefinition": "Host; master of the house; home team."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Hausherr, plural die Hausherren.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Hausherr"
+        },
+        {
+          "label": "More than one",
+          "value": "die Hausherren"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Hausherr begrüßte die Gäste.",
+      "english": "The host welcomed the guests.",
+      "highlight": [
+        "Hausherr"
+      ]
+    },
+    {
+      "german": "Die Hausherren gewannen mit 2:0.",
+      "english": "The home team won 2–0.",
+      "highlight": [
+        "Hausherren"
+      ]
+    }
+  ],
+  "forms": [
+    "Hausherren",
+    "Hausherrn",
+    "Hausherrin",
+    "der Hausherr"
+  ],
+  "memoryHook": "Hausherr: the Herr (master) of the Haus.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Hausherr",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Hausherr is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Hausherr, zwei ___",
+      "answer": "Hausherren",
+      "fullAnswer": "ein Hausherr, zwei Hausherren",
+      "explanation": "The plural is Hausherren.",
+      "acceptedAnswers": [
+        "Hausherren"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Hausherr mean?",
+      "options": [
+        "host",
+        "the shop",
+        "always"
+      ],
+      "answer": "host",
+      "explanation": "Hausherr: host; master of the house; home team.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In sports reports, die Hausherren are…",
+      "options": [
+        "the home team",
+        "the owners"
+      ],
+      "answer": "the home team",
+      "explanation": "Sport.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Hausherrin is…",
+      "options": [
+        "hostess, lady of the house",
+        "a housekeeper"
+      ],
+      "answer": "hostess, lady of the house",
+      "explanation": "Female.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Hausrecht belongs to…",
+      "options": [
+        "the Hausherr",
+        "the guests"
+      ],
+      "answer": "the Hausherr",
+      "explanation": "Law.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Hausherr (die Hausherrin) is the master of the house or host: Der Hausherr bat zu Tisch. The Hausherr has das Hausrecht, the right to decide who may enter. Sports journalists call the home team die Hausherren or die Gastgeber, and the visitors die Gäste. Like Herr, it takes -n in the singular oblique cases: den Hausherrn. Plural: die Hausherren."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bevölkerungsgruppe",
+    "partOfSpeech": "noun, feminine (die Bevölkerungsgruppe)",
+    "pronunciation": {
+      "respelling": "be-FÖL-ke-rungs-gru-pe",
+      "ipa": "bəˈfœlkəʁʊŋsˌɡʁʊpə",
+      "notes": "Plural: die Bevölkerungsgruppen."
+    },
+    "meaning": "population group, section of the population",
+    "shortDefinition": "Population group, section of the population."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Bevölkerungsgruppe, plural die Bevölkerungsgruppen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Bevölkerungsgruppe"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bevölkerungsgruppen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ältere Menschen sind die am schnellsten wachsende Bevölkerungsgruppe.",
+      "english": "Older people are the fastest-growing population group.",
+      "highlight": [
+        "Bevölkerungsgruppe."
+      ]
+    },
+    {
+      "german": "Das Gesetz schützt alle Bevölkerungsgruppen.",
+      "english": "The law protects all sections of the population.",
+      "highlight": [
+        "Bevölkerungsgruppen."
+      ]
+    }
+  ],
+  "forms": [
+    "Bevölkerungsgruppen",
+    "die Bevölkerungsgruppe"
+  ],
+  "memoryHook": "Bevölkerungsgruppe: a Gruppe within the Bevölkerung.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bevölkerungsgruppe",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Bevölkerungsgruppe is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bevölkerungsgruppe, zwei ___",
+      "answer": "Bevölkerungsgruppen",
+      "fullAnswer": "ein Bevölkerungsgruppe, zwei Bevölkerungsgruppen",
+      "explanation": "The plural is Bevölkerungsgruppen.",
+      "acceptedAnswers": [
+        "Bevoelkerungsgruppen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bevölkerungsgruppe mean?",
+      "options": [
+        "cheap",
+        "population group",
+        "always"
+      ],
+      "answer": "population group",
+      "explanation": "Bevölkerungsgruppe: population group, section of the population.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Bevölkerung is…",
+      "options": [
+        "population",
+        "folk music"
+      ],
+      "answer": "population",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Volksverhetzung (§130 StGB) covers incitement against…",
+      "options": [
+        "parts of the population",
+        "the government"
+      ],
+      "answer": "parts of the population",
+      "explanation": "Law.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Minderheit is…",
+      "options": [
+        "minority",
+        "majority"
+      ],
+      "answer": "minority",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Bevölkerungsgruppe is a population group or section of society: ethnische Bevölkerungsgruppen, besonders gefährdete Bevölkerungsgruppen (vulnerable groups). Germany recognises four national minorities: Danes, Frisians, Sorbs, and German Sinti and Roma. §130 of the criminal code (Volksverhetzung) bans incitement to hatred against parts of the population. Plural: die Bevölkerungsgruppen."
+}

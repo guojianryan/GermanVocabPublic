@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "absegnen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AP-zayg-nen",
+      "ipa": "ˈapˌzeːɡnən",
+      "notes": ""
+    },
+    "meaning": "to approve, rubber-stamp (colloquial)",
+    "shortDefinition": "To approve, rubber-stamp (colloquial)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "segn|e … |ab"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "segn|est … |ab"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "segn|et … |ab"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "segn|en … |ab"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "segn|et … |ab"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "segn|en … |ab"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat abgesegnet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Chef muss den Plan noch absegnen.",
+      "english": "The boss still has to sign off on the plan.",
+      "highlight": [
+        "absegnen."
+      ]
+    },
+    {
+      "german": "Das Budget wurde vom Vorstand abgesegnet.",
+      "english": "The budget was approved by the board.",
+      "highlight": [
+        "abgesegnet."
+      ]
+    }
+  ],
+  "forms": [
+    "segne ab",
+    "segnest ab",
+    "segnet ab",
+    "segnen ab",
+    "abgesegnet",
+    "segnete ab"
+  ],
+  "memoryHook": "Absegnen: give something your blessing (segnen).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ab (absegnen)",
+      "answer": "segnet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: segnet … ab.",
+      "acceptedAnswers": [
+        "segnet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (absegnen, past)",
+      "answer": "abgesegnet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe abgesegnet.",
+      "acceptedAnswers": [
+        "abgesegnet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does absegnen mean?",
+      "options": [
+        "the key",
+        "the flower",
+        "to approve"
+      ],
+      "answer": "to approve",
+      "explanation": "absegnen: to approve, rubber-stamp (colloquial).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Absegnen means…",
+      "options": [
+        "to give official approval",
+        "to bless a meal"
+      ],
+      "answer": "to give official approval",
+      "explanation": "Approve.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Segnen means…",
+      "options": [
+        "to bless",
+        "to sail"
+      ],
+      "answer": "to bless",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "genehmigen, billigen",
+        "ablehnen"
+      ],
+      "answer": "genehmigen, billigen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Absegnen (colloquial) means to approve or sign off on, often formally or as a rubber stamp: Der Aufsichtsrat hat die Fusion abgesegnet. It comes from segnen (to bless), with a slightly ironic touch. Formal synonyms: genehmigen, billigen, bewilligen. Der Segen is a blessing: seinen Segen geben (to give one's blessing). Separable: segnete ab, abgesegnet."
+}

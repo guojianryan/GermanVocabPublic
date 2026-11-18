@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "stapeln",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHTAA-peln",
+      "ipa": "ˈʃtaːpl̩n",
+      "notes": ""
+    },
+    "meaning": "to stack, pile up",
+    "shortDefinition": "To stack, pile up."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "stap|le"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "stapel|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "stapel|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "stapel|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "stapel|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "stapel|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gestapelt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er stapelt die Kisten im Keller.",
+      "english": "He stacks the boxes in the cellar.",
+      "highlight": [
+        "stapelt"
+      ]
+    },
+    {
+      "german": "Auf dem Schreibtisch stapeln sich die Akten.",
+      "english": "Files are piling up on the desk.",
+      "highlight": [
+        "stapeln"
+      ]
+    }
+  ],
+  "forms": [
+    "staple",
+    "stapelst",
+    "stapelt",
+    "stapeln",
+    "gestapelt",
+    "Stapel",
+    "hochstapeln",
+    "tiefstapeln",
+    "Hochstapler"
+  ],
+  "memoryHook": "Stapeln: make a Stapel (pile).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (stapeln)",
+      "answer": "stapelt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: stapelt.",
+      "acceptedAnswers": [
+        "stapelt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (stapeln, past)",
+      "answer": "gestapelt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gestapelt.",
+      "acceptedAnswers": [
+        "gestapelt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does stapeln mean?",
+      "options": [
+        "to stack",
+        "the key",
+        "the family"
+      ],
+      "answer": "to stack",
+      "explanation": "stapeln: to stack, pile up.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Stapel is…",
+      "options": [
+        "pile, stack",
+        "staple"
+      ],
+      "answer": "pile, stack",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Tiefstapeln means…",
+      "options": [
+        "to understate, be modest",
+        "to dig deep"
+      ],
+      "answer": "to understate, be modest",
+      "explanation": "Understate.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hochstapeln means…",
+      "options": [
+        "to con, pose as someone grand",
+        "to stack high"
+      ],
+      "answer": "to con, pose as someone grand",
+      "explanation": "Con.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Stapeln means to stack or pile up: Teller stapeln, and sich stapeln means to pile up: Die Post stapelt sich. Der Stapel is a stack. Figuratively, tiefstapeln means to understate or play things down, and hochstapeln means to pose as someone more important; der Hochstapler is a con man or impostor, like the fictional Felix Krull in Thomas Mann's novel. A ship launch is der Stapellauf. Regular: stapelte, gestapelt."
+}

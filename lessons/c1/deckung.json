@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Deckung",
+    "partOfSpeech": "noun, feminine (die Deckung)",
+    "pronunciation": {
+      "respelling": "DEK-ung",
+      "ipa": "ˈdɛkʊŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "cover; coverage; funding",
+    "shortDefinition": "Cover; coverage; funding."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Deckung, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Deckung"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Soldaten gingen in Deckung.",
+      "english": "The soldiers took cover.",
+      "highlight": [
+        "Deckung."
+      ]
+    },
+    {
+      "german": "Das Konto hat keine Deckung.",
+      "english": "The account has insufficient funds.",
+      "highlight": [
+        "Deckung."
+      ]
+    }
+  ],
+  "forms": [
+    "die Deckung",
+    "decken",
+    "deckungsgleich"
+  ],
+  "memoryHook": "Deckung: being covered, by a wall or by money.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Deckung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Deckung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Deckung mean?",
+      "options": [
+        "cheap",
+        "cover",
+        "tomorrow"
+      ],
+      "answer": "cover",
+      "explanation": "Deckung: cover; coverage; funding.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Deckung gehen means…",
+      "options": [
+        "to take cover",
+        "to cover a table"
+      ],
+      "answer": "to take cover",
+      "explanation": "Take cover.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Deckungslücke is…",
+      "options": [
+        "a funding gap / coverage gap",
+        "a hole in the roof"
+      ],
+      "answer": "a funding gap / coverage gap",
+      "explanation": "Gap.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich decken means…",
+      "options": [
+        "to coincide, match",
+        "to hide"
+      ],
+      "answer": "to coincide, match",
+      "explanation": "Match.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "From…",
+      "options": [
+        "decken (to cover)",
+        "die Decke only"
+      ],
+      "answer": "decken (to cover)",
+      "explanation": "decken.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Deckung means cover: in Deckung gehen (to take cover), Deckung geben. In finance, it's coverage or funding: Der Scheck ist ohne Deckung (the cheque bounced), die Deckung der Kosten. In insurance, it's coverage: die Deckungssumme. In sport, it's the defence or marking: die Deckung des Gegners. From decken (to cover), as in den Tisch decken (to lay the table). Deckungsgleich means congruent or identical."
+}

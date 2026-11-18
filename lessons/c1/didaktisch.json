@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "didaktisch",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "di-DAK-tish",
+      "ipa": "diˈdaktɪʃ",
+      "notes": ""
+    },
+    "meaning": "didactic, teaching-related",
+    "shortDefinition": "Didactic, teaching-related."
+  },
+  "sampleSentences": [
+    {
+      "german": "Das Buch ist didaktisch gut aufbereitet.",
+      "english": "The book is well prepared from a teaching point of view.",
+      "highlight": [
+        "didaktisch"
+      ]
+    },
+    {
+      "german": "Der Lehrer hat viel didaktisches Geschick.",
+      "english": "The teacher has a lot of teaching skill.",
+      "highlight": [
+        "didaktisches"
+      ]
+    }
+  ],
+  "forms": [
+    "didaktische",
+    "didaktischen",
+    "didaktisches"
+  ],
+  "memoryHook": "Didaktisch: Greek didaskein, to teach.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does didaktisch mean?",
+      "options": [
+        "didactic",
+        "the flower",
+        "the bed"
+      ],
+      "answer": "didactic",
+      "explanation": "didaktisch: didactic, teaching-related.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Didaktik is…",
+      "options": [
+        "the theory and practice of teaching",
+        "a dictatorship"
+      ],
+      "answer": "the theory and practice of teaching",
+      "explanation": "Noun.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "In German, didaktisch is usually…",
+      "options": [
+        "neutral or positive (teaching-related)",
+        "always negative (preachy)"
+      ],
+      "answer": "neutral or positive (teaching-related)",
+      "explanation": "False friend.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "pädagogisch, lehrreich",
+        "unverständlich"
+      ],
+      "answer": "pädagogisch, lehrreich",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein ___ Konzept (teaching)",
+      "answer": "didaktisches",
+      "fullAnswer": "ein didaktisches Konzept",
+      "explanation": "Neuter -es.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Didaktisch means relating to teaching: didaktisch wertvoll, ein didaktisches Konzept. Unlike English didactic, which often sounds preachy, it's mostly neutral or positive. Die Didaktik is the study of teaching methods, a core subject in German teacher training, often paired with Methodik. From Greek didaskein (to teach). Synonyms: pädagogisch, lehrreich."
+}

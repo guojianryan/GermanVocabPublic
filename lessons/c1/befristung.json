@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Befristung",
+    "partOfSpeech": "noun, feminine (die Befristung)",
+    "pronunciation": {
+      "respelling": "be-FRIS-tung",
+      "ipa": "bəˈfʁɪstʊŋ",
+      "notes": "Plural: die Befristungen."
+    },
+    "meaning": "time limit, fixed-term arrangement",
+    "shortDefinition": "Time limit, fixed-term arrangement."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Befristung, plural die Befristungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Befristung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Befristungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Befristung des Vertrags läuft im Juni aus.",
+      "english": "The fixed term of the contract ends in June.",
+      "highlight": [
+        "Befristung"
+      ]
+    },
+    {
+      "german": "Junge Wissenschaftler klagen über ständige Befristungen.",
+      "english": "Young researchers complain about constant fixed-term contracts.",
+      "highlight": [
+        "Befristungen."
+      ]
+    }
+  ],
+  "forms": [
+    "Befristungen",
+    "die Befristung"
+  ],
+  "memoryHook": "Befristung: giving something a Frist (time limit).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Befristung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Befristung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Befristung, zwei ___",
+      "answer": "Befristungen",
+      "fullAnswer": "ein Befristung, zwei Befristungen",
+      "explanation": "The plural is Befristungen.",
+      "acceptedAnswers": [
+        "Befristungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Befristung mean?",
+      "options": [
+        "the bed",
+        "time limit",
+        "the child"
+      ],
+      "answer": "time limit",
+      "explanation": "Befristung: time limit, fixed-term arrangement.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein befristeter Vertrag is…",
+      "options": [
+        "a fixed-term contract",
+        "a permanent contract"
+      ],
+      "answer": "a fixed-term contract",
+      "explanation": "Contract.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unbefristet means…",
+      "options": [
+        "permanent, open-ended",
+        "unlimited money"
+      ],
+      "answer": "permanent, open-ended",
+      "explanation": "Opposite.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Frist is…",
+      "options": [
+        "deadline, period",
+        "first"
+      ],
+      "answer": "deadline, period",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Befristung is a time limit, especially for employment: a befristeter Arbeitsvertrag ends on a set date. Without a specific reason, contracts may be fixed-term for at most two years. In academia, the #IchBinHanna campaign protested against endless Befristungen under the Wissenschaftszeitvertragsgesetz. The opposite is unbefristet (permanent). Plural: die Befristungen."
+}

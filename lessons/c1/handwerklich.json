@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "handwerklich",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "HANT-verk-likh",
+      "ipa": "ˈhantvɛʁklɪç",
+      "notes": ""
+    },
+    "meaning": "manual, craft; technical (skill)",
+    "shortDefinition": "Manual, craft; technical (skill)."
+  },
+  "sampleSentences": [
+    {
+      "german": "Er ist handwerklich sehr geschickt.",
+      "english": "He's very good with his hands.",
+      "highlight": [
+        "handwerklich"
+      ]
+    },
+    {
+      "german": "Der Film ist handwerklich gut gemacht.",
+      "english": "The film is technically well made.",
+      "highlight": [
+        "handwerklich"
+      ]
+    }
+  ],
+  "forms": [
+    "handwerkliche",
+    "handwerklichen"
+  ],
+  "memoryHook": "Handwerklich: about the Handwerk (crafts).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does handwerklich mean?",
+      "options": [
+        "manual",
+        "to wait",
+        "the child"
+      ],
+      "answer": "manual",
+      "explanation": "handwerklich: manual, craft; technical (skill).",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Handwerk is…",
+      "options": [
+        "craft, trade",
+        "handwriting"
+      ],
+      "answer": "craft, trade",
+      "explanation": "Root.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Meisterbrief certifies…",
+      "options": [
+        "a master craftsman",
+        "a doctor"
+      ],
+      "answer": "a master craftsman",
+      "explanation": "Meister.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Handwerklich begabt means…",
+      "options": [
+        "good with one's hands",
+        "talented at writing"
+      ],
+      "answer": "good with one's hands",
+      "explanation": "Phrase.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ Fähigkeiten (manual)",
+      "answer": "handwerkliche",
+      "fullAnswer": "handwerkliche Fähigkeiten",
+      "explanation": "Plural -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Handwerklich means relating to crafts or manual skill: handwerklich begabt (good with one's hands), handwerkliche Ausbildung. It can also mean technically, as in craftsmanship: handwerklich solide, but uninspired. Das Handwerk is the skilled trades; many trades in Germany require a Meisterbrief (master craftsman's certificate) to run a business. Handwerk hat goldenen Boden is an old saying: a trade is a secure living."
+}

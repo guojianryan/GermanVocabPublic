@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Waisenhaus",
+    "partOfSpeech": "noun, neuter (das Waisenhaus)",
+    "pronunciation": {
+      "respelling": "VAI-zen-haus",
+      "ipa": "ˈvaɪ̯zn̩ˌhaʊ̯s",
+      "notes": "Plural: die Waisenhäuser."
+    },
+    "meaning": "orphanage",
+    "shortDefinition": "Orphanage."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Waisenhaus, plural die Waisenhäuser.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Waisenhaus"
+        },
+        {
+          "label": "More than one",
+          "value": "die Waisenhäuser"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er wuchs in einem Waisenhaus auf.",
+      "english": "He grew up in an orphanage.",
+      "highlight": [
+        "Waisenhaus"
+      ]
+    },
+    {
+      "german": "Die Franckeschen Stiftungen in Halle begannen als Waisenhaus.",
+      "english": "The Francke Foundations in Halle began as an orphanage.",
+      "highlight": [
+        "Waisenhaus."
+      ]
+    }
+  ],
+  "forms": [
+    "Waisenhäuser",
+    "das Waisenhaus"
+  ],
+  "memoryHook": "Waisenhaus: a Haus for Waisen (orphans).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Waisenhaus",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Waisenhaus is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Waisenhaus, zwei ___",
+      "answer": "Waisenhäuser",
+      "fullAnswer": "ein Waisenhaus, zwei Waisenhäuser",
+      "explanation": "The plural is Waisenhäuser.",
+      "acceptedAnswers": [
+        "Waisenhaeuser"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Waisenhaus mean?",
+      "options": [
+        "orphanage",
+        "the family",
+        "the key"
+      ],
+      "answer": "orphanage",
+      "explanation": "Waisenhaus: orphanage.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Waise is…",
+      "options": [
+        "orphan",
+        "wise woman"
+      ],
+      "answer": "orphan",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Today children without parents usually live…",
+      "options": [
+        "in Kinderheime or foster families",
+        "in Waisenhäuser"
+      ],
+      "answer": "in Kinderheime or foster families",
+      "explanation": "Today.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Waisenknabe gegen jemanden sein means…",
+      "options": [
+        "to be no match for someone",
+        "to be an orphan"
+      ],
+      "answer": "to be no match for someone",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Waisenhaus is an orphanage, an old-fashioned word; today children who can't live with their parents go to a Kinderheim or Pflegefamilie (foster family). The Franckesche Stiftungen in Halle began in 1698 as an orphanage and school founded by the Pietist August Hermann Francke. Die Waise is an orphan (the word is feminine even for boys), and die Waisenrente an orphan's pension. Plural: die Waisenhäuser."
+}

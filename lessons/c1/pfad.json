@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Pfad",
+    "partOfSpeech": "noun, masculine (der Pfad)",
+    "pronunciation": {
+      "respelling": "pfaat",
+      "ipa": "p͡faːt",
+      "notes": "Plural: die Pfade."
+    },
+    "meaning": "path, trail",
+    "shortDefinition": "Path, trail."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Pfad, plural die Pfade.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Pfad"
+        },
+        {
+          "label": "More than one",
+          "value": "die Pfade"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ein schmaler Pfad führt durch den Wald.",
+      "english": "A narrow path leads through the forest.",
+      "highlight": [
+        "Pfad"
+      ]
+    },
+    {
+      "german": "Gib den Pfad zur Datei an.",
+      "english": "Enter the path to the file.",
+      "highlight": [
+        "Pfad"
+      ]
+    }
+  ],
+  "forms": [
+    "Pfade",
+    "die Pfade",
+    "der Pfad",
+    "Trampelpfad"
+  ],
+  "memoryHook": "Pfad: a narrow path, through woods or folders.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Pfad",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Pfad is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Pfad, zwei ___",
+      "answer": "Pfade",
+      "fullAnswer": "ein Pfad, zwei Pfade",
+      "explanation": "The plural is Pfade.",
+      "acceptedAnswers": [
+        "Pfade"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Pfad mean?",
+      "options": [
+        "the evening",
+        "path",
+        "the station"
+      ],
+      "answer": "path",
+      "explanation": "Pfad: path, trail.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vom rechten Pfad abkommen means…",
+      "options": [
+        "to go astray",
+        "to go hiking"
+      ],
+      "answer": "to go astray",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Trampelpfad is…",
+      "options": [
+        "a beaten track, desire path",
+        "a trampoline"
+      ],
+      "answer": "a beaten track, desire path",
+      "explanation": "Desire path.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In computing, der Pfad is…",
+      "options": [
+        "a file path",
+        "a cable"
+      ],
+      "answer": "a file path",
+      "explanation": "File path.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Pfad is a narrow path or trail: ein schmaler Pfad, ein Wanderpfad, der Waldpfad. In computing, it's a file path: der Dateipfad. Der Trampelpfad is a desire path, worn by people taking a shortcut across grass. Figuratively, vom rechten Pfad abkommen means to stray from the right path, and ausgetretene Pfade verlassen means to leave the beaten track. Pfadfinder (path-finders) are scouts. Plural: die Pfade."
+}

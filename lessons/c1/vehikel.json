@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vehikel",
+    "partOfSpeech": "noun, neuter (das Vehikel)",
+    "pronunciation": {
+      "respelling": "ve-HEE-kel",
+      "ipa": "veˈhiːkl̩",
+      "notes": "Plural: die Vehikel."
+    },
+    "meaning": "vehicle (often old, or a means)",
+    "shortDefinition": "Vehicle (often old, or a means)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Vehikel, plural die Vehikel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Vehikel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Vehikel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Mit diesem alten Vehikel kommen wir nicht weit.",
+      "english": "We won't get far in this old jalopy.",
+      "highlight": [
+        "Vehikel"
+      ]
+    },
+    {
+      "german": "Die Musik dient als Vehikel für politische Botschaften.",
+      "english": "The music serves as a vehicle for political messages.",
+      "highlight": [
+        "Vehikel"
+      ]
+    }
+  ],
+  "forms": [
+    "das Vehikel",
+    "Vehikels"
+  ],
+  "memoryHook": "Vehikel: something that carries (vehere).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vehikel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Vehikel is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Vehikel, zwei ___",
+      "answer": "Vehikel",
+      "fullAnswer": "ein Vehikel, zwei Vehikel",
+      "explanation": "The plural is Vehikel.",
+      "acceptedAnswers": [
+        "Vehikel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vehikel mean?",
+      "options": [
+        "the window",
+        "vehicle (often old",
+        "cheap"
+      ],
+      "answer": "vehicle (often old",
+      "explanation": "Vehikel: vehicle (often old, or a means).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday Vehikel often means…",
+      "options": [
+        "an old, run-down vehicle",
+        "a new car"
+      ],
+      "answer": "an old, run-down vehicle",
+      "explanation": "Colloquial.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, ein Vehikel is…",
+      "options": [
+        "a means to convey something",
+        "a garage"
+      ],
+      "answer": "a means to convey something",
+      "explanation": "Figurative.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Neutral word for vehicle:",
+      "options": [
+        "das Fahrzeug",
+        "das Vehikel"
+      ],
+      "answer": "das Fahrzeug",
+      "explanation": "Neutral.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Vehikel is a vehicle, but in everyday German it's usually jokey or disparaging for an old car: Was ist das für ein Vehikel? The neutral word is das Fahrzeug. Figuratively, ein Vehikel is a means of conveying something: Sprache als Vehikel des Denkens. In pharmacy it's the carrier substance of a medicine. The plural is the same: die Vehikel."
+}

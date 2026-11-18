@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "fortführen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "FORT-fü-ren",
+      "ipa": "ˈfɔʁtˌfyːʁən",
+      "notes": ""
+    },
+    "meaning": "to continue, carry on",
+    "shortDefinition": "To continue, carry on."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "führ|e … |fort"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "führ|st … |fort"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "führ|t … |fort"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "führ|en … |fort"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "führ|t … |fort"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "führ|en … |fort"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat fortgeführt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Tochter führt das Geschäft fort.",
+      "english": "The daughter is carrying on the business.",
+      "highlight": [
+        "führt",
+        "fort."
+      ]
+    },
+    {
+      "german": "Die Gespräche werden morgen fortgeführt.",
+      "english": "The talks will continue tomorrow.",
+      "highlight": [
+        "fortgeführt."
+      ]
+    }
+  ],
+  "forms": [
+    "führe fort",
+    "führst fort",
+    "führt fort",
+    "führen fort",
+    "fortgeführt",
+    "führte fort",
+    "Fortführung"
+  ],
+  "memoryHook": "Fortführen: lead (führen) onwards (fort).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … fort (fortführen)",
+      "answer": "führt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: führt … fort.",
+      "acceptedAnswers": [
+        "fuehrt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (fortführen, past)",
+      "answer": "fortgeführt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe fortgeführt.",
+      "acceptedAnswers": [
+        "fortgefuehrt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does fortführen mean?",
+      "options": [
+        "to open",
+        "tomorrow",
+        "to continue"
+      ],
+      "answer": "to continue",
+      "explanation": "fortführen: to continue, carry on.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "fortsetzen, weiterführen",
+        "fortgehen"
+      ],
+      "answer": "fortsetzen, weiterführen",
+      "explanation": "Continue.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Fortführung is…",
+      "options": [
+        "continuation",
+        "a guided tour"
+      ],
+      "answer": "continuation",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fort means…",
+      "options": [
+        "away; onwards",
+        "strong"
+      ],
+      "answer": "away; onwards",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Fortführen means to continue or carry on: ein Unternehmen, eine Tradition, die Verhandlungen fortführen. It's a bit formal; synonyms are fortsetzen and weiterführen. In German family businesses (Familienunternehmen), the next generation often fortführt the firm. Die Fortführung is continuation. Fort means away or onwards: und so fort (and so on). Separable: führte fort, fortgeführt."
+}

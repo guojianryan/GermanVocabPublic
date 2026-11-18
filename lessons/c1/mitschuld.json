@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mitschuld",
+    "partOfSpeech": "noun, feminine (die Mitschuld)",
+    "pronunciation": {
+      "respelling": "MIT-shult",
+      "ipa": "ˈmɪtˌʃʊlt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "share of the blame, complicity",
+    "shortDefinition": "Share of the blame, complicity."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Mitschuld, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Mitschuld"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er trägt eine Mitschuld an dem Unfall.",
+      "english": "He bears part of the blame for the accident.",
+      "highlight": [
+        "Mitschuld"
+      ]
+    },
+    {
+      "german": "Die Versicherung zahlt wegen Mitschuld nur die Hälfte.",
+      "english": "The insurance only pays half because of contributory negligence.",
+      "highlight": [
+        "Mitschuld"
+      ]
+    }
+  ],
+  "forms": [
+    "die Mitschuld",
+    "mitschuldig"
+  ],
+  "memoryHook": "Mitschuld: Schuld (blame) shared with (mit) others.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mitschuld",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Mitschuld is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mitschuld mean?",
+      "options": [
+        "to buy",
+        "the key",
+        "share of the blame"
+      ],
+      "answer": "share of the blame",
+      "explanation": "Mitschuld: share of the blame, complicity.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mitschuldig means…",
+      "options": [
+        "partly to blame, complicit",
+        "guilty alone"
+      ],
+      "answer": "partly to blame, complicit",
+      "explanation": "Adjective.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schuld is…",
+      "options": [
+        "guilt, blame; debt",
+        "school"
+      ],
+      "answer": "guilt, blame; debt",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In insurance, Mitschuld means…",
+      "options": [
+        "contributory negligence",
+        "joint debt"
+      ],
+      "answer": "contributory negligence",
+      "explanation": "Insurance.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Mitschuld is a share of the blame or complicity: eine Mitschuld tragen (to bear part of the blame), Mitschuld am Unfall. In insurance and traffic law, it's contributory negligence: a cyclist without lights may have a Mitschuld. Mitschuldig means partly to blame. Die Schuld means guilt or blame, and in plural Schulden, debts. It has no plural."
+}

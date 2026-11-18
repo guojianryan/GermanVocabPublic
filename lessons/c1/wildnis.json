@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wildnis",
+    "partOfSpeech": "noun, feminine (die Wildnis)",
+    "pronunciation": {
+      "respelling": "VILT-nis",
+      "ipa": "ˈvɪltnɪs",
+      "notes": "Plural: die Wildnisse."
+    },
+    "meaning": "wilderness",
+    "shortDefinition": "Wilderness."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Wildnis, plural die Wildnisse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Wildnis"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wildnisse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Nationalpark darf die Natur wieder Wildnis werden.",
+      "english": "In the national park, nature is allowed to become wilderness again.",
+      "highlight": [
+        "Wildnis"
+      ]
+    },
+    {
+      "german": "Sie lebten einen Monat in der Wildnis.",
+      "english": "They lived in the wild for a month.",
+      "highlight": [
+        "Wildnis."
+      ]
+    }
+  ],
+  "forms": [
+    "Wildnisse",
+    "die Wildnis"
+  ],
+  "memoryHook": "Wildnis: land left wild.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wildnis",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Wildnis is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wildnis, zwei ___",
+      "answer": "Wildnisse",
+      "fullAnswer": "ein Wildnis, zwei Wildnisse",
+      "explanation": "The plural is Wildnisse.",
+      "acceptedAnswers": [
+        "Wildnisse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wildnis mean?",
+      "options": [
+        "wilderness",
+        "to buy",
+        "to sleep"
+      ],
+      "answer": "wilderness",
+      "explanation": "Wildnis: wilderness.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Bayerische Wald was Germany's first…",
+      "options": [
+        "national park (1970)",
+        "ski resort"
+      ],
+      "answer": "national park (1970)",
+      "explanation": "National park.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wild means…",
+      "options": [
+        "wild",
+        "willing"
+      ],
+      "answer": "wild",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Wild is…",
+      "options": [
+        "game (animals for hunting)",
+        "a picture"
+      ],
+      "answer": "game (animals for hunting)",
+      "explanation": "Game.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Wildnis is wilderness: in der Wildnis überleben. Germany is densely populated and has little true wilderness, but its national parks follow the principle Natur Natur sein lassen (let nature be nature). The Bavarian Forest became Germany's first national park in 1970, where forest is left to regenerate after bark-beetle damage. Wolves, lynx and beavers have returned. Das Wild means game animals. Plural: die Wildnisse."
+}

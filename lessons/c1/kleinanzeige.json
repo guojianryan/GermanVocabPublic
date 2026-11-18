@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kleinanzeige",
+    "partOfSpeech": "noun, feminine (die Kleinanzeige)",
+    "pronunciation": {
+      "respelling": "KLAIN-an-tsai-ge",
+      "ipa": "ˈklaɪ̯nˌʔant͡saɪ̯ɡə",
+      "notes": "Plural: die Kleinanzeigen."
+    },
+    "meaning": "classified ad",
+    "shortDefinition": "Classified ad."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kleinanzeige, plural die Kleinanzeigen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kleinanzeige"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kleinanzeigen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich habe mein Fahrrad über Kleinanzeigen verkauft.",
+      "english": "I sold my bike through classified ads.",
+      "highlight": [
+        "Kleinanzeigen"
+      ]
+    },
+    {
+      "german": "Er gab eine Kleinanzeige in der Zeitung auf.",
+      "english": "He placed a classified ad in the newspaper.",
+      "highlight": [
+        "Kleinanzeige"
+      ]
+    }
+  ],
+  "forms": [
+    "Kleinanzeigen",
+    "die Kleinanzeigen",
+    "die Kleinanzeige"
+  ],
+  "memoryHook": "Kleinanzeige: a klein (small) Anzeige (ad).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kleinanzeige",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kleinanzeige is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kleinanzeige, zwei ___",
+      "answer": "Kleinanzeigen",
+      "fullAnswer": "ein Kleinanzeige, zwei Kleinanzeigen",
+      "explanation": "The plural is Kleinanzeigen.",
+      "acceptedAnswers": [
+        "Kleinanzeigen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kleinanzeige mean?",
+      "options": [
+        "the job",
+        "classified ad",
+        "the flower"
+      ],
+      "answer": "classified ad",
+      "explanation": "Kleinanzeige: classified ad.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's biggest classifieds site is called…",
+      "options": [
+        "Kleinanzeigen (formerly eBay Kleinanzeigen)",
+        "Craigslist"
+      ],
+      "answer": "Kleinanzeigen (formerly eBay Kleinanzeigen)",
+      "explanation": "Platform.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Anzeige aufgeben means…",
+      "options": [
+        "to place an ad",
+        "to give up an ad"
+      ],
+      "answer": "to place an ad",
+      "explanation": "Place an ad.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Anzeige can also mean…",
+      "options": [
+        "a police report",
+        "a dispute"
+      ],
+      "answer": "a police report",
+      "explanation": "Anzeige erstatten.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kleinanzeige is a classified ad: eine Kleinanzeige aufgeben (to place one). Germans buy and sell second-hand furniture, bikes and prams on the platform Kleinanzeigen, called eBay Kleinanzeigen until 2023; a common question there is Ist das noch da? (is it still available?), and haggling (VB, Verhandlungsbasis, means price negotiable) is normal. Die Anzeige alone means an ad, a display, or a police report: Anzeige erstatten."
+}

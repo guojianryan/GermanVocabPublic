@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Geschehnis",
+    "partOfSpeech": "noun, neuter (das Geschehnis)",
+    "pronunciation": {
+      "respelling": "ge-SHAY-nis",
+      "ipa": "ɡəˈʃeːnɪs",
+      "notes": "Plural: die Geschehnisse."
+    },
+    "meaning": "event, occurrence",
+    "shortDefinition": "Event, occurrence."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Geschehnis, plural die Geschehnisse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Geschehnis"
+        },
+        {
+          "label": "More than one",
+          "value": "die Geschehnisse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Geschehnisse jener Nacht sind ungeklärt.",
+      "english": "The events of that night remain unclear.",
+      "highlight": [
+        "Geschehnisse"
+      ]
+    },
+    {
+      "german": "Der Film erzählt die Geschehnisse aus der Sicht eines Kindes.",
+      "english": "The film tells the events from a child's perspective.",
+      "highlight": [
+        "Geschehnisse"
+      ]
+    }
+  ],
+  "forms": [
+    "Geschehnisse",
+    "die Geschehnisse",
+    "das Geschehnis"
+  ],
+  "memoryHook": "Geschehnis: something that geschieht (happens).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Geschehnis",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Geschehnis is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Geschehnis, zwei ___",
+      "answer": "Geschehnisse",
+      "fullAnswer": "ein Geschehnis, zwei Geschehnisse",
+      "explanation": "The plural is Geschehnisse.",
+      "acceptedAnswers": [
+        "Geschehnisse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Geschehnis mean?",
+      "options": [
+        "to wait",
+        "the window",
+        "event"
+      ],
+      "answer": "event",
+      "explanation": "Geschehnis: event, occurrence.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Geschehen means…",
+      "options": [
+        "to happen",
+        "to see"
+      ],
+      "answer": "to happen",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mostly used in the…",
+      "options": [
+        "plural (Geschehnisse)",
+        "singular"
+      ],
+      "answer": "plural (Geschehnisse)",
+      "explanation": "Plural.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Geschehen is…",
+      "options": [
+        "events, action (collectively)",
+        "a guess"
+      ],
+      "answer": "events, action (collectively)",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Geschehnis, mostly plural Geschehnisse, is an event or occurrence, a slightly literary word: die Geschehnisse des Tages, die Aufarbeitung der Geschehnisse (coming to terms with events). The verb geschehen (geschah, ist geschehen) means to happen, and Das geschieht dir recht! means it serves you right. Das Geschehen is the action: mitten im Geschehen. Everyday synonym: das Ereignis. Plural: die Geschehnisse."
+}

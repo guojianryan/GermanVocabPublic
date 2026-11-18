@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Konservatorium",
+    "partOfSpeech": "noun, neuter (das Konservatorium)",
+    "pronunciation": {
+      "respelling": "kon-zer-va-TOH-ri-um",
+      "ipa": "kɔnzɛʁvaˈtoːʁiʊm",
+      "notes": "Plural: die Konservatorien."
+    },
+    "meaning": "conservatory (music school)",
+    "shortDefinition": "Conservatory (music school)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Konservatorium, plural die Konservatorien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Konservatorium"
+        },
+        {
+          "label": "More than one",
+          "value": "die Konservatorien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie studierte Klavier am Konservatorium.",
+      "english": "She studied piano at the conservatory.",
+      "highlight": [
+        "Konservatorium."
+      ]
+    },
+    {
+      "german": "Das Konservatorium bietet auch Kurse für Kinder.",
+      "english": "The conservatory also offers courses for children.",
+      "highlight": [
+        "Konservatorium"
+      ]
+    }
+  ],
+  "forms": [
+    "Konservatorien",
+    "das Konservatorium"
+  ],
+  "memoryHook": "Konservatorium: a place that conserves (konserviert) musical tradition.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Konservatorium",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Konservatorium is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Konservatorium, zwei ___",
+      "answer": "Konservatorien",
+      "fullAnswer": "ein Konservatorium, zwei Konservatorien",
+      "explanation": "The plural is Konservatorien.",
+      "acceptedAnswers": [
+        "Konservatorien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Konservatorium mean?",
+      "options": [
+        "the door",
+        "conservatory (music school)",
+        "expensive"
+      ],
+      "answer": "conservatory (music school)",
+      "explanation": "Konservatorium: conservatory (music school).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Today German music universities are usually called…",
+      "options": [
+        "Musikhochschulen",
+        "Konservatorien only"
+      ],
+      "answer": "Musikhochschulen",
+      "explanation": "Today.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Konservatorien",
+        "die Konservatoriums"
+      ],
+      "answer": "die Konservatorien",
+      "explanation": "Plural.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "A glass conservatory (room) is…",
+      "options": [
+        "der Wintergarten",
+        "das Konservatorium"
+      ],
+      "answer": "der Wintergarten",
+      "explanation": "False friend.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Konservatorium is a conservatory, a music school. Leipzig's conservatory was founded by Felix Mendelssohn Bartholdy in 1843, the first in Germany. Today most have become Musikhochschulen, though the name survives in Austria and Switzerland and for some schools. A glass room on a house is der Wintergarten. Plural: die Konservatorien."
+}

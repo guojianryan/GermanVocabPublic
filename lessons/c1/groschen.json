@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Groschen",
+    "partOfSpeech": "noun, masculine (der Groschen)",
+    "pronunciation": {
+      "respelling": "GRO-shen",
+      "ipa": "ˈɡʁɔʃn̩",
+      "notes": "Plural: die Groschen."
+    },
+    "meaning": "ten-pfennig coin; small change",
+    "shortDefinition": "Ten-pfennig coin; small change."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Groschen, plural die Groschen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Groschen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Groschen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Früher kostete ein Brötchen ein paar Groschen.",
+      "english": "A bread roll used to cost a few pennies.",
+      "highlight": [
+        "Groschen."
+      ]
+    },
+    {
+      "german": "Endlich ist der Groschen gefallen.",
+      "english": "At last the penny dropped.",
+      "highlight": [
+        "Groschen"
+      ]
+    }
+  ],
+  "forms": [
+    "der Groschen",
+    "Groschens"
+  ],
+  "memoryHook": "Groschen: a thick (grossus) silver coin.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Groschen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Groschen is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Groschen, zwei ___",
+      "answer": "Groschen",
+      "fullAnswer": "ein Groschen, zwei Groschen",
+      "explanation": "The plural is Groschen.",
+      "acceptedAnswers": [
+        "Groschen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Groschen mean?",
+      "options": [
+        "the car",
+        "ten-pfennig coin",
+        "the family"
+      ],
+      "answer": "ten-pfennig coin",
+      "explanation": "Groschen: ten-pfennig coin; small change.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Groschen ist gefallen means…",
+      "options": [
+        "the penny dropped (I understand now)",
+        "money was lost"
+      ],
+      "answer": "the penny dropped (I understand now)",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In West Germany, a Groschen was…",
+      "options": [
+        "a 10-pfennig coin",
+        "a 1-mark coin"
+      ],
+      "answer": "a 10-pfennig coin",
+      "explanation": "Value.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Groschenroman is…",
+      "options": [
+        "cheap pulp novel",
+        "a coin catalogue"
+      ],
+      "answer": "cheap pulp novel",
+      "explanation": "Compound.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Groschen was a coin: in West Germany, colloquially the 10-pfennig piece, and in Austria one hundredth of a schilling, until the euro arrived in 2002. It survives in idioms: Der Groschen ist gefallen (the penny dropped), keinen Groschen wert (worthless), and der Groschenroman (pulp novel). The name comes from Latin grossus (thick), a large silver coin. The plural is the same: die Groschen."
+}

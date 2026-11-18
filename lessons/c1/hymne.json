@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Hymne",
+    "partOfSpeech": "noun, feminine (die Hymne)",
+    "pronunciation": {
+      "respelling": "HÜM-ne",
+      "ipa": "ˈhʏmnə",
+      "notes": "Plural: die Hymnen."
+    },
+    "meaning": "anthem, hymn",
+    "shortDefinition": "Anthem, hymn."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Hymne, plural die Hymnen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Hymne"
+        },
+        {
+          "label": "More than one",
+          "value": "die Hymnen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Vor dem Spiel wird die Nationalhymne gespielt.",
+      "english": "The national anthem is played before the match.",
+      "highlight": [
+        "Nationalhymne"
+      ]
+    },
+    {
+      "german": "Das Lied wurde zur Hymne einer Generation.",
+      "english": "The song became the anthem of a generation.",
+      "highlight": [
+        "Hymne"
+      ]
+    }
+  ],
+  "forms": [
+    "Hymnen",
+    "die Hymnen",
+    "die Hymne",
+    "Nationalhymne"
+  ],
+  "memoryHook": "Hymne: a song of praise, or a nation.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Hymne",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Hymne is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Hymne, zwei ___",
+      "answer": "Hymnen",
+      "fullAnswer": "ein Hymne, zwei Hymnen",
+      "explanation": "The plural is Hymnen.",
+      "acceptedAnswers": [
+        "Hymnen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Hymne mean?",
+      "options": [
+        "the flower",
+        "anthem",
+        "the street"
+      ],
+      "answer": "anthem",
+      "explanation": "Hymne: anthem, hymn.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The German national anthem uses…",
+      "options": [
+        "the third verse of the Deutschlandlied",
+        "the first verse"
+      ],
+      "answer": "the third verse of the Deutschlandlied",
+      "explanation": "Third verse.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Its melody is by…",
+      "options": [
+        "Joseph Haydn",
+        "Beethoven"
+      ],
+      "answer": "Joseph Haydn",
+      "explanation": "Haydn.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The EU anthem is…",
+      "options": [
+        "Ode an die Freude (Beethoven)",
+        "Haydn's quartet"
+      ],
+      "answer": "Ode an die Freude (Beethoven)",
+      "explanation": "Ode to Joy.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Hymne is an anthem or hymn: die Nationalhymne, die Champions-League-Hymne. Since 1991, Germany's anthem has been only the third verse of the Deutschlandlied, which begins Einigkeit und Recht und Freiheit; the first verse is not sung because of its nationalist misuse. The melody is Joseph Haydn's (1797). The EU's anthem uses Beethoven's Ode an die Freude. The y sounds like ü: HÜM-ne. Plural: die Hymnen."
+}

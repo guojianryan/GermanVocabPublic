@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Diözese",
+    "partOfSpeech": "noun, feminine (die Diözese)",
+    "pronunciation": {
+      "respelling": "di-ö-TSAY-ze",
+      "ipa": "diøˈt͡seːzə",
+      "notes": "Plural: die Diözesen."
+    },
+    "meaning": "diocese",
+    "shortDefinition": "Diocese."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Diözese, plural die Diözesen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Diözese"
+        },
+        {
+          "label": "More than one",
+          "value": "die Diözesen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Diözese Rottenburg-Stuttgart ist sehr groß.",
+      "english": "The Diocese of Rottenburg-Stuttgart is very large.",
+      "highlight": [
+        "Diözese"
+      ]
+    },
+    {
+      "german": "Der Bischof besuchte alle Gemeinden seiner Diözese.",
+      "english": "The bishop visited all the parishes in his diocese.",
+      "highlight": [
+        "Diözese."
+      ]
+    }
+  ],
+  "forms": [
+    "Diözesen",
+    "die Diözesen",
+    "die Diözese"
+  ],
+  "memoryHook": "Diözese: a bishop's area, from Greek dioikesis (administration).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Diözese",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Diözese is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Diözese, zwei ___",
+      "answer": "Diözesen",
+      "fullAnswer": "ein Diözese, zwei Diözesen",
+      "explanation": "The plural is Diözesen.",
+      "acceptedAnswers": [
+        "Dioezesen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Diözese mean?",
+      "options": [
+        "the shop",
+        "diocese",
+        "never"
+      ],
+      "answer": "diocese",
+      "explanation": "Diözese: diocese.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "German synonym:",
+      "options": [
+        "das Bistum",
+        "die Pfarrei"
+      ],
+      "answer": "das Bistum",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Diözesan means…",
+      "options": [
+        "diocesan",
+        "dozen"
+      ],
+      "answer": "diocesan",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pronunciation:",
+      "options": [
+        "di-ö-TSAY-ze",
+        "DAI-o-sees"
+      ],
+      "answer": "di-ö-TSAY-ze",
+      "explanation": "German.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Diözese is a diocese, the area led by a bishop; the German synonym is das Bistum. Germany has 27 Catholic (arch)dioceses, which collect church tax through the state tax offices. The adjective diözesan appears in Diözesanrat or Diözesanmuseum. From Greek dioikesis (administration). Pronounced di-ö-TSAY-ze. Plural: die Diözesen."
+}

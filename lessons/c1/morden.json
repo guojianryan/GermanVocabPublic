@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "morden",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "MOR-den",
+      "ipa": "ˈmɔʁdn̩",
+      "notes": ""
+    },
+    "meaning": "to murder, kill",
+    "shortDefinition": "To murder, kill."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "mord|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "mord|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "mord|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "mord|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "mord|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "mord|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gemordet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Täter hat aus Habgier gemordet.",
+      "english": "The perpetrator killed out of greed.",
+      "highlight": [
+        "gemordet."
+      ]
+    },
+    {
+      "german": "In dem Krimi wird dreimal gemordet.",
+      "english": "There are three murders in the crime novel.",
+      "highlight": [
+        "gemordet."
+      ]
+    }
+  ],
+  "forms": [
+    "morde",
+    "mordest",
+    "mordet",
+    "morden",
+    "gemordet",
+    "Mord",
+    "Mörder",
+    "ermorden"
+  ],
+  "memoryHook": "Morden: commit Mord; with a victim, use ermorden.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (morden)",
+      "answer": "mordet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: mordet.",
+      "acceptedAnswers": [
+        "mordet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (morden, past)",
+      "answer": "gemordet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gemordet.",
+      "acceptedAnswers": [
+        "gemordet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does morden mean?",
+      "options": [
+        "the bed",
+        "to murder",
+        "to open"
+      ],
+      "answer": "to murder",
+      "explanation": "morden: to murder, kill.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "To murder someone (with object) is usually…",
+      "options": [
+        "ermorden",
+        "morden"
+      ],
+      "answer": "ermorden",
+      "explanation": "ermorden + object.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Mord is…",
+      "options": [
+        "murder",
+        "the moor"
+      ],
+      "answer": "murder",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Mörder is…",
+      "options": [
+        "the murderer",
+        "the mortar"
+      ],
+      "answer": "the murderer",
+      "explanation": "Murderer.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Morden means to murder or kill, usually without a direct object: Er hat gemordet. When there's a victim, German uses ermorden: Er hat seine Frau ermordet. Der Mord is murder, der Mörder the murderer. German law distinguishes Mord (murder, with specific aggravating features such as greed or cruelty, § 211 StGB, life imprisonment) from Totschlag (manslaughter). Sunday-evening Tatort means Germans watch a Mord on TV every week."
+}

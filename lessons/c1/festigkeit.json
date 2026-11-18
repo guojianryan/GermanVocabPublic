@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Festigkeit",
+    "partOfSpeech": "noun, feminine (die Festigkeit)",
+    "pronunciation": {
+      "respelling": "FES-tikh-kait",
+      "ipa": "ˈfɛstɪçkaɪ̯t",
+      "notes": "Usually no plural."
+    },
+    "meaning": "strength, firmness, solidity",
+    "shortDefinition": "Strength, firmness, solidity."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Festigkeit, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Festigkeit"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Stahl hat eine hohe Festigkeit.",
+      "english": "The steel has high strength.",
+      "highlight": [
+        "Festigkeit."
+      ]
+    },
+    {
+      "german": "Sie zeigte Festigkeit in ihren Überzeugungen.",
+      "english": "She showed firmness in her convictions.",
+      "highlight": [
+        "Festigkeit"
+      ]
+    }
+  ],
+  "forms": [
+    "die Festigkeit"
+  ],
+  "memoryHook": "Festigkeit: the quality of being fest (firm).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Festigkeit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Festigkeit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Festigkeit mean?",
+      "options": [
+        "strength",
+        "to travel",
+        "never"
+      ],
+      "answer": "strength",
+      "explanation": "Festigkeit: strength, firmness, solidity.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fest means…",
+      "options": [
+        "firm, solid; fixed",
+        "fast"
+      ],
+      "answer": "firm, solid; fixed",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Standfestigkeit is…",
+      "options": [
+        "stability; steadfastness",
+        "a festival"
+      ],
+      "answer": "stability; steadfastness",
+      "explanation": "Compound.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Zugfestigkeit is…",
+      "options": [
+        "tensile strength",
+        "train strength"
+      ],
+      "answer": "tensile strength",
+      "explanation": "Engineering.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Festigkeit is strength, firmness or solidity: die Festigkeit eines Materials, Zugfestigkeit (tensile strength) in engineering, and figuratively charakterliche Festigkeit (strength of character) or Standfestigkeit (steadfastness). From fest (firm, solid). Not to be confused with das Fest (party, festival). It has no plural."
+}

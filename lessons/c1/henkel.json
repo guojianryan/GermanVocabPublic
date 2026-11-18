@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Henkel",
+    "partOfSpeech": "noun, masculine (der Henkel)",
+    "pronunciation": {
+      "respelling": "HENG-kel",
+      "ipa": "ˈhɛŋkl̩",
+      "notes": "Plural: die Henkel."
+    },
+    "meaning": "handle (of a cup, basket)",
+    "shortDefinition": "Handle (of a cup, basket)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Henkel, plural die Henkel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Henkel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Henkel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Henkel der Tasse ist abgebrochen.",
+      "english": "The handle of the cup has broken off.",
+      "highlight": [
+        "Henkel"
+      ]
+    },
+    {
+      "german": "Nimm den Korb am Henkel.",
+      "english": "Take the basket by the handle.",
+      "highlight": [
+        "Henkel."
+      ]
+    }
+  ],
+  "forms": [
+    "die Henkel",
+    "der Henkel"
+  ],
+  "memoryHook": "Henkel: the loop you hang (hängen) a cup or basket by.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Henkel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Henkel is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Henkel, zwei ___",
+      "answer": "Henkel",
+      "fullAnswer": "ein Henkel, zwei Henkel",
+      "explanation": "The plural is Henkel.",
+      "acceptedAnswers": [
+        "Henkel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Henkel mean?",
+      "options": [
+        "the station",
+        "the job",
+        "handle (of a cup"
+      ],
+      "answer": "handle (of a cup",
+      "explanation": "Henkel: handle (of a cup, basket).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "A door handle is…",
+      "options": [
+        "die Klinke / der Griff",
+        "der Henkel"
+      ],
+      "answer": "die Klinke / der Griff",
+      "explanation": "Different handles.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Henkel is also…",
+      "options": [
+        "a big German company (Persil, Pritt)",
+        "a beer brand"
+      ],
+      "answer": "a big German company (Persil, Pritt)",
+      "explanation": "Henkel AG.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Henkel",
+        "die Henkeln"
+      ],
+      "answer": "die Henkel",
+      "explanation": "Unchanged.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Henkel is a handle on a cup, jug, pot or basket: die Tasse am Henkel halten. Other handles have other words: die Türklinke (door handle), der Griff (grip, handle of a bag or tool), der Stiel (handle of a pan or broom). The word is related to hängen, since a Henkel is what you hang things by. Henkel is also a major Düsseldorf company that makes Persil, Pritt glue and Schwarzkopf. The plural is the same."
+}

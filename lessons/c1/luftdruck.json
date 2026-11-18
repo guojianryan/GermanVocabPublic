@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Luftdruck",
+    "partOfSpeech": "noun, masculine (der Luftdruck)",
+    "pronunciation": {
+      "respelling": "LUFT-druk",
+      "ipa": "ˈlʊftˌdʁʊk",
+      "notes": "Usually no plural."
+    },
+    "meaning": "air pressure",
+    "shortDefinition": "Air pressure."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Luftdruck, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Luftdruck"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Luftdruck fällt, es wird Regen geben.",
+      "english": "The air pressure is falling; there will be rain.",
+      "highlight": [
+        "Luftdruck"
+      ]
+    },
+    {
+      "german": "Prüfen Sie den Luftdruck der Reifen.",
+      "english": "Check the tyre pressure.",
+      "highlight": [
+        "Luftdruck"
+      ]
+    }
+  ],
+  "forms": [
+    "der Luftdruck"
+  ],
+  "memoryHook": "Luftdruck: the Druck (pressure) of the Luft.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Luftdruck",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Luftdruck is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Luftdruck mean?",
+      "options": [
+        "to sleep",
+        "air pressure",
+        "the evening"
+      ],
+      "answer": "air pressure",
+      "explanation": "Luftdruck: air pressure.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fallender Luftdruck usually means…",
+      "options": [
+        "bad weather coming",
+        "good weather"
+      ],
+      "answer": "bad weather coming",
+      "explanation": "Weather.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Hoch / Tief is…",
+      "options": [
+        "high / low pressure area",
+        "up / down"
+      ],
+      "answer": "high / low pressure area",
+      "explanation": "Weather.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Reifendruck is…",
+      "options": [
+        "tyre pressure",
+        "a tyre print"
+      ],
+      "answer": "tyre pressure",
+      "explanation": "Tyres.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Luftdruck is air pressure: steigender, fallender Luftdruck, measured in Hektopascal (hPa). German weather reports talk of Hoch (high) and Tief (low), and since 1954 Berlin's Free University has named them; you can even buy the naming rights through the Wetterpate programme. Tyre pressure is der Reifendruck or Luftdruck der Reifen. It has no plural."
+}

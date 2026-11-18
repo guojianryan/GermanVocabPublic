@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Larve",
+    "partOfSpeech": "noun, feminine (die Larve)",
+    "pronunciation": {
+      "respelling": "LAR-fe",
+      "ipa": "ˈlaʁfə",
+      "notes": "Plural: die Larven."
+    },
+    "meaning": "larva; mask",
+    "shortDefinition": "Larva; mask."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Larve, plural die Larven.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Larve"
+        },
+        {
+          "label": "More than one",
+          "value": "die Larven"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Aus der Larve wird ein Schmetterling.",
+      "english": "The larva turns into a butterfly.",
+      "highlight": [
+        "Larve"
+      ]
+    },
+    {
+      "german": "Die Mückenlarven leben im Wasser.",
+      "english": "Mosquito larvae live in water.",
+      "highlight": [
+        "Mückenlarven"
+      ]
+    }
+  ],
+  "forms": [
+    "Larven",
+    "die Larven",
+    "die Larve"
+  ],
+  "memoryHook": "Larve: an insect's mask-like early stage.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Larve",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Larve is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Larve, zwei ___",
+      "answer": "Larven",
+      "fullAnswer": "ein Larve, zwei Larven",
+      "explanation": "The plural is Larven.",
+      "acceptedAnswers": [
+        "Larven"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Larve mean?",
+      "options": [
+        "expensive",
+        "larva",
+        "the evening"
+      ],
+      "answer": "larva",
+      "explanation": "Larve: larva; mask.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The v in Larve sounds like…",
+      "options": [
+        "f",
+        "v"
+      ],
+      "answer": "f",
+      "explanation": "LAR-fe.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Raupe is…",
+      "options": [
+        "a caterpillar",
+        "a robber"
+      ],
+      "answer": "a caterpillar",
+      "explanation": "Caterpillar.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In carnival (Fasnacht), die Larve is…",
+      "options": [
+        "a wooden mask",
+        "a costume"
+      ],
+      "answer": "a wooden mask",
+      "explanation": "Mask.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Larve is a larva: Insektenlarven, die Mückenlarve. A caterpillar is die Raupe, and a pupa die Puppe (also doll). Originally, Larve meant mask or ghost, from Latin larva, and in Swiss and southern German carnival (Fasnacht), the carved wooden masks are still called Larven. The v is pronounced as f: LAR-fe. Plural: die Larven."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Staatsstreich",
+    "partOfSpeech": "noun, masculine (der Staatsstreich)",
+    "pronunciation": {
+      "respelling": "SHTAATS-shtraikh",
+      "ipa": "ˈʃtaːt͡sˌʃtʁaɪ̯ç",
+      "notes": "Plural: die Staatsstreiche."
+    },
+    "meaning": "coup d'état",
+    "shortDefinition": "Coup d'état."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Staatsstreich, plural die Staatsstreiche.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Staatsstreich"
+        },
+        {
+          "label": "More than one",
+          "value": "die Staatsstreiche"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Militär versuchte einen Staatsstreich.",
+      "english": "The military attempted a coup.",
+      "highlight": [
+        "Staatsstreich."
+      ]
+    },
+    {
+      "german": "1920 scheiterte der Kapp-Putsch, ein Staatsstreich gegen die Republik.",
+      "english": "In 1920 the Kapp Putsch, a coup against the republic, failed.",
+      "highlight": [
+        "Staatsstreich"
+      ]
+    }
+  ],
+  "forms": [
+    "Staatsstreiche",
+    "der Staatsstreich"
+  ],
+  "memoryHook": "Staatsstreich: a Streich (blow) against the Staat.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Staatsstreich",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Staatsstreich is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Staatsstreich, zwei ___",
+      "answer": "Staatsstreiche",
+      "fullAnswer": "ein Staatsstreich, zwei Staatsstreiche",
+      "explanation": "The plural is Staatsstreiche.",
+      "acceptedAnswers": [
+        "Staatsstreiche"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Staatsstreich mean?",
+      "options": [
+        "the child",
+        "the flower",
+        "coup d'état"
+      ],
+      "answer": "coup d'état",
+      "explanation": "Staatsstreich: coup d'état.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Putsch",
+        "die Wahl"
+      ],
+      "answer": "der Putsch",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The 20 July 1944 plot aimed to…",
+      "options": [
+        "kill Hitler and overthrow the regime",
+        "start a war"
+      ],
+      "answer": "kill Hitler and overthrow the regime",
+      "explanation": "History.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Putsch is a word that…",
+      "options": [
+        "came from Swiss German into English",
+        "is French"
+      ],
+      "answer": "came from Swiss German into English",
+      "explanation": "Origin.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Staatsstreich is a coup d'état; der Putsch is a synonym that came from Swiss German into English. German history knows the right-wing Kapp-Putsch (1920), defeated by a general strike, Hitler's failed Munich putsch (1923), and the officers' plot of 20 July 1944 to kill Hitler. In December 2022, police arrested members of a Reichsbürger group accused of planning a coup. Plural: die Staatsstreiche."
+}

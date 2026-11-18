@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Auftraggeber",
+    "partOfSpeech": "noun, masculine (der Auftraggeber)",
+    "pronunciation": {
+      "respelling": "AUF-traak-gay-ber",
+      "ipa": "ˈaʊ̯ftʁaːkˌɡeːbɐ",
+      "notes": "Plural: die Auftraggeber."
+    },
+    "meaning": "client, customer (who commissions work)",
+    "shortDefinition": "Client, customer (who commissions work)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Auftraggeber, plural die Auftraggeber.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Auftraggeber"
+        },
+        {
+          "label": "More than one",
+          "value": "die Auftraggeber"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Auftraggeber war mit der Arbeit zufrieden.",
+      "english": "The client was happy with the work.",
+      "highlight": [
+        "Auftraggeber"
+      ]
+    },
+    {
+      "german": "Wer ist der Auftraggeber der Studie?",
+      "english": "Who commissioned the study?",
+      "highlight": [
+        "Auftraggeber"
+      ]
+    }
+  ],
+  "forms": [
+    "die Auftraggeber",
+    "der Auftraggeber",
+    "Auftraggeberin",
+    "Auftrag"
+  ],
+  "memoryHook": "Auftraggeber: the one who gives (gibt) the Auftrag.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Auftraggeber",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Auftraggeber is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Auftraggeber, zwei ___",
+      "answer": "Auftraggeber",
+      "fullAnswer": "ein Auftraggeber, zwei Auftraggeber",
+      "explanation": "The plural is Auftraggeber.",
+      "acceptedAnswers": [
+        "Auftraggeber"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Auftraggeber mean?",
+      "options": [
+        "the station",
+        "client",
+        "cheap"
+      ],
+      "answer": "client",
+      "explanation": "Auftraggeber: client, customer (who commissions work).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Auftrag is…",
+      "options": [
+        "an order, commission",
+        "a plate"
+      ],
+      "answer": "an order, commission",
+      "explanation": "Auftrag.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The person who carries out the work:",
+      "options": [
+        "der Auftragnehmer",
+        "der Auftraggeber"
+      ],
+      "answer": "der Auftragnehmer",
+      "explanation": "Contractor.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Im Auftrag (i. A.) on a letter means…",
+      "options": [
+        "on behalf of",
+        "in a hurry"
+      ],
+      "answer": "on behalf of",
+      "explanation": "i. A.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Auftraggeber (die Auftraggeberin) is the client who commissions work: a company, a city or a private person. The contractor who carries it out is der Auftragnehmer. Der Auftrag is an order or assignment: einen Auftrag erteilen. In German business letters, i. A. (im Auftrag) before a signature means signing on someone's behalf, while i. V. (in Vertretung) means as a deputy. Plural: die Auftraggeber."
+}

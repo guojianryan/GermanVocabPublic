@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "vollbringen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fol-BRING-en",
+      "ipa": "fɔlˈbʁɪŋən",
+      "notes": ""
+    },
+    "meaning": "to accomplish, achieve",
+    "shortDefinition": "To accomplish, achieve."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "vollbring|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "vollbring|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "vollbring|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "vollbring|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "vollbring|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "vollbring|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat vollbracht"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie hat eine großartige Leistung vollbracht.",
+      "english": "She has accomplished a great feat.",
+      "highlight": [
+        "vollbracht."
+      ]
+    },
+    {
+      "german": "Es ist vollbracht.",
+      "english": "It is finished.",
+      "highlight": [
+        "vollbracht."
+      ]
+    }
+  ],
+  "forms": [
+    "vollbringe",
+    "vollbringst",
+    "vollbringt",
+    "vollbringen",
+    "vollbracht",
+    "vollbrachte"
+  ],
+  "memoryHook": "Vollbringen: bring (bringen) something to completion (voll).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (vollbringen)",
+      "answer": "vollbringt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: vollbringt.",
+      "acceptedAnswers": [
+        "vollbringt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (vollbringen, past)",
+      "answer": "vollbracht",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe vollbracht.",
+      "acceptedAnswers": [
+        "vollbracht"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does vollbringen mean?",
+      "options": [
+        "the bread",
+        "the weather",
+        "to accomplish"
+      ],
+      "answer": "to accomplish",
+      "explanation": "vollbringen: to accomplish, achieve.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "vollbrachte, vollbracht",
+        "vollbringte"
+      ],
+      "answer": "vollbrachte, vollbracht",
+      "explanation": "Mixed.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wunder vollbringen means…",
+      "options": [
+        "to work miracles",
+        "to wait for miracles"
+      ],
+      "answer": "to work miracles",
+      "explanation": "Miracles.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Es ist vollbracht is…",
+      "options": [
+        "Jesus's last words in Luther's Bible",
+        "a football chant"
+      ],
+      "answer": "Jesus's last words in Luther's Bible",
+      "explanation": "Bible.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Vollbringen means to accomplish or achieve, a somewhat elevated word: eine Leistung, eine Heldentat, Wunder vollbringen. Es ist vollbracht (it is finished) are Jesus's last words in Luther's Bible, and the phrase is used humorously after finishing a big task. It's a mixed verb, not separable: vollbrachte, vollbracht."
+}

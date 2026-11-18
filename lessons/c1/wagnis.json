@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wagnis",
+    "partOfSpeech": "noun, neuter (das Wagnis)",
+    "pronunciation": {
+      "respelling": "VAAK-nis",
+      "ipa": "ˈvaːknɪs",
+      "notes": "Plural: die Wagnisse."
+    },
+    "meaning": "risk, venture, daring undertaking",
+    "shortDefinition": "Risk, venture, daring undertaking."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Wagnis, plural die Wagnisse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Wagnis"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wagnisse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Firmengründung war ein großes Wagnis.",
+      "english": "Founding the company was a big risk.",
+      "highlight": [
+        "Wagnis."
+      ]
+    },
+    {
+      "german": "Sie ging das Wagnis ein.",
+      "english": "She took the risk.",
+      "highlight": [
+        "Wagnis"
+      ]
+    }
+  ],
+  "forms": [
+    "Wagnisse",
+    "das Wagnis"
+  ],
+  "memoryHook": "Wagnis: something one wagt (dares).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wagnis",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Wagnis is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wagnis, zwei ___",
+      "answer": "Wagnisse",
+      "fullAnswer": "ein Wagnis, zwei Wagnisse",
+      "explanation": "The plural is Wagnisse.",
+      "acceptedAnswers": [
+        "Wagnisse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wagnis mean?",
+      "options": [
+        "risk",
+        "to help",
+        "tomorrow"
+      ],
+      "answer": "risk",
+      "explanation": "Wagnis: risk, venture, daring undertaking.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wagen (verb) means…",
+      "options": [
+        "to dare, venture",
+        "to weigh"
+      ],
+      "answer": "to dare, venture",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Wagnis eingehen means…",
+      "options": [
+        "to take a risk",
+        "to enter a car"
+      ],
+      "answer": "to take a risk",
+      "explanation": "Phrase.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wer nicht wagt, der nicht gewinnt means…",
+      "options": [
+        "nothing ventured, nothing gained",
+        "who waits, wins"
+      ],
+      "answer": "nothing ventured, nothing gained",
+      "explanation": "Proverb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Wagnis is a risk or daring venture: ein Wagnis eingehen, ein unternehmerisches Wagnis. Wagen means to dare: Wer nicht wagt, der nicht gewinnt (nothing ventured, nothing gained). Das Wagniskapital is venture capital. Synonyms: das Risiko, das Abenteuer, das Unterfangen. Plural: die Wagnisse."
+}

@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "punktuell",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "punk-tu-EL",
+      "ipa": "pʊŋktuˈɛl",
+      "notes": ""
+    },
+    "meaning": "selective, isolated, occasional",
+    "shortDefinition": "Selective, isolated, occasional."
+  },
+  "sampleSentences": [
+    {
+      "german": "Es gibt nur punktuelle Verbesserungen.",
+      "english": "There are only isolated improvements.",
+      "highlight": [
+        "punktuelle"
+      ]
+    },
+    {
+      "german": "Die Polizei kontrolliert punktuell.",
+      "english": "The police carry out spot checks.",
+      "highlight": [
+        "punktuell."
+      ]
+    }
+  ],
+  "forms": [
+    "punktuelle",
+    "punktuellen"
+  ],
+  "memoryHook": "Punktuell: at single Punkte (points).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does punktuell mean?",
+      "options": [
+        "to open",
+        "selective",
+        "quiet"
+      ],
+      "answer": "selective",
+      "explanation": "punktuell: selective, isolated, occasional.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Punktuell means…",
+      "options": [
+        "at certain points, selectively",
+        "punctual"
+      ],
+      "answer": "at certain points, selectively",
+      "explanation": "False friend.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Punctual in German is…",
+      "options": [
+        "pünktlich",
+        "punktuell"
+      ],
+      "answer": "pünktlich",
+      "explanation": "Contrast.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "vereinzelt, stellenweise",
+        "flächendeckend"
+      ],
+      "answer": "vereinzelt, stellenweise",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ Kontrollen (spot)",
+      "answer": "punktuelle",
+      "fullAnswer": "punktuelle Kontrollen",
+      "explanation": "Plural -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Punktuell means selective, isolated or at certain points: punktuelle Kontrollen (spot checks), punktuelle Verbesserungen, punktuell helfen. It's a false friend: punctual is pünktlich. The opposite is flächendeckend (comprehensive, nationwide) or umfassend. Synonyms: vereinzelt, stellenweise, gezielt."
+}

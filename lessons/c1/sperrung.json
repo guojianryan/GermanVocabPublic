@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sperrung",
+    "partOfSpeech": "noun, feminine (die Sperrung)",
+    "pronunciation": {
+      "respelling": "SHPER-ung",
+      "ipa": "ˈʃpɛʁʊŋ",
+      "notes": "Plural: die Sperrungen."
+    },
+    "meaning": "closure, blocking",
+    "shortDefinition": "Closure, blocking."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Sperrung, plural die Sperrungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Sperrung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Sperrungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wegen einer Sperrung müssen wir umfahren.",
+      "english": "Because of a closure we have to take a detour.",
+      "highlight": [
+        "Sperrung"
+      ]
+    },
+    {
+      "german": "Die Bank veranlasste die Sperrung der Karte.",
+      "english": "The bank had the card blocked.",
+      "highlight": [
+        "Sperrung"
+      ]
+    }
+  ],
+  "forms": [
+    "Sperrungen",
+    "die Sperrungen",
+    "die Sperrung",
+    "sperren"
+  ],
+  "memoryHook": "Sperrung: when something is gesperrt (blocked).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sperrung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Sperrung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Sperrung, zwei ___",
+      "answer": "Sperrungen",
+      "fullAnswer": "ein Sperrung, zwei Sperrungen",
+      "explanation": "The plural is Sperrungen.",
+      "acceptedAnswers": [
+        "Sperrungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sperrung mean?",
+      "options": [
+        "closure",
+        "the child",
+        "the key"
+      ],
+      "answer": "closure",
+      "explanation": "Sperrung: closure, blocking.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sperren means…",
+      "options": [
+        "to close, block, ban",
+        "to spare"
+      ],
+      "answer": "to close, block, ban",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Vollsperrung is…",
+      "options": [
+        "a full road closure",
+        "a full stop"
+      ],
+      "answer": "a full road closure",
+      "explanation": "Road.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The German card-blocking hotline number is…",
+      "options": [
+        "116 116",
+        "110"
+      ],
+      "answer": "116 116",
+      "explanation": "Sperr-Notruf.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Sperrung is a closure or block: die Vollsperrung der Autobahn (full closure), die Sperrung des Kontos, die Kartensperrung. If you lose a bank card in Germany, you call the Sperr-Notruf 116 116. The verb sperren means to close or block: Die Straße ist gesperrt. Die Sperre is a barrier or ban, like a player's Sperre (suspension) in football. Plural: die Sperrungen."
+}

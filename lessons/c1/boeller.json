@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Böller",
+    "partOfSpeech": "noun, masculine (der Böller)",
+    "pronunciation": {
+      "respelling": "BÖ-ler",
+      "ipa": "ˈbœlɐ",
+      "notes": "Plural: die Böller."
+    },
+    "meaning": "firecracker, banger",
+    "shortDefinition": "Firecracker, banger."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Böller, plural die Böller.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Böller"
+        },
+        {
+          "label": "More than one",
+          "value": "die Böller"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "An Silvester knallen überall Böller.",
+      "english": "On New Year's Eve, bangers go off everywhere.",
+      "highlight": [
+        "Böller."
+      ]
+    },
+    {
+      "german": "Viele Städte haben Böllerverbotszonen eingerichtet.",
+      "english": "Many cities have set up firework-free zones.",
+      "highlight": [
+        "Böllerverbotszonen"
+      ]
+    }
+  ],
+  "forms": [
+    "der Böller",
+    "Böllern"
+  ],
+  "memoryHook": "Böller: something that bollert (bangs).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Böller",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Böller is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Böller, zwei ___",
+      "answer": "Böller",
+      "fullAnswer": "ein Böller, zwei Böller",
+      "explanation": "The plural is Böller.",
+      "acceptedAnswers": [
+        "Boeller"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Böller mean?",
+      "options": [
+        "firecracker",
+        "the station",
+        "tomorrow"
+      ],
+      "answer": "firecracker",
+      "explanation": "Böller: firecracker, banger.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Böllern means…",
+      "options": [
+        "to set off firecrackers",
+        "to boil"
+      ],
+      "answer": "to set off firecrackers",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Germany, fireworks are normally sold…",
+      "options": [
+        "only in the last days of the year",
+        "all year"
+      ],
+      "answer": "only in the last days of the year",
+      "explanation": "Sales.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Silvester is…",
+      "options": [
+        "New Year's Eve",
+        "a name only"
+      ],
+      "answer": "New Year's Eve",
+      "explanation": "31 December.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Böller is a firecracker or banger. Setting off fireworks (böllern) is a big Silvester (New Year's Eve) tradition in Germany, and private fireworks may normally only be sold in the last few working days of the year. Each year there's debate about a Böllerverbot because of injuries, attacks on emergency workers, fine dust and stressed animals; many cities have Böllerverbotszonen. The plural is the same: die Böller."
+}

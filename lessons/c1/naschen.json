@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "naschen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "NA-shen",
+      "ipa": "ˈnaʃn̩",
+      "notes": ""
+    },
+    "meaning": "to nibble (sweets), snack",
+    "shortDefinition": "To nibble (sweets), snack."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "nasch|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "nasch|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "nasch|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "nasch|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "nasch|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "nasch|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat genascht"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wer hat von der Schokolade genascht?",
+      "english": "Who's been at the chocolate?",
+      "highlight": [
+        "genascht?"
+      ]
+    },
+    {
+      "german": "Sie nascht gern zwischendurch.",
+      "english": "She likes to snack on sweets between meals.",
+      "highlight": [
+        "nascht"
+      ]
+    }
+  ],
+  "forms": [
+    "nasche",
+    "naschst",
+    "nascht",
+    "naschen",
+    "genascht",
+    "Naschkatze"
+  ],
+  "memoryHook": "Naschen: secretly nibble sweet things.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (naschen)",
+      "answer": "nascht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: nascht.",
+      "acceptedAnswers": [
+        "nascht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (naschen, past)",
+      "answer": "genascht",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe genascht.",
+      "acceptedAnswers": [
+        "genascht"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does naschen mean?",
+      "options": [
+        "to nibble (sweets)",
+        "the key",
+        "to travel"
+      ],
+      "answer": "to nibble (sweets)",
+      "explanation": "naschen: to nibble (sweets), snack.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Naschkatze is…",
+      "options": [
+        "someone with a sweet tooth",
+        "a hungry cat"
+      ],
+      "answer": "someone with a sweet tooth",
+      "explanation": "Person.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Naschen von takes…",
+      "options": [
+        "von + dative",
+        "für + accusative"
+      ],
+      "answer": "von + dative",
+      "explanation": "Preposition.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Nascherei is…",
+      "options": [
+        "sweets, snacking",
+        "a nursery"
+      ],
+      "answer": "sweets, snacking",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Naschen means to nibble, especially sweets, often secretly: von der Torte naschen, gern naschen. Someone with a sweet tooth is eine Naschkatze, and Naschereien or das Naschwerk are sweets. Figuratively, sich an etwas naschen means to help oneself. Regular: naschte, genascht."
+}

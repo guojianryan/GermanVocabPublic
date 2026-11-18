@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Migrationshintergrund",
+    "partOfSpeech": "noun, masculine (der Migrationshintergrund)",
+    "pronunciation": {
+      "respelling": "mi-gra-TSYOHNS-hin-ter-grunt",
+      "ipa": "miɡʁaˈt͡si̯oːnsˌhɪntɐɡʁʊnt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "migrant background",
+    "shortDefinition": "Migrant background."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Migrationshintergrund, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Migrationshintergrund"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Viele Schüler haben einen Migrationshintergrund.",
+      "english": "Many pupils have a migrant background.",
+      "highlight": [
+        "Migrationshintergrund."
+      ]
+    },
+    {
+      "german": "Menschen mit Migrationshintergrund sind in der Politik unterrepräsentiert.",
+      "english": "People with a migrant background are under-represented in politics.",
+      "highlight": [
+        "Migrationshintergrund"
+      ]
+    }
+  ],
+  "forms": [
+    "der Migrationshintergrund"
+  ],
+  "memoryHook": "Migrationshintergrund: migration in your (family) background.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Migrationshintergrund",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Migrationshintergrund is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Migrationshintergrund mean?",
+      "options": [
+        "the evening",
+        "migrant background",
+        "always"
+      ],
+      "answer": "migrant background",
+      "explanation": "Migrationshintergrund: migrant background.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "It applies to people who…",
+      "options": [
+        "immigrated, or have at least one parent who did",
+        "only to foreign citizens"
+      ],
+      "answer": "immigrated, or have at least one parent who did",
+      "explanation": "Official definition.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "About what share of Germany's population has one?",
+      "options": [
+        "around a quarter or more",
+        "around 2 percent"
+      ],
+      "answer": "around a quarter or more",
+      "explanation": "Statistics.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Newer term used by some statisticians:",
+      "options": [
+        "Einwanderungsgeschichte",
+        "Ausländerstatus"
+      ],
+      "answer": "Einwanderungsgeschichte",
+      "explanation": "Newer term.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Migrationshintergrund (migrant background) is an official statistical term in Germany for people who immigrated themselves or have at least one parent who did, regardless of citizenship. Roughly a quarter or more of the population has one. The term is criticised for labelling German citizens as different, so the statistics office and others increasingly use Einwanderungsgeschichte (immigration history). It's a typical long German compound: Migration + s + Hintergrund (background)."
+}

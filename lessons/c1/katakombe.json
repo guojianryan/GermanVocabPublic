@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Katakombe",
+    "partOfSpeech": "noun, feminine (die Katakombe)",
+    "pronunciation": {
+      "respelling": "ka-ta-KOM-be",
+      "ipa": "kataˈkɔmbə",
+      "notes": "Plural: die Katakomben."
+    },
+    "meaning": "catacomb",
+    "shortDefinition": "Catacomb."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Katakombe, plural die Katakomben.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Katakombe"
+        },
+        {
+          "label": "More than one",
+          "value": "die Katakomben"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In Rom kann man die Katakomben besichtigen.",
+      "english": "In Rome you can visit the catacombs.",
+      "highlight": [
+        "Katakomben"
+      ]
+    },
+    {
+      "german": "Die frühen Christen bestatteten ihre Toten in Katakomben.",
+      "english": "The early Christians buried their dead in catacombs.",
+      "highlight": [
+        "Katakomben."
+      ]
+    }
+  ],
+  "forms": [
+    "Katakomben",
+    "die Katakombe"
+  ],
+  "memoryHook": "Katakombe: an underground burial place (Latin catacumba).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Katakombe",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Katakombe is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Katakombe, zwei ___",
+      "answer": "Katakomben",
+      "fullAnswer": "ein Katakombe, zwei Katakomben",
+      "explanation": "The plural is Katakomben.",
+      "acceptedAnswers": [
+        "Katakomben"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Katakombe mean?",
+      "options": [
+        "the weather",
+        "the flower",
+        "catacomb"
+      ],
+      "answer": "catacomb",
+      "explanation": "Katakombe: catacomb.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Usually used in…",
+      "options": [
+        "the plural (Katakomben)",
+        "the singular"
+      ],
+      "answer": "the plural (Katakomben)",
+      "explanation": "Plural.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gruft is…",
+      "options": [
+        "crypt, vault",
+        "a cave"
+      ],
+      "answer": "crypt, vault",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Paris has famous…",
+      "options": [
+        "Katakomben with bones",
+        "Grotten"
+      ],
+      "answer": "Katakomben with bones",
+      "explanation": "Paris.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Katakombe is a catacomb, an underground burial place, usually in the plural: die Katakomben Roms, where early Christians buried their dead, or the Paris catacombs filled with bones. Figuratively, Katakomben are dark underground passages: die Katakomben des Stadions. Related: die Gruft, die Krypta. Plural: die Katakomben."
+}

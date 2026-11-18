@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Stadtzentrum",
+    "partOfSpeech": "noun, neuter (das Stadtzentrum)",
+    "pronunciation": {
+      "respelling": "SHTAT-tsen-trum",
+      "ipa": "ˈʃtatˌt͡sɛntʁʊm",
+      "notes": "Plural: die Stadtzentren."
+    },
+    "meaning": "city centre, town centre",
+    "shortDefinition": "City centre, town centre."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Stadtzentrum, plural die Stadtzentren.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Stadtzentrum"
+        },
+        {
+          "label": "More than one",
+          "value": "die Stadtzentren"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Hotel liegt mitten im Stadtzentrum.",
+      "english": "The hotel is right in the city centre.",
+      "highlight": [
+        "Stadtzentrum."
+      ]
+    },
+    {
+      "german": "Viele Stadtzentren sind autofrei.",
+      "english": "Many town centres are car-free.",
+      "highlight": [
+        "Stadtzentren"
+      ]
+    }
+  ],
+  "forms": [
+    "Stadtzentren",
+    "die Stadtzentren",
+    "das Stadtzentrum"
+  ],
+  "memoryHook": "Stadtzentrum: the Zentrum of the Stadt.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Stadtzentrum",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Stadtzentrum is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Stadtzentrum, zwei ___",
+      "answer": "Stadtzentren",
+      "fullAnswer": "ein Stadtzentrum, zwei Stadtzentren",
+      "explanation": "The plural is Stadtzentren.",
+      "acceptedAnswers": [
+        "Stadtzentren"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Stadtzentrum mean?",
+      "options": [
+        "the key",
+        "the street",
+        "city centre"
+      ],
+      "answer": "city centre",
+      "explanation": "Stadtzentrum: city centre, town centre.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Stadtzentren",
+        "die Stadtzentrums"
+      ],
+      "answer": "die Stadtzentren",
+      "explanation": "Latin.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday synonym:",
+      "options": [
+        "die Innenstadt",
+        "die Altstadt only"
+      ],
+      "answer": "die Innenstadt",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Fußgängerzone is…",
+      "options": [
+        "a pedestrian zone",
+        "a crossing"
+      ],
+      "answer": "a pedestrian zone",
+      "explanation": "Pedestrian.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Stadtzentrum is the city or town centre; Germans more often say die Innenstadt or, in historic towns, die Altstadt. Most German town centres have a Fußgängerzone (pedestrian zone), a post-war invention; Kassel's Treppenstraße (1953) is often called the first. Online shopping and the pandemic hit many centres, prompting talk of Innenstadtsterben (dying town centres). Plural: die Stadtzentren."
+}

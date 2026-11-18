@@ -1,0 +1,122 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fertigstellung",
+    "partOfSpeech": "noun, feminine (die Fertigstellung)",
+    "pronunciation": {
+      "respelling": "FER-tikh-shtel-ung",
+      "ipa": "ˈfɛʁtɪçˌʃtɛlʊŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "completion",
+    "shortDefinition": "Completion."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Fertigstellung, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Fertigstellung"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Fertigstellung des Flughafens dauerte Jahre.",
+      "english": "The airport took years to complete.",
+      "highlight": [
+        "Fertigstellung"
+      ]
+    },
+    {
+      "german": "Nach Fertigstellung ziehen die Mieter ein.",
+      "english": "After completion the tenants move in.",
+      "highlight": [
+        "Fertigstellung"
+      ]
+    }
+  ],
+  "forms": [
+    "die Fertigstellung",
+    "fertigstellen",
+    "fertiggestellt"
+  ],
+  "memoryHook": "Fertigstellung: setting something fertig (finished).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fertigstellung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Fertigstellung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fertigstellung mean?",
+      "options": [
+        "the evening",
+        "completion",
+        "to help"
+      ],
+      "answer": "completion",
+      "explanation": "Fertigstellung: completion.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fertigstellen means…",
+      "options": [
+        "to complete, finish",
+        "to put down"
+      ],
+      "answer": "to complete, finish",
+      "explanation": "fertigstellen.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Typical context:",
+      "options": [
+        "construction projects",
+        "cooking"
+      ],
+      "answer": "construction projects",
+      "explanation": "Building.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "From…",
+      "options": [
+        "fertig + stellen",
+        "Fertigkeit"
+      ],
+      "answer": "fertig + stellen",
+      "explanation": "Make ready.",
+      "id": "q5"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "die ___ des Hauses (completion)",
+      "answer": "Fertigstellung",
+      "fullAnswer": "die Fertigstellung des Hauses",
+      "explanation": "Fertigstellung.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Fertigstellung is completion, especially of buildings and big projects: die Fertigstellung des neuen Bahnhofs. The most famous German example is Berlin's BER airport: planned to open in 2011, its Fertigstellung kept slipping until it finally opened in October 2020, nine years late. The verb is fertigstellen: Das Haus wird im Mai fertiggestellt. It's built from fertig (finished) and stellen (to put)."
+}

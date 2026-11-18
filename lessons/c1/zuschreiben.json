@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "zuschreiben",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "TSOO-shrai-ben",
+      "ipa": "ˈt͡suːˌʃʁaɪ̯bn̩",
+      "notes": ""
+    },
+    "meaning": "to attribute, ascribe",
+    "shortDefinition": "To attribute, ascribe."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schreib|e … |zu"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schreib|st … |zu"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schreib|t … |zu"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schreib|en … |zu"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schreib|t … |zu"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schreib|en … |zu"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat zugeschrieben"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Gemälde wird Rembrandt zugeschrieben.",
+      "english": "The painting is attributed to Rembrandt.",
+      "highlight": [
+        "zugeschrieben."
+      ]
+    },
+    {
+      "german": "Das hast du dir selbst zuzuschreiben.",
+      "english": "You've only yourself to blame for that.",
+      "highlight": [
+        "zuzuschreiben."
+      ]
+    }
+  ],
+  "forms": [
+    "schreibe zu",
+    "schreibst zu",
+    "schreibt zu",
+    "schreiben zu",
+    "zugeschrieben",
+    "schrieb zu",
+    "Zuschreibung"
+  ],
+  "memoryHook": "Zuschreiben: write (schreiben) something to (zu) someone's name.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … zu (zuschreiben)",
+      "answer": "schreibt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schreibt … zu.",
+      "acceptedAnswers": [
+        "schreibt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (zuschreiben, past)",
+      "answer": "zugeschrieben",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe zugeschrieben.",
+      "acceptedAnswers": [
+        "zugeschrieben"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does zuschreiben mean?",
+      "options": [
+        "the window",
+        "to attribute",
+        "the weather"
+      ],
+      "answer": "to attribute",
+      "explanation": "zuschreiben: to attribute, ascribe.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich etwas selbst zuzuschreiben haben means…",
+      "options": [
+        "to have only oneself to blame",
+        "to sign something"
+      ],
+      "answer": "to have only oneself to blame",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandem etwas zuschreiben takes…",
+      "options": [
+        "dative person + accusative thing",
+        "two accusatives"
+      ],
+      "answer": "dative person + accusative thing",
+      "explanation": "Dative.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Zuschreibung is…",
+      "options": [
+        "attribution",
+        "a subscription"
+      ],
+      "answer": "attribution",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Zuschreiben means to attribute or ascribe: Das Zitat wird Goethe zugeschrieben (the quote is attributed to Goethe), though many quotes attributed to Goethe are not his. Einer Pflanze heilende Kräfte zuschreiben means to credit a plant with healing powers. The idiom Das hast du dir selbst zuzuschreiben means you've only yourself to blame. Die Zuschreibung is attribution. Separable: schrieb zu, zugeschrieben."
+}

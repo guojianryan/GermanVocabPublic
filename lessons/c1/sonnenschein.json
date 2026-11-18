@@ -1,0 +1,120 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sonnenschein",
+    "partOfSpeech": "noun, masculine (der Sonnenschein)",
+    "pronunciation": {
+      "respelling": "ZON-en-shain",
+      "ipa": "ˈzɔnənˌʃaɪ̯n",
+      "notes": "Usually no plural."
+    },
+    "meaning": "sunshine",
+    "shortDefinition": "Sunshine."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Sonnenschein, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Sonnenschein"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir hatten eine Woche Sonnenschein.",
+      "english": "We had a week of sunshine.",
+      "highlight": [
+        "Sonnenschein."
+      ]
+    },
+    {
+      "german": "Sie ist unser kleiner Sonnenschein.",
+      "english": "She's our little ray of sunshine.",
+      "highlight": [
+        "Sonnenschein."
+      ]
+    }
+  ],
+  "forms": [
+    "der Sonnenschein"
+  ],
+  "memoryHook": "Sonnenschein: the shine of the Sonne, or of your child.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sonnenschein",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Sonnenschein is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sonnenschein mean?",
+      "options": [
+        "sunshine",
+        "the shop",
+        "to travel"
+      ],
+      "answer": "sunshine",
+      "explanation": "Sonnenschein: sunshine.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mein Sonnenschein is…",
+      "options": [
+        "a term of endearment",
+        "a weather forecast"
+      ],
+      "answer": "a term of endearment",
+      "explanation": "Endearment.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sunshine duration in forecasts:",
+      "options": [
+        "die Sonnenscheindauer",
+        "die Sonnenzeit"
+      ],
+      "answer": "die Sonnenscheindauer",
+      "explanation": "Duration.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Compound of…",
+      "options": [
+        "Sonne + n + Schein",
+        "Sonnen + schön"
+      ],
+      "answer": "Sonne + n + Schein",
+      "explanation": "Schein = light, shine.",
+      "id": "q5"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Bei strahlendem ___ (sunshine)",
+      "answer": "Sonnenschein",
+      "fullAnswer": "Bei strahlendem Sonnenschein",
+      "explanation": "Sonnenschein.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Sonnenschein is sunshine: bei strahlendem Sonnenschein (in glorious sunshine). It's also a term of endearment for a cheerful person, often a child: Na, mein Sonnenschein? Weather reports talk about die Sonnenscheindauer (hours of sunshine). Der Schein means light or shine, and also appearance or a banknote. Nach Regen kommt Sonnenschein means every cloud has a silver lining."
+}

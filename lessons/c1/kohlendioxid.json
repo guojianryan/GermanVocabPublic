@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kohlendioxid",
+    "partOfSpeech": "noun, neuter (das Kohlendioxid)",
+    "pronunciation": {
+      "respelling": "KOH-len-di-o-ksit",
+      "ipa": "ˈkoːlənˌdiːʔɔksiːt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "carbon dioxide",
+    "shortDefinition": "Carbon dioxide."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Kohlendioxid, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Kohlendioxid"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Autos stoßen Kohlendioxid aus.",
+      "english": "Cars emit carbon dioxide.",
+      "highlight": [
+        "Kohlendioxid"
+      ]
+    },
+    {
+      "german": "Der Ausstoß von Kohlendioxid muss sinken.",
+      "english": "Carbon dioxide emissions must fall.",
+      "highlight": [
+        "Kohlendioxid"
+      ]
+    }
+  ],
+  "forms": [
+    "das Kohlendioxid",
+    "CO₂"
+  ],
+  "memoryHook": "Kohlendioxid: carbon (Kohlenstoff) with two oxygens.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kohlendioxid",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Kohlendioxid is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kohlendioxid mean?",
+      "options": [
+        "the evening",
+        "carbon dioxide",
+        "the street"
+      ],
+      "answer": "carbon dioxide",
+      "explanation": "Kohlendioxid: carbon dioxide.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Short form:",
+      "options": [
+        "CO₂",
+        "KD"
+      ],
+      "answer": "CO₂",
+      "explanation": "CO₂.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die CO₂-Steuer / CO₂-Preis in Germany applies to…",
+      "options": [
+        "heating and transport fuels",
+        "food"
+      ],
+      "answer": "heating and transport fuels",
+      "explanation": "Price.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kohle is…",
+      "options": [
+        "coal; (slang) money",
+        "cabbage"
+      ],
+      "answer": "coal; (slang) money",
+      "explanation": "Root.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Kohlendioxid is carbon dioxide, usually just called CO₂ (tsay-oh-tsvai): der CO₂-Ausstoß, CO₂-neutral. Since 2021, Germany has charged a national CO₂-Preis on petrol, diesel, heating oil and gas, rising year by year. Kohlenmonoxid is carbon monoxide. Die Kohle means coal and, colloquially, money: Ich hab keine Kohle. It has no plural."
+}

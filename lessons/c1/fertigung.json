@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fertigung",
+    "partOfSpeech": "noun, feminine (die Fertigung)",
+    "pronunciation": {
+      "respelling": "FER-ti-gung",
+      "ipa": "ˈfɛʁtɪɡʊŋ",
+      "notes": "Plural: die Fertigungen."
+    },
+    "meaning": "production, manufacturing",
+    "shortDefinition": "Production, manufacturing."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Fertigung, plural die Fertigungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Fertigung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Fertigungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Fertigung wurde nach Osteuropa verlagert.",
+      "english": "Production was moved to Eastern Europe.",
+      "highlight": [
+        "Fertigung"
+      ]
+    },
+    {
+      "german": "Das Werk hat eine moderne Fertigung.",
+      "english": "The plant has a modern production line.",
+      "highlight": [
+        "Fertigung."
+      ]
+    }
+  ],
+  "forms": [
+    "Fertigungen",
+    "die Fertigungen",
+    "die Fertigung",
+    "anfertigen"
+  ],
+  "memoryHook": "Fertigung: making things fertig (finished).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fertigung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Fertigung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Fertigung, zwei ___",
+      "answer": "Fertigungen",
+      "fullAnswer": "ein Fertigung, zwei Fertigungen",
+      "explanation": "The plural is Fertigungen.",
+      "acceptedAnswers": [
+        "Fertigungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fertigung mean?",
+      "options": [
+        "the job",
+        "production",
+        "quiet"
+      ],
+      "answer": "production",
+      "explanation": "Fertigung: production, manufacturing.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Anfertigen means…",
+      "options": [
+        "to make, produce",
+        "to finish off"
+      ],
+      "answer": "to make, produce",
+      "explanation": "Make.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Fertigungstiefe is…",
+      "options": [
+        "vertical integration",
+        "production speed"
+      ],
+      "answer": "vertical integration",
+      "explanation": "Depth.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fertig means…",
+      "options": [
+        "finished, ready",
+        "fast"
+      ],
+      "answer": "finished, ready",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Fertigung is production or manufacturing, typical of engineering language: die Serienfertigung (series production), die Einzelfertigung (one-off production), die Fertigungshalle. Germany's Mittelstand is famous for high-quality Fertigung. The verbs are fertigen and anfertigen (to make): eine Kopie anfertigen. From fertig (finished, ready). Fertighäuser are prefabricated houses. Plural: die Fertigungen."
+}

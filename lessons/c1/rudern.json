@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "rudern",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ROO-dern",
+      "ipa": "ˈʁuːdɐn",
+      "notes": ""
+    },
+    "meaning": "to row",
+    "shortDefinition": "To row."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "ruder|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "ruder|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "ruder|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "ruder|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "ruder|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "ruder|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist gerudert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir sind über den See gerudert.",
+      "english": "We rowed across the lake.",
+      "highlight": [
+        "gerudert."
+      ]
+    },
+    {
+      "german": "Er rudert im Verein.",
+      "english": "He rows at a club.",
+      "highlight": [
+        "rudert"
+      ]
+    }
+  ],
+  "forms": [
+    "rudere",
+    "ruderst",
+    "rudert",
+    "rudern",
+    "gerudert",
+    "Ruder",
+    "Ruderboot",
+    "zurückrudern"
+  ],
+  "memoryHook": "Rudern: move a boat with a Ruder (oar).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (rudern)",
+      "answer": "rudert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: rudert.",
+      "acceptedAnswers": [
+        "rudert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (rudern, past)",
+      "answer": "gerudert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin gerudert.",
+      "acceptedAnswers": [
+        "gerudert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does rudern mean?",
+      "options": [
+        "to row",
+        "quiet",
+        "to open"
+      ],
+      "answer": "to row",
+      "explanation": "rudern: to row.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Perfect with movement:",
+      "options": [
+        "ist gerudert",
+        "hat gerudert only"
+      ],
+      "answer": "ist gerudert",
+      "explanation": "sein for movement.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zurückrudern (figuratively) means…",
+      "options": [
+        "to backpedal",
+        "to row home"
+      ],
+      "answer": "to backpedal",
+      "explanation": "Backpedal.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Ruder is…",
+      "options": [
+        "the oar; the rudder, helm",
+        "the rowing club"
+      ],
+      "answer": "the oar; the rudder, helm",
+      "explanation": "Ruder.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Rudern means to row: über den See rudern, ein Ruderboot (rowing boat). Rowing is a popular club sport in Germany, and the Deutschland-Achter (men's eight) is a famous Olympic crew. When rowing somewhere, the perfect takes sein: Wir sind ans Ufer gerudert. Figuratively, zurückrudern means to backpedal on a statement, a favourite word in political reporting. Das Ruder is the oar or the rudder: am Ruder sein means to be at the helm."
+}

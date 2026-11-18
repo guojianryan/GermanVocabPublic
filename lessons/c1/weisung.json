@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Weisung",
+    "partOfSpeech": "noun, feminine (die Weisung)",
+    "pronunciation": {
+      "respelling": "VAI-zung",
+      "ipa": "ˈvaɪ̯zʊŋ",
+      "notes": "Plural: die Weisungen."
+    },
+    "meaning": "instruction, directive",
+    "shortDefinition": "Instruction, directive."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Weisung, plural die Weisungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Weisung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Weisungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er handelte auf Weisung seines Vorgesetzten.",
+      "english": "He acted on his superior's instructions.",
+      "highlight": [
+        "Weisung"
+      ]
+    },
+    {
+      "german": "Die Staatsanwaltschaft ist an Weisungen des Ministers gebunden.",
+      "english": "The prosecutor's office is bound by the minister's instructions.",
+      "highlight": [
+        "Weisungen"
+      ]
+    }
+  ],
+  "forms": [
+    "Weisungen",
+    "die Weisung",
+    "weisungsgebunden"
+  ],
+  "memoryHook": "Weisung: what you're gewiesen (directed) to do.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Weisung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Weisung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Weisung, zwei ___",
+      "answer": "Weisungen",
+      "fullAnswer": "ein Weisung, zwei Weisungen",
+      "explanation": "The plural is Weisungen.",
+      "acceptedAnswers": [
+        "Weisungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Weisung mean?",
+      "options": [
+        "to sleep",
+        "the family",
+        "instruction"
+      ],
+      "answer": "instruction",
+      "explanation": "Weisung: instruction, directive.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Weisungsgebunden means…",
+      "options": [
+        "bound by instructions",
+        "wise"
+      ],
+      "answer": "bound by instructions",
+      "explanation": "Bound.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Anweisen means…",
+      "options": [
+        "to instruct",
+        "to wise up"
+      ],
+      "answer": "to instruct",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Anweisung is…",
+      "options": [
+        "instruction (everyday)",
+        "a payment slip only"
+      ],
+      "answer": "instruction (everyday)",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Weisung is an instruction or directive from a superior: auf Weisung von, Weisungen erteilen, weisungsgebunden (bound by instructions). In Germany, public prosecutors are weisungsgebunden to the justice minister, which the EU Court criticised in 2019 when it ruled they couldn't issue European arrest warrants. The everyday word is die Anweisung. Plural: die Weisungen."
+}

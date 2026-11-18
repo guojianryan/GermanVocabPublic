@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Beihilfe",
+    "partOfSpeech": "noun, feminine (die Beihilfe)",
+    "pronunciation": {
+      "respelling": "BAI-hil-fe",
+      "ipa": "ˈbaɪ̯ˌhɪlfə",
+      "notes": "Plural: die Beihilfen."
+    },
+    "meaning": "aid, subsidy; aiding and abetting",
+    "shortDefinition": "Aid, subsidy; aiding and abetting."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Beihilfe, plural die Beihilfen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Beihilfe"
+        },
+        {
+          "label": "More than one",
+          "value": "die Beihilfen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er wurde wegen Beihilfe zum Mord verurteilt.",
+      "english": "He was convicted of aiding and abetting murder.",
+      "highlight": [
+        "Beihilfe"
+      ]
+    },
+    {
+      "german": "Die EU prüft die staatlichen Beihilfen.",
+      "english": "The EU is examining the state aid.",
+      "highlight": [
+        "Beihilfen."
+      ]
+    }
+  ],
+  "forms": [
+    "Beihilfen",
+    "die Beihilfen",
+    "die Beihilfe"
+  ],
+  "memoryHook": "Beihilfe: help (Hilfe) given beside (bei), good or bad.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Beihilfe",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Beihilfe is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Beihilfe, zwei ___",
+      "answer": "Beihilfen",
+      "fullAnswer": "ein Beihilfe, zwei Beihilfen",
+      "explanation": "The plural is Beihilfen.",
+      "acceptedAnswers": [
+        "Beihilfen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Beihilfe mean?",
+      "options": [
+        "to buy",
+        "aid",
+        "never"
+      ],
+      "answer": "aid",
+      "explanation": "Beihilfe: aid, subsidy; aiding and abetting.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Beihilfe zum Mord means…",
+      "options": [
+        "accessory to murder",
+        "help after a murder"
+      ],
+      "answer": "accessory to murder",
+      "explanation": "Law.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Staatliche Beihilfen are…",
+      "options": [
+        "state aid (subsidies)",
+        "state help desks"
+      ],
+      "answer": "state aid (subsidies)",
+      "explanation": "Subsidies.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "For Beamte, die Beihilfe is…",
+      "options": [
+        "a state contribution to medical costs",
+        "a pension"
+      ],
+      "answer": "a state contribution to medical costs",
+      "explanation": "Civil servants.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Beihilfe means aid or subsidy (staatliche Beihilfen, regulated strictly by EU competition law) and, in criminal law, aiding and abetting: Beihilfe zum Mord. Elderly former concentration camp guards have been convicted of Beihilfe zum Mord in recent trials. For civil servants (Beamte), Beihilfe is the state's contribution to medical costs, so they usually have private insurance for the rest. Plural: die Beihilfen."
+}

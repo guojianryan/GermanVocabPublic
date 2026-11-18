@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kandidatur",
+    "partOfSpeech": "noun, feminine (die Kandidatur)",
+    "pronunciation": {
+      "respelling": "kan-di-da-TOOR",
+      "ipa": "kandidaˈtuːɐ̯",
+      "notes": "Plural: die Kandidaturen."
+    },
+    "meaning": "candidacy",
+    "shortDefinition": "Candidacy."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kandidatur, plural die Kandidaturen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kandidatur"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kandidaturen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie hat ihre Kandidatur für das Bürgermeisteramt bekannt gegeben.",
+      "english": "She announced her candidacy for mayor.",
+      "highlight": [
+        "Kandidatur"
+      ]
+    },
+    {
+      "german": "Er zog seine Kandidatur zurück.",
+      "english": "He withdrew his candidacy.",
+      "highlight": [
+        "Kandidatur"
+      ]
+    }
+  ],
+  "forms": [
+    "Kandidaturen",
+    "die Kandidaturen",
+    "die Kandidatur",
+    "kandidieren"
+  ],
+  "memoryHook": "Kandidatur: being a Kandidat.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kandidatur",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kandidatur is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kandidatur, zwei ___",
+      "answer": "Kandidaturen",
+      "fullAnswer": "ein Kandidatur, zwei Kandidaturen",
+      "explanation": "The plural is Kandidaturen.",
+      "acceptedAnswers": [
+        "Kandidaturen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kandidatur mean?",
+      "options": [
+        "never",
+        "to buy",
+        "candidacy"
+      ],
+      "answer": "candidacy",
+      "explanation": "Kandidatur: candidacy.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kandidieren means…",
+      "options": [
+        "to stand, run (for office)",
+        "to candy"
+      ],
+      "answer": "to stand, run (for office)",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kanzlerkandidat is…",
+      "options": [
+        "the chancellor candidate",
+        "the current chancellor"
+      ],
+      "answer": "the chancellor candidate",
+      "explanation": "Candidate.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Seine Kandidatur zurückziehen means…",
+      "options": [
+        "to withdraw one's candidacy",
+        "to renew it"
+      ],
+      "answer": "to withdraw one's candidacy",
+      "explanation": "Withdraw.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kandidatur is a candidacy: seine Kandidatur erklären (to declare), die Kandidatur zurückziehen (to withdraw). Kandidieren means to stand or run for office: für den Bundestag kandidieren. In German elections, each major party names a Kanzlerkandidat, though voters elect the Bundestag, which then elects the chancellor. Stressed on the last syllable: kan-di-da-TOOR. Plural: die Kandidaturen."
+}

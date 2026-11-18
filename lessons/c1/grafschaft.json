@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Grafschaft",
+    "partOfSpeech": "noun, feminine (die Grafschaft)",
+    "pronunciation": {
+      "respelling": "GRAAF-shaft",
+      "ipa": "ˈɡʁaːfʃaft",
+      "notes": "Plural: die Grafschaften."
+    },
+    "meaning": "county",
+    "shortDefinition": "County."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Grafschaft, plural die Grafschaften.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Grafschaft"
+        },
+        {
+          "label": "More than one",
+          "value": "die Grafschaften"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Grafschaft Bentheim liegt in Niedersachsen.",
+      "english": "The County of Bentheim is in Lower Saxony.",
+      "highlight": [
+        "Grafschaft"
+      ]
+    },
+    {
+      "german": "England ist in Grafschaften eingeteilt.",
+      "english": "England is divided into counties.",
+      "highlight": [
+        "Grafschaften"
+      ]
+    }
+  ],
+  "forms": [
+    "Grafschaften",
+    "die Grafschaften",
+    "die Grafschaft",
+    "Graf"
+  ],
+  "memoryHook": "Grafschaft: land ruled by a Graf (count).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Grafschaft",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Grafschaft is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Grafschaft, zwei ___",
+      "answer": "Grafschaften",
+      "fullAnswer": "ein Grafschaft, zwei Grafschaften",
+      "explanation": "The plural is Grafschaften.",
+      "acceptedAnswers": [
+        "Grafschaften"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Grafschaft mean?",
+      "options": [
+        "expensive",
+        "to learn",
+        "county"
+      ],
+      "answer": "county",
+      "explanation": "Grafschaft: county.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Graf is…",
+      "options": [
+        "count, earl",
+        "a graph"
+      ],
+      "answer": "count, earl",
+      "explanation": "Title.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Germany, administrative districts are called…",
+      "options": [
+        "Landkreise",
+        "Grafschaften"
+      ],
+      "answer": "Landkreise",
+      "explanation": "Landkreis.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "English counties in German are…",
+      "options": [
+        "Grafschaften",
+        "Kreise only"
+      ],
+      "answer": "Grafschaften",
+      "explanation": "Counties.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Grafschaft is a county, historically land ruled by a Graf (count). Germany's modern districts are Landkreise, but some regions keep historic names, like die Grafschaft Bentheim, and English counties are called Grafschaften. Der Graf (die Gräfin) is a count or countess. Graf Zeppelin, inventor of the airship, and the conspirator Graf von Stauffenberg (20 July 1944) are famous Grafen. Plural: die Grafschaften."
+}

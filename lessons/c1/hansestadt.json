@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Hansestadt",
+    "partOfSpeech": "noun, feminine (die Hansestadt)",
+    "pronunciation": {
+      "respelling": "HAN-ze-shtat",
+      "ipa": "ˈhanzəˌʃtat",
+      "notes": "Plural: die Hansestädte."
+    },
+    "meaning": "Hanseatic city",
+    "shortDefinition": "Hanseatic city."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Hansestadt, plural die Hansestädte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Hansestadt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Hansestädte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Lübeck war die Königin der Hanse.",
+      "english": "Lübeck was the queen of the Hanseatic League.",
+      "highlight": [
+        "Hanse."
+      ]
+    },
+    {
+      "german": "Hamburg und Bremen nennen sich bis heute Hansestadt.",
+      "english": "Hamburg and Bremen still call themselves Hanseatic cities.",
+      "highlight": [
+        "Hansestadt."
+      ]
+    }
+  ],
+  "forms": [
+    "Hansestädte",
+    "die Hansestädte",
+    "die Hansestadt",
+    "Hanse"
+  ],
+  "memoryHook": "Hansestadt: a city (Stadt) of the Hanse league.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Hansestadt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Hansestadt is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Hansestadt, zwei ___",
+      "answer": "Hansestädte",
+      "fullAnswer": "ein Hansestadt, zwei Hansestädte",
+      "explanation": "The plural is Hansestädte.",
+      "acceptedAnswers": [
+        "Hansestaedte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Hansestadt mean?",
+      "options": [
+        "the evening",
+        "Hanseatic city",
+        "quiet"
+      ],
+      "answer": "Hanseatic city",
+      "explanation": "Hansestadt: Hanseatic city.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "HH on Hamburg number plates means…",
+      "options": [
+        "Hansestadt Hamburg",
+        "Hafen Hamburg"
+      ],
+      "answer": "Hansestadt Hamburg",
+      "explanation": "HH.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Hanse was…",
+      "options": [
+        "a medieval trade league of cities",
+        "an airline"
+      ],
+      "answer": "a medieval trade league of cities",
+      "explanation": "League.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hanseatisch suggests…",
+      "options": [
+        "reserved, honourable, merchant-like",
+        "loud, flashy"
+      ],
+      "answer": "reserved, honourable, merchant-like",
+      "explanation": "Character.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Hansestadt is a Hanseatic city, a member of die Hanse, the medieval trading league that dominated the Baltic and North Sea from the 13th to the 17th century, led by Lübeck. Hamburg and Bremen still call themselves Freie Hansestadt, hence the number plates HH (Hansestadt Hamburg) and HB, and Rostock has HRO. Hanseatisch describes a reserved, understated, honourable style. Lufthansa takes its name from it. Plural: die Hansestädte."
+}

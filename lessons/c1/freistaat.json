@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Freistaat",
+    "partOfSpeech": "noun, masculine (der Freistaat)",
+    "pronunciation": {
+      "respelling": "FRAI-shtaat",
+      "ipa": "ˈfʁaɪ̯ˌʃtaːt",
+      "notes": "Plural: die Freistaaten."
+    },
+    "meaning": "free state (title of some German states)",
+    "shortDefinition": "Free state (title of some German states)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Freistaat, plural die Freistaaten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Freistaat"
+        },
+        {
+          "label": "More than one",
+          "value": "die Freistaaten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bayern nennt sich Freistaat.",
+      "english": "Bavaria calls itself a free state.",
+      "highlight": [
+        "Freistaat."
+      ]
+    },
+    {
+      "german": "Der Freistaat Sachsen investiert in Bildung.",
+      "english": "The Free State of Saxony is investing in education.",
+      "highlight": [
+        "Freistaat"
+      ]
+    }
+  ],
+  "forms": [
+    "Freistaaten",
+    "die Freistaaten",
+    "der Freistaat"
+  ],
+  "memoryHook": "Freistaat: a German word for republic, kept by Bavaria, Saxony and Thuringia.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Freistaat",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Freistaat is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Freistaat, zwei ___",
+      "answer": "Freistaaten",
+      "fullAnswer": "ein Freistaat, zwei Freistaaten",
+      "explanation": "The plural is Freistaaten.",
+      "acceptedAnswers": [
+        "Freistaaten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Freistaat mean?",
+      "options": [
+        "to wait",
+        "free state (title of some German states)",
+        "to open"
+      ],
+      "answer": "free state (title of some German states)",
+      "explanation": "Freistaat: free state (title of some German states).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which German states call themselves Freistaat?",
+      "options": [
+        "Bavaria, Saxony, Thuringia",
+        "Berlin, Hamburg, Bremen"
+      ],
+      "answer": "Bavaria, Saxony, Thuringia",
+      "explanation": "Three.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Legally, a Freistaat has…",
+      "options": [
+        "no more rights than other states",
+        "its own army"
+      ],
+      "answer": "no more rights than other states",
+      "explanation": "Just a name.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Historically, Freistaat meant…",
+      "options": [
+        "republic (not a monarchy)",
+        "a tax haven"
+      ],
+      "answer": "republic (not a monarchy)",
+      "explanation": "Republic.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Freistaat is a free state, originally a German word for republic, as opposed to a monarchy. Today three German Länder use it in their official names: der Freistaat Bayern, der Freistaat Sachsen and der Freistaat Thüringen. It gives them no extra legal rights, but it expresses regional pride, especially in Bavaria. The city-states Hamburg and Bremen call themselves Freie und Hansestadt. Plural: die Freistaaten."
+}

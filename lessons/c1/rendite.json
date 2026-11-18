@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rendite",
+    "partOfSpeech": "noun, feminine (die Rendite)",
+    "pronunciation": {
+      "respelling": "ren-DEE-te",
+      "ipa": "ʁɛnˈdiːtə",
+      "notes": "Plural: die Renditen."
+    },
+    "meaning": "return, yield (on investment)",
+    "shortDefinition": "Return, yield (on investment)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Rendite, plural die Renditen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Rendite"
+        },
+        {
+          "label": "More than one",
+          "value": "die Renditen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Rendite liegt bei fünf Prozent.",
+      "english": "The return is five percent.",
+      "highlight": [
+        "Rendite"
+      ]
+    },
+    {
+      "german": "Aktien bringen langfristig eine höhere Rendite.",
+      "english": "Shares bring a higher return in the long term.",
+      "highlight": [
+        "Rendite."
+      ]
+    }
+  ],
+  "forms": [
+    "Renditen",
+    "die Renditen",
+    "die Rendite"
+  ],
+  "memoryHook": "Rendite: what your money earns; Rente is what you get when you retire.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rendite",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Rendite is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Rendite, zwei ___",
+      "answer": "Renditen",
+      "fullAnswer": "ein Rendite, zwei Renditen",
+      "explanation": "The plural is Renditen.",
+      "acceptedAnswers": [
+        "Renditen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rendite mean?",
+      "options": [
+        "expensive",
+        "the window",
+        "return"
+      ],
+      "answer": "return",
+      "explanation": "Rendite: return, yield (on investment).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Rendite is…",
+      "options": [
+        "the return on an investment",
+        "the rent"
+      ],
+      "answer": "the return on an investment",
+      "explanation": "Return.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Rente is…",
+      "options": [
+        "the pension",
+        "the yield"
+      ],
+      "answer": "the pension",
+      "explanation": "Don't confuse!",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "From Italian…",
+      "options": [
+        "rendita (income)",
+        "rendere (to render)"
+      ],
+      "answer": "rendita (income)",
+      "explanation": "Italian.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Rendite is the return or yield on an investment: eine hohe Rendite, die Mietrendite (rental yield). Don't confuse it with die Rente (pension) or die Miete (rent). Many Germans traditionally kept their money in savings accounts with almost no Rendite, though ETFs have become popular. Renditestark means high-yielding. It came via Italian rendita (income). Plural: die Renditen."
+}

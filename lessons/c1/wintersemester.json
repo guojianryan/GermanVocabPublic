@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wintersemester",
+    "partOfSpeech": "noun, neuter (das Wintersemester)",
+    "pronunciation": {
+      "respelling": "VIN-ter-ze-mes-ter",
+      "ipa": "ˈvɪntɐzeˌmɛstɐ",
+      "notes": "Plural: die Wintersemester."
+    },
+    "meaning": "winter semester",
+    "shortDefinition": "Winter semester."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Wintersemester, plural die Wintersemester.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Wintersemester"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wintersemester"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Wintersemester beginnt im Oktober.",
+      "english": "The winter semester starts in October.",
+      "highlight": [
+        "Wintersemester"
+      ]
+    },
+    {
+      "german": "Sie studiert im dritten Semester.",
+      "english": "She's in her third semester.",
+      "highlight": [
+        "Semester."
+      ]
+    }
+  ],
+  "forms": [
+    "die Wintersemester",
+    "das Wintersemester",
+    "WS",
+    "WiSe"
+  ],
+  "memoryHook": "Wintersemester: the Semester that runs through Winter.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wintersemester",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Wintersemester is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wintersemester, zwei ___",
+      "answer": "Wintersemester",
+      "fullAnswer": "ein Wintersemester, zwei Wintersemester",
+      "explanation": "The plural is Wintersemester.",
+      "acceptedAnswers": [
+        "Wintersemester"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wintersemester mean?",
+      "options": [
+        "quiet",
+        "winter semester",
+        "the family"
+      ],
+      "answer": "winter semester",
+      "explanation": "Wintersemester: winter semester.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "German universities usually have…",
+      "options": [
+        "a winter and a summer semester",
+        "three terms"
+      ],
+      "answer": "a winter and a summer semester",
+      "explanation": "System.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Vorlesungszeit is…",
+      "options": [
+        "the lecture period",
+        "a lecture"
+      ],
+      "answer": "the lecture period",
+      "explanation": "Period.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Semesterferien are…",
+      "options": [
+        "the break between semesters",
+        "a trip"
+      ],
+      "answer": "the break between semesters",
+      "explanation": "Break.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Wintersemester (WS or WiSe) is the winter semester at German universities, running from October to March, with lectures roughly mid-October to mid-February; das Sommersemester (SoSe) runs April to September. Most degree courses start in the Wintersemester. Students count their progress in semesters: im fünften Semester. The break is die vorlesungsfreie Zeit or Semesterferien. Plural: die Wintersemester."
+}

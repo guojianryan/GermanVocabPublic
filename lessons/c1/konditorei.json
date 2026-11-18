@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Konditorei",
+    "partOfSpeech": "noun, feminine (die Konditorei)",
+    "pronunciation": {
+      "respelling": "kon-di-to-RAI",
+      "ipa": "kɔndiˌtoˈʁaɪ̯",
+      "notes": "Plural: die Konditoreien."
+    },
+    "meaning": "patisserie, cake shop",
+    "shortDefinition": "Patisserie, cake shop."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Konditorei, plural die Konditoreien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Konditorei"
+        },
+        {
+          "label": "More than one",
+          "value": "die Konditoreien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sonntags gehen wir in die Konditorei.",
+      "english": "On Sundays we go to the cake shop.",
+      "highlight": [
+        "Konditorei."
+      ]
+    },
+    {
+      "german": "Die Konditorei ist für ihre Torten bekannt.",
+      "english": "The patisserie is known for its gateaux.",
+      "highlight": [
+        "Konditorei"
+      ]
+    }
+  ],
+  "forms": [
+    "Konditoreien",
+    "die Konditorei"
+  ],
+  "memoryHook": "Konditorei: the shop of the Konditor (pastry chef).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Konditorei",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Konditorei is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Konditorei, zwei ___",
+      "answer": "Konditoreien",
+      "fullAnswer": "ein Konditorei, zwei Konditoreien",
+      "explanation": "The plural is Konditoreien.",
+      "acceptedAnswers": [
+        "Konditoreien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Konditorei mean?",
+      "options": [
+        "patisserie",
+        "expensive",
+        "the weather"
+      ],
+      "answer": "patisserie",
+      "explanation": "Konditorei: patisserie, cake shop.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Konditor is…",
+      "options": [
+        "pastry chef",
+        "a conductor"
+      ],
+      "answer": "pastry chef",
+      "explanation": "Person.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kaffee und Kuchen is…",
+      "options": [
+        "the afternoon coffee-and-cake ritual",
+        "breakfast"
+      ],
+      "answer": "the afternoon coffee-and-cake ritual",
+      "explanation": "Culture.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Difference from Bäckerei:",
+      "options": [
+        "specialises in cakes and pastries",
+        "sells only bread"
+      ],
+      "answer": "specialises in cakes and pastries",
+      "explanation": "Contrast.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Konditorei is a patisserie or cake shop, often with a café attached, specialising in Torten and pastries. Der Konditor is a trained pastry chef, a recognised craft in Germany. The Konditorei is the home of Kaffee und Kuchen, the afternoon coffee-and-cake ritual, with classics like Schwarzwälder Kirschtorte and Bienenstich. Plural: die Konditoreien."
+}

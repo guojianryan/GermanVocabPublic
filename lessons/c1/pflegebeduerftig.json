@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "pflegebedürftig",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "PFLAY-ge-be-dürf-tikh",
+      "ipa": "ˈp͡fleːɡəbəˌdʏʁftɪç",
+      "notes": ""
+    },
+    "meaning": "in need of care",
+    "shortDefinition": "In need of care."
+  },
+  "sampleSentences": [
+    {
+      "german": "Seine Mutter ist seit dem Schlaganfall pflegebedürftig.",
+      "english": "His mother has needed care since the stroke.",
+      "highlight": [
+        "pflegebedürftig."
+      ]
+    },
+    {
+      "german": "Immer mehr Menschen sind pflegebedürftig.",
+      "english": "More and more people are in need of care.",
+      "highlight": [
+        "pflegebedürftig."
+      ]
+    }
+  ],
+  "forms": [
+    "pflegebedürftige",
+    "pflegebedürftigen",
+    "Pflegebedürftige"
+  ],
+  "memoryHook": "Pflegebedürftig: bedürftig (in need) of Pflege (care).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does pflegebedürftig mean?",
+      "options": [
+        "in need of care",
+        "slowly",
+        "the bill"
+      ],
+      "answer": "in need of care",
+      "explanation": "pflegebedürftig: in need of care.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Pflegegrad is…",
+      "options": [
+        "a care level (1–5) for insurance",
+        "a nursing degree"
+      ],
+      "answer": "a care level (1–5) for insurance",
+      "explanation": "Germany.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Pflegeversicherung is…",
+      "options": [
+        "long-term care insurance",
+        "car insurance"
+      ],
+      "answer": "long-term care insurance",
+      "explanation": "Related.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bedürftig means…",
+      "options": [
+        "needy, in need",
+        "thirsty"
+      ],
+      "answer": "needy, in need",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ Angehörige (in need of care)",
+      "answer": "pflegebedürftige",
+      "fullAnswer": "pflegebedürftige Angehörige",
+      "explanation": "Plural -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Pflegebedürftig means in need of (long-term) care: pflegebedürftige Menschen, pflegebedürftig werden. Germany introduced compulsory long-term care insurance (Pflegeversicherung) in 1995. An assessment assigns a Pflegegrad from 1 to 5, which determines support. Most people in need of care are looked after at home, often by relatives. Bedürftig means needy."
+}

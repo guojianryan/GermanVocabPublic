@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "knarren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "KNA-ren",
+      "ipa": "ˈknaʁən",
+      "notes": ""
+    },
+    "meaning": "to creak",
+    "shortDefinition": "To creak."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "knarr|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "knarr|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "knarr|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "knarr|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "knarr|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "knarr|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geknarrt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die alte Holztreppe knarrt.",
+      "english": "The old wooden staircase creaks.",
+      "highlight": [
+        "knarrt."
+      ]
+    },
+    {
+      "german": "Die Tür knarrte, als er sie öffnete.",
+      "english": "The door creaked as he opened it.",
+      "highlight": [
+        "knarrte,"
+      ]
+    }
+  ],
+  "forms": [
+    "knarre",
+    "knarrst",
+    "knarrt",
+    "knarren",
+    "geknarrt",
+    "knarrte"
+  ],
+  "memoryHook": "Knarren: the sound of old wood.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (knarren)",
+      "answer": "knarrt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: knarrt.",
+      "acceptedAnswers": [
+        "knarrt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (knarren, past)",
+      "answer": "geknarrt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geknarrt.",
+      "acceptedAnswers": [
+        "geknarrt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does knarren mean?",
+      "options": [
+        "the family",
+        "the street",
+        "to creak"
+      ],
+      "answer": "to creak",
+      "explanation": "knarren: to creak.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "quietschen, knarzen",
+        "flüstern"
+      ],
+      "answer": "quietschen, knarzen",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Knarren is…",
+      "options": [
+        "onomatopoeic",
+        "Latin"
+      ],
+      "answer": "onomatopoeic",
+      "explanation": "Origin.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine knarrende Stimme is…",
+      "options": [
+        "a rasping voice",
+        "a soft voice"
+      ],
+      "answer": "a rasping voice",
+      "explanation": "Phrase.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Knarren means to creak, the sound of old wooden floors, doors or stairs: knarrende Dielen. A variant is knarzen. Quietschen is a higher squeak, like brakes or hinges. Eine knarrende Stimme is a rasping voice. Like many sound verbs, it's onomatopoeic. Die Knarre is slang for a gun, originally a rattle. Regular: knarrte, geknarrt."
+}

@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Festland",
+    "partOfSpeech": "noun, neuter (das Festland)",
+    "pronunciation": {
+      "respelling": "FEST-lant",
+      "ipa": "ˈfɛstˌlant",
+      "notes": "Usually no plural."
+    },
+    "meaning": "mainland",
+    "shortDefinition": "Mainland."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Festland, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Festland"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Fähre bringt uns zurück aufs Festland.",
+      "english": "The ferry takes us back to the mainland.",
+      "highlight": [
+        "Festland."
+      ]
+    },
+    {
+      "german": "Auf dem Festland ist es wärmer als auf der Insel.",
+      "english": "It's warmer on the mainland than on the island.",
+      "highlight": [
+        "Festland"
+      ]
+    }
+  ],
+  "forms": [
+    "das Festland"
+  ],
+  "memoryHook": "Festland: firm (fest) land, not an island.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Festland",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Festland is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Festland mean?",
+      "options": [
+        "the weather",
+        "to travel",
+        "mainland"
+      ],
+      "answer": "mainland",
+      "explanation": "Festland: mainland.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Festland is…",
+      "options": [
+        "the mainland",
+        "a festival ground"
+      ],
+      "answer": "the mainland",
+      "explanation": "Mainland.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fest means…",
+      "options": [
+        "firm, solid; party (noun)",
+        "fast"
+      ],
+      "answer": "firm, solid; party (noun)",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's largest island is…",
+      "options": [
+        "Rügen",
+        "Sylt"
+      ],
+      "answer": "Rügen",
+      "explanation": "Rügen.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Festland is the mainland, as opposed to islands: aufs Festland zurückkehren. Germany's North Sea islands like Sylt, Föhr and the East Frisian islands are reached from the Festland by ferry; Sylt also has a railway causeway, the Hindenburgdamm. Rügen in the Baltic is Germany's largest island, linked by bridge. The British call continental Europe der Kontinent. It has no plural."
+}

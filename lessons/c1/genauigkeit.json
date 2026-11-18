@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Genauigkeit",
+    "partOfSpeech": "noun, feminine (die Genauigkeit)",
+    "pronunciation": {
+      "respelling": "ge-NAU-ikh-kait",
+      "ipa": "ɡəˈnaʊ̯ɪçkaɪ̯t",
+      "notes": "Usually no plural."
+    },
+    "meaning": "accuracy, precision",
+    "shortDefinition": "Accuracy, precision."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Genauigkeit, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Genauigkeit"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Uhr arbeitet mit großer Genauigkeit.",
+      "english": "The clock works with great precision.",
+      "highlight": [
+        "Genauigkeit."
+      ]
+    },
+    {
+      "german": "Bei dieser Arbeit ist Genauigkeit wichtig.",
+      "english": "Accuracy is important in this work.",
+      "highlight": [
+        "Genauigkeit"
+      ]
+    }
+  ],
+  "forms": [
+    "die Genauigkeit",
+    "genau",
+    "Ungenauigkeit"
+  ],
+  "memoryHook": "Genauigkeit: being genau (exact).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Genauigkeit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Genauigkeit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Genauigkeit mean?",
+      "options": [
+        "accuracy",
+        "to learn",
+        "hot"
+      ],
+      "answer": "accuracy",
+      "explanation": "Genauigkeit: accuracy, precision.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Genau means…",
+      "options": [
+        "exact; exactly",
+        "generous"
+      ],
+      "answer": "exact; exactly",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Genau! in conversation means…",
+      "options": [
+        "Exactly!",
+        "Careful!"
+      ],
+      "answer": "Exactly!",
+      "explanation": "Agreement.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Ungenauigkeit is…",
+      "options": [
+        "inaccuracy",
+        "impatience"
+      ],
+      "answer": "inaccuracy",
+      "explanation": "Opposite.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Genauigkeit is accuracy or precision: mit höchster Genauigkeit, die Genauigkeit einer Messung. It's seen as a classic German virtue, along with Pünktlichkeit and Ordnung. Genau means exact, and Genau! is one of the most common German responses, meaning exactly or right. Es mit etwas nicht so genau nehmen means to be lax about something. Die Ungenauigkeit is inaccuracy. It has no plural."
+}

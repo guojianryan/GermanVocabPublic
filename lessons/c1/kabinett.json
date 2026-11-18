@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kabinett",
+    "partOfSpeech": "noun, neuter (das Kabinett)",
+    "pronunciation": {
+      "respelling": "ka-bi-NET",
+      "ipa": "kabiˈnɛt",
+      "notes": "Plural: die Kabinette."
+    },
+    "meaning": "cabinet (government); small room; Kabinett wine",
+    "shortDefinition": "Cabinet (government); small room; Kabinett wine."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Kabinett, plural die Kabinette.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Kabinett"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kabinette"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Kabinett tagt jeden Mittwoch.",
+      "english": "The cabinet meets every Wednesday.",
+      "highlight": [
+        "Kabinett"
+      ]
+    },
+    {
+      "german": "Die Kanzlerin stellte ihr Kabinett vor.",
+      "english": "The chancellor presented her cabinet.",
+      "highlight": [
+        "Kabinett"
+      ]
+    }
+  ],
+  "forms": [
+    "Kabinette",
+    "die Kabinette",
+    "das Kabinett",
+    "Kabinettssitzung"
+  ],
+  "memoryHook": "Kabinett: a small room with big decisions.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kabinett",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Kabinett is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kabinett, zwei ___",
+      "answer": "Kabinette",
+      "fullAnswer": "ein Kabinett, zwei Kabinette",
+      "explanation": "The plural is Kabinette.",
+      "acceptedAnswers": [
+        "Kabinette"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kabinett mean?",
+      "options": [
+        "the bed",
+        "the key",
+        "cabinet (government)"
+      ],
+      "answer": "cabinet (government)",
+      "explanation": "Kabinett: cabinet (government); small room; Kabinett wine.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Kabinette",
+        "Kabinetten"
+      ],
+      "answer": "Kabinette",
+      "explanation": "-e.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Kabinett meets in…",
+      "options": [
+        "the Bundeskanzleramt typically",
+        "the Bundesrat"
+      ],
+      "answer": "the Bundeskanzleramt typically",
+      "explanation": "Government.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kabinett on a wine label means…",
+      "options": [
+        "a light, quality category",
+        "a very sweet dessert wine"
+      ],
+      "answer": "a light, quality category",
+      "explanation": "Prädikatswein.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Kabinett is…",
+      "options": [
+        "neuter",
+        "masculine"
+      ],
+      "answer": "neuter",
+      "explanation": "Das Kabinett.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Das Kabinett is the cabinet, the chancellor and the federal ministers: Das Kabinett beschließt den Haushalt. The word first meant a small room, which survives in Kabinettstück (a showpiece) and in the wine label Kabinett, the lightest category of German Prädikatswein. In museums, a Kabinett can also be a small room for a special exhibition. Its plural is die Kabinette."
+}

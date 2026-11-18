@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Todesfall",
+    "partOfSpeech": "noun, masculine (der Todesfall)",
+    "pronunciation": {
+      "respelling": "TOH-des-fal",
+      "ipa": "ˈtoːdəsˌfal",
+      "notes": "Plural: die Todesfälle."
+    },
+    "meaning": "death (case, in a family)",
+    "shortDefinition": "Death (case, in a family)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Todesfall, plural die Todesfälle.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Todesfall"
+        },
+        {
+          "label": "More than one",
+          "value": "die Todesfälle"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wegen eines Todesfalls in der Familie bleibt das Geschäft geschlossen.",
+      "english": "Due to a death in the family, the shop is closed.",
+      "highlight": [
+        "Todesfalls"
+      ]
+    },
+    {
+      "german": "Die Zahl der Todesfälle ist gesunken.",
+      "english": "The number of deaths has fallen.",
+      "highlight": [
+        "Todesfälle"
+      ]
+    }
+  ],
+  "forms": [
+    "Todesfälle",
+    "die Todesfälle",
+    "der Todesfall",
+    "Todesfalls"
+  ],
+  "memoryHook": "Todesfall: a case (Fall) of death (Tod).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Todesfall",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Todesfall is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Todesfall, zwei ___",
+      "answer": "Todesfälle",
+      "fullAnswer": "ein Todesfall, zwei Todesfälle",
+      "explanation": "The plural is Todesfälle.",
+      "acceptedAnswers": [
+        "Todesfaelle"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Todesfall mean?",
+      "options": [
+        "the key",
+        "the shop",
+        "death (case"
+      ],
+      "answer": "death (case",
+      "explanation": "Todesfall: death (case, in a family).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Im Todesfall means…",
+      "options": [
+        "in the event of death",
+        "in a fatal case"
+      ],
+      "answer": "in the event of death",
+      "explanation": "Event.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A sign Wegen Todesfall geschlossen means…",
+      "options": [
+        "closed due to a death",
+        "closed forever"
+      ],
+      "answer": "closed due to a death",
+      "explanation": "Sign.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Tod is…",
+      "options": [
+        "death",
+        "dead"
+      ],
+      "answer": "death",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Todesfall is a death, as a case or event: ein Todesfall in der Familie, im Todesfall (in the event of death, a phrase in insurance and wills). Small German shops sometimes put up a sign Wegen Todesfall geschlossen. In statistics, Todesfälle are deaths: die Zahl der Todesfälle. Der Tod is death, and tot means dead. Condolences are expressed with Mein herzliches Beileid. Plural: die Todesfälle."
+}

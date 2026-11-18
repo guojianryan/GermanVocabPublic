@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "gemeinnützig",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "ge-MAIN-nüt-sikh",
+      "ipa": "ɡəˈmaɪ̯nˌnʏt͡sɪç",
+      "notes": ""
+    },
+    "meaning": "non-profit, charitable",
+    "shortDefinition": "Non-profit, charitable."
+  },
+  "sampleSentences": [
+    {
+      "german": "Der Verein ist als gemeinnützig anerkannt.",
+      "english": "The association is recognised as non-profit.",
+      "highlight": [
+        "gemeinnützig"
+      ]
+    },
+    {
+      "german": "Sie arbeitet für eine gemeinnützige Organisation.",
+      "english": "She works for a charitable organisation.",
+      "highlight": [
+        "gemeinnützige"
+      ]
+    }
+  ],
+  "forms": [
+    "gemeinnützige",
+    "gemeinnützigen",
+    "Gemeinnützigkeit"
+  ],
+  "memoryHook": "Gemeinnützig: useful (nützlich) for the community (Gemeinschaft).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does gemeinnützig mean?",
+      "options": [
+        "non-profit",
+        "the child",
+        "slowly"
+      ],
+      "answer": "non-profit",
+      "explanation": "gemeinnützig: non-profit, charitable.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gemeinnützige gGmbH means…",
+      "options": [
+        "a non-profit limited company",
+        "a public authority"
+      ],
+      "answer": "a non-profit limited company",
+      "explanation": "gGmbH.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Donations to gemeinnützige organisations are…",
+      "options": [
+        "tax-deductible",
+        "taxed double"
+      ],
+      "answer": "tax-deductible",
+      "explanation": "Tax.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gemeinwohl is…",
+      "options": [
+        "the common good",
+        "the community centre"
+      ],
+      "answer": "the common good",
+      "explanation": "Common good.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Stiftung (charitable)",
+      "answer": "gemeinnützige",
+      "fullAnswer": "eine gemeinnützige Stiftung",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Gemeinnützig means non-profit or charitable, a legal status granted by the tax office: ein gemeinnütziger Verein, eine gemeinnützige GmbH (gGmbH). Donations to such bodies are tax-deductible, and you get a Spendenquittung (donation receipt). Die Gemeinnützigkeit can be withdrawn, as in the 2019 case of the anti-globalisation network Attac, which sparked debate about political activity by charities. Related: das Gemeinwohl (common good)."
+}

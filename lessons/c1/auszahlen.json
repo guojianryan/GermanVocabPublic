@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "auszahlen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AUS-tsaa-len",
+      "ipa": "ˈaʊ̯sˌt͡saːlən",
+      "notes": ""
+    },
+    "meaning": "to pay out; to pay off (be worth it)",
+    "shortDefinition": "To pay out; to pay off (be worth it)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "zahl|e … |aus"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "zahl|st … |aus"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "zahl|t … |aus"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "zahl|en … |aus"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "zahl|t … |aus"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "zahl|en … |aus"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat ausgezahlt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Versicherung zahlt den Schaden aus.",
+      "english": "The insurance pays out for the damage.",
+      "highlight": [
+        "zahlt",
+        "aus."
+      ]
+    },
+    {
+      "german": "Die harte Arbeit hat sich ausgezahlt.",
+      "english": "The hard work has paid off.",
+      "highlight": [
+        "ausgezahlt."
+      ]
+    }
+  ],
+  "forms": [
+    "zahle aus",
+    "zahlst aus",
+    "zahlt aus",
+    "zahlen aus",
+    "ausgezahlt",
+    "zahlte aus",
+    "Auszahlung"
+  ],
+  "memoryHook": "Auszahlen: pay (zahlen) money out (aus).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … aus (auszahlen)",
+      "answer": "zahlt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: zahlt … aus.",
+      "acceptedAnswers": [
+        "zahlt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (auszahlen, past)",
+      "answer": "ausgezahlt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe ausgezahlt.",
+      "acceptedAnswers": [
+        "ausgezahlt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does auszahlen mean?",
+      "options": [
+        "the bed",
+        "to wait",
+        "to pay out"
+      ],
+      "answer": "to pay out",
+      "explanation": "auszahlen: to pay out; to pay off (be worth it).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich auszahlen means…",
+      "options": [
+        "to pay off, be worth it",
+        "to pay oneself"
+      ],
+      "answer": "to pay off, be worth it",
+      "explanation": "Worth it.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Auszahlung is…",
+      "options": [
+        "payout, payment",
+        "counting"
+      ],
+      "answer": "payout, payment",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden auszahlen means…",
+      "options": [
+        "to buy someone out",
+        "to pay someone a visit"
+      ],
+      "answer": "to buy someone out",
+      "explanation": "Buy out.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Auszahlen means to pay out: das Gehalt auszahlen, sich die Lebensversicherung auszahlen lassen. Jemanden auszahlen means to buy someone out, for example a business partner or a co-heir. Reflexively, sich auszahlen means to pay off or be worth it: Geduld zahlt sich aus. Die Auszahlung is a payout. Separable: zahlte aus, ausgezahlt (also ausbezahlt in the south)."
+}

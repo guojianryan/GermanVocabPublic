@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "artikulieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ar-ti-ku-LEE-ren",
+      "ipa": "aʁtikuˈliːʁən",
+      "notes": ""
+    },
+    "meaning": "to articulate, express",
+    "shortDefinition": "To articulate, express."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "artikulier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "artikulier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "artikulier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "artikulier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "artikulier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "artikulier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat artikuliert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie kann ihre Bedürfnisse klar artikulieren.",
+      "english": "She can clearly articulate her needs.",
+      "highlight": [
+        "artikulieren."
+      ]
+    },
+    {
+      "german": "Der Protest artikulierte sich in Demonstrationen.",
+      "english": "The protest found expression in demonstrations.",
+      "highlight": [
+        "artikulierte"
+      ]
+    }
+  ],
+  "forms": [
+    "artikuliere",
+    "artikulierst",
+    "artikuliert",
+    "artikulieren",
+    "artikulierte"
+  ],
+  "memoryHook": "Artikulieren: Latin articulare, divide into joints (sounds).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (artikulieren)",
+      "answer": "artikuliert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: artikuliert.",
+      "acceptedAnswers": [
+        "artikuliert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (artikulieren, past)",
+      "answer": "artikuliert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe artikuliert.",
+      "acceptedAnswers": [
+        "artikuliert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does artikulieren mean?",
+      "options": [
+        "tomorrow",
+        "to articulate",
+        "to sleep"
+      ],
+      "answer": "to articulate",
+      "explanation": "artikulieren: to articulate, express.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich artikulieren means…",
+      "options": [
+        "to express oneself; find expression",
+        "to divide"
+      ],
+      "answer": "to express oneself; find expression",
+      "explanation": "Reflexive.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Artikuliert sprechen means…",
+      "options": [
+        "to speak clearly",
+        "to speak with articles"
+      ],
+      "answer": "to speak clearly",
+      "explanation": "Phrase.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "ausdrücken, äußern, formulieren",
+        "verschweigen"
+      ],
+      "answer": "ausdrücken, äußern, formulieren",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Artikulieren means to articulate: Laute deutlich artikulieren, seine Interessen artikulieren (express). Sich artikulieren means to express oneself, or to find expression: Unmut artikuliert sich. Die Artikulation is pronunciation or expression. Synonyms: ausdrücken, äußern, formulieren. Like all -ieren verbs, no ge- in the participle: artikuliert."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ausschreibung",
+    "partOfSpeech": "noun, feminine (die Ausschreibung)",
+    "pronunciation": {
+      "respelling": "AUS-shrai-bung",
+      "ipa": "ˈaʊ̯sˌʃʁaɪ̯bʊŋ",
+      "notes": "Plural: die Ausschreibungen."
+    },
+    "meaning": "invitation to tender; job posting",
+    "shortDefinition": "Invitation to tender; job posting."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Ausschreibung, plural die Ausschreibungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Ausschreibung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ausschreibungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Stadt hat eine Ausschreibung für den Bau gestartet.",
+      "english": "The city has put the construction out to tender.",
+      "highlight": [
+        "Ausschreibung"
+      ]
+    },
+    {
+      "german": "Die Stelle ist in der Ausschreibung genau beschrieben.",
+      "english": "The job is described exactly in the posting.",
+      "highlight": [
+        "Ausschreibung"
+      ]
+    }
+  ],
+  "forms": [
+    "Ausschreibungen",
+    "die Ausschreibungen",
+    "die Ausschreibung",
+    "ausschreiben"
+  ],
+  "memoryHook": "Ausschreibung: a job or contract written out (ausgeschrieben) for all.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ausschreibung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Ausschreibung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Ausschreibung, zwei ___",
+      "answer": "Ausschreibungen",
+      "fullAnswer": "ein Ausschreibung, zwei Ausschreibungen",
+      "explanation": "The plural is Ausschreibungen.",
+      "acceptedAnswers": [
+        "Ausschreibungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ausschreibung mean?",
+      "options": [
+        "invitation to tender",
+        "the flower",
+        "the bill"
+      ],
+      "answer": "invitation to tender",
+      "explanation": "Ausschreibung: invitation to tender; job posting.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine öffentliche Ausschreibung is…",
+      "options": [
+        "a public tender",
+        "a public announcement of a death"
+      ],
+      "answer": "a public tender",
+      "explanation": "Tender.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ausschreiben means…",
+      "options": [
+        "to advertise (a job, tender); to write out in full",
+        "to stop writing"
+      ],
+      "answer": "to advertise (a job, tender); to write out in full",
+      "explanation": "Two meanings.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Stellenausschreibung is…",
+      "options": [
+        "a job advertisement",
+        "a resignation"
+      ],
+      "answer": "a job advertisement",
+      "explanation": "Job ad.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Ausschreibung is an invitation to tender: Public contracts in Germany above certain values must be put out in a public Ausschreibung so that firms can bid. It's also a job posting: die Stellenausschreibung. Ausschreiben means to advertise, and also to write out in full: Bitte schreiben Sie Ihren Vornamen aus (don't abbreviate). Eine Wahl ausschreiben means to call an election. Plural: die Ausschreibungen."
+}

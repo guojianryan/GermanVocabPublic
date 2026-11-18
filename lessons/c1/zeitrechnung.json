@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zeitrechnung",
+    "partOfSpeech": "noun, feminine (die Zeitrechnung)",
+    "pronunciation": {
+      "respelling": "TSAIT-rekh-nung",
+      "ipa": "ˈt͡saɪ̯tˌʁɛçnʊŋ",
+      "notes": "Plural: die Zeitrechnungen."
+    },
+    "meaning": "calendar, era (of counting time)",
+    "shortDefinition": "Calendar, era (of counting time)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Zeitrechnung, plural die Zeitrechnungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Zeitrechnung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Zeitrechnungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Stadt wurde im 1. Jahrhundert unserer Zeitrechnung gegründet.",
+      "english": "The city was founded in the 1st century CE.",
+      "highlight": [
+        "Zeitrechnung"
+      ]
+    },
+    {
+      "german": "Die Römer hatten eine andere Zeitrechnung.",
+      "english": "The Romans had a different calendar system.",
+      "highlight": [
+        "Zeitrechnung."
+      ]
+    }
+  ],
+  "forms": [
+    "Zeitrechnungen",
+    "die Zeitrechnung"
+  ],
+  "memoryHook": "Zeitrechnung: the Rechnung (reckoning) of Zeit.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zeitrechnung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Zeitrechnung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Zeitrechnung, zwei ___",
+      "answer": "Zeitrechnungen",
+      "fullAnswer": "ein Zeitrechnung, zwei Zeitrechnungen",
+      "explanation": "The plural is Zeitrechnungen.",
+      "acceptedAnswers": [
+        "Zeitrechnungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zeitrechnung mean?",
+      "options": [
+        "always",
+        "the evening",
+        "calendar"
+      ],
+      "answer": "calendar",
+      "explanation": "Zeitrechnung: calendar, era (of counting time).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vor unserer Zeitrechnung (v. u. Z.) means…",
+      "options": [
+        "BCE",
+        "AD"
+      ],
+      "answer": "BCE",
+      "explanation": "Abbreviation.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Christian equivalent is…",
+      "options": [
+        "vor Christus (v. Chr.)",
+        "vor Zeit"
+      ],
+      "answer": "vor Christus (v. Chr.)",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Rechnung is…",
+      "options": [
+        "calculation; bill",
+        "a ring"
+      ],
+      "answer": "calculation; bill",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Zeitrechnung is a system of counting years, a calendar era: die christliche, jüdische, islamische Zeitrechnung. Unserer Zeitrechnung (u. Z.) and vor unserer Zeitrechnung (v. u. Z.) correspond to CE and BCE; they were standard in the GDR, while West Germans used n. Chr. and v. Chr. Die Rechnung means calculation or bill. Plural: die Zeitrechnungen."
+}

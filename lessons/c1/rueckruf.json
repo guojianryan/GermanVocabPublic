@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rückruf",
+    "partOfSpeech": "noun, masculine (der Rückruf)",
+    "pronunciation": {
+      "respelling": "RÜK-roof",
+      "ipa": "ˈʁʏkˌʁuːf",
+      "notes": "Plural: die Rückrufe."
+    },
+    "meaning": "callback; recall (product)",
+    "shortDefinition": "Callback; recall (product)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Rückruf, plural die Rückrufe.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Rückruf"
+        },
+        {
+          "label": "More than one",
+          "value": "die Rückrufe"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich bitte um Rückruf.",
+      "english": "Please call me back.",
+      "highlight": [
+        "Rückruf."
+      ]
+    },
+    {
+      "german": "Der Hersteller startet einen Rückruf für 100.000 Autos.",
+      "english": "The manufacturer is recalling 100,000 cars.",
+      "highlight": [
+        "Rückruf"
+      ]
+    }
+  ],
+  "forms": [
+    "Rückrufe",
+    "die Rückrufe",
+    "der Rückruf",
+    "Rückrufaktion"
+  ],
+  "memoryHook": "Rückruf: a call (Ruf) back (zurück).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rückruf",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Rückruf is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Rückruf, zwei ___",
+      "answer": "Rückrufe",
+      "fullAnswer": "ein Rückruf, zwei Rückrufe",
+      "explanation": "The plural is Rückrufe.",
+      "acceptedAnswers": [
+        "Rueckrufe"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rückruf mean?",
+      "options": [
+        "callback",
+        "the key",
+        "the evening"
+      ],
+      "answer": "callback",
+      "explanation": "Rückruf: callback; recall (product).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Um Rückruf bitten means…",
+      "options": [
+        "to ask for a callback",
+        "to recall a product"
+      ],
+      "answer": "to ask for a callback",
+      "explanation": "Callback.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Rückrufaktion is…",
+      "options": [
+        "a product recall",
+        "a phone campaign"
+      ],
+      "answer": "a product recall",
+      "explanation": "Recall.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zurückrufen means…",
+      "options": [
+        "to call back",
+        "to shout back only"
+      ],
+      "answer": "to call back",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Rückruf is a callback (Ich bitte um Rückruf, a standard voicemail and email line) and a product recall: der Rückruf von Lebensmitteln, eine Rückrufaktion für Autos. German consumers can check recalls on the official portal lebensmittelwarnung.de. Zurückrufen means to call back: Ich rufe Sie zurück. Plural: die Rückrufe."
+}

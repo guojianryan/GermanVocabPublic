@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "horten",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "HOR-ten",
+      "ipa": "ˈhɔʁtn̩",
+      "notes": ""
+    },
+    "meaning": "to hoard",
+    "shortDefinition": "To hoard."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "hort|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "hort|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "hort|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "hort|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "hort|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "hort|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gehortet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Zu Beginn der Pandemie horteten viele Leute Klopapier.",
+      "english": "At the start of the pandemic many people hoarded toilet paper.",
+      "highlight": [
+        "horteten"
+      ]
+    },
+    {
+      "german": "Er hortet alte Zeitungen im Keller.",
+      "english": "He hoards old newspapers in the cellar.",
+      "highlight": [
+        "hortet"
+      ]
+    }
+  ],
+  "forms": [
+    "horte",
+    "hortest",
+    "hortet",
+    "horten",
+    "gehortet",
+    "hortete"
+  ],
+  "memoryHook": "Horten: pile up a Hort (treasure).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (horten)",
+      "answer": "hortet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: hortet.",
+      "acceptedAnswers": [
+        "hortet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (horten, past)",
+      "answer": "gehortet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gehortet.",
+      "acceptedAnswers": [
+        "gehortet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does horten mean?",
+      "options": [
+        "the window",
+        "to hoard",
+        "the door"
+      ],
+      "answer": "to hoard",
+      "explanation": "horten: to hoard.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Hort is…",
+      "options": [
+        "hoard, treasure; after-school club",
+        "a horse"
+      ],
+      "answer": "hoard, treasure; after-school club",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hamsterkäufe are…",
+      "options": [
+        "panic buying",
+        "pet purchases"
+      ],
+      "answer": "panic buying",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "anhäufen, bunkern",
+        "verschenken"
+      ],
+      "answer": "anhäufen, bunkern",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Horten means to hoard: Lebensmittel, Geld, Gold horten. In spring 2020, panic buying (Hamsterkäufe, from the hamster that stuffs its cheeks) left supermarket shelves empty of toilet paper. Der Hort means a hoard or treasure, as in the Nibelungenhort, and also an after-school club for primary pupils (der Kinderhort). Regular: hortete, gehortet."
+}

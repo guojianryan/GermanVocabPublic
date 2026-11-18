@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Manuskript",
+    "partOfSpeech": "noun, neuter (das Manuskript)",
+    "pronunciation": {
+      "respelling": "ma-nu-SKRIPT",
+      "ipa": "manuˈskʁɪpt",
+      "notes": "Plural: die Manuskripte."
+    },
+    "meaning": "manuscript",
+    "shortDefinition": "Manuscript."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Manuskript, plural die Manuskripte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Manuskript"
+        },
+        {
+          "label": "More than one",
+          "value": "die Manuskripte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie schickte ihr Manuskript an einen Verlag.",
+      "english": "She sent her manuscript to a publisher.",
+      "highlight": [
+        "Manuskript"
+      ]
+    },
+    {
+      "german": "Er hielt die Rede ohne Manuskript.",
+      "english": "He gave the speech without notes.",
+      "highlight": [
+        "Manuskript."
+      ]
+    }
+  ],
+  "forms": [
+    "Manuskripte",
+    "die Manuskripte",
+    "das Manuskript"
+  ],
+  "memoryHook": "Manuskript: written by hand (manu scriptum).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Manuskript",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Manuskript is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Manuskript, zwei ___",
+      "answer": "Manuskripte",
+      "fullAnswer": "ein Manuskript, zwei Manuskripte",
+      "explanation": "The plural is Manuskripte.",
+      "acceptedAnswers": [
+        "Manuskripte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Manuskript mean?",
+      "options": [
+        "the car",
+        "the station",
+        "manuscript"
+      ],
+      "answer": "manuscript",
+      "explanation": "Manuskript: manuscript.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ohne Manuskript reden means…",
+      "options": [
+        "to speak without notes",
+        "to speak without a script deal"
+      ],
+      "answer": "to speak without notes",
+      "explanation": "Notes.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Literally, Manuskript means…",
+      "options": [
+        "written by hand",
+        "a man's script"
+      ],
+      "answer": "written by hand",
+      "explanation": "Latin.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Verlag is…",
+      "options": [
+        "a publishing house",
+        "a delay"
+      ],
+      "answer": "a publishing house",
+      "explanation": "Publisher.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Manuskript is a manuscript, a text before publication: das Manuskript beim Verlag einreichen. It also means the notes or script for a speech or broadcast: frei sprechen, ohne Manuskript. Medieval manuscripts are also Handschriften. From Latin manu scriptum (written by hand). The Frankfurt Book Fair, the Frankfurter Buchmesse, is the world's largest trade fair for books. Plural: die Manuskripte."
+}

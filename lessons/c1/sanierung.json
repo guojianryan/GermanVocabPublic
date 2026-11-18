@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sanierung",
+    "partOfSpeech": "noun, feminine (die Sanierung)",
+    "pronunciation": {
+      "respelling": "za-NEE-rung",
+      "ipa": "zaˈniːʁʊŋ",
+      "notes": "Plural: die Sanierungen."
+    },
+    "meaning": "renovation; restructuring, rescue",
+    "shortDefinition": "Renovation; restructuring, rescue."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Sanierung, plural die Sanierungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Sanierung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Sanierungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Sanierung des Bahnhofs dauert zwei Jahre.",
+      "english": "The renovation of the station is taking two years.",
+      "highlight": [
+        "Sanierung"
+      ]
+    },
+    {
+      "german": "Die Firma braucht eine Sanierung.",
+      "english": "The company needs restructuring.",
+      "highlight": [
+        "Sanierung."
+      ]
+    }
+  ],
+  "forms": [
+    "Sanierungen",
+    "die Sanierungen",
+    "die Sanierung",
+    "sanieren",
+    "saniert"
+  ],
+  "memoryHook": "Sanierung: making a building or a firm healthy (sanus) again.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sanierung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Sanierung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Sanierung, zwei ___",
+      "answer": "Sanierungen",
+      "fullAnswer": "ein Sanierung, zwei Sanierungen",
+      "explanation": "The plural is Sanierungen.",
+      "acceptedAnswers": [
+        "Sanierungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sanierung mean?",
+      "options": [
+        "renovation",
+        "to wait",
+        "tomorrow"
+      ],
+      "answer": "renovation",
+      "explanation": "Sanierung: renovation; restructuring, rescue.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sanieren means…",
+      "options": [
+        "to renovate, restore",
+        "to sell"
+      ],
+      "answer": "to renovate, restore",
+      "explanation": "sanieren.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Sanierung einer Firma is…",
+      "options": [
+        "financial restructuring",
+        "a party"
+      ],
+      "answer": "financial restructuring",
+      "explanation": "Rescue.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stammt von Latin sanus, meaning…",
+      "options": [
+        "healthy",
+        "holy"
+      ],
+      "answer": "healthy",
+      "explanation": "To make healthy.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Sanierung means renovation, especially of buildings: die Sanierung der Altbauwohnung, energetische Sanierung (energy-efficient renovation), a big topic in German climate policy. It also means financial restructuring: die Sanierung einer Firma. Sanieren comes from Latin sanus (healthy): to make healthy again. Ein Sanierungsfall is a property or company in need of rescue. Saniert means renovated, a key word in flat ads."
+}

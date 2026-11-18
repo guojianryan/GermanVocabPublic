@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Amtsträger",
+    "partOfSpeech": "noun, masculine (der Amtsträger)",
+    "pronunciation": {
+      "respelling": "AMTS-tray-ger",
+      "ipa": "ˈamt͡sˌtʁɛːɡɐ",
+      "notes": "Plural: die Amtsträger."
+    },
+    "meaning": "office holder, official",
+    "shortDefinition": "Office holder, official."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Amtsträger, plural die Amtsträger.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Amtsträger"
+        },
+        {
+          "label": "More than one",
+          "value": "die Amtsträger"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bestechung von Amtsträgern ist strafbar.",
+      "english": "Bribing officials is a criminal offence.",
+      "highlight": [
+        "Amtsträgern"
+      ]
+    },
+    {
+      "german": "Als Amtsträgerin muss sie neutral bleiben.",
+      "english": "As an official she must remain neutral.",
+      "highlight": [
+        "Amtsträgerin"
+      ]
+    }
+  ],
+  "forms": [
+    "Amtsträgerin",
+    "der Amtsträger"
+  ],
+  "memoryHook": "Amtsträger: someone who trägt (holds) an Amt (office).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Amtsträger",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Amtsträger is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Amtsträger, zwei ___",
+      "answer": "Amtsträger",
+      "fullAnswer": "ein Amtsträger, zwei Amtsträger",
+      "explanation": "The plural is Amtsträger.",
+      "acceptedAnswers": [
+        "Amtstraeger"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Amtsträger mean?",
+      "options": [
+        "to travel",
+        "office holder",
+        "always"
+      ],
+      "answer": "office holder",
+      "explanation": "Amtsträger: office holder, official.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Amt is…",
+      "options": [
+        "office, post; authority",
+        "an ant"
+      ],
+      "answer": "office, post; authority",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Beamte is…",
+      "options": [
+        "civil servant",
+        "a beam"
+      ],
+      "answer": "civil servant",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Würdenträger is…",
+      "options": [
+        "dignitary",
+        "a hearse"
+      ],
+      "answer": "dignitary",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Amtsträger (die Amtsträgerin) is an office holder or official: politicians, civil servants, judges, also church office holders. In criminal law, Amtsträger is a defined term, and bribing them (Bestechung) is punished severely. Politicians in office must respect a Neutralitätsgebot when acting officially. Das Amt is office or authority. The plural is the same."
+}

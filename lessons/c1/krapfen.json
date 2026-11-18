@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Krapfen",
+    "partOfSpeech": "noun, masculine (der Krapfen)",
+    "pronunciation": {
+      "respelling": "KRAP-fen",
+      "ipa": "ˈkʁap͡fn̩",
+      "notes": "Plural: die Krapfen."
+    },
+    "meaning": "doughnut (filled, regional)",
+    "shortDefinition": "Doughnut (filled, regional)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Krapfen, plural die Krapfen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Krapfen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Krapfen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "An Fasching isst man Krapfen.",
+      "english": "At carnival people eat doughnuts.",
+      "highlight": [
+        "Krapfen."
+      ]
+    },
+    {
+      "german": "Der Krapfen ist mit Marmelade gefüllt.",
+      "english": "The doughnut is filled with jam.",
+      "highlight": [
+        "Krapfen"
+      ]
+    }
+  ],
+  "forms": [
+    "der Krapfen",
+    "Krapfens"
+  ],
+  "memoryHook": "Krapfen: a fried dough treat, from Old High German krapfo (hook).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Krapfen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Krapfen is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Krapfen, zwei ___",
+      "answer": "Krapfen",
+      "fullAnswer": "ein Krapfen, zwei Krapfen",
+      "explanation": "The plural is Krapfen.",
+      "acceptedAnswers": [
+        "Krapfen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Krapfen mean?",
+      "options": [
+        "doughnut (filled",
+        "hot",
+        "the bed"
+      ],
+      "answer": "doughnut (filled",
+      "explanation": "Krapfen: doughnut (filled, regional).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Berlin and parts of the north it's called…",
+      "options": [
+        "Pfannkuchen or Berliner",
+        "Brezel"
+      ],
+      "answer": "Pfannkuchen or Berliner",
+      "explanation": "Regional.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Krapfen is typical in…",
+      "options": [
+        "southern Germany and Austria",
+        "the North Sea coast only"
+      ],
+      "answer": "southern Germany and Austria",
+      "explanation": "Region.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Traditionally eaten at…",
+      "options": [
+        "carnival (Fasching)",
+        "Easter"
+      ],
+      "answer": "carnival (Fasching)",
+      "explanation": "Culture.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Krapfen is a fried, jam-filled doughnut, called Krapfen in Bavaria and Austria, Berliner in much of Germany, and Pfannkuchen in Berlin itself (where Pfannkuchen elsewhere means pancake). They're eaten especially at Fasching; a prank is to fill one with mustard. The plural is the same."
+}

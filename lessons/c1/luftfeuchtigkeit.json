@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Luftfeuchtigkeit",
+    "partOfSpeech": "noun, feminine (die Luftfeuchtigkeit)",
+    "pronunciation": {
+      "respelling": "LUFT-foikh-tikh-kait",
+      "ipa": "ˈlʊftˌfɔɪ̯çtɪçkaɪ̯t",
+      "notes": "Usually no plural."
+    },
+    "meaning": "humidity",
+    "shortDefinition": "Humidity."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Luftfeuchtigkeit, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Luftfeuchtigkeit"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Luftfeuchtigkeit liegt bei 80 Prozent.",
+      "english": "The humidity is 80 percent.",
+      "highlight": [
+        "Luftfeuchtigkeit"
+      ]
+    },
+    {
+      "german": "Hohe Luftfeuchtigkeit kann zu Schimmel führen.",
+      "english": "High humidity can lead to mould.",
+      "highlight": [
+        "Luftfeuchtigkeit"
+      ]
+    }
+  ],
+  "forms": [
+    "die Luftfeuchtigkeit"
+  ],
+  "memoryHook": "Luftfeuchtigkeit: how feucht (damp) the Luft is.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Luftfeuchtigkeit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Luftfeuchtigkeit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Luftfeuchtigkeit mean?",
+      "options": [
+        "the station",
+        "to buy",
+        "humidity"
+      ],
+      "answer": "humidity",
+      "explanation": "Luftfeuchtigkeit: humidity.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Feucht means…",
+      "options": [
+        "damp, moist",
+        "fresh"
+      ],
+      "answer": "damp, moist",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stoßlüften means…",
+      "options": [
+        "airing a room briefly with windows wide open",
+        "fanning"
+      ],
+      "answer": "airing a room briefly with windows wide open",
+      "explanation": "Ventilation.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schimmel is…",
+      "options": [
+        "mould; a white horse",
+        "a shimmer"
+      ],
+      "answer": "mould; a white horse",
+      "explanation": "Mould.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Luftfeuchtigkeit is humidity: hohe Luftfeuchtigkeit, relative Luftfeuchtigkeit. Germans are told to keep indoor humidity around 40 to 60 percent to avoid Schimmel (mould), and tenants are expected to air rooms by Stoßlüften: opening windows wide for a few minutes several times a day, rather than leaving them tilted (gekippt). Mould is a classic landlord-tenant dispute. It has no plural."
+}

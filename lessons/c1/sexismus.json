@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sexismus",
+    "partOfSpeech": "noun, masculine (der Sexismus)",
+    "pronunciation": {
+      "respelling": "se-KSIS-mus",
+      "ipa": "zɛˈksɪsmʊs",
+      "notes": "Usually no plural."
+    },
+    "meaning": "sexism",
+    "shortDefinition": "Sexism."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Sexismus, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Sexismus"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie spricht offen über Sexismus am Arbeitsplatz.",
+      "english": "She speaks openly about sexism in the workplace.",
+      "highlight": [
+        "Sexismus"
+      ]
+    },
+    {
+      "german": "Die Werbung wurde wegen Sexismus kritisiert.",
+      "english": "The ad was criticised for sexism.",
+      "highlight": [
+        "Sexismus"
+      ]
+    }
+  ],
+  "forms": [
+    "der Sexismus",
+    "sexistisch"
+  ],
+  "memoryHook": "Sexismus: discrimination by sex.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sexismus",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Sexismus is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sexismus mean?",
+      "options": [
+        "the bed",
+        "quiet",
+        "sexism"
+      ],
+      "answer": "sexism",
+      "explanation": "Sexismus: sexism.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sexistisch means…",
+      "options": [
+        "sexist",
+        "sexy"
+      ],
+      "answer": "sexist",
+      "explanation": "Adjective.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The 2013 German Twitter debate on sexism was called…",
+      "options": [
+        "#Aufschrei",
+        "#MeToo only"
+      ],
+      "answer": "#Aufschrei",
+      "explanation": "Aufschrei.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "-ismus nouns are…",
+      "options": [
+        "masculine",
+        "feminine"
+      ],
+      "answer": "masculine",
+      "explanation": "der Sexismus.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Sexismus is sexism: Alltagssexismus (everyday sexism), Sexismus am Arbeitsplatz. Sexistisch means sexist. In 2013, the German hashtag #Aufschrei started a big public debate about everyday sexism, years before #MeToo. Germany's General Equal Treatment Act (AGG, 2006) prohibits discrimination on grounds of sex at work. Like all -ismus nouns, it's masculine. It has no plural."
+}

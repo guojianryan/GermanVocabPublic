@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "unerlaubt",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "UN-er-laupt",
+      "ipa": "ˈʊnʔɛɐ̯ˌlaʊ̯pt",
+      "notes": ""
+    },
+    "meaning": "unauthorised, illicit",
+    "shortDefinition": "Unauthorised, illicit."
+  },
+  "sampleSentences": [
+    {
+      "german": "Unerlaubtes Parken wird abgeschleppt.",
+      "english": "Unauthorised vehicles will be towed away.",
+      "highlight": [
+        "Unerlaubtes"
+      ]
+    },
+    {
+      "german": "Er hat sich unerlaubt vom Unfallort entfernt.",
+      "english": "He left the scene of the accident without permission.",
+      "highlight": [
+        "unerlaubt"
+      ]
+    }
+  ],
+  "forms": [
+    "unerlaubte",
+    "unerlaubten",
+    "unerlaubter"
+  ],
+  "memoryHook": "Unerlaubt: not (un) erlaubt (allowed).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does unerlaubt mean?",
+      "options": [
+        "unauthorised",
+        "the bread",
+        "to help"
+      ],
+      "answer": "unauthorised",
+      "explanation": "unerlaubt: unauthorised, illicit.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unerlaubtes Entfernen vom Unfallort is…",
+      "options": [
+        "hit-and-run",
+        "a detour"
+      ],
+      "answer": "hit-and-run",
+      "explanation": "Law.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die unerlaubte Handlung (BGB) is…",
+      "options": [
+        "a tort (wrongful act)",
+        "a crime only"
+      ],
+      "answer": "a tort (wrongful act)",
+      "explanation": "Law.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "verboten, unzulässig",
+        "erlaubt"
+      ],
+      "answer": "verboten, unzulässig",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ Zugriff (unauthorised)",
+      "answer": "unerlaubter",
+      "fullAnswer": "unerlaubter Zugriff",
+      "explanation": "Masculine -er.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Unerlaubt means unauthorised or illicit: unerlaubter Waffenbesitz, unerlaubtes Entfernen vom Unfallort (the legal term for hit-and-run). In civil law, die unerlaubte Handlung (§823 BGB) is a tort, an unlawful act causing damage. Synonyms: verboten, unzulässig, illegal. The opposite is erlaubt or genehmigt."
+}

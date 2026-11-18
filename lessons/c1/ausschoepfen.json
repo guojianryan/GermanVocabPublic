@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ausschöpfen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AUS-shöp-fen",
+      "ipa": "ˈaʊ̯sˌʃœp͡fn̩",
+      "notes": ""
+    },
+    "meaning": "to exhaust, make full use of",
+    "shortDefinition": "To exhaust, make full use of."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schöpf|e … |aus"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schöpf|st … |aus"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schöpf|t … |aus"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schöpf|en … |aus"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schöpf|t … |aus"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schöpf|en … |aus"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat ausgeschöpft"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir müssen alle Möglichkeiten ausschöpfen.",
+      "english": "We must exhaust all possibilities.",
+      "highlight": [
+        "ausschöpfen."
+      ]
+    },
+    {
+      "german": "Das Potenzial ist noch nicht ausgeschöpft.",
+      "english": "The potential hasn't been fully exploited yet.",
+      "highlight": [
+        "ausgeschöpft."
+      ]
+    }
+  ],
+  "forms": [
+    "schöpfe aus",
+    "schöpfst aus",
+    "schöpft aus",
+    "schöpfen aus",
+    "ausgeschöpft",
+    "schöpfte aus"
+  ],
+  "memoryHook": "Ausschöpfen: scoop (schöpfen) everything out (aus).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … aus (ausschöpfen)",
+      "answer": "schöpft",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schöpft … aus.",
+      "acceptedAnswers": [
+        "schoepft"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (ausschöpfen, past)",
+      "answer": "ausgeschöpft",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe ausgeschöpft.",
+      "acceptedAnswers": [
+        "ausgeschoepft"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does ausschöpfen mean?",
+      "options": [
+        "to exhaust",
+        "tomorrow",
+        "to learn"
+      ],
+      "answer": "to exhaust",
+      "explanation": "ausschöpfen: to exhaust, make full use of.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Alle Möglichkeiten ausschöpfen means…",
+      "options": [
+        "to exhaust all options",
+        "to scoop out a pot"
+      ],
+      "answer": "to exhaust all options",
+      "explanation": "Exhaust.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Rechtsweg ausschöpfen means…",
+      "options": [
+        "to exhaust all legal remedies",
+        "to take a shortcut"
+      ],
+      "answer": "to exhaust all legal remedies",
+      "explanation": "Legal.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schöpfen means…",
+      "options": [
+        "to scoop, draw",
+        "to create only"
+      ],
+      "answer": "to scoop, draw",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Ausschöpfen means to exhaust or make full use of: alle Möglichkeiten, den Spielraum, das Budget ausschöpfen. Literally, it means to scoop out completely: einen Eimer ausschöpfen. Den Rechtsweg ausschöpfen means to exhaust all legal remedies, a precondition for a constitutional complaint (Verfassungsbeschwerde). Separable: schöpfte aus, ausgeschöpft."
+}

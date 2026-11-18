@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Religionsunterricht",
+    "partOfSpeech": "noun, masculine (der Religionsunterricht)",
+    "pronunciation": {
+      "respelling": "re-li-GYOHNS-un-ter-rikht",
+      "ipa": "ʁeliˈɡi̯oːnsˌʔʊntɐʁɪçt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "religious education (school subject)",
+    "shortDefinition": "Religious education (school subject)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Religionsunterricht, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Religionsunterricht"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Religionsunterricht sprechen wir über Weltreligionen.",
+      "english": "In RE we talk about world religions.",
+      "highlight": [
+        "Religionsunterricht"
+      ]
+    },
+    {
+      "german": "Er ist vom Religionsunterricht abgemeldet und hat Ethik.",
+      "english": "He's opted out of RE and has ethics.",
+      "highlight": [
+        "Religionsunterricht"
+      ]
+    }
+  ],
+  "forms": [
+    "der Religionsunterricht"
+  ],
+  "memoryHook": "Religionsunterricht: Unterricht (lessons) about Religion.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Religionsunterricht",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Religionsunterricht is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Religionsunterricht mean?",
+      "options": [
+        "slowly",
+        "to wait",
+        "religious education (school subject)"
+      ],
+      "answer": "religious education (school subject)",
+      "explanation": "Religionsunterricht: religious education (school subject).",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "In most German states, Religionsunterricht is…",
+      "options": [
+        "a regular subject, run with the churches",
+        "banned"
+      ],
+      "answer": "a regular subject, run with the churches",
+      "explanation": "Subject.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pupils who opt out usually take…",
+      "options": [
+        "Ethik or Philosophie",
+        "nothing"
+      ],
+      "answer": "Ethik or Philosophie",
+      "explanation": "Alternative.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Unterricht is…",
+      "options": [
+        "lessons, teaching",
+        "underwear"
+      ],
+      "answer": "lessons, teaching",
+      "explanation": "Root.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Religionsunterricht is religious education. Under Article 7 of the Grundgesetz, it's a regular school subject in most states, taught along confessional lines (katholisch, evangelisch, increasingly islamisch) in cooperation with religious communities. Pupils can opt out and usually take Ethik or Philosophie instead. Berlin and Brandenburg have special rules. Der Unterricht means lessons. It has no plural."
+}

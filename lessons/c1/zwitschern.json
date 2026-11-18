@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "zwitschern",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "TSVI-chern",
+      "ipa": "ˈt͡svɪt͡ʃɐn",
+      "notes": ""
+    },
+    "meaning": "to chirp, twitter",
+    "shortDefinition": "To chirp, twitter."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "zwitscher|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "zwitscher|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "zwitscher|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "zwitscher|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "zwitscher|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "zwitscher|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gezwitschert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Morgens zwitschern die Vögel.",
+      "english": "In the morning the birds chirp.",
+      "highlight": [
+        "zwitschern"
+      ]
+    },
+    {
+      "german": "Lass uns noch einen zwitschern!",
+      "english": "Let's have one more drink!",
+      "highlight": [
+        "zwitschern!"
+      ]
+    }
+  ],
+  "forms": [
+    "zwitschere",
+    "zwitscherst",
+    "zwitschert",
+    "zwitschern",
+    "gezwitschert",
+    "zwitscherte",
+    "Gezwitscher"
+  ],
+  "memoryHook": "Zwitschern: the sound of small birds.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (zwitschern)",
+      "answer": "zwitschert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: zwitschert.",
+      "acceptedAnswers": [
+        "zwitschert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (zwitschern, past)",
+      "answer": "gezwitschert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gezwitschert.",
+      "acceptedAnswers": [
+        "gezwitschert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does zwitschern mean?",
+      "options": [
+        "quiet",
+        "to open",
+        "to chirp"
+      ],
+      "answer": "to chirp",
+      "explanation": "zwitschern: to chirp, twitter.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einen zwitschern (colloquial) means…",
+      "options": [
+        "to have a drink",
+        "to sing a song"
+      ],
+      "answer": "to have a drink",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gezwitscher is…",
+      "options": [
+        "chirping, twittering",
+        "a bird"
+      ],
+      "answer": "chirping, twittering",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Posting on Twitter was called…",
+      "options": [
+        "twittern",
+        "zwitschern only"
+      ],
+      "answer": "twittern",
+      "explanation": "Social media.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Zwitschern means to chirp or twitter, of birds: Die Spatzen zwitschern vom Dach. Das pfeifen die Spatzen von den Dächern means everyone knows it already. Colloquially, einen zwitschern means to have a drink. Posting on Twitter was called twittern, now posten on X. Das Gezwitscher is chirping. Regular: zwitscherte, gezwitschert."
+}

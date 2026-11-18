@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "innehalten",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "I-ne-hal-ten",
+      "ipa": "ˈɪnəˌhaltn̩",
+      "notes": ""
+    },
+    "meaning": "to pause, stop for a moment",
+    "shortDefinition": "To pause, stop for a moment."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "halt|e … |inne"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "häl|tst … |inne"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "häl|t … |inne"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "halt|en … |inne"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "halt|et … |inne"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "halt|en … |inne"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat innegehalten"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie hielt kurz inne und dachte nach.",
+      "english": "She paused briefly and thought.",
+      "highlight": [
+        "hielt",
+        "inne"
+      ]
+    },
+    {
+      "german": "Zum Gedenken hielten alle eine Minute inne.",
+      "english": "Everyone paused for a minute of remembrance.",
+      "highlight": [
+        "hielten",
+        "inne."
+      ]
+    }
+  ],
+  "forms": [
+    "halte inne",
+    "hältst inne",
+    "hält inne",
+    "halten inne",
+    "haltet inne",
+    "innegehalten",
+    "hielt inne"
+  ],
+  "memoryHook": "Innehalten: halten (stop) inne (within).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … inne (innehalten)",
+      "answer": "hält",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: hält … inne.",
+      "acceptedAnswers": [
+        "haelt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (innehalten, past)",
+      "answer": "innegehalten",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe innegehalten.",
+      "acceptedAnswers": [
+        "innegehalten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does innehalten mean?",
+      "options": [
+        "the shop",
+        "the bill",
+        "to pause"
+      ],
+      "answer": "to pause",
+      "explanation": "innehalten: to pause, stop for a moment.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Innehalten means…",
+      "options": [
+        "to pause (to reflect)",
+        "to hold inside"
+      ],
+      "answer": "to pause (to reflect)",
+      "explanation": "Meaning.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "literary, formal",
+        "slang"
+      ],
+      "answer": "literary, formal",
+      "explanation": "Register.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "hielt inne, innegehalten",
+        "innehaltete"
+      ],
+      "answer": "hielt inne, innegehalten",
+      "explanation": "Irregular.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Innehalten means to pause or stop for a moment, often to reflect: im Gespräch, in der Arbeit innehalten, einen Moment innehalten. It's a slightly literary word, common in speeches about remembrance: Wir halten inne und gedenken der Opfer. Synonyms: pausieren, stocken, unterbrechen. Irregular like halten: hielt inne, hat innegehalten."
+}

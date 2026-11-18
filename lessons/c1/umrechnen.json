@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "umrechnen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "UM-rekh-nen",
+      "ipa": "ˈʊmˌʁɛçnən",
+      "notes": ""
+    },
+    "meaning": "to convert (figures)",
+    "shortDefinition": "To convert (figures)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "rechn|e … |um"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "rechn|est … |um"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "rechn|et … |um"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "rechn|en … |um"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "rechn|et … |um"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "rechn|en … |um"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat umgerechnet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Kannst du Dollar in Euro umrechnen?",
+      "english": "Can you convert dollars into euros?",
+      "highlight": [
+        "umrechnen?"
+      ]
+    },
+    {
+      "german": "Das sind umgerechnet etwa fünfzig Euro.",
+      "english": "That's about fifty euros converted.",
+      "highlight": [
+        "umgerechnet"
+      ]
+    }
+  ],
+  "forms": [
+    "rechne um",
+    "rechnest um",
+    "rechnet um",
+    "rechnen um",
+    "umgerechnet",
+    "rechnete um",
+    "Umrechnung"
+  ],
+  "memoryHook": "Umrechnen: calculate (rechnen) into another (um) unit.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … um (umrechnen)",
+      "answer": "rechnet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: rechnet … um.",
+      "acceptedAnswers": [
+        "rechnet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (umrechnen, past)",
+      "answer": "umgerechnet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe umgerechnet.",
+      "acceptedAnswers": [
+        "umgerechnet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does umrechnen mean?",
+      "options": [
+        "the shop",
+        "to convert (figures)",
+        "never"
+      ],
+      "answer": "to convert (figures)",
+      "explanation": "umrechnen: to convert (figures).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Umgerechnet means…",
+      "options": [
+        "converted, which equals",
+        "miscalculated"
+      ],
+      "answer": "converted, which equals",
+      "explanation": "Converted.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Umrechnungskurs is…",
+      "options": [
+        "exchange/conversion rate",
+        "a maths course"
+      ],
+      "answer": "exchange/conversion rate",
+      "explanation": "Rate.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "When the euro came, 1 euro was…",
+      "options": [
+        "1.95583 Deutsche Mark",
+        "2 marks exactly"
+      ],
+      "answer": "1.95583 Deutsche Mark",
+      "explanation": "History.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Umrechnen means to convert figures from one unit or currency to another: Pfund in Kilo umrechnen, Euro in Dollar umrechnen. Umgerechnet means converted: umgerechnet 100 Euro. When the euro replaced the Deutsche Mark in 2002, the fixed Umrechnungskurs was 1.95583 DM, and for years many Germans kept umrechnen in their heads, calling the euro the Teuro. Separable: rechnete um, umgerechnet."
+}

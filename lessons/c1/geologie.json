@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Geologie",
+    "partOfSpeech": "noun, feminine (die Geologie)",
+    "pronunciation": {
+      "respelling": "ge-o-lo-GEE",
+      "ipa": "ɡeoloˈɡiː",
+      "notes": "Usually no plural."
+    },
+    "meaning": "geology",
+    "shortDefinition": "Geology."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Geologie, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Geologie"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hat Geologie studiert.",
+      "english": "He studied geology.",
+      "highlight": [
+        "Geologie"
+      ]
+    },
+    {
+      "german": "Die Geologie der Region ist vielfältig.",
+      "english": "The region's geology is varied.",
+      "highlight": [
+        "Geologie"
+      ]
+    }
+  ],
+  "forms": [
+    "die Geologie",
+    "Geologe",
+    "geologisch"
+  ],
+  "memoryHook": "Geologie: the study (logos) of the earth (ge).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Geologie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Geologie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Geologie mean?",
+      "options": [
+        "the key",
+        "geology",
+        "tomorrow"
+      ],
+      "answer": "geology",
+      "explanation": "Geologie: geology.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Geologe is…",
+      "options": [
+        "geologist (weak noun)",
+        "geography"
+      ],
+      "answer": "geologist (weak noun)",
+      "explanation": "Person.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Geologisch means…",
+      "options": [
+        "geological",
+        "geographic"
+      ],
+      "answer": "geological",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Erdkunde / Geografie is…",
+      "options": [
+        "geography",
+        "geology"
+      ],
+      "answer": "geography",
+      "explanation": "Different.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Geologie is geology, the study of the earth's structure and rocks. Der Geologe (weak noun) is a geologist, and geologisch geological. German geologists played a key role in the field: Alfred Wegener proposed continental drift in 1912. The Geopark network in Germany showcases landscapes like the volcanic Eifel, with its maars. Geography is die Geografie or, in school, Erdkunde. It has no plural."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Einzelgänger",
+    "partOfSpeech": "noun, masculine (der Einzelgänger)",
+    "pronunciation": {
+      "respelling": "AIN-tsel-geng-er",
+      "ipa": "ˈaɪ̯nt͡sl̩ˌɡɛŋɐ",
+      "notes": "Plural: die Einzelgänger."
+    },
+    "meaning": "loner",
+    "shortDefinition": "Loner."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Einzelgänger, plural die Einzelgänger.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Einzelgänger"
+        },
+        {
+          "label": "More than one",
+          "value": "die Einzelgänger"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er war schon immer ein Einzelgänger.",
+      "english": "He's always been a loner.",
+      "highlight": [
+        "Einzelgänger."
+      ]
+    },
+    {
+      "german": "Katzen gelten als Einzelgänger.",
+      "english": "Cats are considered solitary animals.",
+      "highlight": [
+        "Einzelgänger."
+      ]
+    }
+  ],
+  "forms": [
+    "Einzelgängerin",
+    "der Einzelgänger"
+  ],
+  "memoryHook": "Einzelgänger: someone who geht (goes) einzeln (alone).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Einzelgänger",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Einzelgänger is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Einzelgänger, zwei ___",
+      "answer": "Einzelgänger",
+      "fullAnswer": "ein Einzelgänger, zwei Einzelgänger",
+      "explanation": "The plural is Einzelgänger.",
+      "acceptedAnswers": [
+        "Einzelgaenger"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Einzelgänger mean?",
+      "options": [
+        "loner",
+        "the station",
+        "hot"
+      ],
+      "answer": "loner",
+      "explanation": "Einzelgänger: loner.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Eigenbrötler, der Außenseiter",
+        "der Teamplayer"
+      ],
+      "answer": "der Eigenbrötler, der Außenseiter",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Doppelgänger is…",
+      "options": [
+        "a double, lookalike",
+        "a twin loner"
+      ],
+      "answer": "a double, lookalike",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Einzelgängerin",
+        "die Einzelgängerinne"
+      ],
+      "answer": "die Einzelgängerin",
+      "explanation": "Female.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Einzelgänger (die Einzelgängerin) is a loner, a person or animal that prefers to be alone: Bären sind Einzelgänger. Related: der Eigenbrötler (eccentric loner, literally someone who bakes his own bread), der Außenseiter (outsider). English borrowed a cousin, der Doppelgänger (double). In crime reports, ein Einzeltäter is a lone offender. The plural is the same."
+}

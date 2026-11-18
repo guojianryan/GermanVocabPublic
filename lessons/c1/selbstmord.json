@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Selbstmord",
+    "partOfSpeech": "noun, masculine (der Selbstmord)",
+    "pronunciation": {
+      "respelling": "ZELPST-mort",
+      "ipa": "ˈzɛlpstˌmɔʁt",
+      "notes": "Plural: die Selbstmorde."
+    },
+    "meaning": "suicide",
+    "shortDefinition": "Suicide."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Selbstmord, plural die Selbstmorde.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Selbstmord"
+        },
+        {
+          "label": "More than one",
+          "value": "die Selbstmorde"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Zahl der Selbstmorde ist gesunken.",
+      "english": "The number of suicides has fallen.",
+      "highlight": [
+        "Selbstmorde"
+      ]
+    },
+    {
+      "german": "Das wäre politischer Selbstmord.",
+      "english": "That would be political suicide.",
+      "highlight": [
+        "Selbstmord."
+      ]
+    }
+  ],
+  "forms": [
+    "Selbstmorde",
+    "die Selbstmorde",
+    "der Selbstmord",
+    "Suizid"
+  ],
+  "memoryHook": "Selbstmord: the media now say Suizid.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Selbstmord",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Selbstmord is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Selbstmord, zwei ___",
+      "answer": "Selbstmorde",
+      "fullAnswer": "ein Selbstmord, zwei Selbstmorde",
+      "explanation": "The plural is Selbstmorde.",
+      "acceptedAnswers": [
+        "Selbstmorde"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Selbstmord mean?",
+      "options": [
+        "the bill",
+        "suicide",
+        "the family"
+      ],
+      "answer": "suicide",
+      "explanation": "Selbstmord: suicide.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Preferred neutral term today:",
+      "options": [
+        "der Suizid",
+        "der Selbstmord"
+      ],
+      "answer": "der Suizid",
+      "explanation": "Suizid avoids 'Mord' (murder).",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Why do many avoid Selbstmord?",
+      "options": [
+        "Mord means murder, implying a crime",
+        "it's slang"
+      ],
+      "answer": "Mord means murder, implying a crime",
+      "explanation": "Stigma.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, politischer Selbstmord means…",
+      "options": [
+        "political suicide",
+        "a political murder"
+      ],
+      "answer": "political suicide",
+      "explanation": "Figurative.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Selbstmord means suicide. Because Mord means murder, which implies a crime, many people, doctors and journalists prefer der Suizid or die Selbsttötung, and media follow guidelines to report on it carefully. Figuratively, politischer Selbstmord means political suicide. If you or someone you know is struggling, the German Telefonseelsorge offers free, anonymous support around the clock on 0800 111 0 111."
+}

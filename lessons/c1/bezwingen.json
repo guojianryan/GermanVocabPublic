@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "bezwingen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-TSVING-en",
+      "ipa": "bəˈt͡svɪŋən",
+      "notes": ""
+    },
+    "meaning": "to conquer, defeat; to overcome",
+    "shortDefinition": "To conquer, defeat; to overcome."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "bezwing|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "bezwing|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "bezwing|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "bezwing|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "bezwing|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "bezwing|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat bezwungen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie haben den Mount Everest bezwungen.",
+      "english": "They conquered Mount Everest.",
+      "highlight": [
+        "bezwungen."
+      ]
+    },
+    {
+      "german": "Die Mannschaft bezwang den Favoriten.",
+      "english": "The team defeated the favourites.",
+      "highlight": [
+        "bezwang"
+      ]
+    }
+  ],
+  "forms": [
+    "bezwinge",
+    "bezwingst",
+    "bezwingt",
+    "bezwingen",
+    "bezwungen",
+    "bezwang"
+  ],
+  "memoryHook": "Bezwingen: force (zwingen) something into submission.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (bezwingen)",
+      "answer": "bezwingt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: bezwingt.",
+      "acceptedAnswers": [
+        "bezwingt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (bezwingen, past)",
+      "answer": "bezwungen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe bezwungen.",
+      "acceptedAnswers": [
+        "bezwungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does bezwingen mean?",
+      "options": [
+        "the shop",
+        "to conquer",
+        "hot"
+      ],
+      "answer": "to conquer",
+      "explanation": "bezwingen: to conquer, defeat; to overcome.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einen Berg bezwingen means…",
+      "options": [
+        "to conquer a mountain",
+        "to force a mountain"
+      ],
+      "answer": "to conquer a mountain",
+      "explanation": "Conquer.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "bezwang, bezwungen",
+        "bezwingte"
+      ],
+      "answer": "bezwang, bezwungen",
+      "explanation": "Irregular.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zwingen means…",
+      "options": [
+        "to force",
+        "to twin"
+      ],
+      "answer": "to force",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Bezwingen means to conquer or defeat: einen Gipfel bezwingen, einen Gegner bezwingen, and to overcome: seine Angst bezwingen. It's a bit literary but common in sports reports. In 1978, Reinhold Messner and Peter Habeler were the first to bezwingen Everest without supplementary oxygen. From zwingen (to force). Irregular: bezwang, bezwungen."
+}

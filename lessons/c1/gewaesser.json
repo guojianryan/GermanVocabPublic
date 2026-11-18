@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gewässer",
+    "partOfSpeech": "noun, neuter (das Gewässer)",
+    "pronunciation": {
+      "respelling": "ge-VES-er",
+      "ipa": "ɡəˈvɛsɐ",
+      "notes": "Plural: die Gewässer."
+    },
+    "meaning": "body of water, waters",
+    "shortDefinition": "Body of water, waters."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Gewässer, plural die Gewässer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Gewässer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gewässer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Gewässer ist zum Baden geeignet.",
+      "english": "The water is suitable for swimming.",
+      "highlight": [
+        "Gewässer"
+      ]
+    },
+    {
+      "german": "Das Schiff fährt in internationalen Gewässern.",
+      "english": "The ship is sailing in international waters.",
+      "highlight": [
+        "Gewässern."
+      ]
+    }
+  ],
+  "forms": [
+    "die Gewässer",
+    "das Gewässer",
+    "Gewässern"
+  ],
+  "memoryHook": "Gewässer: any water body, from pond to ocean.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gewässer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Gewässer is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gewässer, zwei ___",
+      "answer": "Gewässer",
+      "fullAnswer": "ein Gewässer, zwei Gewässer",
+      "explanation": "The plural is Gewässer.",
+      "acceptedAnswers": [
+        "Gewaesser"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gewässer mean?",
+      "options": [
+        "the shop",
+        "the family",
+        "body of water"
+      ],
+      "answer": "body of water",
+      "explanation": "Gewässer: body of water, waters.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gewässer covers…",
+      "options": [
+        "lakes, rivers, seas",
+        "only the sea"
+      ],
+      "answer": "lakes, rivers, seas",
+      "explanation": "Any body of water.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gewässerverschmutzung is…",
+      "options": [
+        "water pollution",
+        "a wet floor"
+      ],
+      "answer": "water pollution",
+      "explanation": "Pollution.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "From…",
+      "options": [
+        "das Wasser (ge- collective)",
+        "gewiss"
+      ],
+      "answer": "das Wasser (ge- collective)",
+      "explanation": "Collective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Gewässer is a body of water: a lake, river, pond or sea. It's common in official and environmental language: Gewässerschutz (water protection), stehende und fließende Gewässer (standing and flowing waters), in deutschen Gewässern (in German waters). The prefix ge- groups things together, as in das Gebirge (mountains) and das Gebüsch (bushes). In risky waters is in unbekannten Gewässern, also figurative. Plural: die Gewässer."
+}

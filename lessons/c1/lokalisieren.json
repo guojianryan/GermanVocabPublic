@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "lokalisieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "lo-ka-li-ZEE-ren",
+      "ipa": "lokaliˈziːʁən",
+      "notes": ""
+    },
+    "meaning": "to locate, pinpoint; to localise",
+    "shortDefinition": "To locate, pinpoint; to localise."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "lokalisier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "lokalisier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "lokalisier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "lokalisier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "lokalisier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "lokalisier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat lokalisiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Polizei konnte das Handy lokalisieren.",
+      "english": "The police were able to locate the phone.",
+      "highlight": [
+        "lokalisieren."
+      ]
+    },
+    {
+      "german": "Der Brand wurde schnell lokalisiert.",
+      "english": "The fire was quickly located and contained.",
+      "highlight": [
+        "lokalisiert."
+      ]
+    }
+  ],
+  "forms": [
+    "lokalisiere",
+    "lokalisierst",
+    "lokalisiert",
+    "lokalisieren",
+    "Lokalisierung"
+  ],
+  "memoryHook": "Lokalisieren: find the Lokal (location).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (lokalisieren)",
+      "answer": "lokalisiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: lokalisiert.",
+      "acceptedAnswers": [
+        "lokalisiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (lokalisieren, past)",
+      "answer": "lokalisiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe lokalisiert.",
+      "acceptedAnswers": [
+        "lokalisiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does lokalisieren mean?",
+      "options": [
+        "to open",
+        "the door",
+        "to locate"
+      ],
+      "answer": "to locate",
+      "explanation": "lokalisieren: to locate, pinpoint; to localise.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Lokalisieren means…",
+      "options": [
+        "to locate, pinpoint",
+        "to make local food"
+      ],
+      "answer": "to locate, pinpoint",
+      "explanation": "Locate.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In software, lokalisieren also means…",
+      "options": [
+        "to adapt to a language/market",
+        "to delete"
+      ],
+      "answer": "to adapt to a language/market",
+      "explanation": "Software.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "orten, ausfindig machen",
+        "verlieren"
+      ],
+      "answer": "orten, ausfindig machen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Lokalisieren means to locate or pinpoint: ein Signal, eine Schmerzquelle, ein Feuer lokalisieren. In software and translation, it means to localise, adapting a product to a language and market: die Lokalisierung einer App. The native synonym is orten: das Handy orten. Perfect without ge-: hat lokalisiert."
+}

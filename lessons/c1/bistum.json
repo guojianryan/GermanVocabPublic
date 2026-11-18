@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bistum",
+    "partOfSpeech": "noun, neuter (das Bistum)",
+    "pronunciation": {
+      "respelling": "BIS-toom",
+      "ipa": "ˈbɪstuːm",
+      "notes": "Plural: die Bistümer."
+    },
+    "meaning": "diocese, bishopric",
+    "shortDefinition": "Diocese, bishopric."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Bistum, plural die Bistümer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Bistum"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bistümer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Bistum Köln ist eines der größten in Deutschland.",
+      "english": "The Diocese of Cologne is one of the largest in Germany.",
+      "highlight": [
+        "Bistum"
+      ]
+    },
+    {
+      "german": "Der Bischof leitet das Bistum.",
+      "english": "The bishop leads the diocese.",
+      "highlight": [
+        "Bistum."
+      ]
+    }
+  ],
+  "forms": [
+    "Bistümer",
+    "die Bistümer",
+    "das Bistum"
+  ],
+  "memoryHook": "Bistum: the realm (-tum) of a Bischof.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bistum",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Bistum is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bistum, zwei ___",
+      "answer": "Bistümer",
+      "fullAnswer": "ein Bistum, zwei Bistümer",
+      "explanation": "The plural is Bistümer.",
+      "acceptedAnswers": [
+        "Bistuemer"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bistum mean?",
+      "options": [
+        "diocese",
+        "to sleep",
+        "the shop"
+      ],
+      "answer": "diocese",
+      "explanation": "Bistum: diocese, bishopric.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Diözese",
+        "die Pfarrei"
+      ],
+      "answer": "die Diözese",
+      "explanation": "Diocese.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Bischof is…",
+      "options": [
+        "bishop",
+        "a fish"
+      ],
+      "answer": "bishop",
+      "explanation": "Bishop.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany has… Catholic (arch)dioceses.",
+      "options": [
+        "27",
+        "5"
+      ],
+      "answer": "27",
+      "explanation": "27.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Bistum is a Catholic diocese, also called die Diözese, led by a Bischof; an archdiocese is das Erzbistum. Germany has 27 (arch)dioceses, from Hamburg to Munich-Freising. Since 2010, reports on abuse cases have been commissioned in many Bistümer, including Cologne and Munich, causing many Catholics to leave the church. Protestants have Landeskirchen instead. Plural: die Bistümer."
+}

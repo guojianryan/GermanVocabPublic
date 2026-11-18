@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gruft",
+    "partOfSpeech": "noun, feminine (die Gruft)",
+    "pronunciation": {
+      "respelling": "GRUFT",
+      "ipa": "ɡʁʊft",
+      "notes": "Plural: die Grüfte."
+    },
+    "meaning": "crypt, vault, tomb",
+    "shortDefinition": "Crypt, vault, tomb."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Gruft, plural die Grüfte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Gruft"
+        },
+        {
+          "label": "More than one",
+          "value": "die Grüfte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Familie wurde in der Gruft unter der Kirche bestattet.",
+      "english": "The family was buried in the crypt below the church.",
+      "highlight": [
+        "Gruft"
+      ]
+    },
+    {
+      "german": "In der Wiener Kapuzinergruft liegen die Habsburger.",
+      "english": "The Habsburgs lie in Vienna's Imperial Crypt.",
+      "highlight": [
+        "Kapuzinergruft"
+      ]
+    }
+  ],
+  "forms": [
+    "Grüfte",
+    "die Gruft"
+  ],
+  "memoryHook": "Gruft: a dug-out (graben) burial vault.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gruft",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Gruft is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gruft, zwei ___",
+      "answer": "Grüfte",
+      "fullAnswer": "ein Gruft, zwei Grüfte",
+      "explanation": "The plural is Grüfte.",
+      "acceptedAnswers": [
+        "Gruefte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gruft mean?",
+      "options": [
+        "the key",
+        "crypt",
+        "the window"
+      ],
+      "answer": "crypt",
+      "explanation": "Gruft: crypt, vault, tomb.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Grüfte",
+        "die Grufts"
+      ],
+      "answer": "die Grüfte",
+      "explanation": "Umlaut.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Grufti (slang) is…",
+      "options": [
+        "a goth; an old person",
+        "a gravedigger"
+      ],
+      "answer": "a goth; an old person",
+      "explanation": "Slang.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Krypta is…",
+      "options": [
+        "crypt (under a church)",
+        "code"
+      ],
+      "answer": "crypt (under a church)",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Gruft is a crypt or burial vault: die Familiengruft, die Fürstengruft. Vienna's Kapuzinergruft is the burial place of the Habsburgs. The church term is die Krypta. Der Grufti is slang for a goth, or jokingly for an old person. Plural: die Grüfte."
+}

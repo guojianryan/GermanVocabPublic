@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "abrufen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AP-roo-fen",
+      "ipa": "ˈapˌʁuːfn̩",
+      "notes": ""
+    },
+    "meaning": "to retrieve, call up; to draw on",
+    "shortDefinition": "To retrieve, call up; to draw on."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "ruf|e … |ab"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "ruf|st … |ab"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "ruf|t … |ab"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "ruf|en … |ab"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "ruf|t … |ab"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "ruf|en … |ab"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat abgerufen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie können Ihre E-Mails jederzeit abrufen.",
+      "english": "You can check your emails at any time.",
+      "highlight": [
+        "abrufen."
+      ]
+    },
+    {
+      "german": "Die Fördermittel wurden nicht abgerufen.",
+      "english": "The funding wasn't drawn down.",
+      "highlight": [
+        "abgerufen."
+      ]
+    }
+  ],
+  "forms": [
+    "rufe ab",
+    "rufst ab",
+    "ruft ab",
+    "rufen ab",
+    "abgerufen",
+    "rief ab",
+    "Abruf",
+    "abrufbar"
+  ],
+  "memoryHook": "Abrufen: call (rufen) something down (ab) from storage.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ab (abrufen)",
+      "answer": "ruft",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: ruft … ab.",
+      "acceptedAnswers": [
+        "ruft"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (abrufen, past)",
+      "answer": "abgerufen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe abgerufen.",
+      "acceptedAnswers": [
+        "abgerufen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does abrufen mean?",
+      "options": [
+        "to retrieve",
+        "slowly",
+        "the bread"
+      ],
+      "answer": "to retrieve",
+      "explanation": "abrufen: to retrieve, call up; to draw on.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Auf Abruf means…",
+      "options": [
+        "on call, on demand",
+        "called off"
+      ],
+      "answer": "on call, on demand",
+      "explanation": "On call.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Leistung abrufen (sport) means…",
+      "options": [
+        "to perform to one's ability",
+        "to cancel"
+      ],
+      "answer": "to perform to one's ability",
+      "explanation": "Deliver.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Abruf is…",
+      "options": [
+        "retrieval, call-off",
+        "a phone call"
+      ],
+      "answer": "retrieval, call-off",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Abrufen means to retrieve or call up: Daten abrufen, E-Mails abrufen, den Kontostand abrufen. Funds that are available but not abgerufen haven't been drawn down, a common criticism of slow bureaucracy. In sport, seine Leistung abrufen means to perform to one's ability. Auf Abruf means on call or on demand: Arbeit auf Abruf. Abrufbar means available: online abrufbar. Separable: rief ab, abgerufen."
+}

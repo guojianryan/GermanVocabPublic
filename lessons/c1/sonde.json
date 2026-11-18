@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sonde",
+    "partOfSpeech": "noun, feminine (die Sonde)",
+    "pronunciation": {
+      "respelling": "ZON-de",
+      "ipa": "ˈzɔndə",
+      "notes": "Plural: die Sonden."
+    },
+    "meaning": "probe",
+    "shortDefinition": "Probe."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Sonde, plural die Sonden.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Sonde"
+        },
+        {
+          "label": "More than one",
+          "value": "die Sonden"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Raumsonde hat Bilder vom Mars geschickt.",
+      "english": "The space probe has sent pictures from Mars.",
+      "highlight": [
+        "Raumsonde"
+      ]
+    },
+    {
+      "german": "Der Arzt führte eine Sonde in den Magen ein.",
+      "english": "The doctor inserted a tube into the stomach.",
+      "highlight": [
+        "Sonde"
+      ]
+    }
+  ],
+  "forms": [
+    "Sonden",
+    "die Sonden",
+    "die Sonde",
+    "sondieren"
+  ],
+  "memoryHook": "Sonde: a probe that sounds out (sondieren) the unknown.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sonde",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Sonde is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Sonde, zwei ___",
+      "answer": "Sonden",
+      "fullAnswer": "ein Sonde, zwei Sonden",
+      "explanation": "The plural is Sonden.",
+      "acceptedAnswers": [
+        "Sonden"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sonde mean?",
+      "options": [
+        "the shop",
+        "probe",
+        "the street"
+      ],
+      "answer": "probe",
+      "explanation": "Sonde: probe.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Raumsonde is…",
+      "options": [
+        "a space probe",
+        "a space station"
+      ],
+      "answer": "a space probe",
+      "explanation": "Space.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sondieren means…",
+      "options": [
+        "to sound out, explore",
+        "to separate"
+      ],
+      "answer": "to sound out, explore",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sondierungsgespräche in politics are…",
+      "options": [
+        "exploratory talks before coalition negotiations",
+        "final votes"
+      ],
+      "answer": "exploratory talks before coalition negotiations",
+      "explanation": "Politics.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Sonde is a probe: die Raumsonde (space probe), eine Messsonde, and in medicine a tube or catheter: die Magensonde (feeding tube). The verb sondieren means to sound out or explore. In German politics, Sondierungsgespräche (exploratory talks) come before formal coalition negotiations (Koalitionsverhandlungen) after every federal election. Plural: die Sonden."
+}

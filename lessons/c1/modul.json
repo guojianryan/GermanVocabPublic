@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Modul",
+    "partOfSpeech": "noun, neuter (das Modul)",
+    "pronunciation": {
+      "respelling": "mo-DOOL",
+      "ipa": "moˈduːl",
+      "notes": "Plural: die Module."
+    },
+    "meaning": "module",
+    "shortDefinition": "Module."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Modul, plural die Module.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Modul"
+        },
+        {
+          "label": "More than one",
+          "value": "die Module"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Studium besteht aus mehreren Modulen.",
+      "english": "The degree consists of several modules.",
+      "highlight": [
+        "Modulen."
+      ]
+    },
+    {
+      "german": "Das Haus wurde aus vorgefertigten Modulen gebaut.",
+      "english": "The house was built from prefabricated modules.",
+      "highlight": [
+        "Modulen"
+      ]
+    }
+  ],
+  "forms": [
+    "Module",
+    "die Module",
+    "das Modul",
+    "Modulen"
+  ],
+  "memoryHook": "Modul: a building block that fits with others.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Modul",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Modul is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Modul, zwei ___",
+      "answer": "Module",
+      "fullAnswer": "ein Modul, zwei Module",
+      "explanation": "The plural is Module.",
+      "acceptedAnswers": [
+        "Module"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Modul mean?",
+      "options": [
+        "module",
+        "to sing",
+        "tomorrow"
+      ],
+      "answer": "module",
+      "explanation": "Modul: module.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "das Modul",
+        "der Modul"
+      ],
+      "answer": "das Modul",
+      "explanation": "Neuter.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress:",
+      "options": [
+        "mo-DUL",
+        "MO-dul"
+      ],
+      "answer": "mo-DUL",
+      "explanation": "Last syllable.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Modular means…",
+      "options": [
+        "modular",
+        "modern"
+      ],
+      "answer": "modular",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Modul is a module: in university degrees (Bachelor and Master courses consist of Module with credit points under the Bologna system), in technology (das Solarmodul, solar panel) and in construction (Modulbauweise). Germany switched from the old Diplom and Magister degrees to Bachelor and Master in the 2000s. Stressed on the last syllable: mo-DOOL. Plural: die Module."
+}

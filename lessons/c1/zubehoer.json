@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zubehör",
+    "partOfSpeech": "noun, neuter (das Zubehör)",
+    "pronunciation": {
+      "respelling": "TSOO-be-hör",
+      "ipa": "ˈt͡suːbəˌhøːɐ̯",
+      "notes": "Usually no plural."
+    },
+    "meaning": "accessories, equipment",
+    "shortDefinition": "Accessories, equipment."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Zubehör, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Zubehör"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Zubehör für die Kamera ist teuer.",
+      "english": "The accessories for the camera are expensive.",
+      "highlight": [
+        "Zubehör"
+      ]
+    },
+    {
+      "german": "Handys und Zubehör finden Sie im ersten Stock.",
+      "english": "You'll find phones and accessories on the first floor.",
+      "highlight": [
+        "Zubehör"
+      ]
+    }
+  ],
+  "forms": [
+    "das Zubehör"
+  ],
+  "memoryHook": "Zubehör: everything that belongs to (gehört zu) the main thing.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zubehör",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Zubehör is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zubehör mean?",
+      "options": [
+        "the station",
+        "the weather",
+        "accessories"
+      ],
+      "answer": "accessories",
+      "explanation": "Zubehör: accessories, equipment.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "das Zubehör",
+        "der Zubehör"
+      ],
+      "answer": "das Zubehör",
+      "explanation": "Neuter.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "usually none (das Zubehör)",
+        "die Zubehöre"
+      ],
+      "answer": "usually none (das Zubehör)",
+      "explanation": "Collective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zubehören means…",
+      "options": [
+        "(old) to belong to",
+        "to listen"
+      ],
+      "answer": "(old) to belong to",
+      "explanation": "zu + gehören.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Zubehör means accessories or equipment that belong with something: Autozubehör, Handyzubehör, Badezimmerzubehör. It's a collective noun, used in the singular: Das Zubehör ist im Preis enthalten. Note the neuter gender. It comes from zu + gehören (to belong to): what belongs to the main item. In shops, Zubehör is a section of its own. In law, Zubehör is defined in the BGB as items that serve a main thing."
+}

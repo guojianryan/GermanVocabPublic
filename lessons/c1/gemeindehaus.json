@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gemeindehaus",
+    "partOfSpeech": "noun, neuter (das Gemeindehaus)",
+    "pronunciation": {
+      "respelling": "ge-MAIN-de-haus",
+      "ipa": "ɡəˈmaɪ̯ndəˌhaʊ̯s",
+      "notes": "Plural: die Gemeindehäuser."
+    },
+    "meaning": "parish hall, community centre",
+    "shortDefinition": "Parish hall, community centre."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Gemeindehaus, plural die Gemeindehäuser.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Gemeindehaus"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gemeindehäuser"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Seniorentreff findet im Gemeindehaus statt.",
+      "english": "The seniors' meeting takes place in the parish hall.",
+      "highlight": [
+        "Gemeindehaus"
+      ]
+    },
+    {
+      "german": "Im Gemeindehaus gibt es Kaffee und Kuchen.",
+      "english": "There's coffee and cake in the community hall.",
+      "highlight": [
+        "Gemeindehaus"
+      ]
+    }
+  ],
+  "forms": [
+    "Gemeindehäuser",
+    "das Gemeindehaus"
+  ],
+  "memoryHook": "Gemeindehaus: a Haus for the Gemeinde (community, parish).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gemeindehaus",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Gemeindehaus is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gemeindehaus, zwei ___",
+      "answer": "Gemeindehäuser",
+      "fullAnswer": "ein Gemeindehaus, zwei Gemeindehäuser",
+      "explanation": "The plural is Gemeindehäuser.",
+      "acceptedAnswers": [
+        "Gemeindehaeuser"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gemeindehaus mean?",
+      "options": [
+        "the job",
+        "to wait",
+        "parish hall"
+      ],
+      "answer": "parish hall",
+      "explanation": "Gemeindehaus: parish hall, community centre.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gemeindehaus usually belongs to…",
+      "options": [
+        "a church parish",
+        "a town council only"
+      ],
+      "answer": "a church parish",
+      "explanation": "Church.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gemeinde is…",
+      "options": [
+        "municipality; parish, congregation",
+        "a meanness"
+      ],
+      "answer": "municipality; parish, congregation",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Bürgerhaus is…",
+      "options": [
+        "a municipal community centre",
+        "a burger bar"
+      ],
+      "answer": "a municipal community centre",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Gemeindehaus is a parish hall or community centre, usually belonging to a church congregation: Gemeindehaus der evangelischen Kirche. It hosts choir rehearsals, youth groups, flea markets and the classic Kaffee und Kuchen after events. Die Gemeinde means both a municipality and a church congregation. Municipal community centres are often called Bürgerhaus. Plural: die Gemeindehäuser."
+}

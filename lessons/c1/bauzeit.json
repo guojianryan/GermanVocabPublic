@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bauzeit",
+    "partOfSpeech": "noun, feminine (die Bauzeit)",
+    "pronunciation": {
+      "respelling": "BAU-tsait",
+      "ipa": "ˈbaʊ̯ˌt͡saɪ̯t",
+      "notes": "Plural: die Bauzeiten."
+    },
+    "meaning": "construction time",
+    "shortDefinition": "Construction time."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Bauzeit, plural die Bauzeiten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Bauzeit"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bauzeiten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Bauzeit beträgt zwei Jahre.",
+      "english": "Construction takes two years.",
+      "highlight": [
+        "Bauzeit"
+      ]
+    },
+    {
+      "german": "Der Kölner Dom hatte eine Bauzeit von über 600 Jahren.",
+      "english": "Cologne Cathedral took over 600 years to build.",
+      "highlight": [
+        "Bauzeit"
+      ]
+    }
+  ],
+  "forms": [
+    "Bauzeiten",
+    "die Bauzeit"
+  ],
+  "memoryHook": "Bauzeit: the Zeit (time) it takes to bauen.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bauzeit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Bauzeit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bauzeit, zwei ___",
+      "answer": "Bauzeiten",
+      "fullAnswer": "ein Bauzeit, zwei Bauzeiten",
+      "explanation": "The plural is Bauzeiten.",
+      "acceptedAnswers": [
+        "Bauzeiten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bauzeit mean?",
+      "options": [
+        "the shop",
+        "to sing",
+        "construction time"
+      ],
+      "answer": "construction time",
+      "explanation": "Bauzeit: construction time.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Bauzeit of Stuttgart 21 has been…",
+      "options": [
+        "much longer than planned",
+        "on schedule"
+      ],
+      "answer": "much longer than planned",
+      "explanation": "Delay.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Baustelle is…",
+      "options": [
+        "building site; roadworks",
+        "a construction company"
+      ],
+      "answer": "building site; roadworks",
+      "explanation": "Site.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Bauzeit verlängert sich means…",
+      "options": [
+        "construction is taking longer",
+        "the building gets taller"
+      ],
+      "answer": "construction is taking longer",
+      "explanation": "Delay.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Bauzeit is construction time: eine Bauzeit von drei Jahren. Big German projects are notorious for overruns: Berlin's BER airport (14 years), Hamburg's Elbphilharmonie (about ten years instead of three) and the rail project Stuttgart 21, begun in 2010, has faced years of delays. Cologne Cathedral holds the record: 632 years, from 1248 to 1880. Die Baustelle is a building site. Plural: die Bauzeiten."
+}

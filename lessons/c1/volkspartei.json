@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Volkspartei",
+    "partOfSpeech": "noun, feminine (die Volkspartei)",
+    "pronunciation": {
+      "respelling": "FOLKS-par-tai",
+      "ipa": "ˈfɔlkspaʁˌtaɪ̯",
+      "notes": "Plural: die Volksparteien."
+    },
+    "meaning": "people's party, big-tent party",
+    "shortDefinition": "People's party, big-tent party."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Volkspartei, plural die Volksparteien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Volkspartei"
+        },
+        {
+          "label": "More than one",
+          "value": "die Volksparteien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "CDU und SPD galten lange als Volksparteien.",
+      "english": "The CDU and SPD were long considered big-tent parties.",
+      "highlight": [
+        "Volksparteien."
+      ]
+    },
+    {
+      "german": "Die Volkspartei verliert an Zustimmung.",
+      "english": "The people's party is losing support.",
+      "highlight": [
+        "Volkspartei"
+      ]
+    }
+  ],
+  "forms": [
+    "Volksparteien",
+    "die Volksparteien",
+    "die Volkspartei"
+  ],
+  "memoryHook": "Volkspartei: a Partei for the whole Volk.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Volkspartei",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Volkspartei is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Volkspartei, zwei ___",
+      "answer": "Volksparteien",
+      "fullAnswer": "ein Volkspartei, zwei Volksparteien",
+      "explanation": "The plural is Volksparteien.",
+      "acceptedAnswers": [
+        "Volksparteien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Volkspartei mean?",
+      "options": [
+        "to buy",
+        "the flower",
+        "people's party"
+      ],
+      "answer": "people's party",
+      "explanation": "Volkspartei: people's party, big-tent party.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "A Volkspartei aims to…",
+      "options": [
+        "appeal to voters from all social groups",
+        "represent one region"
+      ],
+      "answer": "appeal to voters from all social groups",
+      "explanation": "Big tent.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's traditional Volksparteien:",
+      "options": [
+        "CDU/CSU and SPD",
+        "FDP and Greens"
+      ],
+      "answer": "CDU/CSU and SPD",
+      "explanation": "Traditional.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Volk means…",
+      "options": [
+        "the people",
+        "the folk music"
+      ],
+      "answer": "the people",
+      "explanation": "Volk.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Volkspartei is a people's party, a big-tent party that aims to appeal to voters across social classes rather than one group. In post-war Germany, CDU/CSU and SPD were the classic Volksparteien, each regularly winning 40 percent or more. Since the 2010s their combined share has fallen sharply, and commentators talk about das Ende der Volksparteien. Das Volk means the people. Plural: die Volksparteien."
+}

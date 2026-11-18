@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Diener",
+    "partOfSpeech": "noun, masculine (der Diener)",
+    "pronunciation": {
+      "respelling": "DEE-ner",
+      "ipa": "ˈdiːnɐ",
+      "notes": "Plural: die Diener."
+    },
+    "meaning": "servant",
+    "shortDefinition": "Servant."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Diener, plural die Diener.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Diener"
+        },
+        {
+          "label": "More than one",
+          "value": "die Diener"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Diener öffnete die Tür.",
+      "english": "The servant opened the door.",
+      "highlight": [
+        "Diener"
+      ]
+    },
+    {
+      "german": "Ein Politiker sollte ein Diener des Volkes sein.",
+      "english": "A politician should be a servant of the people.",
+      "highlight": [
+        "Diener"
+      ]
+    }
+  ],
+  "forms": [
+    "die Diener",
+    "der Diener",
+    "Dienerin",
+    "dienen"
+  ],
+  "memoryHook": "Diener: one who dient (serves).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Diener",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Diener is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Diener, zwei ___",
+      "answer": "Diener",
+      "fullAnswer": "ein Diener, zwei Diener",
+      "explanation": "The plural is Diener.",
+      "acceptedAnswers": [
+        "Diener"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Diener mean?",
+      "options": [
+        "the family",
+        "to learn",
+        "servant"
+      ],
+      "answer": "servant",
+      "explanation": "Diener: servant.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einen Diener machen (dated) means…",
+      "options": [
+        "to bow",
+        "to hire a servant"
+      ],
+      "answer": "to bow",
+      "explanation": "Bow.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Dienen means…",
+      "options": [
+        "to serve",
+        "to steal"
+      ],
+      "answer": "to serve",
+      "explanation": "dienen.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Dienst is…",
+      "options": [
+        "service, duty",
+        "the servant"
+      ],
+      "answer": "service, duty",
+      "explanation": "Dienst.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Diener (die Dienerin) is a servant: der Kammerdiener (valet), ein Diener zweier Herren (a servant of two masters, after Goldoni's comedy). Frederick the Great famously called himself der erste Diener des Staates (the first servant of the state). In older German, einen Diener machen meant to bow, as children were taught. From dienen (to serve), related to der Dienst (service)."
+}

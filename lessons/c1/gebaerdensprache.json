@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gebärdensprache",
+    "partOfSpeech": "noun, feminine (die Gebärdensprache)",
+    "pronunciation": {
+      "respelling": "ge-BAYR-den-shpraa-khe",
+      "ipa": "ɡəˈbɛːɐ̯dn̩ˌʃpʁaːxə",
+      "notes": "Plural: die Gebärdensprachen."
+    },
+    "meaning": "sign language",
+    "shortDefinition": "Sign language."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Gebärdensprache, plural die Gebärdensprachen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Gebärdensprache"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gebärdensprachen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Nachrichten werden auch in Gebärdensprache übersetzt.",
+      "english": "The news is also translated into sign language.",
+      "highlight": [
+        "Gebärdensprache"
+      ]
+    },
+    {
+      "german": "Sie lernt die Deutsche Gebärdensprache.",
+      "english": "She's learning German Sign Language.",
+      "highlight": [
+        "Gebärdensprache."
+      ]
+    }
+  ],
+  "forms": [
+    "Gebärdensprachen",
+    "die Gebärdensprache"
+  ],
+  "memoryHook": "Gebärdensprache: a Sprache of Gebärden (gestures).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gebärdensprache",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Gebärdensprache is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gebärdensprache, zwei ___",
+      "answer": "Gebärdensprachen",
+      "fullAnswer": "ein Gebärdensprache, zwei Gebärdensprachen",
+      "explanation": "The plural is Gebärdensprachen.",
+      "acceptedAnswers": [
+        "Gebaerdensprachen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gebärdensprache mean?",
+      "options": [
+        "to buy",
+        "sign language",
+        "the key"
+      ],
+      "answer": "sign language",
+      "explanation": "Gebärdensprache: sign language.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Deutsche Gebärdensprache (DGS) was legally recognised in…",
+      "options": [
+        "2002",
+        "1950"
+      ],
+      "answer": "2002",
+      "explanation": "Law.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gebärde is…",
+      "options": [
+        "gesture, sign",
+        "a birth"
+      ],
+      "answer": "gesture, sign",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gehörlos means…",
+      "options": [
+        "deaf",
+        "obedient"
+      ],
+      "answer": "deaf",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Gebärdensprache is sign language. Deutsche Gebärdensprache (DGS) has its own grammar and was officially recognised as a language in 2002. Each country has its own: Austria and Switzerland use different sign languages. Deaf people are gehörlos, and Gebärdendolmetscher interpret on TV and at events. Die Gebärde means gesture. Plural: die Gebärdensprachen."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Raubtier",
+    "partOfSpeech": "noun, neuter (das Raubtier)",
+    "pronunciation": {
+      "respelling": "RAUP-teer",
+      "ipa": "ˈʁaʊ̯pˌtiːɐ̯",
+      "notes": "Plural: die Raubtiere."
+    },
+    "meaning": "predator, beast of prey",
+    "shortDefinition": "Predator, beast of prey."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Raubtier, plural die Raubtiere.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Raubtier"
+        },
+        {
+          "label": "More than one",
+          "value": "die Raubtiere"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Wolf ist ein Raubtier.",
+      "english": "The wolf is a predator.",
+      "highlight": [
+        "Raubtier."
+      ]
+    },
+    {
+      "german": "Im Zoo werden die Raubtiere um 15 Uhr gefüttert.",
+      "english": "At the zoo the big cats are fed at 3 p.m.",
+      "highlight": [
+        "Raubtiere"
+      ]
+    }
+  ],
+  "forms": [
+    "Raubtiere",
+    "das Raubtier"
+  ],
+  "memoryHook": "Raubtier: a Tier that lives by Raub (seizing prey).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Raubtier",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Raubtier is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Raubtier, zwei ___",
+      "answer": "Raubtiere",
+      "fullAnswer": "ein Raubtier, zwei Raubtiere",
+      "explanation": "The plural is Raubtiere.",
+      "acceptedAnswers": [
+        "Raubtiere"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Raubtier mean?",
+      "options": [
+        "predator",
+        "the weather",
+        "the child"
+      ],
+      "answer": "predator",
+      "explanation": "Raubtier: predator, beast of prey.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Raubtierkapitalismus is…",
+      "options": [
+        "predatory capitalism",
+        "a zoo"
+      ],
+      "answer": "predatory capitalism",
+      "explanation": "Figurative.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Raub is…",
+      "options": [
+        "robbery; prey",
+        "a rope"
+      ],
+      "answer": "robbery; prey",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Fleischfresser is…",
+      "options": [
+        "carnivore",
+        "a butcher"
+      ],
+      "answer": "carnivore",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Raubtier is a predator or beast of prey: Löwen, Tiger, Wölfe and Bären are Raubtiere. Germany's largest wild Raubtier today is the returning wolf, whose spread sparks conflicts with sheep farmers. Raubvögel are birds of prey. Figuratively, Raubtierkapitalismus is predatory capitalism. Der Raub means robbery or prey. Plural: die Raubtiere."
+}

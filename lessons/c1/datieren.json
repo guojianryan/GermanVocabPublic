@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "datieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "da-TEE-ren",
+      "ipa": "daˈtiːʁən",
+      "notes": ""
+    },
+    "meaning": "to date",
+    "shortDefinition": "To date."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "datier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "datier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "datier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "datier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "datier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "datier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat datiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Brief ist auf den 3. Mai datiert.",
+      "english": "The letter is dated 3 May.",
+      "highlight": [
+        "datiert."
+      ]
+    },
+    {
+      "german": "Die Funde datieren aus der Römerzeit.",
+      "english": "The finds date from Roman times.",
+      "highlight": [
+        "datieren"
+      ]
+    }
+  ],
+  "forms": [
+    "datiere",
+    "datierst",
+    "datiert",
+    "datieren",
+    "Datierung"
+  ],
+  "memoryHook": "Datieren: put a Datum (date) on something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (datieren)",
+      "answer": "datiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: datiert.",
+      "acceptedAnswers": [
+        "datiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (datieren, past)",
+      "answer": "datiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe datiert.",
+      "acceptedAnswers": [
+        "datiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does datieren mean?",
+      "options": [
+        "to date",
+        "expensive",
+        "the family"
+      ],
+      "answer": "to date",
+      "explanation": "datieren: to date.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Datieren aus means…",
+      "options": [
+        "to date from",
+        "to go on a date"
+      ],
+      "answer": "to date from",
+      "explanation": "Date from.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "To go on a date is…",
+      "options": [
+        "sich verabreden / ein Date haben",
+        "datieren"
+      ],
+      "answer": "sich verabreden / ein Date haben",
+      "explanation": "False friend.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Datierung is…",
+      "options": [
+        "dating (of finds)",
+        "a date"
+      ],
+      "answer": "dating (of finds)",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Datieren means to date something: einen Brief datieren, Funde auf das 5. Jahrhundert datieren, and intransitively, to date from: Die Kirche datiert aus dem 12. Jahrhundert. It does not mean going on a romantic date; for that, Germans say ein Date haben or sich verabreden. Die Datierung is dating, as in die Radiokarbondatierung. Das Datum (plural Daten) is a date. Perfect without ge-: hat datiert."
+}

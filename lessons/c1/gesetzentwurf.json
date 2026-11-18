@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gesetzentwurf",
+    "partOfSpeech": "noun, masculine (der Gesetzentwurf)",
+    "pronunciation": {
+      "respelling": "ge-ZETS-ent-vurf",
+      "ipa": "ɡəˈzɛt͡sʔɛntˌvʊʁf",
+      "notes": "Plural: die Gesetzentwürfe."
+    },
+    "meaning": "bill, draft law",
+    "shortDefinition": "Bill, draft law."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Gesetzentwurf, plural die Gesetzentwürfe.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Gesetzentwurf"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gesetzentwürfe"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Regierung hat einen Gesetzentwurf vorgelegt.",
+      "english": "The government has presented a bill.",
+      "highlight": [
+        "Gesetzentwurf"
+      ]
+    },
+    {
+      "german": "Der Bundestag berät über den Gesetzentwurf.",
+      "english": "The Bundestag is debating the bill.",
+      "highlight": [
+        "Gesetzentwurf."
+      ]
+    }
+  ],
+  "forms": [
+    "Gesetzentwürfe",
+    "die Gesetzentwürfe",
+    "der Gesetzentwurf"
+  ],
+  "memoryHook": "Gesetzentwurf: the Entwurf (draft) of a Gesetz.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gesetzentwurf",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Gesetzentwurf is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gesetzentwurf, zwei ___",
+      "answer": "Gesetzentwürfe",
+      "fullAnswer": "ein Gesetzentwurf, zwei Gesetzentwürfe",
+      "explanation": "The plural is Gesetzentwürfe.",
+      "acceptedAnswers": [
+        "Gesetzentwuerfe"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gesetzentwurf mean?",
+      "options": [
+        "bill",
+        "the evening",
+        "cheap"
+      ],
+      "answer": "bill",
+      "explanation": "Gesetzentwurf: bill, draft law.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "A bill becomes law after…",
+      "options": [
+        "passing the Bundestag (and Bundesrat where needed)",
+        "a referendum"
+      ],
+      "answer": "passing the Bundestag (and Bundesrat where needed)",
+      "explanation": "Process.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Entwurf is…",
+      "options": [
+        "draft, design",
+        "a throw"
+      ],
+      "answer": "draft, design",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Who can introduce a bill?",
+      "options": [
+        "the government, Bundestag, or Bundesrat",
+        "only the president"
+      ],
+      "answer": "the government, Bundestag, or Bundesrat",
+      "explanation": "Initiative.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Gesetzentwurf is a bill or draft law. In Germany, bills can be introduced by the federal government, members of the Bundestag or the Bundesrat. After three readings (Lesungen) in the Bundestag, the Bundesrat (representing the Länder) is involved, and finally the Federal President signs the law. Der Entwurf means draft or design. Also spelled Gesetzesentwurf. Plural: die Gesetzentwürfe."
+}

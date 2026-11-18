@@ -1,0 +1,100 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "betreffend",
+    "partOfSpeech": "adjective / preposition",
+    "pronunciation": {
+      "respelling": "be-TREF-ent",
+      "ipa": "bəˈtʁɛfn̩t",
+      "notes": ""
+    },
+    "meaning": "concerned, relevant; concerning",
+    "shortDefinition": "Concerned, relevant; concerning."
+  },
+  "sampleSentences": [
+    {
+      "german": "Bitte wenden Sie sich an die betreffende Abteilung.",
+      "english": "Please contact the department concerned.",
+      "highlight": [
+        "betreffende"
+      ]
+    },
+    {
+      "german": "Die betreffende Person wurde informiert.",
+      "english": "The person in question was informed.",
+      "highlight": [
+        "betreffende"
+      ]
+    }
+  ],
+  "forms": [
+    "betreffende",
+    "betreffenden",
+    "Betreff",
+    "betreffen",
+    "betrifft"
+  ],
+  "memoryHook": "Betreffend: the one this concerns (betrifft).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does betreffend mean?",
+      "options": [
+        "the bill",
+        "concerned",
+        "quiet"
+      ],
+      "answer": "concerned",
+      "explanation": "betreffend: concerned, relevant; concerning.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Betreff in an email is…",
+      "options": [
+        "the subject line",
+        "the signature"
+      ],
+      "answer": "the subject line",
+      "explanation": "Betreff.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Betreffen means…",
+      "options": [
+        "to concern, affect",
+        "to meet"
+      ],
+      "answer": "to concern, affect",
+      "explanation": "betreffen.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Was mich betrifft means…",
+      "options": [
+        "as far as I'm concerned",
+        "what hits me"
+      ],
+      "answer": "as far as I'm concerned",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "die ___ Person (in question)",
+      "answer": "betreffende",
+      "fullAnswer": "die betreffende Person",
+      "explanation": "betreffend.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Betreffend means concerned, relevant or in question: die betreffende Person, das betreffende Formular. As a preposition, it means concerning: Ihre Anfrage betreffend (regarding your enquiry), very formal. It comes from betreffen (to concern, affect): Das betrifft uns alle. In emails, der Betreff is the subject line. Was mich betrifft means as far as I'm concerned. Betroffen means affected or dismayed."
+}

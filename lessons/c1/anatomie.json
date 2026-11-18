@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Anatomie",
+    "partOfSpeech": "noun, feminine (die Anatomie)",
+    "pronunciation": {
+      "respelling": "a-na-to-MEE",
+      "ipa": "anatoˈmiː",
+      "notes": "Usually no plural."
+    },
+    "meaning": "anatomy",
+    "shortDefinition": "Anatomy."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Anatomie, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Anatomie"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im ersten Semester lernt man Anatomie.",
+      "english": "In the first semester you learn anatomy.",
+      "highlight": [
+        "Anatomie."
+      ]
+    },
+    {
+      "german": "Die Anatomie des Pferdes ist komplex.",
+      "english": "The horse's anatomy is complex.",
+      "highlight": [
+        "Anatomie"
+      ]
+    }
+  ],
+  "forms": [
+    "die Anatomie",
+    "anatomisch"
+  ],
+  "memoryHook": "Anatomie: cutting up (Greek anatome) to see inside.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Anatomie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Anatomie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Anatomie mean?",
+      "options": [
+        "the bed",
+        "anatomy",
+        "tomorrow"
+      ],
+      "answer": "anatomy",
+      "explanation": "Anatomie: anatomy.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Anatomisch means…",
+      "options": [
+        "anatomical",
+        "atomic"
+      ],
+      "answer": "anatomical",
+      "explanation": "Adjective.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress:",
+      "options": [
+        "a-na-to-MIE",
+        "a-NA-to-mie"
+      ],
+      "answer": "a-na-to-MIE",
+      "explanation": "Last syllable.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Body Worlds (Körperwelten) was created by…",
+      "options": [
+        "Gunther von Hagens",
+        "Robert Koch"
+      ],
+      "answer": "Gunther von Hagens",
+      "explanation": "Plastination.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Anatomie is anatomy, a cornerstone of medical study: im Präpkurs, German medical students dissect bodies. German anatomist Gunther von Hagens invented plastination, and his touring exhibition Körperwelten (Body Worlds) has drawn millions of visitors and much controversy. Anatomisch means anatomical: anatomisch geformt (ergonomically shaped). From Greek anatome (dissection). Stressed on the last syllable."
+}

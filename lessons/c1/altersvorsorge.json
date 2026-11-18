@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Altersvorsorge",
+    "partOfSpeech": "noun, feminine (die Altersvorsorge)",
+    "pronunciation": {
+      "respelling": "AL-ters-for-zor-ge",
+      "ipa": "ˈaltɐsˌfoːɐ̯zɔʁɡə",
+      "notes": "Usually no plural."
+    },
+    "meaning": "retirement provision, pension planning",
+    "shortDefinition": "Retirement provision, pension planning."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Altersvorsorge, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Altersvorsorge"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Man sollte früh mit der Altersvorsorge beginnen.",
+      "english": "You should start saving for retirement early.",
+      "highlight": [
+        "Altersvorsorge"
+      ]
+    },
+    {
+      "german": "Die private Altersvorsorge wird immer wichtiger.",
+      "english": "Private pension provision is becoming more important.",
+      "highlight": [
+        "Altersvorsorge"
+      ]
+    }
+  ],
+  "forms": [
+    "die Altersvorsorge",
+    "Vorsorge"
+  ],
+  "memoryHook": "Altersvorsorge: providing (vorsorgen) for old age (Alter).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Altersvorsorge",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Altersvorsorge is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Altersvorsorge mean?",
+      "options": [
+        "the job",
+        "retirement provision",
+        "always"
+      ],
+      "answer": "retirement provision",
+      "explanation": "Altersvorsorge: retirement provision, pension planning.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Vorsorge is…",
+      "options": [
+        "precaution, provision",
+        "a worry"
+      ],
+      "answer": "precaution, provision",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Riester-Rente is…",
+      "options": [
+        "state-subsidised private pension saving",
+        "a tax"
+      ],
+      "answer": "state-subsidised private pension saving",
+      "explanation": "Riester.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's pension system has…",
+      "options": [
+        "three pillars",
+        "one pillar"
+      ],
+      "answer": "three pillars",
+      "explanation": "Drei Säulen.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Altersvorsorge is retirement provision. Germany's system rests on three pillars: the statutory pension (gesetzliche Rente), occupational pensions (betriebliche Altersvorsorge) and private saving, such as the state-subsidised Riester-Rente (2002). With an ageing population, experts warn of a Rentenlücke (pension gap), and ETFs have become popular. Die Vorsorge means precaution, also medical check-ups. It has no plural."
+}

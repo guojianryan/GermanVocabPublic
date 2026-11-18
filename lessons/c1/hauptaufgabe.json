@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Hauptaufgabe",
+    "partOfSpeech": "noun, feminine (die Hauptaufgabe)",
+    "pronunciation": {
+      "respelling": "HAUPT-auf-gaa-be",
+      "ipa": "ˈhaʊ̯ptˌʔaʊ̯fɡaːbə",
+      "notes": "Plural: die Hauptaufgaben."
+    },
+    "meaning": "main task",
+    "shortDefinition": "Main task."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Hauptaufgabe, plural die Hauptaufgaben.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Hauptaufgabe"
+        },
+        {
+          "label": "More than one",
+          "value": "die Hauptaufgaben"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Seine Hauptaufgabe ist die Betreuung der Kunden.",
+      "english": "His main task is looking after customers.",
+      "highlight": [
+        "Hauptaufgabe"
+      ]
+    },
+    {
+      "german": "Die Hauptaufgabe der Polizei ist die Gefahrenabwehr.",
+      "english": "The police's main task is averting danger.",
+      "highlight": [
+        "Hauptaufgabe"
+      ]
+    }
+  ],
+  "forms": [
+    "Hauptaufgaben",
+    "die Hauptaufgabe"
+  ],
+  "memoryHook": "Hauptaufgabe: the Haupt- (main) Aufgabe (task).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Hauptaufgabe",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Hauptaufgabe is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Hauptaufgabe, zwei ___",
+      "answer": "Hauptaufgaben",
+      "fullAnswer": "ein Hauptaufgabe, zwei Hauptaufgaben",
+      "explanation": "The plural is Hauptaufgaben.",
+      "acceptedAnswers": [
+        "Hauptaufgaben"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Hauptaufgabe mean?",
+      "options": [
+        "the weather",
+        "main task",
+        "expensive"
+      ],
+      "answer": "main task",
+      "explanation": "Hauptaufgabe: main task.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Haupt- means…",
+      "options": [
+        "main, chief",
+        "head only"
+      ],
+      "answer": "main, chief",
+      "explanation": "Prefix.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Aufgabe is…",
+      "options": [
+        "task; exercise; giving up",
+        "an addition"
+      ],
+      "answer": "task; exercise; giving up",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Hauptbahnhof is…",
+      "options": [
+        "the main station",
+        "a head office"
+      ],
+      "answer": "the main station",
+      "explanation": "Pattern.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Hauptaufgabe is the main task: Meine Hauptaufgabe besteht darin, ... Haupt- (main, chief) makes many compounds: der Hauptbahnhof (Hbf), die Hauptstadt (capital), der Hauptgrund, die Hauptsache (the main thing: Hauptsache, du bist gesund). Die Aufgabe means task, exercise, and also giving up: die Aufgabe des Geschäfts. Plural: die Hauptaufgaben."
+}

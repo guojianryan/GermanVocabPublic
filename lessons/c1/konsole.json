@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Konsole",
+    "partOfSpeech": "noun, feminine (die Konsole)",
+    "pronunciation": {
+      "respelling": "kon-ZOH-le",
+      "ipa": "kɔnˈzoːlə",
+      "notes": "Plural: die Konsolen."
+    },
+    "meaning": "console; bracket",
+    "shortDefinition": "Console; bracket."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Konsole, plural die Konsolen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Konsole"
+        },
+        {
+          "label": "More than one",
+          "value": "die Konsolen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Kinder spielen an der Konsole.",
+      "english": "The kids are playing on the console.",
+      "highlight": [
+        "Konsole."
+      ]
+    },
+    {
+      "german": "Das Regal hängt an zwei Konsolen.",
+      "english": "The shelf hangs on two brackets.",
+      "highlight": [
+        "Konsolen."
+      ]
+    }
+  ],
+  "forms": [
+    "Konsolen",
+    "die Konsolen",
+    "die Konsole",
+    "Spielkonsole"
+  ],
+  "memoryHook": "Konsole: from games to shelf brackets.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Konsole",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Konsole is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Konsole, zwei ___",
+      "answer": "Konsolen",
+      "fullAnswer": "ein Konsole, zwei Konsolen",
+      "explanation": "The plural is Konsolen.",
+      "acceptedAnswers": [
+        "Konsolen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Konsole mean?",
+      "options": [
+        "the bill",
+        "console",
+        "tomorrow"
+      ],
+      "answer": "console",
+      "explanation": "Konsole: console; bracket.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Spielkonsole is…",
+      "options": [
+        "a games console",
+        "a game board"
+      ],
+      "answer": "a games console",
+      "explanation": "Gaming.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In architecture, eine Konsole is…",
+      "options": [
+        "a bracket, corbel",
+        "a column"
+      ],
+      "answer": "a bracket, corbel",
+      "explanation": "Bracket.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Konsolen",
+        "die Konsoles"
+      ],
+      "answer": "die Konsolen",
+      "explanation": "-n.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Konsole is a console: eine Spielkonsole (games console), die Mittelkonsole (centre console in a car), and in computing, the command line. Originally an architectural term, it's a bracket or corbel supporting a shelf or ledge. Germany's Gamescom in Cologne is one of the world's largest gaming fairs. From French console. Plural: die Konsolen."
+}

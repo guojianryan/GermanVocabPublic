@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "rechtens",
+    "partOfSpeech": "adjective (predicative)",
+    "pronunciation": {
+      "respelling": "REKH-tens",
+      "ipa": "ˈʁɛçtn̩s",
+      "notes": ""
+    },
+    "meaning": "lawful, legal, right",
+    "shortDefinition": "Lawful, legal, right."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die Kündigung war nicht rechtens.",
+      "english": "The dismissal was not lawful.",
+      "highlight": [
+        "rechtens."
+      ]
+    },
+    {
+      "german": "Ist das überhaupt rechtens?",
+      "english": "Is that even legal?",
+      "highlight": [
+        "rechtens?"
+      ]
+    }
+  ],
+  "forms": [
+    "rechtens"
+  ],
+  "memoryHook": "Rechtens: in accordance with Recht (law).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does rechtens mean?",
+      "options": [
+        "quiet",
+        "the street",
+        "lawful"
+      ],
+      "answer": "lawful",
+      "explanation": "rechtens: lawful, legal, right.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rechtens is used…",
+      "options": [
+        "only with sein (ist rechtens)",
+        "before nouns"
+      ],
+      "answer": "only with sein (ist rechtens)",
+      "explanation": "Use.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "rechtmäßig, legal",
+        "illegal"
+      ],
+      "answer": "rechtmäßig, legal",
+      "explanation": "Synonym.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Recht is…",
+      "options": [
+        "law; right",
+        "right side"
+      ],
+      "answer": "law; right",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Das Urteil ist ___. (lawful)",
+      "answer": "rechtens",
+      "fullAnswer": "Das Urteil ist rechtens.",
+      "explanation": "rechtens.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Rechtens means lawful or legal and is only used with sein: Das ist (nicht) rechtens. It's an old genitive form of das Recht that became fixed. Before nouns you need rechtmäßig or legal: eine rechtmäßige Kündigung. Similar fossilised genitives: abends, morgens, rechtens, eilends. Courts often decide whether something war rechtens."
+}

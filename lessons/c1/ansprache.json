@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ansprache",
+    "partOfSpeech": "noun, feminine (die Ansprache)",
+    "pronunciation": {
+      "respelling": "AN-shpraa-khe",
+      "ipa": "ˈanˌʃpʁaːxə",
+      "notes": "Plural: die Ansprachen."
+    },
+    "meaning": "speech, address",
+    "shortDefinition": "Speech, address."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Ansprache, plural die Ansprachen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Ansprache"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ansprachen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Bundespräsident hält eine Ansprache.",
+      "english": "The Federal President is giving an address.",
+      "highlight": [
+        "Ansprache."
+      ]
+    },
+    {
+      "german": "Ihr fehlt die Ansprache.",
+      "english": "She has no one to talk to.",
+      "highlight": [
+        "Ansprache."
+      ]
+    }
+  ],
+  "forms": [
+    "Ansprachen",
+    "die Ansprachen",
+    "die Ansprache",
+    "ansprechen"
+  ],
+  "memoryHook": "Ansprache: speaking (sprechen) to (an) an audience.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ansprache",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Ansprache is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Ansprache, zwei ___",
+      "answer": "Ansprachen",
+      "fullAnswer": "ein Ansprache, zwei Ansprachen",
+      "explanation": "The plural is Ansprachen.",
+      "acceptedAnswers": [
+        "Ansprachen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ansprache mean?",
+      "options": [
+        "speech",
+        "to sing",
+        "cheap"
+      ],
+      "answer": "speech",
+      "explanation": "Ansprache: speech, address.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Ansprache halten means…",
+      "options": [
+        "to give a speech",
+        "to hold a conversation"
+      ],
+      "answer": "to give a speech",
+      "explanation": "Speech.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Neujahrsansprache is…",
+      "options": [
+        "the chancellor's New Year's Eve address",
+        "a greeting card"
+      ],
+      "answer": "the chancellor's New Year's Eve address",
+      "explanation": "Tradition.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Keine Ansprache haben means…",
+      "options": [
+        "to have no one to talk to",
+        "to be mute"
+      ],
+      "answer": "to have no one to talk to",
+      "explanation": "Lonely.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Ansprache is a short, formal speech or address: eine Ansprache halten. Every 31 December, the chancellor gives a Neujahrsansprache on TV, and at Christmas the Bundespräsident gives his Weihnachtsansprache. Keine Ansprache haben means to have nobody to talk to, a phrase used about loneliness. Ansprechen means to speak to or address someone, or to appeal: Das spricht mich an. Die Rede is the more general word for a speech."
+}

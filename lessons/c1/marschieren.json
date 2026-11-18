@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "marschieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "mar-SHEE-ren",
+      "ipa": "maʁˈʃiːʁən",
+      "notes": ""
+    },
+    "meaning": "to march",
+    "shortDefinition": "To march."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "marschier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "marschier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "marschier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "marschier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "marschier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "marschier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist marschiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Demonstranten marschierten durch die Innenstadt.",
+      "english": "The demonstrators marched through the city centre.",
+      "highlight": [
+        "marschierten"
+      ]
+    },
+    {
+      "german": "Wir sind zwanzig Kilometer marschiert.",
+      "english": "We marched twenty kilometres.",
+      "highlight": [
+        "marschiert."
+      ]
+    }
+  ],
+  "forms": [
+    "marschiere",
+    "marschierst",
+    "marschiert",
+    "marschieren",
+    "Marsch",
+    "einmarschieren"
+  ],
+  "memoryHook": "Marschieren: walk in step in a Marsch.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (marschieren)",
+      "answer": "marschiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: marschiert.",
+      "acceptedAnswers": [
+        "marschiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (marschieren, past)",
+      "answer": "marschiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin marschiert.",
+      "acceptedAnswers": [
+        "marschiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does marschieren mean?",
+      "options": [
+        "the bill",
+        "to march",
+        "to travel"
+      ],
+      "answer": "to march",
+      "explanation": "marschieren: to march.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Perfect with…",
+      "options": [
+        "sein",
+        "haben"
+      ],
+      "answer": "sein",
+      "explanation": "ist marschiert.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Marsch is…",
+      "options": [
+        "march (also music)",
+        "marsh"
+      ],
+      "answer": "march (also music)",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einmarschieren means…",
+      "options": [
+        "to invade, march in",
+        "to sign up"
+      ],
+      "answer": "to invade, march in",
+      "explanation": "Invade.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Marschieren means to march: Soldaten marschieren, durch die Stadt marschieren. It's also used for brisk long walks: Wir sind den ganzen Tag marschiert. Perfect with sein: ist marschiert. Der Marsch is a march, also as music. Einmarschieren means to invade: der Einmarsch in Polen, 1939. Jemandem den Marsch blasen means to give someone a dressing-down."
+}

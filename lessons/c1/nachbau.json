@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Nachbau",
+    "partOfSpeech": "noun, masculine (der Nachbau)",
+    "pronunciation": {
+      "respelling": "NAAKH-bau",
+      "ipa": "ˈnaːxˌbaʊ̯",
+      "notes": "Plural: die Nachbauten."
+    },
+    "meaning": "replica, reconstruction",
+    "shortDefinition": "Replica, reconstruction."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Nachbau, plural die Nachbauten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Nachbau"
+        },
+        {
+          "label": "More than one",
+          "value": "die Nachbauten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Schiff ist ein originalgetreuer Nachbau.",
+      "english": "The ship is a faithful replica.",
+      "highlight": [
+        "Nachbau."
+      ]
+    },
+    {
+      "german": "Der Nachbau des Stadtschlosses ist umstritten.",
+      "english": "The reconstruction of the city palace is controversial.",
+      "highlight": [
+        "Nachbau"
+      ]
+    }
+  ],
+  "forms": [
+    "Nachbauten",
+    "der Nachbau"
+  ],
+  "memoryHook": "Nachbau: building (Bau) after (nach) a model.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Nachbau",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Nachbau is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Nachbau, zwei ___",
+      "answer": "Nachbauten",
+      "fullAnswer": "ein Nachbau, zwei Nachbauten",
+      "explanation": "The plural is Nachbauten.",
+      "acceptedAnswers": [
+        "Nachbauten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Nachbau mean?",
+      "options": [
+        "replica",
+        "the bill",
+        "to sing"
+      ],
+      "answer": "replica",
+      "explanation": "Nachbau: replica, reconstruction.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nachbauen means…",
+      "options": [
+        "to copy, replicate (by building)",
+        "to build next door"
+      ],
+      "answer": "to copy, replicate (by building)",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Berlin's Humboldt Forum has…",
+      "options": [
+        "a reconstructed palace façade",
+        "a new glass dome"
+      ],
+      "answer": "a reconstructed palace façade",
+      "explanation": "Berlin.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Rekonstruktion, die Nachbildung",
+        "das Original"
+      ],
+      "answer": "die Rekonstruktion, die Nachbildung",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Nachbau is a replica or reconstruction: der Nachbau eines Wikingerschiffs, eines Oldtimers. Germany has debated many architectural Nachbauten: Dresden's Frauenkirche, rebuilt by 2005, and Berlin's Stadtschloss, whose baroque façades were recreated for the Humboldt Forum (opened 2021). Nachbauen means to replicate. Synonyms: die Rekonstruktion, die Nachbildung. Plural: die Nachbauten."
+}

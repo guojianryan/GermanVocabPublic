@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vollstreckung",
+    "partOfSpeech": "noun, feminine (die Vollstreckung)",
+    "pronunciation": {
+      "respelling": "FOL-shtre-kung",
+      "ipa": "ˈfɔlˌʃtʁɛkʊŋ",
+      "notes": "Plural: die Vollstreckungen."
+    },
+    "meaning": "enforcement; execution (of a sentence)",
+    "shortDefinition": "Enforcement; execution (of a sentence)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Vollstreckung, plural die Vollstreckungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Vollstreckung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Vollstreckungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Gläubiger beantragte die Zwangsvollstreckung.",
+      "english": "The creditor applied for enforcement.",
+      "highlight": [
+        "Zwangsvollstreckung."
+      ]
+    },
+    {
+      "german": "Die Vollstreckung des Urteils wurde ausgesetzt.",
+      "english": "The enforcement of the sentence was suspended.",
+      "highlight": [
+        "Vollstreckung"
+      ]
+    }
+  ],
+  "forms": [
+    "Vollstreckungen",
+    "die Vollstreckung"
+  ],
+  "memoryHook": "Vollstreckung: carrying a judgment through to its full (voll) end.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vollstreckung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Vollstreckung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Vollstreckung, zwei ___",
+      "answer": "Vollstreckungen",
+      "fullAnswer": "ein Vollstreckung, zwei Vollstreckungen",
+      "explanation": "The plural is Vollstreckungen.",
+      "acceptedAnswers": [
+        "Vollstreckungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vollstreckung mean?",
+      "options": [
+        "quiet",
+        "never",
+        "enforcement"
+      ],
+      "answer": "enforcement",
+      "explanation": "Vollstreckung: enforcement; execution (of a sentence).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Zwangsvollstreckung is…",
+      "options": [
+        "compulsory enforcement (of debts)",
+        "forced labour"
+      ],
+      "answer": "compulsory enforcement (of debts)",
+      "explanation": "Debt.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vollstrecken means…",
+      "options": [
+        "to enforce, carry out",
+        "to stretch"
+      ],
+      "answer": "to enforce, carry out",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In football, der Vollstrecker is…",
+      "options": [
+        "a clinical finisher",
+        "a referee"
+      ],
+      "answer": "a clinical finisher",
+      "explanation": "Sport.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Vollstreckung is enforcement or execution of a judgment or sentence: die Vollstreckung eines Urteils, eines Haftbefehls. Die Zwangsvollstreckung is enforced debt collection, carried out by a Gerichtsvollzieher (bailiff). A sentence can be zur Bewährung ausgesetzt (suspended on probation). In football reports, der Vollstrecker is the striker who finishes chances. Plural: die Vollstreckungen."
+}

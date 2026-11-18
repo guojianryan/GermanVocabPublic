@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "antisemitisch",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "an-ti-ze-MEE-tish",
+      "ipa": "antizeˈmiːtɪʃ",
+      "notes": ""
+    },
+    "meaning": "antisemitic",
+    "shortDefinition": "Antisemitic."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die Polizei ermittelt wegen antisemitischer Parolen.",
+      "english": "The police are investigating antisemitic slogans.",
+      "highlight": [
+        "antisemitischer"
+      ]
+    },
+    {
+      "german": "Antisemitische Straftaten haben zugenommen.",
+      "english": "Antisemitic crimes have increased.",
+      "highlight": [
+        "Antisemitische"
+      ]
+    }
+  ],
+  "forms": [
+    "antisemitische",
+    "antisemitischen",
+    "antisemitischer",
+    "Antisemitismus"
+  ],
+  "memoryHook": "Antisemitisch: hostile towards Jews.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does antisemitisch mean?",
+      "options": [
+        "quiet",
+        "antisemitic",
+        "the car"
+      ],
+      "answer": "antisemitic",
+      "explanation": "antisemitisch: antisemitic.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Antisemitismus is…",
+      "options": [
+        "antisemitism",
+        "anti-Semitic person"
+      ],
+      "answer": "antisemitism",
+      "explanation": "Noun.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany has a federal commissioner for…",
+      "options": [
+        "combating antisemitism",
+        "Jewish tourism"
+      ],
+      "answer": "combating antisemitism",
+      "explanation": "Commissioner.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Antisemitism is…",
+      "options": [
+        "hostility towards Jews",
+        "hostility to all Semitic languages"
+      ],
+      "answer": "hostility towards Jews",
+      "explanation": "Meaning.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ Vorurteile (antisemitic)",
+      "answer": "antisemitische",
+      "fullAnswer": "antisemitische Vorurteile",
+      "explanation": "Plural -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Antisemitisch means antisemitic, hostile towards Jews. Der Antisemitismus is antisemitism, and der Antisemit an antisemite. Because of the Holocaust, fighting antisemitism is a core German state commitment; since 2018 there has been a federal commissioner against antisemitism (Antisemitismusbeauftragter), and antisemitic crimes are recorded separately. After 7 October 2023, reported incidents rose sharply."
+}

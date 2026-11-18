@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "wortwörtlich",
+    "partOfSpeech": "adjective / adverb",
+    "pronunciation": {
+      "respelling": "VORT-vört-likh",
+      "ipa": "ˈvɔʁtˈvœʁtlɪç",
+      "notes": ""
+    },
+    "meaning": "word for word, literally",
+    "shortDefinition": "Word for word, literally."
+  },
+  "sampleSentences": [
+    {
+      "german": "Er hat den Text wortwörtlich abgeschrieben.",
+      "english": "He copied the text word for word.",
+      "highlight": [
+        "wortwörtlich"
+      ]
+    },
+    {
+      "german": "Das darfst du nicht wortwörtlich nehmen.",
+      "english": "You mustn't take that literally.",
+      "highlight": [
+        "wortwörtlich"
+      ]
+    }
+  ],
+  "forms": [
+    "wortwörtliche",
+    "wortwörtlichen",
+    "wörtlich"
+  ],
+  "memoryHook": "Wortwörtlich: Wort for Wort.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does wortwörtlich mean?",
+      "options": [
+        "cheap",
+        "expensive",
+        "word for word"
+      ],
+      "answer": "word for word",
+      "explanation": "wortwörtlich: word for word, literally.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wortwörtlich means…",
+      "options": [
+        "literally, verbatim",
+        "wordy"
+      ],
+      "answer": "literally, verbatim",
+      "explanation": "Literal.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "wörtlich",
+        "sinngemäß"
+      ],
+      "answer": "wörtlich",
+      "explanation": "Synonym.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sinngemäß means…",
+      "options": [
+        "in essence, roughly",
+        "word for word"
+      ],
+      "answer": "in essence, roughly",
+      "explanation": "Opposite.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Übersetzung (literal)",
+      "answer": "wortwörtliche",
+      "fullAnswer": "eine wortwörtliche Übersetzung",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Wortwörtlich means word for word or literally, an emphatic form of wörtlich: wortwörtlich zitieren, etwas wortwörtlich nehmen (to take something literally). The opposite is sinngemäß (in essence, roughly): Er sagte sinngemäß, dass... A literal translation of an idiom can be funny: Ich verstehe nur Bahnhof (I only understand train station) means I don't understand a thing."
+}

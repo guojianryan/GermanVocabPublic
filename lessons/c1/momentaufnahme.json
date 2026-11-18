@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Momentaufnahme",
+    "partOfSpeech": "noun, feminine (die Momentaufnahme)",
+    "pronunciation": {
+      "respelling": "mo-MENT-auf-naa-me",
+      "ipa": "moˈmɛntˌʔaʊ̯fnaːmə",
+      "notes": "Plural: die Momentaufnahmen."
+    },
+    "meaning": "snapshot",
+    "shortDefinition": "Snapshot."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Momentaufnahme, plural die Momentaufnahmen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Momentaufnahme"
+        },
+        {
+          "label": "More than one",
+          "value": "die Momentaufnahmen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Umfrage ist nur eine Momentaufnahme.",
+      "english": "The poll is just a snapshot.",
+      "highlight": [
+        "Momentaufnahme."
+      ]
+    },
+    {
+      "german": "Das Foto ist eine Momentaufnahme vom Sommer 1989.",
+      "english": "The photo is a snapshot of summer 1989.",
+      "highlight": [
+        "Momentaufnahme"
+      ]
+    }
+  ],
+  "forms": [
+    "Momentaufnahmen",
+    "die Momentaufnahme"
+  ],
+  "memoryHook": "Momentaufnahme: an Aufnahme (shot) of a Moment.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Momentaufnahme",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Momentaufnahme is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Momentaufnahme, zwei ___",
+      "answer": "Momentaufnahmen",
+      "fullAnswer": "ein Momentaufnahme, zwei Momentaufnahmen",
+      "explanation": "The plural is Momentaufnahmen.",
+      "acceptedAnswers": [
+        "Momentaufnahmen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Momentaufnahme mean?",
+      "options": [
+        "always",
+        "snapshot",
+        "the station"
+      ],
+      "answer": "snapshot",
+      "explanation": "Momentaufnahme: snapshot.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, eine Momentaufnahme is…",
+      "options": [
+        "a picture of the current state, which may change",
+        "a fast camera"
+      ],
+      "answer": "a picture of the current state, which may change",
+      "explanation": "Figurative.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Aufnahme is…",
+      "options": [
+        "recording, photo; admission",
+        "a name"
+      ],
+      "answer": "recording, photo; admission",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schnappschuss is…",
+      "options": [
+        "snapshot (photo)",
+        "a schnapps shot"
+      ],
+      "answer": "snapshot (photo)",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Momentaufnahme is a snapshot, a photo taken in an instant, and figuratively a picture of the current state that may soon change. Politicians who are trailing like to say a poll is nur eine Momentaufnahme. For a casual photo, der Schnappschuss is common. Die Aufnahme means photo, recording or admission. Plural: die Momentaufnahmen."
+}

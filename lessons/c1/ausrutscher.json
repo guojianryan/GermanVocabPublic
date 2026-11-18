@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ausrutscher",
+    "partOfSpeech": "noun, masculine (der Ausrutscher)",
+    "pronunciation": {
+      "respelling": "AUS-ru-cher",
+      "ipa": "ˈaʊ̯sˌʁʊt͡ʃɐ",
+      "notes": "Plural: die Ausrutscher."
+    },
+    "meaning": "slip, lapse; one-off defeat",
+    "shortDefinition": "Slip, lapse; one-off defeat."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Ausrutscher, plural die Ausrutscher.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Ausrutscher"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ausrutscher"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Bemerkung war ein peinlicher Ausrutscher.",
+      "english": "The remark was an embarrassing slip.",
+      "highlight": [
+        "Ausrutscher."
+      ]
+    },
+    {
+      "german": "Die Niederlage war nur ein Ausrutscher.",
+      "english": "The defeat was just a one-off.",
+      "highlight": [
+        "Ausrutscher."
+      ]
+    }
+  ],
+  "forms": [
+    "der Ausrutscher",
+    "Ausrutschers"
+  ],
+  "memoryHook": "Ausrutscher: a slip from ausrutschen.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ausrutscher",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Ausrutscher is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Ausrutscher, zwei ___",
+      "answer": "Ausrutscher",
+      "fullAnswer": "ein Ausrutscher, zwei Ausrutscher",
+      "explanation": "The plural is Ausrutscher.",
+      "acceptedAnswers": [
+        "Ausrutscher"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ausrutscher mean?",
+      "options": [
+        "the window",
+        "the key",
+        "slip"
+      ],
+      "answer": "slip",
+      "explanation": "Ausrutscher: slip, lapse; one-off defeat.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ausrutschen means…",
+      "options": [
+        "to slip",
+        "to slide out"
+      ],
+      "answer": "to slip",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In sports, ein Ausrutscher is…",
+      "options": [
+        "an unexpected one-off defeat",
+        "a fall"
+      ],
+      "answer": "an unexpected one-off defeat",
+      "explanation": "Sport.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Fehltritt, der Patzer",
+        "der Erfolg"
+      ],
+      "answer": "der Fehltritt, der Patzer",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Ausrutscher is a slip, literally on ice, and figuratively a lapse: ein verbaler Ausrutscher (a gaffe), or a one-off defeat in sport: Die Niederlage war nur ein Ausrutscher. Ausrutschen means to slip: auf dem Eis ausrutschen. Synonyms: der Fehltritt, der Patzer, der Fauxpas. The plural is the same: die Ausrutscher."
+}

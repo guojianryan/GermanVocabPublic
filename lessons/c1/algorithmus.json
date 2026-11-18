@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Algorithmus",
+    "partOfSpeech": "noun, masculine (der Algorithmus)",
+    "pronunciation": {
+      "respelling": "al-go-RIT-mus",
+      "ipa": "alɡoˈʁɪtmʊs",
+      "notes": "Plural: die Algorithmen."
+    },
+    "meaning": "algorithm",
+    "shortDefinition": "Algorithm."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Algorithmus, plural die Algorithmen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Algorithmus"
+        },
+        {
+          "label": "More than one",
+          "value": "die Algorithmen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Algorithmus entscheidet, welche Videos man sieht.",
+      "english": "The algorithm decides which videos you see.",
+      "highlight": [
+        "Algorithmus"
+      ]
+    },
+    {
+      "german": "Diese Algorithmen sind nicht transparent.",
+      "english": "These algorithms aren't transparent.",
+      "highlight": [
+        "Algorithmen"
+      ]
+    }
+  ],
+  "forms": [
+    "Algorithmen",
+    "die Algorithmen",
+    "der Algorithmus"
+  ],
+  "memoryHook": "Algorithmus: a recipe for computers.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Algorithmus",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Algorithmus is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Algorithmus, zwei ___",
+      "answer": "Algorithmen",
+      "fullAnswer": "ein Algorithmus, zwei Algorithmen",
+      "explanation": "The plural is Algorithmen.",
+      "acceptedAnswers": [
+        "Algorithmen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Algorithmus mean?",
+      "options": [
+        "algorithm",
+        "the bed",
+        "the child"
+      ],
+      "answer": "algorithm",
+      "explanation": "Algorithmus: algorithm.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Algorithmen",
+        "die Algorithmusse"
+      ],
+      "answer": "die Algorithmen",
+      "explanation": "-men.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The word comes from…",
+      "options": [
+        "the name of the Persian mathematician al-Khwarizmi",
+        "Greek algos"
+      ],
+      "answer": "the name of the Persian mathematician al-Khwarizmi",
+      "explanation": "Name.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Algorithmisch means…",
+      "options": [
+        "algorithmic",
+        "arithmetic"
+      ],
+      "answer": "algorithmic",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Algorithmus is an algorithm, a step-by-step procedure: der Suchalgorithmus, der Empfehlungsalgorithmus. The word comes from the 9th-century Persian mathematician al-Khwarizmi, whose name became Latin algorismus. In German debates, platforms' Algorithmen are often blamed for Filterblasen (filter bubbles), and the EU's Digital Services Act requires more transparency. Plural: die Algorithmen."
+}

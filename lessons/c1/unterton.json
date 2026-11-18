@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Unterton",
+    "partOfSpeech": "noun, masculine (der Unterton)",
+    "pronunciation": {
+      "respelling": "UN-ter-tohn",
+      "ipa": "ˈʊntɐˌtoːn",
+      "notes": "Plural: die Untertöne."
+    },
+    "meaning": "undertone",
+    "shortDefinition": "Undertone."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Unterton, plural die Untertöne.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Unterton"
+        },
+        {
+          "label": "More than one",
+          "value": "die Untertöne"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In seiner Stimme lag ein drohender Unterton.",
+      "english": "There was a threatening undertone in his voice.",
+      "highlight": [
+        "Unterton."
+      ]
+    },
+    {
+      "german": "Der Text hat einen ironischen Unterton.",
+      "english": "The text has an ironic undertone.",
+      "highlight": [
+        "Unterton."
+      ]
+    }
+  ],
+  "forms": [
+    "Untertöne",
+    "der Unterton"
+  ],
+  "memoryHook": "Unterton: a Ton (tone) running unter (beneath) the words.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Unterton",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Unterton is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Unterton, zwei ___",
+      "answer": "Untertöne",
+      "fullAnswer": "ein Unterton, zwei Untertöne",
+      "explanation": "The plural is Untertöne.",
+      "acceptedAnswers": [
+        "Untertoene"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Unterton mean?",
+      "options": [
+        "undertone",
+        "always",
+        "never"
+      ],
+      "answer": "undertone",
+      "explanation": "Unterton: undertone.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Unterton is…",
+      "options": [
+        "an implicit tone, undertone",
+        "a low note only"
+      ],
+      "answer": "an implicit tone, undertone",
+      "explanation": "Meaning.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ton is…",
+      "options": [
+        "tone, sound; clay",
+        "a ton"
+      ],
+      "answer": "tone, sound; clay",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zwischen den Zeilen lesen means…",
+      "options": [
+        "to read between the lines",
+        "to read slowly"
+      ],
+      "answer": "to read between the lines",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Unterton is an undertone, a feeling expressed indirectly: ein ironischer, vorwurfsvoller, bedrohlicher Unterton. In music, Untertöne are undertones below the fundamental. Der Ton means tone or sound (Der Ton macht die Musik, it's not what you say but how you say it) and also clay. Plural: die Untertöne."
+}

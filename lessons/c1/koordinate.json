@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Koordinate",
+    "partOfSpeech": "noun, feminine (die Koordinate)",
+    "pronunciation": {
+      "respelling": "ko-or-di-NAA-te",
+      "ipa": "koʔɔʁdiˈnaːtə",
+      "notes": "Plural: die Koordinaten."
+    },
+    "meaning": "coordinate",
+    "shortDefinition": "Coordinate."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Koordinate, plural die Koordinaten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Koordinate"
+        },
+        {
+          "label": "More than one",
+          "value": "die Koordinaten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Gib mir die Koordinaten des Ortes.",
+      "english": "Give me the coordinates of the place.",
+      "highlight": [
+        "Koordinaten"
+      ]
+    },
+    {
+      "german": "Der Punkt hat die Koordinaten 3 und 5.",
+      "english": "The point has the coordinates 3 and 5.",
+      "highlight": [
+        "Koordinaten"
+      ]
+    }
+  ],
+  "forms": [
+    "Koordinaten",
+    "die Koordinaten",
+    "die Koordinate",
+    "Koordinatensystem"
+  ],
+  "memoryHook": "Koordinaten: the numbers that place a point.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Koordinate",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Koordinate is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Koordinate, zwei ___",
+      "answer": "Koordinaten",
+      "fullAnswer": "ein Koordinate, zwei Koordinaten",
+      "explanation": "The plural is Koordinaten.",
+      "acceptedAnswers": [
+        "Koordinaten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Koordinate mean?",
+      "options": [
+        "never",
+        "coordinate",
+        "the door"
+      ],
+      "answer": "coordinate",
+      "explanation": "Koordinate: coordinate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Usually used in the…",
+      "options": [
+        "plural",
+        "singular"
+      ],
+      "answer": "plural",
+      "explanation": "Koordinaten.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Koordinatensystem is…",
+      "options": [
+        "coordinate system",
+        "a GPS app"
+      ],
+      "answer": "coordinate system",
+      "explanation": "Maths.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Koordinieren means…",
+      "options": [
+        "to coordinate",
+        "to calculate"
+      ],
+      "answer": "to coordinate",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Koordinate is a coordinate, usually used in the plural: GPS-Koordinaten, die Koordinaten eines Punktes. In maths, das Koordinatensystem has an x-Achse and a y-Achse. The verb koordinieren means to coordinate (activities), and der Koordinator is a coordinator. Pronounce both o's separately: ko-or-di-NAA-te. From Latin co- + ordinare (to arrange). Plural: die Koordinaten."
+}

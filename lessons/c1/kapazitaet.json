@@ -1,0 +1,140 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kapazität",
+    "partOfSpeech": "noun, feminine (die Kapazität)",
+    "pronunciation": {
+      "respelling": "ka-pa-tsi-TEET",
+      "ipa": "kapat͡siˈtɛːt",
+      "notes": "Plural: die Kapazitäten."
+    },
+    "meaning": "capacity; (leading) expert",
+    "shortDefinition": "Capacity; (leading) expert."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kapazität, plural die Kapazitäten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kapazität"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kapazitäten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Kapazität des Stadions beträgt 60.000 Plätze.",
+      "english": "The stadium's capacity is 60,000 seats.",
+      "highlight": [
+        "Kapazität"
+      ]
+    },
+    {
+      "german": "Er ist eine Kapazität auf seinem Gebiet.",
+      "english": "He's an authority in his field.",
+      "highlight": [
+        "Kapazität"
+      ]
+    }
+  ],
+  "forms": [
+    "Kapazitäten",
+    "die Kapazitäten",
+    "die Kapazität"
+  ],
+  "memoryHook": "Kapazität: how much fits, or who knows most.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kapazität",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kapazität is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kapazität, zwei ___",
+      "answer": "Kapazitäten",
+      "fullAnswer": "ein Kapazität, zwei Kapazitäten",
+      "explanation": "The plural is Kapazitäten.",
+      "acceptedAnswers": [
+        "Kapazitaeten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kapazität mean?",
+      "options": [
+        "to sing",
+        "capacity",
+        "quiet"
+      ],
+      "answer": "capacity",
+      "explanation": "Kapazität: capacity; (leading) expert.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Kapazität auf dem Gebiet X is…",
+      "options": [
+        "a leading expert",
+        "a large room"
+      ],
+      "answer": "a leading expert",
+      "explanation": "Person meaning.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Kapazitäten",
+        "Kapazitäts"
+      ],
+      "answer": "Kapazitäten",
+      "explanation": "-en.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ausgelastet sein means…",
+      "options": [
+        "to be at full capacity",
+        "to be empty"
+      ],
+      "answer": "to be at full capacity",
+      "explanation": "Capacity.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Speicherkapazität =",
+      "options": [
+        "storage capacity",
+        "memory loss"
+      ],
+      "answer": "storage capacity",
+      "explanation": "Compound.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Die Kapazität can mean capacity: die Kapazität des Stadions, Speicherkapazität, freie Kapazitäten (free resources). The second meaning is a leading expert: Sie ist eine Kapazität auf dem Gebiet der Genetik. In business, German speaks of Auslastung (utilisation). Ausgelastet sein means to be working at full capacity, which is also a polite way of saying you have no time for new work."
+}

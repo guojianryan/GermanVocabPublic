@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Heiland",
+    "partOfSpeech": "noun, masculine (der Heiland)",
+    "pronunciation": {
+      "respelling": "HAI-lant",
+      "ipa": "ˈhaɪ̯lant",
+      "notes": "Usually no plural."
+    },
+    "meaning": "Saviour (Christ)",
+    "shortDefinition": "Saviour (Christ)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Heiland, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Heiland"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Christen verehren Jesus als den Heiland.",
+      "english": "Christians revere Jesus as the Saviour.",
+      "highlight": [
+        "Heiland."
+      ]
+    },
+    {
+      "german": "Er wurde wie ein Heiland empfangen.",
+      "english": "He was welcomed like a saviour.",
+      "highlight": [
+        "Heiland"
+      ]
+    }
+  ],
+  "forms": [
+    "der Heiland",
+    "Heilands"
+  ],
+  "memoryHook": "Heiland: the one who heilt (heals, saves).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Heiland",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Heiland is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Heiland mean?",
+      "options": [
+        "to wait",
+        "Saviour (Christ)",
+        "never"
+      ],
+      "answer": "Saviour (Christ)",
+      "explanation": "Heiland: Saviour (Christ).",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Heiland means…",
+      "options": [
+        "the Saviour (Jesus)",
+        "a holy land"
+      ],
+      "answer": "the Saviour (Jesus)",
+      "explanation": "Saviour.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "It comes from heilen, meaning…",
+      "options": [
+        "to heal",
+        "to hail"
+      ],
+      "answer": "to heal",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Erlöser",
+        "der Prophet"
+      ],
+      "answer": "der Erlöser",
+      "explanation": "Synonym.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Heiland is the Saviour, a traditional name for Jesus Christ in hymns and prayers: Der Heiland ist geboren. A synonym is der Erlöser (redeemer). It comes from an old present participle of heilen (to heal, save). Figuratively and often ironically, someone hailed as a Heiland is treated as a saviour. The Old Saxon epic Heliand (9th century) retells the Gospels. It has no plural."
+}

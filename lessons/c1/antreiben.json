@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "antreiben",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AN-trai-ben",
+      "ipa": "ˈanˌtʁaɪ̯bn̩",
+      "notes": ""
+    },
+    "meaning": "to drive, power; to push, urge on",
+    "shortDefinition": "To drive, power; to push, urge on."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "treib|e … |an"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "treib|st … |an"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "treib|t … |an"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "treib|en … |an"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "treib|t … |an"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "treib|en … |an"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat angetrieben"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Auto wird elektrisch angetrieben.",
+      "english": "The car is electrically powered.",
+      "highlight": [
+        "angetrieben."
+      ]
+    },
+    {
+      "german": "Was treibt dich an?",
+      "english": "What drives you?",
+      "highlight": [
+        "treibt",
+        "an?"
+      ]
+    }
+  ],
+  "forms": [
+    "treibe an",
+    "treibst an",
+    "treibt an",
+    "treiben an",
+    "angetrieben",
+    "trieb an",
+    "Antrieb",
+    "Antreiber"
+  ],
+  "memoryHook": "Antreiben: drive things on, motors and people.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … an (antreiben)",
+      "answer": "treibt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: treibt … an.",
+      "acceptedAnswers": [
+        "treibt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (antreiben, past)",
+      "answer": "angetrieben",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe angetrieben.",
+      "acceptedAnswers": [
+        "angetrieben"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does antreiben mean?",
+      "options": [
+        "to drive",
+        "the key",
+        "the job"
+      ],
+      "answer": "to drive",
+      "explanation": "antreiben: to drive, power; to push, urge on.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Antrieb is…",
+      "options": [
+        "drive, propulsion; motivation",
+        "the brake"
+      ],
+      "answer": "drive, propulsion; motivation",
+      "explanation": "Antrieb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Elektroantrieb is…",
+      "options": [
+        "electric drive",
+        "an electric shock"
+      ],
+      "answer": "electric drive",
+      "explanation": "Drive.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past: Er trieb ihn…",
+      "options": [
+        "an",
+        "um"
+      ],
+      "answer": "an",
+      "explanation": "trieb an.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Antreiben means to drive or power: Das Schiff wird von Dieselmotoren angetrieben. It also means to push or urge on: Der Trainer treibt die Spieler an, and to motivate: Was treibt dich an? (what drives you?). Der Antrieb is propulsion (der Elektroantrieb) and also drive or motivation: Mir fehlt der Antrieb. Der Antreiber is a slave-driver. Separable and irregular: trieb an, angetrieben."
+}

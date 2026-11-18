@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bräutigam",
+    "partOfSpeech": "noun, masculine (der Bräutigam)",
+    "pronunciation": {
+      "respelling": "BROI-ti-gam",
+      "ipa": "ˈbʁɔɪ̯tɪɡam",
+      "notes": "Plural: die Bräutigame."
+    },
+    "meaning": "bridegroom",
+    "shortDefinition": "Bridegroom."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Bräutigam, plural die Bräutigame.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Bräutigam"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bräutigame"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Bräutigam wartete vor dem Altar.",
+      "english": "The bridegroom waited at the altar.",
+      "highlight": [
+        "Bräutigam"
+      ]
+    },
+    {
+      "german": "Braut und Bräutigam tanzten den ersten Tanz.",
+      "english": "Bride and groom danced the first dance.",
+      "highlight": [
+        "Bräutigam"
+      ]
+    }
+  ],
+  "forms": [
+    "Bräutigame",
+    "die Bräutigame",
+    "der Bräutigam"
+  ],
+  "memoryHook": "Bräutigam: the man of the Braut (bride).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bräutigam",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Bräutigam is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bräutigam, zwei ___",
+      "answer": "Bräutigame",
+      "fullAnswer": "ein Bräutigam, zwei Bräutigame",
+      "explanation": "The plural is Bräutigame.",
+      "acceptedAnswers": [
+        "Braeutigame"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bräutigam mean?",
+      "options": [
+        "expensive",
+        "cheap",
+        "bridegroom"
+      ],
+      "answer": "bridegroom",
+      "explanation": "Bräutigam: bridegroom.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Braut is…",
+      "options": [
+        "bride",
+        "brew"
+      ],
+      "answer": "bride",
+      "explanation": "Bride.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Brautpaar is…",
+      "options": [
+        "the bridal couple",
+        "a bridesmaid"
+      ],
+      "answer": "the bridal couple",
+      "explanation": "Couple.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Polterabend is…",
+      "options": [
+        "a pre-wedding party where crockery is smashed",
+        "a wedding night"
+      ],
+      "answer": "a pre-wedding party where crockery is smashed",
+      "explanation": "Tradition.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Bräutigam is the bridegroom; die Braut is the bride, and das Brautpaar the couple. German wedding traditions include the Polterabend, a party before the wedding where guests smash crockery for luck and the couple clears it up together, and sawing a log (Baumstamm sägen) after the ceremony. The legally valid wedding is at the Standesamt. Plural: die Bräutigame."
+}

@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zulässigkeit",
+    "partOfSpeech": "noun, feminine (die Zulässigkeit)",
+    "pronunciation": {
+      "respelling": "TSOO-les-sikh-kait",
+      "ipa": "ˈt͡suːlɛsɪçkaɪ̯t",
+      "notes": "Usually no plural."
+    },
+    "meaning": "admissibility, permissibility",
+    "shortDefinition": "Admissibility, permissibility."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Zulässigkeit, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Zulässigkeit"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Gericht prüft die Zulässigkeit der Klage.",
+      "english": "The court is examining the admissibility of the action.",
+      "highlight": [
+        "Zulässigkeit"
+      ]
+    },
+    {
+      "german": "Die Zulässigkeit des Beweises ist umstritten.",
+      "english": "The admissibility of the evidence is disputed.",
+      "highlight": [
+        "Zulässigkeit"
+      ]
+    }
+  ],
+  "forms": [
+    "die Zulässigkeit"
+  ],
+  "memoryHook": "Zulässigkeit: being zulässig (allowed, zulassen).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zulässigkeit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Zulässigkeit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zulässigkeit mean?",
+      "options": [
+        "never",
+        "always",
+        "admissibility"
+      ],
+      "answer": "admissibility",
+      "explanation": "Zulässigkeit: admissibility, permissibility.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zulässig means…",
+      "options": [
+        "permissible, admissible",
+        "added"
+      ],
+      "answer": "permissible, admissible",
+      "explanation": "Adjective.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In German courts, a case is checked for…",
+      "options": [
+        "Zulässigkeit and Begründetheit",
+        "price"
+      ],
+      "answer": "Zulässigkeit and Begründetheit",
+      "explanation": "Law.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unzulässig means…",
+      "options": [
+        "inadmissible, not allowed",
+        "unreliable"
+      ],
+      "answer": "inadmissible, not allowed",
+      "explanation": "Opposite.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Zulässigkeit is admissibility or permissibility. German law students learn that a court first checks a case's Zulässigkeit (is it admissible, filed correctly and on time?) and then its Begründetheit (is it well-founded?). Zulässig means permissible: die zulässige Höchstgeschwindigkeit (speed limit). From zulassen (to permit). It has no plural."
+}

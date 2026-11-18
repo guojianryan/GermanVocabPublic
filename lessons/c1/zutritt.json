@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zutritt",
+    "partOfSpeech": "noun, masculine (der Zutritt)",
+    "pronunciation": {
+      "respelling": "TSOO-trit",
+      "ipa": "ˈt͡suːˌtʁɪt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "access, admission",
+    "shortDefinition": "Access, admission."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Zutritt, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Zutritt"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Zutritt verboten!",
+      "english": "No entry!",
+      "highlight": [
+        "Zutritt"
+      ]
+    },
+    {
+      "german": "Nur Mitarbeiter haben Zutritt zu diesem Bereich.",
+      "english": "Only staff have access to this area.",
+      "highlight": [
+        "Zutritt"
+      ]
+    }
+  ],
+  "forms": [
+    "der Zutritt"
+  ],
+  "memoryHook": "Zutritt: a step (Tritt) towards (zu) entering.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zutritt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Zutritt is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zutritt mean?",
+      "options": [
+        "to help",
+        "access",
+        "the car"
+      ],
+      "answer": "access",
+      "explanation": "Zutritt: access, admission.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zutritt verboten on a sign means…",
+      "options": [
+        "no entry",
+        "no smoking"
+      ],
+      "answer": "no entry",
+      "explanation": "Sign.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unbefugten ist der Zutritt verboten means…",
+      "options": [
+        "no unauthorised access",
+        "staff only on Mondays"
+      ],
+      "answer": "no unauthorised access",
+      "explanation": "Sign.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Zugang / Eintritt",
+        "der Ausgang"
+      ],
+      "answer": "der Zugang / Eintritt",
+      "explanation": "Access.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Zutritt is access or admission: Zutritt verboten (no entry), Zutritt nur für Mitarbeiter (staff only), and on building sites, Unbefugten ist der Zutritt verboten (no unauthorised access). Sich Zutritt verschaffen means to gain entry. Close synonyms are der Zugang (access) and der Eintritt (entry, also the entrance fee). Literally, it's a step (Tritt) towards (zu). It has no plural."
+}

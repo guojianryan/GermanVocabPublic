@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gitter",
+    "partOfSpeech": "noun, neuter (das Gitter)",
+    "pronunciation": {
+      "respelling": "GIT-er",
+      "ipa": "ˈɡɪtɐ",
+      "notes": "Plural: die Gitter."
+    },
+    "meaning": "bars, grille, grid",
+    "shortDefinition": "Bars, grille, grid."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Gitter, plural die Gitter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Gitter"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gitter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Vor den Fenstern sind Gitter.",
+      "english": "There are bars in front of the windows.",
+      "highlight": [
+        "Gitter."
+      ]
+    },
+    {
+      "german": "Er sitzt hinter Gittern.",
+      "english": "He's behind bars.",
+      "highlight": [
+        "Gittern."
+      ]
+    }
+  ],
+  "forms": [
+    "die Gitter",
+    "das Gitter",
+    "Gittern"
+  ],
+  "memoryHook": "Gitter: bars on windows, cages and cells.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gitter",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Gitter is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gitter, zwei ___",
+      "answer": "Gitter",
+      "fullAnswer": "ein Gitter, zwei Gitter",
+      "explanation": "The plural is Gitter.",
+      "acceptedAnswers": [
+        "Gitter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gitter mean?",
+      "options": [
+        "the bill",
+        "to buy",
+        "bars"
+      ],
+      "answer": "bars",
+      "explanation": "Gitter: bars, grille, grid.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hinter Gittern sitzen means…",
+      "options": [
+        "to be in prison",
+        "to be in a cage at the zoo"
+      ],
+      "answer": "to be in prison",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gitterbett is…",
+      "options": [
+        "a cot with bars",
+        "a bunk bed"
+      ],
+      "answer": "a cot with bars",
+      "explanation": "Cot.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Gitter",
+        "die Gittern"
+      ],
+      "answer": "die Gitter",
+      "explanation": "Dative: den Gittern.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Gitter is a grille, bars or a grid: das Fenstergitter, das Gitterbett (a cot with bars), das Gitternetz (grid). Hinter Gittern sitzen means to be behind bars, in prison, and hinter schwedischen Gardinen (behind Swedish curtains) is a joking synonym. Der Gitterzaun is a mesh fence. The plural is the same: die Gitter, and in the dative den Gittern. Neuter."
+}

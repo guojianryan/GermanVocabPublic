@@ -1,0 +1,177 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "kramen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "KRAA-men",
+      "ipa": "ˈkʁaːmən",
+      "notes": ""
+    },
+    "meaning": "to rummage; to fumble about",
+    "shortDefinition": "To rummage; to fumble about."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "kram|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "kram|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "kram|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "kram|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "kram|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "kram|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gekramt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie kramte in ihrer Handtasche nach dem Schlüssel.",
+      "english": "She rummaged in her handbag for the key.",
+      "highlight": [
+        "kramte"
+      ]
+    },
+    {
+      "german": "Er kramt gern auf dem Flohmarkt.",
+      "english": "He likes browsing at the flea market.",
+      "highlight": [
+        "kramt"
+      ]
+    }
+  ],
+  "forms": [
+    "krame",
+    "kramst",
+    "kramt",
+    "kramen",
+    "gekramt",
+    "kramte",
+    "Kram",
+    "herauskramen"
+  ],
+  "memoryHook": "Kramen: dig through the Kram.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (kramen)",
+      "answer": "kramt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: kramt.",
+      "acceptedAnswers": [
+        "kramt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (kramen, past)",
+      "answer": "gekramt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gekramt.",
+      "acceptedAnswers": [
+        "gekramt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does kramen mean?",
+      "options": [
+        "to rummage",
+        "expensive",
+        "the station"
+      ],
+      "answer": "to rummage",
+      "explanation": "kramen: to rummage; to fumble about.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kramen in / nach means…",
+      "options": [
+        "to rummage in / for",
+        "to count"
+      ],
+      "answer": "to rummage in / for",
+      "explanation": "Fumble.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kram is…",
+      "options": [
+        "stuff, junk",
+        "a crime"
+      ],
+      "answer": "stuff, junk",
+      "explanation": "Informal.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Krame ___ der Tasche nach dem Handy. (preposition)",
+      "options": [
+        "in",
+        "mit"
+      ],
+      "answer": "in",
+      "explanation": "In der Tasche.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Krämer is…",
+      "options": [
+        "a small shopkeeper (dated)",
+        "a farmer"
+      ],
+      "answer": "a small shopkeeper (dated)",
+      "explanation": "Old word.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Kramen means to rummage around: in der Tasche kramen, nach dem Schlüssel kramen. It comes from der Kram (stuff, junk), as in Mach deinen Kram selbst (do your own thing) or Ich hab den ganzen Kram satt. Add heraus- for kramen out: Er kramte ein Foto hervor. Dated der Krämer was a small shopkeeper, and der Krämerladen a small corner shop. Rummaging is also called wühlen."
+}

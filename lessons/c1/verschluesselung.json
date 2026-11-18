@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Verschlüsselung",
+    "partOfSpeech": "noun, feminine (die Verschlüsselung)",
+    "pronunciation": {
+      "respelling": "fer-SHLÜ-se-lung",
+      "ipa": "fɛɐ̯ˈʃlʏsəlʊŋ",
+      "notes": "Plural: die Verschlüsselungen."
+    },
+    "meaning": "encryption",
+    "shortDefinition": "Encryption."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Verschlüsselung, plural die Verschlüsselungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Verschlüsselung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Verschlüsselungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die App bietet Ende-zu-Ende-Verschlüsselung.",
+      "english": "The app offers end-to-end encryption.",
+      "highlight": [
+        "Ende-zu-Ende-Verschlüsselung."
+      ]
+    },
+    {
+      "german": "Ohne Verschlüsselung sind die Daten unsicher.",
+      "english": "Without encryption the data is insecure.",
+      "highlight": [
+        "Verschlüsselung"
+      ]
+    }
+  ],
+  "forms": [
+    "Verschlüsselungen",
+    "die Verschlüsselung",
+    "verschlüsseln",
+    "verschlüsselt"
+  ],
+  "memoryHook": "Verschlüsselung: locking data with a Schlüssel (key).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Verschlüsselung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Verschlüsselung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Verschlüsselung, zwei ___",
+      "answer": "Verschlüsselungen",
+      "fullAnswer": "ein Verschlüsselung, zwei Verschlüsselungen",
+      "explanation": "The plural is Verschlüsselungen.",
+      "acceptedAnswers": [
+        "Verschluesselungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Verschlüsselung mean?",
+      "options": [
+        "tomorrow",
+        "encryption",
+        "to learn"
+      ],
+      "answer": "encryption",
+      "explanation": "Verschlüsselung: encryption.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verschlüsseln means…",
+      "options": [
+        "to encrypt",
+        "to lock with a key"
+      ],
+      "answer": "to encrypt",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Entschlüsseln means…",
+      "options": [
+        "to decrypt, decode",
+        "to unlock a door"
+      ],
+      "answer": "to decrypt, decode",
+      "explanation": "Opposite.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Enigma was…",
+      "options": [
+        "a German WWII cipher machine",
+        "a computer game"
+      ],
+      "answer": "a German WWII cipher machine",
+      "explanation": "Enigma.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Verschlüsselung is encryption: Ende-zu-Ende-Verschlüsselung, eine sichere Verschlüsselung. Verschlüsseln means to encrypt, and entschlüsseln to decrypt or decode. The German Enigma machine encrypted military messages in WWII until it was broken by Polish and British codebreakers, including Alan Turing at Bletchley Park. Der Schlüssel is a key. Plural: die Verschlüsselungen."
+}

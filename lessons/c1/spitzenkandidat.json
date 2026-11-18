@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Spitzenkandidat",
+    "partOfSpeech": "noun, masculine (der Spitzenkandidat)",
+    "pronunciation": {
+      "respelling": "SHPI-tsen-kan-di-daat",
+      "ipa": "ˈʃpɪt͡sn̩kandiˌdaːt",
+      "notes": "Plural: die Spitzenkandidaten."
+    },
+    "meaning": "lead candidate",
+    "shortDefinition": "Lead candidate."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Spitzenkandidat, plural die Spitzenkandidaten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Spitzenkandidat"
+        },
+        {
+          "label": "More than one",
+          "value": "die Spitzenkandidaten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wer wird Spitzenkandidat der Partei?",
+      "english": "Who will be the party's lead candidate?",
+      "highlight": [
+        "Spitzenkandidat"
+      ]
+    },
+    {
+      "german": "Die Spitzenkandidatin trat im TV-Duell an.",
+      "english": "The lead candidate took part in the TV debate.",
+      "highlight": [
+        "Spitzenkandidatin"
+      ]
+    }
+  ],
+  "forms": [
+    "Spitzenkandidaten",
+    "die Spitzenkandidaten",
+    "der Spitzenkandidat",
+    "Spitzenkandidatin"
+  ],
+  "memoryHook": "Spitzenkandidat: the candidate at the Spitze (top) of the list.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Spitzenkandidat",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Spitzenkandidat is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Spitzenkandidat, zwei ___",
+      "answer": "Spitzenkandidaten",
+      "fullAnswer": "ein Spitzenkandidat, zwei Spitzenkandidaten",
+      "explanation": "The plural is Spitzenkandidaten.",
+      "acceptedAnswers": [
+        "Spitzenkandidaten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Spitzenkandidat mean?",
+      "options": [
+        "quiet",
+        "lead candidate",
+        "the evening"
+      ],
+      "answer": "lead candidate",
+      "explanation": "Spitzenkandidat: lead candidate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kanzlerkandidat is…",
+      "options": [
+        "the candidate for chancellor",
+        "the current chancellor"
+      ],
+      "answer": "the candidate for chancellor",
+      "explanation": "Chancellor.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Spitze is…",
+      "options": [
+        "top, peak; lace",
+        "a spit"
+      ],
+      "answer": "top, peak; lace",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kandidat is a weak noun:",
+      "options": [
+        "den Kandidaten",
+        "den Kandidat"
+      ],
+      "answer": "den Kandidaten",
+      "explanation": "Weak.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Spitzenkandidat (die Spitzenkandidatin) is a party's lead candidate, at the top of its electoral list (Landesliste). In federal elections, major parties name a Kanzlerkandidat, and the leading candidates meet in TV-Duelle (debates). In EU elections, the Spitzenkandidaten system links the leading candidate to the Commission presidency. Weak noun: den Spitzenkandidaten. Plural: die Spitzenkandidaten."
+}

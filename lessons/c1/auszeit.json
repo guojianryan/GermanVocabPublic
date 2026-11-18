@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Auszeit",
+    "partOfSpeech": "noun, feminine (die Auszeit)",
+    "pronunciation": {
+      "respelling": "AUS-tsait",
+      "ipa": "ˈaʊ̯sˌt͡saɪ̯t",
+      "notes": "Plural: die Auszeiten."
+    },
+    "meaning": "time out, break",
+    "shortDefinition": "Time out, break."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Auszeit, plural die Auszeiten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Auszeit"
+        },
+        {
+          "label": "More than one",
+          "value": "die Auszeiten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Trainer nahm eine Auszeit.",
+      "english": "The coach called a time-out.",
+      "highlight": [
+        "Auszeit."
+      ]
+    },
+    {
+      "german": "Nach dem Projekt brauche ich eine Auszeit.",
+      "english": "After the project I need a break.",
+      "highlight": [
+        "Auszeit."
+      ]
+    }
+  ],
+  "forms": [
+    "Auszeiten",
+    "die Auszeiten",
+    "die Auszeit"
+  ],
+  "memoryHook": "Auszeit: time spent aus (out) of the game.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Auszeit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Auszeit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Auszeit, zwei ___",
+      "answer": "Auszeiten",
+      "fullAnswer": "ein Auszeit, zwei Auszeiten",
+      "explanation": "The plural is Auszeiten.",
+      "acceptedAnswers": [
+        "Auszeiten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Auszeit mean?",
+      "options": [
+        "time out",
+        "the bill",
+        "the bed"
+      ],
+      "answer": "time out",
+      "explanation": "Auszeit: time out, break.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Auszeit nehmen means…",
+      "options": [
+        "to take a break",
+        "to go out"
+      ],
+      "answer": "to take a break",
+      "explanation": "Break.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A longer career break is often called…",
+      "options": [
+        "ein Sabbatical",
+        "ein Feierabend"
+      ],
+      "answer": "ein Sabbatical",
+      "explanation": "Sabbatical.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Literally:",
+      "options": [
+        "out-time",
+        "house-time"
+      ],
+      "answer": "out-time",
+      "explanation": "aus + Zeit.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Auszeit is a time-out in sport, such as basketball or handball: eine Auszeit nehmen. In everyday life it's a break from work or stress: eine Auszeit vom Alltag, eine berufliche Auszeit. Longer career breaks are often called Sabbatical, and some German employers offer Sabbatjahre. Sich eine Auszeit gönnen means to treat yourself to a break. From aus (out) and die Zeit (time). Plural: die Auszeiten."
+}

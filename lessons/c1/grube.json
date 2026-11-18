@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Grube",
+    "partOfSpeech": "noun, feminine (die Grube)",
+    "pronunciation": {
+      "respelling": "GROO-be",
+      "ipa": "ˈɡʁuːbə",
+      "notes": "Plural: die Gruben."
+    },
+    "meaning": "pit; mine",
+    "shortDefinition": "Pit; mine."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Grube, plural die Gruben.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Grube"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gruben"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Kinder gruben eine Grube im Garten.",
+      "english": "The children dug a pit in the garden.",
+      "highlight": [
+        "Grube"
+      ]
+    },
+    {
+      "german": "Er arbeitet in einer Grube im Ruhrgebiet.",
+      "english": "He works in a mine in the Ruhr area.",
+      "highlight": [
+        "Grube"
+      ]
+    }
+  ],
+  "forms": [
+    "Gruben",
+    "die Gruben",
+    "die Grube",
+    "Kohlengrube"
+  ],
+  "memoryHook": "Grube: a hole, with a moral.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Grube",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Grube is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Grube, zwei ___",
+      "answer": "Gruben",
+      "fullAnswer": "ein Grube, zwei Gruben",
+      "explanation": "The plural is Gruben.",
+      "acceptedAnswers": [
+        "Gruben"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Grube mean?",
+      "options": [
+        "hot",
+        "pit",
+        "to travel"
+      ],
+      "answer": "pit",
+      "explanation": "Grube: pit; mine.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wer andern eine Grube gräbt, fällt selbst hinein means…",
+      "options": [
+        "he who digs a pit for others falls into it himself",
+        "digging is hard work"
+      ],
+      "answer": "he who digs a pit for others falls into it himself",
+      "explanation": "Proverb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Grube also means…",
+      "options": [
+        "a mine",
+        "a garden"
+      ],
+      "answer": "a mine",
+      "explanation": "Coal or ore mine.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Gruben",
+        "Grübe"
+      ],
+      "answer": "Gruben",
+      "explanation": "-n.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Grubenarbeiter is…",
+      "options": [
+        "a miner",
+        "a gardener"
+      ],
+      "answer": "a miner",
+      "explanation": "Compound.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Die Grube is a pit, whether dug in the ground (eine Baugrube, a building pit) or a mine (die Kohlengrube). Famous proverb: Wer andern eine Grube gräbt, fällt selbst hinein (who digs a pit for others falls into it himself). Idiom: in die Grube fahren, an old and rather blunt way of saying to die. The related verb is graben (to dig)."
+}

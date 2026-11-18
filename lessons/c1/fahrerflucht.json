@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fahrerflucht",
+    "partOfSpeech": "noun, feminine (die Fahrerflucht)",
+    "pronunciation": {
+      "respelling": "FAA-rer-flukht",
+      "ipa": "ˈfaːʁɐˌflʊxt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "hit-and-run",
+    "shortDefinition": "Hit-and-run."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Fahrerflucht, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Fahrerflucht"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nach dem Unfall beging er Fahrerflucht.",
+      "english": "After the accident he committed a hit-and-run.",
+      "highlight": [
+        "Fahrerflucht."
+      ]
+    },
+    {
+      "german": "Die Polizei sucht Zeugen der Fahrerflucht.",
+      "english": "The police are looking for witnesses to the hit-and-run.",
+      "highlight": [
+        "Fahrerflucht."
+      ]
+    }
+  ],
+  "forms": [
+    "die Fahrerflucht"
+  ],
+  "memoryHook": "Fahrerflucht: Flucht (flight) of the Fahrer (driver).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fahrerflucht",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Fahrerflucht is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fahrerflucht mean?",
+      "options": [
+        "hit-and-run",
+        "to buy",
+        "slowly"
+      ],
+      "answer": "hit-and-run",
+      "explanation": "Fahrerflucht: hit-and-run.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "The legal term is…",
+      "options": [
+        "unerlaubtes Entfernen vom Unfallort",
+        "Unfallflucht only"
+      ],
+      "answer": "unerlaubtes Entfernen vom Unfallort",
+      "explanation": "Law.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Even after scratching a parked car, you must…",
+      "options": [
+        "wait a reasonable time or call the police",
+        "leave a note and go"
+      ],
+      "answer": "wait a reasonable time or call the police",
+      "explanation": "Rule.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Flucht is…",
+      "options": [
+        "escape, flight",
+        "a curse"
+      ],
+      "answer": "escape, flight",
+      "explanation": "Root.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Fahrerflucht (also Unfallflucht) is a hit-and-run; legally, unerlaubtes Entfernen vom Unfallort under §142 StGB. Even after a minor bump to a parked car, leaving just a note behind the windscreen wiper isn't enough: you must wait a reasonable time or inform the police. It can mean a fine, losing one's licence and penalty points. It has no plural."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Insolvenzverfahren",
+    "partOfSpeech": "noun, neuter (das Insolvenzverfahren)",
+    "pronunciation": {
+      "respelling": "in-zol-VENTS-fer-faa-ren",
+      "ipa": "ɪnzɔlˈvɛnt͡sfɛɐ̯ˌfaːʁən",
+      "notes": "Plural: die Insolvenzverfahren."
+    },
+    "meaning": "insolvency proceedings",
+    "shortDefinition": "Insolvency proceedings."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Insolvenzverfahren, plural die Insolvenzverfahren.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Insolvenzverfahren"
+        },
+        {
+          "label": "More than one",
+          "value": "die Insolvenzverfahren"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Gericht eröffnete das Insolvenzverfahren.",
+      "english": "The court opened insolvency proceedings.",
+      "highlight": [
+        "Insolvenzverfahren."
+      ]
+    },
+    {
+      "german": "Im Insolvenzverfahren wird das Vermögen verteilt.",
+      "english": "In insolvency proceedings the assets are distributed.",
+      "highlight": [
+        "Insolvenzverfahren"
+      ]
+    }
+  ],
+  "forms": [
+    "das Insolvenzverfahren",
+    "Insolvenzverfahrens"
+  ],
+  "memoryHook": "Insolvenzverfahren: the Verfahren (procedure) for an Insolvenz.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Insolvenzverfahren",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Insolvenzverfahren is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Insolvenzverfahren, zwei ___",
+      "answer": "Insolvenzverfahren",
+      "fullAnswer": "ein Insolvenzverfahren, zwei Insolvenzverfahren",
+      "explanation": "The plural is Insolvenzverfahren.",
+      "acceptedAnswers": [
+        "Insolvenzverfahren"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Insolvenzverfahren mean?",
+      "options": [
+        "the flower",
+        "the bread",
+        "insolvency proceedings"
+      ],
+      "answer": "insolvency proceedings",
+      "explanation": "Insolvenzverfahren: insolvency proceedings.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Insolvenz is…",
+      "options": [
+        "insolvency, bankruptcy",
+        "insomnia"
+      ],
+      "answer": "insolvency, bankruptcy",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Insolvenzverwalter is…",
+      "options": [
+        "insolvency administrator",
+        "a creditor"
+      ],
+      "answer": "insolvency administrator",
+      "explanation": "Person.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Colloquial synonym for Insolvenz:",
+      "options": [
+        "die Pleite",
+        "der Gewinn"
+      ],
+      "answer": "die Pleite",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Insolvenzverfahren is insolvency proceedings, opened by a court when a company or person can't pay its debts. A Insolvenzverwalter (administrator) takes control and tries to rescue or sell the business. Individuals can go through a Privatinsolvenz and be freed of debts after three years. The colloquial word for bankruptcy is die Pleite. The 2020 collapse of Wirecard was one of Germany's biggest cases. The plural is the same."
+}

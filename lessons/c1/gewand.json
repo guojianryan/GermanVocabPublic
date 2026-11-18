@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gewand",
+    "partOfSpeech": "noun, neuter (das Gewand)",
+    "pronunciation": {
+      "respelling": "ge-VANT",
+      "ipa": "ɡəˈvant",
+      "notes": "Plural: die Gewänder."
+    },
+    "meaning": "robe, garment (literary)",
+    "shortDefinition": "Robe, garment (literary)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Gewand, plural die Gewänder.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Gewand"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gewänder"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Priester trug ein langes Gewand.",
+      "english": "The priest wore a long robe.",
+      "highlight": [
+        "Gewand."
+      ]
+    },
+    {
+      "german": "Die Stadt zeigt sich im neuen Gewand.",
+      "english": "The city shows itself in a new guise.",
+      "highlight": [
+        "Gewand."
+      ]
+    }
+  ],
+  "forms": [
+    "Gewänder",
+    "die Gewänder",
+    "das Gewand"
+  ],
+  "memoryHook": "Gewand: a flowing robe.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gewand",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Gewand is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gewand, zwei ___",
+      "answer": "Gewänder",
+      "fullAnswer": "ein Gewand, zwei Gewänder",
+      "explanation": "The plural is Gewänder.",
+      "acceptedAnswers": [
+        "Gewaender"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gewand mean?",
+      "options": [
+        "robe",
+        "tomorrow",
+        "to open"
+      ],
+      "answer": "robe",
+      "explanation": "Gewand: robe, garment (literary).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Im neuen Gewand means…",
+      "options": [
+        "in a new guise, redesigned",
+        "in new trousers"
+      ],
+      "answer": "in a new guise, redesigned",
+      "explanation": "New look.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "literary, festive",
+        "everyday"
+      ],
+      "answer": "literary, festive",
+      "explanation": "Literary.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gewandt (adj.) means…",
+      "options": [
+        "skilful, adept",
+        "dressed"
+      ],
+      "answer": "skilful, adept",
+      "explanation": "Different.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Gewand is a robe or garment, a literary word: ein festliches Gewand, priestly Gewänder. Figuratively, im neuen Gewand means in a new guise: die Website im neuen Gewand. In Austria and Bavaria, Gewand (or G'wand) is everyday for clothes. Don't confuse it with gewandt (skilful, adept): ein gewandter Redner. Das Gewandhaus in Leipzig, home of a famous orchestra, was originally the cloth merchants' hall. Plural: die Gewänder."
+}

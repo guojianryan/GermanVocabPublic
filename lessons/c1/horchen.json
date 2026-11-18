@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "horchen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "HOR-khen",
+      "ipa": "ˈhɔʁçn̩",
+      "notes": ""
+    },
+    "meaning": "to listen (intently), eavesdrop",
+    "shortDefinition": "To listen (intently), eavesdrop."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "horch|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "horch|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "horch|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "horch|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "horch|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "horch|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gehorcht"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie horchte an der Tür.",
+      "english": "She listened at the door.",
+      "highlight": [
+        "horchte"
+      ]
+    },
+    {
+      "german": "Horch, da singt eine Nachtigall!",
+      "english": "Listen, a nightingale is singing!",
+      "highlight": [
+        "Horch,"
+      ]
+    }
+  ],
+  "forms": [
+    "horche",
+    "horchst",
+    "horcht",
+    "horchen",
+    "gehorcht",
+    "horchte"
+  ],
+  "memoryHook": "Horchen: listen hard, ear to the door.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (horchen)",
+      "answer": "horcht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: horcht.",
+      "acceptedAnswers": [
+        "horcht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (horchen, past)",
+      "answer": "gehorcht",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gehorcht.",
+      "acceptedAnswers": [
+        "gehorcht"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does horchen mean?",
+      "options": [
+        "to open",
+        "to listen (intently)",
+        "hot"
+      ],
+      "answer": "to listen (intently)",
+      "explanation": "horchen: to listen (intently), eavesdrop.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Horchen vs. hören:",
+      "options": [
+        "listen intently vs. hear",
+        "the same"
+      ],
+      "answer": "listen intently vs. hear",
+      "explanation": "Nuance.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Aufhorchen means…",
+      "options": [
+        "to prick up one's ears",
+        "to stop listening"
+      ],
+      "answer": "to prick up one's ears",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gehorchen means…",
+      "options": [
+        "to obey",
+        "to listen"
+      ],
+      "answer": "to obey",
+      "explanation": "Contrast.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Horchen means to listen intently, often secretly: an der Wand horchen. It's a bit old-fashioned; hören (to hear) and zuhören (to listen) are everyday words. Aufhorchen means to prick up one's ears, and lauschen (to listen attentively) is more poetic. Note that its participle gehorcht is identical to that of gehorchen (to obey). Der Horchposten was a listening post."
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "trachten",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "TRAKH-ten",
+      "ipa": "ˈtʁaxtn̩",
+      "notes": ""
+    },
+    "meaning": "to strive (for), seek",
+    "shortDefinition": "To strive (for), seek."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "tracht|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "tracht|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "tracht|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "tracht|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "tracht|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "tracht|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat getrachtet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er trachtete nach Macht.",
+      "english": "He strove for power.",
+      "highlight": [
+        "trachtete"
+      ]
+    },
+    {
+      "german": "Man trachtete ihm nach dem Leben.",
+      "english": "There was an attempt on his life.",
+      "highlight": [
+        "trachtete"
+      ]
+    }
+  ],
+  "forms": [
+    "trachte",
+    "trachtest",
+    "trachtet",
+    "trachten",
+    "getrachtet",
+    "Tracht"
+  ],
+  "memoryHook": "Trachten: direct your aim towards something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (trachten)",
+      "answer": "trachtet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: trachtet.",
+      "acceptedAnswers": [
+        "trachtet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (trachten, past)",
+      "answer": "getrachtet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe getrachtet.",
+      "acceptedAnswers": [
+        "getrachtet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does trachten mean?",
+      "options": [
+        "tomorrow",
+        "to help",
+        "to strive (for)"
+      ],
+      "answer": "to strive (for)",
+      "explanation": "trachten: to strive (for), seek.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Trachten nach means…",
+      "options": [
+        "to strive for",
+        "to wear costume"
+      ],
+      "answer": "to strive for",
+      "explanation": "Strive.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandem nach dem Leben trachten means…",
+      "options": [
+        "to try to kill someone",
+        "to admire someone"
+      ],
+      "answer": "to try to kill someone",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Tracht is…",
+      "options": [
+        "traditional costume",
+        "a track"
+      ],
+      "answer": "traditional costume",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Trachten means to strive for something, a literary word: nach Ruhm, nach Macht trachten. Jemandem nach dem Leben trachten means to seek someone's life. Das Trachten is striving: sein ganzes Sinnen und Trachten (all his thoughts and efforts). Die Tracht is traditional costume, like the Dirndl and Lederhosen (Trachtenmode), and colloquially eine Tracht Prügel is a beating. Regular: trachtete, getrachtet."
+}

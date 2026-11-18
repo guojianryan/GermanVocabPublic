@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Analphabet",
+    "partOfSpeech": "noun, masculine (der Analphabet)",
+    "pronunciation": {
+      "respelling": "AN-al-fa-bayt",
+      "ipa": "ˈanʔalfabeːt",
+      "notes": "Plural: die Analphabeten."
+    },
+    "meaning": "illiterate person",
+    "shortDefinition": "Illiterate person."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Analphabet, plural die Analphabeten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Analphabet"
+        },
+        {
+          "label": "More than one",
+          "value": "die Analphabeten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Weltweit gibt es Millionen Analphabeten.",
+      "english": "There are millions of illiterate people worldwide.",
+      "highlight": [
+        "Analphabeten."
+      ]
+    },
+    {
+      "german": "Funktionale Analphabeten können nur einfache Sätze lesen.",
+      "english": "Functionally illiterate people can only read simple sentences.",
+      "highlight": [
+        "Analphabeten"
+      ]
+    }
+  ],
+  "forms": [
+    "Analphabeten",
+    "Analphabetin",
+    "der Analphabet"
+  ],
+  "memoryHook": "Analphabet: without (an-) the Alphabet.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Analphabet",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Analphabet is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Analphabet, zwei ___",
+      "answer": "Analphabeten",
+      "fullAnswer": "ein Analphabet, zwei Analphabeten",
+      "explanation": "The plural is Analphabeten.",
+      "acceptedAnswers": [
+        "Analphabeten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Analphabet mean?",
+      "options": [
+        "to sing",
+        "the weather",
+        "illiterate person"
+      ],
+      "answer": "illiterate person",
+      "explanation": "Analphabet: illiterate person.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Analphabet is a weak noun, so…",
+      "options": [
+        "den Analphabeten (accusative)",
+        "den Analphabet"
+      ],
+      "answer": "den Analphabeten (accusative)",
+      "explanation": "Weak noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Analphabetismus is…",
+      "options": [
+        "illiteracy",
+        "the alphabet"
+      ],
+      "answer": "illiteracy",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Funktionaler Analphabetismus means…",
+      "options": [
+        "very limited reading/writing ability",
+        "not knowing letters at all"
+      ],
+      "answer": "very limited reading/writing ability",
+      "explanation": "Functional.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Analphabet (die Analphabetin) is an illiterate person, and der Analphabetismus illiteracy. Germany's LEO study of 2018 found about 6.2 million adults with very low literacy, called funktionale Analphabeten or, more respectfully today, gering literalisierte Erwachsene. It's a weak noun: den, dem, des Analphabeten. Plural: die Analphabeten."
+}

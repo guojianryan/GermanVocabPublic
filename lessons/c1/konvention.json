@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Konvention",
+    "partOfSpeech": "noun, feminine (die Konvention)",
+    "pronunciation": {
+      "respelling": "kon-ven-TSYOHN",
+      "ipa": "kɔnvɛnˈt͡si̯oːn",
+      "notes": "Plural: die Konventionen."
+    },
+    "meaning": "convention (treaty; custom)",
+    "shortDefinition": "Convention (treaty; custom)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Konvention, plural die Konventionen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Konvention"
+        },
+        {
+          "label": "More than one",
+          "value": "die Konventionen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Deutschland hat die Konvention unterzeichnet.",
+      "english": "Germany signed the convention.",
+      "highlight": [
+        "Konvention"
+      ]
+    },
+    {
+      "german": "Er hält nichts von gesellschaftlichen Konventionen.",
+      "english": "He doesn't care for social conventions.",
+      "highlight": [
+        "Konventionen."
+      ]
+    }
+  ],
+  "forms": [
+    "Konventionen",
+    "die Konventionen",
+    "die Konvention",
+    "konventionell"
+  ],
+  "memoryHook": "Konvention: what has been agreed (Latin conventio).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Konvention",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Konvention is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Konvention, zwei ___",
+      "answer": "Konventionen",
+      "fullAnswer": "ein Konvention, zwei Konventionen",
+      "explanation": "The plural is Konventionen.",
+      "acceptedAnswers": [
+        "Konventionen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Konvention mean?",
+      "options": [
+        "hot",
+        "the station",
+        "convention (treaty"
+      ],
+      "answer": "convention (treaty",
+      "explanation": "Konvention: convention (treaty; custom).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Genfer Konventionen are…",
+      "options": [
+        "the Geneva Conventions",
+        "Geneva conferences"
+      ],
+      "answer": "the Geneva Conventions",
+      "explanation": "Geneva.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Konventionell means…",
+      "options": [
+        "conventional",
+        "convenient"
+      ],
+      "answer": "conventional",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "A large meeting/trade fair is usually…",
+      "options": [
+        "der Kongress / die Messe",
+        "die Konvention"
+      ],
+      "answer": "der Kongress / die Messe",
+      "explanation": "Meeting.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Konvention is a convention in two senses: an international treaty (die UN-Kinderrechtskonvention, die Europäische Menschenrechtskonvention, die Genfer Konventionen) and a social custom: gesellschaftliche Konventionen brechen. A conference is usually der Kongress or die Tagung, not Konvention. Konventionell means conventional, including conventional weapons and farming (as opposed to bio). Plural: die Konventionen."
+}

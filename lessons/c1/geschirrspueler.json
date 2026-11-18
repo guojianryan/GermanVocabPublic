@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Geschirrspüler",
+    "partOfSpeech": "noun, masculine (der Geschirrspüler)",
+    "pronunciation": {
+      "respelling": "ge-SHIR-shpü-ler",
+      "ipa": "ɡəˈʃɪʁˌʃpyːlɐ",
+      "notes": "Plural: die Geschirrspüler."
+    },
+    "meaning": "dishwasher",
+    "shortDefinition": "Dishwasher."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Geschirrspüler, plural die Geschirrspüler.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Geschirrspüler"
+        },
+        {
+          "label": "More than one",
+          "value": "die Geschirrspüler"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Kannst du den Geschirrspüler ausräumen?",
+      "english": "Can you empty the dishwasher?",
+      "highlight": [
+        "Geschirrspüler"
+      ]
+    },
+    {
+      "german": "Die Gläser sind nicht spülmaschinenfest.",
+      "english": "The glasses aren't dishwasher-safe.",
+      "highlight": [
+        "spülmaschinenfest."
+      ]
+    }
+  ],
+  "forms": [
+    "der Geschirrspüler",
+    "Geschirrspülers"
+  ],
+  "memoryHook": "Geschirrspüler: something that spült (rinses) the Geschirr (dishes).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Geschirrspüler",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Geschirrspüler is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Geschirrspüler, zwei ___",
+      "answer": "Geschirrspüler",
+      "fullAnswer": "ein Geschirrspüler, zwei Geschirrspüler",
+      "explanation": "The plural is Geschirrspüler.",
+      "acceptedAnswers": [
+        "Geschirrspueler"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Geschirrspüler mean?",
+      "options": [
+        "the street",
+        "dishwasher",
+        "to wait"
+      ],
+      "answer": "dishwasher",
+      "explanation": "Geschirrspüler: dishwasher.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Spülmaschine",
+        "der Wasserkocher"
+      ],
+      "answer": "die Spülmaschine",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Spülmaschinenfest means…",
+      "options": [
+        "dishwasher-safe",
+        "fixed to the sink"
+      ],
+      "answer": "dishwasher-safe",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Geschirr is…",
+      "options": [
+        "dishes, crockery; harness",
+        "a gear"
+      ],
+      "answer": "dishes, crockery; harness",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Geschirrspüler is a dishwasher, also die Spülmaschine. Dishes that can go in it are spülmaschinenfest. Das Geschirr means dishes and also a horse's harness. Washing up by hand is abwaschen or spülen, and the person who does it in a restaurant is der Spüler or Tellerwäscher: vom Tellerwäscher zum Millionär (from rags to riches). The plural is the same."
+}

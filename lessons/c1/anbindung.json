@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Anbindung",
+    "partOfSpeech": "noun, feminine (die Anbindung)",
+    "pronunciation": {
+      "respelling": "AN-bin-dung",
+      "ipa": "ˈanˌbɪndʊŋ",
+      "notes": "Plural: die Anbindungen."
+    },
+    "meaning": "connection, link (transport, network)",
+    "shortDefinition": "Connection, link (transport, network)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Anbindung, plural die Anbindungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Anbindung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Anbindungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Wohnung hat eine gute Anbindung an die S-Bahn.",
+      "english": "The flat has good connections to the S-Bahn.",
+      "highlight": [
+        "Anbindung"
+      ]
+    },
+    {
+      "german": "Das Dorf hat keine Internetanbindung.",
+      "english": "The village has no internet connection.",
+      "highlight": [
+        "Internetanbindung."
+      ]
+    }
+  ],
+  "forms": [
+    "Anbindungen",
+    "die Anbindungen",
+    "die Anbindung",
+    "anbinden"
+  ],
+  "memoryHook": "Anbindung: being tied (gebunden) to the network.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Anbindung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Anbindung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Anbindung, zwei ___",
+      "answer": "Anbindungen",
+      "fullAnswer": "ein Anbindung, zwei Anbindungen",
+      "explanation": "The plural is Anbindungen.",
+      "acceptedAnswers": [
+        "Anbindungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Anbindung mean?",
+      "options": [
+        "to open",
+        "the weather",
+        "connection"
+      ],
+      "answer": "connection",
+      "explanation": "Anbindung: connection, link (transport, network).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gute Verkehrsanbindung in a flat ad means…",
+      "options": [
+        "good transport links",
+        "a parking space"
+      ],
+      "answer": "good transport links",
+      "explanation": "Transport links.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Anbinden means…",
+      "options": [
+        "to tie up; to connect",
+        "to bind a book"
+      ],
+      "answer": "to tie up; to connect",
+      "explanation": "anbinden.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Anbindung an means…",
+      "options": [
+        "connection to",
+        "dependence on only"
+      ],
+      "answer": "connection to",
+      "explanation": "an + accusative.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Anbindung is a connection or link, mostly to transport and networks: eine gute Verkehrsanbindung, die Anbindung an die Autobahn, die Breitbandanbindung (broadband connection). It's a key phrase in German flat adverts: gute Anbindung an öffentliche Verkehrsmittel. Rural areas often complain about poor Anbindung. The verb anbinden means to tie up, such as a dog or a boat, and also to connect."
+}

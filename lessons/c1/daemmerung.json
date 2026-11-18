@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Dämmerung",
+    "partOfSpeech": "noun, feminine (die Dämmerung)",
+    "pronunciation": {
+      "respelling": "DE-me-rung",
+      "ipa": "ˈdɛməʁʊŋ",
+      "notes": "Plural: die Dämmerungen."
+    },
+    "meaning": "dusk, twilight; dawn",
+    "shortDefinition": "Dusk, twilight; dawn."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Dämmerung, plural die Dämmerungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Dämmerung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Dämmerungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In der Dämmerung kommen die Rehe aus dem Wald.",
+      "english": "At dusk the deer come out of the forest.",
+      "highlight": [
+        "Dämmerung"
+      ]
+    },
+    {
+      "german": "Bei Dämmerung muss man das Licht einschalten.",
+      "english": "At dusk you must switch on your lights.",
+      "highlight": [
+        "Dämmerung"
+      ]
+    }
+  ],
+  "forms": [
+    "Dämmerungen",
+    "die Dämmerung",
+    "dämmern"
+  ],
+  "memoryHook": "Dämmerung: the half-light when it dämmert.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Dämmerung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Dämmerung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Dämmerung, zwei ___",
+      "answer": "Dämmerungen",
+      "fullAnswer": "ein Dämmerung, zwei Dämmerungen",
+      "explanation": "The plural is Dämmerungen.",
+      "acceptedAnswers": [
+        "Daemmerungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Dämmerung mean?",
+      "options": [
+        "the car",
+        "the station",
+        "dusk"
+      ],
+      "answer": "dusk",
+      "explanation": "Dämmerung: dusk, twilight; dawn.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Abenddämmerung is…",
+      "options": [
+        "dusk",
+        "dawn"
+      ],
+      "answer": "dusk",
+      "explanation": "Dusk.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Morgendämmerung is…",
+      "options": [
+        "dawn",
+        "dusk"
+      ],
+      "answer": "dawn",
+      "explanation": "Dawn.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wagner's Götterdämmerung means…",
+      "options": [
+        "Twilight of the Gods",
+        "Morning of the Gods"
+      ],
+      "answer": "Twilight of the Gods",
+      "explanation": "Wagner.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Dämmerung is twilight, both dusk (Abenddämmerung) and dawn (Morgendämmerung). Dämmern means to grow dark or light, and figuratively, es dämmert mir means it's dawning on me. Wagner's opera Götterdämmerung (Twilight of the Gods) ends his Ring cycle, and the word entered English. Animals active at twilight are dämmerungsaktiv. Plural: die Dämmerungen."
+}

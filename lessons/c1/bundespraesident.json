@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bundespräsident",
+    "partOfSpeech": "noun, masculine (der Bundespräsident)",
+    "pronunciation": {
+      "respelling": "BUN-des-pre-zi-dent",
+      "ipa": "ˈbʊndəspʁɛziˌdɛnt",
+      "notes": "Plural: die Bundespräsidenten."
+    },
+    "meaning": "Federal President (head of state)",
+    "shortDefinition": "Federal President (head of state)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Bundespräsident, plural die Bundespräsidenten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Bundespräsident"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bundespräsidenten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Bundespräsident hielt eine Weihnachtsansprache.",
+      "english": "The Federal President gave a Christmas address.",
+      "highlight": [
+        "Bundespräsident"
+      ]
+    },
+    {
+      "german": "Die Bundesversammlung wählt den Bundespräsidenten.",
+      "english": "The Federal Convention elects the Federal President.",
+      "highlight": [
+        "Bundespräsidenten."
+      ]
+    }
+  ],
+  "forms": [
+    "Bundespräsidenten",
+    "die Bundespräsidenten",
+    "der Bundespräsident",
+    "Bundespräsidentin"
+  ],
+  "memoryHook": "Bundespräsident: head of state, signs laws, rarely governs.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bundespräsident",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Bundespräsident is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bundespräsident, zwei ___",
+      "answer": "Bundespräsidenten",
+      "fullAnswer": "ein Bundespräsident, zwei Bundespräsidenten",
+      "explanation": "The plural is Bundespräsidenten.",
+      "acceptedAnswers": [
+        "Bundespraesidenten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bundespräsident mean?",
+      "options": [
+        "never",
+        "the station",
+        "Federal President (head of state)"
+      ],
+      "answer": "Federal President (head of state)",
+      "explanation": "Bundespräsident: Federal President (head of state).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Bundespräsident is…",
+      "options": [
+        "head of state, largely ceremonial",
+        "head of government"
+      ],
+      "answer": "head of state, largely ceremonial",
+      "explanation": "Ceremonial.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Official residence:",
+      "options": [
+        "Schloss Bellevue in Berlin",
+        "the Kanzleramt"
+      ],
+      "answer": "Schloss Bellevue in Berlin",
+      "explanation": "Bellevue.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Term of office:",
+      "options": [
+        "five years, max two terms",
+        "four years, unlimited"
+      ],
+      "answer": "five years, max two terms",
+      "explanation": "Five years.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Bundespräsident (die Bundespräsidentin) is Germany's head of state. The role is largely ceremonial: signing laws, appointing the chancellor, representing the country, and giving the Christmas address, while the Bundeskanzler runs the government. The president is elected by the Bundesversammlung (Federal Convention) for five years, with a maximum of two terms, and lives in Schloss Bellevue in Berlin. Like Präsident, it's a weak noun: den Bundespräsidenten."
+}

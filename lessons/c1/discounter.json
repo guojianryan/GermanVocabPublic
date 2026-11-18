@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Discounter",
+    "partOfSpeech": "noun, masculine (der Discounter)",
+    "pronunciation": {
+      "respelling": "dis-KAUN-ter",
+      "ipa": "dɪsˈkaʊ̯ntɐ",
+      "notes": "Plural: die Discounter."
+    },
+    "meaning": "discount supermarket",
+    "shortDefinition": "Discount supermarket."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Discounter, plural die Discounter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Discounter"
+        },
+        {
+          "label": "More than one",
+          "value": "die Discounter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich kaufe meistens beim Discounter ein.",
+      "english": "I mostly shop at the discount supermarket.",
+      "highlight": [
+        "Discounter"
+      ]
+    },
+    {
+      "german": "Die Discounter senken die Preise für Milch.",
+      "english": "The discounters are cutting milk prices.",
+      "highlight": [
+        "Discounter"
+      ]
+    }
+  ],
+  "forms": [
+    "die Discounter",
+    "der Discounter"
+  ],
+  "memoryHook": "Discounter: pseudo-English for the cheap supermarket.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Discounter",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Discounter is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Discounter, zwei ___",
+      "answer": "Discounter",
+      "fullAnswer": "ein Discounter, zwei Discounter",
+      "explanation": "The plural is Discounter.",
+      "acceptedAnswers": [
+        "Discounter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Discounter mean?",
+      "options": [
+        "the bed",
+        "discount supermarket",
+        "to learn"
+      ],
+      "answer": "discount supermarket",
+      "explanation": "Discounter: discount supermarket.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Typical German Discounter:",
+      "options": [
+        "Aldi, Lidl, Netto, Penny",
+        "Edeka, Rewe"
+      ],
+      "answer": "Aldi, Lidl, Netto, Penny",
+      "explanation": "Chains.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Aldi was founded in…",
+      "options": [
+        "Essen by the Albrecht brothers",
+        "Berlin"
+      ],
+      "answer": "Essen by the Albrecht brothers",
+      "explanation": "Aldi.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Vollsortimenter is…",
+      "options": [
+        "a full-range supermarket",
+        "a sorting machine"
+      ],
+      "answer": "a full-range supermarket",
+      "explanation": "Full range.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Discounter is a discount supermarket, a German invention exported worldwide: Aldi (split into Aldi Nord and Aldi Süd, founded by the Albrecht brothers in Essen) and Lidl (Schwarz Group) are global giants, joined by Netto and Penny. They offer a limited range at low prices, while Vollsortimenter like Edeka and Rewe carry more. Germans spend a relatively small share of income on food. Plural: die Discounter."
+}

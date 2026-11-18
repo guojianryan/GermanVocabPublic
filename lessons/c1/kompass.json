@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kompass",
+    "partOfSpeech": "noun, masculine (der Kompass)",
+    "pronunciation": {
+      "respelling": "KOM-pas",
+      "ipa": "ˈkɔmpas",
+      "notes": "Plural: die Kompasse."
+    },
+    "meaning": "compass",
+    "shortDefinition": "Compass."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kompass, plural die Kompasse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kompass"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kompasse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Mit dem Kompass fanden wir den Weg.",
+      "english": "We found the way with the compass.",
+      "highlight": [
+        "Kompass"
+      ]
+    },
+    {
+      "german": "Ihr moralischer Kompass ist klar.",
+      "english": "Her moral compass is clear.",
+      "highlight": [
+        "Kompass"
+      ]
+    }
+  ],
+  "forms": [
+    "Kompasse",
+    "die Kompasse",
+    "der Kompass"
+  ],
+  "memoryHook": "Kompass: it points north.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kompass",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kompass is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kompass, zwei ___",
+      "answer": "Kompasse",
+      "fullAnswer": "ein Kompass, zwei Kompasse",
+      "explanation": "The plural is Kompasse.",
+      "acceptedAnswers": [
+        "Kompasse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kompass mean?",
+      "options": [
+        "the bread",
+        "to sleep",
+        "compass"
+      ],
+      "answer": "compass",
+      "explanation": "Kompass: compass.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der moralische Kompass is…",
+      "options": [
+        "moral compass",
+        "a moral map"
+      ],
+      "answer": "moral compass",
+      "explanation": "Moral.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kompassnadel is…",
+      "options": [
+        "compass needle",
+        "pin"
+      ],
+      "answer": "compass needle",
+      "explanation": "Needle.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Kompasse",
+        "die Kompässe"
+      ],
+      "answer": "die Kompasse",
+      "explanation": "-e.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Kompass is a compass: mit Kompass und Karte wandern, die Kompassnadel zeigt nach Norden. Figuratively, der moralische Kompass is one's moral compass. A pair of drawing compasses is der Zirkel. Since the spelling reform, it's spelled with ss (formerly Kompaß). Plural: die Kompasse."
+}

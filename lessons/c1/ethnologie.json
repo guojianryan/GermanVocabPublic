@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ethnologie",
+    "partOfSpeech": "noun, feminine (die Ethnologie)",
+    "pronunciation": {
+      "respelling": "et-no-lo-GEE",
+      "ipa": "ɛtnoloˈɡiː",
+      "notes": "Usually no plural."
+    },
+    "meaning": "ethnology, cultural anthropology",
+    "shortDefinition": "Ethnology, cultural anthropology."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Ethnologie, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Ethnologie"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie studiert Ethnologie in Hamburg.",
+      "english": "She studies ethnology in Hamburg.",
+      "highlight": [
+        "Ethnologie"
+      ]
+    },
+    {
+      "german": "Das Museum zeigt ethnologische Sammlungen.",
+      "english": "The museum shows ethnological collections.",
+      "highlight": [
+        "ethnologische"
+      ]
+    }
+  ],
+  "forms": [
+    "die Ethnologie",
+    "ethnologisch"
+  ],
+  "memoryHook": "Ethnologie: the study (logos) of peoples (ethnos).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ethnologie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Ethnologie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ethnologie mean?",
+      "options": [
+        "ethnology",
+        "the bed",
+        "tomorrow"
+      ],
+      "answer": "ethnology",
+      "explanation": "Ethnologie: ethnology, cultural anthropology.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Old German term:",
+      "options": [
+        "die Völkerkunde",
+        "die Volkskunde"
+      ],
+      "answer": "die Völkerkunde",
+      "explanation": "Old term.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Volkskunde studies…",
+      "options": [
+        "one's own folk culture",
+        "foreign peoples"
+      ],
+      "answer": "one's own folk culture",
+      "explanation": "Contrast.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Debates on ethnological museums concern…",
+      "options": [
+        "colonial-era objects and restitution",
+        "ticket prices"
+      ],
+      "answer": "colonial-era objects and restitution",
+      "explanation": "Debate.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Ethnologie is ethnology or cultural anthropology, formerly called Völkerkunde; der Ethnologe is an ethnologist. Many collections in German ethnological museums come from the colonial era, and in 2022 Germany began returning Benin Bronzes to Nigeria. Berlin's Humboldt Forum, displaying such collections, has been controversial. Volkskunde, by contrast, studied one's own folk culture. It has no plural."
+}

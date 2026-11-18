@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Verbrennungsmotor",
+    "partOfSpeech": "noun, masculine (der Verbrennungsmotor)",
+    "pronunciation": {
+      "respelling": "fer-BRE-nungs-moh-tor",
+      "ipa": "fɛɐ̯ˈbʁɛnʊŋsˌmoːtoːɐ̯",
+      "notes": "Plural: die Verbrennungsmotoren."
+    },
+    "meaning": "internal combustion engine",
+    "shortDefinition": "Internal combustion engine."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Verbrennungsmotor, plural die Verbrennungsmotoren.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Verbrennungsmotor"
+        },
+        {
+          "label": "More than one",
+          "value": "die Verbrennungsmotoren"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die EU will Neuwagen mit Verbrennungsmotor ab 2035 verbieten.",
+      "english": "The EU wants to ban new cars with combustion engines from 2035.",
+      "highlight": [
+        "Verbrennungsmotor"
+      ]
+    },
+    {
+      "german": "Der Verbrennungsmotor wurde in Deutschland erfunden.",
+      "english": "The combustion engine was invented in Germany.",
+      "highlight": [
+        "Verbrennungsmotor"
+      ]
+    }
+  ],
+  "forms": [
+    "Verbrennungsmotoren",
+    "der Verbrennungsmotor"
+  ],
+  "memoryHook": "Verbrennungsmotor: a Motor running on Verbrennung (combustion).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Verbrennungsmotor",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Verbrennungsmotor is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Verbrennungsmotor, zwei ___",
+      "answer": "Verbrennungsmotoren",
+      "fullAnswer": "ein Verbrennungsmotor, zwei Verbrennungsmotoren",
+      "explanation": "The plural is Verbrennungsmotoren.",
+      "acceptedAnswers": [
+        "Verbrennungsmotoren"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Verbrennungsmotor mean?",
+      "options": [
+        "always",
+        "the family",
+        "internal combustion engine"
+      ],
+      "answer": "internal combustion engine",
+      "explanation": "Verbrennungsmotor: internal combustion engine.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Colloquially, cars with combustion engines are called…",
+      "options": [
+        "Verbrenner",
+        "Brenner"
+      ],
+      "answer": "Verbrenner",
+      "explanation": "Colloquial.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pioneers of the car engine in Germany include…",
+      "options": [
+        "Benz, Daimler, Otto, Diesel",
+        "Siemens only"
+      ],
+      "answer": "Benz, Daimler, Otto, Diesel",
+      "explanation": "History.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Verbrenner-Aus means…",
+      "options": [
+        "the planned end of new combustion cars",
+        "an engine failure"
+      ],
+      "answer": "the planned end of new combustion cars",
+      "explanation": "Politics.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Verbrennungsmotor is the internal combustion engine; cars with one are colloquially Verbrenner. German inventors shaped it: Nikolaus Otto (four-stroke engine), Rudolf Diesel, and Carl Benz, whose 1886 Motorwagen counts as the first car. The EU's planned Verbrenner-Aus for new cars from 2035 is hotly debated in Germany. Plural: die Verbrennungsmotoren."
+}

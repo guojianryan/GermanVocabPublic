@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "befördern",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-FÖR-dern",
+      "ipa": "bəˈfœʁdɐn",
+      "notes": ""
+    },
+    "meaning": "to transport; to promote",
+    "shortDefinition": "To transport; to promote."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "beförder|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "beförder|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "beförder|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "beförder|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "beförder|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "beförder|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat befördert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie wurde zur Abteilungsleiterin befördert.",
+      "english": "She was promoted to head of department.",
+      "highlight": [
+        "befördert."
+      ]
+    },
+    {
+      "german": "Die Bahn befördert täglich Millionen Menschen.",
+      "english": "The railway carries millions of people every day.",
+      "highlight": [
+        "befördert"
+      ]
+    }
+  ],
+  "forms": [
+    "befördere",
+    "beförderst",
+    "befördert",
+    "befördern",
+    "Beförderung"
+  ],
+  "memoryHook": "Befördern: move people, goods, or careers forward (fördern).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (befördern)",
+      "answer": "befördert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: befördert.",
+      "acceptedAnswers": [
+        "befoerdert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (befördern, past)",
+      "answer": "befördert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe befördert.",
+      "acceptedAnswers": [
+        "befoerdert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does befördern mean?",
+      "options": [
+        "to transport",
+        "the weather",
+        "the bill"
+      ],
+      "answer": "to transport",
+      "explanation": "befördern: to transport; to promote.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Beförderung means…",
+      "options": [
+        "promotion; transport",
+        "demotion"
+      ],
+      "answer": "promotion; transport",
+      "explanation": "Both.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden ins Jenseits befördern means…",
+      "options": [
+        "to kill someone (jokingly)",
+        "to promote someone"
+      ],
+      "answer": "to kill someone (jokingly)",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Beförderungsbedingungen are…",
+      "options": [
+        "conditions of carriage",
+        "promotion rules"
+      ],
+      "answer": "conditions of carriage",
+      "explanation": "On tickets.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Befördern means to transport or carry: Passagiere befördern. It also means to promote at work: zum Teamleiter befördert werden. Die Beförderung covers both: transport and promotion. On train tickets you'll find die Beförderungsbedingungen (conditions of carriage). Jemanden an die frische Luft befördern means to throw someone out. From fördern (to support, promote)."
+}

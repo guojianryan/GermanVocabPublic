@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Stadtmauer",
+    "partOfSpeech": "noun, feminine (die Stadtmauer)",
+    "pronunciation": {
+      "respelling": "SHTAT-mau-er",
+      "ipa": "ˈʃtatˌmaʊ̯ɐ",
+      "notes": "Plural: die Stadtmauern."
+    },
+    "meaning": "city wall",
+    "shortDefinition": "City wall."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Stadtmauer, plural die Stadtmauern.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Stadtmauer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Stadtmauern"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Man kann auf der Stadtmauer um die Altstadt laufen.",
+      "english": "You can walk around the old town on the city wall.",
+      "highlight": [
+        "Stadtmauer"
+      ]
+    },
+    {
+      "german": "Die mittelalterliche Stadtmauer ist gut erhalten.",
+      "english": "The medieval city wall is well preserved.",
+      "highlight": [
+        "Stadtmauer"
+      ]
+    }
+  ],
+  "forms": [
+    "Stadtmauern",
+    "die Stadtmauer"
+  ],
+  "memoryHook": "Stadtmauer: the Mauer (wall) around a Stadt.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Stadtmauer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Stadtmauer is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Stadtmauer, zwei ___",
+      "answer": "Stadtmauern",
+      "fullAnswer": "ein Stadtmauer, zwei Stadtmauern",
+      "explanation": "The plural is Stadtmauern.",
+      "acceptedAnswers": [
+        "Stadtmauern"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Stadtmauer mean?",
+      "options": [
+        "the family",
+        "city wall",
+        "the bread"
+      ],
+      "answer": "city wall",
+      "explanation": "Stadtmauer: city wall.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Towns with walkable medieval walls:",
+      "options": [
+        "Rothenburg ob der Tauber, Nördlingen",
+        "Berlin, Hamburg"
+      ],
+      "answer": "Rothenburg ob der Tauber, Nördlingen",
+      "explanation": "Walls.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Stadttor is…",
+      "options": [
+        "city gate",
+        "city goal"
+      ],
+      "answer": "city gate",
+      "explanation": "Gate.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Mauer (in Berlin) means…",
+      "options": [
+        "the Berlin Wall",
+        "a city wall"
+      ],
+      "answer": "the Berlin Wall",
+      "explanation": "Context.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Stadtmauer is a city wall. Several Bavarian towns still have complete medieval walls you can walk on, notably Rothenburg ob der Tauber and Nördlingen, whose round wall lies inside an ancient meteor crater, the Ries. Many cities replaced their walls with ring roads or parks in the 19th century, such as Vienna's Ringstraße. Die Mauer alone often means the Berlin Wall. Plural: die Stadtmauern."
+}

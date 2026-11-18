@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kaufpreis",
+    "partOfSpeech": "noun, masculine (der Kaufpreis)",
+    "pronunciation": {
+      "respelling": "KAUF-prais",
+      "ipa": "ˈkaʊ̯fˌpʁaɪ̯s",
+      "notes": "Plural: die Kaufpreise."
+    },
+    "meaning": "purchase price",
+    "shortDefinition": "Purchase price."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kaufpreis, plural die Kaufpreise.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kaufpreis"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kaufpreise"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Kaufpreis der Wohnung beträgt 400.000 Euro.",
+      "english": "The flat's purchase price is 400,000 euros.",
+      "highlight": [
+        "Kaufpreis"
+      ]
+    },
+    {
+      "german": "Zum Kaufpreis kommen noch Nebenkosten.",
+      "english": "On top of the purchase price come additional costs.",
+      "highlight": [
+        "Kaufpreis"
+      ]
+    }
+  ],
+  "forms": [
+    "Kaufpreise",
+    "die Kaufpreise",
+    "der Kaufpreis"
+  ],
+  "memoryHook": "Kaufpreis: the Preis you pay to kaufen.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kaufpreis",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kaufpreis is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kaufpreis, zwei ___",
+      "answer": "Kaufpreise",
+      "fullAnswer": "ein Kaufpreis, zwei Kaufpreise",
+      "explanation": "The plural is Kaufpreise.",
+      "acceptedAnswers": [
+        "Kaufpreise"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kaufpreis mean?",
+      "options": [
+        "cheap",
+        "never",
+        "purchase price"
+      ],
+      "answer": "purchase price",
+      "explanation": "Kaufpreis: purchase price.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kaufnebenkosten for property in Germany include…",
+      "options": [
+        "land transfer tax, notary, broker",
+        "only VAT"
+      ],
+      "answer": "land transfer tax, notary, broker",
+      "explanation": "Costs.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Mietpreis is…",
+      "options": [
+        "the rent",
+        "the purchase price"
+      ],
+      "answer": "the rent",
+      "explanation": "Rent.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Preis also means…",
+      "options": [
+        "prize",
+        "praise"
+      ],
+      "answer": "prize",
+      "explanation": "Prize.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Kaufpreis is the purchase price: der Kaufpreis eines Hauses, eines Autos. When buying property in Germany, Kaufnebenkosten add roughly 7 to 15 percent: Grunderwerbsteuer (land transfer tax, 3.5 to 6.5 percent depending on the state), notary and land registry fees, and often a broker (Makler). Der Preis also means prize: der Nobelpreis. Plural: die Kaufpreise."
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "minder",
+    "partOfSpeech": "adjective / adverb",
+    "pronunciation": {
+      "respelling": "MIN-der",
+      "ipa": "ˈmɪndɐ",
+      "notes": ""
+    },
+    "meaning": "less, lesser (formal)",
+    "shortDefinition": "Less, lesser (formal)."
+  },
+  "sampleSentences": [
+    {
+      "german": "Das ist nicht minder wichtig.",
+      "english": "That is no less important.",
+      "highlight": [
+        "minder"
+      ]
+    },
+    {
+      "german": "Das ist ein Problem von minderer Bedeutung.",
+      "english": "That's a problem of lesser importance.",
+      "highlight": [
+        "minderer"
+      ]
+    }
+  ],
+  "forms": [
+    "minderer",
+    "mindere",
+    "minderjährig",
+    "mindern"
+  ],
+  "memoryHook": "Minder: the formal cousin of weniger.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does minder mean?",
+      "options": [
+        "tomorrow",
+        "to buy",
+        "less"
+      ],
+      "answer": "less",
+      "explanation": "minder: less, lesser (formal).",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nicht minder means…",
+      "options": [
+        "no less",
+        "no more"
+      ],
+      "answer": "no less",
+      "explanation": "Formal.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mehr oder minder means…",
+      "options": [
+        "more or less",
+        "more and more"
+      ],
+      "answer": "more or less",
+      "explanation": "Phrase.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Minderjährig means…",
+      "options": [
+        "underage",
+        "of mixed age"
+      ],
+      "answer": "underage",
+      "explanation": "Minor.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "mehr oder ___ (less)",
+      "answer": "minder",
+      "fullAnswer": "mehr oder minder",
+      "explanation": "Fixed phrase.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Minder is a formal word for less or lesser: nicht minder (no less), mehr oder minder (more or less), von minderer Qualität (of inferior quality). It lives on in many compounds: minderjährig (underage), die Minderheit (minority), minderwertig (inferior), der Minderwertigkeitskomplex (inferiority complex). The verb mindern means to reduce: die Miete mindern (to reduce the rent because of defects), a tenant's right in Germany."
+}

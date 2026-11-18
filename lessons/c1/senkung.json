@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Senkung",
+    "partOfSpeech": "noun, feminine (die Senkung)",
+    "pronunciation": {
+      "respelling": "ZENK-ung",
+      "ipa": "ˈzɛŋkʊŋ",
+      "notes": "Plural: die Senkungen."
+    },
+    "meaning": "reduction, lowering",
+    "shortDefinition": "Reduction, lowering."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Senkung, plural die Senkungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Senkung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Senkungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Partei verspricht eine Senkung der Steuern.",
+      "english": "The party promises a tax cut.",
+      "highlight": [
+        "Senkung"
+      ]
+    },
+    {
+      "german": "Eine Senkung der Zinsen wird erwartet.",
+      "english": "A cut in interest rates is expected.",
+      "highlight": [
+        "Senkung"
+      ]
+    }
+  ],
+  "forms": [
+    "Senkungen",
+    "die Senkungen",
+    "die Senkung",
+    "senken"
+  ],
+  "memoryHook": "Senkung: bringing something lower (senken).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Senkung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Senkung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Senkung, zwei ___",
+      "answer": "Senkungen",
+      "fullAnswer": "ein Senkung, zwei Senkungen",
+      "explanation": "The plural is Senkungen.",
+      "acceptedAnswers": [
+        "Senkungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Senkung mean?",
+      "options": [
+        "the flower",
+        "reduction",
+        "to open"
+      ],
+      "answer": "reduction",
+      "explanation": "Senkung: reduction, lowering.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Senken means…",
+      "options": [
+        "to lower, reduce",
+        "to sink (a ship) only"
+      ],
+      "answer": "to lower, reduce",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite:",
+      "options": [
+        "die Erhöhung",
+        "die Sendung"
+      ],
+      "answer": "die Erhöhung",
+      "explanation": "Increase.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Steuersenkung is…",
+      "options": [
+        "a tax cut",
+        "tax evasion"
+      ],
+      "answer": "a tax cut",
+      "explanation": "Tax.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Senkung is a reduction or lowering: Steuersenkung (tax cut), Zinssenkung (rate cut), Preissenkung. The opposite is die Erhöhung. The verb senken means to lower: den Blutdruck senken, die Stimme senken. Sinken (sank, gesunken) is the intransitive form: Die Preise sinken. In geology and medicine, die Senkung is subsidence, and die Blutsenkung is a blood sedimentation test. Plural: die Senkungen."
+}

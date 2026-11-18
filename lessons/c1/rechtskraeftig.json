@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "rechtskräftig",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "REKHTS-kref-tikh",
+      "ipa": "ˈʁɛçt͡sˌkʁɛftɪç",
+      "notes": ""
+    },
+    "meaning": "final, legally binding",
+    "shortDefinition": "Final, legally binding."
+  },
+  "sampleSentences": [
+    {
+      "german": "Das Urteil ist noch nicht rechtskräftig.",
+      "english": "The verdict is not yet final.",
+      "highlight": [
+        "rechtskräftig."
+      ]
+    },
+    {
+      "german": "Er wurde rechtskräftig verurteilt.",
+      "english": "He was convicted with final effect.",
+      "highlight": [
+        "rechtskräftig"
+      ]
+    }
+  ],
+  "forms": [
+    "rechtskräftige",
+    "rechtskräftigen",
+    "rechtskräftiges",
+    "Rechtskraft"
+  ],
+  "memoryHook": "Rechtskräftig: with full Rechtskraft (legal force).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does rechtskräftig mean?",
+      "options": [
+        "the shop",
+        "final",
+        "the job"
+      ],
+      "answer": "final",
+      "explanation": "rechtskräftig: final, legally binding.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rechtskräftig means a verdict…",
+      "options": [
+        "can no longer be appealed",
+        "is provisional"
+      ],
+      "answer": "can no longer be appealed",
+      "explanation": "Final.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Rechtskraft is…",
+      "options": [
+        "legal force, finality",
+        "law enforcement"
+      ],
+      "answer": "legal force, finality",
+      "explanation": "Noun.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Until a verdict is rechtskräftig, the accused is…",
+      "options": [
+        "presumed innocent",
+        "guilty"
+      ],
+      "answer": "presumed innocent",
+      "explanation": "Presumption.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein ___ Urteil (final)",
+      "answer": "rechtskräftiges",
+      "fullAnswer": "ein rechtskräftiges Urteil",
+      "explanation": "Neuter -es.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Rechtskräftig means final and legally binding: ein rechtskräftiges Urteil, once no further appeal is possible. Until then, news reports say noch nicht rechtskräftig, and the presumption of innocence (Unschuldsvermutung) applies. Rechtskräftig verurteilt means convicted with final effect. Die Rechtskraft is legal finality: in Rechtskraft erwachsen (to become final)."
+}

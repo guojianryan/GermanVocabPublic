@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kolumne",
+    "partOfSpeech": "noun, feminine (die Kolumne)",
+    "pronunciation": {
+      "respelling": "ko-LUM-ne",
+      "ipa": "koˈlʊmnə",
+      "notes": "Plural: die Kolumnen."
+    },
+    "meaning": "column (in a newspaper)",
+    "shortDefinition": "Column (in a newspaper)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kolumne, plural die Kolumnen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kolumne"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kolumnen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie schreibt eine wöchentliche Kolumne.",
+      "english": "She writes a weekly column.",
+      "highlight": [
+        "Kolumne."
+      ]
+    },
+    {
+      "german": "Ich lese seine Kolumne jeden Sonntag.",
+      "english": "I read his column every Sunday.",
+      "highlight": [
+        "Kolumne"
+      ]
+    }
+  ],
+  "forms": [
+    "Kolumnen",
+    "die Kolumnen",
+    "die Kolumne",
+    "Kolumnist"
+  ],
+  "memoryHook": "Kolumne: a regular opinion piece in a paper.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kolumne",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kolumne is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kolumne, zwei ___",
+      "answer": "Kolumnen",
+      "fullAnswer": "ein Kolumne, zwei Kolumnen",
+      "explanation": "The plural is Kolumnen.",
+      "acceptedAnswers": [
+        "Kolumnen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kolumne mean?",
+      "options": [
+        "column (in a newspaper)",
+        "to buy",
+        "the bill"
+      ],
+      "answer": "column (in a newspaper)",
+      "explanation": "Kolumne: column (in a newspaper).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kolumnist is…",
+      "options": [
+        "a columnist",
+        "a column"
+      ],
+      "answer": "a columnist",
+      "explanation": "Person.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A pillar or column in a building is…",
+      "options": [
+        "die Säule",
+        "die Kolumne"
+      ],
+      "answer": "die Säule",
+      "explanation": "Säule.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "A column of a table is…",
+      "options": [
+        "die Spalte",
+        "die Kolumne"
+      ],
+      "answer": "die Spalte",
+      "explanation": "Spalte.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kolumne is a newspaper or magazine column, a regular opinion piece by the same writer: eine Kolumne schreiben. Der Kolumnist (die Kolumnistin) writes it. Careful: a table column is die Spalte, and an architectural column is die Säule. Bastian Sick's Spiegel column Zwiebelfisch, about German grammar mistakes, became the bestseller Der Dativ ist dem Genitiv sein Tod. Plural: die Kolumnen."
+}

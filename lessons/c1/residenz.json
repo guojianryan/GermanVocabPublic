@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Residenz",
+    "partOfSpeech": "noun, feminine (die Residenz)",
+    "pronunciation": {
+      "respelling": "re-zi-DENTS",
+      "ipa": "ʁeziˈdɛnt͡s",
+      "notes": "Plural: die Residenzen."
+    },
+    "meaning": "residence (of a ruler); seat of a court",
+    "shortDefinition": "Residence (of a ruler); seat of a court."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Residenz, plural die Residenzen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Residenz"
+        },
+        {
+          "label": "More than one",
+          "value": "die Residenzen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Würzburger Residenz ist UNESCO-Welterbe.",
+      "english": "The Würzburg Residence is a UNESCO World Heritage site.",
+      "highlight": [
+        "Residenz"
+      ]
+    },
+    {
+      "german": "Der Botschafter empfing uns in seiner Residenz.",
+      "english": "The ambassador received us at his residence.",
+      "highlight": [
+        "Residenz."
+      ]
+    }
+  ],
+  "forms": [
+    "Residenzen",
+    "die Residenzen",
+    "die Residenz",
+    "residieren"
+  ],
+  "memoryHook": "Residenz: where a prince or ambassador resides.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Residenz",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Residenz is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Residenz, zwei ___",
+      "answer": "Residenzen",
+      "fullAnswer": "ein Residenz, zwei Residenzen",
+      "explanation": "The plural is Residenzen.",
+      "acceptedAnswers": [
+        "Residenzen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Residenz mean?",
+      "options": [
+        "residence (of a ruler)",
+        "expensive",
+        "the station"
+      ],
+      "answer": "residence (of a ruler)",
+      "explanation": "Residenz: residence (of a ruler); seat of a court.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Residenzstadt is…",
+      "options": [
+        "a city where a ruler held court",
+        "a suburb"
+      ],
+      "answer": "a city where a ruler held court",
+      "explanation": "Court city.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Famous Residenz in Munich:",
+      "options": [
+        "die Münchner Residenz",
+        "Schloss Neuschwanstein"
+      ],
+      "answer": "die Münchner Residenz",
+      "explanation": "Royal palace.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Residieren means…",
+      "options": [
+        "to reside (grandly)",
+        "to resign"
+      ],
+      "answer": "to reside (grandly)",
+      "explanation": "residieren.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Residenz is the residence of a ruler, a bishop or an ambassador, usually a palace: die Würzburger Residenz (a UNESCO World Heritage site with a famous staircase ceiling by Tiepolo), die Münchner Residenz of the Bavarian kings. Germany was once a patchwork of small states, so many towns are former Residenzstädte, with palaces and theatres to show for it. Residieren means to reside, often grandly. Plural: die Residenzen."
+}

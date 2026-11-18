@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Pärchen",
+    "partOfSpeech": "noun, neuter (das Pärchen)",
+    "pronunciation": {
+      "respelling": "PAIR-khen",
+      "ipa": "ˈpɛːɐ̯çən",
+      "notes": "Plural: die Pärchen."
+    },
+    "meaning": "couple (romantic)",
+    "shortDefinition": "Couple (romantic)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Pärchen, plural die Pärchen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Pärchen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Pärchen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Park saß ein verliebtes Pärchen.",
+      "english": "A couple in love was sitting in the park.",
+      "highlight": [
+        "Pärchen."
+      ]
+    },
+    {
+      "german": "Das Restaurant ist bei Pärchen beliebt.",
+      "english": "The restaurant is popular with couples.",
+      "highlight": [
+        "Pärchen"
+      ]
+    }
+  ],
+  "forms": [
+    "die Pärchen",
+    "das Pärchen"
+  ],
+  "memoryHook": "Pärchen: a little Paar in love.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Pärchen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Pärchen is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Pärchen, zwei ___",
+      "answer": "Pärchen",
+      "fullAnswer": "ein Pärchen, zwei Pärchen",
+      "explanation": "The plural is Pärchen.",
+      "acceptedAnswers": [
+        "Paerchen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Pärchen mean?",
+      "options": [
+        "the child",
+        "the bed",
+        "couple (romantic)"
+      ],
+      "answer": "couple (romantic)",
+      "explanation": "Pärchen: couple (romantic).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pärchen is a diminutive of…",
+      "options": [
+        "das Paar",
+        "der Park"
+      ],
+      "answer": "das Paar",
+      "explanation": "Paar + -chen.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "All -chen nouns are…",
+      "options": [
+        "neuter",
+        "feminine"
+      ],
+      "answer": "neuter",
+      "explanation": "das Pärchen.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein paar (small p) means…",
+      "options": [
+        "a few",
+        "a couple (romantic)"
+      ],
+      "answer": "a few",
+      "explanation": "Spelling.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Pärchen is a couple, usually a romantic one: ein junges Pärchen, Pärchenabend (couples' night). It's the diminutive of das Paar, with umlaut and -chen, so it's neuter. Watch the spelling: ein Paar (capital P) is a pair or couple, ein Paar Schuhe; ein paar (small p) means a few, ein paar Tage. Ein Ehepaar is a married couple. Plural unchanged: die Pärchen."
+}

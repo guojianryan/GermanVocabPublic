@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Dolch",
+    "partOfSpeech": "noun, masculine (der Dolch)",
+    "pronunciation": {
+      "respelling": "dolkh",
+      "ipa": "dɔlç",
+      "notes": "Plural: die Dolche."
+    },
+    "meaning": "dagger",
+    "shortDefinition": "Dagger."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Dolch, plural die Dolche.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Dolch"
+        },
+        {
+          "label": "More than one",
+          "value": "die Dolche"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Ritter trug einen Dolch am Gürtel.",
+      "english": "The knight wore a dagger on his belt.",
+      "highlight": [
+        "Dolch"
+      ]
+    },
+    {
+      "german": "Die Dolchstoßlegende vergiftete die Weimarer Republik.",
+      "english": "The stab-in-the-back myth poisoned the Weimar Republic.",
+      "highlight": [
+        "Dolchstoßlegende"
+      ]
+    }
+  ],
+  "forms": [
+    "Dolche",
+    "die Dolche",
+    "der Dolch",
+    "Dolchstoß"
+  ],
+  "memoryHook": "Dolch: a short stabbing blade.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Dolch",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Dolch is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Dolch, zwei ___",
+      "answer": "Dolche",
+      "fullAnswer": "ein Dolch, zwei Dolche",
+      "explanation": "The plural is Dolche.",
+      "acceptedAnswers": [
+        "Dolche"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Dolch mean?",
+      "options": [
+        "dagger",
+        "tomorrow",
+        "the evening"
+      ],
+      "answer": "dagger",
+      "explanation": "Dolch: dagger.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Dolchstoßlegende claimed…",
+      "options": [
+        "Germany's army was betrayed at home in WWI",
+        "a hero was stabbed"
+      ],
+      "answer": "Germany's army was betrayed at home in WWI",
+      "explanation": "Myth.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Dolchstoß is…",
+      "options": [
+        "a stab with a dagger; betrayal",
+        "a dolphin"
+      ],
+      "answer": "a stab with a dagger; betrayal",
+      "explanation": "Stab.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Dolche",
+        "die Dölche"
+      ],
+      "answer": "die Dolche",
+      "explanation": "-e.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Dolch is a dagger. In German history, die Dolchstoßlegende (stab-in-the-back myth) falsely claimed that the undefeated army had been betrayed by socialists and Jews at home in 1918; the Nazis exploited it to undermine the Weimar Republic. Der Dolchstoß is a stab in the back, betrayal. Schiller's ballad Die Bürgschaft begins with a man carrying a dagger. Plural: die Dolche."
+}

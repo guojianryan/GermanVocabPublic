@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Seide",
+    "partOfSpeech": "noun, feminine (die Seide)",
+    "pronunciation": {
+      "respelling": "ZAI-de",
+      "ipa": "ˈzaɪ̯də",
+      "notes": "Plural: die Seiden."
+    },
+    "meaning": "silk",
+    "shortDefinition": "Silk."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Seide, plural die Seiden.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Seide"
+        },
+        {
+          "label": "More than one",
+          "value": "die Seiden"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Kleid ist aus reiner Seide.",
+      "english": "The dress is made of pure silk.",
+      "highlight": [
+        "Seide."
+      ]
+    },
+    {
+      "german": "Sein Leben hing am seidenen Faden.",
+      "english": "His life hung by a thread.",
+      "highlight": [
+        "seidenen"
+      ]
+    }
+  ],
+  "forms": [
+    "Seiden",
+    "die Seide",
+    "seiden",
+    "Seidenstraße"
+  ],
+  "memoryHook": "Seide: fine fabric from silkworms.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Seide",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Seide is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Seide, zwei ___",
+      "answer": "Seiden",
+      "fullAnswer": "ein Seide, zwei Seiden",
+      "explanation": "The plural is Seiden.",
+      "acceptedAnswers": [
+        "Seiden"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Seide mean?",
+      "options": [
+        "never",
+        "silk",
+        "to sleep"
+      ],
+      "answer": "silk",
+      "explanation": "Seide: silk.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "An einem seidenen Faden hängen means…",
+      "options": [
+        "to hang by a thread",
+        "to be well dressed"
+      ],
+      "answer": "to hang by a thread",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Seiden (adj.) means…",
+      "options": [
+        "silken, made of silk",
+        "since"
+      ],
+      "answer": "silken, made of silk",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Silk Road is…",
+      "options": [
+        "die Seidenstraße",
+        "die Seidenbahn"
+      ],
+      "answer": "die Seidenstraße",
+      "explanation": "Silk Road.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Seide is silk: ein Seidentuch (silk scarf), reine Seide. The adjective is seiden (silken), and the idiom an einem seidenen Faden hängen means to hang by a thread. Krefeld was once Germany's Samt- und Seidenstadt (velvet and silk city). The term Seidenstraße (Silk Road) was coined in 1877 by the German geographer Ferdinand von Richthofen. Plural: die Seiden."
+}

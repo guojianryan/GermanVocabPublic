@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "strittig",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "SHTRI-tikh",
+      "ipa": "ˈʃtʁɪtɪç",
+      "notes": ""
+    },
+    "meaning": "disputed, contentious",
+    "shortDefinition": "Disputed, contentious."
+  },
+  "sampleSentences": [
+    {
+      "german": "Das ist ein strittiger Punkt.",
+      "english": "That's a contentious point.",
+      "highlight": [
+        "strittiger"
+      ]
+    },
+    {
+      "german": "Die Frage ist unter Experten strittig.",
+      "english": "The question is disputed among experts.",
+      "highlight": [
+        "strittig."
+      ]
+    }
+  ],
+  "forms": [
+    "strittige",
+    "strittigen",
+    "strittiger"
+  ],
+  "memoryHook": "Strittig: open to Streit (dispute).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does strittig mean?",
+      "options": [
+        "disputed",
+        "to open",
+        "the job"
+      ],
+      "answer": "disputed",
+      "explanation": "strittig: disputed, contentious.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Streit is…",
+      "options": [
+        "dispute, quarrel",
+        "street"
+      ],
+      "answer": "dispute, quarrel",
+      "explanation": "Root.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "umstritten, kontrovers",
+        "klar"
+      ],
+      "answer": "umstritten, kontrovers",
+      "explanation": "Synonym.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unstrittig means…",
+      "options": [
+        "undisputed",
+        "silent"
+      ],
+      "answer": "undisputed",
+      "explanation": "Opposite.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Entscheidung (disputed)",
+      "answer": "strittige",
+      "fullAnswer": "eine strittige Entscheidung",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Strittig means disputed or contentious: strittige Fragen, ein strittiger Elfmeter (a debatable penalty). Umstritten is a close synonym, often used for people and decisions: ein umstrittener Politiker. Unstrittig or unstreitig means undisputed. From der Streit (dispute) and streiten (to argue)."
+}

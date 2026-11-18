@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Witterung",
+    "partOfSpeech": "noun, feminine (die Witterung)",
+    "pronunciation": {
+      "respelling": "VI-te-rung",
+      "ipa": "ˈvɪtəʁʊŋ",
+      "notes": "Plural: die Witterungen."
+    },
+    "meaning": "weather conditions; scent (of animals)",
+    "shortDefinition": "Weather conditions; scent (of animals)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Witterung, plural die Witterungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Witterung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Witterungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bei jeder Witterung fährt er mit dem Rad.",
+      "english": "He cycles in all weathers.",
+      "highlight": [
+        "Witterung"
+      ]
+    },
+    {
+      "german": "Der Hund nahm Witterung auf.",
+      "english": "The dog picked up the scent.",
+      "highlight": [
+        "Witterung"
+      ]
+    }
+  ],
+  "forms": [
+    "Witterungen",
+    "die Witterung",
+    "witterungsbedingt",
+    "wittern"
+  ],
+  "memoryHook": "Witterung: weather conditions, or what an animal wittert (smells).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Witterung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Witterung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Witterung, zwei ___",
+      "answer": "Witterungen",
+      "fullAnswer": "ein Witterung, zwei Witterungen",
+      "explanation": "The plural is Witterungen.",
+      "acceptedAnswers": [
+        "Witterungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Witterung mean?",
+      "options": [
+        "weather conditions",
+        "to wait",
+        "the street"
+      ],
+      "answer": "weather conditions",
+      "explanation": "Witterung: weather conditions; scent (of animals).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Witterungsbedingt means…",
+      "options": [
+        "due to the weather",
+        "weatherproof"
+      ],
+      "answer": "due to the weather",
+      "explanation": "Weather.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Witterung aufnehmen means…",
+      "options": [
+        "to pick up a scent",
+        "to check the weather"
+      ],
+      "answer": "to pick up a scent",
+      "explanation": "Scent.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wittern means…",
+      "options": [
+        "to sense, scent",
+        "to wither"
+      ],
+      "answer": "to sense, scent",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Witterung is weather conditions over a period, a slightly technical word: bei jeder Witterung, witterungsbeständig (weatherproof), witterungsbedingte Verspätungen. In hunting, it's the scent an animal picks up: Witterung aufnehmen. The verb wittern means to scent or to sense: Gefahr wittern, eine Chance wittern. Everyday weather is das Wetter. Plural: die Witterungen."
+}

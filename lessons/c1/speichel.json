@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Speichel",
+    "partOfSpeech": "noun, masculine (der Speichel)",
+    "pronunciation": {
+      "respelling": "SHPAI-khel",
+      "ipa": "ˈʃpaɪ̯çl̩",
+      "notes": "Usually no plural."
+    },
+    "meaning": "saliva",
+    "shortDefinition": "Saliva."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Speichel, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Speichel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Speichel enthält Enzyme für die Verdauung.",
+      "english": "Saliva contains enzymes for digestion.",
+      "highlight": [
+        "Speichel"
+      ]
+    },
+    {
+      "german": "Für den Test genügt eine Speichelprobe.",
+      "english": "A saliva sample is enough for the test.",
+      "highlight": [
+        "Speichelprobe."
+      ]
+    }
+  ],
+  "forms": [
+    "der Speichel",
+    "Speichels"
+  ],
+  "memoryHook": "Speichel: the liquid in your mouth.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Speichel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Speichel is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Speichel mean?",
+      "options": [
+        "saliva",
+        "to learn",
+        "the door"
+      ],
+      "answer": "saliva",
+      "explanation": "Speichel: saliva.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Speichellecker is…",
+      "options": [
+        "a toady, bootlicker",
+        "a dentist"
+      ],
+      "answer": "a toady, bootlicker",
+      "explanation": "Insult.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Spucke (colloquial) is…",
+      "options": [
+        "spit",
+        "a spoon"
+      ],
+      "answer": "spit",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mir bleibt die Spucke weg means…",
+      "options": [
+        "I'm speechless",
+        "I'm thirsty"
+      ],
+      "answer": "I'm speechless",
+      "explanation": "Idiom.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Speichel is saliva: die Speicheldrüsen (salivary glands), eine Speichelprobe (saliva sample, used for DNA and some COVID tests). The colloquial word is die Spucke: Da bleibt mir die Spucke weg (I'm speechless). Der Speichellecker is an insult for a toady. It has no plural."
+}

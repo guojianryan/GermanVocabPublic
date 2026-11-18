@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ansinnen",
+    "partOfSpeech": "noun, neuter (das Ansinnen)",
+    "pronunciation": {
+      "respelling": "AN-zi-nen",
+      "ipa": "ˈanˌzɪnən",
+      "notes": "Plural: die Ansinnen."
+    },
+    "meaning": "(unreasonable) request, demand",
+    "shortDefinition": "(unreasonable) request, demand."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Ansinnen, plural die Ansinnen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Ansinnen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ansinnen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er wies das Ansinnen empört zurück.",
+      "english": "He indignantly rejected the request.",
+      "highlight": [
+        "Ansinnen"
+      ]
+    },
+    {
+      "german": "Das ist ein unverschämtes Ansinnen!",
+      "english": "That's an outrageous demand!",
+      "highlight": [
+        "Ansinnen!"
+      ]
+    }
+  ],
+  "forms": [
+    "das Ansinnen",
+    "Ansinnens"
+  ],
+  "memoryHook": "Ansinnen: what someone sinnt (has in mind) an (towards) you.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ansinnen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Ansinnen is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Ansinnen, zwei ___",
+      "answer": "Ansinnen",
+      "fullAnswer": "ein Ansinnen, zwei Ansinnen",
+      "explanation": "The plural is Ansinnen.",
+      "acceptedAnswers": [
+        "Ansinnen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ansinnen mean?",
+      "options": [
+        "the evening",
+        "to open",
+        "(unreasonable) request"
+      ],
+      "answer": "(unreasonable) request",
+      "explanation": "Ansinnen: (unreasonable) request, demand.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Ansinnen often sounds…",
+      "options": [
+        "unreasonable or presumptuous",
+        "very polite"
+      ],
+      "answer": "unreasonable or presumptuous",
+      "explanation": "Tone.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal, slightly old-fashioned",
+        "slang"
+      ],
+      "answer": "formal, slightly old-fashioned",
+      "explanation": "Register.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Zumutung, das Anliegen",
+        "die Antwort"
+      ],
+      "answer": "die Zumutung, das Anliegen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Ansinnen is a request or demand, often unreasonable or presumptuous: ein seltsames, unverschämtes Ansinnen, ein Ansinnen zurückweisen. It's formal and slightly old-fashioned. Neutral synonyms: die Bitte, das Anliegen (concern, request); for an unreasonable demand: die Zumutung. It comes from an old verb ansinnen (to expect of someone). The plural is the same."
+}

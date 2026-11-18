@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kontingent",
+    "partOfSpeech": "noun, neuter (das Kontingent)",
+    "pronunciation": {
+      "respelling": "kon-ting-GENT",
+      "ipa": "kɔntɪŋˈɡɛnt",
+      "notes": "Plural: die Kontingente."
+    },
+    "meaning": "quota, allocation",
+    "shortDefinition": "Quota, allocation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Kontingent, plural die Kontingente.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Kontingent"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kontingente"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Kontingent an Tickets ist ausgeschöpft.",
+      "english": "The ticket allocation is used up.",
+      "highlight": [
+        "Kontingent"
+      ]
+    },
+    {
+      "german": "Die Länder vereinbarten Kontingente für die Aufnahme von Flüchtlingen.",
+      "english": "The states agreed quotas for taking in refugees.",
+      "highlight": [
+        "Kontingente"
+      ]
+    }
+  ],
+  "forms": [
+    "Kontingente",
+    "das Kontingent"
+  ],
+  "memoryHook": "Kontingent: the share that touches (contingere) you.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kontingent",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Kontingent is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kontingent, zwei ___",
+      "answer": "Kontingente",
+      "fullAnswer": "ein Kontingent, zwei Kontingente",
+      "explanation": "The plural is Kontingente.",
+      "acceptedAnswers": [
+        "Kontingente"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kontingent mean?",
+      "options": [
+        "quota",
+        "the evening",
+        "the flower"
+      ],
+      "answer": "quota",
+      "explanation": "Kontingent: quota, allocation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Kontingent is…",
+      "options": [
+        "a quota or share",
+        "a continent"
+      ],
+      "answer": "a quota or share",
+      "explanation": "Quota.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kontingentieren means…",
+      "options": [
+        "to impose quotas, ration",
+        "to continue"
+      ],
+      "answer": "to impose quotas, ration",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Military Kontingent means…",
+      "options": [
+        "contingent (troops)",
+        "contract"
+      ],
+      "answer": "contingent (troops)",
+      "explanation": "Military.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Kontingent is a quota or allocation: ein Kontingent an Zimmern, Impfstoffkontingente, Einfuhrkontingente (import quotas). It also means a military contingent: das deutsche Kontingent der UN-Mission. Kontingentieren means to impose quotas. Germany's Kontingentflüchtlinge were refugees admitted in fixed numbers, such as Jewish immigrants from the former Soviet Union after 1991. Plural: die Kontingente."
+}

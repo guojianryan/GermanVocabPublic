@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "massieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ma-SEE-ren",
+      "ipa": "maˈsiːʁən",
+      "notes": ""
+    },
+    "meaning": "to massage",
+    "shortDefinition": "To massage."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "massier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "massier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "massier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "massier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "massier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "massier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat massiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie massiert ihm den Nacken.",
+      "english": "She massages his neck.",
+      "highlight": [
+        "massiert"
+      ]
+    },
+    {
+      "german": "Der Physiotherapeut hat meinen Rücken massiert.",
+      "english": "The physiotherapist massaged my back.",
+      "highlight": [
+        "massiert."
+      ]
+    }
+  ],
+  "forms": [
+    "massiere",
+    "massierst",
+    "massiert",
+    "massieren",
+    "Massage",
+    "Masseur"
+  ],
+  "memoryHook": "Massieren: give a Massage.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (massieren)",
+      "answer": "massiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: massiert.",
+      "acceptedAnswers": [
+        "massiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (massieren, past)",
+      "answer": "massiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe massiert.",
+      "acceptedAnswers": [
+        "massiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does massieren mean?",
+      "options": [
+        "to massage",
+        "slowly",
+        "always"
+      ],
+      "answer": "to massage",
+      "explanation": "massieren: to massage.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Massage is…",
+      "options": [
+        "massage",
+        "message"
+      ],
+      "answer": "massage",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Masseur is…",
+      "options": [
+        "masseur, massage therapist",
+        "a mass"
+      ],
+      "answer": "masseur, massage therapist",
+      "explanation": "Person.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Massiert (adj.) can also mean…",
+      "options": [
+        "concentrated, in large numbers",
+        "messy"
+      ],
+      "answer": "concentrated, in large numbers",
+      "explanation": "Other.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Massieren means to massage: den Rücken, die Füße massieren. Die Massage is a massage, and der Masseur (die Masseurin) a massage therapist, a recognised training occupation in Germany. Doctors can prescribe massages (Massagen auf Rezept) as Heilmittel covered by health insurance. Massiert also means concentrated: massierte Angriffe. Perfect without ge-: hat massiert."
+}

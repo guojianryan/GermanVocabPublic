@@ -1,0 +1,155 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Erzbischof",
+    "partOfSpeech": "noun, masculine (der Erzbischof)",
+    "pronunciation": {
+      "respelling": "ERTS-bi-shof",
+      "ipa": "ˈɛʁt͡sˌbɪʃɔf",
+      "notes": "Plural: die Erzbischöfe."
+    },
+    "meaning": "archbishop",
+    "shortDefinition": "Archbishop."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "Erz",
+        "meaning": "arch-, chief"
+      },
+      {
+        "part": "Bischof",
+        "meaning": "bishop"
+      }
+    ],
+    "literalMeaning": "arch-bishop"
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Erzbischof, plural die Erzbischöfe.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Erzbischof"
+        },
+        {
+          "label": "More than one",
+          "value": "die Erzbischöfe"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Erzbischof von Köln predigte im Dom.",
+      "english": "The Archbishop of Cologne preached in the cathedral.",
+      "highlight": [
+        "Erzbischof"
+      ]
+    },
+    {
+      "german": "Die Erzbischöfe trafen sich zur Konferenz.",
+      "english": "The archbishops met for the conference.",
+      "highlight": [
+        "Erzbischöfe"
+      ]
+    }
+  ],
+  "forms": [
+    "Erzbischöfe",
+    "die Erzbischöfe",
+    "der Erzbischof",
+    "Erzbistum"
+  ],
+  "memoryHook": "Erzbischof: the bishop with a 'super-' prefix.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Erzbischof",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Erzbischof is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Erzbischof, zwei ___",
+      "answer": "Erzbischöfe",
+      "fullAnswer": "ein Erzbischof, zwei Erzbischöfe",
+      "explanation": "The plural is Erzbischöfe.",
+      "acceptedAnswers": [
+        "Erzbischoefe"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Erzbischof mean?",
+      "options": [
+        "to buy",
+        "the window",
+        "archbishop"
+      ],
+      "answer": "archbishop",
+      "explanation": "Erzbischof: archbishop.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Erzbischöfe",
+        "Erzbischofe"
+      ],
+      "answer": "Erzbischöfe",
+      "explanation": "Umlaut.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Erz- as a prefix means…",
+      "options": [
+        "arch-, chief",
+        "ore"
+      ],
+      "answer": "arch-, chief",
+      "explanation": "Also Erzfeind.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Erzfeind is…",
+      "options": [
+        "an arch-enemy",
+        "an ore miner"
+      ],
+      "answer": "an arch-enemy",
+      "explanation": "Prefix.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Bischof is…",
+      "options": [
+        "a bishop",
+        "a fisherman"
+      ],
+      "answer": "a bishop",
+      "explanation": "Base word.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Der Erzbischof is an archbishop, the head of an Erzbistum (archdiocese) such as Köln, München und Freising or Salzburg. The prefix Erz- means arch- and also appears in der Erzfeind (arch-enemy) and der Erzengel (archangel). Germany has seven Erzbistümer. The Cologne cathedral, Kölner Dom, is the seat of the Archbishop of Cologne. Das Erz, by itself, means ore."
+}

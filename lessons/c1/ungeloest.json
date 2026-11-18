@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ungelöst",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "UN-ge-löst",
+      "ipa": "ˈʊnɡəˌløːst",
+      "notes": ""
+    },
+    "meaning": "unsolved, unresolved",
+    "shortDefinition": "Unsolved, unresolved."
+  },
+  "sampleSentences": [
+    {
+      "german": "Der Mordfall ist bis heute ungelöst.",
+      "english": "The murder case remains unsolved to this day.",
+      "highlight": [
+        "ungelöst."
+      ]
+    },
+    {
+      "german": "Viele Probleme bleiben ungelöst.",
+      "english": "Many problems remain unresolved.",
+      "highlight": [
+        "ungelöst."
+      ]
+    }
+  ],
+  "forms": [
+    "ungelöste",
+    "ungelösten"
+  ],
+  "memoryHook": "Ungelöst: not (un) gelöst (solved).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does ungelöst mean?",
+      "options": [
+        "the car",
+        "the weather",
+        "unsolved"
+      ],
+      "answer": "unsolved",
+      "explanation": "ungelöst: unsolved, unresolved.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Lösen means…",
+      "options": [
+        "to solve; to dissolve; to loosen",
+        "to lose"
+      ],
+      "answer": "to solve; to dissolve; to loosen",
+      "explanation": "Root.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Cold Case is…",
+      "options": [
+        "an unsolved old case",
+        "a cold drink"
+      ],
+      "answer": "an unsolved old case",
+      "explanation": "Related.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "offen, unerledigt",
+        "erledigt"
+      ],
+      "answer": "offen, unerledigt",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ Fragen (unresolved)",
+      "answer": "ungelöste",
+      "fullAnswer": "ungelöste Fragen",
+      "explanation": "Plural -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Ungelöst means unsolved or unresolved: ein ungelöstes Rätsel, ungelöste Konflikte, ein ungelöster Kriminalfall. TV shows like Aktenzeichen XY ... ungelöst, running since 1967, ask viewers for tips on unsolved crimes and have helped solve many. Lösen means to solve, also to dissolve or loosen. Synonyms: offen, ungeklärt."
+}

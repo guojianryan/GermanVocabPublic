@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zeitrahmen",
+    "partOfSpeech": "noun, masculine (der Zeitrahmen)",
+    "pronunciation": {
+      "respelling": "TSAIT-raa-men",
+      "ipa": "ˈt͡saɪ̯tˌʁaːmən",
+      "notes": "Plural: die Zeitrahmen."
+    },
+    "meaning": "time frame",
+    "shortDefinition": "Time frame."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Zeitrahmen, plural die Zeitrahmen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Zeitrahmen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Zeitrahmen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Zeitrahmen für das Projekt ist sehr knapp.",
+      "english": "The time frame for the project is very tight.",
+      "highlight": [
+        "Zeitrahmen"
+      ]
+    },
+    {
+      "german": "Wir müssen im Zeitrahmen bleiben.",
+      "english": "We have to stay within the time frame.",
+      "highlight": [
+        "Zeitrahmen"
+      ]
+    }
+  ],
+  "forms": [
+    "der Zeitrahmen",
+    "Zeitrahmens"
+  ],
+  "memoryHook": "Zeitrahmen: a Rahmen (frame) of Zeit.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zeitrahmen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Zeitrahmen is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Zeitrahmen, zwei ___",
+      "answer": "Zeitrahmen",
+      "fullAnswer": "ein Zeitrahmen, zwei Zeitrahmen",
+      "explanation": "The plural is Zeitrahmen.",
+      "acceptedAnswers": [
+        "Zeitrahmen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zeitrahmen mean?",
+      "options": [
+        "time frame",
+        "always",
+        "cheap"
+      ],
+      "answer": "time frame",
+      "explanation": "Zeitrahmen: time frame.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Zeitplan, die Frist",
+        "die Uhr"
+      ],
+      "answer": "der Zeitplan, die Frist",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Rahmen is…",
+      "options": [
+        "frame, framework",
+        "a cream"
+      ],
+      "answer": "frame, framework",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Rahmen sprengen means…",
+      "options": [
+        "to go beyond the scope",
+        "to break a picture"
+      ],
+      "answer": "to go beyond the scope",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Zeitrahmen is a time frame: ein enger, realistischer Zeitrahmen, im Zeitrahmen bleiben. Synonyms: der Zeitplan (schedule), die Frist (deadline). Der Rahmen means frame or framework: im Rahmen des Möglichen (within the bounds of possibility), aus dem Rahmen fallen (to be out of the ordinary), den Rahmen sprengen (to go beyond the scope). The plural is the same."
+}

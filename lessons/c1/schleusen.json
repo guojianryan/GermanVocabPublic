@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "schleusen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHLOI-zen",
+      "ipa": "ˈʃlɔɪ̯zn̩",
+      "notes": ""
+    },
+    "meaning": "to smuggle (people); to guide through",
+    "shortDefinition": "To smuggle (people); to guide through."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schleus|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schleus|t"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schleus|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schleus|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schleus|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schleus|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geschleust"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Bande schleuste Migranten über die Grenze.",
+      "english": "The gang smuggled migrants across the border.",
+      "highlight": [
+        "schleuste"
+      ]
+    },
+    {
+      "german": "Das Schiff wird durch den Kanal geschleust.",
+      "english": "The ship is guided through the canal lock.",
+      "highlight": [
+        "geschleust."
+      ]
+    }
+  ],
+  "forms": [
+    "schleuse",
+    "schleust",
+    "schleusen",
+    "geschleust",
+    "Schleuse",
+    "Schleuser"
+  ],
+  "memoryHook": "Schleusen: pass through a Schleuse (lock), legally or not.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (schleusen)",
+      "answer": "schleust",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schleust.",
+      "acceptedAnswers": [
+        "schleust"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (schleusen, past)",
+      "answer": "geschleust",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geschleust.",
+      "acceptedAnswers": [
+        "geschleust"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does schleusen mean?",
+      "options": [
+        "to smuggle (people)",
+        "to help",
+        "slowly"
+      ],
+      "answer": "to smuggle (people)",
+      "explanation": "schleusen: to smuggle (people); to guide through.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schleuse is…",
+      "options": [
+        "lock (canal); sluice",
+        "a slide"
+      ],
+      "answer": "lock (canal); sluice",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schleuser is…",
+      "options": [
+        "people smuggler",
+        "lock keeper only"
+      ],
+      "answer": "people smuggler",
+      "explanation": "Smuggler.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Kiel Canal is…",
+      "options": [
+        "one of the world's busiest artificial waterways",
+        "a river"
+      ],
+      "answer": "one of the world's busiest artificial waterways",
+      "explanation": "Kiel.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Schleusen means to pass a ship through a canal lock (die Schleuse) and, much more often in the news, to smuggle people across borders: Migranten über die Grenze schleusen. Der Schleuser is a people smuggler (also Schlepper), and die Schleuserbande a smuggling gang. Germany's Kiel Canal, with large locks at each end, is one of the world's busiest artificial waterways. Regular: schleuste, geschleust."
+}

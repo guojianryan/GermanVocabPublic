@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "punkten",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "PUNK-ten",
+      "ipa": "ˈpʊŋktn̩",
+      "notes": ""
+    },
+    "meaning": "to score (points), win points",
+    "shortDefinition": "To score (points), win points."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "punkt|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "punkt|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "punkt|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "punkt|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "punkt|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "punkt|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gepunktet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Mannschaft konnte auswärts punkten.",
+      "english": "The team managed to pick up points away from home.",
+      "highlight": [
+        "punkten."
+      ]
+    },
+    {
+      "german": "Mit dieser Idee kannst du beim Chef punkten.",
+      "english": "You can score points with the boss with this idea.",
+      "highlight": [
+        "punkten."
+      ]
+    }
+  ],
+  "forms": [
+    "punkte",
+    "punktest",
+    "punktet",
+    "punkten",
+    "gepunktet"
+  ],
+  "memoryHook": "Punkten: collect a Punkt, win people over.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (punkten)",
+      "answer": "punktet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: punktet.",
+      "acceptedAnswers": [
+        "punktet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (punkten, past)",
+      "answer": "gepunktet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gepunktet.",
+      "acceptedAnswers": [
+        "gepunktet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does punkten mean?",
+      "options": [
+        "the window",
+        "tomorrow",
+        "to score (points)"
+      ],
+      "answer": "to score (points)",
+      "explanation": "punkten: to score (points), win points.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bei jemandem punkten means…",
+      "options": [
+        "to impress someone",
+        "to argue with someone"
+      ],
+      "answer": "to impress someone",
+      "explanation": "To score points with.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "From…",
+      "options": [
+        "der Punkt",
+        "die Pünktlichkeit"
+      ],
+      "answer": "der Punkt",
+      "explanation": "Punkt = point.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Typical context:",
+      "options": [
+        "sport and politics",
+        "cooking"
+      ],
+      "answer": "sport and politics",
+      "explanation": "Punkten im Wahlkampf.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Punkten means to score points, in sport (Die Mannschaft punktete dreifach) and figuratively: bei den Wählern punkten (to win over voters), mit Charme punkten. It's a favourite verb of sports reporters and political journalists. From der Punkt (point, dot). In German football, a win gives drei Punkte and a draw einen Punkt. Related: punktgenau (spot on), and pünktlich, which shares the root."
+}

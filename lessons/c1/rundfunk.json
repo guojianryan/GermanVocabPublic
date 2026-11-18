@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rundfunk",
+    "partOfSpeech": "noun, masculine (der Rundfunk)",
+    "pronunciation": {
+      "respelling": "RUNT-funk",
+      "ipa": "ˈʁʊntˌfʊŋk",
+      "notes": "Usually no plural."
+    },
+    "meaning": "broadcasting (radio and TV)",
+    "shortDefinition": "Broadcasting (radio and TV)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Rundfunk, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Rundfunk"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der öffentlich-rechtliche Rundfunk wird durch Beiträge finanziert.",
+      "english": "Public broadcasting is funded by fees.",
+      "highlight": [
+        "Rundfunk"
+      ]
+    },
+    {
+      "german": "Er arbeitet beim Bayerischen Rundfunk.",
+      "english": "He works for Bavarian Broadcasting.",
+      "highlight": [
+        "Rundfunk."
+      ]
+    }
+  ],
+  "forms": [
+    "der Rundfunk",
+    "Rundfunkbeitrag"
+  ],
+  "memoryHook": "Rundfunk: sparks (Funken) sent all around (rund).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rundfunk",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Rundfunk is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rundfunk mean?",
+      "options": [
+        "broadcasting (radio and TV)",
+        "to sing",
+        "to help"
+      ],
+      "answer": "broadcasting (radio and TV)",
+      "explanation": "Rundfunk: broadcasting (radio and TV).",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Rundfunkbeitrag is…",
+      "options": [
+        "the broadcasting fee every household pays",
+        "a radio advert"
+      ],
+      "answer": "the broadcasting fee every household pays",
+      "explanation": "Licence fee.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Literally:",
+      "options": [
+        "round spark",
+        "round sound"
+      ],
+      "answer": "round spark",
+      "explanation": "Funk = spark.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Funk alone means…",
+      "options": [
+        "radio (transmission)",
+        "music style only"
+      ],
+      "answer": "radio (transmission)",
+      "explanation": "Funk = radio.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Rundfunk is broadcasting, radio and television together. Germany's öffentlich-rechtlicher Rundfunk (public broadcasting) includes ARD, ZDF and Deutschlandradio, and regional broadcasters like the Bayerischer Rundfunk and WDR. Every household pays the Rundfunkbeitrag, about 18 euros a month, whether or not it owns a TV. Literally, Rundfunk means sparks sent all around, from early radio transmitters."
+}

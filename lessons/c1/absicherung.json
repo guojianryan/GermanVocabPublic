@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Absicherung",
+    "partOfSpeech": "noun, feminine (die Absicherung)",
+    "pronunciation": {
+      "respelling": "AP-zi-khe-rung",
+      "ipa": "ˈapˌzɪçəʁʊŋ",
+      "notes": "Plural: die Absicherungen."
+    },
+    "meaning": "protection, safeguard, cover",
+    "shortDefinition": "Protection, safeguard, cover."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Absicherung, plural die Absicherungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Absicherung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Absicherungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Versicherung dient der finanziellen Absicherung.",
+      "english": "The insurance serves as financial protection.",
+      "highlight": [
+        "Absicherung."
+      ]
+    },
+    {
+      "german": "Zur Absicherung habe ich eine Kopie gemacht.",
+      "english": "As a safeguard I made a copy.",
+      "highlight": [
+        "Absicherung"
+      ]
+    }
+  ],
+  "forms": [
+    "Absicherungen",
+    "die Absicherungen",
+    "die Absicherung",
+    "absichern"
+  ],
+  "memoryHook": "Absicherung: making something sicher (safe).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Absicherung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Absicherung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Absicherung, zwei ___",
+      "answer": "Absicherungen",
+      "fullAnswer": "ein Absicherung, zwei Absicherungen",
+      "explanation": "The plural is Absicherungen.",
+      "acceptedAnswers": [
+        "Absicherungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Absicherung mean?",
+      "options": [
+        "protection",
+        "the bed",
+        "the shop"
+      ],
+      "answer": "protection",
+      "explanation": "Absicherung: protection, safeguard, cover.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Absichern means…",
+      "options": [
+        "to secure, protect",
+        "to intend"
+      ],
+      "answer": "to secure, protect",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die soziale Absicherung is…",
+      "options": [
+        "social security protection",
+        "a safety lock"
+      ],
+      "answer": "social security protection",
+      "explanation": "Social.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich absichern means…",
+      "options": [
+        "to cover oneself",
+        "to sit down"
+      ],
+      "answer": "to cover oneself",
+      "explanation": "Reflexive.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Absicherung is protection or a safeguard: die finanzielle Absicherung der Familie, die soziale Absicherung (social security cover), die Absicherung einer Unfallstelle (securing an accident site). Germans are famously insurance-minded and often hold many policies, like Haftpflicht (liability) and Berufsunfähigkeit (disability). Sich absichern means to cover oneself: Ich will mich rechtlich absichern. Plural: die Absicherungen."
+}

@@ -1,0 +1,192 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "einstufen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AIN-shtoo-fen",
+      "ipa": "ˈaɪ̯nˌʃtuːfn̩",
+      "notes": ""
+    },
+    "meaning": "to classify, to rate, to grade",
+    "shortDefinition": "To classify, to rate, to grade."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "ein",
+        "meaning": "in, into"
+      },
+      {
+        "part": "stufen",
+        "meaning": "to grade, to step",
+        "note": "From die Stufe, step or level."
+      }
+    ],
+    "literalMeaning": "to put into a level"
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "stuf|e … |ein"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "stuf|st … |ein"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "stuf|t … |ein"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "stuf|en … |ein"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "stuf|t … |ein"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "stuf|en … |ein"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat eingestuft"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Amt stuft das Gebiet als Risikogebiet ein.",
+      "english": "The agency classifies the area as a risk zone.",
+      "highlight": [
+        "stuft"
+      ]
+    },
+    {
+      "german": "Sie wurde in den höchsten Kurs eingestuft.",
+      "english": "She was placed in the highest course.",
+      "highlight": [
+        "eingestuft."
+      ]
+    }
+  ],
+  "forms": [
+    "stufe ein",
+    "stufst ein",
+    "stuft ein",
+    "stufen ein",
+    "eingestuft",
+    "stufte ein",
+    "Einstufung",
+    "Stufe"
+  ],
+  "memoryHook": "Einstufen: assign someone a Stufe.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ein (einstufen)",
+      "answer": "stuft",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: stuft … ein.",
+      "acceptedAnswers": [
+        "stuft"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (einstufen, past)",
+      "answer": "eingestuft",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe eingestuft.",
+      "acceptedAnswers": [
+        "eingestuft"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does einstufen mean?",
+      "options": [
+        "to buy",
+        "the station",
+        "to classify"
+      ],
+      "answer": "to classify",
+      "explanation": "einstufen: to classify, to rate, to grade.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eingestuft als means…",
+      "options": [
+        "classified as",
+        "stepped on"
+      ],
+      "answer": "classified as",
+      "explanation": "Als + noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Stufe is…",
+      "options": [
+        "a step, level",
+        "a stove"
+      ],
+      "answer": "a step, level",
+      "explanation": "Level.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Einstufung is…",
+      "options": [
+        "the classification or placement",
+        "a loan"
+      ],
+      "answer": "the classification or placement",
+      "explanation": "Noun.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einen Einstufungstest machen means…",
+      "options": [
+        "to take a placement test",
+        "to climb stairs"
+      ],
+      "answer": "to take a placement test",
+      "explanation": "Language schools.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Einstufen means to classify or place on a scale, and it takes als: Das Gericht stufte die Tat als Notwehr ein. Language schools use an Einstufungstest (placement test) to decide which Stufe (level) you join. The noun die Einstufung is common in administration: die Einstufung in eine Pflegestufe. It's a separable verb built from ein plus stufen: stuft … ein. Die Stufe means step, level."
+}

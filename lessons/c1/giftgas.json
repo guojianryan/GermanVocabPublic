@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Giftgas",
+    "partOfSpeech": "noun, neuter (das Giftgas)",
+    "pronunciation": {
+      "respelling": "GIFT-gaas",
+      "ipa": "ˈɡɪftˌɡaːs",
+      "notes": "Plural: die Giftgase."
+    },
+    "meaning": "poison gas",
+    "shortDefinition": "Poison gas."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Giftgas, plural die Giftgase.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Giftgas"
+        },
+        {
+          "label": "More than one",
+          "value": "die Giftgase"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Ersten Weltkrieg wurde Giftgas eingesetzt.",
+      "english": "Poison gas was used in the First World War.",
+      "highlight": [
+        "Giftgas"
+      ]
+    },
+    {
+      "german": "Der Einsatz von Giftgas ist völkerrechtlich verboten.",
+      "english": "The use of poison gas is banned under international law.",
+      "highlight": [
+        "Giftgas"
+      ]
+    }
+  ],
+  "forms": [
+    "Giftgase",
+    "das Giftgas"
+  ],
+  "memoryHook": "Giftgas: Gas that is Gift (poison).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Giftgas",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Giftgas is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Giftgas, zwei ___",
+      "answer": "Giftgase",
+      "fullAnswer": "ein Giftgas, zwei Giftgase",
+      "explanation": "The plural is Giftgase.",
+      "acceptedAnswers": [
+        "Giftgase"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Giftgas mean?",
+      "options": [
+        "hot",
+        "poison gas",
+        "the bill"
+      ],
+      "answer": "poison gas",
+      "explanation": "Giftgas: poison gas.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "German chemist behind chlorine gas in 1915:",
+      "options": [
+        "Fritz Haber",
+        "Robert Koch"
+      ],
+      "answer": "Fritz Haber",
+      "explanation": "Haber.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Chemiewaffen are…",
+      "options": [
+        "chemical weapons",
+        "chemistry kits"
+      ],
+      "answer": "chemical weapons",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The international ban treaty (1993):",
+      "options": [
+        "the Chemical Weapons Convention",
+        "the Geneva Accord on trade"
+      ],
+      "answer": "the Chemical Weapons Convention",
+      "explanation": "Treaty.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Giftgas is poison gas. In April 1915, German troops released chlorine gas near Ypres, organised by the chemist Fritz Haber, who also won the 1918 Nobel Prize for ammonia synthesis. His wife Clara Immerwahr, also a chemist, took her own life shortly after. The 1993 Chemical Weapons Convention bans chemical weapons. Plural: die Giftgase."
+}

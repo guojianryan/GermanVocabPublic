@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rute",
+    "partOfSpeech": "noun, feminine (die Rute)",
+    "pronunciation": {
+      "respelling": "ROO-te",
+      "ipa": "ˈʁuːtə",
+      "notes": "Plural: die Ruten."
+    },
+    "meaning": "rod, switch; fishing rod",
+    "shortDefinition": "Rod, switch; fishing rod."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Rute, plural die Ruten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Rute"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ruten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er warf die Rute ins Wasser aus.",
+      "english": "He cast the rod into the water.",
+      "highlight": [
+        "Rute"
+      ]
+    },
+    {
+      "german": "Knecht Ruprecht trägt eine Rute.",
+      "english": "Knecht Ruprecht carries a switch.",
+      "highlight": [
+        "Rute."
+      ]
+    }
+  ],
+  "forms": [
+    "Ruten",
+    "die Rute"
+  ],
+  "memoryHook": "Rute: a thin rod or switch (related to English rood).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rute",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Rute is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Rute, zwei ___",
+      "answer": "Ruten",
+      "fullAnswer": "ein Rute, zwei Ruten",
+      "explanation": "The plural is Ruten.",
+      "acceptedAnswers": [
+        "Ruten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rute mean?",
+      "options": [
+        "to sleep",
+        "rod",
+        "the shop"
+      ],
+      "answer": "rod",
+      "explanation": "Rute: rod, switch; fishing rod.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Angelrute is…",
+      "options": [
+        "fishing rod",
+        "a fishing net"
+      ],
+      "answer": "fishing rod",
+      "explanation": "Compound.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Wünschelrute is…",
+      "options": [
+        "divining rod",
+        "a magic wand"
+      ],
+      "answer": "divining rod",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Knecht Ruprecht is…",
+      "options": [
+        "St Nicholas's dark companion",
+        "a farmer"
+      ],
+      "answer": "St Nicholas's dark companion",
+      "explanation": "Tradition.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Rute is a thin rod or switch: die Angelrute (fishing rod), die Wünschelrute (divining rod). In tradition, Knecht Ruprecht or Krampus, the companion of St Nicholas, carries a Rute for naughty children. Hunters also call a dog's or fox's tail die Rute. It was once a unit of length. Plural: die Ruten."
+}

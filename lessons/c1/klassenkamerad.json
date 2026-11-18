@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Klassenkamerad",
+    "partOfSpeech": "noun, masculine (der Klassenkamerad)",
+    "pronunciation": {
+      "respelling": "KLA-sen-ka-me-raat",
+      "ipa": "ˈklasn̩kaməˌʁaːt",
+      "notes": "Plural: die Klassenkameraden."
+    },
+    "meaning": "classmate",
+    "shortDefinition": "Classmate."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Klassenkamerad, plural die Klassenkameraden.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Klassenkamerad"
+        },
+        {
+          "label": "More than one",
+          "value": "die Klassenkameraden"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich habe einen alten Klassenkameraden getroffen.",
+      "english": "I met an old classmate.",
+      "highlight": [
+        "Klassenkameraden"
+      ]
+    },
+    {
+      "german": "Die Klassenkameraden halfen ihr nach dem Unfall.",
+      "english": "Her classmates helped her after the accident.",
+      "highlight": [
+        "Klassenkameraden"
+      ]
+    }
+  ],
+  "forms": [
+    "Klassenkameraden",
+    "Klassenkameradin",
+    "der Klassenkamerad"
+  ],
+  "memoryHook": "Klassenkamerad: a Kamerad (comrade) in your Klasse.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Klassenkamerad",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Klassenkamerad is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Klassenkamerad, zwei ___",
+      "answer": "Klassenkameraden",
+      "fullAnswer": "ein Klassenkamerad, zwei Klassenkameraden",
+      "explanation": "The plural is Klassenkameraden.",
+      "acceptedAnswers": [
+        "Klassenkameraden"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Klassenkamerad mean?",
+      "options": [
+        "the shop",
+        "never",
+        "classmate"
+      ],
+      "answer": "classmate",
+      "explanation": "Klassenkamerad: classmate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kamerad is a weak noun, so…",
+      "options": [
+        "den Klassenkameraden (accusative)",
+        "den Klassenkamerad"
+      ],
+      "answer": "den Klassenkameraden (accusative)",
+      "explanation": "Weak noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Klassenkameradin",
+        "die Klassenkamerade"
+      ],
+      "answer": "die Klassenkameradin",
+      "explanation": "Female.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Mitschüler is…",
+      "options": [
+        "fellow pupil",
+        "teacher"
+      ],
+      "answer": "fellow pupil",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Klassenkamerad is a classmate, female die Klassenkameradin. Kamerad is a weak noun, so it takes -en in all forms except the nominative singular: den, dem, des Klassenkameraden. Common synonyms: der Mitschüler, die Mitschülerin. Class reunions are das Klassentreffen. Plural: die Klassenkameraden."
+}

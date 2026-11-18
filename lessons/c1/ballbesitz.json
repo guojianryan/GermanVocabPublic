@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ballbesitz",
+    "partOfSpeech": "noun, masculine (der Ballbesitz)",
+    "pronunciation": {
+      "respelling": "BAL-be-zits",
+      "ipa": "ˈbalbəˌzɪt͡s",
+      "notes": "Usually no plural."
+    },
+    "meaning": "possession (of the ball)",
+    "shortDefinition": "Possession (of the ball)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Ballbesitz, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Ballbesitz"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Mannschaft hatte 70 Prozent Ballbesitz.",
+      "english": "The team had 70 percent possession.",
+      "highlight": [
+        "Ballbesitz."
+      ]
+    },
+    {
+      "german": "Trotz mehr Ballbesitz verloren sie das Spiel.",
+      "english": "Despite more possession, they lost the game.",
+      "highlight": [
+        "Ballbesitz"
+      ]
+    }
+  ],
+  "forms": [
+    "der Ballbesitz"
+  ],
+  "memoryHook": "Ballbesitz: Besitz (possession) of the Ball.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ballbesitz",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Ballbesitz is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ballbesitz mean?",
+      "options": [
+        "the family",
+        "tomorrow",
+        "possession (of the ball)"
+      ],
+      "answer": "possession (of the ball)",
+      "explanation": "Ballbesitz: possession (of the ball).",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Besitz is…",
+      "options": [
+        "possession, property",
+        "a visit"
+      ],
+      "answer": "possession, property",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ballbesitzfußball is associated with…",
+      "options": [
+        "tiki-taka style",
+        "long balls"
+      ],
+      "answer": "tiki-taka style",
+      "explanation": "Football.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Ball verlieren means…",
+      "options": [
+        "to lose possession",
+        "to lose a match"
+      ],
+      "answer": "to lose possession",
+      "explanation": "Related.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Ballbesitz is possession in ball sports, especially football: mehr Ballbesitz haben, 60 Prozent Ballbesitz. Possession-based football (Ballbesitzfußball) became famous through Barcelona's tiki-taka and Pep Guardiola's Bayern Munich. Der Besitz means possession or property, and besitzen to own. Its counterpart is das Umschaltspiel (transition play). It has no plural."
+}

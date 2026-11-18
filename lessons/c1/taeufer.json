@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Täufer",
+    "partOfSpeech": "noun, masculine (der Täufer)",
+    "pronunciation": {
+      "respelling": "TOY-fer",
+      "ipa": "ˈtɔɪ̯fɐ",
+      "notes": "Plural: die Täufer."
+    },
+    "meaning": "baptist; Anabaptist",
+    "shortDefinition": "Baptist; Anabaptist."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Täufer, plural die Täufer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Täufer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Täufer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Johannes der Täufer taufte Jesus im Jordan.",
+      "english": "John the Baptist baptised Jesus in the Jordan.",
+      "highlight": [
+        "Täufer"
+      ]
+    },
+    {
+      "german": "Die Täufer herrschten 1534 in Münster.",
+      "english": "The Anabaptists ruled Münster in 1534.",
+      "highlight": [
+        "Täufer"
+      ]
+    }
+  ],
+  "forms": [
+    "der Täufer",
+    "Täufers"
+  ],
+  "memoryHook": "Täufer: someone who tauft (baptises).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Täufer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Täufer is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Täufer, zwei ___",
+      "answer": "Täufer",
+      "fullAnswer": "ein Täufer, zwei Täufer",
+      "explanation": "The plural is Täufer.",
+      "acceptedAnswers": [
+        "Taeufer"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Täufer mean?",
+      "options": [
+        "the bill",
+        "tomorrow",
+        "baptist"
+      ],
+      "answer": "baptist",
+      "explanation": "Täufer: baptist; Anabaptist.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Taufen means…",
+      "options": [
+        "to baptise; to christen (a ship)",
+        "to dive"
+      ],
+      "answer": "to baptise; to christen (a ship)",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Münster Anabaptists' bodies were displayed…",
+      "options": [
+        "in iron cages on St Lamberti's tower",
+        "in a museum"
+      ],
+      "answer": "in iron cages on St Lamberti's tower",
+      "explanation": "History.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Taufe is…",
+      "options": [
+        "baptism, christening",
+        "a dove"
+      ],
+      "answer": "baptism, christening",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Täufer is a baptist: Johannes der Täufer (John the Baptist). In history, die Täufer were the radical Anabaptists of the Reformation, who rejected infant baptism; in 1534–35 they set up a short-lived kingdom in Münster, and the leaders' bodies were displayed in iron cages that still hang on the tower of St Lamberti. Mennonites and Amish descend from this movement. The plural is the same."
+}

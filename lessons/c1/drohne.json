@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Drohne",
+    "partOfSpeech": "noun, feminine (die Drohne)",
+    "pronunciation": {
+      "respelling": "DROH-ne",
+      "ipa": "ˈdʁoːnə",
+      "notes": "Plural: die Drohnen."
+    },
+    "meaning": "drone",
+    "shortDefinition": "Drone."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Drohne, plural die Drohnen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Drohne"
+        },
+        {
+          "label": "More than one",
+          "value": "die Drohnen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Polizei setzt Drohnen ein.",
+      "english": "The police use drones.",
+      "highlight": [
+        "Drohnen"
+      ]
+    },
+    {
+      "german": "Drohnen sind männliche Bienen.",
+      "english": "Drones are male bees.",
+      "highlight": [
+        "Drohnen"
+      ]
+    }
+  ],
+  "forms": [
+    "Drohnen",
+    "die Drohnen",
+    "die Drohne"
+  ],
+  "memoryHook": "Drohne: a buzzing male bee, then a buzzing machine.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Drohne",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Drohne is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Drohne, zwei ___",
+      "answer": "Drohnen",
+      "fullAnswer": "ein Drohne, zwei Drohnen",
+      "explanation": "The plural is Drohnen.",
+      "acceptedAnswers": [
+        "Drohnen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Drohne mean?",
+      "options": [
+        "the bed",
+        "the shop",
+        "drone"
+      ],
+      "answer": "drone",
+      "explanation": "Drohne: drone.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Originally, eine Drohne is…",
+      "options": [
+        "a male bee",
+        "a toy"
+      ],
+      "answer": "a male bee",
+      "explanation": "Bee.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Flying a drone in Germany may need…",
+      "options": [
+        "registration and a licence (Drohnenführerschein)",
+        "nothing at all"
+      ],
+      "answer": "registration and a licence (Drohnenführerschein)",
+      "explanation": "Rules.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "die Drohne",
+        "der Drohne"
+      ],
+      "answer": "die Drohne",
+      "explanation": "Feminine.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Drohne is a drone, the unmanned aircraft: eine Drohne fliegen. Originally, Drohnen are male honeybees, which don't work or gather honey, so figuratively a Drohne was also a lazy person. In Germany, flying most drones requires registration and, above 250 grams, a drone licence, the EU-Kompetenznachweis, and there are no-fly zones around airports and over crowds. Plural: die Drohnen."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sitte",
+    "partOfSpeech": "noun, feminine (die Sitte)",
+    "pronunciation": {
+      "respelling": "ZI-te",
+      "ipa": "ˈzɪtə",
+      "notes": "Plural: die Sitten."
+    },
+    "meaning": "custom; (pl.) morals, manners",
+    "shortDefinition": "Custom; (pl.) morals, manners."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Sitte, plural die Sitten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Sitte"
+        },
+        {
+          "label": "More than one",
+          "value": "die Sitten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Andere Länder, andere Sitten.",
+      "english": "When in Rome, do as the Romans do.",
+      "highlight": [
+        "Sitten."
+      ]
+    },
+    {
+      "german": "Das ist hier so Sitte.",
+      "english": "That's the custom here.",
+      "highlight": [
+        "Sitte."
+      ]
+    }
+  ],
+  "forms": [
+    "Sitten",
+    "die Sitten",
+    "die Sitte",
+    "sittenwidrig"
+  ],
+  "memoryHook": "Sitte: what's customary, or what's moral.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sitte",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Sitte is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Sitte, zwei ___",
+      "answer": "Sitten",
+      "fullAnswer": "ein Sitte, zwei Sitten",
+      "explanation": "The plural is Sitten.",
+      "acceptedAnswers": [
+        "Sitten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sitte mean?",
+      "options": [
+        "tomorrow",
+        "to sing",
+        "custom"
+      ],
+      "answer": "custom",
+      "explanation": "Sitte: custom; (pl.) morals, manners.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Andere Länder, andere Sitten means…",
+      "options": [
+        "different countries, different customs",
+        "different laws"
+      ],
+      "answer": "different countries, different customs",
+      "explanation": "Proverb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sitten und Gebräuche are…",
+      "options": [
+        "customs and traditions",
+        "sitting places"
+      ],
+      "answer": "customs and traditions",
+      "explanation": "Customs.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sittenwidrig (law) means…",
+      "options": [
+        "contrary to public policy, immoral",
+        "rude"
+      ],
+      "answer": "contrary to public policy, immoral",
+      "explanation": "Law.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Sitte is a custom: Das ist hier so Sitte, and the proverb Andere Länder, andere Sitten (other countries, other customs). In the plural, Sitten also means morals or manners: Was sind denn das für Sitten? (what kind of behaviour is that?). In law, a sittenwidrig contract (contrary to public morals) is void. Die Sitte was also the old name for the vice squad. Plural: die Sitten."
+}

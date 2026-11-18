@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Löwenzahn",
+    "partOfSpeech": "noun, masculine (der Löwenzahn)",
+    "pronunciation": {
+      "respelling": "LÖ-ven-tsaan",
+      "ipa": "ˈløːvn̩ˌt͡saːn",
+      "notes": "Usually no plural."
+    },
+    "meaning": "dandelion",
+    "shortDefinition": "Dandelion."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Löwenzahn, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Löwenzahn"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Auf der Wiese blüht der Löwenzahn.",
+      "english": "Dandelions are blooming in the meadow.",
+      "highlight": [
+        "Löwenzahn."
+      ]
+    },
+    {
+      "german": "Kinder pusten gern die Samen der Pusteblume weg.",
+      "english": "Children like blowing away dandelion seeds.",
+      "highlight": [
+        "Pusteblume"
+      ]
+    }
+  ],
+  "forms": [
+    "der Löwenzahn",
+    "Löwenzahns"
+  ],
+  "memoryHook": "Löwenzahn: leaves jagged like a Löwe's Zahn (lion's tooth).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Löwenzahn",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Löwenzahn is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Löwenzahn mean?",
+      "options": [
+        "to learn",
+        "the window",
+        "dandelion"
+      ],
+      "answer": "dandelion",
+      "explanation": "Löwenzahn: dandelion.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Pusteblume is…",
+      "options": [
+        "a dandelion clock (seed head)",
+        "a tulip"
+      ],
+      "answer": "a dandelion clock (seed head)",
+      "explanation": "Seed head.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Löwenzahn literally means…",
+      "options": [
+        "lion's tooth",
+        "lion's tail"
+      ],
+      "answer": "lion's tooth",
+      "explanation": "Literal.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Löwenzahn is also…",
+      "options": [
+        "a children's TV science show",
+        "a beer brand"
+      ],
+      "answer": "a children's TV science show",
+      "explanation": "TV.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Löwenzahn is the dandelion, named for its jagged leaves like a lion's teeth (as in French dent-de-lion). Its fluffy seed head is die Pusteblume (blow flower). Young leaves are eaten in salads, and rabbits love them. Löwenzahn is also a long-running ZDF children's science show, first hosted by Peter Lustig from 1981. Its plural is rare."
+}

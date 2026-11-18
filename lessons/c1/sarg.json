@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sarg",
+    "partOfSpeech": "noun, masculine (der Sarg)",
+    "pronunciation": {
+      "respelling": "zark",
+      "ipa": "zaʁk",
+      "notes": "Plural: die Särge."
+    },
+    "meaning": "coffin",
+    "shortDefinition": "Coffin."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Sarg, plural die Särge.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Sarg"
+        },
+        {
+          "label": "More than one",
+          "value": "die Särge"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Sarg wurde in die Kirche getragen.",
+      "english": "The coffin was carried into the church.",
+      "highlight": [
+        "Sarg"
+      ]
+    },
+    {
+      "german": "Das ist ein Nagel zu seinem Sarg.",
+      "english": "That's a nail in his coffin.",
+      "highlight": [
+        "Sarg."
+      ]
+    }
+  ],
+  "forms": [
+    "Särge",
+    "die Särge",
+    "der Sarg"
+  ],
+  "memoryHook": "Sarg: a coffin, from Greek sarkophagos.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sarg",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Sarg is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Sarg, zwei ___",
+      "answer": "Särge",
+      "fullAnswer": "ein Sarg, zwei Särge",
+      "explanation": "The plural is Särge.",
+      "acceptedAnswers": [
+        "Saerge"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sarg mean?",
+      "options": [
+        "coffin",
+        "to help",
+        "the child"
+      ],
+      "answer": "coffin",
+      "explanation": "Sarg: coffin.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Särge",
+        "die Sarge"
+      ],
+      "answer": "die Särge",
+      "explanation": "Umlaut.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Nagel zum Sarg means…",
+      "options": [
+        "a nail in the coffin",
+        "a nail for a box"
+      ],
+      "answer": "a nail in the coffin",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Urne is…",
+      "options": [
+        "an urn (for ashes)",
+        "a ballot only"
+      ],
+      "answer": "an urn (for ashes)",
+      "explanation": "Urn.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Sarg is a coffin. In Germany, there's a strict Friedhofszwang (burial compulsion): remains generally must be buried in a cemetery, either in a Sarg or as ashes in an Urne; scattering ashes at home is mostly not allowed, though some states have relaxed this. Cremation is now more common than coffin burial. Idiom: ein Nagel zu jemandes Sarg (a nail in someone's coffin). From Greek sarkophagos. Plural: die Särge."
+}

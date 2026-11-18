@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vorschein",
+    "partOfSpeech": "noun, masculine (der Vorschein)",
+    "pronunciation": {
+      "respelling": "FOR-shain",
+      "ipa": "ˈfoːɐ̯ˌʃaɪ̯n",
+      "notes": "Usually no plural."
+    },
+    "meaning": "(zum Vorschein kommen) appearance",
+    "shortDefinition": "(zum Vorschein kommen) appearance."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Vorschein, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Vorschein"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Unter der Farbe kam ein altes Bild zum Vorschein.",
+      "english": "An old painting came to light under the paint.",
+      "highlight": [
+        "Vorschein."
+      ]
+    },
+    {
+      "german": "Bei der Prüfung kamen Fehler zum Vorschein.",
+      "english": "Errors came to light during the audit.",
+      "highlight": [
+        "Vorschein."
+      ]
+    }
+  ],
+  "forms": [
+    "zum Vorschein"
+  ],
+  "memoryHook": "Vorschein: shining (Schein) forth (vor).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vorschein",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Vorschein is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vorschein mean?",
+      "options": [
+        "to travel",
+        "the street",
+        "(zum Vorschein kommen) appearance"
+      ],
+      "answer": "(zum Vorschein kommen) appearance",
+      "explanation": "Vorschein: (zum Vorschein kommen) appearance.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zum Vorschein kommen means…",
+      "options": [
+        "to come to light, appear",
+        "to shine forward"
+      ],
+      "answer": "to come to light, appear",
+      "explanation": "Appear.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zum Vorschein bringen means…",
+      "options": [
+        "to bring out, reveal",
+        "to light up"
+      ],
+      "answer": "to bring out, reveal",
+      "explanation": "Reveal.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vorschein is used…",
+      "options": [
+        "only in these set phrases",
+        "freely"
+      ],
+      "answer": "only in these set phrases",
+      "explanation": "Fixed.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Vorschein is used only in zum Vorschein kommen (to come to light, appear) and zum Vorschein bringen (to bring out, reveal): Beim Aufräumen kamen alte Fotos zum Vorschein. Synonyms: auftauchen, sichtbar werden, ans Licht kommen. Der Schein means glow, appearance or certificate. It has no plural."
+}

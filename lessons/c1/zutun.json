@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zutun",
+    "partOfSpeech": "noun, neuter (das Zutun)",
+    "pronunciation": {
+      "respelling": "TSOO-toon",
+      "ipa": "ˈt͡suːˌtuːn",
+      "notes": "Usually no plural."
+    },
+    "meaning": "doing, involvement",
+    "shortDefinition": "Doing, involvement."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Zutun, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Zutun"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das geschah ohne mein Zutun.",
+      "english": "That happened without any involvement on my part.",
+      "highlight": [
+        "Zutun."
+      ]
+    },
+    {
+      "german": "Ohne sein Zutun wäre das Projekt gescheitert.",
+      "english": "Without his help the project would have failed.",
+      "highlight": [
+        "Zutun"
+      ]
+    }
+  ],
+  "forms": [
+    "das Zutun"
+  ],
+  "memoryHook": "Zutun: adding (tun) your bit to (zu) it.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zutun",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Zutun is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zutun mean?",
+      "options": [
+        "slowly",
+        "hot",
+        "doing"
+      ],
+      "answer": "doing",
+      "explanation": "Zutun: doing, involvement.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ohne mein Zutun means…",
+      "options": [
+        "without my doing anything",
+        "without my permission"
+      ],
+      "answer": "without my doing anything",
+      "explanation": "Involvement.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zutun is used mostly in…",
+      "options": [
+        "ohne jemandes Zutun",
+        "every context"
+      ],
+      "answer": "ohne jemandes Zutun",
+      "explanation": "Phrase.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zutun has…",
+      "options": [
+        "no plural",
+        "the plural Zutune"
+      ],
+      "answer": "no plural",
+      "explanation": "Uncountable.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Zutun means someone's doing or involvement, used almost only in ohne jemandes Zutun: ohne mein Zutun (without my doing anything), ohne eigenes Zutun (through no fault or effort of one's own). Durch sein Zutun means through his help or action. It's a nominalised infinitive of zutun (to add), and colloquially, kein Auge zutun means not to sleep a wink. It has no plural."
+}

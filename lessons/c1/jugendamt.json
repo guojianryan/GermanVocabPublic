@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Jugendamt",
+    "partOfSpeech": "noun, neuter (das Jugendamt)",
+    "pronunciation": {
+      "respelling": "YOO-gent-amt",
+      "ipa": "ˈjuːɡn̩tˌʔamt",
+      "notes": "Plural: die Jugendämter."
+    },
+    "meaning": "youth welfare office",
+    "shortDefinition": "Youth welfare office."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Jugendamt, plural die Jugendämter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Jugendamt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Jugendämter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Jugendamt hat das Kind in Obhut genommen.",
+      "english": "The youth welfare office took the child into care.",
+      "highlight": [
+        "Jugendamt"
+      ]
+    },
+    {
+      "german": "Nach der Trennung half das Jugendamt bei der Sorgerechtsfrage.",
+      "english": "After the separation, the youth office helped with the custody question.",
+      "highlight": [
+        "Jugendamt"
+      ]
+    }
+  ],
+  "forms": [
+    "Jugendämter",
+    "die Jugendämter",
+    "das Jugendamt"
+  ],
+  "memoryHook": "Jugendamt: the Amt (office) for children and youth (Jugend).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Jugendamt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Jugendamt is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Jugendamt, zwei ___",
+      "answer": "Jugendämter",
+      "fullAnswer": "ein Jugendamt, zwei Jugendämter",
+      "explanation": "The plural is Jugendämter.",
+      "acceptedAnswers": [
+        "Jugendaemter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Jugendamt mean?",
+      "options": [
+        "the window",
+        "youth welfare office",
+        "slowly"
+      ],
+      "answer": "youth welfare office",
+      "explanation": "Jugendamt: youth welfare office.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Jugendamt is responsible for…",
+      "options": [
+        "child and family welfare",
+        "youth hostels"
+      ],
+      "answer": "child and family welfare",
+      "explanation": "Welfare.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Obhut nehmen means…",
+      "options": [
+        "to take into protective care",
+        "to fire someone"
+      ],
+      "answer": "to take into protective care",
+      "explanation": "Care.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Sorgerecht is…",
+      "options": [
+        "custody",
+        "a worry"
+      ],
+      "answer": "custody",
+      "explanation": "Custody.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Jugendamt is the local youth welfare office, responsible for child protection, support for families, foster care and help in custody (Sorgerecht) and child maintenance matters. It can take children into protective care (in Obhut nehmen) if they're at risk. Parents can also ask it for advice. Every city and district has one, and most Germans first meet it about Kita places or Unterhaltsvorschuss. Plural: die Jugendämter."
+}

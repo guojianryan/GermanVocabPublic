@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "parteilos",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "par-TAI-lohs",
+      "ipa": "paʁˈtaɪ̯loːs",
+      "notes": ""
+    },
+    "meaning": "independent, non-party",
+    "shortDefinition": "Independent, non-party."
+  },
+  "sampleSentences": [
+    {
+      "german": "Der neue Bürgermeister ist parteilos.",
+      "english": "The new mayor is an independent.",
+      "highlight": [
+        "parteilos."
+      ]
+    },
+    {
+      "german": "Sie trat als parteilose Kandidatin an.",
+      "english": "She stood as an independent candidate.",
+      "highlight": [
+        "parteilose"
+      ]
+    }
+  ],
+  "forms": [
+    "parteilose",
+    "parteilosen",
+    "parteiloser",
+    "Parteilose"
+  ],
+  "memoryHook": "Parteilos: without (los) a Partei.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does parteilos mean?",
+      "options": [
+        "the window",
+        "independent",
+        "to wait"
+      ],
+      "answer": "independent",
+      "explanation": "parteilos: independent, non-party.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Parteilos means…",
+      "options": [
+        "not a member of any party",
+        "impartial"
+      ],
+      "answer": "not a member of any party",
+      "explanation": "Meaning.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unparteiisch means…",
+      "options": [
+        "impartial, neutral",
+        "partyless"
+      ],
+      "answer": "impartial, neutral",
+      "explanation": "Contrast.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Unparteiische (football) is…",
+      "options": [
+        "the referee",
+        "an independent politician"
+      ],
+      "answer": "the referee",
+      "explanation": "Football.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein ___ Minister (non-party)",
+      "answer": "parteiloser",
+      "fullAnswer": "ein parteiloser Minister",
+      "explanation": "Masculine -er.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Parteilos means not belonging to any party: ein parteiloser Bürgermeister, parteilose Experten in the cabinet. Many mayors of small towns are parteilos. Don't confuse it with unparteiisch (impartial): der Unparteiische is a football referee. Der/die Parteilose (declined like an adjective) is an independent politician."
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "kompatibel",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "kom-pa-TEE-bel",
+      "ipa": "kɔmpaˈtiːbl̩",
+      "notes": ""
+    },
+    "meaning": "compatible",
+    "shortDefinition": "Compatible."
+  },
+  "sampleSentences": [
+    {
+      "german": "Das Ladegerät ist nicht mit meinem Handy kompatibel.",
+      "english": "The charger isn't compatible with my phone.",
+      "highlight": [
+        "kompatibel."
+      ]
+    },
+    {
+      "german": "Sind Familie und Karriere kompatibel?",
+      "english": "Are family and career compatible?",
+      "highlight": [
+        "kompatibel?"
+      ]
+    }
+  ],
+  "forms": [
+    "kompatible",
+    "kompatiblen",
+    "Kompatibilität"
+  ],
+  "memoryHook": "Kompatibel: able to work together.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does kompatibel mean?",
+      "options": [
+        "compatible",
+        "to buy",
+        "the evening"
+      ],
+      "answer": "compatible",
+      "explanation": "kompatibel: compatible.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "With endings, kompatibel becomes…",
+      "options": [
+        "kompatible (drops e)",
+        "kompatibele"
+      ],
+      "answer": "kompatible (drops e)",
+      "explanation": "Drops e.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kompatibilität is…",
+      "options": [
+        "compatibility",
+        "competition"
+      ],
+      "answer": "compatibility",
+      "explanation": "Noun.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vereinbar means…",
+      "options": [
+        "compatible (German synonym)",
+        "agreed"
+      ],
+      "answer": "compatible (German synonym)",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ Geräte (compatible)",
+      "answer": "kompatible",
+      "fullAnswer": "kompatible Geräte",
+      "explanation": "Drops e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Kompatibel means compatible, mostly technically: kompatible Software, abwärtskompatibel (backward compatible). The EU made USB-C the standard charger for phones from the end of 2024, ending many Kompatibilität problems. Like flexibel, it drops its e with endings: kompatible Geräte. The native synonym, especially for ideas, is vereinbar: Beruf und Familie vereinbaren."
+}

@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Arbeitsrecht",
+    "partOfSpeech": "noun, neuter (das Arbeitsrecht)",
+    "pronunciation": {
+      "respelling": "AR-baits-rekht",
+      "ipa": "ˈaʁbaɪ̯t͡sˌʁɛçt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "employment law, labour law",
+    "shortDefinition": "Employment law, labour law."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Arbeitsrecht, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Arbeitsrecht"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie ist Fachanwältin für Arbeitsrecht.",
+      "english": "She's a specialist lawyer in employment law.",
+      "highlight": [
+        "Arbeitsrecht."
+      ]
+    },
+    {
+      "german": "Nach deutschem Arbeitsrecht ist das nicht erlaubt.",
+      "english": "That's not allowed under German employment law.",
+      "highlight": [
+        "Arbeitsrecht"
+      ]
+    }
+  ],
+  "forms": [
+    "das Arbeitsrecht",
+    "arbeitsrechtlich"
+  ],
+  "memoryHook": "Arbeitsrecht: the Recht (law) of Arbeit (work).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Arbeitsrecht",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Arbeitsrecht is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Arbeitsrecht mean?",
+      "options": [
+        "the evening",
+        "employment law",
+        "the bill"
+      ],
+      "answer": "employment law",
+      "explanation": "Arbeitsrecht: employment law, labour law.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Arbeitsgericht is…",
+      "options": [
+        "the employment tribunal",
+        "a work canteen"
+      ],
+      "answer": "the employment tribunal",
+      "explanation": "Court.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kündigungsschutz is…",
+      "options": [
+        "protection against dismissal",
+        "a firing notice"
+      ],
+      "answer": "protection against dismissal",
+      "explanation": "Protection.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Probezeit is…",
+      "options": [
+        "probation period",
+        "a sample"
+      ],
+      "answer": "probation period",
+      "explanation": "Probation.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Arbeitsrecht is employment law. German law gives employees strong protection: Kündigungsschutz (protection against unfair dismissal) after six months in firms with over ten employees, statutory minimum holidays, sick pay for six weeks, and works councils. Disputes go to the Arbeitsgericht (employment court). Typical contracts start with a Probezeit (probation) of up to six months. It has no plural."
+}

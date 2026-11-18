@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vormundschaft",
+    "partOfSpeech": "noun, feminine (die Vormundschaft)",
+    "pronunciation": {
+      "respelling": "FOHR-munt-shaft",
+      "ipa": "ˈfoːɐ̯mʊntʃaft",
+      "notes": "Plural: die Vormundschaften."
+    },
+    "meaning": "guardianship",
+    "shortDefinition": "Guardianship."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Vormundschaft, plural die Vormundschaften.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Vormundschaft"
+        },
+        {
+          "label": "More than one",
+          "value": "die Vormundschaften"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Jugendamt übernahm die Vormundschaft für das Kind.",
+      "english": "The youth welfare office took over guardianship of the child.",
+      "highlight": [
+        "Vormundschaft"
+      ]
+    },
+    {
+      "german": "Die Vormundschaft für Erwachsene wurde 1992 abgeschafft.",
+      "english": "Guardianship for adults was abolished in 1992.",
+      "highlight": [
+        "Vormundschaft"
+      ]
+    }
+  ],
+  "forms": [
+    "Vormundschaften",
+    "die Vormundschaft"
+  ],
+  "memoryHook": "Vormundschaft: the role of the Vormund (protector, mouth-piece).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vormundschaft",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Vormundschaft is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Vormundschaft, zwei ___",
+      "answer": "Vormundschaften",
+      "fullAnswer": "ein Vormundschaft, zwei Vormundschaften",
+      "explanation": "The plural is Vormundschaften.",
+      "acceptedAnswers": [
+        "Vormundschaften"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vormundschaft mean?",
+      "options": [
+        "the bed",
+        "guardianship",
+        "the door"
+      ],
+      "answer": "guardianship",
+      "explanation": "Vormundschaft: guardianship.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Vormund is…",
+      "options": [
+        "legal guardian",
+        "a spokesperson"
+      ],
+      "answer": "legal guardian",
+      "explanation": "Person.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "For adults today, the term is…",
+      "options": [
+        "die rechtliche Betreuung",
+        "die Vormundschaft"
+      ],
+      "answer": "die rechtliche Betreuung",
+      "explanation": "Adults.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bevormunden means…",
+      "options": [
+        "to patronise",
+        "to guard"
+      ],
+      "answer": "to patronise",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Vormundschaft is legal guardianship of a minor whose parents can't care for them, often held by the Jugendamt. For adults, Germany replaced guardianship in 1992 with die rechtliche Betreuung, which preserves more self-determination. Der Vormund is the guardian; Mund here once meant protection, not mouth. Bevormunden means to patronise. Plural: die Vormundschaften."
+}

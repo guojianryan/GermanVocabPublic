@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "einstecken",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AIN-shte-ken",
+      "ipa": "ˈaɪ̯nˌʃtɛkn̩",
+      "notes": ""
+    },
+    "meaning": "to pocket; to plug in; to take (criticism)",
+    "shortDefinition": "To pocket; to plug in; to take (criticism)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "steck|e … |ein"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "steck|st … |ein"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "steck|t … |ein"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "steck|en … |ein"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "steck|t … |ein"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "steck|en … |ein"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat eingesteckt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Hast du den Schlüssel eingesteckt?",
+      "english": "Have you got the key with you?",
+      "highlight": [
+        "eingesteckt?"
+      ]
+    },
+    {
+      "german": "Der Boxer musste viel einstecken.",
+      "english": "The boxer had to take a lot of punishment.",
+      "highlight": [
+        "einstecken."
+      ]
+    }
+  ],
+  "forms": [
+    "stecke ein",
+    "steckst ein",
+    "steckt ein",
+    "stecken ein",
+    "eingesteckt",
+    "steckte ein"
+  ],
+  "memoryHook": "Einstecken: stick (stecken) something in (ein).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ein (einstecken)",
+      "answer": "steckt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: steckt … ein.",
+      "acceptedAnswers": [
+        "steckt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (einstecken, past)",
+      "answer": "eingesteckt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe eingesteckt.",
+      "acceptedAnswers": [
+        "eingesteckt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does einstecken mean?",
+      "options": [
+        "the street",
+        "to buy",
+        "to pocket"
+      ],
+      "answer": "to pocket",
+      "explanation": "einstecken: to pocket; to plug in; to take (criticism).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einstecken müssen (figurative) means…",
+      "options": [
+        "to have to take (blows, criticism)",
+        "to have to pay"
+      ],
+      "answer": "to have to take (blows, criticism)",
+      "explanation": "Take.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Stecker einstecken means…",
+      "options": [
+        "to plug in",
+        "to unplug"
+      ],
+      "answer": "to plug in",
+      "explanation": "Plug.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden in die Tasche stecken means…",
+      "options": [
+        "to outdo someone easily",
+        "to rob someone"
+      ],
+      "answer": "to outdo someone easily",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Einstecken means to put something in one's pocket (Geld, Schlüssel einstecken), to plug in (das Ladekabel einstecken) and to post a letter. Figuratively, it means to take punches, criticism or a defeat: Er kann austeilen, aber nicht einstecken (he can dish it out but can't take it). It can also mean to pocket money dishonestly. Separable: steckte ein, eingesteckt."
+}

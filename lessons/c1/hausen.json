@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "hausen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "HAU-zen",
+      "ipa": "ˈhaʊ̯zn̩",
+      "notes": ""
+    },
+    "meaning": "to live (in poor conditions); to wreak havoc",
+    "shortDefinition": "To live (in poor conditions); to wreak havoc."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "haus|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "haus|t"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "haus|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "haus|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "haus|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "haus|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gehaust"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie hausen in einer winzigen Wohnung.",
+      "english": "They're living in a tiny flat.",
+      "highlight": [
+        "hausen"
+      ]
+    },
+    {
+      "german": "Der Sturm hat schlimm gehaust.",
+      "english": "The storm wreaked havoc.",
+      "highlight": [
+        "gehaust."
+      ]
+    }
+  ],
+  "forms": [
+    "hause",
+    "haust",
+    "hausen",
+    "gehaust"
+  ],
+  "memoryHook": "Hausen: to make your Haus wherever you can.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (hausen)",
+      "answer": "haust",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: haust.",
+      "acceptedAnswers": [
+        "haust"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (hausen, past)",
+      "answer": "gehaust",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gehaust.",
+      "acceptedAnswers": [
+        "gehaust"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does hausen mean?",
+      "options": [
+        "to learn",
+        "to live (in poor conditions)",
+        "the car"
+      ],
+      "answer": "to live (in poor conditions)",
+      "explanation": "hausen: to live (in poor conditions); to wreak havoc.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hausen suggests…",
+      "options": [
+        "living in poor or cramped conditions",
+        "luxury living"
+      ],
+      "answer": "living in poor or cramped conditions",
+      "explanation": "Poor conditions.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schlimm hausen means…",
+      "options": [
+        "to wreak havoc",
+        "to live well"
+      ],
+      "answer": "to wreak havoc",
+      "explanation": "Havoc.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wohnen means…",
+      "options": [
+        "to live, reside (neutral)",
+        "to work"
+      ],
+      "answer": "to live, reside (neutral)",
+      "explanation": "Neutral.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Hausen means to live somewhere, usually in poor or cramped conditions: in einer Baracke hausen. The neutral word is wohnen. It also means to wreak havoc: Die Einbrecher haben in der Wohnung gehaust wie die Vandalen. In Austria and Bavaria, hausen can also mean to keep house thriftily. From das Haus. Regular: hauste, gehaust."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rechtsstreit",
+    "partOfSpeech": "noun, masculine (der Rechtsstreit)",
+    "pronunciation": {
+      "respelling": "REKHTS-shtrait",
+      "ipa": "ˈʁɛçt͡sˌʃtʁaɪ̯t",
+      "notes": "Plural: die Rechtsstreite."
+    },
+    "meaning": "lawsuit, legal dispute",
+    "shortDefinition": "Lawsuit, legal dispute."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Rechtsstreit, plural die Rechtsstreite.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Rechtsstreit"
+        },
+        {
+          "label": "More than one",
+          "value": "die Rechtsstreite"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Rechtsstreit dauerte fünf Jahre.",
+      "english": "The legal dispute lasted five years.",
+      "highlight": [
+        "Rechtsstreit"
+      ]
+    },
+    {
+      "german": "Die Firmen haben ihren Rechtsstreit beigelegt.",
+      "english": "The companies have settled their legal dispute.",
+      "highlight": [
+        "Rechtsstreit"
+      ]
+    }
+  ],
+  "forms": [
+    "Rechtsstreite",
+    "die Rechtsstreite",
+    "der Rechtsstreit"
+  ],
+  "memoryHook": "Rechtsstreit: a Streit (dispute) fought with Recht (law).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rechtsstreit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Rechtsstreit is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Rechtsstreit, zwei ___",
+      "answer": "Rechtsstreite",
+      "fullAnswer": "ein Rechtsstreit, zwei Rechtsstreite",
+      "explanation": "The plural is Rechtsstreite.",
+      "acceptedAnswers": [
+        "Rechtsstreite"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rechtsstreit mean?",
+      "options": [
+        "the car",
+        "the shop",
+        "lawsuit"
+      ],
+      "answer": "lawsuit",
+      "explanation": "Rechtsstreit: lawsuit, legal dispute.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einen Rechtsstreit beilegen means…",
+      "options": [
+        "to settle a legal dispute",
+        "to start a lawsuit"
+      ],
+      "answer": "to settle a legal dispute",
+      "explanation": "Settle.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Streit is…",
+      "options": [
+        "dispute, quarrel",
+        "a street"
+      ],
+      "answer": "dispute, quarrel",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Rechtsschutzversicherung covers…",
+      "options": [
+        "legal costs",
+        "theft"
+      ],
+      "answer": "legal costs",
+      "explanation": "Insurance.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Rechtsstreit is a legal dispute or lawsuit: einen Rechtsstreit führen, gewinnen, beilegen (settle). Germans are said to be fond of litigation, and many have Rechtsschutzversicherung (legal costs insurance); neighbour disputes over hedges and noise (Nachbarschaftsstreit) are a classic. The losing party usually pays the legal costs. Der Streit means dispute. Plural: die Rechtsstreite or Rechtsstreitigkeiten."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Apostel",
+    "partOfSpeech": "noun, masculine (der Apostel)",
+    "pronunciation": {
+      "respelling": "a-POS-tel",
+      "ipa": "aˈpɔstl̩",
+      "notes": "Plural: die Apostel."
+    },
+    "meaning": "apostle",
+    "shortDefinition": "Apostle."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Apostel, plural die Apostel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Apostel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Apostel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Petrus und Paulus waren Apostel.",
+      "english": "Peter and Paul were apostles.",
+      "highlight": [
+        "Apostel."
+      ]
+    },
+    {
+      "german": "Er ist ein Apostel der Gesundheit.",
+      "english": "He's a health evangelist.",
+      "highlight": [
+        "Apostel"
+      ]
+    }
+  ],
+  "forms": [
+    "die Apostel",
+    "der Apostel",
+    "Apostelgeschichte"
+  ],
+  "memoryHook": "Apostel: one sent out (Greek apostolos).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Apostel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Apostel is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Apostel, zwei ___",
+      "answer": "Apostel",
+      "fullAnswer": "ein Apostel, zwei Apostel",
+      "explanation": "The plural is Apostel.",
+      "acceptedAnswers": [
+        "Apostel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Apostel mean?",
+      "options": [
+        "apostle",
+        "the car",
+        "to learn"
+      ],
+      "answer": "apostle",
+      "explanation": "Apostel: apostle.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, ein Apostel is…",
+      "options": [
+        "a zealous advocate",
+        "a messenger boy"
+      ],
+      "answer": "a zealous advocate",
+      "explanation": "Advocate.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Apostelgeschichte is…",
+      "options": [
+        "the Acts of the Apostles",
+        "a history book"
+      ],
+      "answer": "the Acts of the Apostles",
+      "explanation": "Bible.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Apostel",
+        "die Aposteln"
+      ],
+      "answer": "die Apostel",
+      "explanation": "Unchanged.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Apostel is an apostle, one of the twelve disciples sent out by Jesus. Die Apostelgeschichte is the Acts of the Apostles. Figuratively, it means a zealous advocate, often ironic: ein Apostel der Sparsamkeit (a preacher of thrift). Saint Boniface is called der Apostel der Deutschen for converting Germanic tribes in the 8th century. From Greek apostolos (messenger). Plural unchanged: die Apostel."
+}

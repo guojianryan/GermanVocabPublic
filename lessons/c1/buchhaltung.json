@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Buchhaltung",
+    "partOfSpeech": "noun, feminine (die Buchhaltung)",
+    "pronunciation": {
+      "respelling": "BOOKH-hal-tung",
+      "ipa": "ˈbuːxˌhaltʊŋ",
+      "notes": "Plural: die Buchhaltungen."
+    },
+    "meaning": "accounting, bookkeeping; accounts department",
+    "shortDefinition": "Accounting, bookkeeping; accounts department."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Buchhaltung, plural die Buchhaltungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Buchhaltung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Buchhaltungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Rechnung geht an die Buchhaltung.",
+      "english": "The invoice goes to the accounts department.",
+      "highlight": [
+        "Buchhaltung."
+      ]
+    },
+    {
+      "german": "Sie macht die Buchhaltung für kleine Firmen.",
+      "english": "She does the bookkeeping for small companies.",
+      "highlight": [
+        "Buchhaltung"
+      ]
+    }
+  ],
+  "forms": [
+    "Buchhaltungen",
+    "die Buchhaltung",
+    "Buchhalter"
+  ],
+  "memoryHook": "Buchhaltung: keeping (halten) the books (Bücher).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Buchhaltung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Buchhaltung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Buchhaltung, zwei ___",
+      "answer": "Buchhaltungen",
+      "fullAnswer": "ein Buchhaltung, zwei Buchhaltungen",
+      "explanation": "The plural is Buchhaltungen.",
+      "acceptedAnswers": [
+        "Buchhaltungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Buchhaltung mean?",
+      "options": [
+        "accounting",
+        "slowly",
+        "the window"
+      ],
+      "answer": "accounting",
+      "explanation": "Buchhaltung: accounting, bookkeeping; accounts department.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Buchhalter is…",
+      "options": [
+        "an accountant, bookkeeper",
+        "a librarian"
+      ],
+      "answer": "an accountant, bookkeeper",
+      "explanation": "Person.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Buch führen means…",
+      "options": [
+        "to keep accounts/records",
+        "to write a book"
+      ],
+      "answer": "to keep accounts/records",
+      "explanation": "Records.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Steuerberater is…",
+      "options": [
+        "a tax adviser",
+        "a tax collector"
+      ],
+      "answer": "a tax adviser",
+      "explanation": "Tax.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Buchhaltung is bookkeeping and the accounts department: in der Buchhaltung arbeiten, Rechnungen an die Buchhaltung schicken. Der Buchhalter (die Buchhalterin) is a bookkeeper, and calling someone a Buchhalter can mean pedantic. German businesses must keep records for up to ten years, and many use a Steuerberater (tax adviser). Die doppelte Buchführung is double-entry bookkeeping. Plural: die Buchhaltungen."
+}

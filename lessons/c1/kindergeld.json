@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kindergeld",
+    "partOfSpeech": "noun, neuter (das Kindergeld)",
+    "pronunciation": {
+      "respelling": "KIN-der-gelt",
+      "ipa": "ˈkɪndɐˌɡɛlt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "child benefit",
+    "shortDefinition": "Child benefit."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Kindergeld, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Kindergeld"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Familie bekommt Kindergeld für drei Kinder.",
+      "english": "The family receives child benefit for three children.",
+      "highlight": [
+        "Kindergeld"
+      ]
+    },
+    {
+      "german": "Das Kindergeld wird bei der Familienkasse beantragt.",
+      "english": "Child benefit is applied for at the Familienkasse.",
+      "highlight": [
+        "Kindergeld"
+      ]
+    }
+  ],
+  "forms": [
+    "das Kindergeld"
+  ],
+  "memoryHook": "Kindergeld: Geld (money) for each Kind.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kindergeld",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Kindergeld is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kindergeld mean?",
+      "options": [
+        "child benefit",
+        "the weather",
+        "the flower"
+      ],
+      "answer": "child benefit",
+      "explanation": "Kindergeld: child benefit.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kindergeld is paid by…",
+      "options": [
+        "the Familienkasse",
+        "the Jugendamt"
+      ],
+      "answer": "the Familienkasse",
+      "explanation": "Familienkasse.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kindergeld is usually paid until…",
+      "options": [
+        "18, or up to 25 if in education",
+        "6"
+      ],
+      "answer": "18, or up to 25 if in education",
+      "explanation": "Age.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Elterngeld is…",
+      "options": [
+        "parental allowance (after birth)",
+        "child benefit"
+      ],
+      "answer": "parental allowance (after birth)",
+      "explanation": "Different.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Kindergeld is child benefit, paid monthly per child by the Familienkasse of the Federal Employment Agency, usually until 18, or up to 25 if the child is in education. Since 2023 it has been the same amount for every child (€255 a month in 2025). It's separate from Elterngeld (parental allowance for the months after birth). It has no plural."
+}

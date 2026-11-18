@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "resistent",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "re-zis-TENT",
+      "ipa": "ʁezɪsˈtɛnt",
+      "notes": ""
+    },
+    "meaning": "resistant",
+    "shortDefinition": "Resistant."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die Bakterien sind gegen Antibiotika resistent.",
+      "english": "The bacteria are resistant to antibiotics.",
+      "highlight": [
+        "resistent."
+      ]
+    },
+    {
+      "german": "Diese Sorte ist resistent gegen Schädlinge.",
+      "english": "This variety is resistant to pests.",
+      "highlight": [
+        "resistent"
+      ]
+    }
+  ],
+  "forms": [
+    "resistente",
+    "resistenten",
+    "Resistenz"
+  ],
+  "memoryHook": "Resistent: able to resist (resistere).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does resistent mean?",
+      "options": [
+        "quiet",
+        "the street",
+        "resistant"
+      ],
+      "answer": "resistant",
+      "explanation": "resistent: resistant.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Resistent gegen takes…",
+      "options": [
+        "gegen + accusative",
+        "von + dative"
+      ],
+      "answer": "gegen + accusative",
+      "explanation": "Preposition.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Resistenz is…",
+      "options": [
+        "resistance (biology)",
+        "the Resistance (WWII)"
+      ],
+      "answer": "resistance (biology)",
+      "explanation": "Noun.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Political resistance is…",
+      "options": [
+        "der Widerstand",
+        "die Resistenz"
+      ],
+      "answer": "der Widerstand",
+      "explanation": "Contrast.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ Keime (resistant)",
+      "answer": "resistente",
+      "fullAnswer": "resistente Keime",
+      "explanation": "Plural -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Resistent means resistant, mainly in biology and medicine: resistent gegen Antibiotika, resistente Keime (such as MRSA), schädlingsresistente Pflanzen. Die Resistenz is resistance in this sense: Antibiotikaresistenz is a major health concern. Political resistance is der Widerstand, as in the German resistance against Hitler. Synonym: widerstandsfähig."
+}

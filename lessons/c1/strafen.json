@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "strafen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHTRAA-fen",
+      "ipa": "ˈʃtʁaːfn̩",
+      "notes": ""
+    },
+    "meaning": "to punish",
+    "shortDefinition": "To punish."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "straf|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "straf|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "straf|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "straf|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "straf|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "straf|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gestraft"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Leben straft die Faulen.",
+      "english": "Life punishes the lazy.",
+      "highlight": [
+        "straft"
+      ]
+    },
+    {
+      "german": "Sie strafte ihn mit Schweigen.",
+      "english": "She punished him with silence.",
+      "highlight": [
+        "strafte"
+      ]
+    }
+  ],
+  "forms": [
+    "strafe",
+    "strafst",
+    "straft",
+    "strafen",
+    "gestraft",
+    "Strafe",
+    "bestrafen",
+    "strafbar"
+  ],
+  "memoryHook": "Strafen: give a Strafe.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (strafen)",
+      "answer": "straft",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: straft.",
+      "acceptedAnswers": [
+        "straft"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (strafen, past)",
+      "answer": "gestraft",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gestraft.",
+      "acceptedAnswers": [
+        "gestraft"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does strafen mean?",
+      "options": [
+        "to open",
+        "hot",
+        "to punish"
+      ],
+      "answer": "to punish",
+      "explanation": "strafen: to punish.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "More common verb:",
+      "options": [
+        "bestrafen",
+        "verstrafen"
+      ],
+      "answer": "bestrafen",
+      "explanation": "bestrafen.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Strafe is…",
+      "options": [
+        "the punishment, fine",
+        "the street"
+      ],
+      "answer": "the punishment, fine",
+      "explanation": "Strafe.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden mit Verachtung strafen means…",
+      "options": [
+        "to treat someone with contempt",
+        "to fine someone"
+      ],
+      "answer": "to treat someone with contempt",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Strafen means to punish, but in modern German it's mostly found in set phrases: jemanden mit Verachtung strafen, Wer zu spät kommt, den bestraft das Leben (life punishes those who come too late, attributed to Gorbachev in 1989). The everyday verb is bestrafen. Die Strafe is punishment or a fine: eine Strafe zahlen. Strafbar means punishable, and das Strafgesetzbuch (StGB) is the criminal code."
+}

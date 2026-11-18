@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Tochtergesellschaft",
+    "partOfSpeech": "noun, feminine (die Tochtergesellschaft)",
+    "pronunciation": {
+      "respelling": "TOKH-ter-ge-zel-shaft",
+      "ipa": "ˈtɔxtɐɡəˌzɛlʃaft",
+      "notes": "Plural: die Tochtergesellschaften."
+    },
+    "meaning": "subsidiary (company)",
+    "shortDefinition": "Subsidiary (company)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Tochtergesellschaft, plural die Tochtergesellschaften.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Tochtergesellschaft"
+        },
+        {
+          "label": "More than one",
+          "value": "die Tochtergesellschaften"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Firma hat Tochtergesellschaften in 30 Ländern.",
+      "english": "The company has subsidiaries in 30 countries.",
+      "highlight": [
+        "Tochtergesellschaften"
+      ]
+    },
+    {
+      "german": "Audi ist eine Tochter von Volkswagen.",
+      "english": "Audi is a subsidiary of Volkswagen.",
+      "highlight": [
+        "Tochter"
+      ]
+    }
+  ],
+  "forms": [
+    "Tochtergesellschaften",
+    "die Tochtergesellschaft"
+  ],
+  "memoryHook": "Tochtergesellschaft: a daughter (Tochter) of the parent company.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Tochtergesellschaft",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Tochtergesellschaft is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Tochtergesellschaft, zwei ___",
+      "answer": "Tochtergesellschaften",
+      "fullAnswer": "ein Tochtergesellschaft, zwei Tochtergesellschaften",
+      "explanation": "The plural is Tochtergesellschaften.",
+      "acceptedAnswers": [
+        "Tochtergesellschaften"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Tochtergesellschaft mean?",
+      "options": [
+        "hot",
+        "subsidiary (company)",
+        "the shop"
+      ],
+      "answer": "subsidiary (company)",
+      "explanation": "Tochtergesellschaft: subsidiary (company).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Muttergesellschaft is…",
+      "options": [
+        "parent company",
+        "a family business"
+      ],
+      "answer": "parent company",
+      "explanation": "Parent.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Short form:",
+      "options": [
+        "die Tochter",
+        "die Firma"
+      ],
+      "answer": "die Tochter",
+      "explanation": "Short.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Konzern is…",
+      "options": [
+        "group of companies",
+        "concert"
+      ],
+      "answer": "group of companies",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Tochtergesellschaft is a subsidiary, controlled by a Muttergesellschaft (parent company); together they form a Konzern. In business news, both are often shortened: die Konzernmutter, die Bahn-Tochter DB Cargo. Volkswagen, for example, owns Audi, Porsche and Škoda. An Enkelgesellschaft (granddaughter company) is a subsidiary of a subsidiary. Plural: die Tochtergesellschaften."
+}

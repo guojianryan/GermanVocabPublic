@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Klausel",
+    "partOfSpeech": "noun, feminine (die Klausel)",
+    "pronunciation": {
+      "respelling": "KLAU-zel",
+      "ipa": "ˈklaʊ̯zl̩",
+      "notes": "Plural: die Klauseln."
+    },
+    "meaning": "clause (in a contract)",
+    "shortDefinition": "Clause (in a contract)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Klausel, plural die Klauseln.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Klausel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Klauseln"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Vertrag enthält eine Klausel zur Kündigung.",
+      "english": "The contract contains a termination clause.",
+      "highlight": [
+        "Klausel"
+      ]
+    },
+    {
+      "german": "Diese Klausel ist unwirksam.",
+      "english": "This clause is invalid.",
+      "highlight": [
+        "Klausel"
+      ]
+    }
+  ],
+  "forms": [
+    "Klauseln",
+    "die Klauseln",
+    "die Klausel"
+  ],
+  "memoryHook": "Klausel: a closing (Latin clausula) condition in a text.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Klausel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Klausel is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Klausel, zwei ___",
+      "answer": "Klauseln",
+      "fullAnswer": "ein Klausel, zwei Klauseln",
+      "explanation": "The plural is Klauseln.",
+      "acceptedAnswers": [
+        "Klauseln"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Klausel mean?",
+      "options": [
+        "the station",
+        "clause (in a contract)",
+        "to learn"
+      ],
+      "answer": "clause (in a contract)",
+      "explanation": "Klausel: clause (in a contract).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Ausstiegsklausel is…",
+      "options": [
+        "a release/exit clause",
+        "an exit sign"
+      ],
+      "answer": "a release/exit clause",
+      "explanation": "Exit.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In German law, unfair clauses in standard terms (AGB) are…",
+      "options": [
+        "invalid (unwirksam)",
+        "always valid"
+      ],
+      "answer": "invalid (unwirksam)",
+      "explanation": "AGB.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grammatical clause is usually…",
+      "options": [
+        "der Satz / Nebensatz",
+        "die Klausel"
+      ],
+      "answer": "der Satz / Nebensatz",
+      "explanation": "Grammar.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Klausel is a clause in a contract or law: eine Kündigungsklausel, die Ausstiegsklausel (release clause in footballers' contracts), die Ewigkeitsklausel (the Grundgesetz's eternity clause protecting human dignity and democracy). Under German law, unfair clauses in Allgemeine Geschäftsbedingungen (AGB, terms and conditions) are void. A grammatical clause is ein Satz or Nebensatz. Plural: die Klauseln."
+}

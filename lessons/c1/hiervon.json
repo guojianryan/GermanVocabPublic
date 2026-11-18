@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "hiervon",
+    "partOfSpeech": "adverb",
+    "pronunciation": {
+      "respelling": "heer-FON",
+      "ipa": "hiːɐ̯ˈfɔn",
+      "notes": ""
+    },
+    "meaning": "of this, from this, about this",
+    "shortDefinition": "Of this, from this, about this."
+  },
+  "sampleSentences": [
+    {
+      "german": "Hiervon ausgenommen sind Kinder unter sechs.",
+      "english": "Children under six are exempt from this.",
+      "highlight": [
+        "Hiervon"
+      ]
+    },
+    {
+      "german": "Hiervon habe ich nichts gewusst.",
+      "english": "I knew nothing about this.",
+      "highlight": [
+        "Hiervon"
+      ]
+    }
+  ],
+  "forms": [
+    "hierzu",
+    "hierfür",
+    "hierbei"
+  ],
+  "memoryHook": "Hiervon: von (of) hier (this).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does hiervon mean?",
+      "options": [
+        "of this",
+        "the bed",
+        "the family"
+      ],
+      "answer": "of this",
+      "explanation": "hiervon: of this, from this, about this.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hiervon replaces…",
+      "options": [
+        "von diesem / davon",
+        "hier von dort"
+      ],
+      "answer": "von diesem / davon",
+      "explanation": "von + this.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal (contracts, notices)",
+        "slang"
+      ],
+      "answer": "formal (contracts, notices)",
+      "explanation": "Formal.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday alternative:",
+      "options": [
+        "davon",
+        "woher"
+      ],
+      "answer": "davon",
+      "explanation": "davon.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ unberührt bleiben... (from this)",
+      "answer": "Hiervon",
+      "fullAnswer": "Hiervon unberührt bleiben...",
+      "explanation": "hiervon.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Hiervon means of this, from this or about this, and is typical of formal writing such as contracts, terms and conditions and notices: Hiervon ausgenommen sind... (excepted from this are...). In speech, Germans use davon instead. German has a whole family of hier- compounds: hierzu (in addition to this), hierfür (for this), hierbei (in this case), hiermit (herewith): Hiermit kündige ich meinen Vertrag, the classic opening of a cancellation letter."
+}

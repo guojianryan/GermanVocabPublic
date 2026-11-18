@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Komödie",
+    "partOfSpeech": "noun, feminine (die Komödie)",
+    "pronunciation": {
+      "respelling": "ko-MÖ-di-e",
+      "ipa": "koˈmøːdi̯ə",
+      "notes": "Plural: die Komödien."
+    },
+    "meaning": "comedy",
+    "shortDefinition": "Comedy."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Komödie, plural die Komödien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Komödie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Komödien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Film ist eine romantische Komödie.",
+      "english": "The film is a romantic comedy.",
+      "highlight": [
+        "Komödie."
+      ]
+    },
+    {
+      "german": "Das ganze Treffen war eine Komödie.",
+      "english": "The whole meeting was a farce.",
+      "highlight": [
+        "Komödie."
+      ]
+    }
+  ],
+  "forms": [
+    "Komödien",
+    "die Komödien",
+    "die Komödie",
+    "Komiker"
+  ],
+  "memoryHook": "Komödie: the funny cousin of the Tragödie.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Komödie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Komödie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Komödie, zwei ___",
+      "answer": "Komödien",
+      "fullAnswer": "ein Komödie, zwei Komödien",
+      "explanation": "The plural is Komödien.",
+      "acceptedAnswers": [
+        "Komoedien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Komödie mean?",
+      "options": [
+        "comedy",
+        "cheap",
+        "the job"
+      ],
+      "answer": "comedy",
+      "explanation": "Komödie: comedy.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Opposite:",
+      "options": [
+        "die Tragödie",
+        "die Kömodie"
+      ],
+      "answer": "die Tragödie",
+      "explanation": "Tragedy.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Komödie spielen means…",
+      "options": [
+        "to put on an act",
+        "to watch a film"
+      ],
+      "answer": "to put on an act",
+      "explanation": "Pretend.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "A comedian (stand-up) is…",
+      "options": [
+        "der Komiker / Comedian",
+        "der Komödiant only"
+      ],
+      "answer": "der Komiker / Comedian",
+      "explanation": "Komiker.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Komödie is a comedy: eine romantische Komödie, die Komödie am Kurfürstendamm (a Berlin theatre). Figuratively, it's a farce: Das Ganze war eine Komödie. Komödie spielen means to pretend or put on an act. The opposite is die Tragödie. A stand-up comedian is der Komiker or, increasingly, der Comedian. Plural: die Komödien, with four syllables: ko-MÖ-di-en."
+}

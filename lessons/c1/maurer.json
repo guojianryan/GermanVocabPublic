@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Maurer",
+    "partOfSpeech": "noun, masculine (der Maurer)",
+    "pronunciation": {
+      "respelling": "MAU-rer",
+      "ipa": "ˈmaʊ̯ʁɐ",
+      "notes": "Plural: die Maurer."
+    },
+    "meaning": "bricklayer, mason",
+    "shortDefinition": "Bricklayer, mason."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Maurer, plural die Maurer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Maurer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Maurer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Maurer baut die Wand.",
+      "english": "The bricklayer is building the wall.",
+      "highlight": [
+        "Maurer"
+      ]
+    },
+    {
+      "german": "Er macht eine Ausbildung zum Maurer.",
+      "english": "He's training to be a bricklayer.",
+      "highlight": [
+        "Maurer."
+      ]
+    }
+  ],
+  "forms": [
+    "die Maurer",
+    "der Maurer",
+    "Maurerin",
+    "Mauer",
+    "mauern"
+  ],
+  "memoryHook": "Maurer: the craftsman who builds the Mauer.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Maurer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Maurer is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Maurer, zwei ___",
+      "answer": "Maurer",
+      "fullAnswer": "ein Maurer, zwei Maurer",
+      "explanation": "The plural is Maurer.",
+      "acceptedAnswers": [
+        "Maurer"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Maurer mean?",
+      "options": [
+        "the street",
+        "bricklayer",
+        "the window"
+      ],
+      "answer": "bricklayer",
+      "explanation": "Maurer: bricklayer, mason.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Mauer is…",
+      "options": [
+        "the wall",
+        "the mouse"
+      ],
+      "answer": "the wall",
+      "explanation": "Mauer.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pünktlich wie die Maurer means…",
+      "options": [
+        "leaving work exactly on time",
+        "very slow"
+      ],
+      "answer": "leaving work exactly on time",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mauern (verb) means…",
+      "options": [
+        "to build walls; to stonewall",
+        "to complain"
+      ],
+      "answer": "to build walls; to stonewall",
+      "explanation": "mauern.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Maurer (die Maurerin) is a bricklayer or mason, one of the classic German Ausbildungsberufe (trades learned through an apprenticeship). Pünktlich wie die Maurer is a joke about knocking off exactly on time. Die Mauer is a wall, and in German history die Mauer means the Berlin Wall (1961–1989). Mauern means to build walls and, in football, to defend with everyone back. Freemasons are die Freimaurer."
+}

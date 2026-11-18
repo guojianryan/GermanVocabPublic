@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Inhaltsangabe",
+    "partOfSpeech": "noun, feminine (die Inhaltsangabe)",
+    "pronunciation": {
+      "respelling": "IN-halts-an-gaa-be",
+      "ipa": "ˈɪnhalt͡sˌʔanɡaːbə",
+      "notes": "Plural: die Inhaltsangaben."
+    },
+    "meaning": "summary (of content), synopsis",
+    "shortDefinition": "Summary (of content), synopsis."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Inhaltsangabe, plural die Inhaltsangaben.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Inhaltsangabe"
+        },
+        {
+          "label": "More than one",
+          "value": "die Inhaltsangaben"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Schreibt eine Inhaltsangabe der Kurzgeschichte.",
+      "english": "Write a summary of the short story.",
+      "highlight": [
+        "Inhaltsangabe"
+      ]
+    },
+    {
+      "german": "Eine Inhaltsangabe steht im Präsens.",
+      "english": "A summary is written in the present tense.",
+      "highlight": [
+        "Inhaltsangabe"
+      ]
+    }
+  ],
+  "forms": [
+    "Inhaltsangaben",
+    "die Inhaltsangabe"
+  ],
+  "memoryHook": "Inhaltsangabe: an Angabe (statement) of the Inhalt (content).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Inhaltsangabe",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Inhaltsangabe is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Inhaltsangabe, zwei ___",
+      "answer": "Inhaltsangaben",
+      "fullAnswer": "ein Inhaltsangabe, zwei Inhaltsangaben",
+      "explanation": "The plural is Inhaltsangaben.",
+      "acceptedAnswers": [
+        "Inhaltsangaben"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Inhaltsangabe mean?",
+      "options": [
+        "summary (of content)",
+        "the child",
+        "the family"
+      ],
+      "answer": "summary (of content)",
+      "explanation": "Inhaltsangabe: summary (of content), synopsis.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "German school summaries are written in…",
+      "options": [
+        "the present tense, without quotes or opinions",
+        "the past tense"
+      ],
+      "answer": "the present tense, without quotes or opinions",
+      "explanation": "School.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Inhaltsverzeichnis is…",
+      "options": [
+        "table of contents",
+        "a summary"
+      ],
+      "answer": "table of contents",
+      "explanation": "Contrast.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Inhalt is…",
+      "options": [
+        "content",
+        "an inhaler"
+      ],
+      "answer": "content",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Inhaltsangabe is a summary of a text's content, a classic German school exercise: written in the present tense, neutral, without direct quotes or personal opinion, starting with an Einleitungssatz giving author, title, genre and theme. It differs from das Inhaltsverzeichnis (table of contents). Synonyms: die Zusammenfassung, die Synopse. Plural: die Inhaltsangaben."
+}

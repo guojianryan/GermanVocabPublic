@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Aufhebung",
+    "partOfSpeech": "noun, feminine (die Aufhebung)",
+    "pronunciation": {
+      "respelling": "AUF-hay-bung",
+      "ipa": "ˈaʊ̯fˌheːbʊŋ",
+      "notes": "Plural: die Aufhebungen."
+    },
+    "meaning": "lifting, abolition, cancellation",
+    "shortDefinition": "Lifting, abolition, cancellation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Aufhebung, plural die Aufhebungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Aufhebung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Aufhebungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Aufhebung der Maskenpflicht wurde begrüßt.",
+      "english": "The lifting of the mask requirement was welcomed.",
+      "highlight": [
+        "Aufhebung"
+      ]
+    },
+    {
+      "german": "Er forderte die Aufhebung des Urteils.",
+      "english": "He called for the verdict to be overturned.",
+      "highlight": [
+        "Aufhebung"
+      ]
+    }
+  ],
+  "forms": [
+    "Aufhebungen",
+    "die Aufhebungen",
+    "die Aufhebung",
+    "aufheben"
+  ],
+  "memoryHook": "Aufhebung: a rule is lifted (aufgehoben) away.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Aufhebung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Aufhebung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Aufhebung, zwei ___",
+      "answer": "Aufhebungen",
+      "fullAnswer": "ein Aufhebung, zwei Aufhebungen",
+      "explanation": "The plural is Aufhebungen.",
+      "acceptedAnswers": [
+        "Aufhebungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Aufhebung mean?",
+      "options": [
+        "the window",
+        "lifting",
+        "the car"
+      ],
+      "answer": "lifting",
+      "explanation": "Aufhebung: lifting, abolition, cancellation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Aufheben means…",
+      "options": [
+        "to pick up; to keep; to abolish",
+        "only to lift"
+      ],
+      "answer": "to pick up; to keep; to abolish",
+      "explanation": "Three meanings.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Viel Aufhebens machen means…",
+      "options": [
+        "to make a fuss",
+        "to tidy up"
+      ],
+      "answer": "to make a fuss",
+      "explanation": "Fuss.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Hegel's philosophy, aufheben means…",
+      "options": [
+        "to cancel, preserve and lift up at once",
+        "to destroy"
+      ],
+      "answer": "to cancel, preserve and lift up at once",
+      "explanation": "Famous triple meaning.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Aufhebung is the lifting, abolition or cancellation of something: die Aufhebung eines Gesetzes, die Aufhebung der Sanktionen. It comes from aufheben, which has three meanings: to pick up, to keep (Heb das auf!) and to abolish. Hegel famously used Aufhebung for all three at once: cancelling, preserving and raising to a higher level. Der Aufhebungsvertrag is a termination agreement at work."
+}

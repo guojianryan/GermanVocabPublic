@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "fortbestehen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "FORT-be-shtay-en",
+      "ipa": "ˈfɔʁtbəˌʃteːən",
+      "notes": ""
+    },
+    "meaning": "to continue to exist, persist",
+    "shortDefinition": "To continue to exist, persist."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "besteh|e … |fort"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "besteh|st … |fort"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "besteh|t … |fort"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "besteh|en … |fort"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "besteh|t … |fort"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "besteh|en … |fort"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat fortbestanden"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Probleme bestehen fort.",
+      "english": "The problems persist.",
+      "highlight": [
+        "bestehen",
+        "fort."
+      ]
+    },
+    {
+      "german": "Der Vertrag besteht auch nach dem Verkauf fort.",
+      "english": "The contract continues to exist after the sale.",
+      "highlight": [
+        "besteht",
+        "fort."
+      ]
+    }
+  ],
+  "forms": [
+    "bestehe fort",
+    "bestehst fort",
+    "besteht fort",
+    "bestehen fort",
+    "fortbestanden",
+    "bestand fort",
+    "Fortbestand"
+  ],
+  "memoryHook": "Fortbestehen: go on (fort) existing (bestehen).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … fort (fortbestehen)",
+      "answer": "besteht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: besteht … fort.",
+      "acceptedAnswers": [
+        "besteht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (fortbestehen, past)",
+      "answer": "fortbestanden",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe fortbestanden.",
+      "acceptedAnswers": [
+        "fortbestanden"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does fortbestehen mean?",
+      "options": [
+        "to continue to exist",
+        "the bed",
+        "slowly"
+      ],
+      "answer": "to continue to exist",
+      "explanation": "fortbestehen: to continue to exist, persist.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Fortbestand is…",
+      "options": [
+        "continued existence, survival",
+        "a stock"
+      ],
+      "answer": "continued existence, survival",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bestehen means…",
+      "options": [
+        "to exist; to pass (an exam); to insist",
+        "to stand"
+      ],
+      "answer": "to exist; to pass (an exam); to insist",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "bestand fort, fortbestanden",
+        "fortbestehte"
+      ],
+      "answer": "bestand fort, fortbestanden",
+      "explanation": "Irregular.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Fortbestehen means to continue to exist or persist: Die Zweifel bestehen fort, Das Arbeitsverhältnis besteht fort. It's formal. Der Fortbestand is continued existence: der Fortbestand des Unternehmens, der Art (of a species). From fort (onwards) and bestehen (to exist). Separable and irregular: bestand fort, fortbestanden."
+}

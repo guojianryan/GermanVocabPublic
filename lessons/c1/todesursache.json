@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Todesursache",
+    "partOfSpeech": "noun, feminine (die Todesursache)",
+    "pronunciation": {
+      "respelling": "TOH-des-oor-za-khe",
+      "ipa": "ˈtoːdəsˌʔuːɐ̯zaxə",
+      "notes": "Plural: die Todesursachen."
+    },
+    "meaning": "cause of death",
+    "shortDefinition": "Cause of death."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Todesursache, plural die Todesursachen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Todesursache"
+        },
+        {
+          "label": "More than one",
+          "value": "die Todesursachen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Todesursache ist noch unklar.",
+      "english": "The cause of death is still unclear.",
+      "highlight": [
+        "Todesursache"
+      ]
+    },
+    {
+      "german": "Herz-Kreislauf-Erkrankungen sind die häufigste Todesursache.",
+      "english": "Cardiovascular diseases are the most common cause of death.",
+      "highlight": [
+        "Todesursache."
+      ]
+    }
+  ],
+  "forms": [
+    "Todesursachen",
+    "die Todesursache"
+  ],
+  "memoryHook": "Todesursache: the Ursache (cause) of Tod (death).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Todesursache",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Todesursache is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Todesursache, zwei ___",
+      "answer": "Todesursachen",
+      "fullAnswer": "ein Todesursache, zwei Todesursachen",
+      "explanation": "The plural is Todesursachen.",
+      "acceptedAnswers": [
+        "Todesursachen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Todesursache mean?",
+      "options": [
+        "the job",
+        "cause of death",
+        "to help"
+      ],
+      "answer": "cause of death",
+      "explanation": "Todesursache: cause of death.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Ursache is…",
+      "options": [
+        "cause",
+        "matter"
+      ],
+      "answer": "cause",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The most common cause of death in Germany is…",
+      "options": [
+        "cardiovascular disease",
+        "accidents"
+      ],
+      "answer": "cardiovascular disease",
+      "explanation": "Statistics.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Obduktion is…",
+      "options": [
+        "autopsy",
+        "abduction"
+      ],
+      "answer": "autopsy",
+      "explanation": "Autopsy.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Todesursache is the cause of death: die Todesursache ermitteln, natürliche Todesursache. In Germany, cardiovascular diseases (Herz-Kreislauf-Erkrankungen) are the most common cause of death, followed by cancer (Krebs). A doctor must issue a Totenschein (death certificate) stating the cause; unclear cases lead to an Obduktion (autopsy). Die Ursache means cause. Plural: die Todesursachen."
+}

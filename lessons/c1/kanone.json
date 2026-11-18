@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kanone",
+    "partOfSpeech": "noun, feminine (die Kanone)",
+    "pronunciation": {
+      "respelling": "ka-NOH-ne",
+      "ipa": "kaˈnoːnə",
+      "notes": "Plural: die Kanonen."
+    },
+    "meaning": "cannon; ace, expert",
+    "shortDefinition": "Cannon; ace, expert."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kanone, plural die Kanonen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kanone"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kanonen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Kanone feuerte einen Schuss ab.",
+      "english": "The cannon fired a shot.",
+      "highlight": [
+        "Kanone"
+      ]
+    },
+    {
+      "german": "Er ist eine Kanone in Mathe.",
+      "english": "He's an ace at maths.",
+      "highlight": [
+        "Kanone"
+      ]
+    }
+  ],
+  "forms": [
+    "Kanonen",
+    "die Kanonen",
+    "die Kanone",
+    "Sportkanone"
+  ],
+  "memoryHook": "Kanone: a big gun, or a big talent.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kanone",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kanone is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kanone, zwei ___",
+      "answer": "Kanonen",
+      "fullAnswer": "ein Kanone, zwei Kanonen",
+      "explanation": "The plural is Kanonen.",
+      "acceptedAnswers": [
+        "Kanonen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kanone mean?",
+      "options": [
+        "cannon",
+        "the shop",
+        "to sleep"
+      ],
+      "answer": "cannon",
+      "explanation": "Kanone: cannon; ace, expert.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mit Kanonen auf Spatzen schießen means…",
+      "options": [
+        "to use a sledgehammer to crack a nut",
+        "to hunt birds"
+      ],
+      "answer": "to use a sledgehammer to crack a nut",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unter aller Kanone means…",
+      "options": [
+        "abysmal, beneath contempt",
+        "below the cannon"
+      ],
+      "answer": "abysmal, beneath contempt",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Sportkanone is…",
+      "options": [
+        "a sports ace",
+        "a starting gun"
+      ],
+      "answer": "a sports ace",
+      "explanation": "Ace.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kanone is a cannon. Colloquially, it's an ace or expert: eine Sportkanone, eine Kanone in Physik. Two idioms: mit Kanonen auf Spatzen schießen (to shoot sparrows with cannons) means to use a sledgehammer to crack a nut, and unter aller Kanone means abysmal: Das Essen war unter aller Kanone. Don't confuse it with der Kanon (canon, round song). Plural: die Kanonen."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Horoskop",
+    "partOfSpeech": "noun, neuter (das Horoskop)",
+    "pronunciation": {
+      "respelling": "ho-ro-SKOHP",
+      "ipa": "hoʁoˈskoːp",
+      "notes": "Plural: die Horoskope."
+    },
+    "meaning": "horoscope",
+    "shortDefinition": "Horoscope."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Horoskop, plural die Horoskope.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Horoskop"
+        },
+        {
+          "label": "More than one",
+          "value": "die Horoskope"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie liest jeden Morgen ihr Horoskop.",
+      "english": "She reads her horoscope every morning.",
+      "highlight": [
+        "Horoskop."
+      ]
+    },
+    {
+      "german": "Laut Horoskop habe ich heute Glück in der Liebe.",
+      "english": "According to my horoscope I'll be lucky in love today.",
+      "highlight": [
+        "Horoskop"
+      ]
+    }
+  ],
+  "forms": [
+    "Horoskope",
+    "das Horoskop"
+  ],
+  "memoryHook": "Horoskop: watching (skopein) the hour (hora) of birth.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Horoskop",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Horoskop is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Horoskop, zwei ___",
+      "answer": "Horoskope",
+      "fullAnswer": "ein Horoskop, zwei Horoskope",
+      "explanation": "The plural is Horoskope.",
+      "acceptedAnswers": [
+        "Horoskope"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Horoskop mean?",
+      "options": [
+        "the flower",
+        "the car",
+        "horoscope"
+      ],
+      "answer": "horoscope",
+      "explanation": "Horoskop: horoscope.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Sternzeichen is…",
+      "options": [
+        "star sign",
+        "a star map"
+      ],
+      "answer": "star sign",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Astrologie is…",
+      "options": [
+        "astrology",
+        "astronomy"
+      ],
+      "answer": "astrology",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Horoskop literally means…",
+      "options": [
+        "observing the hour (of birth)",
+        "reading the stars"
+      ],
+      "answer": "observing the hour (of birth)",
+      "explanation": "Origin.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Horoskop is a horoscope: das Tageshoroskop in newspapers, sich ein Horoskop erstellen lassen. Its Greek name means observing the hour, the time of birth used by astrologers. Many Germans read horoscopes for fun, though astrology has no scientific basis. Was bist du für ein Sternzeichen? is a common small-talk question. Plural: die Horoskope."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rohbau",
+    "partOfSpeech": "noun, masculine (der Rohbau)",
+    "pronunciation": {
+      "respelling": "ROH-bau",
+      "ipa": "ˈʁoːˌbaʊ̯",
+      "notes": "Plural: die Rohbauten."
+    },
+    "meaning": "shell (of a building)",
+    "shortDefinition": "Shell (of a building)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Rohbau, plural die Rohbauten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Rohbau"
+        },
+        {
+          "label": "More than one",
+          "value": "die Rohbauten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Rohbau ist fertig, jetzt kommt das Dach.",
+      "english": "The shell is finished, now comes the roof.",
+      "highlight": [
+        "Rohbau"
+      ]
+    },
+    {
+      "german": "Das Haus steht seit Jahren im Rohbau.",
+      "english": "The house has been a bare shell for years.",
+      "highlight": [
+        "Rohbau."
+      ]
+    }
+  ],
+  "forms": [
+    "Rohbauten",
+    "der Rohbau"
+  ],
+  "memoryHook": "Rohbau: the roh (raw) Bau (building) before finishing.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rohbau",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Rohbau is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Rohbau, zwei ___",
+      "answer": "Rohbauten",
+      "fullAnswer": "ein Rohbau, zwei Rohbauten",
+      "explanation": "The plural is Rohbauten.",
+      "acceptedAnswers": [
+        "Rohbauten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rohbau mean?",
+      "options": [
+        "the bill",
+        "never",
+        "shell (of a building)"
+      ],
+      "answer": "shell (of a building)",
+      "explanation": "Rohbau: shell (of a building).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "When the roof frame is up, Germans hold…",
+      "options": [
+        "ein Richtfest (topping-out ceremony)",
+        "a housewarming"
+      ],
+      "answer": "ein Richtfest (topping-out ceremony)",
+      "explanation": "Custom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Roh means…",
+      "options": [
+        "raw, rough",
+        "red"
+      ],
+      "answer": "raw, rough",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Innenausbau is…",
+      "options": [
+        "interior fit-out",
+        "an extension"
+      ],
+      "answer": "interior fit-out",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Rohbau is the shell of a building: walls, floors and roof structure without interior finishing. When the roof frame is complete, builders celebrate the Richtfest, with a small tree or wreath on top and a speech by the carpenter. After the Rohbau comes der Innenausbau. Figuratively, a plan im Rohbau is in rough form. Roh means raw. Plural: die Rohbauten."
+}

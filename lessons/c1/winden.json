@@ -1,0 +1,176 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "winden",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "VIN-den",
+      "ipa": "ˈvɪndn̩",
+      "notes": ""
+    },
+    "meaning": "to wind, to twist; (sich) to writhe",
+    "shortDefinition": "To wind, to twist; (sich) to writhe."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "wind|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "wind|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "wind|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "wind|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "wind|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "wind|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gewunden"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Fluss windet sich durch das Tal.",
+      "english": "The river winds through the valley.",
+      "highlight": [
+        "windet"
+      ]
+    },
+    {
+      "german": "Er wand sich vor Schmerzen.",
+      "english": "He writhed in pain.",
+      "highlight": [
+        "wand"
+      ]
+    }
+  ],
+  "forms": [
+    "winde",
+    "windest",
+    "windet",
+    "winden",
+    "gewunden",
+    "wand",
+    "Windung"
+  ],
+  "memoryHook": "Winden: twist like a river, or like a snake.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (winden)",
+      "answer": "windet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: windet.",
+      "acceptedAnswers": [
+        "windet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (winden, past)",
+      "answer": "gewunden",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gewunden.",
+      "acceptedAnswers": [
+        "gewunden"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does winden mean?",
+      "options": [
+        "to wind",
+        "hot",
+        "to buy"
+      ],
+      "answer": "to wind",
+      "explanation": "winden: to wind, to twist; (sich) to writhe.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Preterite (ich):",
+      "options": [
+        "wand",
+        "windete"
+      ],
+      "answer": "wand",
+      "explanation": "Strong: winden, wand, gewunden.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich winden vor Schmerzen means…",
+      "options": [
+        "to writhe in pain",
+        "to turn around"
+      ],
+      "answer": "to writhe in pain",
+      "explanation": "Writhe.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Windung is…",
+      "options": [
+        "a bend, a coil",
+        "a gust"
+      ],
+      "answer": "a bend, a coil",
+      "explanation": "Noun.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Wind (noun) is…",
+      "options": [
+        "a different word (wind)",
+        "the same word"
+      ],
+      "answer": "a different word (wind)",
+      "explanation": "Pronounced similarly.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Winden is a strong verb: winden, wand, gewunden. It means to wind or twist: einen Kranz winden (to weave a wreath), and reflexively, a river winds through a valley: Der Weg windet sich den Berg hinauf. Sich winden also means to writhe or squirm out of a difficult situation: Er wand sich um eine klare Antwort. Die Windung is a bend or coil. Not to be confused with der Wind (wind) or die Winde (winch, or bindweed)."
+}

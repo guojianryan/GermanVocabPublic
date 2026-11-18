@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ozon",
+    "partOfSpeech": "noun, neuter (das Ozon)",
+    "pronunciation": {
+      "respelling": "o-TSOHN",
+      "ipa": "oˈt͡soːn",
+      "notes": "Usually no plural."
+    },
+    "meaning": "ozone",
+    "shortDefinition": "Ozone."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Ozon, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Ozon"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bei hohen Ozonwerten sollte man Sport im Freien vermeiden.",
+      "english": "With high ozone levels you should avoid sport outdoors.",
+      "highlight": [
+        "Ozonwerten"
+      ]
+    },
+    {
+      "german": "Das Ozonloch über der Antarktis schließt sich langsam.",
+      "english": "The ozone hole over Antarctica is slowly closing.",
+      "highlight": [
+        "Ozonloch"
+      ]
+    }
+  ],
+  "forms": [
+    "das Ozon",
+    "Ozons"
+  ],
+  "memoryHook": "Ozon: a gas that smells (Greek ozein).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ozon",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Ozon is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ozon mean?",
+      "options": [
+        "the window",
+        "the bed",
+        "ozone"
+      ],
+      "answer": "ozone",
+      "explanation": "Ozon: ozone.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Ozonloch was caused mainly by…",
+      "options": [
+        "CFCs (FCKW)",
+        "car exhaust"
+      ],
+      "answer": "CFCs (FCKW)",
+      "explanation": "Cause.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The 1987 treaty banning CFCs:",
+      "options": [
+        "the Montreal Protocol",
+        "the Kyoto Protocol"
+      ],
+      "answer": "the Montreal Protocol",
+      "explanation": "Treaty.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bodennahes Ozon is…",
+      "options": [
+        "harmful summer smog",
+        "protective"
+      ],
+      "answer": "harmful summer smog",
+      "explanation": "Ground level.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Ozon is ozone. In the stratosphere, die Ozonschicht protects us from UV radiation; the Ozonloch, caused by FCKW (CFCs), led to the 1987 Montreal Protocol, and the layer is slowly recovering. Near the ground, Ozon forms in summer heat from exhaust gases and irritates the lungs, so authorities issue Ozonwarnungen. It comes from Greek ozein (to smell). Stressed on the second syllable. It has no plural."
+}

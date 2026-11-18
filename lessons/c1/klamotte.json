@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Klamotte",
+    "partOfSpeech": "noun, feminine (die Klamotte)",
+    "pronunciation": {
+      "respelling": "kla-MOT-e",
+      "ipa": "klaˈmɔtə",
+      "notes": "Plural: die Klamotten."
+    },
+    "meaning": "clothes (informal, mostly plural)",
+    "shortDefinition": "Clothes (informal, mostly plural)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Klamotte, plural die Klamotten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Klamotte"
+        },
+        {
+          "label": "More than one",
+          "value": "die Klamotten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Zieh dir andere Klamotten an!",
+      "english": "Put on some different clothes!",
+      "highlight": [
+        "Klamotten"
+      ]
+    },
+    {
+      "german": "Sie kauft gern neue Klamotten.",
+      "english": "She likes buying new clothes.",
+      "highlight": [
+        "Klamotten."
+      ]
+    }
+  ],
+  "forms": [
+    "Klamotten",
+    "die Klamotten",
+    "die Klamotte"
+  ],
+  "memoryHook": "Klamotten: what's on the floor of a teenager's room.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Klamotte",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Klamotte is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Klamotte, zwei ___",
+      "answer": "Klamotten",
+      "fullAnswer": "ein Klamotte, zwei Klamotten",
+      "explanation": "The plural is Klamotten.",
+      "acceptedAnswers": [
+        "Klamotten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Klamotte mean?",
+      "options": [
+        "to open",
+        "clothes (informal",
+        "hot"
+      ],
+      "answer": "clothes (informal",
+      "explanation": "Klamotte: clothes (informal, mostly plural).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Klamotten is…",
+      "options": [
+        "casual for clothes",
+        "a formal word"
+      ],
+      "answer": "casual for clothes",
+      "explanation": "Informal.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Neutral word:",
+      "options": [
+        "die Kleidung",
+        "die Klamotte"
+      ],
+      "answer": "die Kleidung",
+      "explanation": "Kleidung.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mostly used in the…",
+      "options": [
+        "plural",
+        "singular"
+      ],
+      "answer": "plural",
+      "explanation": "Klamotten.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Klamotten are clothes, in casual German: Ich muss meine Klamotten waschen. The word is almost always plural; the neutral words are die Kleidung or die Sachen. In the singular, eine Klamotte is a slapstick comedy film or play. The origin is uncertain; it may come from a Berlin word for rubble or junk. Alte Klamotten means old clothes, or old stuff in general."
+}

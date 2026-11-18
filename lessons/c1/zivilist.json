@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zivilist",
+    "partOfSpeech": "noun, masculine (der Zivilist)",
+    "pronunciation": {
+      "respelling": "tsi-vi-LIST",
+      "ipa": "t͡siviˈlɪst",
+      "notes": "Plural: die Zivilisten."
+    },
+    "meaning": "civilian",
+    "shortDefinition": "Civilian."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Zivilist, plural die Zivilisten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Zivilist"
+        },
+        {
+          "label": "More than one",
+          "value": "die Zivilisten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Unter den Opfern sind viele Zivilisten.",
+      "english": "Many civilians are among the victims.",
+      "highlight": [
+        "Zivilisten."
+      ]
+    },
+    {
+      "german": "Er war als Zivilist im Einsatz.",
+      "english": "He was deployed as a civilian.",
+      "highlight": [
+        "Zivilist"
+      ]
+    }
+  ],
+  "forms": [
+    "Zivilisten",
+    "die Zivilisten",
+    "der Zivilist",
+    "Zivilistin",
+    "zivil"
+  ],
+  "memoryHook": "Zivilist: not in uniform.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zivilist",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Zivilist is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Zivilist, zwei ___",
+      "answer": "Zivilisten",
+      "fullAnswer": "ein Zivilist, zwei Zivilisten",
+      "explanation": "The plural is Zivilisten.",
+      "acceptedAnswers": [
+        "Zivilisten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zivilist mean?",
+      "options": [
+        "to sing",
+        "the bed",
+        "civilian"
+      ],
+      "answer": "civilian",
+      "explanation": "Zivilist: civilian.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Weak noun, dative:",
+      "options": [
+        "dem Zivilisten",
+        "dem Zivilist"
+      ],
+      "answer": "dem Zivilisten",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Zivil means…",
+      "options": [
+        "in plain clothes",
+        "polite"
+      ],
+      "answer": "in plain clothes",
+      "explanation": "Plain clothes.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Zivildienst was…",
+      "options": [
+        "civilian service instead of military service",
+        "a police unit"
+      ],
+      "answer": "civilian service instead of military service",
+      "explanation": "Until 2011.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Zivilist (die Zivilistin) is a civilian, someone not in the armed forces. It's a weak noun: den Zivilisten. Zivil means civilian or civil: in Zivil (in plain clothes), die Zivilbevölkerung (civilian population), das Zivilrecht (civil law). Until conscription was suspended in 2011, young men could do Zivildienst instead of military service; the Zivis were a familiar sight in hospitals and care homes."
+}

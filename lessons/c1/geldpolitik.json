@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Geldpolitik",
+    "partOfSpeech": "noun, feminine (die Geldpolitik)",
+    "pronunciation": {
+      "respelling": "GELT-po-li-teek",
+      "ipa": "ˈɡɛltpoliˌtiːk",
+      "notes": "Usually no plural."
+    },
+    "meaning": "monetary policy",
+    "shortDefinition": "Monetary policy."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Geldpolitik, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Geldpolitik"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die EZB ist für die Geldpolitik im Euroraum zuständig.",
+      "english": "The ECB is responsible for monetary policy in the euro area.",
+      "highlight": [
+        "Geldpolitik"
+      ]
+    },
+    {
+      "german": "Die lockere Geldpolitik wird kritisiert.",
+      "english": "Loose monetary policy is being criticised.",
+      "highlight": [
+        "Geldpolitik"
+      ]
+    }
+  ],
+  "forms": [
+    "die Geldpolitik",
+    "geldpolitisch"
+  ],
+  "memoryHook": "Geldpolitik: Politik on Geld (money supply, interest).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Geldpolitik",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Geldpolitik is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Geldpolitik mean?",
+      "options": [
+        "the evening",
+        "the window",
+        "monetary policy"
+      ],
+      "answer": "monetary policy",
+      "explanation": "Geldpolitik: monetary policy.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Fiskalpolitik is…",
+      "options": [
+        "fiscal policy (taxes, spending)",
+        "monetary policy"
+      ],
+      "answer": "fiscal policy (taxes, spending)",
+      "explanation": "Fiscal.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Lockere Geldpolitik means…",
+      "options": [
+        "low interest rates, easy money",
+        "strict rules"
+      ],
+      "answer": "low interest rates, easy money",
+      "explanation": "Loose.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Leitzins is…",
+      "options": [
+        "the key interest rate",
+        "a guide"
+      ],
+      "answer": "the key interest rate",
+      "explanation": "Rate.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Geldpolitik is monetary policy, managing money supply and interest rates. In the euro area, it's run by the EZB in Frankfurt. Germans, shaped by hyperinflation memories, have often criticised loose monetary policy and negative interest rates (Negativzinsen) that hurt savers in the 2010s. Fiscal policy (taxes and spending) is die Fiskalpolitik or Finanzpolitik. Geldpolitisch means monetary. It has no plural."
+}

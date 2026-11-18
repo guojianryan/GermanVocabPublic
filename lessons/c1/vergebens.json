@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "vergebens",
+    "partOfSpeech": "adverb / adjective",
+    "pronunciation": {
+      "respelling": "fer-GAY-bens",
+      "ipa": "fɛɐ̯ˈɡeːbn̩s",
+      "notes": ""
+    },
+    "meaning": "in vain",
+    "shortDefinition": "In vain."
+  },
+  "sampleSentences": [
+    {
+      "german": "Wir haben vergebens auf den Bus gewartet.",
+      "english": "We waited for the bus in vain.",
+      "highlight": [
+        "vergebens"
+      ]
+    },
+    {
+      "german": "Alle Mühe war vergebens.",
+      "english": "All the effort was in vain.",
+      "highlight": [
+        "vergebens."
+      ]
+    }
+  ],
+  "forms": [
+    "vergebens",
+    "vergeblich"
+  ],
+  "memoryHook": "Vergebens: given (vergeben) away for nothing.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does vergebens mean?",
+      "options": [
+        "in vain",
+        "to help",
+        "to sleep"
+      ],
+      "answer": "in vain",
+      "explanation": "vergebens: in vain.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonyms:",
+      "options": [
+        "umsonst, vergeblich",
+        "vergessen"
+      ],
+      "answer": "umsonst, vergeblich",
+      "explanation": "In vain.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vergeben means…",
+      "options": [
+        "to forgive; to award",
+        "to give in vain"
+      ],
+      "answer": "to forgive; to award",
+      "explanation": "Different.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vergebens is used…",
+      "options": [
+        "as an adverb or after sein",
+        "before nouns"
+      ],
+      "answer": "as an adverb or after sein",
+      "explanation": "Usage.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Sie suchte ___ nach dem Schlüssel. (in vain)",
+      "answer": "vergebens",
+      "fullAnswer": "Sie suchte vergebens nach dem Schlüssel.",
+      "explanation": "vergebens.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Vergebens means in vain: vergebens warten, Alles war vergebens. It's used as an adverb or after sein, not before nouns; for that, use vergeblich: eine vergebliche Suche. Umsonst also means in vain, and free of charge. Don't confuse it with vergeben (to forgive, to award): Die Stelle ist schon vergeben (the job is already taken)."
+}

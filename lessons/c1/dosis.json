@@ -1,0 +1,142 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Dosis",
+    "partOfSpeech": "noun, feminine (die Dosis)",
+    "pronunciation": {
+      "respelling": "DO-zis",
+      "ipa": "ˈdoːzɪs",
+      "notes": "Plural: die Dosen."
+    },
+    "meaning": "dose",
+    "shortDefinition": "Dose."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Dosis, plural die Dosen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Dosis"
+        },
+        {
+          "label": "More than one",
+          "value": "die Dosen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nehmen Sie die doppelte Dosis nicht ohne Rücksprache.",
+      "english": "Don't take a double dose without consulting.",
+      "highlight": [
+        "Dosis"
+      ]
+    },
+    {
+      "german": "Eine kleine Dosis Humor schadet nie.",
+      "english": "A small dose of humour never hurts.",
+      "highlight": [
+        "Dosis"
+      ]
+    }
+  ],
+  "forms": [
+    "Dosen",
+    "die Dosen",
+    "die Dosis",
+    "Überdosis",
+    "dosieren"
+  ],
+  "memoryHook": "Dosis: the right amount, or the wrong one.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Dosis",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Dosis is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Dosis, zwei ___",
+      "answer": "Dosen",
+      "fullAnswer": "ein Dosis, zwei Dosen",
+      "explanation": "The plural is Dosen.",
+      "acceptedAnswers": [
+        "Dosen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Dosis mean?",
+      "options": [
+        "the bill",
+        "dose",
+        "the weather"
+      ],
+      "answer": "dose",
+      "explanation": "Dosis: dose.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Dosen",
+        "Dosise"
+      ],
+      "answer": "Dosen",
+      "explanation": "Irregular -en.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Dose (a different word) means…",
+      "options": [
+        "a can, a tin",
+        "a dose"
+      ],
+      "answer": "a can, a tin",
+      "explanation": "Look-alike of Dosen.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Überdosis is…",
+      "options": [
+        "an overdose",
+        "a double dose of medicine"
+      ],
+      "answer": "an overdose",
+      "explanation": "Über + Dosis.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "The verb is…",
+      "options": [
+        "dosieren",
+        "dosen"
+      ],
+      "answer": "dosieren",
+      "explanation": "To measure out.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Die Dosis (plural Dosen) is a dose: die richtige Dosis, eine tödliche Dosis, Die Dosis macht das Gift (the dose makes the poison, often attributed to Paracelsus). The plural Dosen looks like the plural of die Dose (can, tin), so context matters. The verb is dosieren (to measure out) and die Überdosis is an overdose. It's also used figuratively: eine Dosis Ironie."
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "steinigen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHTAI-ni-gen",
+      "ipa": "ˈʃtaɪ̯nɪɡn̩",
+      "notes": ""
+    },
+    "meaning": "to stone (to death)",
+    "shortDefinition": "To stone (to death)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "steinig|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "steinig|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "steinig|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "steinig|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "steinig|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "steinig|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gesteinigt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In der Bibel wird Stephanus gesteinigt.",
+      "english": "In the Bible, Stephen is stoned.",
+      "highlight": [
+        "gesteinigt."
+      ]
+    },
+    {
+      "german": "Menschenrechtler protestieren gegen das Steinigen.",
+      "english": "Human rights activists protest against stoning.",
+      "highlight": [
+        "Steinigen."
+      ]
+    }
+  ],
+  "forms": [
+    "steinige",
+    "steinigst",
+    "steinigt",
+    "steinigen",
+    "gesteinigt",
+    "Steinigung"
+  ],
+  "memoryHook": "Steinigen: kill by throwing Steine (stones).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (steinigen)",
+      "answer": "steinigt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: steinigt.",
+      "acceptedAnswers": [
+        "steinigt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (steinigen, past)",
+      "answer": "gesteinigt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gesteinigt.",
+      "acceptedAnswers": [
+        "gesteinigt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does steinigen mean?",
+      "options": [
+        "the child",
+        "to stone (to death)",
+        "the window"
+      ],
+      "answer": "to stone (to death)",
+      "explanation": "steinigen: to stone (to death).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Steinigung is…",
+      "options": [
+        "stoning",
+        "paving"
+      ],
+      "answer": "stoning",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Humorously, Steinigt mich! means…",
+      "options": [
+        "Go ahead, condemn me!",
+        "Throw me a stone!"
+      ],
+      "answer": "Go ahead, condemn me!",
+      "explanation": "Humour.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Stein is…",
+      "options": [
+        "stone",
+        "star"
+      ],
+      "answer": "stone",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Steinigen means to stone, an ancient method of execution described in the Bible; the martyr Stephen was gesteinigt. Human rights groups campaign against die Steinigung, which still exists in some legal systems. Humorously, people say Steinigt mich, aber... (go on, condemn me, but...) before an unpopular opinion. From der Stein. Regular: steinigte, gesteinigt."
+}

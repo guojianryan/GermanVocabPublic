@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "heranziehen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "he-RAN-tsee-en",
+      "ipa": "hɛˈʁanˌt͡siːən",
+      "notes": ""
+    },
+    "meaning": "to call on, consult; to draw on; to pull closer",
+    "shortDefinition": "To call on, consult; to draw on; to pull closer."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "zieh|e … |heran"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "zieh|st … |heran"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "zieh|t … |heran"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "zieh|en … |heran"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "zieh|t … |heran"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "zieh|en … |heran"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat herangezogen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Für das Gutachten wurde ein Experte herangezogen.",
+      "english": "An expert was called in for the report.",
+      "highlight": [
+        "herangezogen."
+      ]
+    },
+    {
+      "german": "Als Vergleich ziehen wir die Daten von 2020 heran.",
+      "english": "For comparison we're drawing on the 2020 data.",
+      "highlight": [
+        "ziehen",
+        "heran."
+      ]
+    }
+  ],
+  "forms": [
+    "ziehe heran",
+    "ziehst heran",
+    "zieht heran",
+    "ziehen heran",
+    "herangezogen",
+    "zog heran"
+  ],
+  "memoryHook": "Heranziehen: pull (ziehen) something close (heran) to use it.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … heran (heranziehen)",
+      "answer": "zieht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: zieht … heran.",
+      "acceptedAnswers": [
+        "zieht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (heranziehen, past)",
+      "answer": "herangezogen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe herangezogen.",
+      "acceptedAnswers": [
+        "herangezogen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does heranziehen mean?",
+      "options": [
+        "expensive",
+        "the family",
+        "to call on"
+      ],
+      "answer": "to call on",
+      "explanation": "heranziehen: to call on, consult; to draw on; to pull closer.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einen Experten heranziehen means…",
+      "options": [
+        "to call in an expert",
+        "to train an expert"
+      ],
+      "answer": "to call in an expert",
+      "explanation": "Consult.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Etwas zum Vergleich heranziehen means…",
+      "options": [
+        "to use something for comparison",
+        "to pull something closer"
+      ],
+      "answer": "to use something for comparison",
+      "explanation": "Draw on.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "zog heran, herangezogen",
+        "ziehte heran"
+      ],
+      "answer": "zog heran, herangezogen",
+      "explanation": "Irregular.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Heranziehen means to call on or consult: einen Experten heranziehen, or to draw on as evidence: Daten zum Vergleich heranziehen, ein Urteil als Begründung heranziehen. It's common in academic and legal writing. Literally, it means to pull closer: den Stuhl heranziehen. Jemanden zur Verantwortung heranziehen means to hold someone responsible. Separable and irregular: zog heran, herangezogen."
+}

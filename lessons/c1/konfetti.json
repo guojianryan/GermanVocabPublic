@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Konfetti",
+    "partOfSpeech": "noun, neuter (das Konfetti)",
+    "pronunciation": {
+      "respelling": "kon-FE-tee",
+      "ipa": "kɔnˈfɛti",
+      "notes": "Usually no plural."
+    },
+    "meaning": "confetti",
+    "shortDefinition": "Confetti."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Konfetti, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Konfetti"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Zu Karneval regnete es Konfetti.",
+      "english": "At carnival it rained confetti.",
+      "highlight": [
+        "Konfetti."
+      ]
+    },
+    {
+      "german": "Die Kinder warfen Konfetti auf das Brautpaar.",
+      "english": "The children threw confetti at the bride and groom.",
+      "highlight": [
+        "Konfetti"
+      ]
+    }
+  ],
+  "forms": [
+    "das Konfetti"
+  ],
+  "memoryHook": "Konfetti: from Italian confetti (sweets).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Konfetti",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Konfetti is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Konfetti mean?",
+      "options": [
+        "to travel",
+        "confetti",
+        "tomorrow"
+      ],
+      "answer": "confetti",
+      "explanation": "Konfetti: confetti.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Konfetti in German is…",
+      "options": [
+        "neuter, no plural",
+        "plural only"
+      ],
+      "answer": "neuter, no plural",
+      "explanation": "Grammar.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Austria it's also…",
+      "options": [
+        "der Konfetti",
+        "die Konfetti"
+      ],
+      "answer": "der Konfetti",
+      "explanation": "Region.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Italian confetti originally were…",
+      "options": [
+        "sugared almonds, sweets",
+        "paper bits"
+      ],
+      "answer": "sugared almonds, sweets",
+      "explanation": "Origin.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Konfetti is confetti, thrown at Karneval (Fasching), weddings and New Year parties. In Austria it's sometimes der Konfetti. The Italian word originally meant sugared sweets thrown during carnival, later replaced by paper. Die Luftschlange is a paper streamer. It has no plural. Many places now ban plastic confetti for environmental reasons."
+}

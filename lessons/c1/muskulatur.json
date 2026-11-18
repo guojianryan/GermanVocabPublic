@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Muskulatur",
+    "partOfSpeech": "noun, feminine (die Muskulatur)",
+    "pronunciation": {
+      "respelling": "mus-ku-la-TOOR",
+      "ipa": "mʊskulaˈtuːɐ̯",
+      "notes": "Plural: die Muskulaturen."
+    },
+    "meaning": "musculature, muscles",
+    "shortDefinition": "Musculature, muscles."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Muskulatur, plural die Muskulaturen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Muskulatur"
+        },
+        {
+          "label": "More than one",
+          "value": "die Muskulaturen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Training stärkt die Rückenmuskulatur.",
+      "english": "The training strengthens the back muscles.",
+      "highlight": [
+        "Rückenmuskulatur."
+      ]
+    },
+    {
+      "german": "Nach der Verletzung muss die Muskulatur wieder aufgebaut werden.",
+      "english": "After the injury the muscles must be built up again.",
+      "highlight": [
+        "Muskulatur"
+      ]
+    }
+  ],
+  "forms": [
+    "Muskulaturen",
+    "die Muskulatur"
+  ],
+  "memoryHook": "Muskulatur: all the Muskeln together.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Muskulatur",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Muskulatur is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Muskulatur, zwei ___",
+      "answer": "Muskulaturen",
+      "fullAnswer": "ein Muskulatur, zwei Muskulaturen",
+      "explanation": "The plural is Muskulaturen.",
+      "acceptedAnswers": [
+        "Muskulaturen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Muskulatur mean?",
+      "options": [
+        "musculature",
+        "never",
+        "to learn"
+      ],
+      "answer": "musculature",
+      "explanation": "Muskulatur: musculature, muscles.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Muskel is…",
+      "options": [
+        "muscle",
+        "mussel"
+      ],
+      "answer": "muscle",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Muskelkater is…",
+      "options": [
+        "muscle soreness after exercise",
+        "a muscular cat"
+      ],
+      "answer": "muscle soreness after exercise",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Muskulös means…",
+      "options": [
+        "muscular",
+        "musical"
+      ],
+      "answer": "muscular",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Muskulatur is the musculature, all the muscles of a body part: die Bauchmuskulatur, die Rückenmuskulatur, die Muskulatur aufbauen. Der Muskel is a single muscle. A wonderful German word: der Muskelkater (muscle cat), the soreness the day after exercise. Muskulös means muscular. Pronounced mus-ku-la-TOOR. Plural (rare): die Muskulaturen."
+}

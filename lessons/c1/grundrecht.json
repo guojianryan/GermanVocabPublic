@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Grundrecht",
+    "partOfSpeech": "noun, neuter (das Grundrecht)",
+    "pronunciation": {
+      "respelling": "GRUNT-rekht",
+      "ipa": "ˈɡʁʊntˌʁɛçt",
+      "notes": "Plural: die Grundrechte."
+    },
+    "meaning": "fundamental right, basic right",
+    "shortDefinition": "Fundamental right, basic right."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Grundrecht, plural die Grundrechte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Grundrecht"
+        },
+        {
+          "label": "More than one",
+          "value": "die Grundrechte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Meinungsfreiheit ist ein Grundrecht.",
+      "english": "Freedom of expression is a fundamental right.",
+      "highlight": [
+        "Grundrecht."
+      ]
+    },
+    {
+      "german": "Die Grundrechte stehen am Anfang des Grundgesetzes.",
+      "english": "The basic rights come at the start of the Basic Law.",
+      "highlight": [
+        "Grundrechte"
+      ]
+    }
+  ],
+  "forms": [
+    "Grundrechte",
+    "die Grundrechte",
+    "das Grundrecht"
+  ],
+  "memoryHook": "Grundrecht: a right at the foundation (Grund).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Grundrecht",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Grundrecht is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Grundrecht, zwei ___",
+      "answer": "Grundrechte",
+      "fullAnswer": "ein Grundrecht, zwei Grundrechte",
+      "explanation": "The plural is Grundrechte.",
+      "acceptedAnswers": [
+        "Grundrechte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Grundrecht mean?",
+      "options": [
+        "the evening",
+        "fundamental right",
+        "to buy"
+      ],
+      "answer": "fundamental right",
+      "explanation": "Grundrecht: fundamental right, basic right.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Grundrechte are in Articles…",
+      "options": [
+        "1 to 19 of the Grundgesetz",
+        "100 to 120"
+      ],
+      "answer": "1 to 19 of the Grundgesetz",
+      "explanation": "Placed first on purpose.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Article 1 begins…",
+      "options": [
+        "Die Würde des Menschen ist unantastbar.",
+        "Alle Macht geht vom Volke aus."
+      ],
+      "answer": "Die Würde des Menschen ist unantastbar.",
+      "explanation": "Human dignity.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Grund here means…",
+      "options": [
+        "foundation",
+        "reason"
+      ],
+      "answer": "foundation",
+      "explanation": "Basic.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Grundrecht is a fundamental or basic right. The German Grundgesetz deliberately puts the Grundrechte first, in Articles 1 to 19, as a lesson from the Nazi era; Article 1 begins Die Würde des Menschen ist unantastbar (human dignity is inviolable). They include freedom of expression, religion and assembly. Anyone can file a Verfassungsbeschwerde (constitutional complaint) in Karlsruhe if they believe their Grundrechte have been violated."
+}

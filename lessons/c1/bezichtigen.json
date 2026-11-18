@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "bezichtigen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-TSIKH-ti-gen",
+      "ipa": "bəˈt͡sɪçtɪɡn̩",
+      "notes": ""
+    },
+    "meaning": "to accuse (of)",
+    "shortDefinition": "To accuse (of)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "bezichtig|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "bezichtig|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "bezichtig|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "bezichtig|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "bezichtig|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "bezichtig|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat bezichtigt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Man bezichtigte ihn des Diebstahls.",
+      "english": "He was accused of theft.",
+      "highlight": [
+        "bezichtigte"
+      ]
+    },
+    {
+      "german": "Sie bezichtigt ihn, gelogen zu haben.",
+      "english": "She accuses him of having lied.",
+      "highlight": [
+        "bezichtigt"
+      ]
+    }
+  ],
+  "forms": [
+    "bezichtige",
+    "bezichtigst",
+    "bezichtigt",
+    "bezichtigen"
+  ],
+  "memoryHook": "Bezichtigen: point at someone's guilt (old zīht, accusation).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (bezichtigen)",
+      "answer": "bezichtigt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: bezichtigt.",
+      "acceptedAnswers": [
+        "bezichtigt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (bezichtigen, past)",
+      "answer": "bezichtigt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe bezichtigt.",
+      "acceptedAnswers": [
+        "bezichtigt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does bezichtigen mean?",
+      "options": [
+        "the station",
+        "to accuse (of)",
+        "the bill"
+      ],
+      "answer": "to accuse (of)",
+      "explanation": "bezichtigen: to accuse (of).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bezichtigen takes…",
+      "options": [
+        "accusative person + genitive crime",
+        "dative person"
+      ],
+      "answer": "accusative person + genitive crime",
+      "explanation": "Genitive.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "beschuldigen, anklagen",
+        "loben"
+      ],
+      "answer": "beschuldigen, anklagen",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal",
+        "slang"
+      ],
+      "answer": "formal",
+      "explanation": "Register.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Bezichtigen means to accuse, formally and often of something unproven: jemanden des Betrugs bezichtigen (with the genitive) or jemanden bezichtigen, etwas getan zu haben. Synonyms: beschuldigen, vorwerfen (jemandem etwas vorwerfen), and legally anklagen (to charge). It comes from an old word for accusation, related to verzeihen. Not separable: hat bezichtigt."
+}

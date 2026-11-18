@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Dämon",
+    "partOfSpeech": "noun, masculine (der Dämon)",
+    "pronunciation": {
+      "respelling": "DAY-mon",
+      "ipa": "ˈdɛːmɔn",
+      "notes": "Plural: die Dämonen."
+    },
+    "meaning": "demon",
+    "shortDefinition": "Demon."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Dämon, plural die Dämonen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Dämon"
+        },
+        {
+          "label": "More than one",
+          "value": "die Dämonen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er kämpft mit seinen inneren Dämonen.",
+      "english": "He's fighting his inner demons.",
+      "highlight": [
+        "Dämonen."
+      ]
+    },
+    {
+      "german": "In der Geschichte taucht ein Dämon auf.",
+      "english": "A demon appears in the story.",
+      "highlight": [
+        "Dämon"
+      ]
+    }
+  ],
+  "forms": [
+    "Dämonen",
+    "die Dämonen",
+    "der Dämon",
+    "dämonisch",
+    "dämonisieren"
+  ],
+  "memoryHook": "Dämon: DÄ-mon, but de-MOH-nen in the plural.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Dämon",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Dämon is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Dämon, zwei ___",
+      "answer": "Dämonen",
+      "fullAnswer": "ein Dämon, zwei Dämonen",
+      "explanation": "The plural is Dämonen.",
+      "acceptedAnswers": [
+        "Daemonen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Dämon mean?",
+      "options": [
+        "the flower",
+        "always",
+        "demon"
+      ],
+      "answer": "demon",
+      "explanation": "Dämon: demon.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Dämonen (de-MOH-nen)",
+        "die Dämons"
+      ],
+      "answer": "die Dämonen (de-MOH-nen)",
+      "explanation": "Stress shift.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Dämonisieren means…",
+      "options": [
+        "to demonise",
+        "to dominate"
+      ],
+      "answer": "to demonise",
+      "explanation": "dämonisieren.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Innere Dämonen are…",
+      "options": [
+        "personal struggles, inner demons",
+        "ghosts in a house"
+      ],
+      "answer": "personal struggles, inner demons",
+      "explanation": "Figurative.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Dämon is a demon: böse Dämonen, seine inneren Dämonen besiegen (to overcome one's inner demons). Note the stress shift: DÄ-mon in the singular, de-MOH-nen in the plural. Dämonisch means demonic, and dämonisieren means to demonise: Man sollte den Gegner nicht dämonisieren. In Greek, a daimon was a neutral spirit; in Goethe's work, das Dämonische describes an uncanny, irresistible force."
+}

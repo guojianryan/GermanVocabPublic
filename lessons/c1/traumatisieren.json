@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "traumatisieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "trau-ma-ti-ZEE-ren",
+      "ipa": "tʁaʊ̯matiˈziːʁən",
+      "notes": ""
+    },
+    "meaning": "to traumatise",
+    "shortDefinition": "To traumatise."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "traumatisier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "traumatisier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "traumatisier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "traumatisier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "traumatisier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "traumatisier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat traumatisiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Unfall hat das Kind traumatisiert.",
+      "english": "The accident traumatised the child.",
+      "highlight": [
+        "traumatisiert."
+      ]
+    },
+    {
+      "german": "Viele Geflüchtete sind schwer traumatisiert.",
+      "english": "Many refugees are severely traumatised.",
+      "highlight": [
+        "traumatisiert."
+      ]
+    }
+  ],
+  "forms": [
+    "traumatisiere",
+    "traumatisierst",
+    "traumatisiert",
+    "traumatisieren",
+    "Trauma",
+    "traumatisch"
+  ],
+  "memoryHook": "Traumatisieren: cause a Trauma (wound).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (traumatisieren)",
+      "answer": "traumatisiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: traumatisiert.",
+      "acceptedAnswers": [
+        "traumatisiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (traumatisieren, past)",
+      "answer": "traumatisiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe traumatisiert.",
+      "acceptedAnswers": [
+        "traumatisiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does traumatisieren mean?",
+      "options": [
+        "to traumatise",
+        "the station",
+        "never"
+      ],
+      "answer": "to traumatise",
+      "explanation": "traumatisieren: to traumatise.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Trauma is…",
+      "options": [
+        "trauma",
+        "dream"
+      ],
+      "answer": "trauma",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Traum is…",
+      "options": [
+        "dream",
+        "trauma"
+      ],
+      "answer": "dream",
+      "explanation": "Different.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Traumatisch means…",
+      "options": [
+        "traumatic",
+        "dreamy"
+      ],
+      "answer": "traumatic",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Traumatisieren means to traumatise: Der Krieg hat ihn traumatisiert, schwer traumatisierte Menschen. Das Trauma (plural Traumata) is trauma, and traumatisch traumatic. The psychiatric term is die posttraumatische Belastungsstörung (PTBS, PTSD). Don't confuse it with der Traum (dream): traumhaft means wonderful. Trauma is Greek for wound. Perfect without ge-: hat traumatisiert."
+}

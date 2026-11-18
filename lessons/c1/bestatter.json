@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bestatter",
+    "partOfSpeech": "noun, masculine (der Bestatter)",
+    "pronunciation": {
+      "respelling": "be-SHTA-ter",
+      "ipa": "bəˈʃtatɐ",
+      "notes": "Plural: die Bestatter."
+    },
+    "meaning": "undertaker, funeral director",
+    "shortDefinition": "Undertaker, funeral director."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Bestatter, plural die Bestatter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Bestatter"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bestatter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Bestatter kümmerte sich um die Formalitäten.",
+      "english": "The undertaker took care of the formalities.",
+      "highlight": [
+        "Bestatter"
+      ]
+    },
+    {
+      "german": "Sie arbeitet als Bestatterin.",
+      "english": "She works as a funeral director.",
+      "highlight": [
+        "Bestatterin."
+      ]
+    }
+  ],
+  "forms": [
+    "Bestatterin",
+    "der Bestatter"
+  ],
+  "memoryHook": "Bestatter: someone who bestattet (buries).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bestatter",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Bestatter is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bestatter, zwei ___",
+      "answer": "Bestatter",
+      "fullAnswer": "ein Bestatter, zwei Bestatter",
+      "explanation": "The plural is Bestatter.",
+      "acceptedAnswers": [
+        "Bestatter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bestatter mean?",
+      "options": [
+        "the bill",
+        "the bed",
+        "undertaker"
+      ],
+      "answer": "undertaker",
+      "explanation": "Bestatter: undertaker, funeral director.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bestatten means…",
+      "options": [
+        "to bury, inter",
+        "to establish"
+      ],
+      "answer": "to bury, inter",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Bestattungsinstitut is…",
+      "options": [
+        "funeral home",
+        "a cemetery office"
+      ],
+      "answer": "funeral home",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Bestattung is…",
+      "options": [
+        "funeral, burial",
+        "a state"
+      ],
+      "answer": "funeral, burial",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Bestatter or die Bestatterin is an undertaker or funeral director, working for a Bestattungsinstitut. Bestatten means to bury or inter, and die Bestattung is the burial or funeral. Germany has strict rules: most states require burial in a cemetery (Friedhofszwang), though some have relaxed this. The plural is the same: die Bestatter."
+}

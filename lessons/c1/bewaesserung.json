@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bewässerung",
+    "partOfSpeech": "noun, feminine (die Bewässerung)",
+    "pronunciation": {
+      "respelling": "be-VES-se-rung",
+      "ipa": "bəˈvɛsəʁʊŋ",
+      "notes": "Plural: die Bewässerungen."
+    },
+    "meaning": "irrigation, watering",
+    "shortDefinition": "Irrigation, watering."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Bewässerung, plural die Bewässerungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Bewässerung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bewässerungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ohne Bewässerung wächst hier kein Gemüse.",
+      "english": "Without irrigation no vegetables grow here.",
+      "highlight": [
+        "Bewässerung"
+      ]
+    },
+    {
+      "german": "Die Bewässerung des Gartens kostet viel Wasser.",
+      "english": "Watering the garden uses a lot of water.",
+      "highlight": [
+        "Bewässerung"
+      ]
+    }
+  ],
+  "forms": [
+    "Bewässerungen",
+    "die Bewässerung"
+  ],
+  "memoryHook": "Bewässerung: supplying Wasser to land.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bewässerung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Bewässerung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bewässerung, zwei ___",
+      "answer": "Bewässerungen",
+      "fullAnswer": "ein Bewässerung, zwei Bewässerungen",
+      "explanation": "The plural is Bewässerungen.",
+      "acceptedAnswers": [
+        "Bewaesserungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bewässerung mean?",
+      "options": [
+        "irrigation",
+        "the bill",
+        "quiet"
+      ],
+      "answer": "irrigation",
+      "explanation": "Bewässerung: irrigation, watering.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bewässern means…",
+      "options": [
+        "to irrigate, water",
+        "to dilute"
+      ],
+      "answer": "to irrigate, water",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Tröpfchenbewässerung is…",
+      "options": [
+        "drip irrigation",
+        "a sprinkler"
+      ],
+      "answer": "drip irrigation",
+      "explanation": "Compound.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Entwässern means…",
+      "options": [
+        "to drain",
+        "to water"
+      ],
+      "answer": "to drain",
+      "explanation": "Opposite.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Bewässerung is irrigation or watering: künstliche Bewässerung, Tröpfchenbewässerung (drip irrigation). After several dry summers, farmers in regions like Brandenburg and Lower Saxony increasingly rely on irrigation, and some districts restrict garden watering during droughts. Bewässern means to irrigate; the opposite is entwässern (to drain). Plural: die Bewässerungen."
+}

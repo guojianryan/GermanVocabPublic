@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "übermitteln",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ü-ber-MI-teln",
+      "ipa": "yːbɐˈmɪtl̩n",
+      "notes": ""
+    },
+    "meaning": "to transmit, convey",
+    "shortDefinition": "To transmit, convey."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "übermittle"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "übermittel|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "übermittel|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "übermittel|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "übermittel|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "übermittel|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat übermittelt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Daten werden verschlüsselt übermittelt.",
+      "english": "The data is transmitted in encrypted form.",
+      "highlight": [
+        "übermittelt."
+      ]
+    },
+    {
+      "german": "Bitte übermitteln Sie ihm meine Grüße.",
+      "english": "Please pass on my regards to him.",
+      "highlight": [
+        "übermitteln"
+      ]
+    }
+  ],
+  "forms": [
+    "übermittle",
+    "übermittelst",
+    "übermittelt",
+    "übermitteln",
+    "Übermittlung"
+  ],
+  "memoryHook": "Übermitteln: pass something over (über) via a Mittel (means).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (übermitteln)",
+      "answer": "übermittelt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: übermittelt.",
+      "acceptedAnswers": [
+        "uebermittelt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (übermitteln, past)",
+      "answer": "übermittelt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe übermittelt.",
+      "acceptedAnswers": [
+        "uebermittelt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does übermitteln mean?",
+      "options": [
+        "expensive",
+        "the bed",
+        "to transmit"
+      ],
+      "answer": "to transmit",
+      "explanation": "übermitteln: to transmit, convey.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grüße übermitteln means…",
+      "options": [
+        "to pass on greetings",
+        "to send gifts"
+      ],
+      "answer": "to pass on greetings",
+      "explanation": "Greetings.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Übermittlung is…",
+      "options": [
+        "transmission",
+        "mediation"
+      ],
+      "answer": "transmission",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Übermitteln is…",
+      "options": [
+        "not separable",
+        "separable"
+      ],
+      "answer": "not separable",
+      "explanation": "hat übermittelt.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Übermitteln means to transmit or convey: Daten übermitteln, eine Nachricht übermitteln, Glückwünsche übermitteln (to pass on congratulations). It's common in IT and official German: Ihre Daten wurden erfolgreich übermittelt. Die Übermittlung is transmission. German tax returns are übermittelt electronically through ELSTER. Not separable: hat übermittelt; ich übermittle."
+}

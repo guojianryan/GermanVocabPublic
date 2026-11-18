@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Brennstoff",
+    "partOfSpeech": "noun, masculine (der Brennstoff)",
+    "pronunciation": {
+      "respelling": "BREN-shtof",
+      "ipa": "ˈbʁɛnˌʃtɔf",
+      "notes": "Plural: die Brennstoffe."
+    },
+    "meaning": "fuel",
+    "shortDefinition": "Fuel."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Brennstoff, plural die Brennstoffe.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Brennstoff"
+        },
+        {
+          "label": "More than one",
+          "value": "die Brennstoffe"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Holz war früher der wichtigste Brennstoff.",
+      "english": "Wood used to be the main fuel.",
+      "highlight": [
+        "Brennstoff."
+      ]
+    },
+    {
+      "german": "Fossile Brennstoffe verursachen CO₂-Emissionen.",
+      "english": "Fossil fuels cause CO₂ emissions.",
+      "highlight": [
+        "Brennstoffe"
+      ]
+    }
+  ],
+  "forms": [
+    "Brennstoffe",
+    "der Brennstoff"
+  ],
+  "memoryHook": "Brennstoff: a Stoff that brennt (burns).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Brennstoff",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Brennstoff is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Brennstoff, zwei ___",
+      "answer": "Brennstoffe",
+      "fullAnswer": "ein Brennstoff, zwei Brennstoffe",
+      "explanation": "The plural is Brennstoffe.",
+      "acceptedAnswers": [
+        "Brennstoffe"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Brennstoff mean?",
+      "options": [
+        "fuel",
+        "to wait",
+        "the station"
+      ],
+      "answer": "fuel",
+      "explanation": "Brennstoff: fuel.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Brennstoffzelle is…",
+      "options": [
+        "fuel cell",
+        "a prison cell"
+      ],
+      "answer": "fuel cell",
+      "explanation": "Compound.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kraftstoff is…",
+      "options": [
+        "fuel for engines",
+        "a strong fabric"
+      ],
+      "answer": "fuel for engines",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Brennelemente (nuclear) are…",
+      "options": [
+        "fuel elements/rods",
+        "burns"
+      ],
+      "answer": "fuel elements/rods",
+      "explanation": "Nuclear.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Brennstoff is fuel that's burned for heat or energy: Holz, Kohle, Heizöl, Gas; fossile Brennstoffe are fossil fuels. Fuel for engines is usually der Kraftstoff or der Treibstoff. Die Brennstoffzelle is a fuel cell. Since 2021 Germany has a national CO₂ price on heating and transport fuels under the Brennstoffemissionshandelsgesetz. Plural: die Brennstoffe."
+}

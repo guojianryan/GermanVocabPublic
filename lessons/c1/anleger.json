@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Anleger",
+    "partOfSpeech": "noun, masculine (der Anleger)",
+    "pronunciation": {
+      "respelling": "AN-lay-ger",
+      "ipa": "ˈanleːɡɐ",
+      "notes": "Plural: die Anleger."
+    },
+    "meaning": "investor",
+    "shortDefinition": "Investor."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Anleger, plural die Anleger.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Anleger"
+        },
+        {
+          "label": "More than one",
+          "value": "die Anleger"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Anleger sind nervös.",
+      "english": "Investors are nervous.",
+      "highlight": [
+        "Anleger"
+      ]
+    },
+    {
+      "german": "Viele Kleinanleger kaufen Aktienfonds.",
+      "english": "Many small investors buy equity funds.",
+      "highlight": [
+        "Kleinanleger"
+      ]
+    }
+  ],
+  "forms": [
+    "die Anleger",
+    "Anlegerin",
+    "Kleinanleger",
+    "anlegen",
+    "Geldanlage"
+  ],
+  "memoryHook": "Anleger: someone who legt Geld an.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Anleger",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Anleger is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Anleger, zwei ___",
+      "answer": "Anleger",
+      "fullAnswer": "ein Anleger, zwei Anleger",
+      "explanation": "The plural is Anleger.",
+      "acceptedAnswers": [
+        "Anleger"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Anleger mean?",
+      "options": [
+        "cheap",
+        "quiet",
+        "investor"
+      ],
+      "answer": "investor",
+      "explanation": "Anleger: investor.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Geld anlegen means…",
+      "options": [
+        "to invest money",
+        "to spend money"
+      ],
+      "answer": "to invest money",
+      "explanation": "anlegen.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kleinanleger is…",
+      "options": [
+        "a small private investor",
+        "a dwarf"
+      ],
+      "answer": "a small private investor",
+      "explanation": "Small investor.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ships also anlegen, meaning…",
+      "options": [
+        "to dock",
+        "to sink"
+      ],
+      "answer": "to dock",
+      "explanation": "Dock.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Anleger (die Anlegerin) is an investor: private Anleger, institutionelle Anleger. Geld anlegen means to invest money, and die Geldanlage an investment. Der Kleinanleger is a small private investor. Der Anleger is also a jetty or landing stage, since Schiffe legen an (ships dock). Germans have traditionally preferred the Sparbuch (savings account), but more are becoming Anleger in ETFs."
+}

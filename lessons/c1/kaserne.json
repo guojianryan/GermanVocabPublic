@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kaserne",
+    "partOfSpeech": "noun, feminine (die Kaserne)",
+    "pronunciation": {
+      "respelling": "ka-ZER-ne",
+      "ipa": "kaˈzɛʁnə",
+      "notes": "Plural: die Kasernen."
+    },
+    "meaning": "barracks",
+    "shortDefinition": "Barracks."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kaserne, plural die Kasernen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kaserne"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kasernen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Soldaten kehrten in die Kaserne zurück.",
+      "english": "The soldiers returned to the barracks.",
+      "highlight": [
+        "Kaserne"
+      ]
+    },
+    {
+      "german": "Die alte Kaserne wird zu Wohnungen umgebaut.",
+      "english": "The old barracks are being converted into flats.",
+      "highlight": [
+        "Kaserne"
+      ]
+    }
+  ],
+  "forms": [
+    "Kasernen",
+    "die Kasernen",
+    "die Kaserne"
+  ],
+  "memoryHook": "Kaserne: the soldiers' quarters, from French caserne.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kaserne",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kaserne is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kaserne, zwei ___",
+      "answer": "Kasernen",
+      "fullAnswer": "ein Kaserne, zwei Kasernen",
+      "explanation": "The plural is Kasernen.",
+      "acceptedAnswers": [
+        "Kasernen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kaserne mean?",
+      "options": [
+        "to sing",
+        "barracks",
+        "cheap"
+      ],
+      "answer": "barracks",
+      "explanation": "Kaserne: barracks.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kaserne is…",
+      "options": [
+        "singular (one barracks)",
+        "always plural"
+      ],
+      "answer": "singular (one barracks)",
+      "explanation": "Feminine singular.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kasernenton is…",
+      "options": [
+        "a harsh, commanding tone",
+        "a bugle"
+      ],
+      "answer": "a harsh, commanding tone",
+      "explanation": "Tone.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "After the Cold War, many Kasernen were…",
+      "options": [
+        "converted to housing",
+        "doubled"
+      ],
+      "answer": "converted to housing",
+      "explanation": "Konversion.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kaserne is a military barracks; English barracks is plural in form, but German Kaserne is a normal feminine singular. After the Cold War and the withdrawal of many Allied troops, numerous Kasernen were turned into housing, universities or business parks, a process called Konversion. Der Kasernenton is a harsh, barked tone of command. From French caserne. Plural: die Kasernen."
+}

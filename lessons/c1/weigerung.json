@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Weigerung",
+    "partOfSpeech": "noun, feminine (die Weigerung)",
+    "pronunciation": {
+      "respelling": "VAI-ge-rung",
+      "ipa": "ˈvaɪ̯ɡəʁʊŋ",
+      "notes": "Plural: die Weigerungen."
+    },
+    "meaning": "refusal",
+    "shortDefinition": "Refusal."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Weigerung, plural die Weigerungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Weigerung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Weigerungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Seine Weigerung, zu zahlen, führte zum Prozess.",
+      "english": "His refusal to pay led to the trial.",
+      "highlight": [
+        "Weigerung,"
+      ]
+    },
+    {
+      "german": "Die Weigerung der Regierung stößt auf Kritik.",
+      "english": "The government's refusal is meeting with criticism.",
+      "highlight": [
+        "Weigerung"
+      ]
+    }
+  ],
+  "forms": [
+    "Weigerungen",
+    "die Weigerung"
+  ],
+  "memoryHook": "Weigerung: the act of sich weigern (refusing).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Weigerung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Weigerung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Weigerung, zwei ___",
+      "answer": "Weigerungen",
+      "fullAnswer": "ein Weigerung, zwei Weigerungen",
+      "explanation": "The plural is Weigerungen.",
+      "acceptedAnswers": [
+        "Weigerungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Weigerung mean?",
+      "options": [
+        "to sleep",
+        "refusal",
+        "the bill"
+      ],
+      "answer": "refusal",
+      "explanation": "Weigerung: refusal.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich weigern means…",
+      "options": [
+        "to refuse",
+        "to weigh"
+      ],
+      "answer": "to refuse",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Verweigerung is…",
+      "options": [
+        "refusal (often of a duty)",
+        "a weight"
+      ],
+      "answer": "refusal (often of a duty)",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kriegsdienstverweigerer is…",
+      "options": [
+        "conscientious objector",
+        "a war veteran"
+      ],
+      "answer": "conscientious objector",
+      "explanation": "Compound.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Weigerung is a refusal: seine Weigerung, mitzumachen. Sich weigern means to refuse, often with zu + infinitive: Sie weigerte sich zu unterschreiben. Die Verweigerung is often used for refusing a duty: Arbeitsverweigerung, Leistungsverweigerung. Article 4 of the Grundgesetz lets Kriegsdienstverweigerer (conscientious objectors) refuse armed service. Plural: die Weigerungen."
+}

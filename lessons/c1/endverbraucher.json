@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Endverbraucher",
+    "partOfSpeech": "noun, masculine (der Endverbraucher)",
+    "pronunciation": {
+      "respelling": "ENT-fer-brau-kher",
+      "ipa": "ˈɛntfɛɐ̯ˌbʁaʊ̯xɐ",
+      "notes": "Plural: die Endverbraucher."
+    },
+    "meaning": "end consumer",
+    "shortDefinition": "End consumer."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Endverbraucher, plural die Endverbraucher.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Endverbraucher"
+        },
+        {
+          "label": "More than one",
+          "value": "die Endverbraucher"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Preise werden an den Endverbraucher weitergegeben.",
+      "english": "The prices are passed on to the end consumer.",
+      "highlight": [
+        "Endverbraucher"
+      ]
+    },
+    {
+      "german": "Der Endverbraucher zahlt die Mehrwertsteuer.",
+      "english": "The end consumer pays the VAT.",
+      "highlight": [
+        "Endverbraucher"
+      ]
+    }
+  ],
+  "forms": [
+    "Endverbraucherin",
+    "der Endverbraucher"
+  ],
+  "memoryHook": "Endverbraucher: the Verbraucher at the Ende of the chain.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Endverbraucher",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Endverbraucher is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Endverbraucher, zwei ___",
+      "answer": "Endverbraucher",
+      "fullAnswer": "ein Endverbraucher, zwei Endverbraucher",
+      "explanation": "The plural is Endverbraucher.",
+      "acceptedAnswers": [
+        "Endverbraucher"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Endverbraucher mean?",
+      "options": [
+        "the station",
+        "end consumer",
+        "always"
+      ],
+      "answer": "end consumer",
+      "explanation": "Endverbraucher: end consumer.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Verbraucher is…",
+      "options": [
+        "consumer",
+        "a burner"
+      ],
+      "answer": "consumer",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verbraucherschutz is…",
+      "options": [
+        "consumer protection",
+        "a consumer tax"
+      ],
+      "answer": "consumer protection",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Konsument, der Kunde",
+        "der Hersteller"
+      ],
+      "answer": "der Konsument, der Kunde",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Endverbraucher is the end consumer, the last link in the supply chain: der Preis für den Endverbraucher. Price rises are often passed on to the Endverbraucher. Der Verbraucher is consumer, and Verbraucherschutz consumer protection; the Verbraucherzentralen advise the public. Verbrauchen means to use up. The plural is the same."
+}

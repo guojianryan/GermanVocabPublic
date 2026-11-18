@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Taifun",
+    "partOfSpeech": "noun, masculine (der Taifun)",
+    "pronunciation": {
+      "respelling": "tai-FOON",
+      "ipa": "taɪ̯ˈfuːn",
+      "notes": "Plural: die Taifune."
+    },
+    "meaning": "typhoon",
+    "shortDefinition": "Typhoon."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Taifun, plural die Taifune.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Taifun"
+        },
+        {
+          "label": "More than one",
+          "value": "die Taifune"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ein Taifun traf die Küste Japans.",
+      "english": "A typhoon hit the coast of Japan.",
+      "highlight": [
+        "Taifun"
+      ]
+    },
+    {
+      "german": "Wegen des Taifuns wurden alle Flüge gestrichen.",
+      "english": "All flights were cancelled because of the typhoon.",
+      "highlight": [
+        "Taifuns"
+      ]
+    }
+  ],
+  "forms": [
+    "Taifune",
+    "der Taifun",
+    "Taifuns"
+  ],
+  "memoryHook": "Taifun: a big wind (Chinese tai fung).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Taifun",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Taifun is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Taifun, zwei ___",
+      "answer": "Taifune",
+      "fullAnswer": "ein Taifun, zwei Taifune",
+      "explanation": "The plural is Taifune.",
+      "acceptedAnswers": [
+        "Taifune"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Taifun mean?",
+      "options": [
+        "cheap",
+        "typhoon",
+        "quiet"
+      ],
+      "answer": "typhoon",
+      "explanation": "Taifun: typhoon.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Taifun vs. Hurrikan:",
+      "options": [
+        "same storm type, different ocean",
+        "different strength"
+      ],
+      "answer": "same storm type, different ocean",
+      "explanation": "Same.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Typhoons occur in…",
+      "options": [
+        "the north-west Pacific",
+        "the Atlantic"
+      ],
+      "answer": "the north-west Pacific",
+      "explanation": "Region.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Wirbelsturm is…",
+      "options": [
+        "cyclone, tropical storm",
+        "a whirlpool"
+      ],
+      "answer": "cyclone, tropical storm",
+      "explanation": "General term.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Taifun is a typhoon, a tropical cyclone in the north-west Pacific, hitting countries such as Japan, the Philippines and China. The same storm is called der Hurrikan in the Atlantic and der Zyklon in the Indian Ocean; the general German term is der Wirbelsturm or der tropische Wirbelsturm. Stressed on the last syllable. Plural: die Taifune."
+}

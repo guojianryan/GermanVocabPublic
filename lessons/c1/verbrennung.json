@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Verbrennung",
+    "partOfSpeech": "noun, feminine (die Verbrennung)",
+    "pronunciation": {
+      "respelling": "fer-BRE-nung",
+      "ipa": "fɛɐ̯ˈbʁɛnʊŋ",
+      "notes": "Plural: die Verbrennungen."
+    },
+    "meaning": "burning, combustion; burn (injury)",
+    "shortDefinition": "Burning, combustion; burn (injury)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Verbrennung, plural die Verbrennungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Verbrennung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Verbrennungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er erlitt schwere Verbrennungen.",
+      "english": "He suffered severe burns.",
+      "highlight": [
+        "Verbrennungen."
+      ]
+    },
+    {
+      "german": "Ab 2035 sollen in der EU keine neuen Autos mit Verbrennungsmotor verkauft werden.",
+      "english": "From 2035 no new combustion-engine cars are to be sold in the EU.",
+      "highlight": [
+        "Verbrennungsmotor"
+      ]
+    }
+  ],
+  "forms": [
+    "Verbrennungen",
+    "die Verbrennung",
+    "verbrennen",
+    "Verbrenner"
+  ],
+  "memoryHook": "Verbrennung: something being verbrannt (burnt).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Verbrennung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Verbrennung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Verbrennung, zwei ___",
+      "answer": "Verbrennungen",
+      "fullAnswer": "ein Verbrennung, zwei Verbrennungen",
+      "explanation": "The plural is Verbrennungen.",
+      "acceptedAnswers": [
+        "Verbrennungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Verbrennung mean?",
+      "options": [
+        "burning",
+        "never",
+        "cheap"
+      ],
+      "answer": "burning",
+      "explanation": "Verbrennung: burning, combustion; burn (injury).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Verbrenner (colloquial) is…",
+      "options": [
+        "a combustion-engine car",
+        "a burner phone"
+      ],
+      "answer": "a combustion-engine car",
+      "explanation": "Car.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verbrennen means…",
+      "options": [
+        "to burn (up)",
+        "to brand"
+      ],
+      "answer": "to burn (up)",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Bücherverbrennung of 1933 was…",
+      "options": [
+        "the Nazi book burnings",
+        "a library fire"
+      ],
+      "answer": "the Nazi book burnings",
+      "explanation": "History.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Verbrennung is burning or combustion (der Verbrennungsmotor, combustion engine) and a burn injury: Verbrennungen ersten Grades. The EU's planned phase-out of new Verbrenner cars from 2035 is hotly debated in car-loving Germany. On 10 May 1933, Nazi students held Bücherverbrennungen of books by Jewish and left-wing authors; a sunken library memorial marks the spot in Berlin's Bebelplatz. Plural: die Verbrennungen."
+}

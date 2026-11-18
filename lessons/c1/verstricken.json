@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verstricken",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-SHTRI-ken",
+      "ipa": "fɛɐ̯ˈʃtʁɪkn̩",
+      "notes": ""
+    },
+    "meaning": "to entangle, embroil",
+    "shortDefinition": "To entangle, embroil."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verstrick|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verstrick|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verstrick|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verstrick|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verstrick|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verstrick|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verstrickt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hat sich in Widersprüche verstrickt.",
+      "english": "He got tangled up in contradictions.",
+      "highlight": [
+        "verstrickt."
+      ]
+    },
+    {
+      "german": "Der Minister war in den Skandal verstrickt.",
+      "english": "The minister was embroiled in the scandal.",
+      "highlight": [
+        "verstrickt."
+      ]
+    }
+  ],
+  "forms": [
+    "verstricke",
+    "verstrickst",
+    "verstrickt",
+    "verstricken",
+    "Verstrickung"
+  ],
+  "memoryHook": "Verstricken: get caught in a Strick (rope, net).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verstricken)",
+      "answer": "verstrickt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verstrickt.",
+      "acceptedAnswers": [
+        "verstrickt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verstricken, past)",
+      "answer": "verstrickt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verstrickt.",
+      "acceptedAnswers": [
+        "verstrickt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verstricken mean?",
+      "options": [
+        "to sing",
+        "the key",
+        "to entangle"
+      ],
+      "answer": "to entangle",
+      "explanation": "verstricken: to entangle, embroil.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In etwas verstrickt sein means…",
+      "options": [
+        "to be embroiled in something",
+        "to be knitting"
+      ],
+      "answer": "to be embroiled in something",
+      "explanation": "Embroiled.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stricken means…",
+      "options": [
+        "to knit",
+        "to strike"
+      ],
+      "answer": "to knit",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Verstrickung is…",
+      "options": [
+        "entanglement, involvement",
+        "knitwear"
+      ],
+      "answer": "entanglement, involvement",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verstricken means to entangle or embroil: in einen Skandal verstrickt sein, sich in Widersprüche verstricken (to contradict oneself, typically when lying). Die Verstrickung is entanglement or involvement, used for example of individuals' involvement in Nazi crimes. Stricken means to knit, and der Strick is a rope. Not separable: hat verstrickt."
+}

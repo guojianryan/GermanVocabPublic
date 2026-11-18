@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schwimmer",
+    "partOfSpeech": "noun, masculine (der Schwimmer)",
+    "pronunciation": {
+      "respelling": "SHVI-mer",
+      "ipa": "ˈʃvɪmɐ",
+      "notes": "Plural: die Schwimmer."
+    },
+    "meaning": "swimmer; float",
+    "shortDefinition": "Swimmer; float."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schwimmer, plural die Schwimmer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schwimmer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schwimmer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie ist eine gute Schwimmerin.",
+      "english": "She's a good swimmer.",
+      "highlight": [
+        "Schwimmerin."
+      ]
+    },
+    {
+      "german": "Das Becken ist nur für Schwimmer.",
+      "english": "The pool is for swimmers only.",
+      "highlight": [
+        "Schwimmer."
+      ]
+    }
+  ],
+  "forms": [
+    "die Schwimmer",
+    "der Schwimmer",
+    "Schwimmerin",
+    "Nichtschwimmer"
+  ],
+  "memoryHook": "Schwimmer: someone who schwimmt.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schwimmer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schwimmer is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schwimmer, zwei ___",
+      "answer": "Schwimmer",
+      "fullAnswer": "ein Schwimmer, zwei Schwimmer",
+      "explanation": "The plural is Schwimmer.",
+      "acceptedAnswers": [
+        "Schwimmer"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schwimmer mean?",
+      "options": [
+        "swimmer",
+        "to wait",
+        "the street"
+      ],
+      "answer": "swimmer",
+      "explanation": "Schwimmer: swimmer; float.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nichtschwimmer means…",
+      "options": [
+        "non-swimmer",
+        "a sinking float"
+      ],
+      "answer": "non-swimmer",
+      "explanation": "Non-swimmer.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Seepferdchen is…",
+      "options": [
+        "a children's first swimming badge",
+        "a pool toy"
+      ],
+      "answer": "a children's first swimming badge",
+      "explanation": "Badge.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Schwimmerin",
+        "die Schwimme"
+      ],
+      "answer": "die Schwimmerin",
+      "explanation": "-in.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Schwimmer (die Schwimmerin) is a swimmer. German public pools have a Schwimmerbecken (deep pool for swimmers) and a Nichtschwimmerbecken (shallow pool). Children earn the Seepferdchen badge (little seahorse) as a first swimming certificate, then Bronze, Silber and Gold. The DLRG warns that more and more children can't swim well. In engineering, der Schwimmer is a float, as in a toilet cistern. Plural: die Schwimmer."
+}

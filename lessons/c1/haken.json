@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Haken",
+    "partOfSpeech": "noun, masculine (der Haken)",
+    "pronunciation": {
+      "respelling": "HAA-ken",
+      "ipa": "ˈhaːkn̩",
+      "notes": "Plural: die Haken."
+    },
+    "meaning": "hook; tick; catch (drawback)",
+    "shortDefinition": "Hook; tick; catch (drawback)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Haken, plural die Haken.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Haken"
+        },
+        {
+          "label": "More than one",
+          "value": "die Haken"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Häng die Jacke an den Haken.",
+      "english": "Hang the jacket on the hook.",
+      "highlight": [
+        "Haken."
+      ]
+    },
+    {
+      "german": "Das Angebot hat einen Haken.",
+      "english": "The offer has a catch.",
+      "highlight": [
+        "Haken."
+      ]
+    }
+  ],
+  "forms": [
+    "die Haken",
+    "der Haken",
+    "abhaken",
+    "hakig"
+  ],
+  "memoryHook": "Haken: hook, tick, and the catch in every deal.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Haken",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Haken is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Haken, zwei ___",
+      "answer": "Haken",
+      "fullAnswer": "ein Haken, zwei Haken",
+      "explanation": "The plural is Haken.",
+      "acceptedAnswers": [
+        "Haken"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Haken mean?",
+      "options": [
+        "to sleep",
+        "hook",
+        "the window"
+      ],
+      "answer": "hook",
+      "explanation": "Haken: hook; tick; catch (drawback).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Sache hat einen Haken means…",
+      "options": [
+        "there's a catch",
+        "it's finished"
+      ],
+      "answer": "there's a catch",
+      "explanation": "Catch.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A tick ✓ in German is…",
+      "options": [
+        "ein Haken",
+        "ein Kreuz"
+      ],
+      "answer": "ein Haken",
+      "explanation": "Haken = tick.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Haken schlagen (of a hare) means…",
+      "options": [
+        "to zigzag",
+        "to jump"
+      ],
+      "answer": "to zigzag",
+      "explanation": "Dodge.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Haken is a hook: der Kleiderhaken. It's also the tick mark ✓ (einen Haken setzen), so abhaken means to tick off, or to put something behind you: Das Thema ist abgehakt. Die Sache hat einen Haken means there's a catch. In boxing, it's a hook punch. Einen Haken schlagen means to dodge sideways, like a hare. The plural is the same: die Haken."
+}

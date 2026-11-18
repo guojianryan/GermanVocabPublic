@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rentenversicherung",
+    "partOfSpeech": "noun, feminine (die Rentenversicherung)",
+    "pronunciation": {
+      "respelling": "REN-ten-fer-zi-khe-rung",
+      "ipa": "ˈʁɛntn̩fɛɐ̯ˌzɪçəʁʊŋ",
+      "notes": "Plural: die Rentenversicherungen."
+    },
+    "meaning": "pension insurance",
+    "shortDefinition": "Pension insurance."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Rentenversicherung, plural die Rentenversicherungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Rentenversicherung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Rentenversicherungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Arbeitnehmer zahlen in die Rentenversicherung ein.",
+      "english": "Employees pay into the pension insurance.",
+      "highlight": [
+        "Rentenversicherung"
+      ]
+    },
+    {
+      "german": "Die Deutsche Rentenversicherung schickt jedes Jahr eine Renteninformation.",
+      "english": "The German pension insurance sends a pension statement every year.",
+      "highlight": [
+        "Rentenversicherung"
+      ]
+    }
+  ],
+  "forms": [
+    "Rentenversicherungen",
+    "die Rentenversicherung",
+    "Rente"
+  ],
+  "memoryHook": "Rentenversicherung: insurance (Versicherung) for your Rente.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rentenversicherung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Rentenversicherung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Rentenversicherung, zwei ___",
+      "answer": "Rentenversicherungen",
+      "fullAnswer": "ein Rentenversicherung, zwei Rentenversicherungen",
+      "explanation": "The plural is Rentenversicherungen.",
+      "acceptedAnswers": [
+        "Rentenversicherungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rentenversicherung mean?",
+      "options": [
+        "pension insurance",
+        "to sleep",
+        "the window"
+      ],
+      "answer": "pension insurance",
+      "explanation": "Rentenversicherung: pension insurance.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Rente is…",
+      "options": [
+        "pension",
+        "rent"
+      ],
+      "answer": "pension",
+      "explanation": "False friend.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Contributions are split…",
+      "options": [
+        "between employer and employee",
+        "only paid by the state"
+      ],
+      "answer": "between employer and employee",
+      "explanation": "Split.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rent for a flat is…",
+      "options": [
+        "die Miete",
+        "die Rente"
+      ],
+      "answer": "die Miete",
+      "explanation": "Miete.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Rentenversicherung is pension insurance. The statutory one, die gesetzliche Rentenversicherung, was introduced by Bismarck in 1889, among the first in the world. Today employers and employees each pay half of about 18.6 percent of gross salary, and it works on a pay-as-you-go basis (Umlageverfahren). Die Rente is a pension; rent for a flat is die Miete, a classic false friend. Plural: die Rentenversicherungen."
+}

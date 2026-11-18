@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Querschnitt",
+    "partOfSpeech": "noun, masculine (der Querschnitt)",
+    "pronunciation": {
+      "respelling": "KVAIR-shnit",
+      "ipa": "ˈkveːɐ̯ˌʃnɪt",
+      "notes": "Plural: die Querschnitte."
+    },
+    "meaning": "cross-section",
+    "shortDefinition": "Cross-section."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Querschnitt, plural die Querschnitte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Querschnitt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Querschnitte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Zeichnung zeigt einen Querschnitt des Motors.",
+      "english": "The drawing shows a cross-section of the engine.",
+      "highlight": [
+        "Querschnitt"
+      ]
+    },
+    {
+      "german": "Die Umfrage bietet einen Querschnitt der Bevölkerung.",
+      "english": "The survey provides a cross-section of the population.",
+      "highlight": [
+        "Querschnitt"
+      ]
+    }
+  ],
+  "forms": [
+    "Querschnitte",
+    "die Querschnitte",
+    "der Querschnitt"
+  ],
+  "memoryHook": "Querschnitt: a cut (Schnitt) across (quer).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Querschnitt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Querschnitt is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Querschnitt, zwei ___",
+      "answer": "Querschnitte",
+      "fullAnswer": "ein Querschnitt, zwei Querschnitte",
+      "explanation": "The plural is Querschnitte.",
+      "acceptedAnswers": [
+        "Querschnitte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Querschnitt mean?",
+      "options": [
+        "to travel",
+        "cross-section",
+        "the key"
+      ],
+      "answer": "cross-section",
+      "explanation": "Querschnitt: cross-section.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Querschnittsgelähmt means…",
+      "options": [
+        "paraplegic",
+        "cross-eyed"
+      ],
+      "answer": "paraplegic",
+      "explanation": "Medicine.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Quer means…",
+      "options": [
+        "across, crosswise",
+        "queer only"
+      ],
+      "answer": "across, crosswise",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Querschnittsaufgabe is…",
+      "options": [
+        "a cross-cutting task (across departments)",
+        "a puzzle"
+      ],
+      "answer": "a cross-cutting task (across departments)",
+      "explanation": "Admin.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Querschnitt is a cross-section, literally (Querschnitt eines Baumstamms) or figuratively: ein repräsentativer Querschnitt der Bevölkerung, ein Querschnitt durch das Werk eines Künstlers. Querschnittsgelähmt means paraplegic. In administration, eine Querschnittsaufgabe is a cross-cutting task, like digitalisation or gender equality. Quer means across: querfeldein (cross-country). Plural: die Querschnitte."
+}

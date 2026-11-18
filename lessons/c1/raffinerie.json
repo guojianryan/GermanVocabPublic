@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Raffinerie",
+    "partOfSpeech": "noun, feminine (die Raffinerie)",
+    "pronunciation": {
+      "respelling": "ra-fi-ne-REE",
+      "ipa": "ʁafinəˈʁiː",
+      "notes": "Plural: die Raffinerien."
+    },
+    "meaning": "refinery",
+    "shortDefinition": "Refinery."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Raffinerie, plural die Raffinerien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Raffinerie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Raffinerien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Raffinerie verarbeitet Rohöl zu Benzin.",
+      "english": "The refinery processes crude oil into petrol.",
+      "highlight": [
+        "Raffinerie"
+      ]
+    },
+    {
+      "german": "Die Raffinerie in Schwedt war lange auf russisches Öl angewiesen.",
+      "english": "The refinery in Schwedt long depended on Russian oil.",
+      "highlight": [
+        "Raffinerie"
+      ]
+    }
+  ],
+  "forms": [
+    "Raffinerien",
+    "die Raffinerie"
+  ],
+  "memoryHook": "Raffinerie: where things are raffiniert (refined).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Raffinerie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Raffinerie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Raffinerie, zwei ___",
+      "answer": "Raffinerien",
+      "fullAnswer": "ein Raffinerie, zwei Raffinerien",
+      "explanation": "The plural is Raffinerien.",
+      "acceptedAnswers": [
+        "Raffinerien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Raffinerie mean?",
+      "options": [
+        "the key",
+        "to wait",
+        "refinery"
+      ],
+      "answer": "refinery",
+      "explanation": "Raffinerie: refinery.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Raffinieren means…",
+      "options": [
+        "to refine",
+        "to raffle"
+      ],
+      "answer": "to refine",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Raffiniert (adjective) means…",
+      "options": [
+        "refined; cunning, clever",
+        "raffled"
+      ],
+      "answer": "refined; cunning, clever",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Rohöl is…",
+      "options": [
+        "crude oil",
+        "raw oil for cooking"
+      ],
+      "answer": "crude oil",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Raffinerie is a refinery: eine Erdölraffinerie, eine Zuckerraffinerie. Raffinieren means to refine. The PCK refinery in Schwedt, which supplies much of Berlin's fuel, became a political issue after 2022 because it had processed Russian oil via the Druzhba pipeline. Raffiniert also means cunning or clever: ein raffinierter Plan. Plural: die Raffinerien."
+}

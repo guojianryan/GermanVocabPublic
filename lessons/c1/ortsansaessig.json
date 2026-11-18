@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ortsansässig",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "ORTS-an-ze-sikh",
+      "ipa": "ˈɔʁt͡sʔanˌzɛsɪç",
+      "notes": ""
+    },
+    "meaning": "local, resident",
+    "shortDefinition": "Local, resident."
+  },
+  "sampleSentences": [
+    {
+      "german": "Wir unterstützen ortsansässige Betriebe.",
+      "english": "We support local businesses.",
+      "highlight": [
+        "ortsansässige"
+      ]
+    },
+    {
+      "german": "Ein ortsansässiger Arzt half sofort.",
+      "english": "A local doctor helped immediately.",
+      "highlight": [
+        "ortsansässiger"
+      ]
+    }
+  ],
+  "forms": [
+    "ortsansässige",
+    "ortsansässigen",
+    "ortsansässiger"
+  ],
+  "memoryHook": "Ortsansässig: ansässig (settled) in the Ort.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does ortsansässig mean?",
+      "options": [
+        "the key",
+        "local",
+        "the door"
+      ],
+      "answer": "local",
+      "explanation": "ortsansässig: local, resident.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ansässig means…",
+      "options": [
+        "resident, established",
+        "seated"
+      ],
+      "answer": "resident, established",
+      "explanation": "Root.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "örtlich, einheimisch, lokal",
+        "auswärtig"
+      ],
+      "answer": "örtlich, einheimisch, lokal",
+      "explanation": "Synonym.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ort is…",
+      "options": [
+        "place, village",
+        "a word"
+      ],
+      "answer": "place, village",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ Firmen (local)",
+      "answer": "ortsansässige",
+      "fullAnswer": "ortsansässige Firmen",
+      "explanation": "Plural -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Ortsansässig means local or resident, a formal word in official and business language: ortsansässige Unternehmen, Handwerker, Bürger. Ansässig means settled or established: in München ansässig. Synonyms: einheimisch, örtlich, lokal. Many towns run Kaufe lokal campaigns to support ortsansässige Geschäfte against online retail."
+}

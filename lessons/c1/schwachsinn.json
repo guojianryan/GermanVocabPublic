@@ -1,0 +1,121 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schwachsinn",
+    "partOfSpeech": "noun, masculine (der Schwachsinn)",
+    "pronunciation": {
+      "respelling": "SHVAKH-zin",
+      "ipa": "ˈʃvaxzɪn",
+      "notes": "Usually no plural."
+    },
+    "meaning": "nonsense, rubbish",
+    "shortDefinition": "Nonsense, rubbish."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schwachsinn, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schwachsinn"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das ist doch Schwachsinn!",
+      "english": "That's utter nonsense!",
+      "highlight": [
+        "Schwachsinn!"
+      ]
+    },
+    {
+      "german": "Red keinen Schwachsinn.",
+      "english": "Don't talk rubbish.",
+      "highlight": [
+        "Schwachsinn."
+      ]
+    }
+  ],
+  "forms": [
+    "der Schwachsinn",
+    "schwachsinnig"
+  ],
+  "memoryHook": "Schwachsinn: weak (schwach) sense (Sinn).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schwachsinn",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schwachsinn is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schwachsinn mean?",
+      "options": [
+        "nonsense",
+        "the flower",
+        "the bed"
+      ],
+      "answer": "nonsense",
+      "explanation": "Schwachsinn: nonsense, rubbish.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "informal, rude",
+        "formal"
+      ],
+      "answer": "informal, rude",
+      "explanation": "Colloquial.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schwachsinnig means…",
+      "options": [
+        "idiotic",
+        "weak"
+      ],
+      "answer": "idiotic",
+      "explanation": "Idiotic.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Politer alternative:",
+      "options": [
+        "Unsinn",
+        "Schwachsinn"
+      ],
+      "answer": "Unsinn",
+      "explanation": "Unsinn = nonsense.",
+      "id": "q5"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "So ein ___! (nonsense)",
+      "answer": "Schwachsinn",
+      "fullAnswer": "So ein Schwachsinn!",
+      "explanation": "Schwachsinn.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Schwachsinn means nonsense or rubbish in casual speech: Das ist totaler Schwachsinn! It's blunt and a bit rude, so with colleagues use Unsinn or Quatsch instead. Originally, Schwachsinn was a medical term for intellectual disability, which is why it can sound offensive. Schwachsinnig means idiotic. Literally: weak (schwach) mind or sense (der Sinn). Similar: der Blödsinn."
+}

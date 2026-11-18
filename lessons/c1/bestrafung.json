@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bestrafung",
+    "partOfSpeech": "noun, feminine (die Bestrafung)",
+    "pronunciation": {
+      "respelling": "be-SHTRAA-fung",
+      "ipa": "bəˈʃtʁaːfʊŋ",
+      "notes": "Plural: die Bestrafungen."
+    },
+    "meaning": "punishment",
+    "shortDefinition": "Punishment."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Bestrafung, plural die Bestrafungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Bestrafung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bestrafungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Bestrafung war zu mild.",
+      "english": "The punishment was too lenient.",
+      "highlight": [
+        "Bestrafung"
+      ]
+    },
+    {
+      "german": "Er hat Angst vor Bestrafung.",
+      "english": "He's afraid of being punished.",
+      "highlight": [
+        "Bestrafung."
+      ]
+    }
+  ],
+  "forms": [
+    "Bestrafungen",
+    "die Bestrafungen",
+    "die Bestrafung",
+    "bestrafen"
+  ],
+  "memoryHook": "Bestrafung: the act of bestrafen (punishing).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bestrafung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Bestrafung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bestrafung, zwei ___",
+      "answer": "Bestrafungen",
+      "fullAnswer": "ein Bestrafung, zwei Bestrafungen",
+      "explanation": "The plural is Bestrafungen.",
+      "acceptedAnswers": [
+        "Bestrafungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bestrafung mean?",
+      "options": [
+        "always",
+        "the bill",
+        "punishment"
+      ],
+      "answer": "punishment",
+      "explanation": "Bestrafung: punishment.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bestrafen means…",
+      "options": [
+        "to punish",
+        "to forgive"
+      ],
+      "answer": "to punish",
+      "explanation": "bestrafen.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Strafe is…",
+      "options": [
+        "the penalty, punishment, fine",
+        "the street"
+      ],
+      "answer": "the penalty, punishment, fine",
+      "explanation": "Strafe.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Straflos means…",
+      "options": [
+        "unpunished, without penalty",
+        "endless"
+      ],
+      "answer": "unpunished, without penalty",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Bestrafung is punishment, the act of punishing: die Bestrafung der Täter, eine harte Bestrafung. Die Strafe is the penalty itself: eine Strafe zahlen. Bestrafen means to punish: Er wurde mit einer Geldstrafe bestraft. Physical punishment of children has been banned in Germany since 2000; § 1631 of the Civil Code gives children a right to a non-violent upbringing. Plural: die Bestrafungen."
+}

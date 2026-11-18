@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ortszeit",
+    "partOfSpeech": "noun, feminine (die Ortszeit)",
+    "pronunciation": {
+      "respelling": "ORTS-tsait",
+      "ipa": "ˈɔʁt͡sˌt͡saɪ̯t",
+      "notes": "Plural: die Ortszeiten."
+    },
+    "meaning": "local time",
+    "shortDefinition": "Local time."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Ortszeit, plural die Ortszeiten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Ortszeit"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ortszeiten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Flug landet um 14 Uhr Ortszeit.",
+      "english": "The flight lands at 2 p.m. local time.",
+      "highlight": [
+        "Ortszeit."
+      ]
+    },
+    {
+      "german": "In New York ist es sechs Stunden früher als in Berlin.",
+      "english": "In New York it's six hours earlier than in Berlin.",
+      "highlight": [
+        "früher"
+      ]
+    }
+  ],
+  "forms": [
+    "Ortszeiten",
+    "die Ortszeit"
+  ],
+  "memoryHook": "Ortszeit: the Zeit at a particular Ort.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ortszeit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Ortszeit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Ortszeit, zwei ___",
+      "answer": "Ortszeiten",
+      "fullAnswer": "ein Ortszeit, zwei Ortszeiten",
+      "explanation": "The plural is Ortszeiten.",
+      "acceptedAnswers": [
+        "Ortszeiten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ortszeit mean?",
+      "options": [
+        "local time",
+        "hot",
+        "the bill"
+      ],
+      "answer": "local time",
+      "explanation": "Ortszeit: local time.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's time zone is…",
+      "options": [
+        "MEZ (CET), MESZ in summer",
+        "GMT"
+      ],
+      "answer": "MEZ (CET), MESZ in summer",
+      "explanation": "Zone.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Zeitzone is…",
+      "options": [
+        "time zone",
+        "a time limit"
+      ],
+      "answer": "time zone",
+      "explanation": "Zone.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ort is…",
+      "options": [
+        "place",
+        "word"
+      ],
+      "answer": "place",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Ortszeit is local time: um 10 Uhr Ortszeit. Germany uses MEZ (Mitteleuropäische Zeit, CET) and MESZ (summer time). Its official time is broadcast by the DCF77 radio signal from Mainflingen, based on atomic clocks at the PTB in Braunschweig, which sets radio-controlled clocks (Funkuhren) across Europe. Die Zeitzone is a time zone. Plural: die Ortszeiten."
+}

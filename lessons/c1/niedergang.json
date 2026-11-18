@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Niedergang",
+    "partOfSpeech": "noun, masculine (der Niedergang)",
+    "pronunciation": {
+      "respelling": "NEE-der-gang",
+      "ipa": "ˈniːdɐˌɡaŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "decline, downfall",
+    "shortDefinition": "Decline, downfall."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Niedergang, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Niedergang"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Niedergang der Industrie traf die Region hart.",
+      "english": "The decline of industry hit the region hard.",
+      "highlight": [
+        "Niedergang"
+      ]
+    },
+    {
+      "german": "Das war der Anfang vom Niedergang des Reiches.",
+      "english": "That was the beginning of the empire's downfall.",
+      "highlight": [
+        "Niedergang"
+      ]
+    }
+  ],
+  "forms": [
+    "der Niedergang"
+  ],
+  "memoryHook": "Niedergang: going (Gang) down (nieder).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Niedergang",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Niedergang is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Niedergang mean?",
+      "options": [
+        "decline",
+        "expensive",
+        "always"
+      ],
+      "answer": "decline",
+      "explanation": "Niedergang: decline, downfall.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite:",
+      "options": [
+        "der Aufstieg",
+        "der Abstieg"
+      ],
+      "answer": "der Aufstieg",
+      "explanation": "Rise.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nieder means…",
+      "options": [
+        "down, low",
+        "never"
+      ],
+      "answer": "down, low",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Untergang is…",
+      "options": [
+        "fall, sinking, demise",
+        "a basement"
+      ],
+      "answer": "fall, sinking, demise",
+      "explanation": "Synonym.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Niedergang is decline or downfall: der Niedergang des Bergbaus, der wirtschaftliche Niedergang. Oswald Spengler's 1918 book Der Untergang des Abendlandes (The Decline of the West) uses the stronger word der Untergang (demise, sinking, as of the Titanic). The opposite is der Aufstieg (rise). Nieder means down: niederlegen, Niederlage (defeat). It has no plural."
+}

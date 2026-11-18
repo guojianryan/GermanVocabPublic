@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wildbahn",
+    "partOfSpeech": "noun, feminine (die Wildbahn)",
+    "pronunciation": {
+      "respelling": "VILT-baan",
+      "ipa": "ˈvɪltˌbaːn",
+      "notes": "Usually no plural."
+    },
+    "meaning": "the wild",
+    "shortDefinition": "The wild."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Wildbahn, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Wildbahn"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In freier Wildbahn sind diese Tiere selten.",
+      "english": "These animals are rare in the wild.",
+      "highlight": [
+        "Wildbahn"
+      ]
+    },
+    {
+      "german": "Der Luchs lebt wieder in freier Wildbahn im Harz.",
+      "english": "The lynx lives in the wild in the Harz again.",
+      "highlight": [
+        "Wildbahn"
+      ]
+    }
+  ],
+  "forms": [
+    "die Wildbahn"
+  ],
+  "memoryHook": "Wildbahn: the Bahn (range) where Wild (game) roams.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wildbahn",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Wildbahn is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wildbahn mean?",
+      "options": [
+        "never",
+        "the wild",
+        "the job"
+      ],
+      "answer": "the wild",
+      "explanation": "Wildbahn: the wild.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wildbahn is used almost only in…",
+      "options": [
+        "in freier Wildbahn",
+        "die große Wildbahn"
+      ],
+      "answer": "in freier Wildbahn",
+      "explanation": "Fixed phrase.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Wild is…",
+      "options": [
+        "game (animals)",
+        "wild"
+      ],
+      "answer": "game (animals)",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The lynx was reintroduced in the Harz…",
+      "options": [
+        "from 2000",
+        "in 1800"
+      ],
+      "answer": "from 2000",
+      "explanation": "Lynx.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Wildbahn appears almost only in the phrase in freier Wildbahn (in the wild): Tiere in freier Wildbahn beobachten. Jokingly, people also use it for humans in their natural habitat. Several species have returned to Germany's freie Wildbahn, such as the wolf, and the lynx, reintroduced in the Harz from 2000. Das Wild means game animals. It has no plural."
+}

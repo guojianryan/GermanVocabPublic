@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Umlage",
+    "partOfSpeech": "noun, feminine (die Umlage)",
+    "pronunciation": {
+      "respelling": "UM-laa-ge",
+      "ipa": "ˈʊmˌlaːɡə",
+      "notes": "Plural: die Umlagen."
+    },
+    "meaning": "levy, apportioned charge",
+    "shortDefinition": "Levy, apportioned charge."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Umlage, plural die Umlagen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Umlage"
+        },
+        {
+          "label": "More than one",
+          "value": "die Umlagen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Heizkosten werden über die Umlage abgerechnet.",
+      "english": "The heating costs are billed via the apportioned charge.",
+      "highlight": [
+        "Umlage"
+      ]
+    },
+    {
+      "german": "Die EEG-Umlage wurde 2022 abgeschafft.",
+      "english": "The renewable energy levy was abolished in 2022.",
+      "highlight": [
+        "EEG-Umlage"
+      ]
+    }
+  ],
+  "forms": [
+    "Umlagen",
+    "die Umlage"
+  ],
+  "memoryHook": "Umlage: costs umgelegt (spread) over everyone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Umlage",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Umlage is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Umlage, zwei ___",
+      "answer": "Umlagen",
+      "fullAnswer": "ein Umlage, zwei Umlagen",
+      "explanation": "The plural is Umlagen.",
+      "acceptedAnswers": [
+        "Umlagen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Umlage mean?",
+      "options": [
+        "to open",
+        "hot",
+        "levy"
+      ],
+      "answer": "levy",
+      "explanation": "Umlage: levy, apportioned charge.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Umlegen (costs) means…",
+      "options": [
+        "to apportion, pass on",
+        "to knock down"
+      ],
+      "answer": "to apportion, pass on",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Nebenkosten are…",
+      "options": [
+        "service charges (rent)",
+        "side effects"
+      ],
+      "answer": "service charges (rent)",
+      "explanation": "Rent.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die EEG-Umlage funded…",
+      "options": [
+        "renewable energy",
+        "roads"
+      ],
+      "answer": "renewable energy",
+      "explanation": "EEG.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Umlage is a levy or charge spread among many payers. Landlords can pass on certain costs to tenants as Nebenkosten via an Umlage: die Kosten auf die Mieter umlegen. The EEG-Umlage, a surcharge on electricity bills that funded renewable energy, was abolished in July 2022 and is now paid from the federal budget. Umlegen means to apportion. Plural: die Umlagen."
+}

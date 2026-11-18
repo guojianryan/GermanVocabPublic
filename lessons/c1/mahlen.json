@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "mahlen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "MAA-len",
+      "ipa": "ˈmaːlən",
+      "notes": ""
+    },
+    "meaning": "to grind, mill",
+    "shortDefinition": "To grind, mill."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "mahl|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "mahl|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "mahl|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "mahl|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "mahl|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "mahl|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gemahlen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich mahle den Kaffee jeden Morgen frisch.",
+      "english": "I grind the coffee fresh every morning.",
+      "highlight": [
+        "mahle"
+      ]
+    },
+    {
+      "german": "Das Getreide wird in der Mühle gemahlen.",
+      "english": "The grain is ground in the mill.",
+      "highlight": [
+        "gemahlen."
+      ]
+    }
+  ],
+  "forms": [
+    "mahle",
+    "mahlst",
+    "mahlt",
+    "mahlen",
+    "gemahlen",
+    "mahlte",
+    "Mühle"
+  ],
+  "memoryHook": "Mahlen: what a Mühle (mill) does.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (mahlen)",
+      "answer": "mahlt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: mahlt.",
+      "acceptedAnswers": [
+        "mahlt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (mahlen, past)",
+      "answer": "gemahlen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gemahlen.",
+      "acceptedAnswers": [
+        "gemahlen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does mahlen mean?",
+      "options": [
+        "to grind",
+        "to open",
+        "hot"
+      ],
+      "answer": "to grind",
+      "explanation": "mahlen: to grind, mill.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "mahlte, gemahlen",
+        "muhl, gemuhlen"
+      ],
+      "answer": "mahlte, gemahlen",
+      "explanation": "Mixed.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mahlen vs. malen:",
+      "options": [
+        "grind vs. paint",
+        "the same"
+      ],
+      "answer": "grind vs. paint",
+      "explanation": "Homophones.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wer zuerst kommt, mahlt zuerst means…",
+      "options": [
+        "first come, first served",
+        "early birds grind"
+      ],
+      "answer": "first come, first served",
+      "explanation": "Proverb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Mahlen means to grind or mill: Kaffee, Getreide, Pfeffer mahlen. It sounds exactly like malen (to paint), but is spelled with h. Its past is regular (mahlte) but its participle is strong: gemahlen, as in gemahlener Kaffee. The proverb Wer zuerst kommt, mahlt zuerst (first come, first served) comes from mills, where farmers queued to grind grain. Die Mühle is the mill."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Enzyklopädie",
+    "partOfSpeech": "noun, feminine (die Enzyklopädie)",
+    "pronunciation": {
+      "respelling": "en-tsü-klo-pe-DEE",
+      "ipa": "ɛnt͡syklopɛˈdiː",
+      "notes": "Plural: die Enzyklopädien."
+    },
+    "meaning": "encyclopaedia",
+    "shortDefinition": "Encyclopaedia."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Enzyklopädie, plural die Enzyklopädien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Enzyklopädie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Enzyklopädien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hat alle Bände der Enzyklopädie gelesen.",
+      "english": "He has read every volume of the encyclopaedia.",
+      "highlight": [
+        "Enzyklopädie"
+      ]
+    },
+    {
+      "german": "Wikipedia ist die größte Enzyklopädie der Welt.",
+      "english": "Wikipedia is the world's largest encyclopaedia.",
+      "highlight": [
+        "Enzyklopädie"
+      ]
+    }
+  ],
+  "forms": [
+    "Enzyklopädien",
+    "die Enzyklopädie"
+  ],
+  "memoryHook": "Enzyklopädie: all-round (Greek enkyklios) education (paideia).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Enzyklopädie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Enzyklopädie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Enzyklopädie, zwei ___",
+      "answer": "Enzyklopädien",
+      "fullAnswer": "ein Enzyklopädie, zwei Enzyklopädien",
+      "explanation": "The plural is Enzyklopädien.",
+      "acceptedAnswers": [
+        "Enzyklopaedien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Enzyklopädie mean?",
+      "options": [
+        "tomorrow",
+        "encyclopaedia",
+        "to help"
+      ],
+      "answer": "encyclopaedia",
+      "explanation": "Enzyklopädie: encyclopaedia.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The classic German encyclopaedia is…",
+      "options": [
+        "der Brockhaus",
+        "der Duden"
+      ],
+      "answer": "der Brockhaus",
+      "explanation": "Brockhaus.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Duden is…",
+      "options": [
+        "the standard German dictionary",
+        "an encyclopaedia"
+      ],
+      "answer": "the standard German dictionary",
+      "explanation": "Dictionary.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "German Wikipedia is…",
+      "options": [
+        "one of the largest language editions",
+        "small"
+      ],
+      "answer": "one of the largest language editions",
+      "explanation": "Wikipedia.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Enzyklopädie is an encyclopaedia. The classic German one was der Brockhaus, published from 1808 in Leipzig; its last print edition appeared in 2005–06 before online sources took over. German Wikipedia, founded in 2001, is one of the largest and is known for strict quality standards. Der Duden is the dictionary, not an encyclopaedia. Stressed on the last syllable. Plural: die Enzyklopädien."
+}

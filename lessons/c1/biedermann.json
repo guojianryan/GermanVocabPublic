@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Biedermann",
+    "partOfSpeech": "noun, masculine (der Biedermann)",
+    "pronunciation": {
+      "respelling": "BEE-der-man",
+      "ipa": "ˈbiːdɐˌman",
+      "notes": "Plural: die Biedermänner."
+    },
+    "meaning": "upright citizen; philistine (ironic)",
+    "shortDefinition": "Upright citizen; philistine (ironic)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Biedermann, plural die Biedermänner.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Biedermann"
+        },
+        {
+          "label": "More than one",
+          "value": "die Biedermänner"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er gibt sich als Biedermann, ist aber ein Betrüger.",
+      "english": "He poses as an upright citizen but is a fraud.",
+      "highlight": [
+        "Biedermann,"
+      ]
+    },
+    {
+      "german": "Max Frisch schrieb Biedermann und die Brandstifter.",
+      "english": "Max Frisch wrote The Fire Raisers.",
+      "highlight": [
+        "Biedermann"
+      ]
+    }
+  ],
+  "forms": [
+    "Biedermänner",
+    "der Biedermann"
+  ],
+  "memoryHook": "Biedermann: a bieder (honest, staid) Mann.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Biedermann",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Biedermann is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Biedermann, zwei ___",
+      "answer": "Biedermänner",
+      "fullAnswer": "ein Biedermann, zwei Biedermänner",
+      "explanation": "The plural is Biedermänner.",
+      "acceptedAnswers": [
+        "Biedermaenner"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Biedermann mean?",
+      "options": [
+        "to buy",
+        "the bill",
+        "upright citizen"
+      ],
+      "answer": "upright citizen",
+      "explanation": "Biedermann: upright citizen; philistine (ironic).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Today Biedermann is often…",
+      "options": [
+        "ironic: a smug, narrow-minded citizen",
+        "a compliment"
+      ],
+      "answer": "ironic: a smug, narrow-minded citizen",
+      "explanation": "Irony.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bieder means…",
+      "options": [
+        "conventional, staid; (old) honest",
+        "beer-loving"
+      ],
+      "answer": "conventional, staid; (old) honest",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Biedermeier is…",
+      "options": [
+        "a cultural period (1815–1848)",
+        "a beer"
+      ],
+      "answer": "a cultural period (1815–1848)",
+      "explanation": "Period.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Biedermann is an upright, conventional citizen, today often ironic: a smug, narrow-minded philistine or a respectable façade hiding wrongdoing. Max Frisch's play Biedermann und die Brandstifter (1958) shows a citizen who lets arsonists into his house out of cowardice. Bieder means staid or conventional, and das Biedermeier (1815–1848) was an era of private, bourgeois domesticity. Plural: die Biedermänner."
+}

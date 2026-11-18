@@ -1,0 +1,156 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ausschluss",
+    "partOfSpeech": "noun, masculine (der Ausschluss)",
+    "pronunciation": {
+      "respelling": "AUS-shlus",
+      "ipa": "ˈaʊ̯sˌʃlʊs",
+      "notes": "Plural: die Ausschlüsse."
+    },
+    "meaning": "exclusion; expulsion; suspension",
+    "shortDefinition": "Exclusion; expulsion; suspension."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "aus",
+        "meaning": "out"
+      },
+      {
+        "part": "Schluss",
+        "meaning": "closing",
+        "note": "From schließen, to close."
+      }
+    ],
+    "literalMeaning": "a closing-out"
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Ausschluss, plural die Ausschlüsse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Ausschluss"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ausschlüsse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Ausschluss aus dem Verein kam überraschend.",
+      "english": "The expulsion from the club came as a surprise.",
+      "highlight": [
+        "Ausschluss"
+      ]
+    },
+    {
+      "german": "Das Gericht verhandelte unter Ausschluss der Öffentlichkeit.",
+      "english": "The court heard the case in closed session.",
+      "highlight": [
+        "Ausschluss"
+      ]
+    }
+  ],
+  "forms": [
+    "Ausschlüsse",
+    "die Ausschlüsse",
+    "der Ausschluss",
+    "ausschließen"
+  ],
+  "memoryHook": "Ausschluss: the door shut, with you outside.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ausschluss",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Ausschluss is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Ausschluss, zwei ___",
+      "answer": "Ausschlüsse",
+      "fullAnswer": "ein Ausschluss, zwei Ausschlüsse",
+      "explanation": "The plural is Ausschlüsse.",
+      "acceptedAnswers": [
+        "Ausschluesse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ausschluss mean?",
+      "options": [
+        "expensive",
+        "exclusion",
+        "to sleep"
+      ],
+      "answer": "exclusion",
+      "explanation": "Ausschluss: exclusion; expulsion; suspension.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unter Ausschluss der Öffentlichkeit means…",
+      "options": [
+        "behind closed doors",
+        "in public"
+      ],
+      "answer": "behind closed doors",
+      "explanation": "The public is excluded.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Ausschlüsse",
+        "Ausschlusse"
+      ],
+      "answer": "Ausschlüsse",
+      "explanation": "Umlaut.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ausschließen (the verb) means…",
+      "options": [
+        "to exclude, rule out",
+        "to lock up"
+      ],
+      "answer": "to exclude, rule out",
+      "explanation": "aus + schließen.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ausschuss (with -ss, -uss) is…",
+      "options": [
+        "a committee",
+        "an exclusion"
+      ],
+      "answer": "a committee",
+      "explanation": "Different word, different vowel.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Der Ausschluss is exclusion or expulsion: der Ausschluss aus der Partei, der Ausschluss vom Wettbewerb. A courtroom phrase to know is unter Ausschluss der Öffentlichkeit (with the public excluded). Mind the look-alike der Ausschuss, a committee, as in der Hauptausschuss. Related: ausschließen (to rule out), ausgeschlossen (out of the question), and the connector ausgenommen."
+}

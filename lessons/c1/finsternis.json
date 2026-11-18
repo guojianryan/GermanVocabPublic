@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Finsternis",
+    "partOfSpeech": "noun, feminine (die Finsternis)",
+    "pronunciation": {
+      "respelling": "FIN-ster-nis",
+      "ipa": "ˈfɪnstɐnɪs",
+      "notes": "Plural: die Finsternisse."
+    },
+    "meaning": "darkness; eclipse",
+    "shortDefinition": "Darkness; eclipse."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Finsternis, plural die Finsternisse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Finsternis"
+        },
+        {
+          "label": "More than one",
+          "value": "die Finsternisse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir gingen durch die Finsternis nach Hause.",
+      "english": "We walked home through the darkness.",
+      "highlight": [
+        "Finsternis"
+      ]
+    },
+    {
+      "german": "Die Sonnenfinsternis war gut zu sehen.",
+      "english": "The solar eclipse was clearly visible.",
+      "highlight": [
+        "Sonnenfinsternis"
+      ]
+    }
+  ],
+  "forms": [
+    "Finsternisse",
+    "die Finsternis",
+    "finster",
+    "Sonnenfinsternis"
+  ],
+  "memoryHook": "Finsternis: deep finster (darkness).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Finsternis",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Finsternis is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Finsternis, zwei ___",
+      "answer": "Finsternisse",
+      "fullAnswer": "ein Finsternis, zwei Finsternisse",
+      "explanation": "The plural is Finsternisse.",
+      "acceptedAnswers": [
+        "Finsternisse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Finsternis mean?",
+      "options": [
+        "to sleep",
+        "darkness",
+        "expensive"
+      ],
+      "answer": "darkness",
+      "explanation": "Finsternis: darkness; eclipse.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Sonnenfinsternis is…",
+      "options": [
+        "solar eclipse",
+        "sunset"
+      ],
+      "answer": "solar eclipse",
+      "explanation": "Eclipse.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Finster means…",
+      "options": [
+        "dark, gloomy; sinister",
+        "final"
+      ],
+      "answer": "dark, gloomy; sinister",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The last total solar eclipse visible in Germany was in…",
+      "options": [
+        "1999",
+        "2015"
+      ],
+      "answer": "1999",
+      "explanation": "1999.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Finsternis is darkness, a literary or biblical word: Und Gott schied das Licht von der Finsternis. Its main everyday use is in die Sonnenfinsternis (solar eclipse) and die Mondfinsternis (lunar eclipse). The last total solar eclipse visible in Germany was on 11 August 1999; the next one won't come until 2081. Finster means dark or sinister: ein finsterer Blick. Plural: die Finsternisse."
+}

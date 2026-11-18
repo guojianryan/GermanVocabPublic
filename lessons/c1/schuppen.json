@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schuppen",
+    "partOfSpeech": "noun, masculine (der Schuppen)",
+    "pronunciation": {
+      "respelling": "SHUP-en",
+      "ipa": "ˈʃʊpn̩",
+      "notes": "Plural: die Schuppen."
+    },
+    "meaning": "shed; (pl. of die Schuppe) scales, dandruff",
+    "shortDefinition": "Shed; (pl. of die Schuppe) scales, dandruff."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schuppen, plural die Schuppen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schuppen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schuppen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Fahrräder stehen im Schuppen.",
+      "english": "The bikes are in the shed.",
+      "highlight": [
+        "Schuppen."
+      ]
+    },
+    {
+      "german": "Das Shampoo hilft gegen Schuppen.",
+      "english": "The shampoo helps against dandruff.",
+      "highlight": [
+        "Schuppen."
+      ]
+    }
+  ],
+  "forms": [
+    "die Schuppen",
+    "der Schuppen",
+    "Schuppe",
+    "Geräteschuppen"
+  ],
+  "memoryHook": "Schuppen: a shed, or flakes on fish and heads.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schuppen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schuppen is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schuppen, zwei ___",
+      "answer": "Schuppen",
+      "fullAnswer": "ein Schuppen, zwei Schuppen",
+      "explanation": "The plural is Schuppen.",
+      "acceptedAnswers": [
+        "Schuppen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schuppen mean?",
+      "options": [
+        "cheap",
+        "to sing",
+        "shed"
+      ],
+      "answer": "shed",
+      "explanation": "Schuppen: shed; (pl. of die Schuppe) scales, dandruff.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schuppen is…",
+      "options": [
+        "a shed",
+        "a fish scale"
+      ],
+      "answer": "a shed",
+      "explanation": "Masculine.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schuppen (plural of die Schuppe) are…",
+      "options": [
+        "scales; dandruff",
+        "sheds"
+      ],
+      "answer": "scales; dandruff",
+      "explanation": "Plural.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Es fiel mir wie Schuppen von den Augen means…",
+      "options": [
+        "the scales fell from my eyes",
+        "I was blinded"
+      ],
+      "answer": "the scales fell from my eyes",
+      "explanation": "Biblical idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Schuppen is a shed: der Geräteschuppen (tool shed). Casually, it's also a dive or venue: ein cooler Schuppen. Die Schuppen is also the plural of die Schuppe, a fish scale or a flake of skin: Schuppen means dandruff on your shoulders, and das Anti-Schuppen-Shampoo fights it. Es fiel mir wie Schuppen von den Augen (the scales fell from my eyes, I suddenly understood) comes from the Bible."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Eindämmung",
+    "partOfSpeech": "noun, feminine (die Eindämmung)",
+    "pronunciation": {
+      "respelling": "AIN-de-mung",
+      "ipa": "ˈaɪ̯nˌdɛmʊŋ",
+      "notes": "Plural: die Eindämmungen."
+    },
+    "meaning": "containment, curbing",
+    "shortDefinition": "Containment, curbing."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Eindämmung, plural die Eindämmungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Eindämmung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Eindämmungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Maßnahmen dienen der Eindämmung der Pandemie.",
+      "english": "The measures serve to contain the pandemic.",
+      "highlight": [
+        "Eindämmung"
+      ]
+    },
+    {
+      "german": "Die Eindämmung des Waldbrands dauerte Tage.",
+      "english": "Containing the forest fire took days.",
+      "highlight": [
+        "Eindämmung"
+      ]
+    }
+  ],
+  "forms": [
+    "Eindämmungen",
+    "die Eindämmung"
+  ],
+  "memoryHook": "Eindämmung: building a Damm around a problem.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Eindämmung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Eindämmung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Eindämmung, zwei ___",
+      "answer": "Eindämmungen",
+      "fullAnswer": "ein Eindämmung, zwei Eindämmungen",
+      "explanation": "The plural is Eindämmungen.",
+      "acceptedAnswers": [
+        "Eindaemmungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Eindämmung mean?",
+      "options": [
+        "the job",
+        "the family",
+        "containment"
+      ],
+      "answer": "containment",
+      "explanation": "Eindämmung: containment, curbing.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eindämmen means…",
+      "options": [
+        "to contain, curb",
+        "to dam a river only"
+      ],
+      "answer": "to contain, curb",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Damm is…",
+      "options": [
+        "dam",
+        "lady"
+      ],
+      "answer": "dam",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Begrenzung, die Bekämpfung",
+        "die Ausbreitung"
+      ],
+      "answer": "die Begrenzung, die Bekämpfung",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Eindämmung is containment or curbing: die Eindämmung einer Epidemie, eines Feuers, der Inflation. Eindämmen means to contain, literally to hold water back with a Damm. During the COVID-19 pandemic, the Bundestag passed several Gesetze zur Eindämmung. In foreign policy, die Eindämmungspolitik translates the Cold War doctrine of containment. Plural: die Eindämmungen."
+}

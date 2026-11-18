@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Insolvenz",
+    "partOfSpeech": "noun, feminine (die Insolvenz)",
+    "pronunciation": {
+      "respelling": "in-zol-VENTS",
+      "ipa": "ɪnzɔlˈvɛnt͡s",
+      "notes": "Plural: die Insolvenzen."
+    },
+    "meaning": "insolvency, bankruptcy",
+    "shortDefinition": "Insolvency, bankruptcy."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Insolvenz, plural die Insolvenzen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Insolvenz"
+        },
+        {
+          "label": "More than one",
+          "value": "die Insolvenzen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Firma musste Insolvenz anmelden.",
+      "english": "The company had to file for insolvency.",
+      "highlight": [
+        "Insolvenz"
+      ]
+    },
+    {
+      "german": "Die Zahl der Insolvenzen ist gestiegen.",
+      "english": "The number of insolvencies has risen.",
+      "highlight": [
+        "Insolvenzen"
+      ]
+    }
+  ],
+  "forms": [
+    "Insolvenzen",
+    "die Insolvenzen",
+    "die Insolvenz",
+    "insolvent"
+  ],
+  "memoryHook": "Insolvenz: when a firm can't solve (solvere) its debts.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Insolvenz",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Insolvenz is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Insolvenz, zwei ___",
+      "answer": "Insolvenzen",
+      "fullAnswer": "ein Insolvenz, zwei Insolvenzen",
+      "explanation": "The plural is Insolvenzen.",
+      "acceptedAnswers": [
+        "Insolvenzen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Insolvenz mean?",
+      "options": [
+        "the job",
+        "insolvency",
+        "the child"
+      ],
+      "answer": "insolvency",
+      "explanation": "Insolvenz: insolvency, bankruptcy.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Insolvenz anmelden means…",
+      "options": [
+        "to file for insolvency",
+        "to register a company"
+      ],
+      "answer": "to file for insolvency",
+      "explanation": "File.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Casual synonym:",
+      "options": [
+        "pleite sein",
+        "reich sein"
+      ],
+      "answer": "pleite sein",
+      "explanation": "Broke.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Insolvenzverwalter is…",
+      "options": [
+        "the insolvency administrator",
+        "a debtor"
+      ],
+      "answer": "the insolvency administrator",
+      "explanation": "Administrator.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Insolvenz is insolvency: Insolvenz anmelden (to file for insolvency), das Insolvenzverfahren (insolvency proceedings), der Insolvenzverwalter (administrator). Since 1999 the term has officially replaced der Konkurs, though Bankrott and pleite are still used casually: Die Firma ist pleite. Individuals can go through a Privatinsolvenz, which usually lasts three years. Insolvent means insolvent. From Latin solvere (to pay, loosen)."
+}

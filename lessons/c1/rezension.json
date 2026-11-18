@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rezension",
+    "partOfSpeech": "noun, feminine (die Rezension)",
+    "pronunciation": {
+      "respelling": "re-tsen-ZYOHN",
+      "ipa": "ʁet͡sɛnˈzi̯oːn",
+      "notes": "Plural: die Rezensionen."
+    },
+    "meaning": "review (of a book, film etc.)",
+    "shortDefinition": "Review (of a book, film etc.)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Rezension, plural die Rezensionen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Rezension"
+        },
+        {
+          "label": "More than one",
+          "value": "die Rezensionen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Buch hat gute Rezensionen bekommen.",
+      "english": "The book got good reviews.",
+      "highlight": [
+        "Rezensionen"
+      ]
+    },
+    {
+      "german": "Sie schreibt Rezensionen für eine Zeitung.",
+      "english": "She writes reviews for a newspaper.",
+      "highlight": [
+        "Rezensionen"
+      ]
+    }
+  ],
+  "forms": [
+    "Rezensionen",
+    "die Rezensionen",
+    "die Rezension",
+    "rezensieren",
+    "Rezensent"
+  ],
+  "memoryHook": "Rezension: a review, never a recession.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rezension",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Rezension is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Rezension, zwei ___",
+      "answer": "Rezensionen",
+      "fullAnswer": "ein Rezension, zwei Rezensionen",
+      "explanation": "The plural is Rezensionen.",
+      "acceptedAnswers": [
+        "Rezensionen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rezension mean?",
+      "options": [
+        "to learn",
+        "review (of a book",
+        "always"
+      ],
+      "answer": "review (of a book",
+      "explanation": "Rezension: review (of a book, film etc.).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Rezensent is…",
+      "options": [
+        "the reviewer",
+        "the reader"
+      ],
+      "answer": "the reviewer",
+      "explanation": "Reviewer.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Online, customer reviews are often called…",
+      "options": [
+        "Bewertungen / Rezensionen",
+        "Revisionen"
+      ],
+      "answer": "Bewertungen / Rezensionen",
+      "explanation": "Reviews.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Revision is…",
+      "options": [
+        "an audit / appeal",
+        "a book review"
+      ],
+      "answer": "an audit / appeal",
+      "explanation": "Revision.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Rezension is a review of a book, film, concert or product: eine positive Rezension. Der Rezensent is the reviewer, and rezensieren means to review. Online, product reviews are usually called Bewertungen. Germany's most famous literary critic was Marcel Reich-Ranicki of TV's Das Literarische Quartett. Don't confuse it with die Rezession (recession) or die Revision (audit, legal appeal)."
+}

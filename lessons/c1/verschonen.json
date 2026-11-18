@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verschonen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-SHOH-nen",
+      "ipa": "fɛɐ̯ˈʃoːnən",
+      "notes": ""
+    },
+    "meaning": "to spare",
+    "shortDefinition": "To spare."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verschon|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verschon|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verschon|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verschon|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verschon|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verschon|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verschont"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Sturm hat unser Haus verschont.",
+      "english": "The storm spared our house.",
+      "highlight": [
+        "verschont."
+      ]
+    },
+    {
+      "german": "Verschon mich mit deinen Geschichten!",
+      "english": "Spare me your stories!",
+      "highlight": [
+        "Verschon"
+      ]
+    }
+  ],
+  "forms": [
+    "verschone",
+    "verschonst",
+    "verschont",
+    "verschonen",
+    "schonen"
+  ],
+  "memoryHook": "Verschonen: treat gently (schonen) and leave unharmed.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verschonen)",
+      "answer": "verschont",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verschont.",
+      "acceptedAnswers": [
+        "verschont"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verschonen, past)",
+      "answer": "verschont",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verschont.",
+      "acceptedAnswers": [
+        "verschont"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verschonen mean?",
+      "options": [
+        "to sing",
+        "to spare",
+        "the shop"
+      ],
+      "answer": "to spare",
+      "explanation": "verschonen: to spare.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden mit etwas verschonen means…",
+      "options": [
+        "to spare someone something",
+        "to protect someone with something"
+      ],
+      "answer": "to spare someone something",
+      "explanation": "Spare me!",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schonen means…",
+      "options": [
+        "to treat gently, spare",
+        "to shine"
+      ],
+      "answer": "to treat gently, spare",
+      "explanation": "schonen.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schonzeit is…",
+      "options": [
+        "closed season (hunting)",
+        "a holiday"
+      ],
+      "answer": "closed season (hunting)",
+      "explanation": "Closed season.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verschonen means to spare: Das Feuer verschonte die Kirche. Von etwas verschont bleiben means to be spared something: Wir blieben von der Grippe verschont. Verschon mich damit! means spare me! The base verb schonen means to treat gently or protect: Ich muss meine Stimme schonen. Die Schonzeit is the closed season in hunting, and die Schonkost a bland diet. Schonungslos means ruthless or unsparing."
+}

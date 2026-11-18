@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Lebensunterhalt",
+    "partOfSpeech": "noun, masculine (der Lebensunterhalt)",
+    "pronunciation": {
+      "respelling": "LAY-bens-un-ter-halt",
+      "ipa": "ˈleːbn̩sˌʔʊntɐhalt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "livelihood, living costs",
+    "shortDefinition": "Livelihood, living costs."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Lebensunterhalt, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Lebensunterhalt"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er verdient seinen Lebensunterhalt als Taxifahrer.",
+      "english": "He earns his living as a taxi driver.",
+      "highlight": [
+        "Lebensunterhalt"
+      ]
+    },
+    {
+      "german": "Visa-Antragsteller müssen ihren Lebensunterhalt nachweisen.",
+      "english": "Visa applicants must prove they can support themselves.",
+      "highlight": [
+        "Lebensunterhalt"
+      ]
+    }
+  ],
+  "forms": [
+    "der Lebensunterhalt",
+    "Unterhalt"
+  ],
+  "memoryHook": "Lebensunterhalt: what keeps (unterhalten) your Leben going.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Lebensunterhalt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Lebensunterhalt is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Lebensunterhalt mean?",
+      "options": [
+        "tomorrow",
+        "livelihood",
+        "to travel"
+      ],
+      "answer": "livelihood",
+      "explanation": "Lebensunterhalt: livelihood, living costs.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Seinen Lebensunterhalt verdienen means…",
+      "options": [
+        "to earn one's living",
+        "to save for life"
+      ],
+      "answer": "to earn one's living",
+      "explanation": "Living.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Unterhalt also means…",
+      "options": [
+        "maintenance (payments)",
+        "entertainment only"
+      ],
+      "answer": "maintenance (payments)",
+      "explanation": "Maintenance.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "For a German visa, you often must show…",
+      "options": [
+        "gesicherten Lebensunterhalt",
+        "a house"
+      ],
+      "answer": "gesicherten Lebensunterhalt",
+      "explanation": "Secured living.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Lebensunterhalt is one's livelihood or living costs: seinen Lebensunterhalt verdienen (to earn a living), für den Lebensunterhalt sorgen. In immigration law, ein gesicherter Lebensunterhalt (secured means of support) is a key requirement for most residence permits, often proved by a blocked account (Sperrkonto) for students. Der Unterhalt alone also means maintenance payments, for example for children after a divorce. It has no plural."
+}

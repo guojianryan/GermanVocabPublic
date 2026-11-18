@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Nektar",
+    "partOfSpeech": "noun, masculine (der Nektar)",
+    "pronunciation": {
+      "respelling": "NEK-tar",
+      "ipa": "ˈnɛktaʁ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "nectar",
+    "shortDefinition": "Nectar."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Nektar, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Nektar"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bienen sammeln Nektar aus den Blüten.",
+      "english": "Bees collect nectar from the flowers.",
+      "highlight": [
+        "Nektar"
+      ]
+    },
+    {
+      "german": "Im Supermarkt gibt es Orangennektar und Orangensaft.",
+      "english": "The supermarket has orange nectar and orange juice.",
+      "highlight": [
+        "Orangennektar"
+      ]
+    }
+  ],
+  "forms": [
+    "der Nektar",
+    "Nektars"
+  ],
+  "memoryHook": "Nektar: the drink of the Greek gods.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Nektar",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Nektar is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Nektar mean?",
+      "options": [
+        "nectar",
+        "the window",
+        "to sleep"
+      ],
+      "answer": "nectar",
+      "explanation": "Nektar: nectar.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fruchtnektar (drinks) contains…",
+      "options": [
+        "25–50% fruit, plus water and sugar",
+        "100% fruit"
+      ],
+      "answer": "25–50% fruit, plus water and sugar",
+      "explanation": "Food law.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Saft must be…",
+      "options": [
+        "100% fruit",
+        "50% fruit"
+      ],
+      "answer": "100% fruit",
+      "explanation": "Contrast.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Greek myth, Nektar was…",
+      "options": [
+        "the drink of the gods",
+        "a river"
+      ],
+      "answer": "the drink of the gods",
+      "explanation": "Myth.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Nektar is nectar, the sweet liquid in flowers that bees turn into honey, and in Greek myth the drink of the gods. In German food law, Fruchtnektar is a drink with only 25–50 percent fruit content plus water and sugar, while Saft must be 100 percent fruit. It has no plural."
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Anbetracht",
+    "partOfSpeech": "noun, masculine (der Anbetracht)",
+    "pronunciation": {
+      "respelling": "AN-be-trakht",
+      "ipa": "ˈanbəˌtʁaxt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "in view of (only in: in Anbetracht)",
+    "shortDefinition": "In view of (only in: in Anbetracht)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Anbetracht, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Anbetracht"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In Anbetracht der Lage bleiben wir zu Hause.",
+      "english": "In view of the situation, we're staying home.",
+      "highlight": [
+        "Anbetracht"
+      ]
+    },
+    {
+      "german": "In Anbetracht dessen, dass es regnet, fällt das Fest aus.",
+      "english": "Given that it's raining, the party is cancelled.",
+      "highlight": [
+        "Anbetracht"
+      ]
+    }
+  ],
+  "forms": [
+    "in Anbetracht",
+    "angesichts"
+  ],
+  "memoryHook": "Anbetracht: considering (betrachten) the facts.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Anbetracht",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Anbetracht is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Anbetracht mean?",
+      "options": [
+        "to wait",
+        "to sing",
+        "in view of (only in: in Anbetracht)"
+      ],
+      "answer": "in view of (only in: in Anbetracht)",
+      "explanation": "Anbetracht: in view of (only in: in Anbetracht).",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Anbetracht takes…",
+      "options": [
+        "the genitive",
+        "the accusative"
+      ],
+      "answer": "the genitive",
+      "explanation": "Genitive.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "angesichts",
+        "trotz"
+      ],
+      "answer": "angesichts",
+      "explanation": "In view of.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Anbetracht is used…",
+      "options": [
+        "only in the phrase in Anbetracht",
+        "freely as a noun"
+      ],
+      "answer": "only in the phrase in Anbetracht",
+      "explanation": "Fixed phrase.",
+      "id": "q5"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "In ___ der Zeit (in view of)",
+      "answer": "Anbetracht",
+      "fullAnswer": "In Anbetracht der Zeit",
+      "explanation": "in Anbetracht + genitive.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Anbetracht only appears in the fixed phrase in Anbetracht (in view of, considering), followed by the genitive: in Anbetracht der Umstände, in Anbetracht der späten Stunde. In Anbetracht dessen, dass... means given that... It's formal; in speech, Germans say wegen or weil. A close synonym is angesichts: angesichts der Krise. From betrachten (to look at, consider)."
+}

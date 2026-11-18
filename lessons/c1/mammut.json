@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mammut",
+    "partOfSpeech": "noun, neuter (das Mammut)",
+    "pronunciation": {
+      "respelling": "MA-mut",
+      "ipa": "ˈmamʊt",
+      "notes": "Plural: die Mammuts."
+    },
+    "meaning": "mammoth",
+    "shortDefinition": "Mammoth."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Mammut, plural die Mammuts.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Mammut"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mammuts"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Mammuts lebten in der Eiszeit.",
+      "english": "Mammoths lived in the Ice Age.",
+      "highlight": [
+        "Mammuts"
+      ]
+    },
+    {
+      "german": "Das ist ein Mammutprojekt.",
+      "english": "That's a mammoth project.",
+      "highlight": [
+        "Mammutprojekt."
+      ]
+    }
+  ],
+  "forms": [
+    "Mammuts",
+    "das Mammut"
+  ],
+  "memoryHook": "Mammut: the woolly giant of the Ice Age.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mammut",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Mammut is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mammut, zwei ___",
+      "answer": "Mammuts",
+      "fullAnswer": "ein Mammut, zwei Mammuts",
+      "explanation": "The plural is Mammuts.",
+      "acceptedAnswers": [
+        "Mammuts"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mammut mean?",
+      "options": [
+        "to wait",
+        "to learn",
+        "mammoth"
+      ],
+      "answer": "mammoth",
+      "explanation": "Mammut: mammoth.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mammut- in compounds means…",
+      "options": [
+        "huge (Mammutprojekt, Mammutsitzung)",
+        "ancient"
+      ],
+      "answer": "huge (Mammutprojekt, Mammutsitzung)",
+      "explanation": "Prefix.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Mammutbaum is…",
+      "options": [
+        "sequoia",
+        "a fossil tree"
+      ],
+      "answer": "sequoia",
+      "explanation": "Tree.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "das Mammut",
+        "der Mammut"
+      ],
+      "answer": "das Mammut",
+      "explanation": "Gender.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Mammut is a mammoth, the woolly elephant of the Ice Age (die Eiszeit). Mammoth ivory figures, such as the 40,000-year-old Löwenmensch (lion man), were found in caves of the Swabian Jura. In compounds, Mammut- means huge: ein Mammutprojekt, eine Mammutsitzung (marathon meeting), ein Mammutprogramm. Der Mammutbaum is a sequoia. Plural: die Mammuts."
+}

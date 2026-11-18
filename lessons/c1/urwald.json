@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Urwald",
+    "partOfSpeech": "noun, masculine (der Urwald)",
+    "pronunciation": {
+      "respelling": "OOR-valt",
+      "ipa": "ˈuːɐ̯ˌvalt",
+      "notes": "Plural: die Urwälder."
+    },
+    "meaning": "primeval forest, jungle",
+    "shortDefinition": "Primeval forest, jungle."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Urwald, plural die Urwälder.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Urwald"
+        },
+        {
+          "label": "More than one",
+          "value": "die Urwälder"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Amazonas-Urwald wird abgeholzt.",
+      "english": "The Amazon rainforest is being cut down.",
+      "highlight": [
+        "Amazonas-Urwald"
+      ]
+    },
+    {
+      "german": "Im Nationalpark Hainich wächst ein Urwald mitten in Deutschland.",
+      "english": "In Hainich National Park a primeval forest grows in the middle of Germany.",
+      "highlight": [
+        "Urwald"
+      ]
+    }
+  ],
+  "forms": [
+    "Urwälder",
+    "der Urwald"
+  ],
+  "memoryHook": "Urwald: the ur- (original) Wald.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Urwald",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Urwald is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Urwald, zwei ___",
+      "answer": "Urwälder",
+      "fullAnswer": "ein Urwald, zwei Urwälder",
+      "explanation": "The plural is Urwälder.",
+      "acceptedAnswers": [
+        "Urwaelder"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Urwald mean?",
+      "options": [
+        "primeval forest",
+        "expensive",
+        "to help"
+      ],
+      "answer": "primeval forest",
+      "explanation": "Urwald: primeval forest, jungle.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ur- means…",
+      "options": [
+        "original, primeval",
+        "your"
+      ],
+      "answer": "original, primeval",
+      "explanation": "Prefix.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Regenwald is…",
+      "options": [
+        "rainforest",
+        "rainy day"
+      ],
+      "answer": "rainforest",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's ancient beech forests are…",
+      "options": [
+        "a UNESCO World Heritage site",
+        "private parks"
+      ],
+      "answer": "a UNESCO World Heritage site",
+      "explanation": "UNESCO.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Urwald is a primeval forest or jungle: der tropische Urwald, der Amazonas-Urwald. Germany has almost no true Urwald left, but since 2011 several ancient beech forests, including Hainich, Jasmund, Kellerwald, Serrahn and Grumsin, belong to a UNESCO World Heritage site. Hainich's slogan is Urwald mitten in Deutschland. The prefix ur- means original: die Urzeit, der Urgroßvater. Plural: die Urwälder."
+}

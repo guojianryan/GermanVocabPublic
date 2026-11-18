@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Macke",
+    "partOfSpeech": "noun, feminine (die Macke)",
+    "pronunciation": {
+      "respelling": "MA-ke",
+      "ipa": "ˈmakə",
+      "notes": "Plural: die Macken."
+    },
+    "meaning": "quirk, foible; dent, defect",
+    "shortDefinition": "Quirk, foible; dent, defect."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Macke, plural die Macken.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Macke"
+        },
+        {
+          "label": "More than one",
+          "value": "die Macken"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Jeder hat so seine Macken.",
+      "english": "Everyone has their quirks.",
+      "highlight": [
+        "Macken."
+      ]
+    },
+    {
+      "german": "Das Auto hat eine Macke an der Tür.",
+      "english": "The car has a dent in the door.",
+      "highlight": [
+        "Macke"
+      ]
+    }
+  ],
+  "forms": [
+    "Macken",
+    "die Macke"
+  ],
+  "memoryHook": "Macke: a little flaw, in people or things.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Macke",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Macke is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Macke, zwei ___",
+      "answer": "Macken",
+      "fullAnswer": "ein Macke, zwei Macken",
+      "explanation": "The plural is Macken.",
+      "acceptedAnswers": [
+        "Macken"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Macke mean?",
+      "options": [
+        "the weather",
+        "quirk",
+        "quiet"
+      ],
+      "answer": "quirk",
+      "explanation": "Macke: quirk, foible; dent, defect.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Macke haben (person) means…",
+      "options": [
+        "to be a bit crazy, have a quirk",
+        "to be ill"
+      ],
+      "answer": "to be a bit crazy, have a quirk",
+      "explanation": "Quirk.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Of objects, eine Macke is…",
+      "options": [
+        "a dent, scratch, defect",
+        "a brand"
+      ],
+      "answer": "a dent, scratch, defect",
+      "explanation": "Defect.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "colloquial",
+        "formal"
+      ],
+      "answer": "colloquial",
+      "explanation": "Colloquial.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Macke (colloquial) is a quirk or foible in a person: Er hat seine Macken, Du hast doch 'ne Macke! (you're nuts). It's also a dent, scratch or defect in an object: eine Macke im Lack, ein Gerät mit Macken. It probably comes from Yiddish or Hebrew makka (blow, defect). Synonyms: die Eigenart, der Tick, der Spleen. Plural: die Macken."
+}

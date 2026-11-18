@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Riegel",
+    "partOfSpeech": "noun, masculine (der Riegel)",
+    "pronunciation": {
+      "respelling": "REE-gel",
+      "ipa": "ˈʁiːɡl̩",
+      "notes": "Plural: die Riegel."
+    },
+    "meaning": "bolt, latch; bar (of chocolate)",
+    "shortDefinition": "Bolt, latch; bar (of chocolate)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Riegel, plural die Riegel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Riegel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Riegel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er schob den Riegel vor die Tür.",
+      "english": "He pushed the bolt across the door.",
+      "highlight": [
+        "Riegel"
+      ]
+    },
+    {
+      "german": "Ich esse einen Müsliriegel.",
+      "english": "I'm eating a cereal bar.",
+      "highlight": [
+        "Müsliriegel."
+      ]
+    }
+  ],
+  "forms": [
+    "die Riegel",
+    "der Riegel",
+    "verriegeln",
+    "Schokoriegel"
+  ],
+  "memoryHook": "Riegel: a bolt for doors, or a bar for snacking.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Riegel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Riegel is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Riegel, zwei ___",
+      "answer": "Riegel",
+      "fullAnswer": "ein Riegel, zwei Riegel",
+      "explanation": "The plural is Riegel.",
+      "acceptedAnswers": [
+        "Riegel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Riegel mean?",
+      "options": [
+        "the door",
+        "bolt",
+        "to sing"
+      ],
+      "answer": "bolt",
+      "explanation": "Riegel: bolt, latch; bar (of chocolate).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einer Sache einen Riegel vorschieben means…",
+      "options": [
+        "to put a stop to something",
+        "to lock a door"
+      ],
+      "answer": "to put a stop to something",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Schokoriegel is…",
+      "options": [
+        "a chocolate bar",
+        "a chocolate lock"
+      ],
+      "answer": "a chocolate bar",
+      "explanation": "Snack.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verriegeln means…",
+      "options": [
+        "to bolt, lock",
+        "to reveal"
+      ],
+      "answer": "to bolt, lock",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Riegel is a bolt or latch: den Riegel vorschieben (to bolt the door). Figuratively, einer Sache einen Riegel vorschieben means to put a stop to something. Snack bars are also Riegel: der Schokoriegel, der Müsliriegel, der Proteinriegel. Verriegeln means to bolt or lock: Das Auto verriegelt automatisch. In football, ein Abwehrriegel is a defensive wall. Plural unchanged: die Riegel."
+}

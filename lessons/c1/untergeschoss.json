@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Untergeschoss",
+    "partOfSpeech": "noun, neuter (das Untergeschoss)",
+    "pronunciation": {
+      "respelling": "UN-ter-ge-shos",
+      "ipa": "ˈʊntɐɡəˌʃɔs",
+      "notes": "Plural: die Untergeschosse."
+    },
+    "meaning": "basement, lower floor",
+    "shortDefinition": "Basement, lower floor."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Untergeschoss, plural die Untergeschosse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Untergeschoss"
+        },
+        {
+          "label": "More than one",
+          "value": "die Untergeschosse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Garage ist im Untergeschoss.",
+      "english": "The garage is in the basement.",
+      "highlight": [
+        "Untergeschoss."
+      ]
+    },
+    {
+      "german": "Der Supermarkt befindet sich im ersten Untergeschoss.",
+      "english": "The supermarket is on the first lower level.",
+      "highlight": [
+        "Untergeschoss."
+      ]
+    }
+  ],
+  "forms": [
+    "Untergeschosse",
+    "das Untergeschoss",
+    "UG"
+  ],
+  "memoryHook": "Untergeschoss: the Geschoss (storey) below (unter).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Untergeschoss",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Untergeschoss is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Untergeschoss, zwei ___",
+      "answer": "Untergeschosse",
+      "fullAnswer": "ein Untergeschoss, zwei Untergeschosse",
+      "explanation": "The plural is Untergeschosse.",
+      "acceptedAnswers": [
+        "Untergeschosse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Untergeschoss mean?",
+      "options": [
+        "basement",
+        "to wait",
+        "the bed"
+      ],
+      "answer": "basement",
+      "explanation": "Untergeschoss: basement, lower floor.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Abbreviation in lifts:",
+      "options": [
+        "UG / U",
+        "B"
+      ],
+      "answer": "UG / U",
+      "explanation": "Lift.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Erdgeschoss (EG) is…",
+      "options": [
+        "ground floor",
+        "first floor (US)"
+      ],
+      "answer": "ground floor",
+      "explanation": "Ground.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der erste Stock in Germany is…",
+      "options": [
+        "one floor above the ground floor",
+        "the ground floor"
+      ],
+      "answer": "one floor above the ground floor",
+      "explanation": "Floors.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Untergeschoss (UG) is a basement or lower floor, often in shops and car parks: im zweiten Untergeschoss. In German buildings, das Erdgeschoss (EG) is the ground floor, and der erste Stock or das erste Obergeschoss (1. OG) the floor above, a classic confusion for Americans. In houses, the basement is usually der Keller. Das Geschoss also means projectile. Plural: die Untergeschosse."
+}

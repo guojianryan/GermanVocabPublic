@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Beil",
+    "partOfSpeech": "noun, neuter (das Beil)",
+    "pronunciation": {
+      "respelling": "BAIL",
+      "ipa": "baɪ̯l",
+      "notes": "Plural: die Beile."
+    },
+    "meaning": "hatchet, small axe",
+    "shortDefinition": "Hatchet, small axe."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Beil, plural die Beile.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Beil"
+        },
+        {
+          "label": "More than one",
+          "value": "die Beile"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er spaltete das Holz mit einem Beil.",
+      "english": "He split the wood with a hatchet.",
+      "highlight": [
+        "Beil."
+      ]
+    },
+    {
+      "german": "Das Beil liegt im Schuppen.",
+      "english": "The hatchet is in the shed.",
+      "highlight": [
+        "Beil"
+      ]
+    }
+  ],
+  "forms": [
+    "Beile",
+    "das Beil"
+  ],
+  "memoryHook": "Beil: a short-handled chopping tool.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Beil",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Beil is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Beil, zwei ___",
+      "answer": "Beile",
+      "fullAnswer": "ein Beil, zwei Beile",
+      "explanation": "The plural is Beile.",
+      "acceptedAnswers": [
+        "Beile"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Beil mean?",
+      "options": [
+        "the car",
+        "the key",
+        "hatchet"
+      ],
+      "answer": "hatchet",
+      "explanation": "Beil: hatchet, small axe.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Axt vs. das Beil:",
+      "options": [
+        "large axe vs. small hatchet",
+        "the same"
+      ],
+      "answer": "large axe vs. small hatchet",
+      "explanation": "Size.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Fallbeil is…",
+      "options": [
+        "guillotine",
+        "a falling axe in a forest"
+      ],
+      "answer": "guillotine",
+      "explanation": "History.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Kriegsbeil begraben means…",
+      "options": [
+        "to bury the hatchet",
+        "to start a war"
+      ],
+      "answer": "to bury the hatchet",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Beil is a hatchet or small axe, used with one hand, while die Axt is larger and used with two. Das Kriegsbeil begraben means to bury the hatchet, from a Native American custom. Das Fallbeil is the guillotine, which was used in Germany until the death penalty was abolished in West Germany in 1949. Plural: die Beile."
+}

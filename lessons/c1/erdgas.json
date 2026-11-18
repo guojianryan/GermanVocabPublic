@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Erdgas",
+    "partOfSpeech": "noun, neuter (das Erdgas)",
+    "pronunciation": {
+      "respelling": "AIRT-gaas",
+      "ipa": "ˈeːɐ̯tˌɡaːs",
+      "notes": "Usually no plural."
+    },
+    "meaning": "natural gas",
+    "shortDefinition": "Natural gas."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Erdgas, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Erdgas"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Viele Wohnungen werden mit Erdgas beheizt.",
+      "english": "Many flats are heated with natural gas.",
+      "highlight": [
+        "Erdgas"
+      ]
+    },
+    {
+      "german": "Deutschland importierte viel Erdgas aus Russland.",
+      "english": "Germany imported a lot of natural gas from Russia.",
+      "highlight": [
+        "Erdgas"
+      ]
+    }
+  ],
+  "forms": [
+    "das Erdgas",
+    "Erdöl",
+    "Flüssigerdgas"
+  ],
+  "memoryHook": "Erdgas: gas from the Erde (earth).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Erdgas",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Erdgas is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Erdgas mean?",
+      "options": [
+        "tomorrow",
+        "natural gas",
+        "to help"
+      ],
+      "answer": "natural gas",
+      "explanation": "Erdgas: natural gas.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Flüssigerdgas (LNG) is…",
+      "options": [
+        "liquefied natural gas",
+        "petrol"
+      ],
+      "answer": "liquefied natural gas",
+      "explanation": "LNG.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Erdöl is…",
+      "options": [
+        "crude oil, petroleum",
+        "olive oil"
+      ],
+      "answer": "crude oil, petroleum",
+      "explanation": "Oil.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany built its first LNG terminals in…",
+      "options": [
+        "2022–23",
+        "1990"
+      ],
+      "answer": "2022–23",
+      "explanation": "After 2022.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Erdgas is natural gas, and das Erdöl is crude oil. Before 2022, Germany got over half of its gas from Russia, much of it through the Nord Stream pipelines. After Russia's invasion of Ukraine, deliveries stopped, and Germany built its first LNG (Flüssigerdgas) terminals in record time, starting at Wilhelmshaven in December 2022. Many German homes still heat with gas. It has no plural."
+}

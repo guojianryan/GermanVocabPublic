@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "einbetten",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AIN-be-ten",
+      "ipa": "ˈaɪ̯nˌbɛtn̩",
+      "notes": ""
+    },
+    "meaning": "to embed",
+    "shortDefinition": "To embed."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "bett|e … |ein"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "bett|est … |ein"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "bett|et … |ein"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "bett|en … |ein"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "bett|et … |ein"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "bett|en … |ein"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat eingebettet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Dorf ist in eine sanfte Hügellandschaft eingebettet.",
+      "english": "The village is nestled in gently rolling hills.",
+      "highlight": [
+        "eingebettet."
+      ]
+    },
+    {
+      "german": "Man kann das Video in die Website einbetten.",
+      "english": "You can embed the video in the website.",
+      "highlight": [
+        "einbetten."
+      ]
+    }
+  ],
+  "forms": [
+    "bette ein",
+    "bettest ein",
+    "bettet ein",
+    "betten ein",
+    "eingebettet",
+    "bettete ein"
+  ],
+  "memoryHook": "Einbetten: lay something into (ein) a Bett (bed).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ein (einbetten)",
+      "answer": "bettet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: bettet … ein.",
+      "acceptedAnswers": [
+        "bettet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (einbetten, past)",
+      "answer": "eingebettet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe eingebettet.",
+      "acceptedAnswers": [
+        "eingebettet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does einbetten mean?",
+      "options": [
+        "the window",
+        "the shop",
+        "to embed"
+      ],
+      "answer": "to embed",
+      "explanation": "einbetten: to embed.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einbetten is common in…",
+      "options": [
+        "IT (embed videos) and descriptions of landscapes",
+        "cooking"
+      ],
+      "answer": "IT (embed videos) and descriptions of landscapes",
+      "explanation": "Uses.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eingebettete Journalisten are…",
+      "options": [
+        "embedded journalists",
+        "sleeping journalists"
+      ],
+      "answer": "embedded journalists",
+      "explanation": "Journalism.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Bett is…",
+      "options": [
+        "bed",
+        "prayer"
+      ],
+      "answer": "bed",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Einbetten means to embed: ein Video in eine Website einbetten, and in descriptions, to nestle: ein Dorf, eingebettet in Weinberge. Figuratively, Ereignisse in ihren historischen Kontext einbetten means to place events in context. Eingebettete Journalisten are embedded reporters. From das Bett (bed), also used for riverbeds: das Flussbett. Separable: bettete ein, eingebettet."
+}

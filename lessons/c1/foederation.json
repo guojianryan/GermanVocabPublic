@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Föderation",
+    "partOfSpeech": "noun, feminine (die Föderation)",
+    "pronunciation": {
+      "respelling": "fö-de-ra-TSYOHN",
+      "ipa": "fødəʁaˈt͡si̯oːn",
+      "notes": "Plural: die Föderationen."
+    },
+    "meaning": "federation",
+    "shortDefinition": "Federation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Föderation, plural die Föderationen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Föderation"
+        },
+        {
+          "label": "More than one",
+          "value": "die Föderationen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Russische Föderation ist das größte Land der Welt.",
+      "english": "The Russian Federation is the largest country in the world.",
+      "highlight": [
+        "Föderation"
+      ]
+    },
+    {
+      "german": "Die Staaten schlossen sich zu einer Föderation zusammen.",
+      "english": "The states joined together in a federation.",
+      "highlight": [
+        "Föderation"
+      ]
+    }
+  ],
+  "forms": [
+    "Föderationen",
+    "die Föderation",
+    "Föderalismus",
+    "föderal"
+  ],
+  "memoryHook": "Föderation: states bound by treaty (Latin foedus).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Föderation",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Föderation is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Föderation, zwei ___",
+      "answer": "Föderationen",
+      "fullAnswer": "ein Föderation, zwei Föderationen",
+      "explanation": "The plural is Föderationen.",
+      "acceptedAnswers": [
+        "Foederationen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Föderation mean?",
+      "options": [
+        "federation",
+        "the job",
+        "the station"
+      ],
+      "answer": "federation",
+      "explanation": "Föderation: federation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Föderalismus is…",
+      "options": [
+        "federalism",
+        "a federation"
+      ],
+      "answer": "federalism",
+      "explanation": "System.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany has… Länder.",
+      "options": [
+        "16",
+        "12"
+      ],
+      "answer": "16",
+      "explanation": "Sixteen.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Föderal means…",
+      "options": [
+        "federal",
+        "feudal"
+      ],
+      "answer": "federal",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Föderation is a federation: die Russische Föderation. Germany is a federal state (Bundesstaat) of 16 Länder, and der Föderalismus is a core principle of the Grundgesetz, protected by the eternity clause (Ewigkeitsklausel). Education, police and culture are mainly Länder matters, so school systems differ from state to state, a constant source of debate. From Latin foedus (treaty). Plural: die Föderationen."
+}

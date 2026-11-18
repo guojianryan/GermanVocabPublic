@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Knoten",
+    "partOfSpeech": "noun, masculine (der Knoten)",
+    "pronunciation": {
+      "respelling": "KNOH-ten",
+      "ipa": "ˈknoːtn̩",
+      "notes": "Plural: die Knoten."
+    },
+    "meaning": "knot; lump",
+    "shortDefinition": "Knot; lump."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Knoten, plural die Knoten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Knoten"
+        },
+        {
+          "label": "More than one",
+          "value": "die Knoten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Kannst du einen Knoten machen?",
+      "english": "Can you tie a knot?",
+      "highlight": [
+        "Knoten"
+      ]
+    },
+    {
+      "german": "Der Arzt hat einen Knoten ertastet.",
+      "english": "The doctor felt a lump.",
+      "highlight": [
+        "Knoten"
+      ]
+    }
+  ],
+  "forms": [
+    "die Knoten",
+    "der Knoten",
+    "verknoten"
+  ],
+  "memoryHook": "Knoten: say the K, unlike English knot.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Knoten",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Knoten is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Knoten, zwei ___",
+      "answer": "Knoten",
+      "fullAnswer": "ein Knoten, zwei Knoten",
+      "explanation": "The plural is Knoten.",
+      "acceptedAnswers": [
+        "Knoten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Knoten mean?",
+      "options": [
+        "to open",
+        "to help",
+        "knot"
+      ],
+      "answer": "knot",
+      "explanation": "Knoten: knot; lump.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Knoten ist geplatzt means…",
+      "options": [
+        "it finally clicked",
+        "the rope broke"
+      ],
+      "answer": "it finally clicked",
+      "explanation": "Breakthrough.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Speed of a ship is measured in…",
+      "options": [
+        "Knoten",
+        "Meilen pro Stunde"
+      ],
+      "answer": "Knoten",
+      "explanation": "Knots.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Note: the K is…",
+      "options": [
+        "pronounced",
+        "silent"
+      ],
+      "answer": "pronounced",
+      "explanation": "K-noten.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Knoten is a knot: einen Knoten machen, einen Knoten lösen. Unlike English, the K is pronounced: K-NOH-ten. It's also a lump: ein Knoten in der Brust, and a unit of speed at sea. Der Knoten ist geplatzt means it finally clicked, a breakthrough. Sich einen Knoten ins Taschentuch machen was an old memory trick. Der Knotenpunkt is a hub or junction."
+}

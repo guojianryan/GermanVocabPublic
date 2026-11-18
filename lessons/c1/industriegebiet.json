@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Industriegebiet",
+    "partOfSpeech": "noun, neuter (das Industriegebiet)",
+    "pronunciation": {
+      "respelling": "in-dus-TREE-ge-beet",
+      "ipa": "ɪndʊsˈtʁiːɡəˌbiːt",
+      "notes": "Plural: die Industriegebiete."
+    },
+    "meaning": "industrial area/estate",
+    "shortDefinition": "Industrial area/estate."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Industriegebiet, plural die Industriegebiete.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Industriegebiet"
+        },
+        {
+          "label": "More than one",
+          "value": "die Industriegebiete"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Baumarkt liegt im Industriegebiet.",
+      "english": "The DIY store is on the industrial estate.",
+      "highlight": [
+        "Industriegebiet."
+      ]
+    },
+    {
+      "german": "Das Ruhrgebiet war das größte Industriegebiet Europas.",
+      "english": "The Ruhr was Europe's largest industrial region.",
+      "highlight": [
+        "Industriegebiet"
+      ]
+    }
+  ],
+  "forms": [
+    "Industriegebiete",
+    "das Industriegebiet"
+  ],
+  "memoryHook": "Industriegebiet: a Gebiet (area) for Industrie.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Industriegebiet",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Industriegebiet is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Industriegebiet, zwei ___",
+      "answer": "Industriegebiete",
+      "fullAnswer": "ein Industriegebiet, zwei Industriegebiete",
+      "explanation": "The plural is Industriegebiete.",
+      "acceptedAnswers": [
+        "Industriegebiete"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Industriegebiet mean?",
+      "options": [
+        "industrial area/estate",
+        "to buy",
+        "always"
+      ],
+      "answer": "industrial area/estate",
+      "explanation": "Industriegebiet: industrial area/estate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gewerbegebiet is…",
+      "options": [
+        "business park",
+        "a trade fair"
+      ],
+      "answer": "business park",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Wohngebiet is…",
+      "options": [
+        "residential area",
+        "living room"
+      ],
+      "answer": "residential area",
+      "explanation": "Contrast.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gebiet is…",
+      "options": [
+        "area, region",
+        "a bid"
+      ],
+      "answer": "area, region",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Industriegebiet is an industrial area or estate, often on a town's edge with factories, warehouses and big stores. Das Gewerbegebiet is a business park with smaller firms; the zoning plan (Bebauungsplan) separates these from Wohngebiete (residential areas). The Ruhrgebiet was once Europe's biggest industrial region of coal and steel. Plural: die Industriegebiete."
+}

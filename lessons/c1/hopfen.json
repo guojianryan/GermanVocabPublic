@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Hopfen",
+    "partOfSpeech": "noun, masculine (der Hopfen)",
+    "pronunciation": {
+      "respelling": "HOP-fen",
+      "ipa": "ˈhɔp͡fn̩",
+      "notes": "Usually no plural."
+    },
+    "meaning": "hops",
+    "shortDefinition": "Hops."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Hopfen, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Hopfen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bier wird aus Wasser, Malz und Hopfen gebraut.",
+      "english": "Beer is brewed from water, malt and hops.",
+      "highlight": [
+        "Hopfen"
+      ]
+    },
+    {
+      "german": "Die Hallertau ist das größte Hopfenanbaugebiet der Welt.",
+      "english": "The Hallertau is the largest hop-growing area in the world.",
+      "highlight": [
+        "Hopfenanbaugebiet"
+      ]
+    }
+  ],
+  "forms": [
+    "der Hopfen",
+    "Hopfens"
+  ],
+  "memoryHook": "Hopfen: the hop plant that flavours beer.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Hopfen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Hopfen is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Hopfen mean?",
+      "options": [
+        "to sleep",
+        "always",
+        "hops"
+      ],
+      "answer": "hops",
+      "explanation": "Hopfen: hops.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bei ihm ist Hopfen und Malz verloren means…",
+      "options": [
+        "he's a lost cause",
+        "he lost his beer"
+      ],
+      "answer": "he's a lost cause",
+      "explanation": "Idiom.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Reinheitsgebot (1516) allowed…",
+      "options": [
+        "water, barley, hops",
+        "any grain"
+      ],
+      "answer": "water, barley, hops",
+      "explanation": "Purity law.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hops give beer its…",
+      "options": [
+        "bitterness and aroma",
+        "colour only"
+      ],
+      "answer": "bitterness and aroma",
+      "explanation": "Bitter.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Hopfen is hops, the climbing plant that gives beer bitterness and aroma. The Hallertau in Bavaria is the largest continuous hop-growing region in the world. The Bavarian Reinheitsgebot of 1516 allowed only water, barley and hops (yeast was not yet understood). Bei ihm ist Hopfen und Malz verloren means he's a hopeless case. It has no plural."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Einspruch",
+    "partOfSpeech": "noun, masculine (der Einspruch)",
+    "pronunciation": {
+      "respelling": "AIN-shprukh",
+      "ipa": "ˈaɪ̯nˌʃpʁʊx",
+      "notes": "Plural: die Einsprüche."
+    },
+    "meaning": "objection, appeal",
+    "shortDefinition": "Objection, appeal."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Einspruch, plural die Einsprüche.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Einspruch"
+        },
+        {
+          "label": "More than one",
+          "value": "die Einsprüche"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Einspruch, Euer Ehren!",
+      "english": "Objection, Your Honour!",
+      "highlight": [
+        "Einspruch,"
+      ]
+    },
+    {
+      "german": "Ich lege Einspruch gegen den Steuerbescheid ein.",
+      "english": "I'm lodging an objection to the tax assessment.",
+      "highlight": [
+        "Einspruch"
+      ]
+    }
+  ],
+  "forms": [
+    "Einsprüche",
+    "die Einsprüche",
+    "der Einspruch"
+  ],
+  "memoryHook": "Einspruch: speaking (Spruch) up against a decision.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Einspruch",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Einspruch is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Einspruch, zwei ___",
+      "answer": "Einsprüche",
+      "fullAnswer": "ein Einspruch, zwei Einsprüche",
+      "explanation": "The plural is Einsprüche.",
+      "acceptedAnswers": [
+        "Einsprueche"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Einspruch mean?",
+      "options": [
+        "objection",
+        "to wait",
+        "tomorrow"
+      ],
+      "answer": "objection",
+      "explanation": "Einspruch: objection, appeal.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einspruch einlegen means…",
+      "options": [
+        "to lodge an objection",
+        "to give a speech"
+      ],
+      "answer": "to lodge an objection",
+      "explanation": "Object.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Deadline for Einspruch against a tax assessment:",
+      "options": [
+        "one month",
+        "one year"
+      ],
+      "answer": "one month",
+      "explanation": "One month.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym (administrative):",
+      "options": [
+        "der Widerspruch",
+        "der Zuspruch"
+      ],
+      "answer": "der Widerspruch",
+      "explanation": "Objection.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Einspruch is an objection: Einspruch einlegen (to lodge an objection), Einspruch erheben. In German administration, you can object to a tax assessment (Steuerbescheid) within one month; for many other official decisions, the formal term is Widerspruch. Einspruch, Euer Ehren! is the dubbed phrase from American courtroom dramas; real German courts don't work like that. Einspruch stattgegeben means objection sustained. Plural: die Einsprüche."
+}

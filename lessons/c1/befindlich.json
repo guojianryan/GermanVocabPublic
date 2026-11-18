@@ -1,0 +1,121 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "befindlich",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "be-FINT-likh",
+      "ipa": "bəˈfɪntlɪç",
+      "notes": ""
+    },
+    "meaning": "located, situated; present",
+    "shortDefinition": "Located, situated; present."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "be",
+        "meaning": "a prefix"
+      },
+      {
+        "part": "find",
+        "meaning": "find",
+        "note": "From sich befinden, to be located."
+      },
+      {
+        "part": "lich",
+        "meaning": "adjective ending: -able, -ly"
+      }
+    ],
+    "literalMeaning": "to be found"
+  },
+  "sampleSentences": [
+    {
+      "german": "Das im Keller befindliche Archiv ist geschlossen.",
+      "english": "The archive located in the basement is closed.",
+      "highlight": [
+        "befindliche"
+      ]
+    },
+    {
+      "german": "Die in der Tasche befindlichen Gegenstände wurden sichergestellt.",
+      "english": "The items in the bag were seized.",
+      "highlight": [
+        "befindlichen"
+      ]
+    }
+  ],
+  "forms": [
+    "befindliche",
+    "befindlichen",
+    "befindlicher",
+    "sich befinden"
+  ],
+  "memoryHook": "Befindlich: whatever happens to be there.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does befindlich mean?",
+      "options": [
+        "to help",
+        "always",
+        "located"
+      ],
+      "answer": "located",
+      "explanation": "befindlich: located, situated; present.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Befindlich is mostly used…",
+      "options": [
+        "before a noun, in formal writing",
+        "as a greeting"
+      ],
+      "answer": "before a noun, in formal writing",
+      "explanation": "Officialese.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "It is related to the verb…",
+      "options": [
+        "sich befinden",
+        "befinden sich ab"
+      ],
+      "answer": "sich befinden",
+      "explanation": "Be located.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die im Haus befindlichen Personen =",
+      "options": [
+        "the people inside the house",
+        "the people leaving the house"
+      ],
+      "answer": "the people inside the house",
+      "explanation": "Those present.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Befinden means…",
+      "options": [
+        "state of health",
+        "location"
+      ],
+      "answer": "state of health",
+      "explanation": "Wie ist Ihr Befinden?",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Befindlich is a stiff adjective from sich befinden, meaning located or present, and it appears in formal texts: Die im Gebäude befindlichen Personen müssen es verlassen. It nearly always sits before a noun, packed with a location phrase, which is typical of Amtsdeutsch. In speech, say: Das Archiv, das im Keller ist. Das Befinden is a different word, meaning state of health."
+}

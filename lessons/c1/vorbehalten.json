@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "vorbehalten",
+    "partOfSpeech": "separable verb (sich etwas ~)",
+    "pronunciation": {
+      "respelling": "FOHR-be-hal-ten",
+      "ipa": "ˈfoːɐ̯bəˌhaltn̩",
+      "notes": ""
+    },
+    "meaning": "to reserve (a right); reserved for",
+    "shortDefinition": "To reserve (a right); reserved for."
+  },
+  "sampleSentences": [
+    {
+      "german": "Änderungen vorbehalten.",
+      "english": "Subject to change.",
+      "highlight": [
+        "vorbehalten."
+      ]
+    },
+    {
+      "german": "Wir behalten uns rechtliche Schritte vor.",
+      "english": "We reserve the right to take legal action.",
+      "highlight": [
+        "behalten",
+        "vor."
+      ]
+    }
+  ],
+  "forms": [
+    "behält sich vor",
+    "behielt sich vor",
+    "Vorbehalt",
+    "vorbehaltlich",
+    "vorbehaltlos"
+  ],
+  "memoryHook": "Vorbehalten: keep (behalten) something back for yourself in advance (vor).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does vorbehalten mean?",
+      "options": [
+        "the child",
+        "to reserve (a right)",
+        "the bread"
+      ],
+      "answer": "to reserve (a right)",
+      "explanation": "vorbehalten: to reserve (a right); reserved for.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Alle Rechte vorbehalten means…",
+      "options": [
+        "all rights reserved",
+        "all rights removed"
+      ],
+      "answer": "all rights reserved",
+      "explanation": "Copyright notice.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Vorbehalt is…",
+      "options": [
+        "a reservation, proviso",
+        "a stop"
+      ],
+      "answer": "a reservation, proviso",
+      "explanation": "Vorbehalt.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unter Vorbehalt means…",
+      "options": [
+        "provisionally, with reservations",
+        "secretly"
+      ],
+      "answer": "provisionally, with reservations",
+      "explanation": "Provisionally.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Wir ___ uns Änderungen vor. (reserve)",
+      "answer": "behalten",
+      "fullAnswer": "Wir behalten uns Änderungen vor.",
+      "explanation": "sich etwas vorbehalten: behalten … vor.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Sich etwas vorbehalten means to reserve a right: Wir behalten uns Änderungen vor. You'll see it everywhere in small print: Alle Rechte vorbehalten (all rights reserved), Änderungen und Irrtümer vorbehalten (subject to change and errors). It can also mean to be reserved for: Dieser Bereich ist Mitgliedern vorbehalten. Der Vorbehalt is a reservation: Vorbehalte gegen etwas haben, unter Vorbehalt (provisionally)."
+}

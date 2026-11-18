@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Blickwinkel",
+    "partOfSpeech": "noun, masculine (der Blickwinkel)",
+    "pronunciation": {
+      "respelling": "BLIK-vin-kel",
+      "ipa": "ˈblɪkˌvɪŋkl̩",
+      "notes": "Plural: die Blickwinkel."
+    },
+    "meaning": "perspective, point of view; angle of view",
+    "shortDefinition": "Perspective, point of view; angle of view."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Blickwinkel, plural die Blickwinkel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Blickwinkel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Blickwinkel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Aus diesem Blickwinkel sieht die Sache anders aus.",
+      "english": "From this angle, the matter looks different.",
+      "highlight": [
+        "Blickwinkel"
+      ]
+    },
+    {
+      "german": "Der Film zeigt den Krieg aus dem Blickwinkel eines Kindes.",
+      "english": "The film shows the war from a child's perspective.",
+      "highlight": [
+        "Blickwinkel"
+      ]
+    }
+  ],
+  "forms": [
+    "die Blickwinkel",
+    "der Blickwinkel"
+  ],
+  "memoryHook": "Blickwinkel: the angle (Winkel) of your view (Blick).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Blickwinkel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Blickwinkel is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Blickwinkel, zwei ___",
+      "answer": "Blickwinkel",
+      "fullAnswer": "ein Blickwinkel, zwei Blickwinkel",
+      "explanation": "The plural is Blickwinkel.",
+      "acceptedAnswers": [
+        "Blickwinkel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Blickwinkel mean?",
+      "options": [
+        "perspective",
+        "the shop",
+        "to travel"
+      ],
+      "answer": "perspective",
+      "explanation": "Blickwinkel: perspective, point of view; angle of view.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Aus diesem Blickwinkel means…",
+      "options": [
+        "from this perspective",
+        "from this corner"
+      ],
+      "answer": "from this perspective",
+      "explanation": "Perspective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Blick is…",
+      "options": [
+        "look, glance; view",
+        "a block"
+      ],
+      "answer": "look, glance; view",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Winkel is…",
+      "options": [
+        "angle; corner",
+        "a wink"
+      ],
+      "answer": "angle; corner",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Blickwinkel is a perspective or point of view: aus einem anderen Blickwinkel betrachten, den Blickwinkel wechseln (to change perspective). Literally, it's the angle of view, as of a camera or screen. Synonyms: die Perspektive, die Sichtweise, der Standpunkt. Der Winkel is an angle or corner: ein rechter Winkel (right angle). Plural: die Blickwinkel."
+}

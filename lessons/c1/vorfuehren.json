@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "vorführen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "FOR-fü-ren",
+      "ipa": "ˈfoːɐ̯ˌfyːʁən",
+      "notes": ""
+    },
+    "meaning": "to demonstrate, show; to bring before (a judge)",
+    "shortDefinition": "To demonstrate, show; to bring before (a judge)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "führ|e … |vor"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "führ|st … |vor"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "führ|t … |vor"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "führ|en … |vor"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "führ|t … |vor"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "führ|en … |vor"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat vorgeführt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Verkäufer führt das Gerät vor.",
+      "english": "The salesman demonstrates the device.",
+      "highlight": [
+        "führt",
+        "vor."
+      ]
+    },
+    {
+      "german": "Der Verdächtige wurde dem Haftrichter vorgeführt.",
+      "english": "The suspect was brought before the custody judge.",
+      "highlight": [
+        "vorgeführt."
+      ]
+    }
+  ],
+  "forms": [
+    "führe vor",
+    "führst vor",
+    "führt vor",
+    "führen vor",
+    "vorgeführt",
+    "führte vor",
+    "Vorführung",
+    "Vorführeffekt"
+  ],
+  "memoryHook": "Vorführen: lead (führen) something out in front (vor).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … vor (vorführen)",
+      "answer": "führt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: führt … vor.",
+      "acceptedAnswers": [
+        "fuehrt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (vorführen, past)",
+      "answer": "vorgeführt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe vorgeführt.",
+      "acceptedAnswers": [
+        "vorgefuehrt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does vorführen mean?",
+      "options": [
+        "to demonstrate",
+        "the weather",
+        "the family"
+      ],
+      "answer": "to demonstrate",
+      "explanation": "vorführen: to demonstrate, show; to bring before (a judge).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Vorführung is…",
+      "options": [
+        "demonstration; screening, show",
+        "a guided tour"
+      ],
+      "answer": "demonstration; screening, show",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden vorführen (colloquial) means…",
+      "options": [
+        "to make someone look foolish",
+        "to drive someone"
+      ],
+      "answer": "to make someone look foolish",
+      "explanation": "Humiliate.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Vorführeffekt is…",
+      "options": [
+        "when something fails just during a demo",
+        "a cinema effect"
+      ],
+      "answer": "when something fails just during a demo",
+      "explanation": "Demo effect.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Vorführen means to demonstrate or show (ein Kunststück, ein Produkt vorführen), to screen a film, and to bring before a judge: dem Haftrichter vorführen. Colloquially, jemanden vorführen means to make someone look foolish in public. Der Vorführeffekt is the law that things fail exactly when you demonstrate them. Die Vorführung is a demonstration or screening. Separable: führte vor, vorgeführt."
+}

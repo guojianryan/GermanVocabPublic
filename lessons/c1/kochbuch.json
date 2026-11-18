@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kochbuch",
+    "partOfSpeech": "noun, neuter (das Kochbuch)",
+    "pronunciation": {
+      "respelling": "KOKH-bookh",
+      "ipa": "ˈkɔxˌbuːx",
+      "notes": "Plural: die Kochbücher."
+    },
+    "meaning": "cookbook",
+    "shortDefinition": "Cookbook."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Kochbuch, plural die Kochbücher.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Kochbuch"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kochbücher"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Rezept stammt aus Omas Kochbuch.",
+      "english": "The recipe comes from Grandma's cookbook.",
+      "highlight": [
+        "Kochbuch."
+      ]
+    },
+    {
+      "german": "Kochbücher verkaufen sich in Deutschland sehr gut.",
+      "english": "Cookbooks sell very well in Germany.",
+      "highlight": [
+        "Kochbücher"
+      ]
+    }
+  ],
+  "forms": [
+    "Kochbücher",
+    "die Kochbücher",
+    "das Kochbuch"
+  ],
+  "memoryHook": "Kochbuch: a Buch for kochen.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kochbuch",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Kochbuch is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kochbuch, zwei ___",
+      "answer": "Kochbücher",
+      "fullAnswer": "ein Kochbuch, zwei Kochbücher",
+      "explanation": "The plural is Kochbücher.",
+      "acceptedAnswers": [
+        "Kochbuecher"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kochbuch mean?",
+      "options": [
+        "to sing",
+        "cookbook",
+        "to travel"
+      ],
+      "answer": "cookbook",
+      "explanation": "Kochbuch: cookbook.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Rezept is…",
+      "options": [
+        "recipe; prescription",
+        "receipt"
+      ],
+      "answer": "recipe; prescription",
+      "explanation": "Recipe.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kochen means…",
+      "options": [
+        "to cook; to boil",
+        "to cough"
+      ],
+      "answer": "to cook; to boil",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Dr. Oetker is a German brand famous for…",
+      "options": [
+        "baking products and recipe books",
+        "medicines"
+      ],
+      "answer": "baking products and recipe books",
+      "explanation": "Brand.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Kochbuch is a cookbook. Classic German ones include Das Dr. Oetker Schulkochbuch, used for generations, and Henriette Davidis's 19th-century Praktisches Kochbuch. Today vegan and Mediterranean cookbooks top bestseller lists. Das Rezept means recipe and also prescription. Kochen means to cook and to boil: Wasser kochen. Plural: die Kochbücher."
+}

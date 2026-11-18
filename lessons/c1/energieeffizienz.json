@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Energieeffizienz",
+    "partOfSpeech": "noun, feminine (die Energieeffizienz)",
+    "pronunciation": {
+      "respelling": "e-ner-GEE-e-fi-tsyents",
+      "ipa": "enɛʁˈɡiːʔɛfiˌt͡si̯ɛnt͡s",
+      "notes": "Usually no plural."
+    },
+    "meaning": "energy efficiency",
+    "shortDefinition": "Energy efficiency."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Energieeffizienz, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Energieeffizienz"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Energieeffizienz des Hauses soll verbessert werden.",
+      "english": "The house's energy efficiency is to be improved.",
+      "highlight": [
+        "Energieeffizienz"
+      ]
+    },
+    {
+      "german": "Kühlschränke haben ein Label für Energieeffizienz.",
+      "english": "Fridges have an energy efficiency label.",
+      "highlight": [
+        "Energieeffizienz."
+      ]
+    }
+  ],
+  "forms": [
+    "die Energieeffizienz"
+  ],
+  "memoryHook": "Energieeffizienz: using Energie effizient (efficiently).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Energieeffizienz",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Energieeffizienz is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Energieeffizienz mean?",
+      "options": [
+        "energy efficiency",
+        "the window",
+        "the key"
+      ],
+      "answer": "energy efficiency",
+      "explanation": "Energieeffizienz: energy efficiency.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Energieausweis is…",
+      "options": [
+        "energy performance certificate (buildings)",
+        "an electricity bill"
+      ],
+      "answer": "energy performance certificate (buildings)",
+      "explanation": "Certificate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "EU energy labels now run from…",
+      "options": [
+        "A to G",
+        "A+++ to D"
+      ],
+      "answer": "A to G",
+      "explanation": "Label.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Effizient means…",
+      "options": [
+        "efficient",
+        "effective"
+      ],
+      "answer": "efficient",
+      "explanation": "Adjective.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Energieeffizienz is energy efficiency: die Energieeffizienzklasse of appliances (EU labels A to G, rescaled in 2021), energieeffizientes Bauen. When renting or buying in Germany, landlords must show a Energieausweis (energy performance certificate). The Gebäudeenergiegesetz (Heating Act) of 2023 aims to make heating more efficient and climate-friendly. Note the double e. It has no plural."
+}

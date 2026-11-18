@@ -1,0 +1,118 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zielgruppe",
+    "partOfSpeech": "noun, feminine (die Zielgruppe)",
+    "pronunciation": {
+      "respelling": "TSEEL-gru-pe",
+      "ipa": "ˈt͡siːlˌɡʁʊpə",
+      "notes": "Plural: die Zielgruppen."
+    },
+    "meaning": "target group, target audience",
+    "shortDefinition": "Target group, target audience."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Zielgruppe, plural die Zielgruppen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Zielgruppe"
+        },
+        {
+          "label": "More than one",
+          "value": "die Zielgruppen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Zielgruppe sind junge Eltern.",
+      "english": "The target group is young parents.",
+      "highlight": [
+        "Zielgruppe"
+      ]
+    },
+    {
+      "german": "Wir müssen die Zielgruppe besser kennen.",
+      "english": "We need to know the target audience better.",
+      "highlight": [
+        "Zielgruppe"
+      ]
+    }
+  ],
+  "forms": [
+    "Zielgruppen",
+    "die Zielgruppen",
+    "die Zielgruppe"
+  ],
+  "memoryHook": "Zielgruppe: the group you aim (zielen) at.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zielgruppe",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Zielgruppe is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Zielgruppe, zwei ___",
+      "answer": "Zielgruppen",
+      "fullAnswer": "ein Zielgruppe, zwei Zielgruppen",
+      "explanation": "The plural is Zielgruppen.",
+      "acceptedAnswers": [
+        "Zielgruppen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zielgruppe mean?",
+      "options": [
+        "cheap",
+        "target group",
+        "hot"
+      ],
+      "answer": "target group",
+      "explanation": "Zielgruppe: target group, target audience.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Ziel is…",
+      "options": [
+        "the goal, target",
+        "the time"
+      ],
+      "answer": "the goal, target",
+      "explanation": "Ziel.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zielgruppengerecht means…",
+      "options": [
+        "suited to the target group",
+        "fair to all groups"
+      ],
+      "answer": "suited to the target group",
+      "explanation": "Tailored.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Zielgruppe is a target group or audience: Die Zielgruppe der Werbung sind Teenager. It's a key term in marketing, education and media. Zielgruppenorientiert or zielgruppengerecht means tailored to the target group. From das Ziel (goal, target) and die Gruppe. Germans also use the English word Target Group in business, but Zielgruppe is far more common."
+}

@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "mitmischen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "MIT-mi-shen",
+      "ipa": "ˈmɪtˌmɪʃn̩",
+      "notes": ""
+    },
+    "meaning": "to be involved, have a hand in (colloquial)",
+    "shortDefinition": "To be involved, have a hand in (colloquial)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "misch|e … |mit"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "misch|st … |mit"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "misch|t … |mit"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "misch|en … |mit"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "misch|t … |mit"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "misch|en … |mit"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat mitgemischt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er will in der Politik mitmischen.",
+      "english": "He wants to get involved in politics.",
+      "highlight": [
+        "mitmischen."
+      ]
+    },
+    {
+      "german": "Das Team mischt oben in der Tabelle mit.",
+      "english": "The team is in the mix at the top of the table.",
+      "highlight": [
+        "mischt",
+        "mit."
+      ]
+    }
+  ],
+  "forms": [
+    "mische mit",
+    "mischst mit",
+    "mischt mit",
+    "mischen mit",
+    "mitgemischt",
+    "mischte mit"
+  ],
+  "memoryHook": "Mitmischen: mischen (mix) mit (along).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … mit (mitmischen)",
+      "answer": "mischt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: mischt … mit.",
+      "acceptedAnswers": [
+        "mischt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (mitmischen, past)",
+      "answer": "mitgemischt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe mitgemischt.",
+      "acceptedAnswers": [
+        "mitgemischt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does mitmischen mean?",
+      "options": [
+        "the key",
+        "the shop",
+        "to be involved"
+      ],
+      "answer": "to be involved",
+      "explanation": "mitmischen: to be involved, have a hand in (colloquial).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mitmischen means…",
+      "options": [
+        "to be in the mix, have a hand in",
+        "to stir together"
+      ],
+      "answer": "to be in the mix, have a hand in",
+      "explanation": "Meaning.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mischen means…",
+      "options": [
+        "to mix; to shuffle (cards)",
+        "to fish"
+      ],
+      "answer": "to mix; to shuffle (cards)",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich einmischen means…",
+      "options": [
+        "to interfere",
+        "to join in politely"
+      ],
+      "answer": "to interfere",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Mitmischen (colloquial) means to be involved or have a hand in something: überall mitmischen wollen, in der Politik mitmischen. In sport, oben mitmischen means to be in contention at the top. Sich einmischen means to interfere: Misch dich nicht ein! Mischen means to mix or shuffle cards. Regular: mischte mit, mitgemischt."
+}

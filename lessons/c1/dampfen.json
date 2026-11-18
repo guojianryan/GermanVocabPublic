@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "dampfen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "DAMP-fen",
+      "ipa": "ˈdamp͡fn̩",
+      "notes": ""
+    },
+    "meaning": "to steam; to vape",
+    "shortDefinition": "To steam; to vape."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "dampf|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "dampf|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "dampf|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "dampf|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "dampf|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "dampf|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gedampft"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Kaffee dampft in der Tasse.",
+      "english": "The coffee is steaming in the cup.",
+      "highlight": [
+        "dampft"
+      ]
+    },
+    {
+      "german": "Er raucht nicht mehr, er dampft jetzt.",
+      "english": "He doesn't smoke any more, he vapes now.",
+      "highlight": [
+        "dampft"
+      ]
+    }
+  ],
+  "forms": [
+    "dampfe",
+    "dampfst",
+    "dampft",
+    "dampfen",
+    "gedampft",
+    "Dampf",
+    "Dampfer",
+    "dämpfen"
+  ],
+  "memoryHook": "Dampfen: give off Dampf (steam), or vape.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (dampfen)",
+      "answer": "dampft",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: dampft.",
+      "acceptedAnswers": [
+        "dampft"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (dampfen, past)",
+      "answer": "gedampft",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gedampft.",
+      "acceptedAnswers": [
+        "gedampft"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does dampfen mean?",
+      "options": [
+        "to steam",
+        "to buy",
+        "the flower"
+      ],
+      "answer": "to steam",
+      "explanation": "dampfen: to steam; to vape.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Dampf is…",
+      "options": [
+        "steam",
+        "fog"
+      ],
+      "answer": "steam",
+      "explanation": "Steam.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Dämpfen (with umlaut) means…",
+      "options": [
+        "to steam (cook); to dampen",
+        "to vape"
+      ],
+      "answer": "to steam (cook); to dampen",
+      "explanation": "Different verb!",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Dampf ablassen means…",
+      "options": [
+        "to let off steam",
+        "to boil water"
+      ],
+      "answer": "to let off steam",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Dampfen means to steam, give off steam: Die Suppe dampft. Today it also means to vape: E-Zigaretten dampfen. Careful: dämpfen, with an umlaut, means to steam food (Gemüse dämpfen) or to dampen. Der Dampf is steam: Dampf ablassen (to let off steam), Dampf machen (to put pressure on). Der Dampfer is a steamship, and auf dem falschen Dampfer sein means to be barking up the wrong tree."
+}

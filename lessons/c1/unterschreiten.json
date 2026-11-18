@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "unterschreiten",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "un-ter-SHRAI-ten",
+      "ipa": "ʊntɐˈʃʁaɪ̯tn̩",
+      "notes": ""
+    },
+    "meaning": "to fall below (a limit)",
+    "shortDefinition": "To fall below (a limit)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "unterschreit|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "unterschreit|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "unterschreit|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "unterschreit|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "unterschreit|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "unterschreit|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat unterschritten"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Temperatur unterschritt den Gefrierpunkt.",
+      "english": "The temperature fell below freezing.",
+      "highlight": [
+        "unterschritt"
+      ]
+    },
+    {
+      "german": "Der Mindestabstand darf nicht unterschritten werden.",
+      "english": "The minimum distance must not be fallen below.",
+      "highlight": [
+        "unterschritten"
+      ]
+    }
+  ],
+  "forms": [
+    "unterschreite",
+    "unterschreitest",
+    "unterschreitet",
+    "unterschreiten",
+    "unterschritten",
+    "unterschritt"
+  ],
+  "memoryHook": "Unterschreiten: schreiten (step) unter (below) a mark.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (unterschreiten)",
+      "answer": "unterschreitet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: unterschreitet.",
+      "acceptedAnswers": [
+        "unterschreitet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (unterschreiten, past)",
+      "answer": "unterschritten",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe unterschritten.",
+      "acceptedAnswers": [
+        "unterschritten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does unterschreiten mean?",
+      "options": [
+        "always",
+        "quiet",
+        "to fall below (a limit)"
+      ],
+      "answer": "to fall below (a limit)",
+      "explanation": "unterschreiten: to fall below (a limit).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Opposite:",
+      "options": [
+        "überschreiten",
+        "unterschreiben"
+      ],
+      "answer": "überschreiten",
+      "explanation": "Opposite.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Don't confuse with unterschreiben, which means…",
+      "options": [
+        "to sign",
+        "to underline"
+      ],
+      "answer": "to sign",
+      "explanation": "Contrast.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "unterschritt, unterschritten",
+        "unterschreitete"
+      ],
+      "answer": "unterschritt, unterschritten",
+      "explanation": "Irregular.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Unterschreiten means to fall below a limit or value: einen Grenzwert, die Mindestzahl, die Fünfprozenthürde unterschreiten. The opposite is überschreiten (to exceed). It's inseparable: unterschritt, hat unterschritten. Don't confuse it with unterschreiben (to sign). Schreiten means to stride. Irregular like schreiten."
+}

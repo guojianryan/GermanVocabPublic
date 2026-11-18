@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Erkennung",
+    "partOfSpeech": "noun, feminine (die Erkennung)",
+    "pronunciation": {
+      "respelling": "er-KE-nung",
+      "ipa": "ɛɐ̯ˈkɛnʊŋ",
+      "notes": "Plural: die Erkennungen."
+    },
+    "meaning": "recognition, detection",
+    "shortDefinition": "Recognition, detection."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Erkennung, plural die Erkennungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Erkennung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Erkennungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Gesichtserkennung entsperrt das Handy.",
+      "english": "Facial recognition unlocks the phone.",
+      "highlight": [
+        "Gesichtserkennung"
+      ]
+    },
+    {
+      "german": "Die frühe Erkennung von Krebs rettet Leben.",
+      "english": "Early detection of cancer saves lives.",
+      "highlight": [
+        "Erkennung"
+      ]
+    }
+  ],
+  "forms": [
+    "Erkennungen",
+    "die Erkennung",
+    "erkennen"
+  ],
+  "memoryHook": "Erkennung: the act of erkennen (recognising).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Erkennung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Erkennung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Erkennung, zwei ___",
+      "answer": "Erkennungen",
+      "fullAnswer": "ein Erkennung, zwei Erkennungen",
+      "explanation": "The plural is Erkennungen.",
+      "acceptedAnswers": [
+        "Erkennungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Erkennung mean?",
+      "options": [
+        "tomorrow",
+        "expensive",
+        "recognition"
+      ],
+      "answer": "recognition",
+      "explanation": "Erkennung: recognition, detection.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Erkennen means…",
+      "options": [
+        "to recognise, detect",
+        "to know"
+      ],
+      "answer": "to recognise, detect",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Spracherkennung is…",
+      "options": [
+        "speech recognition",
+        "language knowledge"
+      ],
+      "answer": "speech recognition",
+      "explanation": "Speech.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Erkennungszeichen is…",
+      "options": [
+        "a distinguishing mark",
+        "a password"
+      ],
+      "answer": "a distinguishing mark",
+      "explanation": "Mark.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Erkennung is recognition or detection: die Gesichtserkennung (facial recognition), die Spracherkennung (speech recognition), die Früherkennung (early detection, of diseases). German statutory health insurance covers Früherkennungsuntersuchungen (screening check-ups). Police use of automatic facial recognition is controversial under German data protection rules. Erkennen means to recognise. Plural: die Erkennungen."
+}

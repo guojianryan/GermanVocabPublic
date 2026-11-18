@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Verteidiger",
+    "partOfSpeech": "noun, masculine (der Verteidiger)",
+    "pronunciation": {
+      "respelling": "fer-TAI-di-ger",
+      "ipa": "fɛɐ̯ˈtaɪ̯dɪɡɐ",
+      "notes": "Plural: die Verteidiger."
+    },
+    "meaning": "defender; defence lawyer",
+    "shortDefinition": "Defender; defence lawyer."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Verteidiger, plural die Verteidiger.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Verteidiger"
+        },
+        {
+          "label": "More than one",
+          "value": "die Verteidiger"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Verteidiger hat das Tor verhindert.",
+      "english": "The defender prevented the goal.",
+      "highlight": [
+        "Verteidiger"
+      ]
+    },
+    {
+      "german": "Ihr Verteidiger plädierte auf Freispruch.",
+      "english": "Her defence lawyer pleaded for acquittal.",
+      "highlight": [
+        "Verteidiger"
+      ]
+    }
+  ],
+  "forms": [
+    "die Verteidiger",
+    "der Verteidiger",
+    "Verteidigerin",
+    "verteidigen",
+    "Verteidigung"
+  ],
+  "memoryHook": "Verteidiger: defends a goal or a client.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Verteidiger",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Verteidiger is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Verteidiger, zwei ___",
+      "answer": "Verteidiger",
+      "fullAnswer": "ein Verteidiger, zwei Verteidiger",
+      "explanation": "The plural is Verteidiger.",
+      "acceptedAnswers": [
+        "Verteidiger"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Verteidiger mean?",
+      "options": [
+        "to sleep",
+        "the door",
+        "defender"
+      ],
+      "answer": "defender",
+      "explanation": "Verteidiger: defender; defence lawyer.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verteidigen means…",
+      "options": [
+        "to defend",
+        "to divide"
+      ],
+      "answer": "to defend",
+      "explanation": "verteidigen.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Pflichtverteidiger is…",
+      "options": [
+        "a court-appointed lawyer",
+        "a soldier"
+      ],
+      "answer": "a court-appointed lawyer",
+      "explanation": "Public defender.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The ministry of defence:",
+      "options": [
+        "das Verteidigungsministerium",
+        "das Wehrministerium"
+      ],
+      "answer": "das Verteidigungsministerium",
+      "explanation": "Defence ministry.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Verteidiger (die Verteidigerin) is a defender in sport (der Innenverteidiger, centre back) and a defence lawyer in criminal court. Der Pflichtverteidiger is a court-appointed defence lawyer. Verteidigen means to defend, and die Verteidigung is defence, as in das Bundesministerium der Verteidigung. In civil cases, a lawyer is simply der Anwalt. The plural is the same."
+}

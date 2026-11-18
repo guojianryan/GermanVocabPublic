@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Benefiz",
+    "partOfSpeech": "noun, neuter (das Benefiz)",
+    "pronunciation": {
+      "respelling": "be-ne-FEETS",
+      "ipa": "beneˈfiːt͡s",
+      "notes": "Plural: die Benefize."
+    },
+    "meaning": "benefit (charity event)",
+    "shortDefinition": "Benefit (charity event)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Benefiz, plural die Benefize.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Benefiz"
+        },
+        {
+          "label": "More than one",
+          "value": "die Benefize"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Erlös des Benefizkonzerts geht an Kinderhilfswerke.",
+      "english": "The proceeds of the benefit concert go to children's charities.",
+      "highlight": [
+        "Benefizkonzerts"
+      ]
+    },
+    {
+      "german": "Das Benefiz war ausverkauft.",
+      "english": "The benefit was sold out.",
+      "highlight": [
+        "Benefiz"
+      ]
+    }
+  ],
+  "forms": [
+    "Benefize",
+    "das Benefiz"
+  ],
+  "memoryHook": "Benefiz: Latin beneficium, a good deed.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Benefiz",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Benefiz is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Benefiz, zwei ___",
+      "answer": "Benefize",
+      "fullAnswer": "ein Benefiz, zwei Benefize",
+      "explanation": "The plural is Benefize.",
+      "acceptedAnswers": [
+        "Benefize"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Benefiz mean?",
+      "options": [
+        "the job",
+        "expensive",
+        "benefit (charity event)"
+      ],
+      "answer": "benefit (charity event)",
+      "explanation": "Benefiz: benefit (charity event).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mostly used in compounds like…",
+      "options": [
+        "Benefizkonzert, Benefizspiel",
+        "Benefizsteuer"
+      ],
+      "answer": "Benefizkonzert, Benefizspiel",
+      "explanation": "Usage.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Erlös is…",
+      "options": [
+        "proceeds",
+        "release"
+      ],
+      "answer": "proceeds",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Wohltätigkeitsveranstaltung",
+        "der Gewinn"
+      ],
+      "answer": "die Wohltätigkeitsveranstaltung",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Benefiz is a benefit or charity event, used mainly in compounds: das Benefizkonzert, das Benefizspiel, die Benefizgala. The proceeds (der Erlös) go to a good cause (ein guter Zweck). A native synonym is die Wohltätigkeitsveranstaltung. From Latin beneficium (good deed). Plural: die Benefize."
+}

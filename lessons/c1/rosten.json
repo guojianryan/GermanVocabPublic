@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "rosten",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ROS-ten",
+      "ipa": "ˈʁɔstn̩",
+      "notes": ""
+    },
+    "meaning": "to rust",
+    "shortDefinition": "To rust."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "rost|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "rost|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "rost|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "rost|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "rost|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "rost|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gerostet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das alte Fahrrad rostet im Garten.",
+      "english": "The old bike is rusting in the garden.",
+      "highlight": [
+        "rostet"
+      ]
+    },
+    {
+      "german": "Wer rastet, der rostet.",
+      "english": "Use it or lose it.",
+      "highlight": [
+        "rostet."
+      ]
+    }
+  ],
+  "forms": [
+    "roste",
+    "rostest",
+    "rostet",
+    "rosten",
+    "gerostet",
+    "Rost",
+    "rostig"
+  ],
+  "memoryHook": "Rosten: get Rost (rust).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (rosten)",
+      "answer": "rostet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: rostet.",
+      "acceptedAnswers": [
+        "rostet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (rosten, past)",
+      "answer": "gerostet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gerostet.",
+      "acceptedAnswers": [
+        "gerostet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does rosten mean?",
+      "options": [
+        "to rust",
+        "to sleep",
+        "tomorrow"
+      ],
+      "answer": "to rust",
+      "explanation": "rosten: to rust.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wer rastet, der rostet means…",
+      "options": [
+        "use it or lose it",
+        "rest makes you rusty in a good way"
+      ],
+      "answer": "use it or lose it",
+      "explanation": "Proverb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Rost is…",
+      "options": [
+        "rust; grill, grate",
+        "a roast"
+      ],
+      "answer": "rust; grill, grate",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rostfrei means…",
+      "options": [
+        "stainless, rust-free",
+        "roast-free"
+      ],
+      "answer": "stainless, rust-free",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Rosten means to rust: Das Auto rostet. The proverb Wer rastet, der rostet (who rests, rusts) means use it or lose it, often said to older people staying active. Der Rost is rust and also a grill or grate: der Grillrost, der Lattenrost (slatted bed base). Rostig means rusty, and rostfrei means stainless: rostfreier Stahl. Perfect with haben or sein: hat/ist gerostet. Note: der Rostbraten is a roast."
+}

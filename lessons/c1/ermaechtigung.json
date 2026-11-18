@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ermächtigung",
+    "partOfSpeech": "noun, feminine (die Ermächtigung)",
+    "pronunciation": {
+      "respelling": "er-MEKH-ti-gung",
+      "ipa": "ɛɐ̯ˈmɛçtɪɡʊŋ",
+      "notes": "Plural: die Ermächtigungen."
+    },
+    "meaning": "authorisation, empowerment",
+    "shortDefinition": "Authorisation, empowerment."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Ermächtigung, plural die Ermächtigungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Ermächtigung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ermächtigungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er handelte ohne Ermächtigung.",
+      "english": "He acted without authorisation.",
+      "highlight": [
+        "Ermächtigung."
+      ]
+    },
+    {
+      "german": "Das Ermächtigungsgesetz von 1933 hebelte die Demokratie aus.",
+      "english": "The 1933 Enabling Act undermined democracy.",
+      "highlight": [
+        "Ermächtigungsgesetz"
+      ]
+    }
+  ],
+  "forms": [
+    "Ermächtigungen",
+    "die Ermächtigung"
+  ],
+  "memoryHook": "Ermächtigung: giving someone Macht (power).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ermächtigung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Ermächtigung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Ermächtigung, zwei ___",
+      "answer": "Ermächtigungen",
+      "fullAnswer": "ein Ermächtigung, zwei Ermächtigungen",
+      "explanation": "The plural is Ermächtigungen.",
+      "acceptedAnswers": [
+        "Ermaechtigungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ermächtigung mean?",
+      "options": [
+        "authorisation",
+        "to sleep",
+        "the evening"
+      ],
+      "answer": "authorisation",
+      "explanation": "Ermächtigung: authorisation, empowerment.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Ermächtigungsgesetz (1933)…",
+      "options": [
+        "let Hitler's government pass laws without parliament",
+        "created the Bundestag"
+      ],
+      "answer": "let Hitler's government pass laws without parliament",
+      "explanation": "History.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ermächtigen means…",
+      "options": [
+        "to authorise, empower",
+        "to overpower"
+      ],
+      "answer": "to authorise, empower",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Which party voted against in 1933?",
+      "options": [
+        "the SPD",
+        "the Centre Party"
+      ],
+      "answer": "the SPD",
+      "explanation": "History.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Ermächtigung is authorisation or empowerment: eine Ermächtigung erteilen, zu etwas ermächtigt sein. Historically, the Ermächtigungsgesetz of March 1933 let Hitler's government pass laws without the Reichstag; only the SPD voted against, as the Communists had already been persecuted. Otto Wels's speech for the SPD is famous: Freiheit und Leben kann man uns nehmen, die Ehre nicht. Plural: die Ermächtigungen."
+}

@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "umkehren",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "UM-kay-ren",
+      "ipa": "ˈʊmˌkeːʁən",
+      "notes": ""
+    },
+    "meaning": "to turn back; to reverse",
+    "shortDefinition": "To turn back; to reverse."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "kehr|e … |um"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "kehr|st … |um"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "kehr|t … |um"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "kehr|en … |um"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "kehr|t … |um"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "kehr|en … |um"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist umgekehrt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wegen des Sturms mussten wir umkehren.",
+      "english": "We had to turn back because of the storm.",
+      "highlight": [
+        "umkehren."
+      ]
+    },
+    {
+      "german": "Es ist genau umgekehrt.",
+      "english": "It's exactly the other way round.",
+      "highlight": [
+        "umgekehrt."
+      ]
+    }
+  ],
+  "forms": [
+    "kehre um",
+    "kehrst um",
+    "kehrt um",
+    "kehren um",
+    "umgekehrt",
+    "kehrte um",
+    "Umkehr"
+  ],
+  "memoryHook": "Umkehren: turn (kehren) around (um).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … um (umkehren)",
+      "answer": "kehrt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: kehrt … um.",
+      "acceptedAnswers": [
+        "kehrt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (umkehren, past)",
+      "answer": "umgekehrt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin umgekehrt.",
+      "acceptedAnswers": [
+        "umgekehrt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does umkehren mean?",
+      "options": [
+        "to sleep",
+        "the bed",
+        "to turn back"
+      ],
+      "answer": "to turn back",
+      "explanation": "umkehren: to turn back; to reverse.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Umgekehrt means…",
+      "options": [
+        "the other way round, reversed",
+        "turned over"
+      ],
+      "answer": "the other way round, reversed",
+      "explanation": "Reverse.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Umkehr is…",
+      "options": [
+        "turnaround, return",
+        "sweeping"
+      ],
+      "answer": "turnaround, return",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Turn back (with sein) vs. reverse something (with haben):",
+      "options": [
+        "ist umgekehrt / hat umgekehrt",
+        "both haben"
+      ],
+      "answer": "ist umgekehrt / hat umgekehrt",
+      "explanation": "Aux.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Umkehren means to turn back (with sein: Wir sind umgekehrt) and to reverse something (with haben: einen Trend umkehren). The participle umgekehrt is very common: umgekehrt (the other way round), in umgekehrter Reihenfolge (in reverse order), und umgekehrt (and vice versa). Die Umkehr is a turnaround. Separable: kehrte um, umgekehrt."
+}

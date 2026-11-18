@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "manipulieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ma-ni-pu-LEE-ren",
+      "ipa": "manipuˈliːʁən",
+      "notes": ""
+    },
+    "meaning": "to manipulate; to tamper with",
+    "shortDefinition": "To manipulate; to tamper with."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "manipulier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "manipulier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "manipulier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "manipulier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "manipulier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "manipulier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat manipuliert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Wahl wurde manipuliert.",
+      "english": "The election was rigged.",
+      "highlight": [
+        "manipuliert."
+      ]
+    },
+    {
+      "german": "Er versucht, die Leute zu manipulieren.",
+      "english": "He's trying to manipulate people.",
+      "highlight": [
+        "manipulieren."
+      ]
+    }
+  ],
+  "forms": [
+    "manipuliere",
+    "manipulierst",
+    "manipuliert",
+    "manipulieren",
+    "Manipulation"
+  ],
+  "memoryHook": "Manipulieren: handle (manus = hand) things to your advantage.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (manipulieren)",
+      "answer": "manipuliert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: manipuliert.",
+      "acceptedAnswers": [
+        "manipuliert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (manipulieren, past)",
+      "answer": "manipuliert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe manipuliert.",
+      "acceptedAnswers": [
+        "manipuliert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does manipulieren mean?",
+      "options": [
+        "to manipulate",
+        "the bill",
+        "slowly"
+      ],
+      "answer": "to manipulate",
+      "explanation": "manipulieren: to manipulate; to tamper with.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Manipulation is…",
+      "options": [
+        "manipulation",
+        "a manual"
+      ],
+      "answer": "manipulation",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Dieselskandal involved…",
+      "options": [
+        "manipulated emissions software",
+        "manipulated elections"
+      ],
+      "answer": "manipulated emissions software",
+      "explanation": "Abgasskandal.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Manipulierbar means…",
+      "options": [
+        "easy to manipulate",
+        "handy"
+      ],
+      "answer": "easy to manipulate",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Manipulieren means to manipulate people or to tamper with things: eine Wahl manipulieren, Daten manipulieren, Menschen manipulieren. Germany's best-known example is the 2015 Abgasskandal (diesel emissions scandal), when Volkswagen was found to have manipulated software to cheat emissions tests. Die Manipulation is manipulation. From Latin manus (hand): handling things for a hidden purpose. Past participle: manipuliert."
+}

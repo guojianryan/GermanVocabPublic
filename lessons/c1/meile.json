@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Meile",
+    "partOfSpeech": "noun, feminine (die Meile)",
+    "pronunciation": {
+      "respelling": "MAI-le",
+      "ipa": "ˈmaɪ̯lə",
+      "notes": "Plural: die Meilen."
+    },
+    "meaning": "mile",
+    "shortDefinition": "Mile."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Meile, plural die Meilen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Meile"
+        },
+        {
+          "label": "More than one",
+          "value": "die Meilen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Eine Meile sind etwa 1,6 Kilometer.",
+      "english": "A mile is about 1.6 kilometres.",
+      "highlight": [
+        "Meile"
+      ]
+    },
+    {
+      "german": "Das riecht man drei Meilen gegen den Wind.",
+      "english": "You can smell that a mile off.",
+      "highlight": [
+        "Meilen"
+      ]
+    }
+  ],
+  "forms": [
+    "Meilen",
+    "die Meilen",
+    "die Meile",
+    "Meilenstein",
+    "Seemeile"
+  ],
+  "memoryHook": "Meile: Germans measure in km but keep the idioms.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Meile",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Meile is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Meile, zwei ___",
+      "answer": "Meilen",
+      "fullAnswer": "ein Meile, zwei Meilen",
+      "explanation": "The plural is Meilen.",
+      "acceptedAnswers": [
+        "Meilen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Meile mean?",
+      "options": [
+        "mile",
+        "the child",
+        "to open"
+      ],
+      "answer": "mile",
+      "explanation": "Meile: mile.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Meilenstein is…",
+      "options": [
+        "a milestone",
+        "a gravestone"
+      ],
+      "answer": "a milestone",
+      "explanation": "Milestone.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Etwas drei Meilen gegen den Wind riechen means…",
+      "options": [
+        "to see something coming a mile off",
+        "to smell bad"
+      ],
+      "answer": "to see something coming a mile off",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Fanmeile is…",
+      "options": [
+        "a public viewing zone for fans",
+        "a running track"
+      ],
+      "answer": "a public viewing zone for fans",
+      "explanation": "Fan mile.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Meile is a mile. Germany uses kilometres, so Meilen appear mostly for the US and UK, at sea (die Seemeile, nautical mile) and in idioms: Das riecht man drei Meilen gegen den Wind (you can tell from a mile away). Der Meilenstein is a milestone. Die Fanmeile is the public viewing area for big football tournaments, like the one in Berlin by the Brandenburg Gate. From Latin mille (thousand paces)."
+}

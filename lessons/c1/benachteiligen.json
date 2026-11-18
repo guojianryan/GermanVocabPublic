@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "benachteiligen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-NAKH-tai-li-gen",
+      "ipa": "bəˈnaːxtaɪ̯lɪɡn̩",
+      "notes": ""
+    },
+    "meaning": "to disadvantage, discriminate against",
+    "shortDefinition": "To disadvantage, discriminate against."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "benachteilig|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "benachteilig|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "benachteilig|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "benachteilig|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "benachteilig|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "benachteilig|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat benachteiligt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Niemand darf wegen seines Geschlechts benachteiligt werden.",
+      "english": "No one may be disadvantaged because of their sex.",
+      "highlight": [
+        "benachteiligt"
+      ]
+    },
+    {
+      "german": "Kinder aus armen Familien sind oft benachteiligt.",
+      "english": "Children from poor families are often disadvantaged.",
+      "highlight": [
+        "benachteiligt."
+      ]
+    }
+  ],
+  "forms": [
+    "benachteilige",
+    "benachteiligst",
+    "benachteiligt",
+    "benachteiligen",
+    "Benachteiligung"
+  ],
+  "memoryHook": "Benachteiligen: give someone a Nachteil (disadvantage).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (benachteiligen)",
+      "answer": "benachteiligt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: benachteiligt.",
+      "acceptedAnswers": [
+        "benachteiligt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (benachteiligen, past)",
+      "answer": "benachteiligt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe benachteiligt.",
+      "acceptedAnswers": [
+        "benachteiligt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does benachteiligen mean?",
+      "options": [
+        "to wait",
+        "expensive",
+        "to disadvantage"
+      ],
+      "answer": "to disadvantage",
+      "explanation": "benachteiligen: to disadvantage, discriminate against.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Nachteil is…",
+      "options": [
+        "disadvantage",
+        "night part"
+      ],
+      "answer": "disadvantage",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Benachteiligung is…",
+      "options": [
+        "discrimination, disadvantage",
+        "a part"
+      ],
+      "answer": "discrimination, disadvantage",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite:",
+      "options": [
+        "bevorzugen",
+        "beachten"
+      ],
+      "answer": "bevorzugen",
+      "explanation": "Favour.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Benachteiligen means to disadvantage or discriminate against: Frauen werden bei der Bezahlung benachteiligt. Article 3 of the Grundgesetz states that no one may be benachteiligt oder bevorzugt (disadvantaged or favoured) because of sex, origin, faith or disability. Die Benachteiligung is discrimination. Benachteiligt means disadvantaged: sozial benachteiligte Kinder. The opposite is bevorzugen. Not separable."
+}

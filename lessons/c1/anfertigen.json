@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "anfertigen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AN-fer-ti-gen",
+      "ipa": "ˈanˌfɛʁtɪɡn̩",
+      "notes": ""
+    },
+    "meaning": "to make, produce, prepare",
+    "shortDefinition": "To make, produce, prepare."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "fertig|e … |an"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "fertig|st … |an"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "fertig|t … |an"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "fertig|en … |an"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "fertig|t … |an"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "fertig|en … |an"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat angefertigt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Schneider fertigt den Anzug nach Maß an.",
+      "english": "The tailor makes the suit to measure.",
+      "highlight": [
+        "fertigt",
+        "an."
+      ]
+    },
+    {
+      "german": "Bitte fertigen Sie eine Kopie an.",
+      "english": "Please make a copy.",
+      "highlight": [
+        "fertigen",
+        "an."
+      ]
+    }
+  ],
+  "forms": [
+    "fertige an",
+    "fertigst an",
+    "fertigt an",
+    "fertigen an",
+    "angefertigt",
+    "fertigte an",
+    "Anfertigung"
+  ],
+  "memoryHook": "Anfertigen: make something fertig (finished).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … an (anfertigen)",
+      "answer": "fertigt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: fertigt … an.",
+      "acceptedAnswers": [
+        "fertigt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (anfertigen, past)",
+      "answer": "angefertigt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe angefertigt.",
+      "acceptedAnswers": [
+        "angefertigt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does anfertigen mean?",
+      "options": [
+        "to make",
+        "the bill",
+        "slowly"
+      ],
+      "answer": "to make",
+      "explanation": "anfertigen: to make, produce, prepare.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nach Maß anfertigen means…",
+      "options": [
+        "to make to measure",
+        "to measure up"
+      ],
+      "answer": "to make to measure",
+      "explanation": "Custom-made.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal (crafts, documents)",
+        "slang"
+      ],
+      "answer": "formal (crafts, documents)",
+      "explanation": "Formal.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Anfertigung is…",
+      "options": [
+        "the making, production",
+        "the end"
+      ],
+      "answer": "the making, production",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Anfertigen means to make or produce, especially by hand or to order: einen Schlüssel anfertigen lassen, Möbel nach Maß anfertigen. It's also used for documents: ein Protokoll anfertigen, eine Kopie anfertigen. It's more formal than machen. Die Anfertigung is the making: Sonderanfertigung means a custom-made item. From fertig (finished, ready). Separable: fertigt an, angefertigt."
+}

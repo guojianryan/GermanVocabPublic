@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "halbieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "hal-BEE-ren",
+      "ipa": "halˈbiːʁən",
+      "notes": ""
+    },
+    "meaning": "to halve",
+    "shortDefinition": "To halve."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "halbier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "halbier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "halbier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "halbier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "halbier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "halbier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat halbiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Tomaten halbieren und entkernen.",
+      "english": "Halve and deseed the tomatoes.",
+      "highlight": [
+        "halbieren"
+      ]
+    },
+    {
+      "german": "Die Zahl der Unfälle hat sich halbiert.",
+      "english": "The number of accidents has halved.",
+      "highlight": [
+        "halbiert."
+      ]
+    }
+  ],
+  "forms": [
+    "halbiere",
+    "halbierst",
+    "halbiert",
+    "halbieren",
+    "Halbierung"
+  ],
+  "memoryHook": "Halbieren: cut into halb (half).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (halbieren)",
+      "answer": "halbiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: halbiert.",
+      "acceptedAnswers": [
+        "halbiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (halbieren, past)",
+      "answer": "halbiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe halbiert.",
+      "acceptedAnswers": [
+        "halbiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does halbieren mean?",
+      "options": [
+        "the shop",
+        "the window",
+        "to halve"
+      ],
+      "answer": "to halve",
+      "explanation": "halbieren: to halve.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich halbieren means…",
+      "options": [
+        "to be halved",
+        "to have half a day off"
+      ],
+      "answer": "to be halved",
+      "explanation": "Reflexive.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verdoppeln means…",
+      "options": [
+        "to double",
+        "to divide"
+      ],
+      "answer": "to double",
+      "explanation": "Opposite.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Halb means…",
+      "options": [
+        "half",
+        "help"
+      ],
+      "answer": "half",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Halbieren means to halve: einen Apfel halbieren, die Kosten halbieren. Reflexively, sich halbieren means to be halved: Die Zahl hat sich halbiert. The opposite is verdoppeln (to double). Die Halbierung is halving. In recipes, Tomaten halbieren is common. Halb means half: halb zwei means half past one (half towards two), a classic learner trap. Perfect without ge-: hat halbiert."
+}

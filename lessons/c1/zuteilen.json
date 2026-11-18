@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "zuteilen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "TSOO-tai-len",
+      "ipa": "ˈt͡suːˌtaɪ̯lən",
+      "notes": ""
+    },
+    "meaning": "to allocate, assign",
+    "shortDefinition": "To allocate, assign."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "teil|e … |zu"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "teil|st … |zu"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "teil|t … |zu"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "teil|en … |zu"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "teil|t … |zu"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "teil|en … |zu"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat zugeteilt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Jedem Team wurde ein Raum zugeteilt.",
+      "english": "Each team was allocated a room.",
+      "highlight": [
+        "zugeteilt."
+      ]
+    },
+    {
+      "german": "Die Lehrerin teilt die Aufgaben zu.",
+      "english": "The teacher assigns the tasks.",
+      "highlight": [
+        "teilt",
+        "zu."
+      ]
+    }
+  ],
+  "forms": [
+    "teile zu",
+    "teilst zu",
+    "teilt zu",
+    "teilen zu",
+    "zugeteilt",
+    "teilte zu",
+    "Zuteilung"
+  ],
+  "memoryHook": "Zuteilen: give each person their Teil (share).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … zu (zuteilen)",
+      "answer": "teilt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: teilt … zu.",
+      "acceptedAnswers": [
+        "teilt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (zuteilen, past)",
+      "answer": "zugeteilt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe zugeteilt.",
+      "acceptedAnswers": [
+        "zugeteilt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does zuteilen mean?",
+      "options": [
+        "hot",
+        "to travel",
+        "to allocate"
+      ],
+      "answer": "to allocate",
+      "explanation": "zuteilen: to allocate, assign.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Zuteilung is…",
+      "options": [
+        "allocation, allotment",
+        "division"
+      ],
+      "answer": "allocation, allotment",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandem etwas zuteilen takes…",
+      "options": [
+        "dative person + accusative thing",
+        "two accusatives"
+      ],
+      "answer": "dative person + accusative thing",
+      "explanation": "Grammar.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "zuweisen",
+        "verteilen only"
+      ],
+      "answer": "zuweisen",
+      "explanation": "Assign.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Zuteilen means to allocate or assign: jemandem eine Aufgabe, einen Platz, eine Rolle zuteilen. Die Zuteilung is an allocation, such as rationing in times of shortage, or a Kita place allocation. Similar verbs: zuweisen (assign), verteilen (distribute), einteilen (divide up). Separable: teilte zu, zugeteilt."
+}

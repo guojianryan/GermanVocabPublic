@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "bewerkstelligen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-VERK-shte-li-gen",
+      "ipa": "bəˈvɛʁkʃtɛlɪɡn̩",
+      "notes": ""
+    },
+    "meaning": "to manage, accomplish",
+    "shortDefinition": "To manage, accomplish."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "bewerkstellig|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "bewerkstellig|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "bewerkstellig|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "bewerkstellig|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "bewerkstellig|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "bewerkstellig|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat bewerkstelligt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wie hast du das bloß bewerkstelligt?",
+      "english": "How on earth did you manage that?",
+      "highlight": [
+        "bewerkstelligt?"
+      ]
+    },
+    {
+      "german": "Der Umzug ist an einem Tag kaum zu bewerkstelligen.",
+      "english": "The move can hardly be managed in one day.",
+      "highlight": [
+        "bewerkstelligen."
+      ]
+    }
+  ],
+  "forms": [
+    "bewerkstellige",
+    "bewerkstelligst",
+    "bewerkstelligt",
+    "bewerkstelligen"
+  ],
+  "memoryHook": "Bewerkstelligen: put (stellen) something into Werk (work).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (bewerkstelligen)",
+      "answer": "bewerkstelligt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: bewerkstelligt.",
+      "acceptedAnswers": [
+        "bewerkstelligt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (bewerkstelligen, past)",
+      "answer": "bewerkstelligt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe bewerkstelligt.",
+      "acceptedAnswers": [
+        "bewerkstelligt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does bewerkstelligen mean?",
+      "options": [
+        "to sleep",
+        "to manage",
+        "the flower"
+      ],
+      "answer": "to manage",
+      "explanation": "bewerkstelligen: to manage, accomplish.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bewerkstelligen means…",
+      "options": [
+        "to manage, pull off",
+        "to set up a workshop"
+      ],
+      "answer": "to manage, pull off",
+      "explanation": "Manage.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal, a bit bureaucratic",
+        "slang"
+      ],
+      "answer": "formal, a bit bureaucratic",
+      "explanation": "Register.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday synonym:",
+      "options": [
+        "schaffen, hinkriegen",
+        "verlieren"
+      ],
+      "answer": "schaffen, hinkriegen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Bewerkstelligen means to manage or accomplish something difficult: Wie sollen wir das bewerkstelligen? It's formal and slightly bureaucratic, sometimes used humorously. Everyday German says schaffen, hinkriegen or hinbekommen. From das Werk (work) and stellen. Not separable: bewerkstelligte, hat bewerkstelligt."
+}

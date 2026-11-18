@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "tangieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "tang-GEE-ren",
+      "ipa": "taŋˈɡiːʁən",
+      "notes": ""
+    },
+    "meaning": "to affect, concern",
+    "shortDefinition": "To affect, concern."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "tangier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "tangier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "tangier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "tangier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "tangier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "tangier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat tangiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Thema tangiert uns alle.",
+      "english": "The issue affects us all.",
+      "highlight": [
+        "tangiert"
+      ]
+    },
+    {
+      "german": "Das tangiert mich nicht.",
+      "english": "That doesn't concern me.",
+      "highlight": [
+        "tangiert"
+      ]
+    }
+  ],
+  "forms": [
+    "tangiere",
+    "tangierst",
+    "tangiert",
+    "tangieren"
+  ],
+  "memoryHook": "Tangieren: touch (tangere) on something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (tangieren)",
+      "answer": "tangiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: tangiert.",
+      "acceptedAnswers": [
+        "tangiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (tangieren, past)",
+      "answer": "tangiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe tangiert.",
+      "acceptedAnswers": [
+        "tangiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does tangieren mean?",
+      "options": [
+        "to affect",
+        "the shop",
+        "the key"
+      ],
+      "answer": "to affect",
+      "explanation": "tangieren: to affect, concern.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das tangiert mich peripher (ironic) means…",
+      "options": [
+        "I couldn't care less",
+        "it touches me deeply"
+      ],
+      "answer": "I couldn't care less",
+      "explanation": "Irony.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In maths, die Tangente is…",
+      "options": [
+        "tangent",
+        "a tango"
+      ],
+      "answer": "tangent",
+      "explanation": "Maths.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "betreffen, berühren",
+        "ignorieren"
+      ],
+      "answer": "betreffen, berühren",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Tangieren means to affect or concern, a formal word: Die Reform tangiert die Rechte der Länder. In mathematics, it means to touch a curve, and die Tangente is a tangent (also a bypass road). The ironic phrase Das tangiert mich nur peripher means I couldn't care less. Synonyms: betreffen, berühren. From Latin tangere (to touch). Perfect: hat tangiert."
+}

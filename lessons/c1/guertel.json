@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gürtel",
+    "partOfSpeech": "noun, masculine (der Gürtel)",
+    "pronunciation": {
+      "respelling": "GÜR-tel",
+      "ipa": "ˈɡʏʁtl̩",
+      "notes": "Plural: die Gürtel."
+    },
+    "meaning": "belt; ring (road)",
+    "shortDefinition": "Belt; ring (road)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Gürtel, plural die Gürtel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Gürtel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gürtel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er trägt einen schwarzen Gürtel.",
+      "english": "He's wearing a black belt.",
+      "highlight": [
+        "Gürtel."
+      ]
+    },
+    {
+      "german": "Der Stau beginnt auf dem Gürtel.",
+      "english": "The tailback begins on the ring road.",
+      "highlight": [
+        "Gürtel."
+      ]
+    }
+  ],
+  "forms": [
+    "die Gürtel",
+    "der Gürtel",
+    "Gürtelschnalle",
+    "Sicherheitsgurt"
+  ],
+  "memoryHook": "Gürtel: it goes around you, or around the city.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gürtel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Gürtel is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gürtel, zwei ___",
+      "answer": "Gürtel",
+      "fullAnswer": "ein Gürtel, zwei Gürtel",
+      "explanation": "The plural is Gürtel.",
+      "acceptedAnswers": [
+        "Guertel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gürtel mean?",
+      "options": [
+        "the station",
+        "belt",
+        "the job"
+      ],
+      "answer": "belt",
+      "explanation": "Gürtel: belt; ring (road).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Gürtel enger schnallen means…",
+      "options": [
+        "to tighten one's belt, economise",
+        "to buy a new belt"
+      ],
+      "answer": "to tighten one's belt, economise",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Vienna, der Gürtel is…",
+      "options": [
+        "a ring road",
+        "a shopping street"
+      ],
+      "answer": "a ring road",
+      "explanation": "Wiener Gürtel.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schwarze Gürtel in Karate is…",
+      "options": [
+        "black belt",
+        "red belt"
+      ],
+      "answer": "black belt",
+      "explanation": "Rank.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Gürtel",
+        "Gürtels"
+      ],
+      "answer": "Gürtel",
+      "explanation": "Same as singular.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Der Gürtel is a belt, and the plural is the same: die Gürtel. The idiom den Gürtel enger schnallen means to tighten your belt, i.e. to save money. In Vienna, der Gürtel is a major ring road, following the line of the former Linienwall fortification. Seat belts are Sicherheitsgurte, from der Gurt, a related word."
+}

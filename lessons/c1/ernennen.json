@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ernennen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "er-NEN-en",
+      "ipa": "ɛɐ̯ˈnɛnən",
+      "notes": ""
+    },
+    "meaning": "to appoint, name",
+    "shortDefinition": "To appoint, name."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "ernenn|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "ernenn|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "ernenn|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "ernenn|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "ernenn|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "ernenn|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat ernannt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie wurde zur Ministerin ernannt.",
+      "english": "She was appointed minister.",
+      "highlight": [
+        "ernannt."
+      ]
+    },
+    {
+      "german": "Der Präsident ernennt die Richter.",
+      "english": "The president appoints the judges.",
+      "highlight": [
+        "ernennt"
+      ]
+    }
+  ],
+  "forms": [
+    "ernenne",
+    "ernennst",
+    "ernennt",
+    "ernennen",
+    "ernannt",
+    "ernannte",
+    "Ernennung"
+  ],
+  "memoryHook": "Ernennen: like nennen, ernannt, and you're in office.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (ernennen)",
+      "answer": "ernennt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: ernennt.",
+      "acceptedAnswers": [
+        "ernennt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (ernennen, past)",
+      "answer": "ernannt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe ernannt.",
+      "acceptedAnswers": [
+        "ernannt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does ernennen mean?",
+      "options": [
+        "to sing",
+        "to learn",
+        "to appoint"
+      ],
+      "answer": "to appoint",
+      "explanation": "ernennen: to appoint, name.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden zu etwas ernennen: which preposition?",
+      "options": [
+        "zu",
+        "als"
+      ],
+      "answer": "zu",
+      "explanation": "zum Minister ernennen.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Ernennung is…",
+      "options": [
+        "the appointment",
+        "the naming of a street"
+      ],
+      "answer": "the appointment",
+      "explanation": "Ernennung.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "ernannte, ernannt",
+        "ernennte, ernennt"
+      ],
+      "answer": "ernannte, ernannt",
+      "explanation": "Mixed verb like nennen.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Ernennen means to appoint: jemanden zum Botschafter ernennen. Note the preposition zu, usually contracted: zum, zur. It's a mixed verb like nennen: ernannte, ernannt. In Germany, the Bundespräsident formally ernennt the chancellor and ministers. Die Ernennung is an appointment, and die Ernennungsurkunde the certificate of appointment for civil servants. From nennen (to name)."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wildtier",
+    "partOfSpeech": "noun, neuter (das Wildtier)",
+    "pronunciation": {
+      "respelling": "VILT-teer",
+      "ipa": "ˈvɪltˌtiːɐ̯",
+      "notes": "Plural: die Wildtiere."
+    },
+    "meaning": "wild animal",
+    "shortDefinition": "Wild animal."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Wildtier, plural die Wildtiere.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Wildtier"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wildtiere"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wildtiere gehören nicht in den Zirkus.",
+      "english": "Wild animals don't belong in the circus.",
+      "highlight": [
+        "Wildtiere"
+      ]
+    },
+    {
+      "german": "Nachts kreuzen Wildtiere die Straße.",
+      "english": "At night wild animals cross the road.",
+      "highlight": [
+        "Wildtiere"
+      ]
+    }
+  ],
+  "forms": [
+    "Wildtiere",
+    "das Wildtier"
+  ],
+  "memoryHook": "Wildtier: a Tier that lives wild.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wildtier",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Wildtier is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wildtier, zwei ___",
+      "answer": "Wildtiere",
+      "fullAnswer": "ein Wildtier, zwei Wildtiere",
+      "explanation": "The plural is Wildtiere.",
+      "acceptedAnswers": [
+        "Wildtiere"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wildtier mean?",
+      "options": [
+        "to travel",
+        "wild animal",
+        "the window"
+      ],
+      "answer": "wild animal",
+      "explanation": "Wildtier: wild animal.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Haustier is…",
+      "options": [
+        "pet, domestic animal",
+        "a house tiger"
+      ],
+      "answer": "pet, domestic animal",
+      "explanation": "Contrast.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Wildunfall is…",
+      "options": [
+        "collision with wild animals",
+        "a wild party"
+      ],
+      "answer": "collision with wild animals",
+      "explanation": "Traffic.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Wildschwein is…",
+      "options": [
+        "wild boar",
+        "a wild pig farm"
+      ],
+      "answer": "wild boar",
+      "explanation": "Example.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Wildtier is a wild animal, as opposed to das Haustier (pet) and das Nutztier (farm animal). In Germany, deer and wild boar cause hundreds of thousands of Wildunfälle (collisions) each year, and the warning sign shows a jumping deer. Wild boars have even moved into cities like Berlin. Feeding Wildtiere is often forbidden. Plural: die Wildtiere."
+}

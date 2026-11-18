@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schuljahr",
+    "partOfSpeech": "noun, neuter (das Schuljahr)",
+    "pronunciation": {
+      "respelling": "SHOOL-yaar",
+      "ipa": "ˈʃuːlˌjaːɐ̯",
+      "notes": "Plural: die Schuljahre."
+    },
+    "meaning": "school year",
+    "shortDefinition": "School year."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Schuljahr, plural die Schuljahre.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Schuljahr"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schuljahre"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das neue Schuljahr beginnt im September.",
+      "english": "The new school year starts in September.",
+      "highlight": [
+        "Schuljahr"
+      ]
+    },
+    {
+      "german": "Sie ist im fünften Schuljahr.",
+      "english": "She's in fifth grade.",
+      "highlight": [
+        "Schuljahr."
+      ]
+    }
+  ],
+  "forms": [
+    "Schuljahre",
+    "die Schuljahre",
+    "das Schuljahr"
+  ],
+  "memoryHook": "Schuljahr: the year that starts with a Schultüte.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schuljahr",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Schuljahr is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schuljahr, zwei ___",
+      "answer": "Schuljahre",
+      "fullAnswer": "ein Schuljahr, zwei Schuljahre",
+      "explanation": "The plural is Schuljahre.",
+      "acceptedAnswers": [
+        "Schuljahre"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schuljahr mean?",
+      "options": [
+        "the family",
+        "the bread",
+        "school year"
+      ],
+      "answer": "school year",
+      "explanation": "Schuljahr: school year.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "When does it start in Germany?",
+      "options": [
+        "it varies by state, between late July and September",
+        "always 1 September"
+      ],
+      "answer": "it varies by state, between late July and September",
+      "explanation": "Staggered.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A class/year group is…",
+      "options": [
+        "die Klasse / Jahrgangsstufe",
+        "der Kurs"
+      ],
+      "answer": "die Klasse / Jahrgangsstufe",
+      "explanation": "Klasse.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Halbjahr is…",
+      "options": [
+        "a school term / half-year",
+        "half a day"
+      ],
+      "answer": "a school term / half-year",
+      "explanation": "Two per year.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Schuljahr is the school year. In Germany it's divided into two Halbjahre, each ending with a Zeugnis (report). Summer holidays are staggered by state so not everyone hits the Autobahn at once, so the new Schuljahr starts anywhere from late July to mid-September. First-graders get a Schultüte, a big cone of sweets and school supplies, on their first day. Das Schuljahr wiederholen means to repeat a year."
+}

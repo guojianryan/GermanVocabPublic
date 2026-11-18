@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "expandieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "eks-pan-DEE-ren",
+      "ipa": "ɛkspanˈdiːʁən",
+      "notes": ""
+    },
+    "meaning": "to expand",
+    "shortDefinition": "To expand."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "expandier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "expandier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "expandier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "expandier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "expandier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "expandier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat expandiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Unternehmen expandiert nach Asien.",
+      "english": "The company is expanding into Asia.",
+      "highlight": [
+        "expandiert"
+      ]
+    },
+    {
+      "german": "Das Universum expandiert ständig.",
+      "english": "The universe is constantly expanding.",
+      "highlight": [
+        "expandiert"
+      ]
+    }
+  ],
+  "forms": [
+    "expandiere",
+    "expandierst",
+    "expandiert",
+    "expandieren",
+    "Expansion"
+  ],
+  "memoryHook": "Expandieren: spread out (expandere).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (expandieren)",
+      "answer": "expandiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: expandiert.",
+      "acceptedAnswers": [
+        "expandiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (expandieren, past)",
+      "answer": "expandiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe expandiert.",
+      "acceptedAnswers": [
+        "expandiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does expandieren mean?",
+      "options": [
+        "to expand",
+        "expensive",
+        "the key"
+      ],
+      "answer": "to expand",
+      "explanation": "expandieren: to expand.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Expansion is…",
+      "options": [
+        "expansion",
+        "an expression"
+      ],
+      "answer": "expansion",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Native synonym:",
+      "options": [
+        "sich ausdehnen, wachsen",
+        "schrumpfen"
+      ],
+      "answer": "sich ausdehnen, wachsen",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Perfect:",
+      "options": [
+        "hat expandiert (or ist, for size)",
+        "hat geexpandiert"
+      ],
+      "answer": "hat expandiert (or ist, for size)",
+      "explanation": "No ge-.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Expandieren means to expand, especially of businesses: ins Ausland, in neue Märkte expandieren, and in physics: Das Universum expandiert. Die Expansion is expansion, and expansiv means expansive. Native synonyms: sich ausdehnen, sich vergrößern, wachsen. The perfect usually takes haben; for physical growth, sein also occurs. No ge-: expandiert."
+}

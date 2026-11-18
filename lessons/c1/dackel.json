@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Dackel",
+    "partOfSpeech": "noun, masculine (der Dackel)",
+    "pronunciation": {
+      "respelling": "DA-kel",
+      "ipa": "ˈdakl̩",
+      "notes": "Plural: die Dackel."
+    },
+    "meaning": "dachshund",
+    "shortDefinition": "Dachshund."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Dackel, plural die Dackel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Dackel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Dackel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Dackel war früher ein Jagdhund.",
+      "english": "The dachshund used to be a hunting dog.",
+      "highlight": [
+        "Dackel"
+      ]
+    },
+    {
+      "german": "Waldi, ein Dackel, war das Maskottchen der Olympischen Spiele 1972.",
+      "english": "Waldi, a dachshund, was the mascot of the 1972 Olympics.",
+      "highlight": [
+        "Dackel,"
+      ]
+    }
+  ],
+  "forms": [
+    "der Dackel",
+    "Dackels"
+  ],
+  "memoryHook": "Dackel: a Dachshund bred to hunt Dachse (badgers).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Dackel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Dackel is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Dackel, zwei ___",
+      "answer": "Dackel",
+      "fullAnswer": "ein Dackel, zwei Dackel",
+      "explanation": "The plural is Dackel.",
+      "acceptedAnswers": [
+        "Dackel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Dackel mean?",
+      "options": [
+        "the family",
+        "the key",
+        "dachshund"
+      ],
+      "answer": "dachshund",
+      "explanation": "Dackel: dachshund.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Other German names:",
+      "options": [
+        "der Dachshund, der Teckel",
+        "der Pudel"
+      ],
+      "answer": "der Dachshund, der Teckel",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The 1972 Munich Olympic mascot was…",
+      "options": [
+        "Waldi the dachshund",
+        "a bear"
+      ],
+      "answer": "Waldi the dachshund",
+      "explanation": "Olympics.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Dachs is…",
+      "options": [
+        "badger",
+        "roof"
+      ],
+      "answer": "badger",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Dackel (also Dachshund or Teckel) is a dachshund, bred in Germany to hunt badgers (Dachse) in their burrows. It's often seen as a symbol of German Gemütlichkeit and stubbornness. The first official Olympic mascot, Waldi, a colourful dachshund, represented the 1972 Munich Games. Der Dackelblick is a pleading puppy-dog look. The plural is the same: die Dackel."
+}

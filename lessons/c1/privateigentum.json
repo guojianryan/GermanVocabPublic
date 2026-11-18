@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Privateigentum",
+    "partOfSpeech": "noun, neuter (das Privateigentum)",
+    "pronunciation": {
+      "respelling": "pri-VAAT-ai-gen-toom",
+      "ipa": "pʁiˈvaːtˌʔaɪ̯ɡn̩tuːm",
+      "notes": "Usually no plural."
+    },
+    "meaning": "private property",
+    "shortDefinition": "Private property."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Privateigentum, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Privateigentum"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Grundstück ist Privateigentum.",
+      "english": "The land is private property.",
+      "highlight": [
+        "Privateigentum."
+      ]
+    },
+    {
+      "german": "Privateigentum ist im Grundgesetz geschützt.",
+      "english": "Private property is protected in the Basic Law.",
+      "highlight": [
+        "Privateigentum"
+      ]
+    }
+  ],
+  "forms": [
+    "das Privateigentum",
+    "Privateigentums"
+  ],
+  "memoryHook": "Privateigentum: Eigentum (property) owned privat.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Privateigentum",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Privateigentum is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Privateigentum mean?",
+      "options": [
+        "to learn",
+        "private property",
+        "never"
+      ],
+      "answer": "private property",
+      "explanation": "Privateigentum: private property.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Article 14 GG says…",
+      "options": [
+        "Eigentum verpflichtet (property entails obligations)",
+        "property is theft"
+      ],
+      "answer": "Eigentum verpflichtet (property entails obligations)",
+      "explanation": "Grundgesetz.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Eigentum vs. der Besitz:",
+      "options": [
+        "ownership vs. possession",
+        "the same"
+      ],
+      "answer": "ownership vs. possession",
+      "explanation": "Law.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Enteignung is…",
+      "options": [
+        "expropriation",
+        "a gift"
+      ],
+      "answer": "expropriation",
+      "explanation": "Related.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Privateigentum is private property, protected by Article 14 of the Grundgesetz, which also states Eigentum verpflichtet: its use should serve the common good. Expropriation (Enteignung) is allowed only for the public good and with compensation. Legally, das Eigentum (ownership) differs from der Besitz (possession): a tenant has Besitz but not Eigentum. Signs saying Privatgrundstück mark private land. It has no plural."
+}

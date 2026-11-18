@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mehrwert",
+    "partOfSpeech": "noun, masculine (der Mehrwert)",
+    "pronunciation": {
+      "respelling": "MAIR-vert",
+      "ipa": "ˈmeːɐ̯ˌveːɐ̯t",
+      "notes": "Usually no plural."
+    },
+    "meaning": "added value; surplus value",
+    "shortDefinition": "Added value; surplus value."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Mehrwert, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Mehrwert"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Was ist der Mehrwert für den Kunden?",
+      "english": "What's the added value for the customer?",
+      "highlight": [
+        "Mehrwert"
+      ]
+    },
+    {
+      "german": "Auf die meisten Waren zahlt man 19 Prozent Mehrwertsteuer.",
+      "english": "You pay 19 percent VAT on most goods.",
+      "highlight": [
+        "Mehrwertsteuer."
+      ]
+    }
+  ],
+  "forms": [
+    "der Mehrwert",
+    "Mehrwertsteuer",
+    "MwSt."
+  ],
+  "memoryHook": "Mehrwert: the extra (mehr) Wert (value).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mehrwert",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Mehrwert is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mehrwert mean?",
+      "options": [
+        "added value",
+        "the key",
+        "to sing"
+      ],
+      "answer": "added value",
+      "explanation": "Mehrwert: added value; surplus value.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Mehrwertsteuer (MwSt.) is…",
+      "options": [
+        "VAT",
+        "income tax"
+      ],
+      "answer": "VAT",
+      "explanation": "VAT.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The reduced VAT rate (e.g. food) is…",
+      "options": [
+        "7 percent",
+        "12 percent"
+      ],
+      "answer": "7 percent",
+      "explanation": "7%.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Marx, Mehrwert means…",
+      "options": [
+        "surplus value",
+        "extra cost"
+      ],
+      "answer": "surplus value",
+      "explanation": "Marx.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Mehrwert is added value: einen echten Mehrwert bieten, a favourite in business presentations. Die Mehrwertsteuer (MwSt.) is VAT, 19 percent in Germany, with a reduced rate of 7 percent for most food and books; officially it's die Umsatzsteuer. In Marx's Das Kapital, written in German, Mehrwert is surplus value, the core of his theory of exploitation. It has no plural."
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "sichten",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ZIKH-ten",
+      "ipa": "ˈzɪçtn̩",
+      "notes": ""
+    },
+    "meaning": "to sight, spot; to sift through",
+    "shortDefinition": "To sight, spot; to sift through."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "sicht|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "sicht|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "sicht|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "sicht|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "sicht|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "sicht|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gesichtet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ein Wolf wurde in der Nähe des Dorfes gesichtet.",
+      "english": "A wolf was sighted near the village.",
+      "highlight": [
+        "gesichtet."
+      ]
+    },
+    {
+      "german": "Die Anwälte sichten die Unterlagen.",
+      "english": "The lawyers are going through the documents.",
+      "highlight": [
+        "sichten"
+      ]
+    }
+  ],
+  "forms": [
+    "sichte",
+    "sichtest",
+    "sichtet",
+    "sichten",
+    "gesichtet",
+    "Sichtung"
+  ],
+  "memoryHook": "Sichten: to get something in Sicht (view).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (sichten)",
+      "answer": "sichtet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: sichtet.",
+      "acceptedAnswers": [
+        "sichtet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (sichten, past)",
+      "answer": "gesichtet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gesichtet.",
+      "acceptedAnswers": [
+        "gesichtet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does sichten mean?",
+      "options": [
+        "to sing",
+        "the bill",
+        "to sight"
+      ],
+      "answer": "to sight",
+      "explanation": "sichten: to sight, spot; to sift through.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unterlagen sichten means…",
+      "options": [
+        "to go through and sort documents",
+        "to sign documents"
+      ],
+      "answer": "to go through and sort documents",
+      "explanation": "Sift.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Sichtung is…",
+      "options": [
+        "sighting; review",
+        "a sight"
+      ],
+      "answer": "sighting; review",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Sicht is…",
+      "options": [
+        "view, visibility",
+        "sickle"
+      ],
+      "answer": "view, visibility",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Sichten has two meanings. It's to sight or spot: Ein Bär wurde gesichtet, UFO-Sichtungen. And to sift through or review: Material sichten, Bewerbungen sichten. Since the return of wolves to Germany around 2000, every Wolfssichtung makes local news. Die Sicht is view or visibility: gute Sicht, auf lange Sicht (in the long run). Regular, with -e- before endings: er sichtet, gesichtet."
+}

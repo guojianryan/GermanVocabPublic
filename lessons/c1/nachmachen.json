@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "nachmachen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "NAAKH-ma-khen",
+      "ipa": "ˈnaːxˌmaxn̩",
+      "notes": ""
+    },
+    "meaning": "to imitate, copy; to make up for",
+    "shortDefinition": "To imitate, copy; to make up for."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "mach|e … |nach"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "mach|st … |nach"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "mach|t … |nach"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "mach|en … |nach"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "mach|t … |nach"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "mach|en … |nach"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat nachgemacht"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Mein kleiner Bruder macht mir alles nach.",
+      "english": "My little brother copies everything I do.",
+      "highlight": [
+        "macht",
+        "nach."
+      ]
+    },
+    {
+      "german": "Die Geldscheine waren nachgemacht.",
+      "english": "The banknotes were counterfeit.",
+      "highlight": [
+        "nachgemacht."
+      ]
+    }
+  ],
+  "forms": [
+    "mache nach",
+    "machst nach",
+    "macht nach",
+    "machen nach",
+    "nachgemacht",
+    "machte nach"
+  ],
+  "memoryHook": "Nachmachen: make (machen) after (nach) someone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … nach (nachmachen)",
+      "answer": "macht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: macht … nach.",
+      "acceptedAnswers": [
+        "macht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (nachmachen, past)",
+      "answer": "nachgemacht",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe nachgemacht.",
+      "acceptedAnswers": [
+        "nachgemacht"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does nachmachen mean?",
+      "options": [
+        "the child",
+        "to imitate",
+        "the job"
+      ],
+      "answer": "to imitate",
+      "explanation": "nachmachen: to imitate, copy; to make up for.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das soll mir erst mal einer nachmachen! means…",
+      "options": [
+        "I'd like to see someone do that!",
+        "Copy me first!"
+      ],
+      "answer": "I'd like to see someone do that!",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nachgemacht (goods) means…",
+      "options": [
+        "fake, imitation",
+        "repaired"
+      ],
+      "answer": "fake, imitation",
+      "explanation": "Fake.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nachahmen means…",
+      "options": [
+        "to imitate",
+        "to remake"
+      ],
+      "answer": "to imitate",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Nachmachen means to imitate or copy: jemanden nachmachen (to mimic someone), Geld nachmachen (to counterfeit). Nachgemacht means fake: eine nachgemachte Uhr. A proud phrase: Das soll mir erst mal einer nachmachen! (let's see someone top that). It can also mean to do something later: eine Prüfung nachmachen (to retake or make up an exam). Separable: machte nach, nachgemacht."
+}

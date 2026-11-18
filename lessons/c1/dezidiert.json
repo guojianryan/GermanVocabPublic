@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "dezidiert",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "de-tsi-DEERT",
+      "ipa": "det͡siˈdiːɐ̯t",
+      "notes": ""
+    },
+    "meaning": "decided, firm, explicit",
+    "shortDefinition": "Decided, firm, explicit."
+  },
+  "sampleSentences": [
+    {
+      "german": "Sie hat sich dezidiert gegen den Plan ausgesprochen.",
+      "english": "She spoke out firmly against the plan.",
+      "highlight": [
+        "dezidiert"
+      ]
+    },
+    {
+      "german": "Er vertritt eine dezidierte Meinung.",
+      "english": "He holds a decided opinion.",
+      "highlight": [
+        "dezidierte"
+      ]
+    }
+  ],
+  "forms": [
+    "dezidierte",
+    "dezidierten"
+  ],
+  "memoryHook": "Dezidiert: decided (Latin decidere).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does dezidiert mean?",
+      "options": [
+        "expensive",
+        "the street",
+        "decided"
+      ],
+      "answer": "decided",
+      "explanation": "dezidiert: decided, firm, explicit.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal, educated",
+        "colloquial"
+      ],
+      "answer": "formal, educated",
+      "explanation": "Register.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "entschieden, ausdrücklich, klar",
+        "vage"
+      ],
+      "answer": "entschieden, ausdrücklich, klar",
+      "explanation": "Synonym.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Dedicated (committed) in German is…",
+      "options": [
+        "engagiert, hingebungsvoll",
+        "dezidiert"
+      ],
+      "answer": "engagiert, hingebungsvoll",
+      "explanation": "False friend.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Haltung (firm)",
+      "answer": "dezidierte",
+      "fullAnswer": "eine dezidierte Haltung",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Dezidiert means decided, firm or explicit, an educated word: eine dezidierte Meinung, sich dezidiert äußern, dezidiert widersprechen. It comes from Latin decidere (to decide). Synonyms: entschieden, ausdrücklich, bestimmt. Careful: it doesn't mean dedicated; that's engagiert or hingebungsvoll, and dedicated equipment is eigens dafür bestimmt."
+}

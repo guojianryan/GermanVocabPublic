@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bücherei",
+    "partOfSpeech": "noun, feminine (die Bücherei)",
+    "pronunciation": {
+      "respelling": "bü-khe-RAI",
+      "ipa": "byːçəˈʁaɪ̯",
+      "notes": "Plural: die Büchereien."
+    },
+    "meaning": "(public) library",
+    "shortDefinition": "(public) library."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Bücherei, plural die Büchereien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Bücherei"
+        },
+        {
+          "label": "More than one",
+          "value": "die Büchereien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich leihe mir Bücher in der Stadtbücherei aus.",
+      "english": "I borrow books from the town library.",
+      "highlight": [
+        "Stadtbücherei"
+      ]
+    },
+    {
+      "german": "Die Bücherei hat samstags geöffnet.",
+      "english": "The library is open on Saturdays.",
+      "highlight": [
+        "Bücherei"
+      ]
+    }
+  ],
+  "forms": [
+    "Büchereien",
+    "die Büchereien",
+    "die Bücherei"
+  ],
+  "memoryHook": "Bücherei: a place full of Bücher.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bücherei",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Bücherei is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bücherei, zwei ___",
+      "answer": "Büchereien",
+      "fullAnswer": "ein Bücherei, zwei Büchereien",
+      "explanation": "The plural is Büchereien.",
+      "acceptedAnswers": [
+        "Buechereien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bücherei mean?",
+      "options": [
+        "hot",
+        "the job",
+        "(public) library"
+      ],
+      "answer": "(public) library",
+      "explanation": "Bücherei: (public) library.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Bücherei vs. die Bibliothek:",
+      "options": [
+        "Bücherei is smaller, public; Bibliothek bigger, academic",
+        "the same"
+      ],
+      "answer": "Bücherei is smaller, public; Bibliothek bigger, academic",
+      "explanation": "Size.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ausleihen means…",
+      "options": [
+        "to borrow",
+        "to lend out of town"
+      ],
+      "answer": "to borrow",
+      "explanation": "Borrow.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "A bookshop is…",
+      "options": [
+        "die Buchhandlung",
+        "die Bücherei"
+      ],
+      "answer": "die Buchhandlung",
+      "explanation": "Bookshop.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Bücherei is a library, usually a smaller public one: die Stadtbücherei, die Gemeindebücherei. Larger or academic libraries are die Bibliothek, such as the Deutsche Nationalbibliothek in Leipzig and Frankfurt. A bookshop is die Buchhandlung. Bücher ausleihen means to borrow books, and der Leseausweis is a library card. Plural: die Büchereien."
+}

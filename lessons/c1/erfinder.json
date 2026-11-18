@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Erfinder",
+    "partOfSpeech": "noun, masculine (der Erfinder)",
+    "pronunciation": {
+      "respelling": "er-FIN-der",
+      "ipa": "ɛɐ̯ˈfɪndɐ",
+      "notes": "Plural: die Erfinder."
+    },
+    "meaning": "inventor",
+    "shortDefinition": "Inventor."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Erfinder, plural die Erfinder.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Erfinder"
+        },
+        {
+          "label": "More than one",
+          "value": "die Erfinder"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Gutenberg gilt als Erfinder des Buchdrucks.",
+      "english": "Gutenberg is considered the inventor of printing.",
+      "highlight": [
+        "Erfinder"
+      ]
+    },
+    {
+      "german": "Sie ist eine erfolgreiche Erfinderin.",
+      "english": "She's a successful inventor.",
+      "highlight": [
+        "Erfinderin."
+      ]
+    }
+  ],
+  "forms": [
+    "die Erfinder",
+    "der Erfinder",
+    "Erfinderin",
+    "erfinden",
+    "Erfindung"
+  ],
+  "memoryHook": "Erfinder: someone who erfindet (invents).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Erfinder",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Erfinder is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Erfinder, zwei ___",
+      "answer": "Erfinder",
+      "fullAnswer": "ein Erfinder, zwei Erfinder",
+      "explanation": "The plural is Erfinder.",
+      "acceptedAnswers": [
+        "Erfinder"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Erfinder mean?",
+      "options": [
+        "the bill",
+        "inventor",
+        "the key"
+      ],
+      "answer": "inventor",
+      "explanation": "Erfinder: inventor.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Erfinden means…",
+      "options": [
+        "to invent; to make up",
+        "to find out"
+      ],
+      "answer": "to invent; to make up",
+      "explanation": "erfinden.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das ist nicht im Sinne des Erfinders means…",
+      "options": [
+        "that's not how it was meant",
+        "that's an invention"
+      ],
+      "answer": "that's not how it was meant",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Erfindung is…",
+      "options": [
+        "the invention",
+        "the finding"
+      ],
+      "answer": "the invention",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Erfinder (die Erfinderin) is an inventor. German Erfinder include Gutenberg (printing press), Carl Benz (the automobile), Rudolf Diesel, Konrad Zuse (an early computer), and Melitta Bentz, who invented the coffee filter in 1908. Erfinden means to invent and also to make up: eine Geschichte erfinden. Das ist nicht im Sinne des Erfinders means that's not how it was intended. Die Erfindung is the invention."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kiesel",
+    "partOfSpeech": "noun, masculine (der Kiesel)",
+    "pronunciation": {
+      "respelling": "KEE-zel",
+      "ipa": "ˈkiːzl̩",
+      "notes": "Plural: die Kiesel."
+    },
+    "meaning": "pebble",
+    "shortDefinition": "Pebble."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kiesel, plural die Kiesel.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kiesel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kiesel"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Kinder sammelten bunte Kiesel am Strand.",
+      "english": "The children collected colourful pebbles on the beach.",
+      "highlight": [
+        "Kiesel"
+      ]
+    },
+    {
+      "german": "Der Weg ist mit Kieseln bedeckt.",
+      "english": "The path is covered with pebbles.",
+      "highlight": [
+        "Kieseln"
+      ]
+    }
+  ],
+  "forms": [
+    "Kieseln",
+    "der Kiesel",
+    "Kieselstein"
+  ],
+  "memoryHook": "Kiesel: a small piece of Kies (gravel).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kiesel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kiesel is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kiesel, zwei ___",
+      "answer": "Kiesel",
+      "fullAnswer": "ein Kiesel, zwei Kiesel",
+      "explanation": "The plural is Kiesel.",
+      "acceptedAnswers": [
+        "Kiesel"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kiesel mean?",
+      "options": [
+        "the job",
+        "pebble",
+        "expensive"
+      ],
+      "answer": "pebble",
+      "explanation": "Kiesel: pebble.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kies is…",
+      "options": [
+        "gravel; dough (slang for money)",
+        "a kiss"
+      ],
+      "answer": "gravel; dough (slang for money)",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kieselstein is…",
+      "options": [
+        "pebble",
+        "flint only"
+      ],
+      "answer": "pebble",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kieselsäure is…",
+      "options": [
+        "silicic acid (silica)",
+        "lemon juice"
+      ],
+      "answer": "silicic acid (silica)",
+      "explanation": "Chemistry.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Kiesel or Kieselstein is a pebble: flache Kiesel übers Wasser springen lassen (to skim stones). Der Kies is gravel, and colloquially money (dough): Er hat viel Kies. Die Kiesgrube is a gravel pit, often later a swimming lake (Baggersee). Kieselsäure (silica) is in many supplements. Plural: die Kiesel, dative den Kieseln."
+}

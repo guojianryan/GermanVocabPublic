@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "sprießen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHPREE-sen",
+      "ipa": "ˈʃpʁiːsn̩",
+      "notes": ""
+    },
+    "meaning": "to sprout, shoot up",
+    "shortDefinition": "To sprout, shoot up."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "sprieß|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "sprieß|t"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "sprieß|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "sprieß|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "sprieß|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "sprieß|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist gesprossen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Frühling sprießen die ersten Blumen.",
+      "english": "In spring the first flowers sprout.",
+      "highlight": [
+        "sprießen"
+      ]
+    },
+    {
+      "german": "Überall sprießen neue Cafés aus dem Boden.",
+      "english": "New cafés are springing up everywhere.",
+      "highlight": [
+        "sprießen"
+      ]
+    }
+  ],
+  "forms": [
+    "sprieße",
+    "sprießt",
+    "sprießen",
+    "gesprossen",
+    "spross"
+  ],
+  "memoryHook": "Sprießen: shoot up like a Spross (shoot).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (sprießen)",
+      "answer": "sprießt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: sprießt.",
+      "acceptedAnswers": [
+        "spriesst"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (sprießen, past)",
+      "answer": "gesprossen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin gesprossen.",
+      "acceptedAnswers": [
+        "gesprossen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does sprießen mean?",
+      "options": [
+        "never",
+        "always",
+        "to sprout"
+      ],
+      "answer": "to sprout",
+      "explanation": "sprießen: to sprout, shoot up.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wie Pilze aus dem Boden sprießen means…",
+      "options": [
+        "to spring up like mushrooms",
+        "to grow slowly"
+      ],
+      "answer": "to spring up like mushrooms",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "spross, gesprossen",
+        "sprießte"
+      ],
+      "answer": "spross, gesprossen",
+      "explanation": "Irregular.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Sprosse is…",
+      "options": [
+        "rung (ladder); sprout",
+        "a sprint"
+      ],
+      "answer": "rung (ladder); sprout",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Sprießen means to sprout or shoot up: Die Knospen sprießen, Sein Bart sprießt. Figuratively, things sprießen wie Pilze aus dem Boden (spring up like mushrooms), such as new shops or start-ups. It's irregular and takes sein: spross, ist gesprossen. Der Spross is a shoot, and humorously an offspring; die Sprossen are sprouts and also the rungs of a ladder."
+}

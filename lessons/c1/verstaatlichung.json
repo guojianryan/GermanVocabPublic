@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Verstaatlichung",
+    "partOfSpeech": "noun, feminine (die Verstaatlichung)",
+    "pronunciation": {
+      "respelling": "fer-SHTAAT-likh-ung",
+      "ipa": "fɛɐ̯ˈʃtaːtlɪçʊŋ",
+      "notes": "Plural: die Verstaatlichungen."
+    },
+    "meaning": "nationalisation",
+    "shortDefinition": "Nationalisation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Verstaatlichung, plural die Verstaatlichungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Verstaatlichung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Verstaatlichungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Partei fordert die Verstaatlichung der Bahn.",
+      "english": "The party demands nationalising the railway.",
+      "highlight": [
+        "Verstaatlichung"
+      ]
+    },
+    {
+      "german": "Nach der Verstaatlichung gehörte die Bank dem Bund.",
+      "english": "After nationalisation the bank belonged to the federal government.",
+      "highlight": [
+        "Verstaatlichung"
+      ]
+    }
+  ],
+  "forms": [
+    "Verstaatlichungen",
+    "die Verstaatlichung"
+  ],
+  "memoryHook": "Verstaatlichung: making something staatlich (state-owned).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Verstaatlichung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Verstaatlichung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Verstaatlichung, zwei ___",
+      "answer": "Verstaatlichungen",
+      "fullAnswer": "ein Verstaatlichung, zwei Verstaatlichungen",
+      "explanation": "The plural is Verstaatlichungen.",
+      "acceptedAnswers": [
+        "Verstaatlichungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Verstaatlichung mean?",
+      "options": [
+        "nationalisation",
+        "the street",
+        "quiet"
+      ],
+      "answer": "nationalisation",
+      "explanation": "Verstaatlichung: nationalisation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Privatisierung is…",
+      "options": [
+        "privatisation",
+        "nationalisation"
+      ],
+      "answer": "privatisation",
+      "explanation": "Opposite.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verstaatlichen means…",
+      "options": [
+        "to nationalise",
+        "to state"
+      ],
+      "answer": "to nationalise",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In 2022 Germany nationalised the gas importer…",
+      "options": [
+        "Uniper",
+        "Siemens"
+      ],
+      "answer": "Uniper",
+      "explanation": "2022.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Verstaatlichung is nationalisation: the state takes over a company or sector. Germany nationalised the bank Hypo Real Estate in 2009 during the financial crisis and the gas importer Uniper in 2022 during the energy crisis. In Berlin, a 2021 referendum backed expropriating large housing companies (Deutsche Wohnen & Co. enteignen). The opposite is die Privatisierung. Plural: die Verstaatlichungen."
+}

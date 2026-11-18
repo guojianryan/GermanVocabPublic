@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "umringen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "um-RING-en",
+      "ipa": "ʊmˈʁɪŋən",
+      "notes": ""
+    },
+    "meaning": "to surround, crowd around",
+    "shortDefinition": "To surround, crowd around."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "umring|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "umring|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "umring|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "umring|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "umring|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "umring|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat umringt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Fans umringten den Star.",
+      "english": "Fans crowded around the star.",
+      "highlight": [
+        "umringten"
+      ]
+    },
+    {
+      "german": "Das Dorf ist von Bergen umringt.",
+      "english": "The village is surrounded by mountains.",
+      "highlight": [
+        "umringt."
+      ]
+    }
+  ],
+  "forms": [
+    "umringe",
+    "umringst",
+    "umringt",
+    "umringen",
+    "umringte"
+  ],
+  "memoryHook": "Umringen: form a Ring around (um) someone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (umringen)",
+      "answer": "umringt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: umringt.",
+      "acceptedAnswers": [
+        "umringt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (umringen, past)",
+      "answer": "umringt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe umringt.",
+      "acceptedAnswers": [
+        "umringt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does umringen mean?",
+      "options": [
+        "the evening",
+        "expensive",
+        "to surround"
+      ],
+      "answer": "to surround",
+      "explanation": "umringen: to surround, crowd around.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Is umringen separable?",
+      "options": [
+        "no: sie umringten ihn",
+        "yes: sie ringten ihn um"
+      ],
+      "answer": "no: sie umringten ihn",
+      "explanation": "Inseparable.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ring is…",
+      "options": [
+        "ring, circle",
+        "a bell"
+      ],
+      "answer": "ring, circle",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "umgeben, umzingeln",
+        "verlassen"
+      ],
+      "answer": "umgeben, umzingeln",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Umringen means to surround or crowd around: Reporter umringten die Ministerin, von Freunden umringt. It's inseparable and stressed on -rin-. Umzingeln is stronger, to encircle in a hostile way (police, troops), and umgeben is neutral, to surround. From der Ring. Regular: umringte, hat umringt."
+}

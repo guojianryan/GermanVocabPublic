@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "vollenden",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fol-EN-den",
+      "ipa": "fɔlˈʔɛndn̩",
+      "notes": ""
+    },
+    "meaning": "to complete, finish",
+    "shortDefinition": "To complete, finish."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "vollend|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "vollend|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "vollend|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "vollend|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "vollend|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "vollend|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat vollendet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hat sein Werk nie vollendet.",
+      "english": "He never completed his work.",
+      "highlight": [
+        "vollendet."
+      ]
+    },
+    {
+      "german": "Sie hat das 18. Lebensjahr vollendet.",
+      "english": "She has turned 18.",
+      "highlight": [
+        "vollendet."
+      ]
+    }
+  ],
+  "forms": [
+    "vollende",
+    "vollendest",
+    "vollendet",
+    "vollenden",
+    "Vollendung"
+  ],
+  "memoryHook": "Vollenden: bring it to a full (voll) end (Ende).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (vollenden)",
+      "answer": "vollendet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: vollendet.",
+      "acceptedAnswers": [
+        "vollendet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (vollenden, past)",
+      "answer": "vollendet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe vollendet.",
+      "acceptedAnswers": [
+        "vollendet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does vollenden mean?",
+      "options": [
+        "to complete",
+        "to learn",
+        "the shop"
+      ],
+      "answer": "to complete",
+      "explanation": "vollenden: to complete, finish.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vollendete Tatsachen schaffen means…",
+      "options": [
+        "to present a fait accompli",
+        "to tell facts"
+      ],
+      "answer": "to present a fait accompli",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vollendet (adj.) means…",
+      "options": [
+        "perfect, accomplished",
+        "full"
+      ],
+      "answer": "perfect, accomplished",
+      "explanation": "vollendet.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Inseparable or separable?",
+      "options": [
+        "inseparable: vollendete",
+        "separable: endete voll"
+      ],
+      "answer": "inseparable: vollendete",
+      "explanation": "Inseparable.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Vollenden means to complete or finish, usually something important: ein Werk vollenden, eine Mission vollenden. In legal German, das 18. Lebensjahr vollenden means to turn 18. Vollendete Tatsachen schaffen means to present a fait accompli. Vollendet as an adjective means perfect or accomplished: eine vollendete Gastgeberin. It's inseparable: er vollendet, hat vollendet. Die Vollendung is completion."
+}

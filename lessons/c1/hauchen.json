@@ -1,0 +1,177 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "hauchen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "HOW-khen",
+      "ipa": "ˈhaʊ̯xn̩",
+      "notes": ""
+    },
+    "meaning": "to breathe (out), to whisper",
+    "shortDefinition": "To breathe (out), to whisper."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "hauch|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "hauch|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "hauch|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "hauch|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "hauch|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "hauch|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gehaucht"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hauchte ein leises Danke.",
+      "english": "He breathed a soft thank-you.",
+      "highlight": [
+        "hauchte"
+      ]
+    },
+    {
+      "german": "Sie hauchte auf die kalte Scheibe.",
+      "english": "She breathed on the cold window.",
+      "highlight": [
+        "hauchte"
+      ]
+    }
+  ],
+  "forms": [
+    "hauche",
+    "hauchst",
+    "haucht",
+    "hauchen",
+    "gehaucht",
+    "hauchte",
+    "Hauch",
+    "hauchdünn"
+  ],
+  "memoryHook": "Hauchen: a breath you can almost see.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (hauchen)",
+      "answer": "haucht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: haucht.",
+      "acceptedAnswers": [
+        "haucht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (hauchen, past)",
+      "answer": "gehaucht",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gehaucht.",
+      "acceptedAnswers": [
+        "gehaucht"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does hauchen mean?",
+      "options": [
+        "to buy",
+        "to sing",
+        "to breathe (out)"
+      ],
+      "answer": "to breathe (out)",
+      "explanation": "hauchen: to breathe (out), to whisper.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Hauch is…",
+      "options": [
+        "a breath, a touch",
+        "a hook"
+      ],
+      "answer": "a breath, a touch",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Hauch von… means…",
+      "options": [
+        "a hint of…",
+        "a loud…"
+      ],
+      "answer": "a hint of…",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hauchdünn means…",
+      "options": [
+        "wafer-thin",
+        "very hot"
+      ],
+      "answer": "wafer-thin",
+      "explanation": "Hauch + dünn.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hauchen is softer than…",
+      "options": [
+        "atmen/blasen (to breathe/blow)",
+        "schreien"
+      ],
+      "answer": "atmen/blasen (to breathe/blow)",
+      "explanation": "Gentle.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Hauchen means to breathe out softly or whisper: Er hauchte ihr ein Kompliment ins Ohr. The noun der Hauch is a breath or a slight trace: ein Hauch von Parfüm, ein Hauch von Ironie. Hauchdünn means wafer-thin, and in a close result, you can win mit hauchdünnem Vorsprung. In phonetics, die Hauchung refers to aspirated sounds."
+}

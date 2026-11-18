@@ -1,0 +1,190 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "einbinden",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AIN-bin-den",
+      "ipa": "ˈaɪ̯nˌbɪndn̩",
+      "notes": ""
+    },
+    "meaning": "to integrate, to involve; to bind (a book); to embed",
+    "shortDefinition": "To integrate, to involve; to bind (a book); to embed."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "ein",
+        "meaning": "in, into"
+      },
+      {
+        "part": "binden",
+        "meaning": "to tie, to bind"
+      }
+    ],
+    "literalMeaning": "to tie in"
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "bind|e … |ein"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "bind|est … |ein"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "bind|et … |ein"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "bind|en … |ein"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "bind|et … |ein"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "bind|en … |ein"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat eingebunden"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir binden alle Mitarbeiter in die Planung ein.",
+      "english": "We involve all employees in the planning.",
+      "highlight": [
+        "binden"
+      ]
+    },
+    {
+      "german": "Das Video wurde auf der Webseite eingebunden.",
+      "english": "The video was embedded on the website.",
+      "highlight": [
+        "eingebunden."
+      ]
+    }
+  ],
+  "forms": [
+    "binde ein",
+    "bindest ein",
+    "bindet ein",
+    "binden ein",
+    "eingebunden",
+    "band ein",
+    "Einbindung"
+  ],
+  "memoryHook": "Einbinden: tie it into the whole.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ein (einbinden)",
+      "answer": "bindet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: bindet … ein.",
+      "acceptedAnswers": [
+        "bindet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (einbinden, past)",
+      "answer": "eingebunden",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe eingebunden.",
+      "acceptedAnswers": [
+        "eingebunden"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does einbinden mean?",
+      "options": [
+        "the flower",
+        "the child",
+        "to integrate"
+      ],
+      "answer": "to integrate",
+      "explanation": "einbinden: to integrate, to involve; to bind (a book); to embed.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eingebunden sein means…",
+      "options": [
+        "to be involved, tied in",
+        "to be tied up in a rope"
+      ],
+      "answer": "to be involved, tied in",
+      "explanation": "Involved.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past tense (er):",
+      "options": [
+        "band ein",
+        "bindete ein"
+      ],
+      "answer": "band ein",
+      "explanation": "Strong verb: binden, band, gebunden.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In web design, einbinden means…",
+      "options": [
+        "to embed",
+        "to delete"
+      ],
+      "answer": "to embed",
+      "explanation": "Embed.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Einbindung is…",
+      "options": [
+        "integration, involvement",
+        "a fine"
+      ],
+      "answer": "integration, involvement",
+      "explanation": "Noun.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Einbinden is separable and irregular (er bindet ein, band ein, hat eingebunden). It means to integrate or involve someone: Wir wollen die Bürger in die Entscheidung einbinden. In IT, to embed a file or video on a page. A traditional meaning is to bind a book, and der Einband is the cover. The noun die Einbindung is common in project and company language. Gut eingebunden sein means being well integrated into a team."
+}

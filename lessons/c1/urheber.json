@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Urheber",
+    "partOfSpeech": "noun, masculine (der Urheber)",
+    "pronunciation": {
+      "respelling": "OOR-hay-ber",
+      "ipa": "ˈuːɐ̯ˌheːbɐ",
+      "notes": "Plural: die Urheber."
+    },
+    "meaning": "author, originator; copyright holder",
+    "shortDefinition": "Author, originator; copyright holder."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Urheber, plural die Urheber.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Urheber"
+        },
+        {
+          "label": "More than one",
+          "value": "die Urheber"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Urheber des Fotos ist unbekannt.",
+      "english": "The creator of the photo is unknown.",
+      "highlight": [
+        "Urheber"
+      ]
+    },
+    {
+      "german": "Die Urheber des Anschlags wurden gefasst.",
+      "english": "Those behind the attack were caught.",
+      "highlight": [
+        "Urheber"
+      ]
+    }
+  ],
+  "forms": [
+    "die Urheber",
+    "der Urheber",
+    "Urheberrecht"
+  ],
+  "memoryHook": "Urheber: the one who first (ur-) raised (heben) it.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Urheber",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Urheber is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Urheber, zwei ___",
+      "answer": "Urheber",
+      "fullAnswer": "ein Urheber, zwei Urheber",
+      "explanation": "The plural is Urheber.",
+      "acceptedAnswers": [
+        "Urheber"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Urheber mean?",
+      "options": [
+        "the bed",
+        "author",
+        "quiet"
+      ],
+      "answer": "author",
+      "explanation": "Urheber: author, originator; copyright holder.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Urheberrecht is…",
+      "options": [
+        "copyright",
+        "birth right"
+      ],
+      "answer": "copyright",
+      "explanation": "Copyright.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Urheber can be…",
+      "options": [
+        "the creator of a work or the instigator of a deed",
+        "only a writer"
+      ],
+      "answer": "the creator of a work or the instigator of a deed",
+      "explanation": "Originator.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Urheberrechtlich geschützt means…",
+      "options": [
+        "protected by copyright",
+        "patented"
+      ],
+      "answer": "protected by copyright",
+      "explanation": "Protected.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Urheber is the creator or originator of something: der Urheber eines Werkes (the author of a work), or der Urheber eines Gerüchts (the source of a rumour). Das Urheberrecht is copyright, and in Germany it lasts for 70 years after the creator's death; unlike in the USA, it can't be sold outright, only licensed. Urheberrechtlich geschützt means protected by copyright. Plural: die Urheber."
+}

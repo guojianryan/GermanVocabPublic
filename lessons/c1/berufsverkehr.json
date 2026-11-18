@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Berufsverkehr",
+    "partOfSpeech": "noun, masculine (der Berufsverkehr)",
+    "pronunciation": {
+      "respelling": "be-ROOFS-fer-kayr",
+      "ipa": "bəˈʁuːfsfɛɐ̯ˌkeːɐ̯",
+      "notes": "Usually no plural."
+    },
+    "meaning": "rush-hour traffic",
+    "shortDefinition": "Rush-hour traffic."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Berufsverkehr, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Berufsverkehr"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Berufsverkehr steht man oft im Stau.",
+      "english": "In rush hour you're often stuck in traffic.",
+      "highlight": [
+        "Berufsverkehr"
+      ]
+    },
+    {
+      "german": "Die Bahnen sind im Berufsverkehr überfüllt.",
+      "english": "Trains are overcrowded at rush hour.",
+      "highlight": [
+        "Berufsverkehr"
+      ]
+    }
+  ],
+  "forms": [
+    "der Berufsverkehr",
+    "Berufsverkehrs"
+  ],
+  "memoryHook": "Berufsverkehr: Verkehr (traffic) of people going to their Beruf.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Berufsverkehr",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Berufsverkehr is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Berufsverkehr mean?",
+      "options": [
+        "to sing",
+        "to wait",
+        "rush-hour traffic"
+      ],
+      "answer": "rush-hour traffic",
+      "explanation": "Berufsverkehr: rush-hour traffic.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Rushhour, die Hauptverkehrszeit",
+        "die Freizeit"
+      ],
+      "answer": "die Rushhour, die Hauptverkehrszeit",
+      "explanation": "Synonym.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Pendler is…",
+      "options": [
+        "commuter",
+        "pendulum"
+      ],
+      "answer": "commuter",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Beruf is…",
+      "options": [
+        "profession, job",
+        "a call"
+      ],
+      "answer": "profession, job",
+      "explanation": "Root.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Berufsverkehr is rush-hour traffic, when commuters travel to and from work: im morgendlichen Berufsverkehr. Synonyms: die Rushhour, die Hauptverkehrszeit. Germany has about 20 million Pendler (commuters) who cross municipal boundaries for work, and the 49-euro Deutschlandticket, now more expensive, was introduced in 2023 to get them onto trains. It has no plural."
+}

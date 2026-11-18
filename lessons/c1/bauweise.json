@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bauweise",
+    "partOfSpeech": "noun, feminine (die Bauweise)",
+    "pronunciation": {
+      "respelling": "BAU-vai-ze",
+      "ipa": "ˈbaʊ̯ˌvaɪ̯zə",
+      "notes": "Plural: die Bauweisen."
+    },
+    "meaning": "construction method, design",
+    "shortDefinition": "Construction method, design."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Bauweise, plural die Bauweisen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Bauweise"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bauweisen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Haus ist in Holzbauweise errichtet.",
+      "english": "The house is built using timber construction.",
+      "highlight": [
+        "Holzbauweise"
+      ]
+    },
+    {
+      "german": "Die Bauweise des Autos ist sehr kompakt.",
+      "english": "The car's design is very compact.",
+      "highlight": [
+        "Bauweise"
+      ]
+    }
+  ],
+  "forms": [
+    "Bauweisen",
+    "die Bauweisen",
+    "die Bauweise"
+  ],
+  "memoryHook": "Bauweise: the Weise (way) something is gebaut.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bauweise",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Bauweise is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bauweise, zwei ___",
+      "answer": "Bauweisen",
+      "fullAnswer": "ein Bauweise, zwei Bauweisen",
+      "explanation": "The plural is Bauweisen.",
+      "acceptedAnswers": [
+        "Bauweisen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bauweise mean?",
+      "options": [
+        "slowly",
+        "construction method",
+        "the bread"
+      ],
+      "answer": "construction method",
+      "explanation": "Bauweise: construction method, design.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Fachwerkbauweise is…",
+      "options": [
+        "half-timbered construction",
+        "factory construction"
+      ],
+      "answer": "half-timbered construction",
+      "explanation": "Half-timber.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Weise is…",
+      "options": [
+        "way, manner",
+        "a wise woman"
+      ],
+      "answer": "way, manner",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Leichtbauweise is…",
+      "options": [
+        "lightweight construction",
+        "easy construction"
+      ],
+      "answer": "lightweight construction",
+      "explanation": "Light.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Bauweise is a construction method or design: die Fachwerkbauweise (half-timbering, typical of old towns like Quedlinburg), die Massivbauweise (solid brick or concrete, the German norm), die Holzbauweise (timber, increasingly popular for climate reasons), die Leichtbauweise (lightweight construction in cars and planes). Die Weise means way or manner. Plural: die Bauweisen."
+}

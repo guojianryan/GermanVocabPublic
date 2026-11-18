@@ -1,0 +1,143 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Darm",
+    "partOfSpeech": "noun, masculine (der Darm)",
+    "pronunciation": {
+      "respelling": "DARM",
+      "ipa": "daʁm",
+      "notes": "Plural: die Därme."
+    },
+    "meaning": "intestine, bowel",
+    "shortDefinition": "Intestine, bowel."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Darm, plural die Därme.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Darm"
+        },
+        {
+          "label": "More than one",
+          "value": "die Därme"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Darm ist wichtig für die Verdauung.",
+      "english": "The intestine is important for digestion.",
+      "highlight": [
+        "Darm"
+      ]
+    },
+    {
+      "german": "Die Därme wurden früher als Saiten verwendet.",
+      "english": "Intestines were once used for strings.",
+      "highlight": [
+        "Därme"
+      ]
+    }
+  ],
+  "forms": [
+    "Därme",
+    "die Därme",
+    "der Darm",
+    "Dickdarm",
+    "Dünndarm",
+    "Darmflora"
+  ],
+  "memoryHook": "Darm: the long way through.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Darm",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Darm is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Darm, zwei ___",
+      "answer": "Därme",
+      "fullAnswer": "ein Darm, zwei Därme",
+      "explanation": "The plural is Därme.",
+      "acceptedAnswers": [
+        "Daerme"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Darm mean?",
+      "options": [
+        "intestine",
+        "never",
+        "the bill"
+      ],
+      "answer": "intestine",
+      "explanation": "Darm: intestine, bowel.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Därme",
+        "Darme"
+      ],
+      "answer": "Därme",
+      "explanation": "Umlaut.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Dickdarm is…",
+      "options": [
+        "the large intestine",
+        "a thick wall"
+      ],
+      "answer": "the large intestine",
+      "explanation": "Thick bowel.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Dünndarm is…",
+      "options": [
+        "the small intestine",
+        "a thin vein"
+      ],
+      "answer": "the small intestine",
+      "explanation": "Thin bowel.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Darmflora is…",
+      "options": [
+        "the gut flora",
+        "a plant"
+      ],
+      "answer": "the gut flora",
+      "explanation": "Microbiome.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Der Darm is the intestine, with the plural Därme. The two parts are der Dünndarm (small intestine) and der Dickdarm (large intestine), and die Darmflora is the gut flora. Der Blinddarm is the caecum, but Germans use it for the appendix too: Blinddarmentzündung means appendicitis. Eine Darmspiegelung is a colonoscopy. Darm is also the casing of natural sausages, der Naturdarm."
+}

@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kundschaft",
+    "partOfSpeech": "noun, feminine (die Kundschaft)",
+    "pronunciation": {
+      "respelling": "KUNT-shaft",
+      "ipa": "ˈkʊntʃaft",
+      "notes": "Usually no plural."
+    },
+    "meaning": "clientele, customers",
+    "shortDefinition": "Clientele, customers."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kundschaft, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kundschaft"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Geschäft hat eine treue Kundschaft.",
+      "english": "The shop has loyal customers.",
+      "highlight": [
+        "Kundschaft."
+      ]
+    },
+    {
+      "german": "Die Kundschaft wartet schon.",
+      "english": "The customers are already waiting.",
+      "highlight": [
+        "Kundschaft"
+      ]
+    }
+  ],
+  "forms": [
+    "die Kundschaft",
+    "Kunde"
+  ],
+  "memoryHook": "Kundschaft: all the Kunden together.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kundschaft",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kundschaft is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kundschaft mean?",
+      "options": [
+        "the station",
+        "the bread",
+        "clientele"
+      ],
+      "answer": "clientele",
+      "explanation": "Kundschaft: clientele, customers.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kundschaft is…",
+      "options": [
+        "collective: all the customers",
+        "one customer"
+      ],
+      "answer": "collective: all the customers",
+      "explanation": "Collective.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kunde is…",
+      "options": [
+        "customer (weak noun)",
+        "a dog"
+      ],
+      "answer": "customer (weak noun)",
+      "explanation": "Single.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kundschaft is sometimes used as…",
+      "options": [
+        "a gender-neutral alternative to Kunden",
+        "a slang word"
+      ],
+      "answer": "a gender-neutral alternative to Kunden",
+      "explanation": "Neutral.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Kundschaft is the clientele, all the customers collectively: eine anspruchsvolle Kundschaft, Stammkundschaft (regulars). It's increasingly used as a gender-neutral alternative to Kunden und Kundinnen, for example on signs: Liebe Kundschaft. Der Kunde (weak noun: den Kunden) is a single customer. Der Kundendienst is customer service. Der Kundschafter is an old word for scout or spy. It has no plural."
+}

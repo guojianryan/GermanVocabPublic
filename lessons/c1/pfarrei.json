@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Pfarrei",
+    "partOfSpeech": "noun, feminine (die Pfarrei)",
+    "pronunciation": {
+      "respelling": "pfa-RAI",
+      "ipa": "pfaˈʁaɪ̯",
+      "notes": "Plural: die Pfarreien."
+    },
+    "meaning": "parish",
+    "shortDefinition": "Parish."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Pfarrei, plural die Pfarreien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Pfarrei"
+        },
+        {
+          "label": "More than one",
+          "value": "die Pfarreien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Pfarrei organisiert ein Sommerfest.",
+      "english": "The parish is organising a summer fete.",
+      "highlight": [
+        "Pfarrei"
+      ]
+    },
+    {
+      "german": "Mehrere Pfarreien wurden zusammengelegt.",
+      "english": "Several parishes were merged.",
+      "highlight": [
+        "Pfarreien"
+      ]
+    }
+  ],
+  "forms": [
+    "Pfarreien",
+    "die Pfarreien",
+    "die Pfarrei",
+    "Pfarrer"
+  ],
+  "memoryHook": "Pfarrei: the area of a Pfarrer.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Pfarrei",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Pfarrei is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Pfarrei, zwei ___",
+      "answer": "Pfarreien",
+      "fullAnswer": "ein Pfarrei, zwei Pfarreien",
+      "explanation": "The plural is Pfarreien.",
+      "acceptedAnswers": [
+        "Pfarreien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Pfarrei mean?",
+      "options": [
+        "quiet",
+        "parish",
+        "the window"
+      ],
+      "answer": "parish",
+      "explanation": "Pfarrei: parish.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Pfarrer is…",
+      "options": [
+        "parish priest, pastor",
+        "a farmer"
+      ],
+      "answer": "parish priest, pastor",
+      "explanation": "Priest.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Protestant equivalent is often…",
+      "options": [
+        "die Kirchengemeinde",
+        "die Moschee"
+      ],
+      "answer": "die Kirchengemeinde",
+      "explanation": "Protestant.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Why are parishes being merged?",
+      "options": [
+        "falling membership and fewer priests",
+        "new laws"
+      ],
+      "answer": "falling membership and fewer priests",
+      "explanation": "Decline.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Pfarrei is a parish, especially a Catholic one; Protestants usually say die Kirchengemeinde. Der Pfarrer (die Pfarrerin) is the parish priest or pastor, and das Pfarrhaus the vicarage. With church membership in Germany falling below half the population in 2022 and few new priests, many Pfarreien are being merged into large units. Church members pay church tax (Kirchensteuer). Plural: die Pfarreien."
+}

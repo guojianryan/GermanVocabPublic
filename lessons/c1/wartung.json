@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wartung",
+    "partOfSpeech": "noun, feminine (die Wartung)",
+    "pronunciation": {
+      "respelling": "VAR-tung",
+      "ipa": "ˈvaʁtʊŋ",
+      "notes": "Plural: die Wartungen."
+    },
+    "meaning": "maintenance, servicing",
+    "shortDefinition": "Maintenance, servicing."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Wartung, plural die Wartungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Wartung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wartungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Heizung braucht eine jährliche Wartung.",
+      "english": "The heating needs annual servicing.",
+      "highlight": [
+        "Wartung."
+      ]
+    },
+    {
+      "german": "Wegen Wartungsarbeiten ist die Website offline.",
+      "english": "The website is offline due to maintenance.",
+      "highlight": [
+        "Wartungsarbeiten"
+      ]
+    }
+  ],
+  "forms": [
+    "Wartungen",
+    "die Wartungen",
+    "die Wartung",
+    "Wartungsarbeiten"
+  ],
+  "memoryHook": "Wartung: looking after (warten) a machine.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wartung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Wartung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wartung, zwei ___",
+      "answer": "Wartungen",
+      "fullAnswer": "ein Wartung, zwei Wartungen",
+      "explanation": "The plural is Wartungen.",
+      "acceptedAnswers": [
+        "Wartungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wartung mean?",
+      "options": [
+        "hot",
+        "maintenance",
+        "tomorrow"
+      ],
+      "answer": "maintenance",
+      "explanation": "Wartung: maintenance, servicing.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Warten (transitive) can mean…",
+      "options": [
+        "to service, maintain",
+        "only to wait"
+      ],
+      "answer": "to service, maintain",
+      "explanation": "Maintain.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wartungsfrei means…",
+      "options": [
+        "maintenance-free",
+        "waiting-free"
+      ],
+      "answer": "maintenance-free",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Inspektion (car) is…",
+      "options": [
+        "a service, check-up",
+        "a police check"
+      ],
+      "answer": "a service, check-up",
+      "explanation": "Service.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Wartung is maintenance or servicing: die Wartung der Heizung, Wartungsarbeiten (maintenance work), der Wartungsvertrag. It comes from warten in its old sense of to look after, still used technically: eine Maschine warten (to service a machine). For cars, Germans say die Inspektion, and the TÜV checks road safety every two years. Wartungsfrei means maintenance-free. Plural: die Wartungen."
+}

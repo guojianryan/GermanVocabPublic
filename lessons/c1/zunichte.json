@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "zunichte",
+    "partOfSpeech": "adverb",
+    "pronunciation": {
+      "respelling": "tsu-NIKH-te",
+      "ipa": "t͡suˈnɪçtə",
+      "notes": ""
+    },
+    "meaning": "(zunichtemachen) ruined, dashed",
+    "shortDefinition": "(zunichtemachen) ruined, dashed."
+  },
+  "sampleSentences": [
+    {
+      "german": "Der Regen machte unsere Pläne zunichte.",
+      "english": "The rain ruined our plans.",
+      "highlight": [
+        "zunichte."
+      ]
+    },
+    {
+      "german": "Alle Hoffnungen wurden zunichtegemacht.",
+      "english": "All hopes were dashed.",
+      "highlight": [
+        "zunichtegemacht."
+      ]
+    }
+  ],
+  "forms": [
+    "zunichtemachen",
+    "zunichtegemacht"
+  ],
+  "memoryHook": "Zunichte: reduced to (zu) nothing (nichts).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does zunichte mean?",
+      "options": [
+        "(zunichtemachen) ruined",
+        "the window",
+        "to learn"
+      ],
+      "answer": "(zunichtemachen) ruined",
+      "explanation": "zunichte: (zunichtemachen) ruined, dashed.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Etwas zunichtemachen means…",
+      "options": [
+        "to ruin, wreck something",
+        "to make nothing"
+      ],
+      "answer": "to ruin, wreck something",
+      "explanation": "Ruin.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zunichte is used…",
+      "options": [
+        "almost only with machen / werden",
+        "freely"
+      ],
+      "answer": "almost only with machen / werden",
+      "explanation": "Fixed.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nichts means…",
+      "options": [
+        "nothing",
+        "night"
+      ],
+      "answer": "nothing",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Das Wetter hat alles ___ gemacht. (ruined)",
+      "answer": "zunichte",
+      "fullAnswer": "Das Wetter hat alles zunichte gemacht.",
+      "explanation": "zunichte.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Zunichte appears almost only in zunichtemachen (to ruin, dash, wreck) and zunichtewerden: Hoffnungen, Pläne, Erfolge zunichtemachen. Ein Fehler machte die ganze Arbeit zunichte. It comes from zu nichts (to nothing). Since the spelling reform, both zunichtemachen and zunichte machen are accepted. Synonyms: vereiteln, ruinieren."
+}

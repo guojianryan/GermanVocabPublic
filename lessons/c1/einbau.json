@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Einbau",
+    "partOfSpeech": "noun, masculine (der Einbau)",
+    "pronunciation": {
+      "respelling": "AIN-bau",
+      "ipa": "ˈaɪ̯nˌbaʊ̯",
+      "notes": "Plural: die Einbauten."
+    },
+    "meaning": "installation, fitting",
+    "shortDefinition": "Installation, fitting."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Einbau, plural die Einbauten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Einbau"
+        },
+        {
+          "label": "More than one",
+          "value": "die Einbauten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Einbau der neuen Küche dauert zwei Tage.",
+      "english": "Fitting the new kitchen takes two days.",
+      "highlight": [
+        "Einbau"
+      ]
+    },
+    {
+      "german": "Die Wohnung hat eine Einbauküche.",
+      "english": "The flat has a fitted kitchen.",
+      "highlight": [
+        "Einbauküche."
+      ]
+    }
+  ],
+  "forms": [
+    "Einbauten",
+    "die Einbauten",
+    "der Einbau",
+    "einbauen",
+    "Einbauküche"
+  ],
+  "memoryHook": "Einbau: building (Bau) something in (ein).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Einbau",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Einbau is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Einbau, zwei ___",
+      "answer": "Einbauten",
+      "fullAnswer": "ein Einbau, zwei Einbauten",
+      "explanation": "The plural is Einbauten.",
+      "acceptedAnswers": [
+        "Einbauten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Einbau mean?",
+      "options": [
+        "the car",
+        "the bread",
+        "installation"
+      ],
+      "answer": "installation",
+      "explanation": "Einbau: installation, fitting.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Einbauküche is…",
+      "options": [
+        "a fitted kitchen",
+        "a kitchen renovation"
+      ],
+      "answer": "a fitted kitchen",
+      "explanation": "Fitted kitchen.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einbauen means…",
+      "options": [
+        "to install, fit",
+        "to build in a new place"
+      ],
+      "answer": "to install, fit",
+      "explanation": "einbauen.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Germany, rented flats often come…",
+      "options": [
+        "without a kitchen",
+        "fully furnished"
+      ],
+      "answer": "without a kitchen",
+      "explanation": "Bring your own!",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Einbau is installation or fitting: der Einbau einer Heizung, der Einbau neuer Fenster. Die Einbauküche (EBK in flat ads) is a fitted kitchen, and it's a famous German peculiarity that many rental flats come without one, so tenants buy and install a kitchen and sometimes sell it to the next tenant. Einbauen means to install. Der Einbauschrank is a built-in cupboard. Plural: die Einbauten."
+}

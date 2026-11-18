@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bundesebene",
+    "partOfSpeech": "noun, feminine (die Bundesebene)",
+    "pronunciation": {
+      "respelling": "BUN-des-ay-be-ne",
+      "ipa": "ˈbʊndəsˌʔeːbənə",
+      "notes": "Usually no plural."
+    },
+    "meaning": "federal level",
+    "shortDefinition": "Federal level."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Bundesebene, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Bundesebene"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Auf Bundesebene ist eine Einigung schwierig.",
+      "english": "At federal level, agreement is difficult.",
+      "highlight": [
+        "Bundesebene"
+      ]
+    },
+    {
+      "german": "Das Gesetz gilt nur auf Landesebene, nicht auf Bundesebene.",
+      "english": "The law applies only at state level, not federal level.",
+      "highlight": [
+        "Bundesebene."
+      ]
+    }
+  ],
+  "forms": [
+    "die Bundesebene",
+    "Landesebene"
+  ],
+  "memoryHook": "Bundesebene: the Ebene (level) of the Bund.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bundesebene",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Bundesebene is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bundesebene mean?",
+      "options": [
+        "always",
+        "the window",
+        "federal level"
+      ],
+      "answer": "federal level",
+      "explanation": "Bundesebene: federal level.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "The three levels of government are…",
+      "options": [
+        "Bund, Länder, Kommunen",
+        "Bund, Kreis, Dorf only"
+      ],
+      "answer": "Bund, Länder, Kommunen",
+      "explanation": "Levels.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Ebene is…",
+      "options": [
+        "level; plain",
+        "an even number"
+      ],
+      "answer": "level; plain",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Landesebene is…",
+      "options": [
+        "state level",
+        "national level"
+      ],
+      "answer": "state level",
+      "explanation": "State.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Bundesebene is the federal level, as opposed to die Landesebene (state level) and die kommunale Ebene (municipal level). Germany's federalism splits responsibilities: defence and foreign policy are on Bundesebene, schools and police mainly on Landesebene. Parties often govern in different coalitions auf Bundes- und Landesebene. Die Ebene also means a plain (landscape). It has no plural."
+}

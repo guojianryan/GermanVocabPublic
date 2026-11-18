@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Direktmandat",
+    "partOfSpeech": "noun, neuter (das Direktmandat)",
+    "pronunciation": {
+      "respelling": "di-REKT-man-daat",
+      "ipa": "diˈʁɛktmanˌdaːt",
+      "notes": "Plural: die Direktmandate."
+    },
+    "meaning": "direct mandate (constituency seat)",
+    "shortDefinition": "Direct mandate (constituency seat)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Direktmandat, plural die Direktmandate.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Direktmandat"
+        },
+        {
+          "label": "More than one",
+          "value": "die Direktmandate"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie gewann das Direktmandat in ihrem Wahlkreis.",
+      "english": "She won the constituency seat in her district.",
+      "highlight": [
+        "Direktmandat"
+      ]
+    },
+    {
+      "german": "Er zog über ein Direktmandat in den Bundestag ein.",
+      "english": "He entered the Bundestag via a direct mandate.",
+      "highlight": [
+        "Direktmandat"
+      ]
+    }
+  ],
+  "forms": [
+    "Direktmandate",
+    "das Direktmandat"
+  ],
+  "memoryHook": "Direktmandat: a Mandat won direkt in a constituency.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Direktmandat",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Direktmandat is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Direktmandat, zwei ___",
+      "answer": "Direktmandate",
+      "fullAnswer": "ein Direktmandat, zwei Direktmandate",
+      "explanation": "The plural is Direktmandate.",
+      "acceptedAnswers": [
+        "Direktmandate"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Direktmandat mean?",
+      "options": [
+        "the station",
+        "direct mandate (constituency seat)",
+        "hot"
+      ],
+      "answer": "direct mandate (constituency seat)",
+      "explanation": "Direktmandat: direct mandate (constituency seat).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Erststimme decides…",
+      "options": [
+        "the constituency candidate",
+        "the party list"
+      ],
+      "answer": "the constituency candidate",
+      "explanation": "Politics.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Mandat is…",
+      "options": [
+        "mandate, seat",
+        "a mandarin"
+      ],
+      "answer": "mandate, seat",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Wahlkreis is…",
+      "options": [
+        "electoral constituency",
+        "a voting circle"
+      ],
+      "answer": "electoral constituency",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Direktmandat is a constituency seat in the Bundestag, won with the most Erststimmen (first votes) in a Wahlkreis. The Zweitstimme decides party strength. Since the 2023 electoral reform, a constituency winner only gets the seat if covered by the party's Zweitstimmen share. Das Mandat means mandate or seat. Plural: die Direktmandate."
+}

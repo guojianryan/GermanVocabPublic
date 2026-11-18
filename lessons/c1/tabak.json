@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Tabak",
+    "partOfSpeech": "noun, masculine (der Tabak)",
+    "pronunciation": {
+      "respelling": "TAA-bak",
+      "ipa": "ˈtaːbak",
+      "notes": "Plural: die Tabake."
+    },
+    "meaning": "tobacco",
+    "shortDefinition": "Tobacco."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Tabak, plural die Tabake.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Tabak"
+        },
+        {
+          "label": "More than one",
+          "value": "die Tabake"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Pfeife riecht nach Tabak.",
+      "english": "The pipe smells of tobacco.",
+      "highlight": [
+        "Tabak."
+      ]
+    },
+    {
+      "german": "Die Tabaksteuer wurde erhöht.",
+      "english": "Tobacco tax was raised.",
+      "highlight": [
+        "Tabaksteuer"
+      ]
+    }
+  ],
+  "forms": [
+    "Tabake",
+    "der Tabak",
+    "Tabaksteuer"
+  ],
+  "memoryHook": "Tabak: what goes in a pipe or cigarette.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Tabak",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Tabak is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Tabak, zwei ___",
+      "answer": "Tabake",
+      "fullAnswer": "ein Tabak, zwei Tabake",
+      "explanation": "The plural is Tabake.",
+      "acceptedAnswers": [
+        "Tabake"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Tabak mean?",
+      "options": [
+        "to help",
+        "tobacco",
+        "to travel"
+      ],
+      "answer": "tobacco",
+      "explanation": "Tabak: tobacco.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress in standard German:",
+      "options": [
+        "TA-bak (Austria: ta-BAK)",
+        "always ta-BAK"
+      ],
+      "answer": "TA-bak (Austria: ta-BAK)",
+      "explanation": "Regional.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Tabakladen / die Trafik (Austria) sells…",
+      "options": [
+        "tobacco, newspapers",
+        "medicine"
+      ],
+      "answer": "tobacco, newspapers",
+      "explanation": "Tobacconist.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das ist starker Tabak means…",
+      "options": [
+        "that's a bit much, outrageous",
+        "that's strong tea"
+      ],
+      "answer": "that's a bit much, outrageous",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Tabak is tobacco: Tabak rauchen, Pfeifentabak, Tabakwaren. Das ist starker Tabak means that's a bit much or that's outrageous, said about a cheeky claim. In Germany, it's stressed on the first syllable (TA-bak), while Austrians say ta-BAK. In Austria, tobacco and newspapers are sold at a Trafik. Germany was long known as a smokers' country with cigarette machines on the street, but smoking rates and rules have tightened, with Nichtraucherschutz laws in pubs."
+}

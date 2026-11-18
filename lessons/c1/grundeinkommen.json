@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Grundeinkommen",
+    "partOfSpeech": "noun, neuter (das Grundeinkommen)",
+    "pronunciation": {
+      "respelling": "GRUNT-ain-ko-men",
+      "ipa": "ˈɡʁʊntˌʔaɪ̯nkɔmən",
+      "notes": "Plural: die Grundeinkommen."
+    },
+    "meaning": "basic income",
+    "shortDefinition": "Basic income."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Grundeinkommen, plural die Grundeinkommen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Grundeinkommen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Grundeinkommen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das bedingungslose Grundeinkommen wird viel diskutiert.",
+      "english": "Unconditional basic income is much debated.",
+      "highlight": [
+        "Grundeinkommen"
+      ]
+    },
+    {
+      "german": "In einem Experiment erhielten Menschen drei Jahre lang ein Grundeinkommen.",
+      "english": "In an experiment people received a basic income for three years.",
+      "highlight": [
+        "Grundeinkommen."
+      ]
+    }
+  ],
+  "forms": [
+    "das Grundeinkommen",
+    "die Grundeinkommen"
+  ],
+  "memoryHook": "Grundeinkommen: a basic (Grund) Einkommen for everyone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Grundeinkommen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Grundeinkommen is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Grundeinkommen, zwei ___",
+      "answer": "Grundeinkommen",
+      "fullAnswer": "ein Grundeinkommen, zwei Grundeinkommen",
+      "explanation": "The plural is Grundeinkommen.",
+      "acceptedAnswers": [
+        "Grundeinkommen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Grundeinkommen mean?",
+      "options": [
+        "the child",
+        "basic income",
+        "to open"
+      ],
+      "answer": "basic income",
+      "explanation": "Grundeinkommen: basic income.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "BGE stands for…",
+      "options": [
+        "bedingungsloses Grundeinkommen",
+        "Bundesgeldeinheit"
+      ],
+      "answer": "bedingungsloses Grundeinkommen",
+      "explanation": "BGE.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bedingungslos means…",
+      "options": [
+        "unconditional",
+        "unlimited"
+      ],
+      "answer": "unconditional",
+      "explanation": "Unconditional.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Einkommen is…",
+      "options": [
+        "income",
+        "arrival"
+      ],
+      "answer": "income",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Grundeinkommen is a basic income; das bedingungslose Grundeinkommen (BGE) is an unconditional basic income paid to everyone. It's widely debated in Germany. The association Mein Grundeinkommen ran a well-known study from 2021 to 2024 in which 122 people received €1,200 a month for three years; recipients mostly kept working. Germany's existing Bürgergeld is means-tested, so not unconditional. Plural: die Grundeinkommen."
+}

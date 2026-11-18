@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Komposition",
+    "partOfSpeech": "noun, feminine (die Komposition)",
+    "pronunciation": {
+      "respelling": "kom-po-zi-TSYOHN",
+      "ipa": "kɔmpoziˈt͡si̯oːn",
+      "notes": "Plural: die Kompositionen."
+    },
+    "meaning": "composition",
+    "shortDefinition": "Composition."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Komposition, plural die Kompositionen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Komposition"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kompositionen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das ist eine frühe Komposition von Mozart.",
+      "english": "That's an early composition by Mozart.",
+      "highlight": [
+        "Komposition"
+      ]
+    },
+    {
+      "german": "Die Komposition des Bildes ist sehr harmonisch.",
+      "english": "The composition of the picture is very harmonious.",
+      "highlight": [
+        "Komposition"
+      ]
+    }
+  ],
+  "forms": [
+    "Kompositionen",
+    "die Kompositionen",
+    "die Komposition",
+    "komponieren",
+    "Komponist"
+  ],
+  "memoryHook": "Komposition: how a work is put together (compositus).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Komposition",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Komposition is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Komposition, zwei ___",
+      "answer": "Kompositionen",
+      "fullAnswer": "ein Komposition, zwei Kompositionen",
+      "explanation": "The plural is Kompositionen.",
+      "acceptedAnswers": [
+        "Kompositionen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Komposition mean?",
+      "options": [
+        "the child",
+        "composition",
+        "to sing"
+      ],
+      "answer": "composition",
+      "explanation": "Komposition: composition.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Komponieren means…",
+      "options": [
+        "to compose",
+        "to compost"
+      ],
+      "answer": "to compose",
+      "explanation": "komponieren.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Komponist is…",
+      "options": [
+        "the composer",
+        "the composition"
+      ],
+      "answer": "the composer",
+      "explanation": "Composer.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In grammar, a compound word is also called…",
+      "options": [
+        "ein Kompositum",
+        "eine Komposition"
+      ],
+      "answer": "ein Kompositum",
+      "explanation": "Kompositum.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Komposition is a composition, in music (eine Komposition von Bach), art (die Komposition eines Gemäldes), and even perfume or food: eine Komposition aus Aromen. Komponieren means to compose, and der Komponist (a weak noun: den Komponisten) is the composer; Germany produced many, from Bach and Beethoven to Brahms and Wagner. In linguistics, a German compound word like Haustür is ein Kompositum. Plural: die Kompositionen."
+}

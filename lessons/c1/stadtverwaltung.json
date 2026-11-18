@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Stadtverwaltung",
+    "partOfSpeech": "noun, feminine (die Stadtverwaltung)",
+    "pronunciation": {
+      "respelling": "SHTAT-fer-val-tung",
+      "ipa": "ˈʃtatfɛɐ̯ˌvaltʊŋ",
+      "notes": "Plural: die Stadtverwaltungen."
+    },
+    "meaning": "city administration, municipal authorities",
+    "shortDefinition": "City administration, municipal authorities."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Stadtverwaltung, plural die Stadtverwaltungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Stadtverwaltung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Stadtverwaltungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Stadtverwaltung hat die Straße gesperrt.",
+      "english": "The city authorities have closed the road.",
+      "highlight": [
+        "Stadtverwaltung"
+      ]
+    },
+    {
+      "german": "Er arbeitet bei der Stadtverwaltung.",
+      "english": "He works for the city council.",
+      "highlight": [
+        "Stadtverwaltung."
+      ]
+    }
+  ],
+  "forms": [
+    "Stadtverwaltungen",
+    "die Stadtverwaltungen",
+    "die Stadtverwaltung"
+  ],
+  "memoryHook": "Stadtverwaltung: everything the city (Stadt) runs (verwaltet).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Stadtverwaltung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Stadtverwaltung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Stadtverwaltung, zwei ___",
+      "answer": "Stadtverwaltungen",
+      "fullAnswer": "ein Stadtverwaltung, zwei Stadtverwaltungen",
+      "explanation": "The plural is Stadtverwaltungen.",
+      "acceptedAnswers": [
+        "Stadtverwaltungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Stadtverwaltung mean?",
+      "options": [
+        "never",
+        "city administration",
+        "to travel"
+      ],
+      "answer": "city administration",
+      "explanation": "Stadtverwaltung: city administration, municipal authorities.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Verwaltung is…",
+      "options": [
+        "administration",
+        "management of a hotel only"
+      ],
+      "answer": "administration",
+      "explanation": "Administration.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Typical services:",
+      "options": [
+        "registration, permits, waste collection",
+        "national defence"
+      ],
+      "answer": "registration, permits, waste collection",
+      "explanation": "Local services.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Head of a big city's administration:",
+      "options": [
+        "der Oberbürgermeister",
+        "der Kanzler"
+      ],
+      "answer": "der Oberbürgermeister",
+      "explanation": "OB.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Stadtverwaltung is the city administration, the offices that run a town: registration at the Bürgeramt, building permits, parking, waste collection. It's led by the (Ober)bürgermeister, while der Stadtrat (city council) makes the decisions. Die Verwaltung means administration, and German Verwaltung is known for thoroughness and paperwork, though digitalisation (Onlinezugang) is slowly reducing trips to offices. Plural: die Stadtverwaltungen."
+}

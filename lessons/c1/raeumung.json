@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Räumung",
+    "partOfSpeech": "noun, feminine (die Räumung)",
+    "pronunciation": {
+      "respelling": "ROI-mung",
+      "ipa": "ˈʁɔɪ̯mʊŋ",
+      "notes": "Plural: die Räumungen."
+    },
+    "meaning": "eviction; clearance, evacuation",
+    "shortDefinition": "Eviction; clearance, evacuation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Räumung, plural die Räumungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Räumung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Räumungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Polizei begann mit der Räumung des Camps.",
+      "english": "The police began clearing the camp.",
+      "highlight": [
+        "Räumung"
+      ]
+    },
+    {
+      "german": "Der Vermieter hat eine Räumungsklage eingereicht.",
+      "english": "The landlord has filed an eviction suit.",
+      "highlight": [
+        "Räumungsklage"
+      ]
+    }
+  ],
+  "forms": [
+    "Räumungen",
+    "die Räumungen",
+    "die Räumung",
+    "räumen"
+  ],
+  "memoryHook": "Räumung: clearing (räumen) a Raum (space).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Räumung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Räumung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Räumung, zwei ___",
+      "answer": "Räumungen",
+      "fullAnswer": "ein Räumung, zwei Räumungen",
+      "explanation": "The plural is Räumungen.",
+      "acceptedAnswers": [
+        "Raeumungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Räumung mean?",
+      "options": [
+        "eviction",
+        "slowly",
+        "the job"
+      ],
+      "answer": "eviction",
+      "explanation": "Räumung: eviction; clearance, evacuation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Räumungsklage is…",
+      "options": [
+        "an eviction lawsuit",
+        "a cleaning order"
+      ],
+      "answer": "an eviction lawsuit",
+      "explanation": "Eviction.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Räumungsverkauf is…",
+      "options": [
+        "a clearance sale",
+        "a removal service"
+      ],
+      "answer": "a clearance sale",
+      "explanation": "Sale.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Räumen means…",
+      "options": [
+        "to clear, vacate",
+        "to dream"
+      ],
+      "answer": "to clear, vacate",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Räumung is clearance, evacuation or eviction: die Räumung einer Wohnung (eviction), die Räumung eines besetzten Hauses (clearing a squat), die Räumung nach einer Bombenentschärfung (evacuation). Die Räumungsklage is an eviction suit, and der Räumungsverkauf a clearance sale. Räumen means to clear: den Schnee räumen, das Feld räumen. Plural: die Räumungen."
+}

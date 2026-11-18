@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "schlüpfen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHLÜP-fen",
+      "ipa": "ˈʃlʏp͡fn̩",
+      "notes": ""
+    },
+    "meaning": "to slip; to hatch",
+    "shortDefinition": "To slip; to hatch."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schlüpf|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schlüpf|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schlüpf|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schlüpf|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schlüpf|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schlüpf|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist geschlüpft"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Küken sind gestern geschlüpft.",
+      "english": "The chicks hatched yesterday.",
+      "highlight": [
+        "geschlüpft."
+      ]
+    },
+    {
+      "german": "Sie schlüpfte schnell in ihren Mantel.",
+      "english": "She quickly slipped into her coat.",
+      "highlight": [
+        "schlüpfte"
+      ]
+    }
+  ],
+  "forms": [
+    "schlüpfe",
+    "schlüpfst",
+    "schlüpft",
+    "schlüpfen",
+    "geschlüpft",
+    "Schlüpfer",
+    "Schlupfloch"
+  ],
+  "memoryHook": "Schlüpfen: slip through a gap, like a hatching chick.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (schlüpfen)",
+      "answer": "schlüpft",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schlüpft.",
+      "acceptedAnswers": [
+        "schluepft"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (schlüpfen, past)",
+      "answer": "geschlüpft",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin geschlüpft.",
+      "acceptedAnswers": [
+        "geschluepft"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does schlüpfen mean?",
+      "options": [
+        "to slip",
+        "quiet",
+        "to travel"
+      ],
+      "answer": "to slip",
+      "explanation": "schlüpfen: to slip; to hatch.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schlüpfer is…",
+      "options": [
+        "knickers (old-fashioned)",
+        "a slipper"
+      ],
+      "answer": "knickers (old-fashioned)",
+      "explanation": "Underwear.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In eine Rolle schlüpfen means…",
+      "options": [
+        "to slip into a role",
+        "to fall over"
+      ],
+      "answer": "to slip into a role",
+      "explanation": "Role.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Perfect with…",
+      "options": [
+        "sein",
+        "haben"
+      ],
+      "answer": "sein",
+      "explanation": "ist geschlüpft.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Schlüpfen means to slip (in die Schuhe schlüpfen, durch eine Lücke schlüpfen) and to hatch: Die Küken schlüpfen aus dem Ei. Figuratively, in eine Rolle schlüpfen means to slip into a role. Das Schlupfloch is a loophole: ein Steuerschlupfloch. Der Schlüpfer is an old-fashioned word for knickers. With sein: ist geschlüpft."
+}

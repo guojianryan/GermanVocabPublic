@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "herrschend",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "HER-shent",
+      "ipa": "ˈhɛʁʃn̩t",
+      "notes": ""
+    },
+    "meaning": "ruling, prevailing",
+    "shortDefinition": "Ruling, prevailing."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die herrschende Meinung ist dagegen.",
+      "english": "The prevailing opinion is against it.",
+      "highlight": [
+        "herrschende"
+      ]
+    },
+    {
+      "german": "Die herrschende Klasse lebte im Luxus.",
+      "english": "The ruling class lived in luxury.",
+      "highlight": [
+        "herrschende"
+      ]
+    }
+  ],
+  "forms": [
+    "herrschende",
+    "herrschenden",
+    "herrschen",
+    "Herrschaft"
+  ],
+  "memoryHook": "Herrschend: whatever herrscht (rules, prevails).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does herrschend mean?",
+      "options": [
+        "tomorrow",
+        "ruling",
+        "to sleep"
+      ],
+      "answer": "ruling",
+      "explanation": "herrschend: ruling, prevailing.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Herrschen means…",
+      "options": [
+        "to rule; to prevail",
+        "to hurry"
+      ],
+      "answer": "to rule; to prevail",
+      "explanation": "Verb.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die herrschende Meinung (h. M.) in law means…",
+      "options": [
+        "the prevailing legal opinion",
+        "the ruler's opinion"
+      ],
+      "answer": "the prevailing legal opinion",
+      "explanation": "Law.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Es herrscht Stille means…",
+      "options": [
+        "there is silence",
+        "silence is ruled out"
+      ],
+      "answer": "there is silence",
+      "explanation": "Prevail.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "die ___ Partei (ruling)",
+      "answer": "herrschende",
+      "fullAnswer": "die herrschende Partei",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Herrschend means ruling or prevailing: die herrschende Partei, die herrschenden Verhältnisse (prevailing conditions). In German law, die herrschende Meinung (abbreviated h. M.) is the prevailing view among courts and scholars, a phrase every law student learns. The verb herrschen means to rule or to prevail: Es herrscht Chaos (chaos reigns). Die Herrschaft is rule or reign, and der Herrscher a ruler."
+}

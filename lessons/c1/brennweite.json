@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Brennweite",
+    "partOfSpeech": "noun, feminine (die Brennweite)",
+    "pronunciation": {
+      "respelling": "BREN-vai-te",
+      "ipa": "ˈbʁɛnˌvaɪ̯tə",
+      "notes": "Plural: die Brennweiten."
+    },
+    "meaning": "focal length",
+    "shortDefinition": "Focal length."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Brennweite, plural die Brennweiten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Brennweite"
+        },
+        {
+          "label": "More than one",
+          "value": "die Brennweiten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Objektiv hat eine Brennweite von 50 Millimetern.",
+      "english": "The lens has a focal length of 50 millimetres.",
+      "highlight": [
+        "Brennweite"
+      ]
+    },
+    {
+      "german": "Mit einer längeren Brennweite rückt das Motiv näher.",
+      "english": "With a longer focal length the subject comes closer.",
+      "highlight": [
+        "Brennweite"
+      ]
+    }
+  ],
+  "forms": [
+    "Brennweiten",
+    "die Brennweite"
+  ],
+  "memoryHook": "Brennweite: the Weite (distance) to the Brennpunkt (focus).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Brennweite",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Brennweite is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Brennweite, zwei ___",
+      "answer": "Brennweiten",
+      "fullAnswer": "ein Brennweite, zwei Brennweiten",
+      "explanation": "The plural is Brennweiten.",
+      "acceptedAnswers": [
+        "Brennweiten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Brennweite mean?",
+      "options": [
+        "hot",
+        "the key",
+        "focal length"
+      ],
+      "answer": "focal length",
+      "explanation": "Brennweite: focal length.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Brennpunkt is…",
+      "options": [
+        "focus, focal point",
+        "a burn mark"
+      ],
+      "answer": "focus, focal point",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Teleobjektiv has…",
+      "options": [
+        "a long focal length",
+        "a short focal length"
+      ],
+      "answer": "a long focal length",
+      "explanation": "Photography.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Objektiv is…",
+      "options": [
+        "lens (camera)",
+        "an objective only"
+      ],
+      "answer": "lens (camera)",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Brennweite is the focal length of a lens, measured in millimetres: ein Weitwinkelobjektiv has a short Brennweite, ein Teleobjektiv a long one. Der Brennpunkt is the focal point, where a lens can concentrate sunlight enough to burn, hence brennen. Figuratively, im Brennpunkt means in the spotlight. Plural: die Brennweiten."
+}

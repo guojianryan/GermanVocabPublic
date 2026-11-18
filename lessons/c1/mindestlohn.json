@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mindestlohn",
+    "partOfSpeech": "noun, masculine (der Mindestlohn)",
+    "pronunciation": {
+      "respelling": "MIN-dest-lohn",
+      "ipa": "ˈmɪndəstˌloːn",
+      "notes": "Plural: die Mindestlöhne."
+    },
+    "meaning": "minimum wage",
+    "shortDefinition": "Minimum wage."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Mindestlohn, plural die Mindestlöhne.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Mindestlohn"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mindestlöhne"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Mindestlohn wurde erhöht.",
+      "english": "The minimum wage was raised.",
+      "highlight": [
+        "Mindestlohn"
+      ]
+    },
+    {
+      "german": "Viele arbeiten zum Mindestlohn.",
+      "english": "Many people work for the minimum wage.",
+      "highlight": [
+        "Mindestlohn."
+      ]
+    }
+  ],
+  "forms": [
+    "Mindestlöhne",
+    "die Mindestlöhne",
+    "der Mindestlohn"
+  ],
+  "memoryHook": "Mindestlohn: the least Lohn allowed.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mindestlohn",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Mindestlohn is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mindestlohn, zwei ___",
+      "answer": "Mindestlöhne",
+      "fullAnswer": "ein Mindestlohn, zwei Mindestlöhne",
+      "explanation": "The plural is Mindestlöhne.",
+      "acceptedAnswers": [
+        "Mindestloehne"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mindestlohn mean?",
+      "options": [
+        "minimum wage",
+        "the window",
+        "to open"
+      ],
+      "answer": "minimum wage",
+      "explanation": "Mindestlohn: minimum wage.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mindest- means…",
+      "options": [
+        "minimum",
+        "maximum"
+      ],
+      "answer": "minimum",
+      "explanation": "mindestens = at least.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany introduced a national minimum wage in…",
+      "options": [
+        "2015",
+        "1975"
+      ],
+      "answer": "2015",
+      "explanation": "1 January 2015.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Lohn is…",
+      "options": [
+        "wage, pay",
+        "loan"
+      ],
+      "answer": "wage, pay",
+      "explanation": "Lohn = wage.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Mindestlohn is the minimum wage. Germany only introduced a national, legal Mindestlohn on 1 January 2015, at 8.50 euros an hour; before that, wages were set by collective agreements between unions and employers. A commission now proposes regular increases. Mindest- means minimum, from mindestens (at least). Der Lohn is wages, usually for hourly or manual work, while das Gehalt is a salary."
+}

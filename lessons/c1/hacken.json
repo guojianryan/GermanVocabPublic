@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "hacken",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "HAK-en",
+      "ipa": "ˈhakn̩",
+      "notes": ""
+    },
+    "meaning": "to chop; to hack (computers)",
+    "shortDefinition": "To chop; to hack (computers)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "hack|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "hack|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "hack|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "hack|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "hack|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "hack|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gehackt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hackt Holz für den Winter.",
+      "english": "He's chopping wood for the winter.",
+      "highlight": [
+        "hackt"
+      ]
+    },
+    {
+      "german": "Mein Konto wurde gehackt.",
+      "english": "My account was hacked.",
+      "highlight": [
+        "gehackt."
+      ]
+    }
+  ],
+  "forms": [
+    "hacke",
+    "hackst",
+    "hackt",
+    "hacken",
+    "gehackt",
+    "Hacker",
+    "Hackfleisch",
+    "Hacke"
+  ],
+  "memoryHook": "Hacken: chop with an axe, or break into computers.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (hacken)",
+      "answer": "hackt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: hackt.",
+      "acceptedAnswers": [
+        "hackt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (hacken, past)",
+      "answer": "gehackt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gehackt.",
+      "acceptedAnswers": [
+        "gehackt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does hacken mean?",
+      "options": [
+        "to learn",
+        "to chop",
+        "to wait"
+      ],
+      "answer": "to chop",
+      "explanation": "hacken: to chop; to hack (computers).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Hackfleisch is…",
+      "options": [
+        "minced meat",
+        "chopped wood"
+      ],
+      "answer": "minced meat",
+      "explanation": "Mince.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Hacker is…",
+      "options": [
+        "a hacker",
+        "a woodcutter"
+      ],
+      "answer": "a hacker",
+      "explanation": "Hacker.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Hacke is…",
+      "options": [
+        "a hoe; (colloquial) heel",
+        "an axe"
+      ],
+      "answer": "a hoe; (colloquial) heel",
+      "explanation": "Hoe / heel.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Hacken means to chop: Holz hacken, Zwiebeln hacken (chop onions). Das Hackfleisch is minced meat, and Mett (raw seasoned pork) is a German favourite on bread rolls. In computing, hacken means to hack: Mein Account wurde gehackt. The Chaos Computer Club in Hamburg is one of the world's oldest and best-known hacker associations. Die Hacke is a hoe, and casually also the heel: sich die Hacken ablaufen (to run one's legs off)."
+}

@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "thermisch",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "TER-mish",
+      "ipa": "ˈtɛʁmɪʃ",
+      "notes": ""
+    },
+    "meaning": "thermal",
+    "shortDefinition": "Thermal."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die thermische Energie wird gespeichert.",
+      "english": "The thermal energy is stored.",
+      "highlight": [
+        "thermische"
+      ]
+    },
+    {
+      "german": "Abfall wird thermisch verwertet.",
+      "english": "Waste is incinerated for energy.",
+      "highlight": [
+        "thermisch"
+      ]
+    }
+  ],
+  "forms": [
+    "thermische",
+    "thermischen"
+  ],
+  "memoryHook": "Thermisch: about therme (heat).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does thermisch mean?",
+      "options": [
+        "to help",
+        "thermal",
+        "the bed"
+      ],
+      "answer": "thermal",
+      "explanation": "thermisch: thermal.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Thermische Verwertung means…",
+      "options": [
+        "waste incineration with energy recovery",
+        "heating a house"
+      ],
+      "answer": "waste incineration with energy recovery",
+      "explanation": "Waste.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Thermik is…",
+      "options": [
+        "thermals (rising warm air)",
+        "a thermos"
+      ],
+      "answer": "thermals (rising warm air)",
+      "explanation": "Gliding.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Therme is…",
+      "options": [
+        "thermal spa; (boiler)",
+        "a theme"
+      ],
+      "answer": "thermal spa; (boiler)",
+      "explanation": "Spa.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Solaranlage (thermal)",
+      "answer": "thermische",
+      "fullAnswer": "eine thermische Solaranlage",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Thermisch means thermal: thermische Energie, thermische Belastung. Thermische Verwertung is the official term for burning waste to generate energy. Die Thermik is the rising warm air that gliders and birds use, and die Therme is a thermal spa (like Baden-Baden's Caracalla-Therme) or, in southern German, a wall-mounted gas boiler. From Greek thermos (warm)."
+}

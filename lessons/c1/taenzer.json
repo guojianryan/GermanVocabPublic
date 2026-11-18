@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Tänzer",
+    "partOfSpeech": "noun, masculine (der Tänzer)",
+    "pronunciation": {
+      "respelling": "TENT-ser",
+      "ipa": "ˈtɛnt͡sɐ",
+      "notes": "Plural: die Tänzer."
+    },
+    "meaning": "dancer",
+    "shortDefinition": "Dancer."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Tänzer, plural die Tänzer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Tänzer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Tänzer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er ist Tänzer am Staatsballett.",
+      "english": "He's a dancer at the state ballet.",
+      "highlight": [
+        "Tänzer"
+      ]
+    },
+    {
+      "german": "Die Tänzerin bewegte sich wunderschön.",
+      "english": "The dancer moved beautifully.",
+      "highlight": [
+        "Tänzerin"
+      ]
+    }
+  ],
+  "forms": [
+    "die Tänzer",
+    "der Tänzer",
+    "Tänzerin",
+    "tanzen",
+    "Tanz"
+  ],
+  "memoryHook": "Tänzer: someone who tanzt.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Tänzer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Tänzer is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Tänzer, zwei ___",
+      "answer": "Tänzer",
+      "fullAnswer": "ein Tänzer, zwei Tänzer",
+      "explanation": "The plural is Tänzer.",
+      "acceptedAnswers": [
+        "Taenzer"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Tänzer mean?",
+      "options": [
+        "the bill",
+        "dancer",
+        "the weather"
+      ],
+      "answer": "dancer",
+      "explanation": "Tänzer: dancer.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Tanzen means…",
+      "options": [
+        "to dance",
+        "to tank"
+      ],
+      "answer": "to dance",
+      "explanation": "tanzen.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Tänzerin",
+        "die Tanzerin"
+      ],
+      "answer": "die Tänzerin",
+      "explanation": "Umlaut + -in.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Tanzschule is…",
+      "options": [
+        "a dance school (popular for teens)",
+        "a ballet only"
+      ],
+      "answer": "a dance school (popular for teens)",
+      "explanation": "Dance school.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Tänzer (die Tänzerin) is a dancer: ein Balletttänzer, eine Profitänzerin. Many German teenagers take a Tanzkurs at a Tanzschule to learn ballroom dances before their Abiball (graduation ball). German dance has a strong modern tradition, from Pina Bausch's Tanztheater in Wuppertal to the Ausdruckstanz of the 1920s. From tanzen (to dance) and der Tanz. Note the umlaut. The plural is the same: die Tänzer."
+}

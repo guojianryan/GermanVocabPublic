@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Notar",
+    "partOfSpeech": "noun, masculine (der Notar)",
+    "pronunciation": {
+      "respelling": "no-TAAR",
+      "ipa": "noˈtaːɐ̯",
+      "notes": "Plural: die Notare."
+    },
+    "meaning": "notary",
+    "shortDefinition": "Notary."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Notar, plural die Notare.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Notar"
+        },
+        {
+          "label": "More than one",
+          "value": "die Notare"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Kaufvertrag muss beim Notar unterschrieben werden.",
+      "english": "The purchase contract must be signed at the notary's.",
+      "highlight": [
+        "Notar"
+      ]
+    },
+    {
+      "german": "Die Notarin hat das Testament beglaubigt.",
+      "english": "The notary certified the will.",
+      "highlight": [
+        "Notarin"
+      ]
+    }
+  ],
+  "forms": [
+    "Notare",
+    "die Notare",
+    "der Notar",
+    "Notarin",
+    "notariell"
+  ],
+  "memoryHook": "Notar: the official who notes (notare) legal acts.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Notar",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Notar is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Notar, zwei ___",
+      "answer": "Notare",
+      "fullAnswer": "ein Notar, zwei Notare",
+      "explanation": "The plural is Notare.",
+      "acceptedAnswers": [
+        "Notare"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Notar mean?",
+      "options": [
+        "notary",
+        "to wait",
+        "the key"
+      ],
+      "answer": "notary",
+      "explanation": "Notar: notary.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Germany, buying property requires…",
+      "options": [
+        "a notary",
+        "only a bank"
+      ],
+      "answer": "a notary",
+      "explanation": "Property.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Notariell beglaubigt means…",
+      "options": [
+        "notarised",
+        "noted"
+      ],
+      "answer": "notarised",
+      "explanation": "Certified.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "German notaries are…",
+      "options": [
+        "fully trained lawyers",
+        "volunteers"
+      ],
+      "answer": "fully trained lawyers",
+      "explanation": "Lawyers.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Notar (die Notarin) is a notary. Unlike in the US or UK, German notaries are fully qualified lawyers with an important role: property purchases, company formations and many wills must be done before a notary (notariell beurkundet). The notary reads the entire contract aloud at the appointment, which can take hours. Their fees are set by law and add about 1.5 percent to property costs. Plural: die Notare."
+}

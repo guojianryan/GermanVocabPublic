@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "anbei",
+    "partOfSpeech": "adverb",
+    "pronunciation": {
+      "respelling": "an-BAI",
+      "ipa": "anˈbaɪ̯",
+      "notes": ""
+    },
+    "meaning": "enclosed, attached (letters)",
+    "shortDefinition": "Enclosed, attached (letters)."
+  },
+  "sampleSentences": [
+    {
+      "german": "Anbei sende ich Ihnen meinen Lebenslauf.",
+      "english": "Please find my CV attached.",
+      "highlight": [
+        "Anbei"
+      ]
+    },
+    {
+      "german": "Die Rechnung finden Sie anbei.",
+      "english": "You will find the invoice enclosed.",
+      "highlight": [
+        "anbei."
+      ]
+    }
+  ],
+  "forms": [
+    "anbei"
+  ],
+  "memoryHook": "Anbei: an (at) bei (beside) this letter.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does anbei mean?",
+      "options": [
+        "enclosed",
+        "the job",
+        "to open"
+      ],
+      "answer": "enclosed",
+      "explanation": "anbei: enclosed, attached (letters).",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Anbei is used in…",
+      "options": [
+        "formal letters and emails",
+        "spoken German"
+      ],
+      "answer": "formal letters and emails",
+      "explanation": "Register.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "im Anhang, beiliegend",
+        "später"
+      ],
+      "answer": "im Anhang, beiliegend",
+      "explanation": "Synonym.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Anhang (email) is…",
+      "options": [
+        "attachment",
+        "a trailer"
+      ],
+      "answer": "attachment",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ erhalten Sie das Formular. (enclosed)",
+      "answer": "Anbei",
+      "fullAnswer": "Anbei erhalten Sie das Formular.",
+      "explanation": "anbei.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Anbei means enclosed or attached, typical of formal letters and emails: Anbei finden Sie..., Anbei sende ich Ihnen... Style guides note that anbei with a verb like senden or finden is fine, though some find it stiff. Alternatives: im Anhang (in the attachment), beiliegend, als Anlage. Der Anhang is an email attachment."
+}

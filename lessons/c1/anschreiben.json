@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "anschreiben",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AN-shrai-ben",
+      "ipa": "ˈanˌʃʁaɪ̯bn̩",
+      "notes": ""
+    },
+    "meaning": "to write to; to put on account",
+    "shortDefinition": "To write to; to put on account."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schreib|e … |an"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schreib|st … |an"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schreib|t … |an"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schreib|en … |an"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schreib|t … |an"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schreib|en … |an"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat angeschrieben"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich habe die Firma angeschrieben, aber keine Antwort bekommen.",
+      "english": "I wrote to the company but got no reply.",
+      "highlight": [
+        "angeschrieben,"
+      ]
+    },
+    {
+      "german": "Kannst du es anschreiben? Ich zahle morgen.",
+      "english": "Can you put it on my tab? I'll pay tomorrow.",
+      "highlight": [
+        "anschreiben?"
+      ]
+    }
+  ],
+  "forms": [
+    "schreibe an",
+    "schreibst an",
+    "schreibt an",
+    "schreiben an",
+    "angeschrieben",
+    "schrieb an",
+    "Anschreiben"
+  ],
+  "memoryHook": "Anschreiben: write (schreiben) to (an) someone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … an (anschreiben)",
+      "answer": "schreibt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schreibt … an.",
+      "acceptedAnswers": [
+        "schreibt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (anschreiben, past)",
+      "answer": "angeschrieben",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe angeschrieben.",
+      "acceptedAnswers": [
+        "angeschrieben"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does anschreiben mean?",
+      "options": [
+        "to write to",
+        "the bill",
+        "the bed"
+      ],
+      "answer": "to write to",
+      "explanation": "anschreiben: to write to; to put on account.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden anschreiben means…",
+      "options": [
+        "to write to someone (first)",
+        "to write about someone"
+      ],
+      "answer": "to write to someone (first)",
+      "explanation": "Contact.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Anschreiben lassen means…",
+      "options": [
+        "to buy on credit (tab)",
+        "to dictate"
+      ],
+      "answer": "to buy on credit (tab)",
+      "explanation": "Tab.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Anschreiben is…",
+      "options": [
+        "a cover letter",
+        "a signature"
+      ],
+      "answer": "a cover letter",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Anschreiben means to write to someone, often for the first time: Behörden anschreiben, jemanden auf Instagram anschreiben. Das Anschreiben is a cover letter in a job application (Bewerbung), along with a CV (Lebenslauf). Anschreiben lassen means to buy on credit, putting it on your tab at a local pub or shop. Bei jemandem gut angeschrieben sein means to be in someone's good books. Separable: schrieb an, angeschrieben."
+}

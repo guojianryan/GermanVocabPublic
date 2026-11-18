@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Lieferant",
+    "partOfSpeech": "noun, masculine (der Lieferant)",
+    "pronunciation": {
+      "respelling": "lee-fe-RANT",
+      "ipa": "lifəˈʁant",
+      "notes": "Plural: die Lieferanten."
+    },
+    "meaning": "supplier",
+    "shortDefinition": "Supplier."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Lieferant, plural die Lieferanten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Lieferant"
+        },
+        {
+          "label": "More than one",
+          "value": "die Lieferanten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir haben einen neuen Lieferanten gefunden.",
+      "english": "We've found a new supplier.",
+      "highlight": [
+        "Lieferanten"
+      ]
+    },
+    {
+      "german": "Der Lieferant hat die Ware zu spät geliefert.",
+      "english": "The supplier delivered the goods late.",
+      "highlight": [
+        "Lieferant"
+      ]
+    }
+  ],
+  "forms": [
+    "Lieferanten",
+    "die Lieferanten",
+    "der Lieferant",
+    "Lieferkette"
+  ],
+  "memoryHook": "Lieferant: the one who liefert (delivers).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Lieferant",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Lieferant is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Lieferant, zwei ___",
+      "answer": "Lieferanten",
+      "fullAnswer": "ein Lieferant, zwei Lieferanten",
+      "explanation": "The plural is Lieferanten.",
+      "acceptedAnswers": [
+        "Lieferanten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Lieferant mean?",
+      "options": [
+        "to travel",
+        "to sleep",
+        "supplier"
+      ],
+      "answer": "supplier",
+      "explanation": "Lieferant: supplier.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Lieferant is a weak noun:",
+      "options": [
+        "den Lieferanten",
+        "den Lieferant"
+      ],
+      "answer": "den Lieferanten",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Lieferkette is…",
+      "options": [
+        "the supply chain",
+        "a delivery van"
+      ],
+      "answer": "the supply chain",
+      "explanation": "Chain.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Lieferdienst is…",
+      "options": [
+        "a delivery service",
+        "a supplier contract"
+      ],
+      "answer": "a delivery service",
+      "explanation": "Delivery.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Lieferant is a supplier: ein zuverlässiger Lieferant, Zulieferer (sub-suppliers, important in the car industry). It's a weak noun: den Lieferanten. Since 2023, Germany's Lieferkettengesetz (Supply Chain Act) has required large companies to check human rights and environmental standards among their suppliers. Der Lieferdienst is a delivery service, like for food. From liefern (to deliver). Plural: die Lieferanten."
+}

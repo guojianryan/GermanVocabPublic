@@ -1,0 +1,142 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Argumentation",
+    "partOfSpeech": "noun, feminine (die Argumentation)",
+    "pronunciation": {
+      "respelling": "ar-gu-men-ta-TSYOHN",
+      "ipa": "aʁɡumɛntaˈt͡si̯oːn",
+      "notes": "Plural: die Argumentationen."
+    },
+    "meaning": "argumentation, line of reasoning",
+    "shortDefinition": "Argumentation, line of reasoning."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Argumentation, plural die Argumentationen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Argumentation"
+        },
+        {
+          "label": "More than one",
+          "value": "die Argumentationen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Seine Argumentation war nicht überzeugend.",
+      "english": "His line of reasoning wasn't convincing.",
+      "highlight": [
+        "Argumentation"
+      ]
+    },
+    {
+      "german": "Die Argumentation des Gerichts ist nachvollziehbar.",
+      "english": "The court's reasoning is understandable.",
+      "highlight": [
+        "Argumentation"
+      ]
+    }
+  ],
+  "forms": [
+    "Argumentationen",
+    "die Argumentationen",
+    "die Argumentation",
+    "argumentieren",
+    "Argument"
+  ],
+  "memoryHook": "Argumentation: the Argument, all strung together.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Argumentation",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Argumentation is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Argumentation, zwei ___",
+      "answer": "Argumentationen",
+      "fullAnswer": "ein Argumentation, zwei Argumentationen",
+      "explanation": "The plural is Argumentationen.",
+      "acceptedAnswers": [
+        "Argumentationen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Argumentation mean?",
+      "options": [
+        "never",
+        "quiet",
+        "argumentation"
+      ],
+      "answer": "argumentation",
+      "explanation": "Argumentation: argumentation, line of reasoning.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Argumentation is built on…",
+      "options": [
+        "das Argument",
+        "der Arger"
+      ],
+      "answer": "das Argument",
+      "explanation": "Argument + -ation.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The verb is…",
+      "options": [
+        "argumentieren",
+        "argumentern"
+      ],
+      "answer": "argumentieren",
+      "explanation": "-ieren verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Argumentation emphasises…",
+      "options": [
+        "the whole chain of reasoning",
+        "a quarrel"
+      ],
+      "answer": "the whole chain of reasoning",
+      "explanation": "Not a fight.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Argumentation 'aufbauen' means…",
+      "options": [
+        "to build a case",
+        "to dismantle a case"
+      ],
+      "answer": "to build a case",
+      "explanation": "Build.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Die Argumentation is the whole line of reasoning, not just a single argument: eine schlüssige Argumentation (a coherent line of argument). Das Argument is one point, and argumentieren is the verb. A false friend risk: an argument in the sense of a quarrel is der Streit, not das Argument. In school and at university, you're expected to structure your Argumentation clearly."
+}

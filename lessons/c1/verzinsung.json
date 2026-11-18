@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Verzinsung",
+    "partOfSpeech": "noun, feminine (die Verzinsung)",
+    "pronunciation": {
+      "respelling": "fer-TSIN-zung",
+      "ipa": "fɛɐ̯ˈt͡sɪnzʊŋ",
+      "notes": "Plural: die Verzinsungen."
+    },
+    "meaning": "interest (rate), yield",
+    "shortDefinition": "Interest (rate), yield."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Verzinsung, plural die Verzinsungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Verzinsung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Verzinsungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Tagesgeldkonto bietet eine gute Verzinsung.",
+      "english": "The instant-access account offers a good rate of interest.",
+      "highlight": [
+        "Verzinsung."
+      ]
+    },
+    {
+      "german": "Die Verzinsung der Bundesanleihen ist gestiegen.",
+      "english": "The yield on federal bonds has risen.",
+      "highlight": [
+        "Verzinsung"
+      ]
+    }
+  ],
+  "forms": [
+    "Verzinsungen",
+    "die Verzinsung"
+  ],
+  "memoryHook": "Verzinsung: paying Zinsen (interest).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Verzinsung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Verzinsung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Verzinsung, zwei ___",
+      "answer": "Verzinsungen",
+      "fullAnswer": "ein Verzinsung, zwei Verzinsungen",
+      "explanation": "The plural is Verzinsungen.",
+      "acceptedAnswers": [
+        "Verzinsungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Verzinsung mean?",
+      "options": [
+        "the car",
+        "to learn",
+        "interest (rate)"
+      ],
+      "answer": "interest (rate)",
+      "explanation": "Verzinsung: interest (rate), yield.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Zins is…",
+      "options": [
+        "interest",
+        "tin"
+      ],
+      "answer": "interest",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Zinseszins is…",
+      "options": [
+        "compound interest",
+        "a double tax"
+      ],
+      "answer": "compound interest",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verzinsen means…",
+      "options": [
+        "to pay interest on",
+        "to tin"
+      ],
+      "answer": "to pay interest on",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Verzinsung is the interest paid on money or the rate of return: eine attraktive Verzinsung, die Verzinsung von Anleihen. Der Zins (usually plural Zinsen) is interest, and der Zinseszins compound interest. From 2014 to 2022, the ECB's negative rates meant Germans' savings earned almost nothing, and some banks charged Verwahrentgelt (custody fees). Plural: die Verzinsungen."
+}

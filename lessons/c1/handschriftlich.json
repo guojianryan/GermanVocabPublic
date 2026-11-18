@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "handschriftlich",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "HANT-shrift-likh",
+      "ipa": "ˈhantʃʁɪftlɪç",
+      "notes": ""
+    },
+    "meaning": "handwritten",
+    "shortDefinition": "Handwritten."
+  },
+  "sampleSentences": [
+    {
+      "german": "Der Lebenslauf muss nicht handschriftlich sein.",
+      "english": "The CV doesn't have to be handwritten.",
+      "highlight": [
+        "handschriftlich"
+      ]
+    },
+    {
+      "german": "Ein handschriftliches Testament muss eigenhändig geschrieben sein.",
+      "english": "A handwritten will must be written entirely in one's own hand.",
+      "highlight": [
+        "handschriftliches"
+      ]
+    }
+  ],
+  "forms": [
+    "handschriftliche",
+    "handschriftlichen",
+    "handschriftliches"
+  ],
+  "memoryHook": "Handschriftlich: in Handschrift (handwriting).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does handschriftlich mean?",
+      "options": [
+        "handwritten",
+        "the station",
+        "the bill"
+      ],
+      "answer": "handwritten",
+      "explanation": "handschriftlich: handwritten.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Handschrift is…",
+      "options": [
+        "handwriting; manuscript",
+        "a glove"
+      ],
+      "answer": "handwriting; manuscript",
+      "explanation": "Root.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Etwas trägt seine Handschrift means…",
+      "options": [
+        "it bears his signature style",
+        "he signed it"
+      ],
+      "answer": "it bears his signature style",
+      "explanation": "Idiom.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "von Hand geschrieben, eigenhändig",
+        "gedruckt"
+      ],
+      "answer": "von Hand geschrieben, eigenhändig",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Notiz (handwritten)",
+      "answer": "handschriftliche",
+      "fullAnswer": "eine handschriftliche Notiz",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Handschriftlich means handwritten: eine handschriftliche Notiz, ein handschriftliches Testament, which under German law must be written and signed entirely by hand to be valid. Die Handschrift is handwriting and a manuscript; figuratively, etwas trägt die Handschrift von... means it bears someone's signature style. Synonym: eigenhändig. The opposite is gedruckt or getippt."
+}

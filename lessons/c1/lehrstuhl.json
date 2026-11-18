@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Lehrstuhl",
+    "partOfSpeech": "noun, masculine (der Lehrstuhl)",
+    "pronunciation": {
+      "respelling": "LAIR-shtool",
+      "ipa": "ˈleːɐ̯ˌʃtuːl",
+      "notes": "Plural: die Lehrstühle."
+    },
+    "meaning": "(professorial) chair",
+    "shortDefinition": "(professorial) chair."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Lehrstuhl, plural die Lehrstühle.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Lehrstuhl"
+        },
+        {
+          "label": "More than one",
+          "value": "die Lehrstühle"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie hat einen Lehrstuhl für Soziologie.",
+      "english": "She holds a chair in sociology.",
+      "highlight": [
+        "Lehrstuhl"
+      ]
+    },
+    {
+      "german": "Der Lehrstuhl wird neu besetzt.",
+      "english": "The chair is being filled again.",
+      "highlight": [
+        "Lehrstuhl"
+      ]
+    }
+  ],
+  "forms": [
+    "Lehrstühle",
+    "die Lehrstühle",
+    "der Lehrstuhl"
+  ],
+  "memoryHook": "Lehrstuhl: the chair (Stuhl) from which a professor teaches (lehrt).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Lehrstuhl",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Lehrstuhl is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Lehrstuhl, zwei ___",
+      "answer": "Lehrstühle",
+      "fullAnswer": "ein Lehrstuhl, zwei Lehrstühle",
+      "explanation": "The plural is Lehrstühle.",
+      "acceptedAnswers": [
+        "Lehrstuehle"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Lehrstuhl mean?",
+      "options": [
+        "to travel",
+        "(professorial) chair",
+        "cheap"
+      ],
+      "answer": "(professorial) chair",
+      "explanation": "Lehrstuhl: (professorial) chair.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Lehrstuhlinhaber is…",
+      "options": [
+        "the chair holder (professor)",
+        "a teacher's chair"
+      ],
+      "answer": "the chair holder (professor)",
+      "explanation": "Professor.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Literally, Lehrstuhl means…",
+      "options": [
+        "teaching chair",
+        "learning stool"
+      ],
+      "answer": "teaching chair",
+      "explanation": "Literal.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Lehrstuhl includes…",
+      "options": [
+        "the professor and their staff",
+        "only furniture"
+      ],
+      "answer": "the professor and their staff",
+      "explanation": "Unit.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Lehrstuhl is a professorial chair at a university: ein Lehrstuhl für Physik, einen Lehrstuhl innehaben. In the German system, a Lehrstuhl is also a unit with the professor, assistants and secretaries. Getting a Lehrstuhl (a W3 professorship) is the peak of an academic career, often after the Habilitation. Der Lehrstuhlinhaber is the chair holder. Plural: die Lehrstühle."
+}

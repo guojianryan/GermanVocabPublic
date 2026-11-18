@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Innenraum",
+    "partOfSpeech": "noun, masculine (der Innenraum)",
+    "pronunciation": {
+      "respelling": "IN-en-raum",
+      "ipa": "ˈɪnənˌʁaʊ̯m",
+      "notes": "Plural: die Innenräume."
+    },
+    "meaning": "interior",
+    "shortDefinition": "Interior."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Innenraum, plural die Innenräume.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Innenraum"
+        },
+        {
+          "label": "More than one",
+          "value": "die Innenräume"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Innenraum des Autos ist sehr geräumig.",
+      "english": "The car's interior is very spacious.",
+      "highlight": [
+        "Innenraum"
+      ]
+    },
+    {
+      "german": "In Innenräumen gilt Rauchverbot.",
+      "english": "Smoking is banned indoors.",
+      "highlight": [
+        "Innenräumen"
+      ]
+    }
+  ],
+  "forms": [
+    "Innenräume",
+    "die Innenräume",
+    "der Innenraum",
+    "Innenräumen"
+  ],
+  "memoryHook": "Innenraum: the Raum (space) innen (inside).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Innenraum",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Innenraum is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Innenraum, zwei ___",
+      "answer": "Innenräume",
+      "fullAnswer": "ein Innenraum, zwei Innenräume",
+      "explanation": "The plural is Innenräume.",
+      "acceptedAnswers": [
+        "Innenraeume"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Innenraum mean?",
+      "options": [
+        "the station",
+        "interior",
+        "the bill"
+      ],
+      "answer": "interior",
+      "explanation": "Innenraum: interior.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Innenräumen means…",
+      "options": [
+        "indoors",
+        "inside rooms only at home"
+      ],
+      "answer": "indoors",
+      "explanation": "Indoors.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Innenarchitekt is…",
+      "options": [
+        "an interior designer",
+        "an interior minister"
+      ],
+      "answer": "an interior designer",
+      "explanation": "Designer.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite:",
+      "options": [
+        "der Außenbereich",
+        "der Raum"
+      ],
+      "answer": "der Außenbereich",
+      "explanation": "Outdoors.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Innenraum is an interior, the inside of a car, church or building: der Innenraum einer Kirche. In Innenräumen means indoors, common in rules: Rauchverbot in Innenräumen, Maskenpflicht in Innenräumen during the pandemic. The opposite is der Außenbereich (outdoor area). Der Innenarchitekt is an interior designer, and die Innenstadt the town centre. Plural: die Innenräume."
+}

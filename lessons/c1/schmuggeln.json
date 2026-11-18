@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "schmuggeln",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHMU-geln",
+      "ipa": "ˈʃmʊɡl̩n",
+      "notes": ""
+    },
+    "meaning": "to smuggle",
+    "shortDefinition": "To smuggle."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schmuggl|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schmuggel|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schmuggel|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schmuggel|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schmuggel|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schmuggel|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geschmuggelt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie versuchten, Zigaretten über die Grenze zu schmuggeln.",
+      "english": "They tried to smuggle cigarettes across the border.",
+      "highlight": [
+        "schmuggeln."
+      ]
+    },
+    {
+      "german": "Er hat einen Zettel in die Prüfung geschmuggelt.",
+      "english": "He smuggled a note into the exam.",
+      "highlight": [
+        "geschmuggelt."
+      ]
+    }
+  ],
+  "forms": [
+    "schmuggle",
+    "schmuggelst",
+    "schmuggelt",
+    "schmuggeln",
+    "geschmuggelt",
+    "Schmuggler",
+    "Schmuggel"
+  ],
+  "memoryHook": "Schmuggeln: slip goods past customs in secret.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (schmuggeln)",
+      "answer": "schmuggelt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schmuggelt.",
+      "acceptedAnswers": [
+        "schmuggelt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (schmuggeln, past)",
+      "answer": "geschmuggelt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geschmuggelt.",
+      "acceptedAnswers": [
+        "geschmuggelt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does schmuggeln mean?",
+      "options": [
+        "the bread",
+        "the street",
+        "to smuggle"
+      ],
+      "answer": "to smuggle",
+      "explanation": "schmuggeln: to smuggle.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schmuggler is…",
+      "options": [
+        "smuggler",
+        "a snuggler"
+      ],
+      "answer": "smuggler",
+      "explanation": "Person.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schmuggel is…",
+      "options": [
+        "smuggling",
+        "jewellery"
+      ],
+      "answer": "smuggling",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schmuck is…",
+      "options": [
+        "jewellery",
+        "smuggling"
+      ],
+      "answer": "jewellery",
+      "explanation": "Contrast.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Schmuggeln means to smuggle: Drogen, Zigaretten, Menschen schmuggeln, and humorously a Spickzettel (crib sheet) into an exam. Der Schmuggel is smuggling and der Schmuggler a smuggler; human smugglers are Schleuser. Historically, coffee smuggling over the Aachen-Belgian border after WWII was so common the route was called the Kaffeefront. Regular: schmuggelte, geschmuggelt."
+}

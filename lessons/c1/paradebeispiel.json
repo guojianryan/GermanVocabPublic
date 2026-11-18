@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Paradebeispiel",
+    "partOfSpeech": "noun, neuter (das Paradebeispiel)",
+    "pronunciation": {
+      "respelling": "pa-RAA-de-bai-shpeel",
+      "ipa": "paˈʁaːdəˌbaɪ̯ʃpiːl",
+      "notes": "Plural: die Paradebeispiele."
+    },
+    "meaning": "prime example, textbook case",
+    "shortDefinition": "Prime example, textbook case."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Paradebeispiel, plural die Paradebeispiele.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Paradebeispiel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Paradebeispiele"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das ist ein Paradebeispiel für schlechte Planung.",
+      "english": "That's a textbook example of poor planning.",
+      "highlight": [
+        "Paradebeispiel"
+      ]
+    },
+    {
+      "german": "Die Stadt gilt als Paradebeispiel für Radverkehr.",
+      "english": "The city is considered a prime example of cycling.",
+      "highlight": [
+        "Paradebeispiel"
+      ]
+    }
+  ],
+  "forms": [
+    "Paradebeispiele",
+    "das Paradebeispiel"
+  ],
+  "memoryHook": "Paradebeispiel: a Beispiel you'd show off in a Parade.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Paradebeispiel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Paradebeispiel is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Paradebeispiel, zwei ___",
+      "answer": "Paradebeispiele",
+      "fullAnswer": "ein Paradebeispiel, zwei Paradebeispiele",
+      "explanation": "The plural is Paradebeispiele.",
+      "acceptedAnswers": [
+        "Paradebeispiele"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Paradebeispiel mean?",
+      "options": [
+        "prime example",
+        "the key",
+        "the family"
+      ],
+      "answer": "prime example",
+      "explanation": "Paradebeispiel: prime example, textbook case.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "das Musterbeispiel, das Paradestück",
+        "die Ausnahme"
+      ],
+      "answer": "das Musterbeispiel, das Paradestück",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Parade is…",
+      "options": [
+        "parade; (sport) save",
+        "a paradise"
+      ],
+      "answer": "parade; (sport) save",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Parade- in compounds means…",
+      "options": [
+        "showpiece, model (Paradedisziplin)",
+        "military only"
+      ],
+      "answer": "showpiece, model (Paradedisziplin)",
+      "explanation": "Prefix.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Paradebeispiel is a prime or textbook example: ein Paradebeispiel für gelungene Integration. Similar: das Musterbeispiel, das Paradestück (showpiece), die Paradedisziplin (signature event, a team's speciality). Die Parade means a parade, and in football a goalkeeper's save. Münster is often cited as a Paradebeispiel for cycling in Germany. Plural: die Paradebeispiele."
+}

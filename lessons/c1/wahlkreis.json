@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wahlkreis",
+    "partOfSpeech": "noun, masculine (der Wahlkreis)",
+    "pronunciation": {
+      "respelling": "VAAL-krais",
+      "ipa": "ˈvaːlˌkʁaɪ̯s",
+      "notes": "Plural: die Wahlkreise."
+    },
+    "meaning": "constituency",
+    "shortDefinition": "Constituency."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Wahlkreis, plural die Wahlkreise.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Wahlkreis"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wahlkreise"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie hat ihren Wahlkreis direkt gewonnen.",
+      "english": "She won her constituency directly.",
+      "highlight": [
+        "Wahlkreis"
+      ]
+    },
+    {
+      "german": "Deutschland ist in 299 Wahlkreise eingeteilt.",
+      "english": "Germany is divided into 299 constituencies.",
+      "highlight": [
+        "Wahlkreise"
+      ]
+    }
+  ],
+  "forms": [
+    "Wahlkreise",
+    "die Wahlkreise",
+    "der Wahlkreis"
+  ],
+  "memoryHook": "Wahlkreis: the electoral (Wahl) district (Kreis).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wahlkreis",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Wahlkreis is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wahlkreis, zwei ___",
+      "answer": "Wahlkreise",
+      "fullAnswer": "ein Wahlkreis, zwei Wahlkreise",
+      "explanation": "The plural is Wahlkreise.",
+      "acceptedAnswers": [
+        "Wahlkreise"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wahlkreis mean?",
+      "options": [
+        "constituency",
+        "the key",
+        "to sleep"
+      ],
+      "answer": "constituency",
+      "explanation": "Wahlkreis: constituency.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "German voters have two votes:",
+      "options": [
+        "Erststimme (constituency) and Zweitstimme (party list)",
+        "one vote only"
+      ],
+      "answer": "Erststimme (constituency) and Zweitstimme (party list)",
+      "explanation": "Two votes.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Number of Bundestag constituencies:",
+      "options": [
+        "299",
+        "650"
+      ],
+      "answer": "299",
+      "explanation": "299.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kreis means…",
+      "options": [
+        "circle; district",
+        "crisis"
+      ],
+      "answer": "circle; district",
+      "explanation": "Kreis.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Wahlkreis is a constituency or electoral district. For the Bundestag, Germany has 299 Wahlkreise. Voters have two votes: the Erststimme for a candidate in their Wahlkreis and the more important Zweitstimme for a party list, which decides the share of seats. Since the 2023 reform, a constituency winner only gets a seat if the party's Zweitstimmen cover it. Der Wahlkreisabgeordnete is the local MP. Plural: die Wahlkreise."
+}

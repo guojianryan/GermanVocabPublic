@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bundesamt",
+    "partOfSpeech": "noun, neuter (das Bundesamt)",
+    "pronunciation": {
+      "respelling": "BUN-des-amt",
+      "ipa": "ˈbʊndəsˌʔamt",
+      "notes": "Plural: die Bundesämter."
+    },
+    "meaning": "federal office, federal agency",
+    "shortDefinition": "Federal office, federal agency."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Bundesamt, plural die Bundesämter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Bundesamt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bundesämter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Bundesamt für Statistik veröffentlicht die Zahlen.",
+      "english": "The Federal Statistical Office publishes the figures.",
+      "highlight": [
+        "Bundesamt"
+      ]
+    },
+    {
+      "german": "Er arbeitet bei einem Bundesamt.",
+      "english": "He works at a federal agency.",
+      "highlight": [
+        "Bundesamt."
+      ]
+    }
+  ],
+  "forms": [
+    "Bundesämter",
+    "die Bundesämter",
+    "das Bundesamt"
+  ],
+  "memoryHook": "Bundesamt: an Amt of the Bund.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bundesamt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Bundesamt is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bundesamt, zwei ___",
+      "answer": "Bundesämter",
+      "fullAnswer": "ein Bundesamt, zwei Bundesämter",
+      "explanation": "The plural is Bundesämter.",
+      "acceptedAnswers": [
+        "Bundesaemter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bundesamt mean?",
+      "options": [
+        "federal office",
+        "the evening",
+        "to sleep"
+      ],
+      "answer": "federal office",
+      "explanation": "Bundesamt: federal office, federal agency.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bundes- means…",
+      "options": [
+        "federal",
+        "national park"
+      ],
+      "answer": "federal",
+      "explanation": "Bund = federation.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das BAMF is…",
+      "options": [
+        "the Federal Office for Migration and Refugees",
+        "a bank"
+      ],
+      "answer": "the Federal Office for Migration and Refugees",
+      "explanation": "BAMF.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Bundesämter",
+        "die Bundesamte"
+      ],
+      "answer": "die Bundesämter",
+      "explanation": "Umlaut.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Bundesamt is a federal office or agency. Germany has dozens: das Statistische Bundesamt (Destatis), das Bundesamt für Migration und Flüchtlinge (BAMF), das Bundesamt für Sicherheit in der Informationstechnik (BSI). Der Bund means the federation, as opposed to die Länder (the states). Many Bundesämter are deliberately located outside Berlin, in cities like Bonn, Wiesbaden and Nuremberg."
+}

@@ -1,0 +1,190 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ausliefern",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AUS-lee-fern",
+      "ipa": "ˈaʊ̯sˌliːfɐn",
+      "notes": ""
+    },
+    "meaning": "to deliver; to extradite; to hand over",
+    "shortDefinition": "To deliver; to extradite; to hand over."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "aus",
+        "meaning": "out"
+      },
+      {
+        "part": "liefern",
+        "meaning": "to deliver"
+      }
+    ],
+    "literalMeaning": "to deliver out"
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "liefer|e … |aus"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "liefer|st … |aus"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "liefer|t … |aus"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "liefer|n … |aus"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "liefer|t … |aus"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "liefer|n … |aus"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat ausgeliefert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Firma liefert die Pakete am Montag aus.",
+      "english": "The company delivers the parcels on Monday.",
+      "highlight": [
+        "liefert"
+      ]
+    },
+    {
+      "german": "Deutschland liefert keine eigenen Staatsbürger aus.",
+      "english": "Germany doesn't extradite its own citizens.",
+      "highlight": [
+        "liefert"
+      ]
+    }
+  ],
+  "forms": [
+    "liefere aus",
+    "lieferst aus",
+    "liefert aus",
+    "liefern aus",
+    "ausgeliefert",
+    "lieferte aus",
+    "Auslieferung"
+  ],
+  "memoryHook": "Ausliefern: hand it out, whether it's a parcel or a person.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … aus (ausliefern)",
+      "answer": "liefert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: liefert … aus.",
+      "acceptedAnswers": [
+        "liefert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (ausliefern, past)",
+      "answer": "ausgeliefert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe ausgeliefert.",
+      "acceptedAnswers": [
+        "ausgeliefert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does ausliefern mean?",
+      "options": [
+        "the job",
+        "to open",
+        "to deliver"
+      ],
+      "answer": "to deliver",
+      "explanation": "ausliefern: to deliver; to extradite; to hand over.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ausgeliefert sein (+ dative) means…",
+      "options": [
+        "to be at the mercy of",
+        "to be delivered on time"
+      ],
+      "answer": "to be at the mercy of",
+      "explanation": "Er ist ihr ausgeliefert.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Auslieferung is…",
+      "options": [
+        "delivery or extradition",
+        "a supply shortage"
+      ],
+      "answer": "delivery or extradition",
+      "explanation": "Both meanings.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wir ___ die Ware morgen aus. (liefern)",
+      "options": [
+        "liefern",
+        "ausliefern"
+      ],
+      "answer": "liefern",
+      "explanation": "Prefix goes to the end: wir liefern … aus.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "An Interpol warrant can lead to…",
+      "options": [
+        "Auslieferung",
+        "Anlieferung"
+      ],
+      "answer": "Auslieferung",
+      "explanation": "Extradition.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Ausliefern has a friendly meaning, to deliver goods (Der Händler liefert die Ware aus), and a heavy one, to extradite a suspect: Der Verdächtige wurde an die USA ausgeliefert. With the passive-like ausgeliefert sein, it describes helplessness: Wir sind dem Wetter ausgeliefert. Article 16 of the Grundgesetz forbids extraditing German citizens to non-EU states, with exceptions for EU countries and international courts."
+}

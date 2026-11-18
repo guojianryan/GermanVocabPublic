@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zusammenschluss",
+    "partOfSpeech": "noun, masculine (der Zusammenschluss)",
+    "pronunciation": {
+      "respelling": "tsu-ZA-men-shlus",
+      "ipa": "t͡suˈzamənˌʃlʊs",
+      "notes": "Plural: die Zusammenschlüsse."
+    },
+    "meaning": "merger, union, alliance",
+    "shortDefinition": "Merger, union, alliance."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Zusammenschluss, plural die Zusammenschlüsse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Zusammenschluss"
+        },
+        {
+          "label": "More than one",
+          "value": "die Zusammenschlüsse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Zusammenschluss der beiden Firmen wurde genehmigt.",
+      "english": "The merger of the two companies was approved.",
+      "highlight": [
+        "Zusammenschluss"
+      ]
+    },
+    {
+      "german": "Die EU ist ein Zusammenschluss von 27 Staaten.",
+      "english": "The EU is a union of 27 states.",
+      "highlight": [
+        "Zusammenschluss"
+      ]
+    }
+  ],
+  "forms": [
+    "Zusammenschlüsse",
+    "die Zusammenschlüsse",
+    "der Zusammenschluss",
+    "zusammenschließen"
+  ],
+  "memoryHook": "Zusammenschluss: closing (schließen) together (zusammen).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zusammenschluss",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Zusammenschluss is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Zusammenschluss, zwei ___",
+      "answer": "Zusammenschlüsse",
+      "fullAnswer": "ein Zusammenschluss, zwei Zusammenschlüsse",
+      "explanation": "The plural is Zusammenschlüsse.",
+      "acceptedAnswers": [
+        "Zusammenschluesse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zusammenschluss mean?",
+      "options": [
+        "the bread",
+        "merger",
+        "the job"
+      ],
+      "answer": "merger",
+      "explanation": "Zusammenschluss: merger, union, alliance.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich zusammenschließen means…",
+      "options": [
+        "to join together, merge",
+        "to lock up"
+      ],
+      "answer": "to join together, merge",
+      "explanation": "Merge.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Business synonym:",
+      "options": [
+        "die Fusion",
+        "die Teilung"
+      ],
+      "answer": "die Fusion",
+      "explanation": "Merger.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Zusammenschlüsse",
+        "die Zusammenschlusse"
+      ],
+      "answer": "die Zusammenschlüsse",
+      "explanation": "Umlaut.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Zusammenschluss is a merger, union or alliance: der Zusammenschluss von Unternehmen, ein Zusammenschluss von Bürgerinitiativen. In business, die Fusion is the more technical word for a merger. Sich zusammenschließen means to join together: Die Vereine haben sich zusammengeschlossen. German reunification in 1990 was legally an accession of the East German states to the Federal Republic, not a merger. Plural: die Zusammenschlüsse."
+}

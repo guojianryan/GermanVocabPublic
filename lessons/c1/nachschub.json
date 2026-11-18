@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Nachschub",
+    "partOfSpeech": "noun, masculine (der Nachschub)",
+    "pronunciation": {
+      "respelling": "NAAKH-shoop",
+      "ipa": "ˈnaːxˌʃuːp",
+      "notes": "Usually no plural."
+    },
+    "meaning": "supplies, fresh supply",
+    "shortDefinition": "Supplies, fresh supply."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Nachschub, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Nachschub"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Armee wartet auf Nachschub.",
+      "english": "The army is waiting for supplies.",
+      "highlight": [
+        "Nachschub."
+      ]
+    },
+    {
+      "german": "Wir brauchen Nachschub an Getränken!",
+      "english": "We need more drinks!",
+      "highlight": [
+        "Nachschub"
+      ]
+    }
+  ],
+  "forms": [
+    "der Nachschub"
+  ],
+  "memoryHook": "Nachschub: what's pushed (schieben) after (nach).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Nachschub",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Nachschub is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Nachschub mean?",
+      "options": [
+        "never",
+        "supplies",
+        "to learn"
+      ],
+      "answer": "supplies",
+      "explanation": "Nachschub: supplies, fresh supply.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nachschub an + dative means…",
+      "options": [
+        "more supplies of",
+        "a push after"
+      ],
+      "answer": "more supplies of",
+      "explanation": "Supply.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nachschieben means…",
+      "options": [
+        "to push after; to add later",
+        "to shoot"
+      ],
+      "answer": "to push after; to add later",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Nachschub is originally…",
+      "options": [
+        "a military term",
+        "a sports term"
+      ],
+      "answer": "a military term",
+      "explanation": "Military.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Nachschub is a fresh supply or supplies, originally of military material: Nachschub an Munition, die Nachschubwege. Colloquially, it's any refill: Nachschub holen (to get more), Nachschub an Bier, Chips, Ideen. From nachschieben (to push after). Supply chains in war or crises depend on reliable Nachschub. It has no plural."
+}

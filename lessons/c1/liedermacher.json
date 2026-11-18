@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Liedermacher",
+    "partOfSpeech": "noun, masculine (der Liedermacher)",
+    "pronunciation": {
+      "respelling": "LEE-der-ma-kher",
+      "ipa": "ˈliːdɐˌmaxɐ",
+      "notes": "Plural: die Liedermacher."
+    },
+    "meaning": "singer-songwriter",
+    "shortDefinition": "Singer-songwriter."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Liedermacher, plural die Liedermacher.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Liedermacher"
+        },
+        {
+          "label": "More than one",
+          "value": "die Liedermacher"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Reinhard Mey ist ein bekannter Liedermacher.",
+      "english": "Reinhard Mey is a well-known singer-songwriter.",
+      "highlight": [
+        "Liedermacher."
+      ]
+    },
+    {
+      "german": "Der Liedermacher Wolf Biermann wurde 1976 aus der DDR ausgebürgert.",
+      "english": "The singer-songwriter Wolf Biermann was stripped of GDR citizenship in 1976.",
+      "highlight": [
+        "Liedermacher"
+      ]
+    }
+  ],
+  "forms": [
+    "Liedermacherin",
+    "der Liedermacher"
+  ],
+  "memoryHook": "Liedermacher: someone who macht (makes) Lieder (songs).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Liedermacher",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Liedermacher is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Liedermacher, zwei ___",
+      "answer": "Liedermacher",
+      "fullAnswer": "ein Liedermacher, zwei Liedermacher",
+      "explanation": "The plural is Liedermacher.",
+      "acceptedAnswers": [
+        "Liedermacher"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Liedermacher mean?",
+      "options": [
+        "the bed",
+        "singer-songwriter",
+        "to travel"
+      ],
+      "answer": "singer-songwriter",
+      "explanation": "Liedermacher: singer-songwriter.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wolf Biermann's 1976 expatriation…",
+      "options": [
+        "sparked protests among GDR artists",
+        "was voluntary"
+      ],
+      "answer": "sparked protests among GDR artists",
+      "explanation": "History.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Lied is…",
+      "options": [
+        "song",
+        "lid"
+      ],
+      "answer": "song",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Typical Liedermacher songs are…",
+      "options": [
+        "political or poetic, with guitar",
+        "techno"
+      ],
+      "answer": "political or poetic, with guitar",
+      "explanation": "Style.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Liedermacher (die Liedermacherin) is a singer-songwriter, typically with guitar and political or poetic lyrics. The term became popular in the 1960s and 70s with artists like Reinhard Mey, Hannes Wader, Konstantin Wecker and Wolf Biermann. In 1976 the GDR stripped Biermann of his citizenship while he was on tour in the West, prompting a famous protest letter by East German writers. The plural is the same."
+}

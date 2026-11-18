@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Abschrift",
+    "partOfSpeech": "noun, feminine (die Abschrift)",
+    "pronunciation": {
+      "respelling": "AP-shrift",
+      "ipa": "ˈapˌʃʁɪft",
+      "notes": "Plural: die Abschriften."
+    },
+    "meaning": "copy, transcript",
+    "shortDefinition": "Copy, transcript."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Abschrift, plural die Abschriften.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Abschrift"
+        },
+        {
+          "label": "More than one",
+          "value": "die Abschriften"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bitte reichen Sie eine beglaubigte Abschrift des Zeugnisses ein.",
+      "english": "Please submit a certified copy of the certificate.",
+      "highlight": [
+        "Abschrift"
+      ]
+    },
+    {
+      "german": "Mönche fertigten Abschriften alter Texte an.",
+      "english": "Monks made copies of old texts.",
+      "highlight": [
+        "Abschriften"
+      ]
+    }
+  ],
+  "forms": [
+    "Abschriften",
+    "die Abschrift"
+  ],
+  "memoryHook": "Abschrift: something schreiben (written) ab (from) an original.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Abschrift",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Abschrift is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Abschrift, zwei ___",
+      "answer": "Abschriften",
+      "fullAnswer": "ein Abschrift, zwei Abschriften",
+      "explanation": "The plural is Abschriften.",
+      "acceptedAnswers": [
+        "Abschriften"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Abschrift mean?",
+      "options": [
+        "the window",
+        "slowly",
+        "copy"
+      ],
+      "answer": "copy",
+      "explanation": "Abschrift: copy, transcript.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine beglaubigte Abschrift is…",
+      "options": [
+        "a certified copy",
+        "a signed letter"
+      ],
+      "answer": "a certified copy",
+      "explanation": "Certified.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Abschreiben means…",
+      "options": [
+        "to copy; to write off",
+        "to sign"
+      ],
+      "answer": "to copy; to write off",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kopie is…",
+      "options": [
+        "copy (photocopy)",
+        "head"
+      ],
+      "answer": "copy (photocopy)",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Abschrift is a copy or transcript of a document: eine beglaubigte Abschrift (certified copy), often required for job and university applications. Before printing, monks made handwritten Abschriften of texts. Abschreiben means to copy, also to cheat by copying in school, and to write off a debt or a person. Plural: die Abschriften."
+}

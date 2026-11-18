@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Intrige",
+    "partOfSpeech": "noun, feminine (die Intrige)",
+    "pronunciation": {
+      "respelling": "in-TREE-ge",
+      "ipa": "ɪnˈtʁiːɡə",
+      "notes": "Plural: die Intrigen."
+    },
+    "meaning": "intrigue, scheme",
+    "shortDefinition": "Intrigue, scheme."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Intrige, plural die Intrigen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Intrige"
+        },
+        {
+          "label": "More than one",
+          "value": "die Intrigen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er wurde Opfer einer Intrige.",
+      "english": "He fell victim to a scheme.",
+      "highlight": [
+        "Intrige."
+      ]
+    },
+    {
+      "german": "Am Hof gab es ständig Intrigen.",
+      "english": "There was constant intrigue at court.",
+      "highlight": [
+        "Intrigen."
+      ]
+    }
+  ],
+  "forms": [
+    "Intrigen",
+    "die Intrige"
+  ],
+  "memoryHook": "Intrige: an entangled (intricare) plot.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Intrige",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Intrige is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Intrige, zwei ___",
+      "answer": "Intrigen",
+      "fullAnswer": "ein Intrige, zwei Intrigen",
+      "explanation": "The plural is Intrigen.",
+      "acceptedAnswers": [
+        "Intrigen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Intrige mean?",
+      "options": [
+        "the station",
+        "intrigue",
+        "the child"
+      ],
+      "answer": "intrigue",
+      "explanation": "Intrige: intrigue, scheme.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Intrigieren means…",
+      "options": [
+        "to scheme",
+        "to intrigue (fascinate)"
+      ],
+      "answer": "to scheme",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Intrigant is…",
+      "options": [
+        "a schemer",
+        "an intrigued person"
+      ],
+      "answer": "a schemer",
+      "explanation": "Person.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fascinate in German is…",
+      "options": [
+        "faszinieren, nicht intrigieren",
+        "intrigieren"
+      ],
+      "answer": "faszinieren, nicht intrigieren",
+      "explanation": "False friend.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Intrige is a scheme or plot: eine Intrige spinnen (to hatch a scheme), Opfer einer Intrige. Intrigieren means to scheme, and der Intrigant is a schemer. Careful: English to intrigue (fascinate) is faszinieren or neugierig machen in German. Schiller's play Kabale und Liebe (1784) uses the older word Kabale for intrigue. Plural: die Intrigen."
+}

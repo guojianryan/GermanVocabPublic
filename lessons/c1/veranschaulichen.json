@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "veranschaulichen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-AN-shau-likh-en",
+      "ipa": "fɛɐ̯ˈʔanʃaʊ̯lɪçn̩",
+      "notes": ""
+    },
+    "meaning": "to illustrate, make clear",
+    "shortDefinition": "To illustrate, make clear."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "veranschaulich|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "veranschaulich|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "veranschaulich|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "veranschaulich|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "veranschaulich|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "veranschaulich|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat veranschaulicht"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Eine Grafik veranschaulicht die Entwicklung.",
+      "english": "A chart illustrates the development.",
+      "highlight": [
+        "veranschaulicht"
+      ]
+    },
+    {
+      "german": "Er veranschaulichte das Problem an einem Beispiel.",
+      "english": "He illustrated the problem with an example.",
+      "highlight": [
+        "veranschaulichte"
+      ]
+    }
+  ],
+  "forms": [
+    "veranschauliche",
+    "veranschaulichst",
+    "veranschaulicht",
+    "veranschaulichen",
+    "Veranschaulichung"
+  ],
+  "memoryHook": "Veranschaulichen: make anschaulich (visible, vivid).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (veranschaulichen)",
+      "answer": "veranschaulicht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: veranschaulicht.",
+      "acceptedAnswers": [
+        "veranschaulicht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (veranschaulichen, past)",
+      "answer": "veranschaulicht",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe veranschaulicht.",
+      "acceptedAnswers": [
+        "veranschaulicht"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does veranschaulichen mean?",
+      "options": [
+        "the car",
+        "never",
+        "to illustrate"
+      ],
+      "answer": "to illustrate",
+      "explanation": "veranschaulichen: to illustrate, make clear.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Anschaulich means…",
+      "options": [
+        "vivid, clear",
+        "attractive"
+      ],
+      "answer": "vivid, clear",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "illustrieren, verdeutlichen",
+        "verschleiern"
+      ],
+      "answer": "illustrieren, verdeutlichen",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Is it separable?",
+      "options": [
+        "no: es veranschaulicht",
+        "yes: es schaulicht veran"
+      ],
+      "answer": "no: es veranschaulicht",
+      "explanation": "Inseparable.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Veranschaulichen means to illustrate or make clear, with examples, pictures or models: einen Zusammenhang an einem Beispiel veranschaulichen. It's typical of teaching and presentations. Anschaulich means vivid or easy to grasp: anschaulich erklären. Synonyms: illustrieren, verdeutlichen, darstellen. Not separable: veranschaulichte, hat veranschaulicht."
+}

@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gezeiten",
+    "partOfSpeech": "noun, plural",
+    "pronunciation": {
+      "respelling": "ge-TSAI-ten",
+      "ipa": "ɡəˈt͡saɪ̯tn̩",
+      "notes": ""
+    },
+    "meaning": "tides",
+    "shortDefinition": "Tides."
+  },
+  "sampleSentences": [
+    {
+      "german": "An der Nordsee spürt man die Gezeiten stark.",
+      "english": "On the North Sea coast, you feel the tides strongly.",
+      "highlight": [
+        "Gezeiten"
+      ]
+    },
+    {
+      "german": "Prüfe vor der Wattwanderung den Gezeitenkalender!",
+      "english": "Check the tide table before the mudflat hike!",
+      "highlight": [
+        "Gezeitenkalender!"
+      ]
+    }
+  ],
+  "forms": [
+    "die Gezeiten",
+    "Gezeitenkalender"
+  ],
+  "memoryHook": "Gezeiten: the times (Zeiten) of the sea.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does Gezeiten mean?",
+      "options": [
+        "the window",
+        "tides",
+        "always"
+      ],
+      "answer": "tides",
+      "explanation": "Gezeiten: tides.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ebbe und Flut are…",
+      "options": [
+        "low and high tide",
+        "ebb and flow of rivers"
+      ],
+      "answer": "low and high tide",
+      "explanation": "Related.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gezeiten are caused mainly by…",
+      "options": [
+        "the moon",
+        "the wind"
+      ],
+      "answer": "the moon",
+      "explanation": "Science.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Wattenmeer is…",
+      "options": [
+        "the Wadden Sea (tidal flats)",
+        "a lake"
+      ],
+      "answer": "the Wadden Sea (tidal flats)",
+      "explanation": "Geography.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "der ___kalender (tides)",
+      "answer": "Gezeiten",
+      "fullAnswer": "der Gezeitenkalender",
+      "explanation": "Compound.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Gezeiten (plural only) are the tides: Ebbe (low tide) und Flut (high tide), driven mainly by the moon. On Germany's North Sea coast the tides expose the Wattenmeer, a UNESCO World Heritage Site since 2009, where people go on Wattwanderungen (mudflat hikes). The Baltic Sea has almost no tides. Das Gezeitenkraftwerk is a tidal power station."
+}

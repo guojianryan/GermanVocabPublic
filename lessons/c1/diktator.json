@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Diktator",
+    "partOfSpeech": "noun, masculine (der Diktator)",
+    "pronunciation": {
+      "respelling": "dik-TAA-tor",
+      "ipa": "dɪkˈtaːtoːɐ̯",
+      "notes": "Plural: die Diktatoren."
+    },
+    "meaning": "dictator",
+    "shortDefinition": "Dictator."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Diktator, plural die Diktatoren.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Diktator"
+        },
+        {
+          "label": "More than one",
+          "value": "die Diktatoren"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Diktator wurde gestürzt.",
+      "english": "The dictator was overthrown.",
+      "highlight": [
+        "Diktator"
+      ]
+    },
+    {
+      "german": "Das Land leidet unter einer Diktatur.",
+      "english": "The country suffers under a dictatorship.",
+      "highlight": [
+        "Diktatur."
+      ]
+    }
+  ],
+  "forms": [
+    "Diktatoren",
+    "die Diktatoren",
+    "der Diktator",
+    "Diktatur"
+  ],
+  "memoryHook": "Diktator: one who dictates (diktieren) to all.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Diktator",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Diktator is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Diktator, zwei ___",
+      "answer": "Diktatoren",
+      "fullAnswer": "ein Diktator, zwei Diktatoren",
+      "explanation": "The plural is Diktatoren.",
+      "acceptedAnswers": [
+        "Diktatoren"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Diktator mean?",
+      "options": [
+        "dictator",
+        "the street",
+        "the door"
+      ],
+      "answer": "dictator",
+      "explanation": "Diktator: dictator.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Diktatoren",
+        "die Diktators"
+      ],
+      "answer": "die Diktatoren",
+      "explanation": "Stress shift: dik-ta-TOH-ren.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Diktatur is…",
+      "options": [
+        "a dictatorship",
+        "a dictation"
+      ],
+      "answer": "a dictatorship",
+      "explanation": "Regime.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Diktat is…",
+      "options": [
+        "a dictation (school exercise)",
+        "a dictator"
+      ],
+      "answer": "a dictation (school exercise)",
+      "explanation": "School.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Diktator is a dictator; die Diktatur is a dictatorship. Germany experienced two: the Nazi dictatorship (1933–1945) and the SED regime in the GDR, often called a Diktatur too. Note the stress shift in the plural: dik-TAA-tor, but dik-ta-TOH-ren. Das Diktat is a dictation, a classic German school exercise for spelling. From Latin dictator, an emergency magistrate in ancient Rome. Plural: die Diktatoren."
+}

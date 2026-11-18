@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Eignung",
+    "partOfSpeech": "noun, feminine (die Eignung)",
+    "pronunciation": {
+      "respelling": "AIG-nung",
+      "ipa": "ˈaɪ̯ɡnʊŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "suitability, aptitude",
+    "shortDefinition": "Suitability, aptitude."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Eignung, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Eignung"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Test prüft die Eignung für den Beruf.",
+      "english": "The test checks suitability for the profession.",
+      "highlight": [
+        "Eignung"
+      ]
+    },
+    {
+      "german": "Bei der Polizei gibt es einen Eignungstest.",
+      "english": "The police have an aptitude test.",
+      "highlight": [
+        "Eignungstest."
+      ]
+    }
+  ],
+  "forms": [
+    "die Eignung",
+    "eignen",
+    "geeignet",
+    "Eignungstest"
+  ],
+  "memoryHook": "Eignung: being geeignet (suitable).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Eignung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Eignung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Eignung mean?",
+      "options": [
+        "the job",
+        "the station",
+        "suitability"
+      ],
+      "answer": "suitability",
+      "explanation": "Eignung: suitability, aptitude.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich eignen für means…",
+      "options": [
+        "to be suitable for",
+        "to own"
+      ],
+      "answer": "to be suitable for",
+      "explanation": "Verb.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Geeignet means…",
+      "options": [
+        "suitable",
+        "owned"
+      ],
+      "answer": "suitable",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Eignungstest is…",
+      "options": [
+        "an aptitude test",
+        "a property test"
+      ],
+      "answer": "an aptitude test",
+      "explanation": "Test.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Eignung is suitability or aptitude: die Eignung für einen Beruf, gesundheitliche Eignung (fitness). Der Eignungstest is an aptitude test, required for jobs like police, pilots, and for some university courses. Sich eignen für means to be suitable for: Das Buch eignet sich gut für Anfänger. Geeignet means suitable, and ungeeignet unsuitable. It has no plural."
+}

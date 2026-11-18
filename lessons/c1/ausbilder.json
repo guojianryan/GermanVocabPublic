@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ausbilder",
+    "partOfSpeech": "noun, masculine (der Ausbilder)",
+    "pronunciation": {
+      "respelling": "AUS-bil-der",
+      "ipa": "ˈaʊ̯sˌbɪldɐ",
+      "notes": "Plural: die Ausbilder."
+    },
+    "meaning": "trainer, instructor",
+    "shortDefinition": "Trainer, instructor."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Ausbilder, plural die Ausbilder.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Ausbilder"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ausbilder"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Ausbilder zeigt den Azubis die Maschine.",
+      "english": "The trainer shows the apprentices the machine.",
+      "highlight": [
+        "Ausbilder"
+      ]
+    },
+    {
+      "german": "Sie arbeitet als Ausbilderin bei der Polizei.",
+      "english": "She works as an instructor with the police.",
+      "highlight": [
+        "Ausbilderin"
+      ]
+    }
+  ],
+  "forms": [
+    "die Ausbilder",
+    "der Ausbilder",
+    "Ausbilderin"
+  ],
+  "memoryHook": "Ausbilder: someone who ausbildet (trains).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ausbilder",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Ausbilder is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Ausbilder, zwei ___",
+      "answer": "Ausbilder",
+      "fullAnswer": "ein Ausbilder, zwei Ausbilder",
+      "explanation": "The plural is Ausbilder.",
+      "acceptedAnswers": [
+        "Ausbilder"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ausbilder mean?",
+      "options": [
+        "to sing",
+        "the shop",
+        "trainer"
+      ],
+      "answer": "trainer",
+      "explanation": "Ausbilder: trainer, instructor.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ausbilder trains…",
+      "options": [
+        "apprentices (Azubis)",
+        "athletes only"
+      ],
+      "answer": "apprentices (Azubis)",
+      "explanation": "Apprentices.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ausbilden means…",
+      "options": [
+        "to train",
+        "to build out"
+      ],
+      "answer": "to train",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The AdA certificate qualifies people to…",
+      "options": [
+        "train apprentices",
+        "drive buses"
+      ],
+      "answer": "train apprentices",
+      "explanation": "AdA.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Ausbilder (die Ausbilderin) is a trainer or instructor, especially of apprentices in Germany's dual system. To train apprentices, companies need a qualified Ausbilder, usually with the AdA certificate (Ausbildung der Ausbilder). Also: der Fahrlehrer (driving instructor). Ausbilden means to train, and die Ausbildung is vocational training. In sport, the word is Trainer. Plural: die Ausbilder."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Unterlassung",
+    "partOfSpeech": "noun, feminine (die Unterlassung)",
+    "pronunciation": {
+      "respelling": "un-ter-LA-sung",
+      "ipa": "ʊntɐˈlasʊŋ",
+      "notes": "Plural: die Unterlassungen."
+    },
+    "meaning": "omission, failure to act",
+    "shortDefinition": "Omission, failure to act."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Unterlassung, plural die Unterlassungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Unterlassung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Unterlassungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er wurde wegen unterlassener Hilfeleistung verurteilt.",
+      "english": "He was convicted of failing to render assistance.",
+      "highlight": [
+        "unterlassener"
+      ]
+    },
+    {
+      "german": "Der Anwalt verlangte eine Unterlassungserklärung.",
+      "english": "The lawyer demanded a cease-and-desist declaration.",
+      "highlight": [
+        "Unterlassungserklärung."
+      ]
+    }
+  ],
+  "forms": [
+    "Unterlassungen",
+    "die Unterlassung"
+  ],
+  "memoryHook": "Unterlassung: when you unterlässt (refrain from) something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Unterlassung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Unterlassung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Unterlassung, zwei ___",
+      "answer": "Unterlassungen",
+      "fullAnswer": "ein Unterlassung, zwei Unterlassungen",
+      "explanation": "The plural is Unterlassungen.",
+      "acceptedAnswers": [
+        "Unterlassungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Unterlassung mean?",
+      "options": [
+        "the door",
+        "the car",
+        "omission"
+      ],
+      "answer": "omission",
+      "explanation": "Unterlassung: omission, failure to act.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unterlassene Hilfeleistung (§323c StGB) is…",
+      "options": [
+        "failing to help in an emergency",
+        "a late payment"
+      ],
+      "answer": "failing to help in an emergency",
+      "explanation": "Law.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Unterlassungserklärung is…",
+      "options": [
+        "a cease-and-desist declaration",
+        "a holiday request"
+      ],
+      "answer": "a cease-and-desist declaration",
+      "explanation": "Law.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Unterlassen means…",
+      "options": [
+        "to refrain from, omit",
+        "to leave under"
+      ],
+      "answer": "to refrain from, omit",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Unterlassung is an omission or failure to act. In German law, unterlassene Hilfeleistung (§323c StGB), failing to help in an emergency, is a crime, which is why bystanders must at least call 112. A lawyer's Abmahnung often demands a strafbewehrte Unterlassungserklärung, a binding promise to stop an infringement. Unterlassen means to refrain from: Bitte unterlassen Sie das Rauchen. Plural: die Unterlassungen."
+}

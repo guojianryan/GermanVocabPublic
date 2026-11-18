@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Radtour",
+    "partOfSpeech": "noun, feminine (die Radtour)",
+    "pronunciation": {
+      "respelling": "RAAT-toor",
+      "ipa": "ˈʁaːtˌtuːɐ̯",
+      "notes": "Plural: die Radtouren."
+    },
+    "meaning": "bike ride, cycling tour",
+    "shortDefinition": "Bike ride, cycling tour."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Radtour, plural die Radtouren.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Radtour"
+        },
+        {
+          "label": "More than one",
+          "value": "die Radtouren"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir machen eine Radtour um den Bodensee.",
+      "english": "We're doing a bike tour around Lake Constance.",
+      "highlight": [
+        "Radtour"
+      ]
+    },
+    {
+      "german": "Nach der langen Radtour waren alle müde.",
+      "english": "After the long bike ride, everyone was tired.",
+      "highlight": [
+        "Radtour"
+      ]
+    }
+  ],
+  "forms": [
+    "Radtouren",
+    "die Radtour"
+  ],
+  "memoryHook": "Radtour: a Tour by Rad (bike).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Radtour",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Radtour is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Radtour, zwei ___",
+      "answer": "Radtouren",
+      "fullAnswer": "ein Radtour, zwei Radtouren",
+      "explanation": "The plural is Radtouren.",
+      "acceptedAnswers": [
+        "Radtouren"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Radtour mean?",
+      "options": [
+        "bike ride",
+        "cheap",
+        "to help"
+      ],
+      "answer": "bike ride",
+      "explanation": "Radtour: bike ride, cycling tour.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Popular long-distance route:",
+      "options": [
+        "the Elberadweg",
+        "the Autobahn"
+      ],
+      "answer": "the Elberadweg",
+      "explanation": "Route.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Radweg is…",
+      "options": [
+        "cycle path",
+        "wheel way"
+      ],
+      "answer": "cycle path",
+      "explanation": "Path.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das E-Bike in German is also…",
+      "options": [
+        "das Pedelec",
+        "das Motorrad"
+      ],
+      "answer": "das Pedelec",
+      "explanation": "E-bike.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Radtour is a bike ride or cycling tour: eine Radtour machen. Germany has a dense network of long-distance cycle routes, such as the Elberadweg, the Donauradweg and the Bodensee-Radweg around Lake Constance. Many people now ride E-Bikes, technically called Pedelecs. Der Radweg is a cycle path, and die Fahrradstraße a street where bikes have priority. Plural: die Radtouren."
+}

@@ -1,0 +1,127 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Passus",
+    "partOfSpeech": "noun, masculine (der Passus)",
+    "pronunciation": {
+      "respelling": "PA-sus",
+      "ipa": "ˈpasʊs",
+      "notes": "Plural: die Passus."
+    },
+    "meaning": "passage, clause (in a text)",
+    "shortDefinition": "Passage, clause (in a text)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Passus, plural die Passus.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Passus"
+        },
+        {
+          "label": "More than one",
+          "value": "die Passus"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Vertrag enthält einen umstrittenen Passus.",
+      "english": "The contract contains a controversial clause.",
+      "highlight": [
+        "Passus."
+      ]
+    },
+    {
+      "german": "Ein Passus im Gesetz regelt die Ausnahmen.",
+      "english": "A passage in the law regulates the exceptions.",
+      "highlight": [
+        "Passus"
+      ]
+    }
+  ],
+  "forms": [
+    "der Passus"
+  ],
+  "memoryHook": "Passus: a step (Latin passus) through a text.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Passus",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Passus is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Passus, zwei ___",
+      "answer": "Passus",
+      "fullAnswer": "ein Passus, zwei Passus",
+      "explanation": "The plural is Passus.",
+      "acceptedAnswers": [
+        "Passus"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Passus mean?",
+      "options": [
+        "expensive",
+        "the weather",
+        "passage"
+      ],
+      "answer": "passage",
+      "explanation": "Passus: passage, clause (in a text).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Passus (long u)",
+        "die Passusse"
+      ],
+      "answer": "die Passus (long u)",
+      "explanation": "Plural.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Textstelle, der Abschnitt, die Klausel",
+        "das Ende"
+      ],
+      "answer": "die Textstelle, der Abschnitt, die Klausel",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal (legal, academic)",
+        "colloquial"
+      ],
+      "answer": "formal (legal, academic)",
+      "explanation": "Register.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Passus is a passage or clause in a text, especially legal or official documents: ein Passus im Koalitionsvertrag, im Testament. It's formal; synonyms are die Textstelle, der Abschnitt and die Klausel. The plural is also die Passus, but pronounced with a long u. It comes from Latin passus (step)."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mediziner",
+    "partOfSpeech": "noun, masculine (der Mediziner)",
+    "pronunciation": {
+      "respelling": "me-di-TSEE-ner",
+      "ipa": "mediˈt͡siːnɐ",
+      "notes": "Plural: die Mediziner."
+    },
+    "meaning": "doctor, physician; medical expert",
+    "shortDefinition": "Doctor, physician; medical expert."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Mediziner, plural die Mediziner.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Mediziner"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mediziner"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Mediziner warnen vor zu viel Zucker.",
+      "english": "Doctors warn against too much sugar.",
+      "highlight": [
+        "Mediziner"
+      ]
+    },
+    {
+      "german": "Sie ist Medizinerin am Uniklinikum.",
+      "english": "She's a doctor at the university hospital.",
+      "highlight": [
+        "Medizinerin"
+      ]
+    }
+  ],
+  "forms": [
+    "die Mediziner",
+    "Medizinerin",
+    "Medizin",
+    "medizinisch"
+  ],
+  "memoryHook": "Mediziner: the expert word for an Arzt.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mediziner",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Mediziner is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mediziner, zwei ___",
+      "answer": "Mediziner",
+      "fullAnswer": "ein Mediziner, zwei Mediziner",
+      "explanation": "The plural is Mediziner.",
+      "acceptedAnswers": [
+        "Mediziner"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mediziner mean?",
+      "options": [
+        "doctor",
+        "to sleep",
+        "the window"
+      ],
+      "answer": "doctor",
+      "explanation": "Mediziner: doctor, physician; medical expert.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The everyday word is…",
+      "options": [
+        "der Arzt",
+        "der Mediziner"
+      ],
+      "answer": "der Arzt",
+      "explanation": "Arzt.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Medizinisch means…",
+      "options": [
+        "medical",
+        "medicinal only"
+      ],
+      "answer": "medical",
+      "explanation": "medizinisch.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female:",
+      "options": [
+        "die Medizinerin",
+        "die Medizinin"
+      ],
+      "answer": "die Medizinerin",
+      "explanation": "-in.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Mediziner (die Medizinerin) is a doctor or medical expert. It's more formal or scientific than der Arzt and is common in news: Mediziner warnen vor... Medical students are also called Mediziner. Die Medizin is medicine as a field, and also a drug: Nimm deine Medizin! In everyday speech, though, a pill is das Medikament. Medizinisch means medical."
+}

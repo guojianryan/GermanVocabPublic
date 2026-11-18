@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Säugling",
+    "partOfSpeech": "noun, masculine (der Säugling)",
+    "pronunciation": {
+      "respelling": "ZOYK-ling",
+      "ipa": "ˈzɔɪ̯klɪŋ",
+      "notes": "Plural: die Säuglinge."
+    },
+    "meaning": "infant, baby (under one)",
+    "shortDefinition": "Infant, baby (under one)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Säugling, plural die Säuglinge.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Säugling"
+        },
+        {
+          "label": "More than one",
+          "value": "die Säuglinge"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Säuglinge brauchen viel Schlaf.",
+      "english": "Infants need a lot of sleep.",
+      "highlight": [
+        "Säuglinge"
+      ]
+    },
+    {
+      "german": "Die Säuglingssterblichkeit ist stark gesunken.",
+      "english": "Infant mortality has fallen sharply.",
+      "highlight": [
+        "Säuglingssterblichkeit"
+      ]
+    }
+  ],
+  "forms": [
+    "Säuglinge",
+    "der Säugling"
+  ],
+  "memoryHook": "Säugling: one who saugt (sucks, nurses).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Säugling",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Säugling is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Säugling, zwei ___",
+      "answer": "Säuglinge",
+      "fullAnswer": "ein Säugling, zwei Säuglinge",
+      "explanation": "The plural is Säuglinge.",
+      "acceptedAnswers": [
+        "Saeuglinge"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Säugling mean?",
+      "options": [
+        "hot",
+        "infant",
+        "the door"
+      ],
+      "answer": "infant",
+      "explanation": "Säugling: infant, baby (under one).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Saugen means…",
+      "options": [
+        "to suck",
+        "to say"
+      ],
+      "answer": "to suck",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Kleinkind is…",
+      "options": [
+        "toddler (1–3)",
+        "newborn"
+      ],
+      "answer": "toddler (1–3)",
+      "explanation": "Stages.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nouns ending in -ling are…",
+      "options": [
+        "masculine",
+        "feminine"
+      ],
+      "answer": "masculine",
+      "explanation": "Gender.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Säugling is an infant, a baby in its first year, the formal and medical term; everyday German says das Baby. It comes from saugen (to suck, nurse), as does das Säugetier (mammal). Then comes das Kleinkind (toddler). Nouns ending in -ling are masculine: der Liebling, der Flüchtling, der Lehrling. German parents receive Elterngeld for up to 14 months when they care for a Säugling. Plural: die Säuglinge."
+}

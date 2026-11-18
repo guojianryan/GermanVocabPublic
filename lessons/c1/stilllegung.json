@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Stilllegung",
+    "partOfSpeech": "noun, feminine (die Stilllegung)",
+    "pronunciation": {
+      "respelling": "SHTIL-lay-gung",
+      "ipa": "ˈʃtɪlˌleːɡʊŋ",
+      "notes": "Plural: die Stilllegungen."
+    },
+    "meaning": "shutdown, closure, decommissioning",
+    "shortDefinition": "Shutdown, closure, decommissioning."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Stilllegung, plural die Stilllegungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Stilllegung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Stilllegungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Stilllegung des Kraftwerks ist für 2030 geplant.",
+      "english": "The power plant's shutdown is planned for 2030.",
+      "highlight": [
+        "Stilllegung"
+      ]
+    },
+    {
+      "german": "Die Zeche wurde nach der Stilllegung zum Museum.",
+      "english": "The colliery became a museum after it closed.",
+      "highlight": [
+        "Stilllegung"
+      ]
+    }
+  ],
+  "forms": [
+    "Stilllegungen",
+    "die Stilllegung"
+  ],
+  "memoryHook": "Stilllegung: legen (putting) something still (at rest).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Stilllegung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Stilllegung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Stilllegung, zwei ___",
+      "answer": "Stilllegungen",
+      "fullAnswer": "ein Stilllegung, zwei Stilllegungen",
+      "explanation": "The plural is Stilllegungen.",
+      "acceptedAnswers": [
+        "Stilllegungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Stilllegung mean?",
+      "options": [
+        "shutdown",
+        "expensive",
+        "to travel"
+      ],
+      "answer": "shutdown",
+      "explanation": "Stilllegung: shutdown, closure, decommissioning.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Spelling since 1996:",
+      "options": [
+        "Stilllegung (lll)",
+        "Stillegung"
+      ],
+      "answer": "Stilllegung (lll)",
+      "explanation": "Spelling.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stilllegen means…",
+      "options": [
+        "to shut down, close",
+        "to lay still (a baby)"
+      ],
+      "answer": "to shut down, close",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's last hard coal mine closed in…",
+      "options": [
+        "2018",
+        "1990"
+      ],
+      "answer": "2018",
+      "explanation": "History.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Stilllegung is a shutdown or decommissioning: die Stilllegung eines Bergwerks, eines Atomkraftwerks, einer Bahnstrecke. Since the 1996 spelling reform it has three l (still + legen). In 2018, Prosper-Haniel in Bottrop, Germany's last hard-coal mine, was stillgelegt, and many old pits like Zollverein in Essen became museums and World Heritage sites. Plural: die Stilllegungen."
+}

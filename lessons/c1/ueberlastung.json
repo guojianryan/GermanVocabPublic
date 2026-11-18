@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Überlastung",
+    "partOfSpeech": "noun, feminine (die Überlastung)",
+    "pronunciation": {
+      "respelling": "ü-ber-LAS-tung",
+      "ipa": "yːbɐˈlastʊŋ",
+      "notes": "Plural: die Überlastungen."
+    },
+    "meaning": "overload, overwork",
+    "shortDefinition": "Overload, overwork."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Überlastung, plural die Überlastungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Überlastung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Überlastungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Krankenhäuser klagen über Überlastung.",
+      "english": "Hospitals complain of being overloaded.",
+      "highlight": [
+        "Überlastung."
+      ]
+    },
+    {
+      "german": "Die Überlastung des Stromnetzes führte zum Ausfall.",
+      "english": "The overload of the power grid led to the outage.",
+      "highlight": [
+        "Überlastung"
+      ]
+    }
+  ],
+  "forms": [
+    "Überlastungen",
+    "die Überlastung"
+  ],
+  "memoryHook": "Überlastung: too much (über) Last (load).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Überlastung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Überlastung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Überlastung, zwei ___",
+      "answer": "Überlastungen",
+      "fullAnswer": "ein Überlastung, zwei Überlastungen",
+      "explanation": "The plural is Überlastungen.",
+      "acceptedAnswers": [
+        "Überlastungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Überlastung mean?",
+      "options": [
+        "overload",
+        "always",
+        "slowly"
+      ],
+      "answer": "overload",
+      "explanation": "Überlastung: overload, overwork.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Überlastet means…",
+      "options": [
+        "overloaded, overworked",
+        "overweight"
+      ],
+      "answer": "overloaded, overworked",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Überlastungsanzeige is…",
+      "options": [
+        "a formal notice to the employer of overload",
+        "a sign on a lift"
+      ],
+      "answer": "a formal notice to the employer of overload",
+      "explanation": "Work.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Last is…",
+      "options": [
+        "load, burden",
+        "the last"
+      ],
+      "answer": "load, burden",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Überlastung is overload or overwork: die Überlastung des Personals, des Netzes, der Gerichte. Employees in Germany can submit an Überlastungsanzeige, a written notice to the employer that they can no longer do their work properly, common among nurses. Überlastet means overloaded or overworked. From die Last (load). Plural: die Überlastungen."
+}

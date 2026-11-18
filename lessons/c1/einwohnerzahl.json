@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Einwohnerzahl",
+    "partOfSpeech": "noun, feminine (die Einwohnerzahl)",
+    "pronunciation": {
+      "respelling": "AIN-voh-ner-tsaal",
+      "ipa": "ˈaɪ̯nvoːnɐˌt͡saːl",
+      "notes": "Plural: die Einwohnerzahlen."
+    },
+    "meaning": "population (figure)",
+    "shortDefinition": "Population (figure)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Einwohnerzahl, plural die Einwohnerzahlen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Einwohnerzahl"
+        },
+        {
+          "label": "More than one",
+          "value": "die Einwohnerzahlen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Einwohnerzahl der Stadt steigt.",
+      "english": "The city's population is rising.",
+      "highlight": [
+        "Einwohnerzahl"
+      ]
+    },
+    {
+      "german": "Deutschland hat eine Einwohnerzahl von rund 84 Millionen.",
+      "english": "Germany has a population of about 84 million.",
+      "highlight": [
+        "Einwohnerzahl"
+      ]
+    }
+  ],
+  "forms": [
+    "Einwohnerzahlen",
+    "die Einwohnerzahl"
+  ],
+  "memoryHook": "Einwohnerzahl: the Zahl (number) of Einwohner.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Einwohnerzahl",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Einwohnerzahl is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Einwohnerzahl, zwei ___",
+      "answer": "Einwohnerzahlen",
+      "fullAnswer": "ein Einwohnerzahl, zwei Einwohnerzahlen",
+      "explanation": "The plural is Einwohnerzahlen.",
+      "acceptedAnswers": [
+        "Einwohnerzahlen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Einwohnerzahl mean?",
+      "options": [
+        "to sleep",
+        "the bread",
+        "population (figure)"
+      ],
+      "answer": "population (figure)",
+      "explanation": "Einwohnerzahl: population (figure).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Einwohner is…",
+      "options": [
+        "inhabitant, resident",
+        "an immigrant"
+      ],
+      "answer": "inhabitant, resident",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's largest city by population is…",
+      "options": [
+        "Berlin",
+        "Hamburg"
+      ],
+      "answer": "Berlin",
+      "explanation": "Berlin.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Bevölkerung is…",
+      "options": [
+        "population (people)",
+        "population figure"
+      ],
+      "answer": "population (people)",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Einwohnerzahl is the population figure: Berlin hat eine Einwohnerzahl von rund 3,8 Millionen. Germany has about 84 million inhabitants, the largest population in the EU. Cities with over 100,000 inhabitants are Großstädte, of which Germany has about 80. Der Einwohner is an inhabitant, and das Einwohnermeldeamt the registration office. Die Bevölkerung means the population as people. Plural: die Einwohnerzahlen."
+}

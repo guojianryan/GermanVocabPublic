@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bankett",
+    "partOfSpeech": "noun, neuter (das Bankett)",
+    "pronunciation": {
+      "respelling": "bang-KET",
+      "ipa": "baŋˈkɛt",
+      "notes": "Plural: die Bankette."
+    },
+    "meaning": "banquet; (road) verge",
+    "shortDefinition": "Banquet; (road) verge."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Bankett, plural die Bankette.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Bankett"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bankette"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Zu Ehren des Präsidenten gab es ein Bankett.",
+      "english": "There was a banquet in the president's honour.",
+      "highlight": [
+        "Bankett."
+      ]
+    },
+    {
+      "german": "Bankette nicht befahrbar!",
+      "english": "Soft verges!",
+      "highlight": [
+        "Bankette"
+      ]
+    }
+  ],
+  "forms": [
+    "Bankette",
+    "das Bankett"
+  ],
+  "memoryHook": "Bankett: from Italian banchetto, a little bench at the feast.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bankett",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Bankett is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bankett, zwei ___",
+      "answer": "Bankette",
+      "fullAnswer": "ein Bankett, zwei Bankette",
+      "explanation": "The plural is Bankette.",
+      "acceptedAnswers": [
+        "Bankette"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bankett mean?",
+      "options": [
+        "the job",
+        "banquet",
+        "slowly"
+      ],
+      "answer": "banquet",
+      "explanation": "Bankett: banquet; (road) verge.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "On road signs, das Bankett is…",
+      "options": [
+        "the verge, hard shoulder",
+        "a party"
+      ],
+      "answer": "the verge, hard shoulder",
+      "explanation": "Road.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Staatsbankett is…",
+      "options": [
+        "state banquet",
+        "a state bank"
+      ],
+      "answer": "state banquet",
+      "explanation": "Compound.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym (banquet):",
+      "options": [
+        "das Festessen",
+        "der Imbiss"
+      ],
+      "answer": "das Festessen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Bankett is a banquet, a formal dinner: ein Staatsbankett, ein Festbankett. Surprisingly, it's also the verge beside a road; the sign Bankette nicht befahrbar warns drivers not to drive on the soft shoulder. Both come from Italian banchetto (little bench). Synonym for the meal: das Festessen. Plural: die Bankette."
+}

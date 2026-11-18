@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Eiche",
+    "partOfSpeech": "noun, feminine (die Eiche)",
+    "pronunciation": {
+      "respelling": "AI-khe",
+      "ipa": "ˈaɪ̯çə",
+      "notes": "Plural: die Eichen."
+    },
+    "meaning": "oak",
+    "shortDefinition": "Oak."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Eiche, plural die Eichen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Eiche"
+        },
+        {
+          "label": "More than one",
+          "value": "die Eichen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die alte Eiche ist über 500 Jahre alt.",
+      "english": "The old oak is over 500 years old.",
+      "highlight": [
+        "Eiche"
+      ]
+    },
+    {
+      "german": "Der Tisch ist aus massiver Eiche.",
+      "english": "The table is made of solid oak.",
+      "highlight": [
+        "Eiche."
+      ]
+    }
+  ],
+  "forms": [
+    "Eichen",
+    "die Eichen",
+    "die Eiche",
+    "Eichel"
+  ],
+  "memoryHook": "Eiche: the German oak, solid as Eichenholz.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Eiche",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Eiche is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Eiche, zwei ___",
+      "answer": "Eichen",
+      "fullAnswer": "ein Eiche, zwei Eichen",
+      "explanation": "The plural is Eichen.",
+      "acceptedAnswers": [
+        "Eichen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Eiche mean?",
+      "options": [
+        "the station",
+        "oak",
+        "to wait"
+      ],
+      "answer": "oak",
+      "explanation": "Eiche: oak.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The oak leaf appears on…",
+      "options": [
+        "old German coins (Pfennig) and military insignia",
+        "the German flag"
+      ],
+      "answer": "old German coins (Pfennig) and military insignia",
+      "explanation": "National symbol.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Eichel is…",
+      "options": [
+        "the acorn",
+        "the squirrel"
+      ],
+      "answer": "the acorn",
+      "explanation": "Acorn.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Eichhörnchen is…",
+      "options": [
+        "the squirrel",
+        "an oak horn"
+      ],
+      "answer": "the squirrel",
+      "explanation": "Squirrel.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Eiche is an oak: eine alte Eiche, Möbel aus Eiche. The oak was a German national symbol in the 19th century, and oak leaves appeared on the backs of the old Pfennig coins and still appear on German euro cents. Die Eichel is an acorn, and das Eichhörnchen (squirrel) is literally oak-little-horn. Was schert es eine deutsche Eiche, wenn sich eine Sau daran reibt? means why should an oak care if a pig rubs against it, a proverb about ignoring insults."
+}

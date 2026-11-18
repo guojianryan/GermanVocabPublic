@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "schubsen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHUP-sen",
+      "ipa": "ˈʃʊpsn̩",
+      "notes": ""
+    },
+    "meaning": "to push, shove (colloquial)",
+    "shortDefinition": "To push, shove (colloquial)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schubs|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schubs|t"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schubs|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schubs|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schubs|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schubs|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geschubst"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Hör auf zu schubsen!",
+      "english": "Stop pushing!",
+      "highlight": [
+        "schubsen!"
+      ]
+    },
+    {
+      "german": "Er hat ihn ins Wasser geschubst.",
+      "english": "He shoved him into the water.",
+      "highlight": [
+        "geschubst."
+      ]
+    }
+  ],
+  "forms": [
+    "schubse",
+    "schubst",
+    "schubsen",
+    "geschubst",
+    "schubste",
+    "Schubs"
+  ],
+  "memoryHook": "Schubsen: give someone a little Schub (push).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (schubsen)",
+      "answer": "schubst",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schubst.",
+      "acceptedAnswers": [
+        "schubst"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (schubsen, past)",
+      "answer": "geschubst",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geschubst.",
+      "acceptedAnswers": [
+        "geschubst"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does schubsen mean?",
+      "options": [
+        "the child",
+        "to push",
+        "the bed"
+      ],
+      "answer": "to push",
+      "explanation": "schubsen: to push, shove (colloquial).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schubs is…",
+      "options": [
+        "a push, nudge",
+        "a drawer"
+      ],
+      "answer": "a push, nudge",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "colloquial",
+        "formal"
+      ],
+      "answer": "colloquial",
+      "explanation": "Colloquial.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Standard synonym:",
+      "options": [
+        "stoßen, drängeln",
+        "ziehen"
+      ],
+      "answer": "stoßen, drängeln",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Schubsen means to push or shove, colloquially: jemanden zur Seite schubsen, im Gedränge schubsen. Der Schubs is a push or nudge, and figuratively einen Schubs brauchen means to need a nudge to get going. Related: drängeln (to jostle, to push in a queue), stoßen (to push, bump). Regular: schubste, geschubst."
+}

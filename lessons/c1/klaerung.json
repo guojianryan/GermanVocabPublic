@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Klärung",
+    "partOfSpeech": "noun, feminine (die Klärung)",
+    "pronunciation": {
+      "respelling": "KLAIR-ung",
+      "ipa": "ˈklɛːʁʊŋ",
+      "notes": "Plural: die Klärungen."
+    },
+    "meaning": "clarification, resolution",
+    "shortDefinition": "Clarification, resolution."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Klärung, plural die Klärungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Klärung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Klärungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir brauchen eine schnelle Klärung der Frage.",
+      "english": "We need a quick clarification of the question.",
+      "highlight": [
+        "Klärung"
+      ]
+    },
+    {
+      "german": "Das Abwasser fließt in die Kläranlage.",
+      "english": "The waste water flows into the sewage treatment plant.",
+      "highlight": [
+        "Kläranlage."
+      ]
+    }
+  ],
+  "forms": [
+    "Klärungen",
+    "die Klärungen",
+    "die Klärung",
+    "klären"
+  ],
+  "memoryHook": "Klärung: making something klar (clear).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Klärung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Klärung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Klärung, zwei ___",
+      "answer": "Klärungen",
+      "fullAnswer": "ein Klärung, zwei Klärungen",
+      "explanation": "The plural is Klärungen.",
+      "acceptedAnswers": [
+        "Klaerungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Klärung mean?",
+      "options": [
+        "clarification",
+        "cheap",
+        "to help"
+      ],
+      "answer": "clarification",
+      "explanation": "Klärung: clarification, resolution.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Klären means…",
+      "options": [
+        "to clarify, settle",
+        "to clean shoes"
+      ],
+      "answer": "to clarify, settle",
+      "explanation": "Clarify.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kläranlage is…",
+      "options": [
+        "a sewage treatment plant",
+        "an information desk"
+      ],
+      "answer": "a sewage treatment plant",
+      "explanation": "Sewage.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Klärungsbedarf means…",
+      "options": [
+        "need for clarification",
+        "cleaning demand"
+      ],
+      "answer": "need for clarification",
+      "explanation": "Need.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Klärung is clarification or resolution: die Klärung einer Frage, eines Missverständnisses. Es gibt noch Klärungsbedarf means some things still need clarifying, a common phrase in meetings. The verb is klären (to clarify, settle): Das müssen wir noch klären. It also means purifying: die Kläranlage is a sewage treatment plant. Aufklärung means enlightenment, and also sex education. Plural: die Klärungen."
+}

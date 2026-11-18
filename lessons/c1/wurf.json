@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wurf",
+    "partOfSpeech": "noun, masculine (der Wurf)",
+    "pronunciation": {
+      "respelling": "vurf",
+      "ipa": "vʊʁf",
+      "notes": "Plural: die Würfe."
+    },
+    "meaning": "throw; litter (of animals)",
+    "shortDefinition": "Throw; litter (of animals)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Wurf, plural die Würfe.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Wurf"
+        },
+        {
+          "label": "More than one",
+          "value": "die Würfe"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das war ein guter Wurf!",
+      "english": "That was a good throw!",
+      "highlight": [
+        "Wurf!"
+      ]
+    },
+    {
+      "german": "Die Katze hat einen Wurf von fünf Jungen.",
+      "english": "The cat has a litter of five kittens.",
+      "highlight": [
+        "Wurf"
+      ]
+    }
+  ],
+  "forms": [
+    "Würfe",
+    "die Würfe",
+    "der Wurf"
+  ],
+  "memoryHook": "Wurf: what you get when you werfen (throw).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wurf",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Wurf is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wurf, zwei ___",
+      "answer": "Würfe",
+      "fullAnswer": "ein Wurf, zwei Würfe",
+      "explanation": "The plural is Würfe.",
+      "acceptedAnswers": [
+        "Wuerfe"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wurf mean?",
+      "options": [
+        "throw",
+        "the weather",
+        "to open"
+      ],
+      "answer": "throw",
+      "explanation": "Wurf: throw; litter (of animals).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein großer Wurf means…",
+      "options": [
+        "a great success, a big hit",
+        "a long throw only"
+      ],
+      "answer": "a great success, a big hit",
+      "explanation": "Success.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Werfen means…",
+      "options": [
+        "to throw",
+        "to work"
+      ],
+      "answer": "to throw",
+      "explanation": "werfen.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Würfel is…",
+      "options": [
+        "the dice",
+        "the worm"
+      ],
+      "answer": "the dice",
+      "explanation": "Dice.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Wurf is a throw: ein weiter Wurf, der Freiwurf (free throw in basketball). Figuratively, ein großer Wurf is a great success or a major achievement: Das Gesetz ist kein großer Wurf. It's also a litter of young animals: ein Wurf Welpen. It comes from werfen (to throw), and der Würfel (dice) is related: Die Würfel sind gefallen means the die is cast, Caesar's famous phrase. Plural: die Würfe."
+}

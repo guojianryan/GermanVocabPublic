@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "konkretisieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "kon-kre-ti-ZEE-ren",
+      "ipa": "kɔnkʁetiˈziːʁən",
+      "notes": ""
+    },
+    "meaning": "to specify, flesh out",
+    "shortDefinition": "To specify, flesh out."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "konkretisier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "konkretisier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "konkretisier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "konkretisier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "konkretisier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "konkretisier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat konkretisiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Können Sie Ihren Vorschlag konkretisieren?",
+      "english": "Can you make your proposal more specific?",
+      "highlight": [
+        "konkretisieren?"
+      ]
+    },
+    {
+      "german": "Die Pläne haben sich konkretisiert.",
+      "english": "The plans have taken shape.",
+      "highlight": [
+        "konkretisiert."
+      ]
+    }
+  ],
+  "forms": [
+    "konkretisiere",
+    "konkretisierst",
+    "konkretisiert",
+    "konkretisieren",
+    "Konkretisierung"
+  ],
+  "memoryHook": "Konkretisieren: make something konkret (specific).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (konkretisieren)",
+      "answer": "konkretisiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: konkretisiert.",
+      "acceptedAnswers": [
+        "konkretisiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (konkretisieren, past)",
+      "answer": "konkretisiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe konkretisiert.",
+      "acceptedAnswers": [
+        "konkretisiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does konkretisieren mean?",
+      "options": [
+        "to specify",
+        "tomorrow",
+        "the station"
+      ],
+      "answer": "to specify",
+      "explanation": "konkretisieren: to specify, flesh out.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich konkretisieren means…",
+      "options": [
+        "to take shape",
+        "to harden"
+      ],
+      "answer": "to take shape",
+      "explanation": "Reflexive.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Konkret means…",
+      "options": [
+        "concrete, specific",
+        "concrete (material)"
+      ],
+      "answer": "concrete, specific",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Building concrete is…",
+      "options": [
+        "der Beton",
+        "der Konkret"
+      ],
+      "answer": "der Beton",
+      "explanation": "False friend.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Konkretisieren means to specify or flesh out: einen Plan, eine Frage, Vorwürfe konkretisieren. Sich konkretisieren means to take shape: Die Gerüchte konkretisieren sich. It's typical of business and political language. Konkret means specific; building concrete is der Beton. Die Konkretisierung is specification. Perfect without ge-: hat konkretisiert."
+}

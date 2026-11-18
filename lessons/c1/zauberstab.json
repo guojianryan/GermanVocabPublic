@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zauberstab",
+    "partOfSpeech": "noun, masculine (der Zauberstab)",
+    "pronunciation": {
+      "respelling": "TSAU-ber-shtaap",
+      "ipa": "ˈt͡saʊ̯bɐˌʃtaːp",
+      "notes": "Plural: die Zauberstäbe."
+    },
+    "meaning": "magic wand",
+    "shortDefinition": "Magic wand."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Zauberstab, plural die Zauberstäbe.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Zauberstab"
+        },
+        {
+          "label": "More than one",
+          "value": "die Zauberstäbe"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Zauberer schwang seinen Zauberstab.",
+      "english": "The magician waved his magic wand.",
+      "highlight": [
+        "Zauberstab."
+      ]
+    },
+    {
+      "german": "Leider gibt es keinen Zauberstab für dieses Problem.",
+      "english": "Unfortunately there's no magic wand for this problem.",
+      "highlight": [
+        "Zauberstab"
+      ]
+    }
+  ],
+  "forms": [
+    "Zauberstäbe",
+    "der Zauberstab"
+  ],
+  "memoryHook": "Zauberstab: a Stab (rod) for zaubern (magic).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zauberstab",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Zauberstab is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Zauberstab, zwei ___",
+      "answer": "Zauberstäbe",
+      "fullAnswer": "ein Zauberstab, zwei Zauberstäbe",
+      "explanation": "The plural is Zauberstäbe.",
+      "acceptedAnswers": [
+        "Zauberstaebe"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zauberstab mean?",
+      "options": [
+        "magic wand",
+        "never",
+        "to sleep"
+      ],
+      "answer": "magic wand",
+      "explanation": "Zauberstab: magic wand.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, kein Zauberstab means…",
+      "options": [
+        "no quick, magical fix",
+        "no stick"
+      ],
+      "answer": "no quick, magical fix",
+      "explanation": "Figurative.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zaubern means…",
+      "options": [
+        "to do magic, conjure",
+        "to hesitate"
+      ],
+      "answer": "to do magic, conjure",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Stab is…",
+      "options": [
+        "staff, rod, stick; staff (team)",
+        "a stab"
+      ],
+      "answer": "staff, rod, stick; staff (team)",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Zauberstab is a magic wand, carried by magicians and fairy-tale fairies. Figuratively, politicians often say Es gibt keinen Zauberstab (there's no magic fix). Zaubern means to do magic: ein Lächeln ins Gesicht zaubern. Der Stab means rod or staff, and also a team of staff: der Krisenstab. The hand blender is jokingly also called Zauberstab, after a brand name. Plural: die Zauberstäbe."
+}

@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Völkerrecht",
+    "partOfSpeech": "noun, neuter (das Völkerrecht)",
+    "pronunciation": {
+      "respelling": "FÖL-ker-rekht",
+      "ipa": "ˈfœlkɐˌʁɛçt",
+      "notes": "Usually no plural."
+    },
+    "meaning": "international law",
+    "shortDefinition": "International law."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Völkerrecht, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Völkerrecht"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Angriff verstößt gegen das Völkerrecht.",
+      "english": "The attack violates international law.",
+      "highlight": [
+        "Völkerrecht."
+      ]
+    },
+    {
+      "german": "Sie ist Expertin für Völkerrecht.",
+      "english": "She's an expert in international law.",
+      "highlight": [
+        "Völkerrecht."
+      ]
+    }
+  ],
+  "forms": [
+    "das Völkerrecht",
+    "völkerrechtlich",
+    "völkerrechtswidrig"
+  ],
+  "memoryHook": "Völkerrecht: the law (Recht) between peoples (Völker).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Völkerrecht",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Völkerrecht is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Völkerrecht mean?",
+      "options": [
+        "international law",
+        "the street",
+        "to buy"
+      ],
+      "answer": "international law",
+      "explanation": "Völkerrecht: international law.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Völkerrechtswidrig means…",
+      "options": [
+        "contrary to international law",
+        "against peoples"
+      ],
+      "answer": "contrary to international law",
+      "explanation": "Illegal.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Volk / die Völker means…",
+      "options": [
+        "people(s), nation(s)",
+        "folk music"
+      ],
+      "answer": "people(s), nation(s)",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The International Court of Justice is in…",
+      "options": [
+        "The Hague",
+        "Geneva"
+      ],
+      "answer": "The Hague",
+      "explanation": "Court.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Völkerrecht is international law, the law between states (literally between peoples). Völkerrechtswidrig means in breach of international law: ein völkerrechtswidriger Angriffskrieg. Germany's Grundgesetz (Article 25) makes general rules of international law part of federal law. Germany also has its own Völkerstrafgesetzbuch, allowing prosecution of war crimes committed anywhere. It has no plural."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Grundstimmung",
+    "partOfSpeech": "noun, feminine (die Grundstimmung)",
+    "pronunciation": {
+      "respelling": "GRUNT-shtim-ung",
+      "ipa": "ˈɡʁʊntˌʃtɪmʊŋ",
+      "notes": "Plural: die Grundstimmungen."
+    },
+    "meaning": "basic mood, prevailing sentiment",
+    "shortDefinition": "Basic mood, prevailing sentiment."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Grundstimmung, plural die Grundstimmungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Grundstimmung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Grundstimmungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Grundstimmung im Land ist pessimistisch.",
+      "english": "The prevailing mood in the country is pessimistic.",
+      "highlight": [
+        "Grundstimmung"
+      ]
+    },
+    {
+      "german": "Trotz allem war die Grundstimmung positiv.",
+      "english": "Despite everything, the general mood was positive.",
+      "highlight": [
+        "Grundstimmung"
+      ]
+    }
+  ],
+  "forms": [
+    "Grundstimmungen",
+    "die Grundstimmung"
+  ],
+  "memoryHook": "Grundstimmung: the Stimmung at the Grund (base).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Grundstimmung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Grundstimmung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Grundstimmung, zwei ___",
+      "answer": "Grundstimmungen",
+      "fullAnswer": "ein Grundstimmung, zwei Grundstimmungen",
+      "explanation": "The plural is Grundstimmungen.",
+      "acceptedAnswers": [
+        "Grundstimmungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Grundstimmung mean?",
+      "options": [
+        "the family",
+        "the station",
+        "basic mood"
+      ],
+      "answer": "basic mood",
+      "explanation": "Grundstimmung: basic mood, prevailing sentiment.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Stimmung is…",
+      "options": [
+        "mood; atmosphere; tuning",
+        "a voice"
+      ],
+      "answer": "mood; atmosphere; tuning",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Grund- here means…",
+      "options": [
+        "basic, underlying",
+        "ground floor"
+      ],
+      "answer": "basic, underlying",
+      "explanation": "Prefix.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Atmosphäre, der Tenor",
+        "der Ausreißer"
+      ],
+      "answer": "die Atmosphäre, der Tenor",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Grundstimmung is the basic or prevailing mood: die Grundstimmung in der Bevölkerung, an der Börse, in einem Film. Die Stimmung means mood or atmosphere, and also the tuning of an instrument; Stimmung machen means to liven things up or stir up feeling. The prefix Grund- means basic: Grundgesetz, Grundkenntnisse. Plural: die Grundstimmungen."
+}

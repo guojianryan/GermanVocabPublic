@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "abreisen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AP-rai-zen",
+      "ipa": "ˈapˌʁaɪ̯zn̩",
+      "notes": ""
+    },
+    "meaning": "to depart, leave (on a journey)",
+    "shortDefinition": "To depart, leave (on a journey)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "reis|e … |ab"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "reis|t … |ab"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "reis|t … |ab"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "reis|en … |ab"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "reis|t … |ab"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "reis|en … |ab"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist abgereist"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir reisen morgen früh ab.",
+      "english": "We're leaving early tomorrow morning.",
+      "highlight": [
+        "reisen",
+        "ab."
+      ]
+    },
+    {
+      "german": "Die Gäste sind bereits abgereist.",
+      "english": "The guests have already left.",
+      "highlight": [
+        "abgereist."
+      ]
+    }
+  ],
+  "forms": [
+    "reise ab",
+    "reist ab",
+    "reisen ab",
+    "abgereist",
+    "reiste ab",
+    "Abreise"
+  ],
+  "memoryHook": "Abreisen: travel (reisen) away (ab), the end of a hotel stay.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ab (abreisen)",
+      "answer": "reist",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: reist … ab.",
+      "acceptedAnswers": [
+        "reist"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (abreisen, past)",
+      "answer": "abgereist",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin abgereist.",
+      "acceptedAnswers": [
+        "abgereist"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does abreisen mean?",
+      "options": [
+        "to depart",
+        "the evening",
+        "the key"
+      ],
+      "answer": "to depart",
+      "explanation": "abreisen: to depart, leave (on a journey).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite:",
+      "options": [
+        "anreisen",
+        "verreisen"
+      ],
+      "answer": "anreisen",
+      "explanation": "Arrive.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Abreise is…",
+      "options": [
+        "departure",
+        "the journey"
+      ],
+      "answer": "departure",
+      "explanation": "Departure.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Perfect with…",
+      "options": [
+        "sein",
+        "haben"
+      ],
+      "answer": "sein",
+      "explanation": "ist abgereist.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Abreisen means to depart at the end of a stay: Wann reisen Sie ab? (when are you leaving?), a standard hotel question. Die Abreise is departure: am Abreisetag (on the day of departure), usually with check-out by 10 or 11 a.m. The opposite is anreisen (to arrive) and die Anreise. Verreisen means to go away on a trip: Wir verreisen im Sommer. Separable, with sein: ist abgereist."
+}

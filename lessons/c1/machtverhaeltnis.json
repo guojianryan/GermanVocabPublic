@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Machtverhältnis",
+    "partOfSpeech": "noun, neuter (das Machtverhältnis)",
+    "pronunciation": {
+      "respelling": "MAKHT-fer-helt-nis",
+      "ipa": "ˈmaxtfɛɐ̯ˌhɛltnɪs",
+      "notes": "Plural: die Machtverhältnisse."
+    },
+    "meaning": "balance of power, power relations",
+    "shortDefinition": "Balance of power, power relations."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Machtverhältnis, plural die Machtverhältnisse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Machtverhältnis"
+        },
+        {
+          "label": "More than one",
+          "value": "die Machtverhältnisse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Wahl veränderte die Machtverhältnisse im Parlament.",
+      "english": "The election changed the balance of power in parliament.",
+      "highlight": [
+        "Machtverhältnisse"
+      ]
+    },
+    {
+      "german": "Ungleiche Machtverhältnisse erschweren Verhandlungen.",
+      "english": "Unequal power relations make negotiations difficult.",
+      "highlight": [
+        "Machtverhältnisse"
+      ]
+    }
+  ],
+  "forms": [
+    "Machtverhältnisse",
+    "das Machtverhältnis"
+  ],
+  "memoryHook": "Machtverhältnis: the Verhältnis (ratio) of Macht (power).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Machtverhältnis",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Machtverhältnis is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Machtverhältnis, zwei ___",
+      "answer": "Machtverhältnisse",
+      "fullAnswer": "ein Machtverhältnis, zwei Machtverhältnisse",
+      "explanation": "The plural is Machtverhältnisse.",
+      "acceptedAnswers": [
+        "Machtverhaeltnisse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Machtverhältnis mean?",
+      "options": [
+        "to travel",
+        "hot",
+        "balance of power"
+      ],
+      "answer": "balance of power",
+      "explanation": "Machtverhältnis: balance of power, power relations.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Usually used in…",
+      "options": [
+        "the plural",
+        "the singular"
+      ],
+      "answer": "the plural",
+      "explanation": "Plural.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Verhältnis is…",
+      "options": [
+        "relationship, ratio, proportion",
+        "behaviour"
+      ],
+      "answer": "relationship, ratio, proportion",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Machtgefüge is…",
+      "options": [
+        "power structure",
+        "a machine"
+      ],
+      "answer": "power structure",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Machtverhältnis, usually plural Machtverhältnisse, is the balance of power or power relations: die Machtverhältnisse im Bundestag, in der Familie, in der Welt. Elections, coalitions and wars shift them. Das Verhältnis means relationship or ratio: im Verhältnis zu (in relation to). Similar: das Kräfteverhältnis, das Machtgefüge. Plural: die Machtverhältnisse."
+}

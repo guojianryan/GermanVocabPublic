@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Abhang",
+    "partOfSpeech": "noun, masculine (der Abhang)",
+    "pronunciation": {
+      "respelling": "AP-hang",
+      "ipa": "ˈapˌhaŋ",
+      "notes": "Plural: die Abhänge."
+    },
+    "meaning": "slope, hillside",
+    "shortDefinition": "Slope, hillside."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Abhang, plural die Abhänge.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Abhang"
+        },
+        {
+          "label": "More than one",
+          "value": "die Abhänge"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Auto rutschte den Abhang hinunter.",
+      "english": "The car slid down the slope.",
+      "highlight": [
+        "Abhang"
+      ]
+    },
+    {
+      "german": "Am steilen Abhang wachsen Weinreben.",
+      "english": "Vines grow on the steep slope.",
+      "highlight": [
+        "Abhang"
+      ]
+    }
+  ],
+  "forms": [
+    "Abhänge",
+    "der Abhang"
+  ],
+  "memoryHook": "Abhang: ground that hängt (hangs) downwards (ab).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Abhang",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Abhang is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Abhang, zwei ___",
+      "answer": "Abhänge",
+      "fullAnswer": "ein Abhang, zwei Abhänge",
+      "explanation": "The plural is Abhänge.",
+      "acceptedAnswers": [
+        "Abhaenge"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Abhang mean?",
+      "options": [
+        "the weather",
+        "slope",
+        "never"
+      ],
+      "answer": "slope",
+      "explanation": "Abhang: slope, hillside.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Hang, die Böschung",
+        "das Tal"
+      ],
+      "answer": "der Hang, die Böschung",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Abhängen (colloquial) means…",
+      "options": [
+        "to hang out, chill; to shake off",
+        "to depend"
+      ],
+      "answer": "to hang out, chill; to shake off",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Abhängig means…",
+      "options": [
+        "dependent",
+        "sloping"
+      ],
+      "answer": "dependent",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Abhang is a slope or hillside, usually steep: ein steiler Abhang, den Abhang hinunterrutschen. Der Hang is a broader synonym (Weinhang, Skihang). The same root gives abhängen (to hang out, chill, or to leave someone behind) and abhängig (dependent). Steep vineyard slopes on the Moselle are among the steepest in Europe. Plural: die Abhänge."
+}

@@ -1,0 +1,168 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "zusprechen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "TSOO-shpre-khen",
+      "ipa": "ˈt͡suːˌʃpʁɛçn̩",
+      "notes": ""
+    },
+    "meaning": "to award (by court); to give (comfort)",
+    "shortDefinition": "To award (by court); to give (comfort)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "sprech|e … |zu"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "sprich|st … |zu"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "sprich|t … |zu"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "sprech|en … |zu"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "sprech|t … |zu"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "sprech|en … |zu"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat zugesprochen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Gericht sprach der Mutter das Sorgerecht zu.",
+      "english": "The court awarded custody to the mother.",
+      "highlight": [
+        "sprach",
+        "zu."
+      ]
+    },
+    {
+      "german": "Sie sprach ihm Mut zu.",
+      "english": "She gave him encouragement.",
+      "highlight": [
+        "sprach",
+        "zu."
+      ]
+    }
+  ],
+  "forms": [
+    "spreche zu",
+    "sprichst zu",
+    "spricht zu",
+    "sprechen zu",
+    "sprecht zu",
+    "zugesprochen",
+    "sprach zu",
+    "Zuspruch"
+  ],
+  "memoryHook": "Zusprechen: speak (sprechen) something to (zu) someone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … zu (zusprechen)",
+      "answer": "spricht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: spricht … zu.",
+      "acceptedAnswers": [
+        "spricht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (zusprechen, past)",
+      "answer": "zugesprochen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe zugesprochen.",
+      "acceptedAnswers": [
+        "zugesprochen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does zusprechen mean?",
+      "options": [
+        "to travel",
+        "to award (by court)",
+        "the flower"
+      ],
+      "answer": "to award (by court)",
+      "explanation": "zusprechen: to award (by court); to give (comfort).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandem Mut zusprechen means…",
+      "options": [
+        "to encourage someone",
+        "to speak to someone bravely"
+      ],
+      "answer": "to encourage someone",
+      "explanation": "Encourage.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In court, zusprechen means…",
+      "options": [
+        "to award",
+        "to sentence"
+      ],
+      "answer": "to award",
+      "explanation": "Award.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Zuspruch is…",
+      "options": [
+        "encouragement; popularity",
+        "a verdict"
+      ],
+      "answer": "encouragement; popularity",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Zusprechen means to award, especially by a court or jury: jemandem Schadenersatz, das Sorgerecht, einen Preis zusprechen. It also means to give comfort or encouragement: jemandem Trost, Mut zusprechen. Dem Essen kräftig zusprechen means to tuck in. Der Zuspruch is encouragement and also popularity: großen Zuspruch finden (to be very popular). Separable: sprach zu, zugesprochen."
+}

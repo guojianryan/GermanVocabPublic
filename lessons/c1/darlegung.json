@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Darlegung",
+    "partOfSpeech": "noun, feminine (die Darlegung)",
+    "pronunciation": {
+      "respelling": "DAAR-lay-gung",
+      "ipa": "ˈdaːɐ̯ˌleːɡʊŋ",
+      "notes": "Plural: die Darlegungen."
+    },
+    "meaning": "explanation, exposition",
+    "shortDefinition": "Explanation, exposition."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Darlegung, plural die Darlegungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Darlegung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Darlegungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nach seiner Darlegung der Fakten war alles klar.",
+      "english": "After his account of the facts everything was clear.",
+      "highlight": [
+        "Darlegung"
+      ]
+    },
+    {
+      "german": "Die Darlegung der Gründe überzeugte das Gericht.",
+      "english": "The explanation of the reasons convinced the court.",
+      "highlight": [
+        "Darlegung"
+      ]
+    }
+  ],
+  "forms": [
+    "Darlegungen",
+    "die Darlegung"
+  ],
+  "memoryHook": "Darlegung: laying (legen) something out there (dar).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Darlegung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Darlegung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Darlegung, zwei ___",
+      "answer": "Darlegungen",
+      "fullAnswer": "ein Darlegung, zwei Darlegungen",
+      "explanation": "The plural is Darlegungen.",
+      "acceptedAnswers": [
+        "Darlegungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Darlegung mean?",
+      "options": [
+        "explanation",
+        "the key",
+        "the street"
+      ],
+      "answer": "explanation",
+      "explanation": "Darlegung: explanation, exposition.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Darlegen means…",
+      "options": [
+        "to explain, set out",
+        "to lay down"
+      ],
+      "answer": "to explain, set out",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal",
+        "colloquial"
+      ],
+      "answer": "formal",
+      "explanation": "Register.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Erläuterung, die Ausführung",
+        "die Frage"
+      ],
+      "answer": "die Erläuterung, die Ausführung",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Darlegung is an explanation or exposition: eine klare Darlegung der Fakten, der Gründe, eines Standpunkts. Darlegen means to set out or explain, typical of legal and academic texts: Bitte legen Sie Ihre Gründe dar. In civil procedure, die Darlegungslast is the burden of presenting facts. Synonyms: die Erläuterung, die Ausführung. Plural: die Darlegungen."
+}

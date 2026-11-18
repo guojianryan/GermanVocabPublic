@@ -1,0 +1,143 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Psychiatrie",
+    "partOfSpeech": "noun, feminine (die Psychiatrie)",
+    "pronunciation": {
+      "respelling": "psü-khya-TREE",
+      "ipa": "psyçi̯aˈtʁiː",
+      "notes": "Plural: die Psychiatrien."
+    },
+    "meaning": "psychiatry; psychiatric hospital",
+    "shortDefinition": "Psychiatry; psychiatric hospital."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Psychiatrie, plural die Psychiatrien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Psychiatrie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Psychiatrien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er arbeitet als Arzt in der Psychiatrie.",
+      "english": "He works as a doctor in the psychiatric ward.",
+      "highlight": [
+        "Psychiatrie."
+      ]
+    },
+    {
+      "german": "Die Psychiatrie hat sich stark verändert.",
+      "english": "Psychiatry has changed a lot.",
+      "highlight": [
+        "Psychiatrie"
+      ]
+    }
+  ],
+  "forms": [
+    "Psychiatrien",
+    "die Psychiatrien",
+    "die Psychiatrie",
+    "Psychiater",
+    "Psychiaterin",
+    "psychiatrisch"
+  ],
+  "memoryHook": "Psychiatrie: the doctor's side of the mind.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Psychiatrie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Psychiatrie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Psychiatrie, zwei ___",
+      "answer": "Psychiatrien",
+      "fullAnswer": "ein Psychiatrie, zwei Psychiatrien",
+      "explanation": "The plural is Psychiatrien.",
+      "acceptedAnswers": [
+        "Psychiatrien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Psychiatrie mean?",
+      "options": [
+        "to travel",
+        "the flower",
+        "psychiatry"
+      ],
+      "answer": "psychiatry",
+      "explanation": "Psychiatrie: psychiatry; psychiatric hospital.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In der Psychiatrie liegen means…",
+      "options": [
+        "to be a patient in a psychiatric hospital",
+        "to study psychology"
+      ],
+      "answer": "to be a patient in a psychiatric hospital",
+      "explanation": "Place.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Psychiater is…",
+      "options": [
+        "a psychiatrist (medical doctor)",
+        "a psychologist (not a doctor)"
+      ],
+      "answer": "a psychiatrist (medical doctor)",
+      "explanation": "Arzt.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Psychiatrien",
+        "Psychiatriens"
+      ],
+      "answer": "Psychiatrien",
+      "explanation": "-n.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Psychologie is…",
+      "options": [
+        "the study of the mind (not medical)",
+        "the same as Psychiatrie"
+      ],
+      "answer": "the study of the mind (not medical)",
+      "explanation": "Related but different.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Die Psychiatrie is both the medical field and the place: in der Psychiatrie sein means being a patient in a psychiatric clinic. Der Psychiater (die Psychiaterin) is a medical doctor with a specialisation, while der Psychologe has studied psychology and is not necessarily a doctor. The word looks like psychology, so be careful. The ps- start is pronounced both letters: p-s."
+}

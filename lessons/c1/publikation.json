@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Publikation",
+    "partOfSpeech": "noun, feminine (die Publikation)",
+    "pronunciation": {
+      "respelling": "poo-bli-ka-TSYOHN",
+      "ipa": "publiːkaˈt͡si̯oːn",
+      "notes": "Plural: die Publikationen."
+    },
+    "meaning": "publication",
+    "shortDefinition": "Publication."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Publikation, plural die Publikationen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Publikation"
+        },
+        {
+          "label": "More than one",
+          "value": "die Publikationen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Seine neueste Publikation erscheint im Herbst.",
+      "english": "His latest publication comes out in autumn.",
+      "highlight": [
+        "Publikation"
+      ]
+    },
+    {
+      "german": "Die Publikationen der Universität sind online verfügbar.",
+      "english": "The university's publications are available online.",
+      "highlight": [
+        "Publikationen"
+      ]
+    }
+  ],
+  "forms": [
+    "Publikationen",
+    "die Publikationen",
+    "die Publikation",
+    "publizieren"
+  ],
+  "memoryHook": "Publikation: what you make public.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Publikation",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Publikation is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Publikation, zwei ___",
+      "answer": "Publikationen",
+      "fullAnswer": "ein Publikation, zwei Publikationen",
+      "explanation": "The plural is Publikationen.",
+      "acceptedAnswers": [
+        "Publikationen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Publikation mean?",
+      "options": [
+        "to help",
+        "publication",
+        "the bill"
+      ],
+      "answer": "publication",
+      "explanation": "Publikation: publication.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Publikationen",
+        "Publikationes"
+      ],
+      "answer": "Publikationen",
+      "explanation": "-en.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Publikation is typically…",
+      "options": [
+        "academic or official",
+        "a newspaper kiosk"
+      ],
+      "answer": "academic or official",
+      "explanation": "Formal register.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Verlag is…",
+      "options": [
+        "a publishing house",
+        "a lawyer"
+      ],
+      "answer": "a publishing house",
+      "explanation": "Publishing.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Publikum means…",
+      "options": [
+        "the audience",
+        "the publication"
+      ],
+      "answer": "the audience",
+      "explanation": "A different word.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Die Publikation is a formal word for any published work: a book, an article, a report. In scientific contexts you'll hear Publikationsliste (list of publications) and wissenschaftliche Publikation. Das Publikum, by contrast, is the audience, the public. In everyday speech, people say Veröffentlichung or simply Buch and Artikel. Both words come from Latin publicare, to make public."
+}

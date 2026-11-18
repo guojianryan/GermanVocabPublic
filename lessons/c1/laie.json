@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Laie",
+    "partOfSpeech": "noun, masculine (der Laie)",
+    "pronunciation": {
+      "respelling": "LAI-e",
+      "ipa": "ˈlaɪ̯ə",
+      "notes": "Plural: die Laien."
+    },
+    "meaning": "layperson, amateur",
+    "shortDefinition": "Layperson, amateur."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Laie, plural die Laien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Laie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Laien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Als Laie verstehe ich das nicht.",
+      "english": "As a layperson, I don't understand that.",
+      "highlight": [
+        "Laie"
+      ]
+    },
+    {
+      "german": "Das Buch ist auch für Laien verständlich.",
+      "english": "The book is understandable for non-experts too.",
+      "highlight": [
+        "Laien"
+      ]
+    }
+  ],
+  "forms": [
+    "Laien",
+    "die Laien",
+    "der Laie",
+    "laienhaft"
+  ],
+  "memoryHook": "Laie: not an expert, but often amazed.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Laie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Laie is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Laie, zwei ___",
+      "answer": "Laien",
+      "fullAnswer": "ein Laie, zwei Laien",
+      "explanation": "The plural is Laien.",
+      "acceptedAnswers": [
+        "Laien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Laie mean?",
+      "options": [
+        "quiet",
+        "layperson",
+        "never"
+      ],
+      "answer": "layperson",
+      "explanation": "Laie: layperson, amateur.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Weak noun, accusative:",
+      "options": [
+        "den Laien",
+        "den Laie"
+      ],
+      "answer": "den Laien",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Laienhaft means…",
+      "options": [
+        "amateurish",
+        "lazy"
+      ],
+      "answer": "amateurish",
+      "explanation": "laienhaft.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Da staunt der Laie means…",
+      "options": [
+        "the layman is amazed (impressive!)",
+        "the expert is bored"
+      ],
+      "answer": "the layman is amazed (impressive!)",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Laie is a layperson or non-expert: Für den Laien ist das schwer zu verstehen. It's a weak noun: den Laien, des Laien. There's no feminine form in common use; people say ein Laie for anyone. Das Laientheater is amateur dramatics. The idiom Da staunt der Laie, und der Fachmann wundert sich means that's amazing to everyone, expert or not. In church, Laien are members who aren't clergy. From Greek laos (people)."
+}

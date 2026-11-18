@@ -1,0 +1,168 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "abfallen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AP-fa-len",
+      "ipa": "ˈapˌfalən",
+      "notes": ""
+    },
+    "meaning": "to fall off; to drop, decline; to slope",
+    "shortDefinition": "To fall off; to drop, decline; to slope."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "fall|e … |ab"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "fäll|st … |ab"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "fäll|t … |ab"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "fall|en … |ab"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "fall|t … |ab"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "fall|en … |ab"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist abgefallen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Herbst fallen die Blätter ab.",
+      "english": "In autumn the leaves fall off.",
+      "highlight": [
+        "fallen",
+        "ab."
+      ]
+    },
+    {
+      "german": "Die Leistung fiel in der zweiten Halbzeit stark ab.",
+      "english": "Performance dropped sharply in the second half.",
+      "highlight": [
+        "fiel",
+        "ab."
+      ]
+    }
+  ],
+  "forms": [
+    "falle ab",
+    "fällst ab",
+    "fällt ab",
+    "fallen ab",
+    "fallt ab",
+    "abgefallen",
+    "fiel ab",
+    "Abfall"
+  ],
+  "memoryHook": "Abfallen: fallen (fall) off (ab).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ab (abfallen)",
+      "answer": "fällt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: fällt … ab.",
+      "acceptedAnswers": [
+        "faellt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (abfallen, past)",
+      "answer": "abgefallen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin abgefallen.",
+      "acceptedAnswers": [
+        "abgefallen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does abfallen mean?",
+      "options": [
+        "to fall off",
+        "the bread",
+        "quiet"
+      ],
+      "answer": "to fall off",
+      "explanation": "abfallen: to fall off; to drop, decline; to slope.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Abfall is…",
+      "options": [
+        "waste, rubbish; decline",
+        "a waterfall"
+      ],
+      "answer": "waste, rubbish; decline",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Für jemanden abfallen means…",
+      "options": [
+        "to be left over for someone (as a share)",
+        "to fail someone"
+      ],
+      "answer": "to be left over for someone (as a share)",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Auxiliary:",
+      "options": [
+        "sein",
+        "haben"
+      ],
+      "answer": "sein",
+      "explanation": "Movement.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Abfallen means to fall off (Blätter, Farbe fallen ab), to drop or decline in quality (Die zweite Hälfte fällt stark ab), and to slope down: Das Gelände fällt zum Fluss ab. Was fällt für mich ab? means what's in it for me? Der Abfall is waste, and abtrünnig, from vom Glauben abfallen, means apostate. Separable with sein: fiel ab, ist abgefallen."
+}

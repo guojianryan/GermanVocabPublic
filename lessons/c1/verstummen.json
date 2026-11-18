@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verstummen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-SHTU-men",
+      "ipa": "fɛɐ̯ˈʃtʊmən",
+      "notes": ""
+    },
+    "meaning": "to fall silent, die away",
+    "shortDefinition": "To fall silent, die away."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verstumm|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verstumm|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verstumm|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verstumm|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verstumm|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verstumm|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist verstummt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Plötzlich verstummten alle Gespräche.",
+      "english": "Suddenly all conversation stopped.",
+      "highlight": [
+        "verstummten"
+      ]
+    },
+    {
+      "german": "Die Kritik ist nicht verstummt.",
+      "english": "The criticism hasn't died down.",
+      "highlight": [
+        "verstummt."
+      ]
+    }
+  ],
+  "forms": [
+    "verstumme",
+    "verstummst",
+    "verstummt",
+    "verstummen",
+    "verstummte"
+  ],
+  "memoryHook": "Verstummen: become stumm (silent).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verstummen)",
+      "answer": "verstummt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verstummt.",
+      "acceptedAnswers": [
+        "verstummt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (verstummen, past)",
+      "answer": "verstummt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin verstummt.",
+      "acceptedAnswers": [
+        "verstummt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verstummen mean?",
+      "options": [
+        "to fall silent",
+        "to sleep",
+        "to wait"
+      ],
+      "answer": "to fall silent",
+      "explanation": "verstummen: to fall silent, die away.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stumm means…",
+      "options": [
+        "mute, silent",
+        "stupid"
+      ],
+      "answer": "mute, silent",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Auxiliary:",
+      "options": [
+        "sein",
+        "haben"
+      ],
+      "answer": "sein",
+      "explanation": "Change of state.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Stummfilm is…",
+      "options": [
+        "silent film",
+        "a stormy film"
+      ],
+      "answer": "silent film",
+      "explanation": "Compound.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verstummen means to fall silent or die away: Die Musik verstummte, Die Gerüchte verstummen nicht (rumours persist). It takes sein. From stumm (mute, silent), as in der Stummfilm (silent film) and stummschalten (to mute a phone or a call). Regular: verstummte, ist verstummt."
+}

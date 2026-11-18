@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schaffner",
+    "partOfSpeech": "noun, masculine (der Schaffner)",
+    "pronunciation": {
+      "respelling": "SHAF-ner",
+      "ipa": "ˈʃafnɐ",
+      "notes": "Plural: die Schaffner."
+    },
+    "meaning": "conductor (train, tram)",
+    "shortDefinition": "Conductor (train, tram)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schaffner, plural die Schaffner.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schaffner"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schaffner"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Schaffner kontrolliert die Fahrkarten.",
+      "english": "The conductor checks the tickets.",
+      "highlight": [
+        "Schaffner"
+      ]
+    },
+    {
+      "german": "Bei der Bahn heißen die Schaffner heute Zugbegleiter.",
+      "english": "On the railway, conductors are now called train attendants.",
+      "highlight": [
+        "Schaffner"
+      ]
+    }
+  ],
+  "forms": [
+    "Schaffnerin",
+    "der Schaffner"
+  ],
+  "memoryHook": "Schaffner: someone who schafft (works) on the train.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schaffner",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schaffner is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schaffner, zwei ___",
+      "answer": "Schaffner",
+      "fullAnswer": "ein Schaffner, zwei Schaffner",
+      "explanation": "The plural is Schaffner.",
+      "acceptedAnswers": [
+        "Schaffner"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schaffner mean?",
+      "options": [
+        "the window",
+        "conductor (train",
+        "the job"
+      ],
+      "answer": "conductor (train",
+      "explanation": "Schaffner: conductor (train, tram).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Today's official DB term:",
+      "options": [
+        "der Zugbegleiter",
+        "der Lokführer"
+      ],
+      "answer": "der Zugbegleiter",
+      "explanation": "Official.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kontrolleur is…",
+      "options": [
+        "ticket inspector",
+        "controller"
+      ],
+      "answer": "ticket inspector",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schwarzfahren means…",
+      "options": [
+        "riding without a ticket",
+        "driving at night"
+      ],
+      "answer": "riding without a ticket",
+      "explanation": "Fare dodging.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Schaffner (die Schaffnerin) is a train or tram conductor who checks tickets. Deutsche Bahn's official term today is der Zugbegleiter, but everyone still says Schaffner. In city transport, plain-clothes Kontrolleure check tickets, and riding without one (schwarzfahren) costs a fine, the erhöhtes Beförderungsentgelt, usually 60 euros. The plural is the same: die Schaffner."
+}

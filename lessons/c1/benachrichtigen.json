@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "benachrichtigen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-NAAKH-rikh-ti-gen",
+      "ipa": "bəˈnaːxʁɪçtɪɡn̩",
+      "notes": ""
+    },
+    "meaning": "to notify, inform",
+    "shortDefinition": "To notify, inform."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "benachrichtig|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "benachrichtig|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "benachrichtig|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "benachrichtig|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "benachrichtig|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "benachrichtig|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat benachrichtigt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bitte benachrichtigen Sie uns bei Änderungen.",
+      "english": "Please notify us of any changes.",
+      "highlight": [
+        "benachrichtigen"
+      ]
+    },
+    {
+      "german": "Die Angehörigen wurden benachrichtigt.",
+      "english": "The relatives were informed.",
+      "highlight": [
+        "benachrichtigt."
+      ]
+    }
+  ],
+  "forms": [
+    "benachrichtige",
+    "benachrichtigst",
+    "benachrichtigt",
+    "benachrichtigen",
+    "Benachrichtigung"
+  ],
+  "memoryHook": "Benachrichtigen: send someone a Nachricht (message).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (benachrichtigen)",
+      "answer": "benachrichtigt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: benachrichtigt.",
+      "acceptedAnswers": [
+        "benachrichtigt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (benachrichtigen, past)",
+      "answer": "benachrichtigt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe benachrichtigt.",
+      "acceptedAnswers": [
+        "benachrichtigt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does benachrichtigen mean?",
+      "options": [
+        "to sing",
+        "the shop",
+        "to notify"
+      ],
+      "answer": "to notify",
+      "explanation": "benachrichtigen: to notify, inform.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Benachrichtigung is…",
+      "options": [
+        "notification",
+        "a news broadcast"
+      ],
+      "answer": "notification",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Nachricht is…",
+      "options": [
+        "message, news",
+        "night"
+      ],
+      "answer": "message, news",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Simpler synonym:",
+      "options": [
+        "informieren, Bescheid geben",
+        "fragen"
+      ],
+      "answer": "informieren, Bescheid geben",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Benachrichtigen means to notify or inform, a formal word: die Polizei benachrichtigen, jemanden von etwas benachrichtigen. Die Benachrichtigung is a notification, including on phones: Push-Benachrichtigungen. Everyday alternatives: Bescheid geben or Bescheid sagen. From die Nachricht (message). Not separable: hat benachrichtigt."
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "schmälern",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHMAY-lern",
+      "ipa": "ˈʃmɛːlɐn",
+      "notes": ""
+    },
+    "meaning": "to diminish, belittle, reduce",
+    "shortDefinition": "To diminish, belittle, reduce."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schmäler|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schmäler|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schmäler|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schmäler|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schmäler|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schmäler|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geschmälert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das schmälert seinen Verdienst nicht.",
+      "english": "That doesn't diminish his achievement.",
+      "highlight": [
+        "schmälert"
+      ]
+    },
+    {
+      "german": "Hohe Kosten schmälern den Gewinn.",
+      "english": "High costs reduce the profit.",
+      "highlight": [
+        "schmälern"
+      ]
+    }
+  ],
+  "forms": [
+    "schmälere",
+    "schmälerst",
+    "schmälert",
+    "schmälern",
+    "geschmälert",
+    "schmälerte"
+  ],
+  "memoryHook": "Schmälern: make schmaler (narrower).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (schmälern)",
+      "answer": "schmälert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schmälert.",
+      "acceptedAnswers": [
+        "schmaelert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (schmälern, past)",
+      "answer": "geschmälert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geschmälert.",
+      "acceptedAnswers": [
+        "geschmaelert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does schmälern mean?",
+      "options": [
+        "the bill",
+        "to diminish",
+        "to sing"
+      ],
+      "answer": "to diminish",
+      "explanation": "schmälern: to diminish, belittle, reduce.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schmal means…",
+      "options": [
+        "narrow, slim",
+        "small"
+      ],
+      "answer": "narrow, slim",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandes Verdienste schmälern means…",
+      "options": [
+        "to belittle someone's achievements",
+        "to pay less"
+      ],
+      "answer": "to belittle someone's achievements",
+      "explanation": "Phrase.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "verringern, mindern, herabsetzen",
+        "vergrößern"
+      ],
+      "answer": "verringern, mindern, herabsetzen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Schmälern means to diminish or reduce: den Gewinn, die Freude schmälern, and to belittle: jemandes Verdienste schmälern. It's often negated: Das schmälert nicht ihre Leistung. It comes from schmal (narrow). Synonyms: verringern, mindern, herabsetzen. Regular: schmälerte, geschmälert; ich schmälere."
+}

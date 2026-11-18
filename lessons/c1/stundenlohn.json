@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Stundenlohn",
+    "partOfSpeech": "noun, masculine (der Stundenlohn)",
+    "pronunciation": {
+      "respelling": "SHTUN-den-lohn",
+      "ipa": "ˈʃtʊndn̩ˌloːn",
+      "notes": "Plural: die Stundenlöhne."
+    },
+    "meaning": "hourly wage",
+    "shortDefinition": "Hourly wage."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Stundenlohn, plural die Stundenlöhne.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Stundenlohn"
+        },
+        {
+          "label": "More than one",
+          "value": "die Stundenlöhne"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Mindestlohn liegt 2026 bei 13,90 Euro pro Stunde.",
+      "english": "The minimum wage in 2026 is 13.90 euros an hour.",
+      "highlight": [
+        "Mindestlohn"
+      ]
+    },
+    {
+      "german": "Sie arbeitet für einen Stundenlohn von 18 Euro.",
+      "english": "She works for an hourly wage of 18 euros.",
+      "highlight": [
+        "Stundenlohn"
+      ]
+    }
+  ],
+  "forms": [
+    "Stundenlöhne",
+    "der Stundenlohn"
+  ],
+  "memoryHook": "Stundenlohn: Lohn (wage) per Stunde (hour).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Stundenlohn",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Stundenlohn is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Stundenlohn, zwei ___",
+      "answer": "Stundenlöhne",
+      "fullAnswer": "ein Stundenlohn, zwei Stundenlöhne",
+      "explanation": "The plural is Stundenlöhne.",
+      "acceptedAnswers": [
+        "Stundenloehne"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Stundenlohn mean?",
+      "options": [
+        "hourly wage",
+        "the bill",
+        "the street"
+      ],
+      "answer": "hourly wage",
+      "explanation": "Stundenlohn: hourly wage.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Mindestlohn was introduced in Germany in…",
+      "options": [
+        "2015",
+        "1995"
+      ],
+      "answer": "2015",
+      "explanation": "History.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Brutto vs. netto:",
+      "options": [
+        "before vs. after deductions",
+        "the same"
+      ],
+      "answer": "before vs. after deductions",
+      "explanation": "Pay.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gehalt is…",
+      "options": [
+        "salary (monthly)",
+        "a hold"
+      ],
+      "answer": "salary (monthly)",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Stundenlohn is an hourly wage: ein Stundenlohn von 15 Euro brutto. Germany introduced a statutory Mindestlohn (minimum wage) in 2015 at 8.50 euros; an independent commission sets increases, and it is 13.90 euros in 2026. Der Lohn is a wage, often hourly or for manual work, while das Gehalt is a monthly salary. Brutto means before tax, netto after. Plural: die Stundenlöhne."
+}

@@ -1,0 +1,191 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "erschaffen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "er-SHA-fen",
+      "ipa": "ɛɐ̯ˈʃafn̩",
+      "notes": ""
+    },
+    "meaning": "to create",
+    "shortDefinition": "To create."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "er",
+        "meaning": "out, into being",
+        "note": "Often marks the result of an action."
+      },
+      {
+        "part": "schaffen",
+        "meaning": "to create"
+      }
+    ],
+    "literalMeaning": "to create into being"
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "erschaff|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "erschaff|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "erschaff|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "erschaff|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "erschaff|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "erschaff|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat erschaffen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Künstler erschuf eine ganz neue Welt.",
+      "english": "The artist created a completely new world.",
+      "highlight": [
+        "erschuf"
+      ]
+    },
+    {
+      "german": "Gott erschuf Himmel und Erde.",
+      "english": "God created heaven and earth.",
+      "highlight": [
+        "erschuf"
+      ]
+    }
+  ],
+  "forms": [
+    "erschaffe",
+    "erschaffst",
+    "erschafft",
+    "erschaffen",
+    "erschuf",
+    "Erschaffung",
+    "Schöpfung"
+  ],
+  "memoryHook": "Erschaffen: make something out of nothing.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (erschaffen)",
+      "answer": "erschafft",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: erschafft.",
+      "acceptedAnswers": [
+        "erschafft"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (erschaffen, past)",
+      "answer": "erschaffen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe erschaffen.",
+      "acceptedAnswers": [
+        "erschaffen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does erschaffen mean?",
+      "options": [
+        "the key",
+        "to create",
+        "quiet"
+      ],
+      "answer": "to create",
+      "explanation": "erschaffen: to create.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Preterite of erschaffen:",
+      "options": [
+        "erschuf",
+        "erschaffte"
+      ],
+      "answer": "erschuf",
+      "explanation": "Strong: erschaffen, erschuf, erschaffen.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schöpfer means…",
+      "options": [
+        "creator",
+        "scoop"
+      ],
+      "answer": "creator",
+      "explanation": "Related to schaffen/schöpfen.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Erschaffen is…",
+      "options": [
+        "more solemn than machen",
+        "casual slang"
+      ],
+      "answer": "more solemn than machen",
+      "explanation": "Elevated register.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Participle:",
+      "options": [
+        "erschaffen",
+        "geschaffen"
+      ],
+      "answer": "erschaffen",
+      "explanation": "Inseparable: no ge-.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Erschaffen is the elevated verb for create, used for gods, artists and inventors: Gott erschuf die Welt. It's strong and inseparable: erschaffen, erschuf, erschaffen. For everyday making, use machen or herstellen. The related noun is die Schöpfung (creation), and der Schöpfer is the creator. Luther's Bible begins with Am Anfang schuf Gott Himmel und Erde, using the simple verb schaffen."
+}

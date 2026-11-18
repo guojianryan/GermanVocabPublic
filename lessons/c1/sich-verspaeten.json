@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "(sich) verspäten",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-SHPAI-ten",
+      "ipa": "fɛɐ̯ˈʃpɛːtn̩",
+      "notes": ""
+    },
+    "meaning": "to be late",
+    "shortDefinition": "To be late."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verspät|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verspät|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verspät|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verspät|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verspät|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verspät|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verspätet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Entschuldigung, ich habe mich verspätet.",
+      "english": "Sorry, I'm late.",
+      "highlight": [
+        "verspätet."
+      ]
+    },
+    {
+      "german": "Der Zug hat zwanzig Minuten Verspätung.",
+      "english": "The train is twenty minutes late.",
+      "highlight": [
+        "Verspätung."
+      ]
+    }
+  ],
+  "forms": [
+    "verspäte",
+    "verspätest",
+    "verspätet",
+    "verspäten",
+    "Verspätung"
+  ],
+  "memoryHook": "Sich verspäten: arrive spät (late).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ ((sich) verspäten)",
+      "answer": "verspätet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verspätet.",
+      "acceptedAnswers": [
+        "verspaetet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe mich schon ___. ((sich) verspäten, past)",
+      "answer": "verspätet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe mich verspätet.",
+      "acceptedAnswers": [
+        "verspaetet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does (sich) verspäten mean?",
+      "options": [
+        "never",
+        "the station",
+        "to be late"
+      ],
+      "answer": "to be late",
+      "explanation": "(sich) verspäten: to be late.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Verspätung is…",
+      "options": [
+        "delay, lateness",
+        "a late shift"
+      ],
+      "answer": "delay, lateness",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich verspäten is…",
+      "options": [
+        "reflexive",
+        "never reflexive"
+      ],
+      "answer": "reflexive",
+      "explanation": "Reflexive.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verspätet (adj.) means…",
+      "options": [
+        "delayed, belated",
+        "early"
+      ],
+      "answer": "delayed, belated",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Sich verspäten means to be late: Ich verspäte mich um zehn Minuten. Die Verspätung is a delay: Der ICE hat 30 Minuten Verspätung, words every traveller on Deutsche Bahn learns quickly. Rail passengers get 25 percent of the fare back for delays of 60 minutes or more, and 50 percent from 120 minutes. Verspätet means delayed or belated. Not separable: hat sich verspätet."
+}

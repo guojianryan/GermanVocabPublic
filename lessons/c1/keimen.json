@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "keimen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "KAI-men",
+      "ipa": "ˈkaɪ̯mən",
+      "notes": ""
+    },
+    "meaning": "to germinate, sprout",
+    "shortDefinition": "To germinate, sprout."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "keim|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "keim|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "keim|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "keim|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "keim|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "keim|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gekeimt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Samen keimen nach einer Woche.",
+      "english": "The seeds germinate after a week.",
+      "highlight": [
+        "keimen"
+      ]
+    },
+    {
+      "german": "In ihr keimte Hoffnung.",
+      "english": "Hope began to stir in her.",
+      "highlight": [
+        "keimte"
+      ]
+    }
+  ],
+  "forms": [
+    "keime",
+    "keimst",
+    "keimt",
+    "keimen",
+    "gekeimt",
+    "Keim",
+    "keimfrei"
+  ],
+  "memoryHook": "Keimen: a Keim (seed) starts to grow.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (keimen)",
+      "answer": "keimt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: keimt.",
+      "acceptedAnswers": [
+        "keimt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (keimen, past)",
+      "answer": "gekeimt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gekeimt.",
+      "acceptedAnswers": [
+        "gekeimt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does keimen mean?",
+      "options": [
+        "the child",
+        "to germinate",
+        "the street"
+      ],
+      "answer": "to germinate",
+      "explanation": "keimen: to germinate, sprout.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Keim is…",
+      "options": [
+        "germ; seed, sprout",
+        "a crumb"
+      ],
+      "answer": "germ; seed, sprout",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Keimfrei means…",
+      "options": [
+        "sterile, germ-free",
+        "seedless"
+      ],
+      "answer": "sterile, germ-free",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Etwas im Keim ersticken means…",
+      "options": [
+        "to nip something in the bud",
+        "to plant something"
+      ],
+      "answer": "to nip something in the bud",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Keimen means to germinate or sprout: Kartoffeln keimen im Keller. Figuratively, feelings can keimen: Hoffnung, Misstrauen keimt auf. Der Keim is a germ (bacteria) and a seed or sprout: etwas im Keim ersticken (to nip something in the bud). Keimfrei means sterile. Sprouting potatoes contain more solanine, so the green parts should be cut off. Regular: keimte, gekeimt."
+}

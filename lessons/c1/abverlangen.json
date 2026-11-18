@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "abverlangen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AP-fer-lang-en",
+      "ipa": "ˈapfɛɐ̯ˌlaŋən",
+      "notes": ""
+    },
+    "meaning": "to demand (effort) of",
+    "shortDefinition": "To demand (effort) of."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verlang|e … |ab"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verlang|st … |ab"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verlang|t … |ab"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verlang|en … |ab"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verlang|t … |ab"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verlang|en … |ab"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat abverlangt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Job verlangt ihr viel Geduld ab.",
+      "english": "The job demands a lot of patience from her.",
+      "highlight": [
+        "verlangt",
+        "ab."
+      ]
+    },
+    {
+      "german": "Das Spiel hat den Spielern alles abverlangt.",
+      "english": "The match demanded everything of the players.",
+      "highlight": [
+        "abverlangt."
+      ]
+    }
+  ],
+  "forms": [
+    "verlange ab",
+    "verlangst ab",
+    "verlangt ab",
+    "verlangen ab",
+    "abverlangt",
+    "verlangte ab"
+  ],
+  "memoryHook": "Abverlangen: verlangen (demand) something off (ab) someone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ab (abverlangen)",
+      "answer": "verlangt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verlangt … ab.",
+      "acceptedAnswers": [
+        "verlangt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (abverlangen, past)",
+      "answer": "abverlangt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe abverlangt.",
+      "acceptedAnswers": [
+        "abverlangt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does abverlangen mean?",
+      "options": [
+        "to demand (effort) of",
+        "expensive",
+        "to sing"
+      ],
+      "answer": "to demand (effort) of",
+      "explanation": "abverlangen: to demand (effort) of.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandem etwas abverlangen takes…",
+      "options": [
+        "dative person + accusative thing",
+        "accusative person"
+      ],
+      "answer": "dative person + accusative thing",
+      "explanation": "Grammar.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verlangen means…",
+      "options": [
+        "to demand, ask for",
+        "to lengthen"
+      ],
+      "answer": "to demand, ask for",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "abfordern, fordern",
+        "schenken"
+      ],
+      "answer": "abfordern, fordern",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Abverlangen means to demand effort or sacrifice of someone, with dative person and accusative thing: jemandem viel, alles, das Äußerste abverlangen. It's common in sports reports: Der Gegner verlangte uns alles ab. Synonyms: abfordern, fordern, abringen. From verlangen (to demand). Separable: verlangte ab, abverlangt."
+}

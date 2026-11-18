@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gehäuse",
+    "partOfSpeech": "noun, neuter (das Gehäuse)",
+    "pronunciation": {
+      "respelling": "ge-HOY-ze",
+      "ipa": "ɡəˈhɔɪ̯zə",
+      "notes": "Plural: die Gehäuse."
+    },
+    "meaning": "casing, housing; shell; (apple) core",
+    "shortDefinition": "Casing, housing; shell; (apple) core."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Gehäuse, plural die Gehäuse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Gehäuse"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gehäuse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Gehäuse des Laptops ist aus Aluminium.",
+      "english": "The laptop's casing is made of aluminium.",
+      "highlight": [
+        "Gehäuse"
+      ]
+    },
+    {
+      "german": "Die Schnecke zieht sich in ihr Gehäuse zurück.",
+      "english": "The snail withdraws into its shell.",
+      "highlight": [
+        "Gehäuse"
+      ]
+    }
+  ],
+  "forms": [
+    "die Gehäuse",
+    "das Gehäuse",
+    "Kerngehäuse",
+    "Schneckengehäuse"
+  ],
+  "memoryHook": "Gehäuse: a little Haus for machines, snails and apple seeds.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gehäuse",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Gehäuse is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gehäuse, zwei ___",
+      "answer": "Gehäuse",
+      "fullAnswer": "ein Gehäuse, zwei Gehäuse",
+      "explanation": "The plural is Gehäuse.",
+      "acceptedAnswers": [
+        "Gehaeuse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gehäuse mean?",
+      "options": [
+        "never",
+        "the bed",
+        "casing"
+      ],
+      "answer": "casing",
+      "explanation": "Gehäuse: casing, housing; shell; (apple) core.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Kerngehäuse is…",
+      "options": [
+        "the core of an apple",
+        "a nuclear reactor"
+      ],
+      "answer": "the core of an apple",
+      "explanation": "Apple core.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Related to…",
+      "options": [
+        "das Haus",
+        "heißen"
+      ],
+      "answer": "das Haus",
+      "explanation": "A little house.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Gehäuse",
+        "die Gehäusen"
+      ],
+      "answer": "die Gehäuse",
+      "explanation": "Unchanged.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Gehäuse is a casing or housing: das Uhrgehäuse, das Handygehäuse, das Computergehäuse (the tower case). It's also a snail's shell, das Schneckengehäuse, and the core of an apple or pear, das Kerngehäuse. All the meanings share the idea of a protective little house, since Gehäuse comes from das Haus with the collective prefix ge-. The plural is the same: die Gehäuse."
+}

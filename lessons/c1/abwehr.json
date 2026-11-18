@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Abwehr",
+    "partOfSpeech": "noun, feminine (die Abwehr)",
+    "pronunciation": {
+      "respelling": "AP-vair",
+      "ipa": "ˈapveːɐ̯",
+      "notes": "Usually no plural."
+    },
+    "meaning": "defence; resistance",
+    "shortDefinition": "Defence; resistance."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Abwehr, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Abwehr"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Abwehr hat heute gut gespielt.",
+      "english": "The defence played well today.",
+      "highlight": [
+        "Abwehr"
+      ]
+    },
+    {
+      "german": "Vitamin C stärkt die Abwehr.",
+      "english": "Vitamin C strengthens the immune system.",
+      "highlight": [
+        "Abwehr."
+      ]
+    }
+  ],
+  "forms": [
+    "die Abwehr",
+    "abwehren",
+    "Abwehrkräfte"
+  ],
+  "memoryHook": "Abwehr: wehren against what comes ab.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Abwehr",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Abwehr is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Abwehr mean?",
+      "options": [
+        "the key",
+        "quiet",
+        "defence"
+      ],
+      "answer": "defence",
+      "explanation": "Abwehr: defence; resistance.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Abwehren means…",
+      "options": [
+        "to fend off",
+        "to wait"
+      ],
+      "answer": "to fend off",
+      "explanation": "abwehren.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Abwehrkräfte are…",
+      "options": [
+        "the body's defences",
+        "the police"
+      ],
+      "answer": "the body's defences",
+      "explanation": "Immune defences.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In football, die Abwehr is…",
+      "options": [
+        "the defence",
+        "the attack"
+      ],
+      "answer": "the defence",
+      "explanation": "Defence.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Abwehr is defence or resistance. In football, it's the defensive line: Die Abwehr steht gut. In medicine, die Abwehrkräfte or die körpereigene Abwehr are the body's defences: Ingwer stärkt die Abwehr. In history, die Abwehr was the German military intelligence service until 1944. Abwehren means to fend off or ward off: einen Angriff abwehren. It's related to sich wehren (to defend oneself)."
+}

@@ -1,0 +1,100 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "geltend",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "GEL-tent",
+      "ipa": "ˈɡɛltn̩t",
+      "notes": ""
+    },
+    "meaning": "valid, applicable, current",
+    "shortDefinition": "Valid, applicable, current."
+  },
+  "sampleSentences": [
+    {
+      "german": "Nach geltendem Recht ist das verboten.",
+      "english": "Under current law, that's forbidden.",
+      "highlight": [
+        "geltendem"
+      ]
+    },
+    {
+      "german": "Er machte seine Ansprüche geltend.",
+      "english": "He asserted his claims.",
+      "highlight": [
+        "geltend."
+      ]
+    }
+  ],
+  "forms": [
+    "geltende",
+    "geltenden",
+    "geltendem",
+    "gelten",
+    "geltend machen"
+  ],
+  "memoryHook": "Geltend: what currently gilt (is valid).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does geltend mean?",
+      "options": [
+        "valid",
+        "the window",
+        "to sleep"
+      ],
+      "answer": "valid",
+      "explanation": "geltend: valid, applicable, current.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Etwas geltend machen means…",
+      "options": [
+        "to assert, claim something",
+        "to make something cheap"
+      ],
+      "answer": "to assert, claim something",
+      "explanation": "Assert.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "From…",
+      "options": [
+        "gelten (to be valid)",
+        "das Geld"
+      ],
+      "answer": "gelten (to be valid)",
+      "explanation": "gelten.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Geltung is…",
+      "options": [
+        "validity, prestige",
+        "money"
+      ],
+      "answer": "validity, prestige",
+      "explanation": "Geltung.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "nach ___ Recht (current)",
+      "answer": "geltendem",
+      "fullAnswer": "nach geltendem Recht",
+      "explanation": "Dative ending -em.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Geltend means valid, applicable or current: das geltende Recht (the law in force), die geltenden Regeln. It's the present participle of gelten (to be valid, to count). The key phrase is etwas geltend machen: to assert or claim something, as in Ansprüche geltend machen, Kosten steuerlich geltend machen (to claim costs for tax), a phrase on every German tax form. Sich geltend machen means to make itself felt."
+}

@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ungewollt",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "UN-ge-volt",
+      "ipa": "ˈʊnɡəˌvɔlt",
+      "notes": ""
+    },
+    "meaning": "unwanted, unintentional",
+    "shortDefinition": "Unwanted, unintentional."
+  },
+  "sampleSentences": [
+    {
+      "german": "Sie wurde ungewollt schwanger.",
+      "english": "She got pregnant unintentionally.",
+      "highlight": [
+        "ungewollt"
+      ]
+    },
+    {
+      "german": "Das war eine ungewollte Nebenwirkung.",
+      "english": "That was an unintended side effect.",
+      "highlight": [
+        "ungewollte"
+      ]
+    }
+  ],
+  "forms": [
+    "ungewollte",
+    "ungewollten"
+  ],
+  "memoryHook": "Ungewollt: not (un) gewollt (wanted, intended).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does ungewollt mean?",
+      "options": [
+        "never",
+        "unwanted",
+        "the key"
+      ],
+      "answer": "unwanted",
+      "explanation": "ungewollt: unwanted, unintentional.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ungewollt means…",
+      "options": [
+        "unintended, unwanted",
+        "unwilling"
+      ],
+      "answer": "unintended, unwanted",
+      "explanation": "Unintended.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "unbeabsichtigt",
+        "absichtlich"
+      ],
+      "answer": "unbeabsichtigt",
+      "explanation": "Synonym.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wollen means…",
+      "options": [
+        "to want",
+        "to wool"
+      ],
+      "answer": "to want",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Komik (unintended)",
+      "answer": "ungewollte",
+      "fullAnswer": "eine ungewollte Komik",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Ungewollt means unwanted or unintentional: eine ungewollte Schwangerschaft, ungewollte Komik (unintentional comedy), ungewollt zum Star werden. Synonyms: unbeabsichtigt (unintended), unfreiwillig (involuntary): unfreiwillig komisch. The opposite is gewollt, which can also mean forced or contrived: Der Witz wirkt gewollt. From wollen (to want)."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Folie",
+    "partOfSpeech": "noun, feminine (die Folie)",
+    "pronunciation": {
+      "respelling": "FOH-lye",
+      "ipa": "ˈfoːli̯ə",
+      "notes": "Plural: die Folien."
+    },
+    "meaning": "foil, film; (presentation) slide",
+    "shortDefinition": "Foil, film; (presentation) slide."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Folie, plural die Folien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Folie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Folien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Decken Sie die Schüssel mit Folie ab.",
+      "english": "Cover the bowl with cling film.",
+      "highlight": [
+        "Folie"
+      ]
+    },
+    {
+      "german": "Auf der nächsten Folie sehen Sie die Zahlen.",
+      "english": "On the next slide you can see the figures.",
+      "highlight": [
+        "Folie"
+      ]
+    }
+  ],
+  "forms": [
+    "Folien",
+    "die Folien",
+    "die Folie"
+  ],
+  "memoryHook": "Folie: thin sheet, from kitchen foil to PowerPoint slide.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Folie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Folie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Folie, zwei ___",
+      "answer": "Folien",
+      "fullAnswer": "ein Folie, zwei Folien",
+      "explanation": "The plural is Folien.",
+      "acceptedAnswers": [
+        "Folien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Folie mean?",
+      "options": [
+        "hot",
+        "foil",
+        "the bill"
+      ],
+      "answer": "foil",
+      "explanation": "Folie: foil, film; (presentation) slide.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In a presentation, die Folie is…",
+      "options": [
+        "a slide",
+        "a handout"
+      ],
+      "answer": "a slide",
+      "explanation": "Slide.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Alufolie is…",
+      "options": [
+        "aluminium foil",
+        "a plastic bag"
+      ],
+      "answer": "aluminium foil",
+      "explanation": "Foil.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Frischhaltefolie is…",
+      "options": [
+        "cling film",
+        "a fresh slide"
+      ],
+      "answer": "cling film",
+      "explanation": "Cling film.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Folie is a thin sheet of film or foil: die Alufolie, die Frischhaltefolie (cling film), die Plastikfolie. It's also a presentation slide, from the overhead projector era of transparencies: die nächste Folie, ein Foliensatz (slide deck). Pronounced FOH-lye, three syllables in the plural: Fo-li-en. Don't confuse it with French folie (madness). Plural: die Folien."
+}

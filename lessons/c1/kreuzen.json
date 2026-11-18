@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "kreuzen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "KROI-tsen",
+      "ipa": "ˈkʁɔɪ̯t͡sn̩",
+      "notes": ""
+    },
+    "meaning": "to cross; to cruise",
+    "shortDefinition": "To cross; to cruise."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "kreuz|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "kreuz|t"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "kreuz|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "kreuz|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "kreuz|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "kreuz|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gekreuzt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Unsere Wege haben sich gekreuzt.",
+      "english": "Our paths have crossed.",
+      "highlight": [
+        "gekreuzt."
+      ]
+    },
+    {
+      "german": "Das Schiff kreuzt in der Karibik.",
+      "english": "The ship is cruising in the Caribbean.",
+      "highlight": [
+        "kreuzt"
+      ]
+    }
+  ],
+  "forms": [
+    "kreuze",
+    "kreuzt",
+    "kreuzen",
+    "gekreuzt",
+    "Kreuzung",
+    "Kreuzfahrt"
+  ],
+  "memoryHook": "Kreuzen: make a Kreuz (cross).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (kreuzen)",
+      "answer": "kreuzt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: kreuzt.",
+      "acceptedAnswers": [
+        "kreuzt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (kreuzen, past)",
+      "answer": "gekreuzt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gekreuzt.",
+      "acceptedAnswers": [
+        "gekreuzt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does kreuzen mean?",
+      "options": [
+        "the car",
+        "to cross",
+        "the key"
+      ],
+      "answer": "to cross",
+      "explanation": "kreuzen: to cross; to cruise.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kreuzfahrt is…",
+      "options": [
+        "a cruise",
+        "a crusade"
+      ],
+      "answer": "a cruise",
+      "explanation": "Cruise.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ankreuzen means…",
+      "options": [
+        "to tick, mark with a cross",
+        "to cross a street"
+      ],
+      "answer": "to tick, mark with a cross",
+      "explanation": "Tick.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kreuzzug is…",
+      "options": [
+        "a crusade",
+        "a cruise"
+      ],
+      "answer": "a crusade",
+      "explanation": "Crusade.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Kreuzen means to cross (Die Straßen kreuzen sich, die Arme kreuzen), to crossbreed plants or animals, and for ships, to cruise: die Kreuzfahrt (cruise). Die Kreuzung is a crossroads or a crossbreed. On forms and ballots, you ankreuzen (tick) a box. Das Kreuz is a cross, and colloquially the lower back: Ich hab's im Kreuz. Regular: kreuzte, gekreuzt."
+}

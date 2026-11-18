@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kartell",
+    "partOfSpeech": "noun, neuter (das Kartell)",
+    "pronunciation": {
+      "respelling": "kar-TEL",
+      "ipa": "kaʁˈtɛl",
+      "notes": "Plural: die Kartelle."
+    },
+    "meaning": "cartel",
+    "shortDefinition": "Cartel."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Kartell, plural die Kartelle.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Kartell"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kartelle"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Firmen bildeten ein illegales Kartell.",
+      "english": "The firms formed an illegal cartel.",
+      "highlight": [
+        "Kartell."
+      ]
+    },
+    {
+      "german": "Das Bundeskartellamt verhängte hohe Bußgelder.",
+      "english": "The Federal Cartel Office imposed heavy fines.",
+      "highlight": [
+        "Bundeskartellamt"
+      ]
+    }
+  ],
+  "forms": [
+    "Kartelle",
+    "das Kartell"
+  ],
+  "memoryHook": "Kartell: firms agreeing (like a card, carta, of terms).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kartell",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Kartell is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kartell, zwei ___",
+      "answer": "Kartelle",
+      "fullAnswer": "ein Kartell, zwei Kartelle",
+      "explanation": "The plural is Kartelle.",
+      "acceptedAnswers": [
+        "Kartelle"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kartell mean?",
+      "options": [
+        "the flower",
+        "cartel",
+        "the evening"
+      ],
+      "answer": "cartel",
+      "explanation": "Kartell: cartel.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Bundeskartellamt is…",
+      "options": [
+        "Germany's competition authority",
+        "a card shop"
+      ],
+      "answer": "Germany's competition authority",
+      "explanation": "Authority.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Bundeskartellamt is based in…",
+      "options": [
+        "Bonn",
+        "Berlin"
+      ],
+      "answer": "Bonn",
+      "explanation": "Bonn.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Drogenkartell is…",
+      "options": [
+        "a drug cartel",
+        "a pharmacy"
+      ],
+      "answer": "a drug cartel",
+      "explanation": "Compound.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Kartell is a cartel: illegal price or market-sharing agreements between companies, or criminal groups like Drogenkartelle. Germany's competition authority is das Bundeskartellamt in Bonn, which has fined cartels in sectors such as sugar, beer and sausage. Die Kartellbehörde is the general term. Stressed on the last syllable. Plural: die Kartelle."
+}

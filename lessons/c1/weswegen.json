@@ -1,0 +1,94 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "weswegen",
+    "partOfSpeech": "adverb / conjunction",
+    "pronunciation": {
+      "respelling": "VES-vay-gen",
+      "ipa": "vɛsˈveːɡn̩",
+      "notes": ""
+    },
+    "meaning": "why; which is why",
+    "shortDefinition": "Why; which is why."
+  },
+  "sampleSentences": [
+    {
+      "german": "Weswegen bist du hier?",
+      "english": "Why are you here?",
+      "highlight": [
+        "Weswegen"
+      ]
+    },
+    {
+      "german": "Es regnete, weswegen wir zu Hause blieben.",
+      "english": "It rained, which is why we stayed at home.",
+      "highlight": [
+        "weswegen"
+      ]
+    }
+  ],
+  "forms": [],
+  "memoryHook": "Weswegen: because of what, why.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does weswegen mean?",
+      "options": [
+        "the bed",
+        "why",
+        "cheap"
+      ],
+      "answer": "why",
+      "explanation": "weswegen: why; which is why.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "weshalb / warum",
+        "wogegen"
+      ],
+      "answer": "weshalb / warum",
+      "explanation": "Why.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "As a relative, the verb goes…",
+      "options": [
+        "to the end",
+        "second"
+      ],
+      "answer": "to the end",
+      "explanation": "Subordinate clause.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Built from…",
+      "options": [
+        "wes (old genitive of was) + wegen",
+        "wen + wegen"
+      ],
+      "answer": "wes (old genitive of was) + wegen",
+      "explanation": "Old genitive.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich war krank, ___ ich nicht kam. (which is why)",
+      "answer": "weswegen",
+      "fullAnswer": "Ich war krank, weswegen ich nicht kam.",
+      "explanation": "weswegen.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Weswegen means why, a slightly more formal synonym of warum and weshalb: Weswegen rufst du an? As a relative adverb, it means which is why: Der Zug hatte Verspätung, weswegen ich zu spät kam. Then the verb goes to the end. It's built from wes, an old genitive of was, plus wegen (because of). Deswegen (that's why) is its partner: Deswegen!"
+}

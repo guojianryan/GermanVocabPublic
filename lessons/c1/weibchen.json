@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Weibchen",
+    "partOfSpeech": "noun, neuter (das Weibchen)",
+    "pronunciation": {
+      "respelling": "VAIP-khen",
+      "ipa": "ˈvaɪ̯pçən",
+      "notes": "Plural: die Weibchen."
+    },
+    "meaning": "female (animal)",
+    "shortDefinition": "Female (animal)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Weibchen, plural die Weibchen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Weibchen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Weibchen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Weibchen legt die Eier.",
+      "english": "The female lays the eggs.",
+      "highlight": [
+        "Weibchen"
+      ]
+    },
+    {
+      "german": "Bei Löwen jagen meistens die Weibchen.",
+      "english": "Among lions it's mostly the females that hunt.",
+      "highlight": [
+        "Weibchen."
+      ]
+    }
+  ],
+  "forms": [
+    "die Weibchen",
+    "das Weibchen"
+  ],
+  "memoryHook": "Weibchen: the female of an animal species.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Weibchen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Weibchen is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Weibchen, zwei ___",
+      "answer": "Weibchen",
+      "fullAnswer": "ein Weibchen, zwei Weibchen",
+      "explanation": "The plural is Weibchen.",
+      "acceptedAnswers": [
+        "Weibchen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Weibchen mean?",
+      "options": [
+        "female (animal)",
+        "to learn",
+        "to travel"
+      ],
+      "answer": "female (animal)",
+      "explanation": "Weibchen: female (animal).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The male animal is…",
+      "options": [
+        "das Männchen",
+        "der Mann"
+      ],
+      "answer": "das Männchen",
+      "explanation": "Männchen.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "das Weibchen (all -chen nouns are neuter)",
+        "die Weibchen"
+      ],
+      "answer": "das Weibchen (all -chen nouns are neuter)",
+      "explanation": "Neuter.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Used for women, Weibchen is…",
+      "options": [
+        "offensive",
+        "polite"
+      ],
+      "answer": "offensive",
+      "explanation": "Don't!",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Weibchen is a female animal, and das Männchen a male: Das Weibchen brütet, das Männchen sucht Futter. Like all words ending in -chen, it's neuter. It's a diminutive of Weib, an old word for woman that's now derogatory; using Weibchen about a woman is very insulting. In biology and nature documentaries, though, it's the neutral standard term. Männchen machen means to sit up and beg, like a dog."
+}

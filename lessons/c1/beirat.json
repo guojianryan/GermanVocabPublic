@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Beirat",
+    "partOfSpeech": "noun, masculine (der Beirat)",
+    "pronunciation": {
+      "respelling": "BAI-raat",
+      "ipa": "ˈbaɪ̯ˌʁaːt",
+      "notes": "Plural: die Beiräte."
+    },
+    "meaning": "advisory board",
+    "shortDefinition": "Advisory board."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Beirat, plural die Beiräte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Beirat"
+        },
+        {
+          "label": "More than one",
+          "value": "die Beiräte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der wissenschaftliche Beirat berät das Ministerium.",
+      "english": "The scientific advisory board advises the ministry.",
+      "highlight": [
+        "Beirat"
+      ]
+    },
+    {
+      "german": "Sie sitzt im Beirat der Stiftung.",
+      "english": "She sits on the foundation's advisory board.",
+      "highlight": [
+        "Beirat"
+      ]
+    }
+  ],
+  "forms": [
+    "Beiräte",
+    "die Beiräte",
+    "der Beirat"
+  ],
+  "memoryHook": "Beirat: a Rat (council) at the side (bei) of an organisation.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Beirat",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Beirat is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Beirat, zwei ___",
+      "answer": "Beiräte",
+      "fullAnswer": "ein Beirat, zwei Beiräte",
+      "explanation": "The plural is Beiräte.",
+      "acceptedAnswers": [
+        "Beiraete"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Beirat mean?",
+      "options": [
+        "the flower",
+        "the window",
+        "advisory board"
+      ],
+      "answer": "advisory board",
+      "explanation": "Beirat: advisory board.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Beirat…",
+      "options": [
+        "advises, but usually doesn't decide",
+        "runs the company"
+      ],
+      "answer": "advises, but usually doesn't decide",
+      "explanation": "Advisory.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Rat is…",
+      "options": [
+        "advice; council",
+        "a rat"
+      ],
+      "answer": "advice; council",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Aufsichtsrat is…",
+      "options": [
+        "supervisory board",
+        "advisory board"
+      ],
+      "answer": "supervisory board",
+      "explanation": "Supervisory.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Beirat is an advisory board or council: ein wissenschaftlicher Beirat, der Elternbeirat (parents' council at a school), der Integrationsbeirat. It advises but usually has no decision-making power, unlike der Aufsichtsrat (supervisory board) or der Vorstand (executive board). Der Rat means advice and council. Plural: die Beiräte."
+}

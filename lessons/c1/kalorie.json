@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kalorie",
+    "partOfSpeech": "noun, feminine (die Kalorie)",
+    "pronunciation": {
+      "respelling": "ka-lo-REE",
+      "ipa": "kaloˈʁiː",
+      "notes": "Plural: die Kalorien."
+    },
+    "meaning": "calorie",
+    "shortDefinition": "Calorie."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kalorie, plural die Kalorien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kalorie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kalorien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Kuchen hat viele Kalorien.",
+      "english": "The cake has a lot of calories.",
+      "highlight": [
+        "Kalorien."
+      ]
+    },
+    {
+      "german": "Er zählt jede Kalorie.",
+      "english": "He counts every calorie.",
+      "highlight": [
+        "Kalorie."
+      ]
+    }
+  ],
+  "forms": [
+    "Kalorien",
+    "die Kalorien",
+    "die Kalorie",
+    "kalorienarm"
+  ],
+  "memoryHook": "Kalorie: what food labels count.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kalorie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kalorie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kalorie, zwei ___",
+      "answer": "Kalorien",
+      "fullAnswer": "ein Kalorie, zwei Kalorien",
+      "explanation": "The plural is Kalorien.",
+      "acceptedAnswers": [
+        "Kalorien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kalorie mean?",
+      "options": [
+        "calorie",
+        "the bread",
+        "to wait"
+      ],
+      "answer": "calorie",
+      "explanation": "Kalorie: calorie.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kalorienarm means…",
+      "options": [
+        "low-calorie",
+        "calorie-rich"
+      ],
+      "answer": "low-calorie",
+      "explanation": "Low-calorie.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Food labels in Germany show energy in…",
+      "options": [
+        "kcal and kJ",
+        "only cups"
+      ],
+      "answer": "kcal and kJ",
+      "explanation": "Both.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Kalorien (ka-lo-REE-en)",
+        "die Kalories"
+      ],
+      "answer": "die Kalorien (ka-lo-REE-en)",
+      "explanation": "-ien.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kalorie is a calorie: Kalorien zählen, kalorienarm (low-calorie), kalorienreich (high-calorie). On German food labels, energy is given in both kcal and kJ (Kilojoule), per 100 grams, under Nährwerte. Colloquially, people talk about Kalorien when they mean kilocalories. Stress the last syllable: ka-lo-REE, and in the plural ka-lo-REE-en. From Latin calor, heat."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Söldner",
+    "partOfSpeech": "noun, masculine (der Söldner)",
+    "pronunciation": {
+      "respelling": "ZÖLT-ner",
+      "ipa": "ˈzœldnɐ",
+      "notes": "Plural: die Söldner."
+    },
+    "meaning": "mercenary",
+    "shortDefinition": "Mercenary."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Söldner, plural die Söldner.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Söldner"
+        },
+        {
+          "label": "More than one",
+          "value": "die Söldner"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Krieg kämpfen auch ausländische Söldner.",
+      "english": "Foreign mercenaries are also fighting in the war.",
+      "highlight": [
+        "Söldner."
+      ]
+    },
+    {
+      "german": "Die Söldnergruppe Wagner war berüchtigt.",
+      "english": "The Wagner mercenary group was notorious.",
+      "highlight": [
+        "Söldnergruppe"
+      ]
+    }
+  ],
+  "forms": [
+    "die Söldner",
+    "der Söldner"
+  ],
+  "memoryHook": "Söldner: someone who fights for Sold (pay).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Söldner",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Söldner is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Söldner, zwei ___",
+      "answer": "Söldner",
+      "fullAnswer": "ein Söldner, zwei Söldner",
+      "explanation": "The plural is Söldner.",
+      "acceptedAnswers": [
+        "Soeldner"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Söldner mean?",
+      "options": [
+        "mercenary",
+        "to sleep",
+        "the flower"
+      ],
+      "answer": "mercenary",
+      "explanation": "Söldner: mercenary.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Sold is…",
+      "options": [
+        "soldier's pay",
+        "a sale"
+      ],
+      "answer": "soldier's pay",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Soldat is…",
+      "options": [
+        "soldier",
+        "mercenary"
+      ],
+      "answer": "soldier",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Söldner",
+        "die Söldnern"
+      ],
+      "answer": "die Söldner",
+      "explanation": "Unchanged.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Söldner is a mercenary, someone who fights for money (der Sold, soldier's pay, which also gave der Soldat). In the Thirty Years' War (1618–1648), mercenary armies (Landsknechte) devastated Germany. Today the Russian Wagner group made Söldner a news word. The Swiss Guard at the Vatican descends from Swiss mercenaries. Plural: die Söldner."
+}

@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "köpfen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "KÖP-fen",
+      "ipa": "ˈkœp͡fn̩",
+      "notes": ""
+    },
+    "meaning": "to behead; to head (a ball)",
+    "shortDefinition": "To behead; to head (a ball)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "köpf|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "köpf|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "köpf|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "köpf|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "köpf|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "köpf|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geköpft"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er köpfte den Ball ins Tor.",
+      "english": "He headed the ball into the goal.",
+      "highlight": [
+        "köpfte"
+      ]
+    },
+    {
+      "german": "Wir köpfen eine Flasche Sekt.",
+      "english": "We're cracking open a bottle of sparkling wine.",
+      "highlight": [
+        "köpfen"
+      ]
+    }
+  ],
+  "forms": [
+    "köpfe",
+    "köpfst",
+    "köpft",
+    "köpfen",
+    "geköpft",
+    "Kopfball",
+    "enthaupten"
+  ],
+  "memoryHook": "Köpfen: use your Kopf, for balls, bottles or (historically) worse.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (köpfen)",
+      "answer": "köpft",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: köpft.",
+      "acceptedAnswers": [
+        "koepft"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (köpfen, past)",
+      "answer": "geköpft",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geköpft.",
+      "acceptedAnswers": [
+        "gekoepft"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does köpfen mean?",
+      "options": [
+        "the family",
+        "the car",
+        "to behead"
+      ],
+      "answer": "to behead",
+      "explanation": "köpfen: to behead; to head (a ball).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In football, köpfen means…",
+      "options": [
+        "to head the ball",
+        "to kick"
+      ],
+      "answer": "to head the ball",
+      "explanation": "Header.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kopfball is…",
+      "options": [
+        "a header",
+        "a headache"
+      ],
+      "answer": "a header",
+      "explanation": "Header.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Flasche köpfen means…",
+      "options": [
+        "to open a bottle",
+        "to break a bottle"
+      ],
+      "answer": "to open a bottle",
+      "explanation": "Uncork.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Köpfen means to behead, historically: Der König wurde geköpft. Today it's mostly used in football: den Ball ins Tor köpfen (to head the ball into the goal). Der Kopfball is a header. Casually, eine Flasche köpfen means to open a bottle, especially Sekt. The formal word for beheading is enthaupten. From der Kopf (head). Similar verb: köpfeln in Austria."
+}

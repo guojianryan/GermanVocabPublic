@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "beliefern",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-LEE-fern",
+      "ipa": "bəˈliːfɐn",
+      "notes": ""
+    },
+    "meaning": "to supply",
+    "shortDefinition": "To supply."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "beliefere"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "belieferst"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "beliefert"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "beliefern"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "beliefert"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "beliefern"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat beliefert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Firma beliefert Supermärkte in ganz Europa.",
+      "english": "The company supplies supermarkets across Europe.",
+      "highlight": [
+        "beliefert"
+      ]
+    },
+    {
+      "german": "Wir werden zweimal pro Woche beliefert.",
+      "english": "We're supplied twice a week.",
+      "highlight": [
+        "beliefert."
+      ]
+    }
+  ],
+  "forms": [
+    "beliefere",
+    "belieferst",
+    "beliefert",
+    "beliefern",
+    "Belieferung"
+  ],
+  "memoryHook": "Beliefern: liefern (deliver) to someone regularly.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (beliefern)",
+      "answer": "beliefert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: beliefert.",
+      "acceptedAnswers": [
+        "beliefert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (beliefern, past)",
+      "answer": "beliefert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe beliefert.",
+      "acceptedAnswers": [
+        "beliefert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does beliefern mean?",
+      "options": [
+        "to supply",
+        "the street",
+        "to travel"
+      ],
+      "answer": "to supply",
+      "explanation": "beliefern: to supply.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Beliefern takes…",
+      "options": [
+        "the customer as direct object",
+        "the goods as object"
+      ],
+      "answer": "the customer as direct object",
+      "explanation": "Grammar.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Liefern means…",
+      "options": [
+        "to deliver, supply",
+        "to love"
+      ],
+      "answer": "to deliver, supply",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Belieferung is…",
+      "options": [
+        "supply, delivery",
+        "a lie"
+      ],
+      "answer": "supply, delivery",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Beliefern means to supply someone, with the customer as the direct object: Wir beliefern Restaurants mit frischem Gemüse. With liefern, the goods are the object: Wir liefern Gemüse an Restaurants. Die Belieferung is supply or delivery. Since 2022, the question of whether to beliefern Ukraine with weapons dominated German debates. Not separable: hat beliefert."
+}

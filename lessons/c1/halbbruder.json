@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Halbbruder",
+    "partOfSpeech": "noun, masculine (der Halbbruder)",
+    "pronunciation": {
+      "respelling": "HALP-broo-der",
+      "ipa": "ˈhalpˌbʁuːdɐ",
+      "notes": "Plural: die Halbbrüder."
+    },
+    "meaning": "half-brother",
+    "shortDefinition": "Half-brother."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Halbbruder, plural die Halbbrüder.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Halbbruder"
+        },
+        {
+          "label": "More than one",
+          "value": "die Halbbrüder"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hat einen Halbbruder aus der ersten Ehe seines Vaters.",
+      "english": "He has a half-brother from his father's first marriage.",
+      "highlight": [
+        "Halbbruder"
+      ]
+    },
+    {
+      "german": "Die Halbschwester lebt in Hamburg.",
+      "english": "The half-sister lives in Hamburg.",
+      "highlight": [
+        "Halbschwester"
+      ]
+    }
+  ],
+  "forms": [
+    "Halbbrüder",
+    "der Halbbruder"
+  ],
+  "memoryHook": "Halbbruder: a Bruder sharing halb (half) your parents.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Halbbruder",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Halbbruder is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Halbbruder, zwei ___",
+      "answer": "Halbbrüder",
+      "fullAnswer": "ein Halbbruder, zwei Halbbrüder",
+      "explanation": "The plural is Halbbrüder.",
+      "acceptedAnswers": [
+        "Halbbrueder"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Halbbruder mean?",
+      "options": [
+        "half-brother",
+        "the car",
+        "to sleep"
+      ],
+      "answer": "half-brother",
+      "explanation": "Halbbruder: half-brother.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Halbschwester is…",
+      "options": [
+        "half-sister",
+        "half a sister"
+      ],
+      "answer": "half-sister",
+      "explanation": "Female.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Stiefbruder is…",
+      "options": [
+        "stepbrother (no shared parent)",
+        "half-brother"
+      ],
+      "answer": "stepbrother (no shared parent)",
+      "explanation": "Contrast.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Geschwister are…",
+      "options": [
+        "siblings",
+        "cousins"
+      ],
+      "answer": "siblings",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Halbbruder is a half-brother, sharing one parent; die Halbschwester is a half-sister. Der Stiefbruder (stepbrother) shares no biological parent, only through a parent's new partner. Siblings in general are die Geschwister: Hast du Geschwister? In patchwork families, children often have both Halb- and Stiefgeschwister. Plural: die Halbbrüder."
+}

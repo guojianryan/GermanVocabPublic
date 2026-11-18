@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gestein",
+    "partOfSpeech": "noun, neuter (das Gestein)",
+    "pronunciation": {
+      "respelling": "ge-SHTAIN",
+      "ipa": "ɡəˈʃtaɪ̯n",
+      "notes": "Plural: die Gesteine."
+    },
+    "meaning": "rock (material)",
+    "shortDefinition": "Rock (material)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Gestein, plural die Gesteine.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Gestein"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gesteine"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Alpen bestehen aus hartem Gestein.",
+      "english": "The Alps are made of hard rock.",
+      "highlight": [
+        "Gestein."
+      ]
+    },
+    {
+      "german": "Geologen untersuchen das Gestein.",
+      "english": "Geologists examine the rock.",
+      "highlight": [
+        "Gestein."
+      ]
+    }
+  ],
+  "forms": [
+    "Gesteine",
+    "die Gesteine",
+    "das Gestein"
+  ],
+  "memoryHook": "Gestein: all the Steine together, rock as material.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gestein",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Gestein is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gestein, zwei ___",
+      "answer": "Gesteine",
+      "fullAnswer": "ein Gestein, zwei Gesteine",
+      "explanation": "The plural is Gesteine.",
+      "acceptedAnswers": [
+        "Gesteine"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gestein mean?",
+      "options": [
+        "the weather",
+        "the bread",
+        "rock (material)"
+      ],
+      "answer": "rock (material)",
+      "explanation": "Gestein: rock (material).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gestein vs. Stein:",
+      "options": [
+        "rock as material vs. a single stone",
+        "the same"
+      ],
+      "answer": "rock as material vs. a single stone",
+      "explanation": "Difference.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Fels is…",
+      "options": [
+        "rock, cliff (large)",
+        "a field"
+      ],
+      "answer": "rock, cliff (large)",
+      "explanation": "Rock.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Collective ge- nouns:",
+      "options": [
+        "Gestein, Gebirge, Gewässer",
+        "Geburt, Gefahr"
+      ],
+      "answer": "Gestein, Gebirge, Gewässer",
+      "explanation": "Pattern.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Gestein is rock as a material: hartes, vulkanisches Gestein, Sedimentgestein. Der Stein is a single stone, and der Fels a large rock or cliff. Ge- often makes collective nouns: das Gebirge (mountain range, from Berg), das Gewässer (waters), das Gebüsch (bushes). The Elbsandsteingebirge near Dresden has dramatic sandstone formations. Plural: die Gesteine."
+}

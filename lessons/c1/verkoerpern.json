@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verkörpern",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-KÖR-pern",
+      "ipa": "fɛɐ̯ˈkœʁpɐn",
+      "notes": ""
+    },
+    "meaning": "to embody, personify; to play (a role)",
+    "shortDefinition": "To embody, personify; to play (a role)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verkörpere"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verkörper|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verkörper|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verkörper|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verkörper|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verkörper|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verkörpert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er verkörpert den typischen Berliner.",
+      "english": "He embodies the typical Berliner.",
+      "highlight": [
+        "verkörpert"
+      ]
+    },
+    {
+      "german": "Sie verkörpert die Königin im Film.",
+      "english": "She plays the queen in the film.",
+      "highlight": [
+        "verkörpert"
+      ]
+    }
+  ],
+  "forms": [
+    "verkörpere",
+    "verkörperst",
+    "verkörpert",
+    "verkörpern",
+    "Verkörperung",
+    "Körper"
+  ],
+  "memoryHook": "Verkörpern: give something a Körper (body).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verkörpern)",
+      "answer": "verkörpert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verkörpert.",
+      "acceptedAnswers": [
+        "verkoerpert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verkörpern, past)",
+      "answer": "verkörpert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verkörpert.",
+      "acceptedAnswers": [
+        "verkoerpert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verkörpern mean?",
+      "options": [
+        "cheap",
+        "quiet",
+        "to embody"
+      ],
+      "answer": "to embody",
+      "explanation": "verkörpern: to embody, personify; to play (a role).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Körper is…",
+      "options": [
+        "body",
+        "corpse only"
+      ],
+      "answer": "body",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Rolle verkörpern means…",
+      "options": [
+        "to play a role",
+        "to write a role"
+      ],
+      "answer": "to play a role",
+      "explanation": "Act.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Verkörperung is…",
+      "options": [
+        "embodiment",
+        "a body"
+      ],
+      "answer": "embodiment",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verkörpern means to embody or personify: Sie verkörpert Eleganz, Er verkörpert die Werte des Vereins. In theatre and film, it means to play a role: Bruno Ganz verkörperte Hitler in Der Untergang (2004). Die Verkörperung is an embodiment: die Verkörperung des Bösen. From der Körper (body), as in Körpersprache (body language). Not separable: hat verkörpert."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Glossar",
+    "partOfSpeech": "noun, neuter (das Glossar)",
+    "pronunciation": {
+      "respelling": "glo-SAAR",
+      "ipa": "ɡlɔˈsaːɐ̯",
+      "notes": "Plural: die Glossare."
+    },
+    "meaning": "glossary",
+    "shortDefinition": "Glossary."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Glossar, plural die Glossare.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Glossar"
+        },
+        {
+          "label": "More than one",
+          "value": "die Glossare"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Am Ende des Buches gibt es ein Glossar.",
+      "english": "There's a glossary at the end of the book.",
+      "highlight": [
+        "Glossar."
+      ]
+    },
+    {
+      "german": "Das Glossar erklärt alle Fachbegriffe.",
+      "english": "The glossary explains all the technical terms.",
+      "highlight": [
+        "Glossar"
+      ]
+    }
+  ],
+  "forms": [
+    "Glossare",
+    "das Glossar"
+  ],
+  "memoryHook": "Glossar: a list of glosses (Greek glossa, tongue, word).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Glossar",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Glossar is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Glossar, zwei ___",
+      "answer": "Glossare",
+      "fullAnswer": "ein Glossar, zwei Glossare",
+      "explanation": "The plural is Glossare.",
+      "acceptedAnswers": [
+        "Glossare"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Glossar mean?",
+      "options": [
+        "the car",
+        "hot",
+        "glossary"
+      ],
+      "answer": "glossary",
+      "explanation": "Glossar: glossary.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Glosse is…",
+      "options": [
+        "satirical column; gloss",
+        "a glossy magazine"
+      ],
+      "answer": "satirical column; gloss",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Fachbegriff is…",
+      "options": [
+        "technical term",
+        "a subject"
+      ],
+      "answer": "technical term",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "das Wörterverzeichnis",
+        "das Inhaltsverzeichnis"
+      ],
+      "answer": "das Wörterverzeichnis",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Glossar is a glossary, a list of terms with explanations: ein Glossar der Fachbegriffe. A synonym is das Wörterverzeichnis. Related is die Glosse, which means a marginal gloss in old manuscripts, and in journalism a short satirical column, like Streiflicht in the Süddeutsche Zeitung. The table of contents is das Inhaltsverzeichnis, and the index das Register. Plural: die Glossare."
+}

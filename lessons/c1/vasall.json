@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vasall",
+    "partOfSpeech": "noun, masculine (der Vasall)",
+    "pronunciation": {
+      "respelling": "va-ZAL",
+      "ipa": "vaˈzal",
+      "notes": "Plural: die Vasallen."
+    },
+    "meaning": "vassal",
+    "shortDefinition": "Vassal."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Vasall, plural die Vasallen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Vasall"
+        },
+        {
+          "label": "More than one",
+          "value": "die Vasallen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Vasall schwor seinem Lehnsherrn Treue.",
+      "english": "The vassal swore loyalty to his liege lord.",
+      "highlight": [
+        "Vasall"
+      ]
+    },
+    {
+      "german": "Kritiker nennen das Land einen Vasallenstaat.",
+      "english": "Critics call the country a vassal state.",
+      "highlight": [
+        "Vasallenstaat."
+      ]
+    }
+  ],
+  "forms": [
+    "Vasallen",
+    "der Vasall"
+  ],
+  "memoryHook": "Vasall: a servant (Celtic gwas) of a lord.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vasall",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Vasall is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Vasall, zwei ___",
+      "answer": "Vasallen",
+      "fullAnswer": "ein Vasall, zwei Vasallen",
+      "explanation": "The plural is Vasallen.",
+      "acceptedAnswers": [
+        "Vasallen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vasall mean?",
+      "options": [
+        "vassal",
+        "the weather",
+        "to help"
+      ],
+      "answer": "vassal",
+      "explanation": "Vasall: vassal.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vasall is a weak noun, so…",
+      "options": [
+        "den Vasallen (accusative)",
+        "den Vasall"
+      ],
+      "answer": "den Vasallen (accusative)",
+      "explanation": "Weak noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Lehnsherr is…",
+      "options": [
+        "feudal lord",
+        "a teacher"
+      ],
+      "answer": "feudal lord",
+      "explanation": "Feudalism.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Lehen is…",
+      "options": [
+        "fief",
+        "loan"
+      ],
+      "answer": "fief",
+      "explanation": "Feudalism.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Vasall is a vassal in the medieval feudal system (das Lehnswesen): he received a Lehen (fief) from his Lehnsherr and owed loyalty and military service. Today, der Vasallenstaat is a vassal or satellite state, and calling a politician a Vasall implies servility. It's a weak noun: den, dem, des Vasallen. Stressed on the last syllable. Plural: die Vasallen."
+}

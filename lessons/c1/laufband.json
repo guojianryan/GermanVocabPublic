@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Laufband",
+    "partOfSpeech": "noun, neuter (das Laufband)",
+    "pronunciation": {
+      "respelling": "LAUF-bant",
+      "ipa": "ˈlaʊ̯fˌbant",
+      "notes": "Plural: die Laufbänder."
+    },
+    "meaning": "treadmill; moving walkway; news ticker",
+    "shortDefinition": "Treadmill; moving walkway; news ticker."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Laufband, plural die Laufbänder.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Laufband"
+        },
+        {
+          "label": "More than one",
+          "value": "die Laufbänder"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Fitnessstudio läuft er jeden Tag auf dem Laufband.",
+      "english": "At the gym he runs on the treadmill every day.",
+      "highlight": [
+        "Laufband."
+      ]
+    },
+    {
+      "german": "Am Flughafen gibt es lange Laufbänder.",
+      "english": "There are long moving walkways at the airport.",
+      "highlight": [
+        "Laufbänder."
+      ]
+    }
+  ],
+  "forms": [
+    "Laufbänder",
+    "das Laufband"
+  ],
+  "memoryHook": "Laufband: a Band (belt) to laufen (run) on.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Laufband",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Laufband is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Laufband, zwei ___",
+      "answer": "Laufbänder",
+      "fullAnswer": "ein Laufband, zwei Laufbänder",
+      "explanation": "The plural is Laufbänder.",
+      "acceptedAnswers": [
+        "Laufbaender"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Laufband mean?",
+      "options": [
+        "to open",
+        "the evening",
+        "treadmill"
+      ],
+      "answer": "treadmill",
+      "explanation": "Laufband: treadmill; moving walkway; news ticker.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "On TV, das Laufband is…",
+      "options": [
+        "a scrolling news ticker",
+        "a treadmill"
+      ],
+      "answer": "a scrolling news ticker",
+      "explanation": "TV.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Fließband is…",
+      "options": [
+        "assembly line, conveyor",
+        "a river band"
+      ],
+      "answer": "assembly line, conveyor",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Band is…",
+      "options": [
+        "band, ribbon, tape; belt",
+        "a book"
+      ],
+      "answer": "band, ribbon, tape; belt",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Laufband is a treadmill in a gym, a moving walkway at an airport, and on TV a scrolling news ticker at the bottom of the screen. Das Fließband is an assembly line: am Fließband arbeiten, figuratively am laufenden Band (non-stop). Das Band is a band, ribbon or belt. Plural: die Laufbänder."
+}

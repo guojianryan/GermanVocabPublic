@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "gegenüberliegend",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "gay-gen-Ü-ber-lee-gent",
+      "ipa": "ɡeːɡn̩ˈʔyːbɐˌliːɡn̩t",
+      "notes": ""
+    },
+    "meaning": "opposite",
+    "shortDefinition": "Opposite."
+  },
+  "sampleSentences": [
+    {
+      "german": "Das Café liegt auf der gegenüberliegenden Straßenseite.",
+      "english": "The café is on the opposite side of the street.",
+      "highlight": [
+        "gegenüberliegenden"
+      ]
+    },
+    {
+      "german": "Die gegenüberliegenden Seiten eines Rechtecks sind gleich lang.",
+      "english": "The opposite sides of a rectangle are equal in length.",
+      "highlight": [
+        "gegenüberliegenden"
+      ]
+    }
+  ],
+  "forms": [
+    "gegenüberliegende",
+    "gegenüberliegenden",
+    "gegenüber"
+  ],
+  "memoryHook": "Gegenüberliegend: lying (liegend) opposite (gegenüber).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does gegenüberliegend mean?",
+      "options": [
+        "opposite",
+        "expensive",
+        "cheap"
+      ],
+      "answer": "opposite",
+      "explanation": "gegenüberliegend: opposite.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gegenüber means…",
+      "options": [
+        "opposite, across from",
+        "against"
+      ],
+      "answer": "opposite, across from",
+      "explanation": "Root.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Used…",
+      "options": [
+        "before nouns",
+        "as an adverb"
+      ],
+      "answer": "before nouns",
+      "explanation": "Attributive.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mein Gegenüber means…",
+      "options": [
+        "the person opposite me",
+        "my opponent only"
+      ],
+      "answer": "the person opposite me",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "am ___ Ufer (opposite)",
+      "answer": "gegenüberliegenden",
+      "fullAnswer": "am gegenüberliegenden Ufer",
+      "explanation": "Dative -en.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Gegenüberliegend means opposite, lying across from something: die gegenüberliegende Seite, das gegenüberliegende Haus, am gegenüberliegenden Ufer. It's used before nouns. Gegenüber alone means opposite: Die Bank ist gegenüber der Post. Das Gegenüber is the person opposite you or one's counterpart: mein Gegenüber im Zug."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Erbschaftssteuer",
+    "partOfSpeech": "noun, feminine (die Erbschaftssteuer)",
+    "pronunciation": {
+      "respelling": "ERP-shafts-shtoy-er",
+      "ipa": "ˈɛʁpʃaft͡sˌʃtɔɪ̯ɐ",
+      "notes": "Plural: die Erbschaftssteuern."
+    },
+    "meaning": "inheritance tax",
+    "shortDefinition": "Inheritance tax."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Erbschaftssteuer, plural die Erbschaftssteuern.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Erbschaftssteuer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Erbschaftssteuern"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Kinder haben bei der Erbschaftssteuer hohe Freibeträge.",
+      "english": "Children have high allowances for inheritance tax.",
+      "highlight": [
+        "Erbschaftssteuer"
+      ]
+    },
+    {
+      "german": "Über eine Reform der Erbschaftssteuer wird gestritten.",
+      "english": "There's a dispute about reforming inheritance tax.",
+      "highlight": [
+        "Erbschaftssteuer"
+      ]
+    }
+  ],
+  "forms": [
+    "Erbschaftssteuern",
+    "die Erbschaftssteuer",
+    "Erbschaftsteuer"
+  ],
+  "memoryHook": "Erbschaftssteuer: Steuer on an Erbschaft (inheritance).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Erbschaftssteuer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Erbschaftssteuer is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Erbschaftssteuer, zwei ___",
+      "answer": "Erbschaftssteuern",
+      "fullAnswer": "ein Erbschaftssteuer, zwei Erbschaftssteuern",
+      "explanation": "The plural is Erbschaftssteuern.",
+      "acceptedAnswers": [
+        "Erbschaftssteuern"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Erbschaftssteuer mean?",
+      "options": [
+        "slowly",
+        "the flower",
+        "inheritance tax"
+      ],
+      "answer": "inheritance tax",
+      "explanation": "Erbschaftssteuer: inheritance tax.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Each child's tax-free allowance from a parent is…",
+      "options": [
+        "400,000 euros",
+        "40,000 euros"
+      ],
+      "answer": "400,000 euros",
+      "explanation": "Allowance.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Official spelling in the law:",
+      "options": [
+        "Erbschaftsteuer (without s)",
+        "Erbschaftssteuer only"
+      ],
+      "answer": "Erbschaftsteuer (without s)",
+      "explanation": "Spelling.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schenkungssteuer is…",
+      "options": [
+        "gift tax",
+        "a donation"
+      ],
+      "answer": "gift tax",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Erbschaftssteuer (in the law Erbschaftsteuer) is inheritance tax. Spouses have a tax-free allowance of 500,000 euros and each child 400,000 euros per parent. Family businesses can be largely exempt, a rule the Constitutional Court has twice ordered to be revised. The parallel tax on gifts is die Schenkungssteuer. Revenues go to the federal states. Plural: die Erbschaftssteuern."
+}

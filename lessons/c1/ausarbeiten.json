@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ausarbeiten",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AUS-ar-bai-ten",
+      "ipa": "ˈaʊ̯sˌʔaʁbaɪ̯tn̩",
+      "notes": ""
+    },
+    "meaning": "to work out, draw up",
+    "shortDefinition": "To work out, draw up."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "arbeit|e … |aus"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "arbeit|est … |aus"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "arbeit|et … |aus"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "arbeit|en … |aus"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "arbeit|et … |aus"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "arbeit|en … |aus"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat ausgearbeitet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Team arbeitet einen Plan aus.",
+      "english": "The team is working out a plan.",
+      "highlight": [
+        "arbeitet",
+        "aus."
+      ]
+    },
+    {
+      "german": "Der Vertrag wurde sorgfältig ausgearbeitet.",
+      "english": "The contract was carefully drawn up.",
+      "highlight": [
+        "ausgearbeitet."
+      ]
+    }
+  ],
+  "forms": [
+    "arbeite aus",
+    "arbeitest aus",
+    "arbeitet aus",
+    "arbeiten aus",
+    "ausgearbeitet",
+    "arbeitete aus",
+    "Ausarbeitung"
+  ],
+  "memoryHook": "Ausarbeiten: work (arbeiten) something out (aus) in detail.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … aus (ausarbeiten)",
+      "answer": "arbeitet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: arbeitet … aus.",
+      "acceptedAnswers": [
+        "arbeitet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (ausarbeiten, past)",
+      "answer": "ausgearbeitet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe ausgearbeitet.",
+      "acceptedAnswers": [
+        "ausgearbeitet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does ausarbeiten mean?",
+      "options": [
+        "the bed",
+        "the bread",
+        "to work out"
+      ],
+      "answer": "to work out",
+      "explanation": "ausarbeiten: to work out, draw up.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einen Vorschlag ausarbeiten means…",
+      "options": [
+        "to work out a proposal in detail",
+        "to reject a proposal"
+      ],
+      "answer": "to work out a proposal in detail",
+      "explanation": "Draft.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Ausarbeitung is…",
+      "options": [
+        "elaboration; (written) paper",
+        "overtime"
+      ],
+      "answer": "elaboration; (written) paper",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich ausarbeiten (sport, colloquial) means…",
+      "options": [
+        "to work out, exercise hard",
+        "to quit work"
+      ],
+      "answer": "to work out, exercise hard",
+      "explanation": "Work out.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Ausarbeiten means to work out in detail or draw up: einen Plan, ein Konzept, einen Gesetzentwurf ausarbeiten. Die Ausarbeitung is the elaboration or a written paper, such as the reports of the Bundestag's research service (Wissenschaftlicher Dienst). Reflexively, sich ausarbeiten can mean to exercise hard. For physical workouts, Germans usually say trainieren. Separable: arbeitete aus, ausgearbeitet."
+}

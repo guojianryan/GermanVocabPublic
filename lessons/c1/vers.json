@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vers",
+    "partOfSpeech": "noun, masculine (der Vers)",
+    "pronunciation": {
+      "respelling": "fers",
+      "ipa": "fɛʁs",
+      "notes": "Plural: die Verse."
+    },
+    "meaning": "verse, line (of a poem)",
+    "shortDefinition": "Verse, line (of a poem)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Vers, plural die Verse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Vers"
+        },
+        {
+          "label": "More than one",
+          "value": "die Verse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Gedicht hat vier Verse pro Strophe.",
+      "english": "The poem has four lines per stanza.",
+      "highlight": [
+        "Verse"
+      ]
+    },
+    {
+      "german": "Darauf kann ich mir keinen Vers machen.",
+      "english": "I can't make head or tail of it.",
+      "highlight": [
+        "Vers"
+      ]
+    }
+  ],
+  "forms": [
+    "Verse",
+    "die Verse",
+    "der Vers"
+  ],
+  "memoryHook": "Vers: one line of a poem; a stanza is a Strophe.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vers",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Vers is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Vers, zwei ___",
+      "answer": "Verse",
+      "fullAnswer": "ein Vers, zwei Verse",
+      "explanation": "The plural is Verse.",
+      "acceptedAnswers": [
+        "Verse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vers mean?",
+      "options": [
+        "verse",
+        "the window",
+        "to wait"
+      ],
+      "answer": "verse",
+      "explanation": "Vers: verse, line (of a poem).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In German, ein Vers is usually…",
+      "options": [
+        "a line of a poem",
+        "a whole stanza"
+      ],
+      "answer": "a line of a poem",
+      "explanation": "Line.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A stanza in German is…",
+      "options": [
+        "die Strophe",
+        "der Vers"
+      ],
+      "answer": "die Strophe",
+      "explanation": "Strophe.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich keinen Vers auf etwas machen können means…",
+      "options": [
+        "not to understand something",
+        "not to rhyme"
+      ],
+      "answer": "not to understand something",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Vers is a line of a poem: ein Gedicht in Versen, gereimte Verse. A stanza or verse of a song is die Strophe, which often trips up English speakers. Bible verses are also Verse. The idiom sich keinen Vers auf etwas machen können means not to be able to make sense of something. The V is pronounced like an f: FERS. From Latin versus (turning, line). Plural: die Verse."
+}

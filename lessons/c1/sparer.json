@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sparer",
+    "partOfSpeech": "noun, masculine (der Sparer)",
+    "pronunciation": {
+      "respelling": "SHPAA-rer",
+      "ipa": "ˈʃpaːʁɐ",
+      "notes": "Plural: die Sparer."
+    },
+    "meaning": "saver",
+    "shortDefinition": "Saver."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Sparer, plural die Sparer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Sparer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Sparer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die niedrigen Zinsen ärgern die Sparer.",
+      "english": "Low interest rates annoy savers.",
+      "highlight": [
+        "Sparer."
+      ]
+    },
+    {
+      "german": "Deutsche gelten als fleißige Sparer.",
+      "english": "Germans are considered keen savers.",
+      "highlight": [
+        "Sparer."
+      ]
+    }
+  ],
+  "forms": [
+    "Sparerin",
+    "der Sparer"
+  ],
+  "memoryHook": "Sparer: someone who spart (saves).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sparer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Sparer is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Sparer, zwei ___",
+      "answer": "Sparer",
+      "fullAnswer": "ein Sparer, zwei Sparer",
+      "explanation": "The plural is Sparer.",
+      "acceptedAnswers": [
+        "Sparer"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sparer mean?",
+      "options": [
+        "the weather",
+        "the shop",
+        "saver"
+      ],
+      "answer": "saver",
+      "explanation": "Sparer: saver.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Sparerpauschbetrag is…",
+      "options": [
+        "tax-free allowance on investment income",
+        "a savings account"
+      ],
+      "answer": "tax-free allowance on investment income",
+      "explanation": "Tax.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Sparbuch is…",
+      "options": [
+        "passbook savings account",
+        "a cookbook"
+      ],
+      "answer": "passbook savings account",
+      "explanation": "Account.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sparen means…",
+      "options": [
+        "to save",
+        "to spare time only"
+      ],
+      "answer": "to save",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Sparer (die Sparerin) is a saver. Germans are known for a strong saving culture, traditionally with das Sparbuch, though ETFs have become popular. The Sparerpauschbetrag lets individuals earn 1,000 euros a year in investment income tax-free (2,000 for couples) since 2023; you set it up with a Freistellungsauftrag at your bank. The plural is the same: die Sparer."
+}

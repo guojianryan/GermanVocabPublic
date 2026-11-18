@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fremdkörper",
+    "partOfSpeech": "noun, masculine (der Fremdkörper)",
+    "pronunciation": {
+      "respelling": "FREMT-kör-per",
+      "ipa": "ˈfʁɛmtˌkœʁpɐ",
+      "notes": "Plural: die Fremdkörper."
+    },
+    "meaning": "foreign body; outsider",
+    "shortDefinition": "Foreign body; outsider."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Fremdkörper, plural die Fremdkörper.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Fremdkörper"
+        },
+        {
+          "label": "More than one",
+          "value": "die Fremdkörper"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Arzt entfernte einen Fremdkörper aus dem Auge.",
+      "english": "The doctor removed a foreign body from the eye.",
+      "highlight": [
+        "Fremdkörper"
+      ]
+    },
+    {
+      "german": "In der neuen Firma fühlte er sich wie ein Fremdkörper.",
+      "english": "In the new company he felt like an outsider.",
+      "highlight": [
+        "Fremdkörper."
+      ]
+    }
+  ],
+  "forms": [
+    "der Fremdkörper",
+    "Fremdkörpers"
+  ],
+  "memoryHook": "Fremdkörper: a fremd (foreign) Körper (body).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fremdkörper",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Fremdkörper is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Fremdkörper, zwei ___",
+      "answer": "Fremdkörper",
+      "fullAnswer": "ein Fremdkörper, zwei Fremdkörper",
+      "explanation": "The plural is Fremdkörper.",
+      "acceptedAnswers": [
+        "Fremdkoerper"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fremdkörper mean?",
+      "options": [
+        "foreign body",
+        "to buy",
+        "the child"
+      ],
+      "answer": "foreign body",
+      "explanation": "Fremdkörper: foreign body; outsider.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, ein Fremdkörper is…",
+      "options": [
+        "something or someone that doesn't fit in",
+        "a stranger's body"
+      ],
+      "answer": "something or someone that doesn't fit in",
+      "explanation": "Figurative.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fremd means…",
+      "options": [
+        "foreign, strange",
+        "friend"
+      ],
+      "answer": "foreign, strange",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Körper is…",
+      "options": [
+        "body",
+        "corpse only"
+      ],
+      "answer": "body",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Fremdkörper is a foreign body in medicine: ein Fremdkörper im Auge, verschluckte Fremdkörper. Figuratively it means something or someone that doesn't fit in: Der Neubau wirkt wie ein Fremdkörper in der Altstadt, sich wie ein Fremdkörper fühlen. From fremd (foreign, strange) and der Körper (body). The plural is the same: die Fremdkörper."
+}

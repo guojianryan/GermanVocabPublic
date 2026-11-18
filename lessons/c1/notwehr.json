@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Notwehr",
+    "partOfSpeech": "noun, feminine (die Notwehr)",
+    "pronunciation": {
+      "respelling": "NOHT-vair",
+      "ipa": "ˈnoːtˌveːɐ̯",
+      "notes": "Usually no plural."
+    },
+    "meaning": "self-defence (legal)",
+    "shortDefinition": "Self-defence (legal)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Notwehr, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Notwehr"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hat in Notwehr gehandelt.",
+      "english": "He acted in self-defence.",
+      "highlight": [
+        "Notwehr"
+      ]
+    },
+    {
+      "german": "Das Gericht erkannte auf Notwehr.",
+      "english": "The court ruled it was self-defence.",
+      "highlight": [
+        "Notwehr."
+      ]
+    }
+  ],
+  "forms": [
+    "die Notwehr"
+  ],
+  "memoryHook": "Notwehr: defence (Wehr) in an emergency (Not).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Notwehr",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Notwehr is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Notwehr mean?",
+      "options": [
+        "to learn",
+        "hot",
+        "self-defence (legal)"
+      ],
+      "answer": "self-defence (legal)",
+      "explanation": "Notwehr: self-defence (legal).",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Notwehr in German law is regulated in…",
+      "options": [
+        "§ 32 StGB",
+        "the Grundgesetz"
+      ],
+      "answer": "§ 32 StGB",
+      "explanation": "Law.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Notwehr must be…",
+      "options": [
+        "necessary to repel an unlawful attack",
+        "planned in advance"
+      ],
+      "answer": "necessary to repel an unlawful attack",
+      "explanation": "Condition.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Wehr is…",
+      "options": [
+        "defence",
+        "a weir only"
+      ],
+      "answer": "defence",
+      "explanation": "Root.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Notwehr is self-defence in law: in Notwehr handeln. Under § 32 of the criminal code, an act necessary to repel a present, unlawful attack on oneself or others is not unlawful. German law is relatively generous: Das Recht braucht dem Unrecht nicht zu weichen (right need not yield to wrong). Exceeding it out of fear is called Notwehrexzess. Die Wehr means defence. It has no plural."
+}

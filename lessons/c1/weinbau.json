@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Weinbau",
+    "partOfSpeech": "noun, masculine (der Weinbau)",
+    "pronunciation": {
+      "respelling": "VAIN-bau",
+      "ipa": "ˈvaɪ̯nˌbaʊ̯",
+      "notes": "Usually no plural."
+    },
+    "meaning": "wine growing, viticulture",
+    "shortDefinition": "Wine growing, viticulture."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Weinbau, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Weinbau"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "An der Mosel lebt man vom Weinbau.",
+      "english": "People on the Moselle live from wine growing.",
+      "highlight": [
+        "Weinbau."
+      ]
+    },
+    {
+      "german": "Rheinhessen ist das größte Weinbaugebiet Deutschlands.",
+      "english": "Rheinhessen is Germany's largest wine region.",
+      "highlight": [
+        "Weinbaugebiet"
+      ]
+    }
+  ],
+  "forms": [
+    "der Weinbau",
+    "Weinbaus"
+  ],
+  "memoryHook": "Weinbau: the Bau (cultivation) of Wein.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Weinbau",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Weinbau is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Weinbau mean?",
+      "options": [
+        "slowly",
+        "always",
+        "wine growing"
+      ],
+      "answer": "wine growing",
+      "explanation": "Weinbau: wine growing, viticulture.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany has how many official wine regions?",
+      "options": [
+        "13",
+        "3"
+      ],
+      "answer": "13",
+      "explanation": "Thirteen.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Winzer is…",
+      "options": [
+        "winemaker",
+        "winner"
+      ],
+      "answer": "winemaker",
+      "explanation": "Person.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's most famous white grape:",
+      "options": [
+        "Riesling",
+        "Merlot"
+      ],
+      "answer": "Riesling",
+      "explanation": "Grape.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Weinbau is wine growing or viticulture. Germany has 13 official Weinbaugebiete, including Rheinhessen (the largest), the Pfalz, Mosel and Franken, and is especially known for Riesling. Der Winzer is the winemaker, der Weinberg the vineyard, and die Weinlese the grape harvest. Many villages hold Weinfeste in late summer. It has no plural."
+}

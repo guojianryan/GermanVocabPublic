@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Klausur",
+    "partOfSpeech": "noun, feminine (die Klausur)",
+    "pronunciation": {
+      "respelling": "klau-ZOOR",
+      "ipa": "klaʊ̯ˈzuːɐ̯",
+      "notes": "Plural: die Klausuren."
+    },
+    "meaning": "written exam; retreat",
+    "shortDefinition": "Written exam; retreat."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Klausur, plural die Klausuren.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Klausur"
+        },
+        {
+          "label": "More than one",
+          "value": "die Klausuren"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Morgen schreiben wir eine Klausur in Mathe.",
+      "english": "Tomorrow we're writing a maths exam.",
+      "highlight": [
+        "Klausur"
+      ]
+    },
+    {
+      "german": "Der Vorstand zieht sich zur Klausur zurück.",
+      "english": "The board is going on a retreat.",
+      "highlight": [
+        "Klausur"
+      ]
+    }
+  ],
+  "forms": [
+    "Klausuren",
+    "die Klausuren",
+    "die Klausur",
+    "Klausurtagung"
+  ],
+  "memoryHook": "Klausur: closed off (Latin clausus), in an exam or a retreat.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Klausur",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Klausur is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Klausur, zwei ___",
+      "answer": "Klausuren",
+      "fullAnswer": "ein Klausur, zwei Klausuren",
+      "explanation": "The plural is Klausuren.",
+      "acceptedAnswers": [
+        "Klausuren"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Klausur mean?",
+      "options": [
+        "written exam",
+        "cheap",
+        "tomorrow"
+      ],
+      "answer": "written exam",
+      "explanation": "Klausur: written exam; retreat.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Klausur schreiben means…",
+      "options": [
+        "to sit a written exam",
+        "to write a letter"
+      ],
+      "answer": "to sit a written exam",
+      "explanation": "Exam.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Klausurtagung is…",
+      "options": [
+        "a closed-door retreat meeting",
+        "a test day"
+      ],
+      "answer": "a closed-door retreat meeting",
+      "explanation": "Retreat.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Klausur gehen means…",
+      "options": [
+        "to withdraw to focus",
+        "to fail"
+      ],
+      "answer": "to withdraw to focus",
+      "explanation": "Seclusion.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Klausur is a written exam at a university or in the upper years of school: eine Klausur schreiben, durch die Klausur fallen. It also means seclusion or retreat: Die Partei geht in Klausur, and eine Klausurtagung is a closed-door strategy meeting where parties often hammer out plans. In monasteries, die Klausur is the area closed to outsiders. From Latin clausura (closure). Plural: die Klausuren."
+}

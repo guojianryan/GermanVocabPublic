@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gegenwehr",
+    "partOfSpeech": "noun, feminine (die Gegenwehr)",
+    "pronunciation": {
+      "respelling": "GAY-gen-vair",
+      "ipa": "ˈɡeːɡn̩ˌveːɐ̯",
+      "notes": "Usually no plural."
+    },
+    "meaning": "resistance",
+    "shortDefinition": "Resistance."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Gegenwehr, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Gegenwehr"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Dieb ließ sich ohne Gegenwehr festnehmen.",
+      "english": "The thief let himself be arrested without resistance.",
+      "highlight": [
+        "Gegenwehr"
+      ]
+    },
+    {
+      "german": "Die Pläne stießen auf heftige Gegenwehr.",
+      "english": "The plans met with fierce resistance.",
+      "highlight": [
+        "Gegenwehr."
+      ]
+    }
+  ],
+  "forms": [
+    "die Gegenwehr"
+  ],
+  "memoryHook": "Gegenwehr: defence (Wehr) against (gegen) an attack.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gegenwehr",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Gegenwehr is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gegenwehr mean?",
+      "options": [
+        "to open",
+        "resistance",
+        "the key"
+      ],
+      "answer": "resistance",
+      "explanation": "Gegenwehr: resistance.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ohne Gegenwehr means…",
+      "options": [
+        "without resistance",
+        "against the weir"
+      ],
+      "answer": "without resistance",
+      "explanation": "No resistance.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Widerstand",
+        "die Abwehr only"
+      ],
+      "answer": "der Widerstand",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich wehren means…",
+      "options": [
+        "to defend oneself, resist",
+        "to marry"
+      ],
+      "answer": "to defend oneself, resist",
+      "explanation": "Root.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Gegenwehr is resistance or fighting back: ohne Gegenwehr (without resistance), heftige Gegenwehr leisten, auf Gegenwehr stoßen (to meet resistance), also of political opposition. The more common synonym is der Widerstand. It comes from sich wehren (to defend oneself) and die Wehr (defence). It has no plural."
+}

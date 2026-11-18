@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Braunkohle",
+    "partOfSpeech": "noun, feminine (die Braunkohle)",
+    "pronunciation": {
+      "respelling": "BRAUN-koh-le",
+      "ipa": "ˈbʁaʊ̯nˌkoːlə",
+      "notes": "Usually no plural."
+    },
+    "meaning": "lignite, brown coal",
+    "shortDefinition": "Lignite, brown coal."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Braunkohle, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Braunkohle"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In der Lausitz wird Braunkohle abgebaut.",
+      "english": "Lignite is mined in Lusatia.",
+      "highlight": [
+        "Braunkohle"
+      ]
+    },
+    {
+      "german": "Der Kohleausstieg ist bis spätestens 2038 geplant.",
+      "english": "The coal phase-out is planned for 2038 at the latest.",
+      "highlight": [
+        "Kohleausstieg"
+      ]
+    }
+  ],
+  "forms": [
+    "die Braunkohle",
+    "Kohleausstieg"
+  ],
+  "memoryHook": "Braunkohle: brown (braun) coal (Kohle).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Braunkohle",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Braunkohle is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Braunkohle mean?",
+      "options": [
+        "hot",
+        "never",
+        "lignite"
+      ],
+      "answer": "lignite",
+      "explanation": "Braunkohle: lignite, brown coal.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany plans to phase out coal by…",
+      "options": [
+        "2038 at the latest",
+        "2025"
+      ],
+      "answer": "2038 at the latest",
+      "explanation": "2038.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Main lignite regions:",
+      "options": [
+        "Rhineland, Lusatia, central Germany",
+        "Bavaria, Black Forest"
+      ],
+      "answer": "Rhineland, Lusatia, central Germany",
+      "explanation": "Regions.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Tagebau is…",
+      "options": [
+        "open-pit mining",
+        "a day's work"
+      ],
+      "answer": "open-pit mining",
+      "explanation": "Open pit.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Braunkohle is lignite, brown coal, mined in huge open pits (Tagebau) in the Rhineland, Lusatia (Lausitz) and central Germany. It's the most CO₂-intensive fuel, and Germany plans to end coal power by 2038 at the latest, 2030 in the Rhineland. Villages have been demolished for mines; the 2023 clearance of Lützerath drew large protests. Hard coal is die Steinkohle. It has no plural."
+}

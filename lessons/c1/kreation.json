@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kreation",
+    "partOfSpeech": "noun, feminine (die Kreation)",
+    "pronunciation": {
+      "respelling": "kre-a-TSYOHN",
+      "ipa": "kʁeaˈt͡si̯oːn",
+      "notes": "Plural: die Kreationen."
+    },
+    "meaning": "creation (design, dish)",
+    "shortDefinition": "Creation (design, dish)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kreation, plural die Kreationen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kreation"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kreationen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Koch präsentierte eine neue Kreation.",
+      "english": "The chef presented a new creation.",
+      "highlight": [
+        "Kreation."
+      ]
+    },
+    {
+      "german": "Die Modeschöpferin zeigte ihre neuesten Kreationen.",
+      "english": "The fashion designer showed her latest creations.",
+      "highlight": [
+        "Kreationen."
+      ]
+    }
+  ],
+  "forms": [
+    "Kreationen",
+    "die Kreation"
+  ],
+  "memoryHook": "Kreation: something kreiert (created).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kreation",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kreation is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kreation, zwei ___",
+      "answer": "Kreationen",
+      "fullAnswer": "ein Kreation, zwei Kreationen",
+      "explanation": "The plural is Kreationen.",
+      "acceptedAnswers": [
+        "Kreationen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kreation mean?",
+      "options": [
+        "the door",
+        "the child",
+        "creation (design"
+      ],
+      "answer": "creation (design",
+      "explanation": "Kreation: creation (design, dish).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kreation is used mainly for…",
+      "options": [
+        "fashion, food, design",
+        "the creation of the world"
+      ],
+      "answer": "fashion, food, design",
+      "explanation": "Use.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The biblical creation is…",
+      "options": [
+        "die Schöpfung",
+        "die Kreation"
+      ],
+      "answer": "die Schöpfung",
+      "explanation": "Contrast.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kreieren means…",
+      "options": [
+        "to create (design)",
+        "to cry"
+      ],
+      "answer": "to create (design)",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kreation is a creation in design, fashion and food: eine neue Kreation des Küchenchefs, die Kreationen eines Modeschöpfers. The creation of the world is die Schöpfung. Kreieren means to create: einen neuen Duft kreieren. Kreativ means creative, and die Kreativität creativity. Plural: die Kreationen."
+}

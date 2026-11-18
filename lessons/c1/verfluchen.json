@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verfluchen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-FLOO-khen",
+      "ipa": "fɛɐ̯ˈfluːxn̩",
+      "notes": ""
+    },
+    "meaning": "to curse",
+    "shortDefinition": "To curse."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verfluch|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verfluch|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verfluch|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verfluch|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verfluch|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verfluch|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verflucht"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Hexe verfluchte das Königreich.",
+      "english": "The witch cursed the kingdom.",
+      "highlight": [
+        "verfluchte"
+      ]
+    },
+    {
+      "german": "Ich habe den Tag verflucht, an dem ich das Auto gekauft habe.",
+      "english": "I cursed the day I bought the car.",
+      "highlight": [
+        "verflucht,"
+      ]
+    }
+  ],
+  "forms": [
+    "verfluche",
+    "verfluchst",
+    "verflucht",
+    "verfluchen",
+    "verfluchte"
+  ],
+  "memoryHook": "Verfluchen: put a Fluch (curse) on.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verfluchen)",
+      "answer": "verflucht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verflucht.",
+      "acceptedAnswers": [
+        "verflucht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verfluchen, past)",
+      "answer": "verflucht",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verflucht.",
+      "acceptedAnswers": [
+        "verflucht"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verfluchen mean?",
+      "options": [
+        "quiet",
+        "to curse",
+        "the street"
+      ],
+      "answer": "to curse",
+      "explanation": "verfluchen: to curse.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Fluch is…",
+      "options": [
+        "curse; swear word",
+        "flight"
+      ],
+      "answer": "curse; swear word",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verflucht! means…",
+      "options": [
+        "Damn!",
+        "Cursed person"
+      ],
+      "answer": "Damn!",
+      "explanation": "Exclamation.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fluchen means…",
+      "options": [
+        "to swear, curse",
+        "to flee"
+      ],
+      "answer": "to swear, curse",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verfluchen means to curse someone or something: Sie verfluchte ihn, Er verflucht sein Schicksal. Verflucht is also an exclamation (Verflucht noch mal! damn it) and an intensifier: verflucht kalt. Fluchen means to swear: wie ein Bierkutscher fluchen (to swear like a trooper). Der Fluch is a curse; many fairy tales turn on one, like Dornröschen. Regular: verfluchte, verflucht."
+}

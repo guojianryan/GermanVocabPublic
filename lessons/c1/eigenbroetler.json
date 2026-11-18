@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Eigenbrötler",
+    "partOfSpeech": "noun, masculine (der Eigenbrötler)",
+    "pronunciation": {
+      "respelling": "AI-gen-bröt-ler",
+      "ipa": "ˈaɪ̯ɡn̩ˌbʁøːtlɐ",
+      "notes": "Plural: die Eigenbrötler."
+    },
+    "meaning": "loner, eccentric",
+    "shortDefinition": "Loner, eccentric."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Eigenbrötler, plural die Eigenbrötler.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Eigenbrötler"
+        },
+        {
+          "label": "More than one",
+          "value": "die Eigenbrötler"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Nachbar ist ein Eigenbrötler.",
+      "english": "The neighbour is a loner.",
+      "highlight": [
+        "Eigenbrötler."
+      ]
+    },
+    {
+      "german": "Sie gilt als Eigenbrötlerin, aber sie ist sehr nett.",
+      "english": "She's considered a loner, but she's very nice.",
+      "highlight": [
+        "Eigenbrötlerin,"
+      ]
+    }
+  ],
+  "forms": [
+    "Eigenbrötlerin",
+    "der Eigenbrötler"
+  ],
+  "memoryHook": "Eigenbrötler: someone who eats his eigenes Brot (own bread).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Eigenbrötler",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Eigenbrötler is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Eigenbrötler, zwei ___",
+      "answer": "Eigenbrötler",
+      "fullAnswer": "ein Eigenbrötler, zwei Eigenbrötler",
+      "explanation": "The plural is Eigenbrötler.",
+      "acceptedAnswers": [
+        "Eigenbroetler"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Eigenbrötler mean?",
+      "options": [
+        "the door",
+        "the shop",
+        "loner"
+      ],
+      "answer": "loner",
+      "explanation": "Eigenbrötler: loner, eccentric.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Literally, an Eigenbrötler is…",
+      "options": [
+        "someone who bakes his own bread",
+        "a breadwinner"
+      ],
+      "answer": "someone who bakes his own bread",
+      "explanation": "Origin.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eigenbrötlerisch means…",
+      "options": [
+        "solitary, odd",
+        "self-sufficient farming"
+      ],
+      "answer": "solitary, odd",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Einzelgänger, der Sonderling, der Kauz",
+        "der Partylöwe"
+      ],
+      "answer": "der Einzelgänger, der Sonderling, der Kauz",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Eigenbrötler or die Eigenbrötlerin is a loner or eccentric who keeps to themselves. The word originally described someone who baked their own bread rather than sharing a household. Eigenbrötlerisch means solitary and odd. Synonyms: der Einzelgänger, der Sonderling, der Kauz (a funny old bird). The plural is the same."
+}

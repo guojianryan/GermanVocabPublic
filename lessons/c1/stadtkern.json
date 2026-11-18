@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Stadtkern",
+    "partOfSpeech": "noun, masculine (der Stadtkern)",
+    "pronunciation": {
+      "respelling": "SHTAT-kern",
+      "ipa": "ˈʃtatˌkɛʁn",
+      "notes": "Plural: die Stadtkerne."
+    },
+    "meaning": "town centre, city core",
+    "shortDefinition": "Town centre, city core."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Stadtkern, plural die Stadtkerne.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Stadtkern"
+        },
+        {
+          "label": "More than one",
+          "value": "die Stadtkerne"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der historische Stadtkern ist autofrei.",
+      "english": "The historic town centre is car-free.",
+      "highlight": [
+        "Stadtkern"
+      ]
+    },
+    {
+      "german": "Viele Geschäfte im Stadtkern stehen leer.",
+      "english": "Many shops in the town centre are empty.",
+      "highlight": [
+        "Stadtkern"
+      ]
+    }
+  ],
+  "forms": [
+    "Stadtkerne",
+    "der Stadtkern"
+  ],
+  "memoryHook": "Stadtkern: the Kern (core) of a Stadt.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Stadtkern",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Stadtkern is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Stadtkern, zwei ___",
+      "answer": "Stadtkerne",
+      "fullAnswer": "ein Stadtkern, zwei Stadtkerne",
+      "explanation": "The plural is Stadtkerne.",
+      "acceptedAnswers": [
+        "Stadtkerne"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Stadtkern mean?",
+      "options": [
+        "the door",
+        "town centre",
+        "to open"
+      ],
+      "answer": "town centre",
+      "explanation": "Stadtkern: town centre, city core.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kern is…",
+      "options": [
+        "core, kernel, stone (fruit)",
+        "a corner"
+      ],
+      "answer": "core, kernel, stone (fruit)",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Innenstadt, das Zentrum, die Altstadt",
+        "der Vorort"
+      ],
+      "answer": "die Innenstadt, das Zentrum, die Altstadt",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Vorort is…",
+      "options": [
+        "suburb",
+        "a foreword"
+      ],
+      "answer": "suburb",
+      "explanation": "Contrast.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Stadtkern is the town centre or core: der historische Stadtkern, often a medieval Altstadt with half-timbered houses. Many German towns struggle with empty shops there (Innenstadtsterben) as shopping moves online. Der Kern means core, kernel or fruit stone. Synonyms: die Innenstadt, das Zentrum. The opposite is der Stadtrand (outskirts). Plural: die Stadtkerne."
+}

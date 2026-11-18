@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Eingabe",
+    "partOfSpeech": "noun, feminine (die Eingabe)",
+    "pronunciation": {
+      "respelling": "AIN-gaa-be",
+      "ipa": "ˈaɪ̯nˌɡaːbə",
+      "notes": "Plural: die Eingaben."
+    },
+    "meaning": "input, entry; petition",
+    "shortDefinition": "Input, entry; petition."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Eingabe, plural die Eingaben.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Eingabe"
+        },
+        {
+          "label": "More than one",
+          "value": "die Eingaben"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bitte bestätigen Sie Ihre Eingabe mit Enter.",
+      "english": "Please confirm your entry with Enter.",
+      "highlight": [
+        "Eingabe"
+      ]
+    },
+    {
+      "german": "Die Bürger machten eine Eingabe an den Landtag.",
+      "english": "The citizens submitted a petition to the state parliament.",
+      "highlight": [
+        "Eingabe"
+      ]
+    }
+  ],
+  "forms": [
+    "Eingaben",
+    "die Eingaben",
+    "die Eingabe",
+    "eingeben",
+    "Eingabetaste"
+  ],
+  "memoryHook": "Eingabe: what you give (geben) in (ein).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Eingabe",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Eingabe is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Eingabe, zwei ___",
+      "answer": "Eingaben",
+      "fullAnswer": "ein Eingabe, zwei Eingaben",
+      "explanation": "The plural is Eingaben.",
+      "acceptedAnswers": [
+        "Eingaben"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Eingabe mean?",
+      "options": [
+        "the job",
+        "to buy",
+        "input"
+      ],
+      "answer": "input",
+      "explanation": "Eingabe: input, entry; petition.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Eingabetaste is…",
+      "options": [
+        "the Enter key",
+        "the space bar"
+      ],
+      "answer": "the Enter key",
+      "explanation": "Key.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eingeben means…",
+      "options": [
+        "to enter (data), type in",
+        "to give in"
+      ],
+      "answer": "to enter (data), type in",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In the GDR, an Eingabe was…",
+      "options": [
+        "a citizen's complaint to authorities",
+        "a tax form"
+      ],
+      "answer": "a citizen's complaint to authorities",
+      "explanation": "GDR.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Eingabe is input or entry in computing (die Eingabe von Daten, die Eingabetaste, the Enter key) and a formal petition or complaint to an authority. In the GDR, writing an Eingabe to officials was one of the few ways citizens could complain, and hundreds of thousands were written every year. The verb eingeben means to enter data: das Passwort eingeben. Plural: die Eingaben."
+}

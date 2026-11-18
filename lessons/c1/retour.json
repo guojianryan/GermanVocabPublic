@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "retour",
+    "partOfSpeech": "adverb",
+    "pronunciation": {
+      "respelling": "re-TOOR",
+      "ipa": "ʁeˈtuːɐ̯",
+      "notes": ""
+    },
+    "meaning": "back, return (Austrian, Swiss, colloquial)",
+    "shortDefinition": "Back, return (Austrian, Swiss, colloquial)."
+  },
+  "sampleSentences": [
+    {
+      "german": "Einmal Wien retour, bitte.",
+      "english": "A return ticket to Vienna, please.",
+      "highlight": [
+        "retour,"
+      ]
+    },
+    {
+      "german": "Das Geld bekommst du morgen retour.",
+      "english": "You'll get the money back tomorrow.",
+      "highlight": [
+        "retour."
+      ]
+    }
+  ],
+  "forms": [
+    "retour",
+    "Retoure"
+  ],
+  "memoryHook": "Retour: back (French retour).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does retour mean?",
+      "options": [
+        "the bed",
+        "hot",
+        "back"
+      ],
+      "answer": "back",
+      "explanation": "retour: back, return (Austrian, Swiss, colloquial).",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Retour is common in…",
+      "options": [
+        "Austria and Switzerland",
+        "northern Germany"
+      ],
+      "answer": "Austria and Switzerland",
+      "explanation": "Region.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Standard German equivalent:",
+      "options": [
+        "zurück",
+        "voraus"
+      ],
+      "answer": "zurück",
+      "explanation": "Synonym.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Retoure (online shopping) is…",
+      "options": [
+        "a returned item",
+        "a round trip"
+      ],
+      "answer": "a returned item",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Hin und ___ (return trip, Austria)",
+      "answer": "retour",
+      "fullAnswer": "Hin und retour",
+      "explanation": "retour.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Retour means back or return, from French, common in Austria and Switzerland: eine Fahrkarte hin und retour (return ticket), etwas retour schicken, retour geben. Standard German says zurück. In Germany, die Retoure means a returned online order; Germans are among Europe's most frequent returners of parcels. Das Retourgeld in Austria is change."
+}

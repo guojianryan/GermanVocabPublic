@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Volksvertreter",
+    "partOfSpeech": "noun, masculine (der Volksvertreter)",
+    "pronunciation": {
+      "respelling": "FOLKS-fer-tray-ter",
+      "ipa": "ˈfɔlksfɛɐ̯ˌtreːtɐ",
+      "notes": "Plural: die Volksvertreter."
+    },
+    "meaning": "elected representative",
+    "shortDefinition": "Elected representative."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Volksvertreter, plural die Volksvertreter.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Volksvertreter"
+        },
+        {
+          "label": "More than one",
+          "value": "die Volksvertreter"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Volksvertreter stimmten über das Gesetz ab.",
+      "english": "The people's representatives voted on the law.",
+      "highlight": [
+        "Volksvertreter"
+      ]
+    },
+    {
+      "german": "Als Volksvertreterin ist sie ihren Wählern verpflichtet.",
+      "english": "As a representative she is accountable to her voters.",
+      "highlight": [
+        "Volksvertreterin"
+      ]
+    }
+  ],
+  "forms": [
+    "Volksvertreterin",
+    "der Volksvertreter"
+  ],
+  "memoryHook": "Volksvertreter: someone who vertritt (represents) the Volk.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Volksvertreter",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Volksvertreter is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Volksvertreter, zwei ___",
+      "answer": "Volksvertreter",
+      "fullAnswer": "ein Volksvertreter, zwei Volksvertreter",
+      "explanation": "The plural is Volksvertreter.",
+      "acceptedAnswers": [
+        "Volksvertreter"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Volksvertreter mean?",
+      "options": [
+        "elected representative",
+        "to sing",
+        "hot"
+      ],
+      "answer": "elected representative",
+      "explanation": "Volksvertreter: elected representative.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Volksvertretung is…",
+      "options": [
+        "parliament",
+        "folk dance"
+      ],
+      "answer": "parliament",
+      "explanation": "Parliament.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Abgeordnete is…",
+      "options": [
+        "member of parliament",
+        "a delegate to a club"
+      ],
+      "answer": "member of parliament",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Members of the Bundestag are bound…",
+      "options": [
+        "only by their conscience (Art. 38)",
+        "by party orders"
+      ],
+      "answer": "only by their conscience (Art. 38)",
+      "explanation": "Grundgesetz.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Volksvertreter (die Volksvertreterin) is an elected representative of the people, a slightly elevated word for der Abgeordnete. Parliament is the Volksvertretung. According to Article 38 of the Grundgesetz, members of the Bundestag are representatives of the whole people, not bound by orders, and subject only to their conscience. The plural is the same: die Volksvertreter."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Nachrichtenagentur",
+    "partOfSpeech": "noun, feminine (die Nachrichtenagentur)",
+    "pronunciation": {
+      "respelling": "NAAKH-rikh-ten-a-gen-toor",
+      "ipa": "ˈnaːxʁɪçtn̩ʔaɡɛnˌtuːɐ̯",
+      "notes": "Plural: die Nachrichtenagenturen."
+    },
+    "meaning": "news agency",
+    "shortDefinition": "News agency."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Nachrichtenagentur, plural die Nachrichtenagenturen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Nachrichtenagentur"
+        },
+        {
+          "label": "More than one",
+          "value": "die Nachrichtenagenturen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das meldet die Nachrichtenagentur dpa.",
+      "english": "That's according to the news agency dpa.",
+      "highlight": [
+        "Nachrichtenagentur"
+      ]
+    },
+    {
+      "german": "Die Nachrichtenagentur Reuters hat einen Bericht veröffentlicht.",
+      "english": "The news agency Reuters has published a report.",
+      "highlight": [
+        "Nachrichtenagentur"
+      ]
+    }
+  ],
+  "forms": [
+    "Nachrichtenagenturen",
+    "die Nachrichtenagentur"
+  ],
+  "memoryHook": "Nachrichtenagentur: an Agentur supplying Nachrichten (news).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Nachrichtenagentur",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Nachrichtenagentur is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Nachrichtenagentur, zwei ___",
+      "answer": "Nachrichtenagenturen",
+      "fullAnswer": "ein Nachrichtenagentur, zwei Nachrichtenagenturen",
+      "explanation": "The plural is Nachrichtenagenturen.",
+      "acceptedAnswers": [
+        "Nachrichtenagenturen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Nachrichtenagentur mean?",
+      "options": [
+        "news agency",
+        "the key",
+        "the flower"
+      ],
+      "answer": "news agency",
+      "explanation": "Nachrichtenagentur: news agency.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's largest news agency is…",
+      "options": [
+        "dpa (Deutsche Presse-Agentur)",
+        "ARD"
+      ],
+      "answer": "dpa (Deutsche Presse-Agentur)",
+      "explanation": "dpa.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Nachricht is…",
+      "options": [
+        "news item, message",
+        "night"
+      ],
+      "answer": "news item, message",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Meldung is…",
+      "options": [
+        "report, announcement",
+        "a melody"
+      ],
+      "answer": "report, announcement",
+      "explanation": "Report.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Nachrichtenagentur is a news agency. Germany's largest is dpa (Deutsche Presse-Agentur, founded 1949, Hamburg/Berlin), whose reports supply most newspapers; others include AFP, Reuters and the church agencies KNA and epd. Reuters itself was founded by Paul Julius Reuter, born in Kassel. News reports often end with a source: (dpa). Die Nachricht means news item. Plural: die Nachrichtenagenturen."
+}

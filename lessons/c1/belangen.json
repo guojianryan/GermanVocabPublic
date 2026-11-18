@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "belangen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-LANG-en",
+      "ipa": "bəˈlaŋən",
+      "notes": ""
+    },
+    "meaning": "to prosecute, sue; to hold liable",
+    "shortDefinition": "To prosecute, sue; to hold liable."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "belang|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "belang|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "belang|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "belang|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "belang|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "belang|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat belangt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er kann dafür nicht belangt werden.",
+      "english": "He can't be prosecuted for that.",
+      "highlight": [
+        "belangt"
+      ]
+    },
+    {
+      "german": "Die Firma wurde gerichtlich belangt.",
+      "english": "The company was taken to court.",
+      "highlight": [
+        "belangt."
+      ]
+    }
+  ],
+  "forms": [
+    "belange",
+    "belangst",
+    "belangt",
+    "belangen",
+    "Belang",
+    "belanglos"
+  ],
+  "memoryHook": "Belangen: when something gelangt (reaches) court.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (belangen)",
+      "answer": "belangt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: belangt.",
+      "acceptedAnswers": [
+        "belangt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (belangen, past)",
+      "answer": "belangt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe belangt.",
+      "acceptedAnswers": [
+        "belangt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does belangen mean?",
+      "options": [
+        "the bed",
+        "to help",
+        "to prosecute"
+      ],
+      "answer": "to prosecute",
+      "explanation": "belangen: to prosecute, sue; to hold liable.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden belangen means…",
+      "options": [
+        "to take legal action against someone",
+        "to lengthen something"
+      ],
+      "answer": "to take legal action against someone",
+      "explanation": "Legal.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Belang is…",
+      "options": [
+        "concern, matter of importance",
+        "a length"
+      ],
+      "answer": "concern, matter of importance",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Belanglos means…",
+      "options": [
+        "trivial, irrelevant",
+        "endless"
+      ],
+      "answer": "trivial, irrelevant",
+      "explanation": "Trivial.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Belangen means to take legal action against someone or hold them liable: strafrechtlich belangt werden (to be prosecuted). It's mostly used in the passive and in legal or news contexts. Der Belang is a matter of concern: von Belang sein (to be relevant), die Belange der Bürger (the concerns of citizens). Belanglos means trivial: belangloses Gerede (small talk). Was mich anbelangt, from the related verb anbelangen, means as far as I'm concerned."
+}

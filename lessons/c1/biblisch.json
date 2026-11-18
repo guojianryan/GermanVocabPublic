@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "biblisch",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "BEE-blish",
+      "ipa": "ˈbiːblɪʃ",
+      "notes": ""
+    },
+    "meaning": "biblical",
+    "shortDefinition": "Biblical."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die Geschichte hat biblische Wurzeln.",
+      "english": "The story has biblical roots.",
+      "highlight": [
+        "biblische"
+      ]
+    },
+    {
+      "german": "Sie erreichte ein biblisches Alter.",
+      "english": "She reached a ripe old age.",
+      "highlight": [
+        "biblisches"
+      ]
+    }
+  ],
+  "forms": [
+    "biblische",
+    "biblischen",
+    "biblisches",
+    "Bibel"
+  ],
+  "memoryHook": "Biblisch: from or like the Bibel.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does biblisch mean?",
+      "options": [
+        "slowly",
+        "biblical",
+        "to travel"
+      ],
+      "answer": "biblical",
+      "explanation": "biblisch: biblical.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein biblisches Alter means…",
+      "options": [
+        "a very old age",
+        "the age of the Bible"
+      ],
+      "answer": "a very old age",
+      "explanation": "Idiom.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Bibel is…",
+      "options": [
+        "the Bible",
+        "a library"
+      ],
+      "answer": "the Bible",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Luther translated the Bible into German in…",
+      "options": [
+        "the 16th century",
+        "the 19th century"
+      ],
+      "answer": "the 16th century",
+      "explanation": "Luther.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Geschichte (biblical)",
+      "answer": "biblische",
+      "fullAnswer": "eine biblische Geschichte",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Biblisch means biblical: biblische Geschichten, biblische Namen. Ein biblisches Alter erreichen means to reach a ripe old age, like Methuselah. Biblische Ausmaße are biblical proportions, of floods or plagues. Martin Luther's translation of the Bible (New Testament 1522, complete 1534) shaped modern standard German and gave it many expressions still used today."
+}

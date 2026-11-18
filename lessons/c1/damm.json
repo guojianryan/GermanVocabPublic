@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Damm",
+    "partOfSpeech": "noun, masculine (der Damm)",
+    "pronunciation": {
+      "respelling": "dam",
+      "ipa": "dam",
+      "notes": "Plural: die Dämme."
+    },
+    "meaning": "dam, dyke; embankment",
+    "shortDefinition": "Dam, dyke; embankment."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Damm, plural die Dämme.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Damm"
+        },
+        {
+          "label": "More than one",
+          "value": "die Dämme"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Damm hielt dem Hochwasser stand.",
+      "english": "The dyke withstood the flood.",
+      "highlight": [
+        "Damm"
+      ]
+    },
+    {
+      "german": "Ich bin heute nicht ganz auf dem Damm.",
+      "english": "I'm not quite up to scratch today.",
+      "highlight": [
+        "Damm."
+      ]
+    }
+  ],
+  "forms": [
+    "Dämme",
+    "die Dämme",
+    "der Damm",
+    "Staudamm"
+  ],
+  "memoryHook": "Damm: holds back water, and keeps you on your feet.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Damm",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Damm is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Damm, zwei ___",
+      "answer": "Dämme",
+      "fullAnswer": "ein Damm, zwei Dämme",
+      "explanation": "The plural is Dämme.",
+      "acceptedAnswers": [
+        "Daemme"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Damm mean?",
+      "options": [
+        "dam",
+        "the street",
+        "the shop"
+      ],
+      "answer": "dam",
+      "explanation": "Damm: dam, dyke; embankment.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nicht auf dem Damm sein means…",
+      "options": [
+        "to feel under the weather",
+        "to be on a dam"
+      ],
+      "answer": "to feel under the weather",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Deich is…",
+      "options": [
+        "a dyke along a coast or river",
+        "a pond"
+      ],
+      "answer": "a dyke along a coast or river",
+      "explanation": "Deich.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Dämme",
+        "die Damme"
+      ],
+      "answer": "die Dämme",
+      "explanation": "Umlaut.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Damm is a dam or embankment: der Staudamm (dam across a river), der Bahndamm (railway embankment). Along coasts and rivers, Germans usually say der Deich. In Berlin, der Damm also appears in street names, like the famous Kurfürstendamm, often called der Ku'damm. The idiom nicht auf dem Damm sein means to feel under the weather. Einer Sache einen Damm entgegensetzen means to stem something. Plural: die Dämme."
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "gesundheitlich",
+    "partOfSpeech": "adjective / adverb",
+    "pronunciation": {
+      "respelling": "ge-ZUNT-hait-likh",
+      "ipa": "ɡəˈzʊnthaɪ̯tlɪç",
+      "notes": ""
+    },
+    "meaning": "health-related, in terms of health",
+    "shortDefinition": "Health-related, in terms of health."
+  },
+  "sampleSentences": [
+    {
+      "german": "Er hat gesundheitliche Probleme.",
+      "english": "He has health problems.",
+      "highlight": [
+        "gesundheitliche"
+      ]
+    },
+    {
+      "german": "Wie geht es Ihnen gesundheitlich?",
+      "english": "How are you in terms of health?",
+      "highlight": [
+        "gesundheitlich?"
+      ]
+    }
+  ],
+  "forms": [
+    "gesundheitliche",
+    "gesundheitlichen",
+    "Gesundheit"
+  ],
+  "memoryHook": "Gesundheitlich: to do with your Gesundheit.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does gesundheitlich mean?",
+      "options": [
+        "health-related",
+        "the key",
+        "to buy"
+      ],
+      "answer": "health-related",
+      "explanation": "gesundheitlich: health-related, in terms of health.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Aus gesundheitlichen Gründen means…",
+      "options": [
+        "for health reasons",
+        "for healthy reasons"
+      ],
+      "answer": "for health reasons",
+      "explanation": "Health reasons.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gesund means…",
+      "options": [
+        "healthy",
+        "sound only"
+      ],
+      "answer": "healthy",
+      "explanation": "gesund.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gesundheit is…",
+      "options": [
+        "health",
+        "a toast"
+      ],
+      "answer": "health",
+      "explanation": "Also said after a sneeze!",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "aus ___ Gründen (health)",
+      "answer": "gesundheitlichen",
+      "fullAnswer": "aus gesundheitlichen Gründen",
+      "explanation": "Ending -en.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Gesundheitlich means health-related or in terms of health: gesundheitliche Probleme, gesundheitlich angeschlagen (in poor health). Aus gesundheitlichen Gründen (for health reasons) is the standard phrase when a politician or athlete steps down. Don't confuse it with gesund (healthy): Obst ist gesund. Die Gesundheit is health, and Gesundheit! is what Germans say when someone sneezes; the polite reply is Danke!"
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "blechen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "BLE-khen",
+      "ipa": "ˈblɛçn̩",
+      "notes": ""
+    },
+    "meaning": "to cough up, pay (colloquial)",
+    "shortDefinition": "To cough up, pay (colloquial)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "blech|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "blech|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "blech|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "blech|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "blech|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "blech|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geblecht"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Für das Parken musste ich zwanzig Euro blechen.",
+      "english": "I had to cough up twenty euros for parking.",
+      "highlight": [
+        "blechen."
+      ]
+    },
+    {
+      "german": "Am Ende blecht wieder der Steuerzahler.",
+      "english": "In the end, the taxpayer pays up again.",
+      "highlight": [
+        "blecht"
+      ]
+    }
+  ],
+  "forms": [
+    "bleche",
+    "blechst",
+    "blecht",
+    "blechen",
+    "geblecht",
+    "Blech"
+  ],
+  "memoryHook": "Blechen: hand over your Blech (coins).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (blechen)",
+      "answer": "blecht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: blecht.",
+      "acceptedAnswers": [
+        "blecht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (blechen, past)",
+      "answer": "geblecht",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geblecht.",
+      "acceptedAnswers": [
+        "geblecht"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does blechen mean?",
+      "options": [
+        "to cough up",
+        "to learn",
+        "the key"
+      ],
+      "answer": "to cough up",
+      "explanation": "blechen: to cough up, pay (colloquial).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Blechen is…",
+      "options": [
+        "colloquial for paying (unwillingly)",
+        "a metalworking term only"
+      ],
+      "answer": "colloquial for paying (unwillingly)",
+      "explanation": "Colloquial.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Blech is…",
+      "options": [
+        "sheet metal, tin; (colloq.) nonsense",
+        "a bleach"
+      ],
+      "answer": "sheet metal, tin; (colloq.) nonsense",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Blechschaden is…",
+      "options": [
+        "damage to the bodywork only",
+        "a tin can"
+      ],
+      "answer": "damage to the bodywork only",
+      "explanation": "Car.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Blechen is colloquial for paying, usually reluctantly or a lot: Für die Reparatur musste ich ordentlich blechen. Synonyms: berappen, löhnen. It comes from das Blech (sheet metal, tin), slang for coins. Das Blech is also colloquial for nonsense: Red kein Blech!, and der Blechschaden is minor bodywork damage after a crash. Die Blechtrommel (The Tin Drum) is Günter Grass's famous novel. Regular: blechte, geblecht."
+}

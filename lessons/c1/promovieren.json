@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "promovieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "pro-mo-VEE-ren",
+      "ipa": "pʁomoˈviːʁən",
+      "notes": ""
+    },
+    "meaning": "to do a doctorate, earn a PhD",
+    "shortDefinition": "To do a doctorate, earn a PhD."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "promovier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "promovier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "promovier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "promovier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "promovier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "promovier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat promoviert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie promoviert in Chemie.",
+      "english": "She's doing a PhD in chemistry.",
+      "highlight": [
+        "promoviert"
+      ]
+    },
+    {
+      "german": "Er hat über Kant promoviert.",
+      "english": "He did his doctorate on Kant.",
+      "highlight": [
+        "promoviert."
+      ]
+    }
+  ],
+  "forms": [
+    "promoviere",
+    "promovierst",
+    "promoviert",
+    "promovieren",
+    "Promotion"
+  ],
+  "memoryHook": "Promovieren: be moved forward (promovere) to doctor.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (promovieren)",
+      "answer": "promoviert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: promoviert.",
+      "acceptedAnswers": [
+        "promoviert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (promovieren, past)",
+      "answer": "promoviert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe promoviert.",
+      "acceptedAnswers": [
+        "promoviert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does promovieren mean?",
+      "options": [
+        "the weather",
+        "to do a doctorate",
+        "slowly"
+      ],
+      "answer": "to do a doctorate",
+      "explanation": "promovieren: to do a doctorate, earn a PhD.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Promovieren means…",
+      "options": [
+        "to earn a doctorate",
+        "to promote a product"
+      ],
+      "answer": "to earn a doctorate",
+      "explanation": "False friend.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Promotion is…",
+      "options": [
+        "doctorate; (also) promotion",
+        "only advertising"
+      ],
+      "answer": "doctorate; (also) promotion",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Doktorvater is…",
+      "options": [
+        "doctoral supervisor",
+        "a doctor's father"
+      ],
+      "answer": "doctoral supervisor",
+      "explanation": "Supervisor.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Promovieren means to do or complete a doctorate: in Physik promovieren, über ein Thema promovieren. It's a false friend: promoting a product is bewerben. Die Promotion is the doctorate, the thesis is die Doktorarbeit or Dissertation, and the supervisor is der Doktorvater or die Doktormutter. In 2011 defence minister Karl-Theodor zu Guttenberg lost his doctorate for plagiarism and resigned. Perfect: hat promoviert."
+}

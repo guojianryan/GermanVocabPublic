@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Präsidium",
+    "partOfSpeech": "noun, neuter (das Präsidium)",
+    "pronunciation": {
+      "respelling": "prai-ZEE-di-um",
+      "ipa": "pʁɛˈziːdi̯ʊm",
+      "notes": "Plural: die Präsidien."
+    },
+    "meaning": "executive committee, presidium; police HQ",
+    "shortDefinition": "Executive committee, presidium; police HQ."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Präsidium, plural die Präsidien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Präsidium"
+        },
+        {
+          "label": "More than one",
+          "value": "die Präsidien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Präsidium des Vereins tagt monatlich.",
+      "english": "The club's executive board meets monthly.",
+      "highlight": [
+        "Präsidium"
+      ]
+    },
+    {
+      "german": "Er wurde ins Polizeipräsidium gebracht.",
+      "english": "He was taken to police headquarters.",
+      "highlight": [
+        "Polizeipräsidium"
+      ]
+    }
+  ],
+  "forms": [
+    "Präsidien",
+    "die Präsidien",
+    "das Präsidium",
+    "Polizeipräsidium"
+  ],
+  "memoryHook": "Präsidium: the presiding (präsidieren) body.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Präsidium",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Präsidium is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Präsidium, zwei ___",
+      "answer": "Präsidien",
+      "fullAnswer": "ein Präsidium, zwei Präsidien",
+      "explanation": "The plural is Präsidien.",
+      "acceptedAnswers": [
+        "Praesidien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Präsidium mean?",
+      "options": [
+        "the bread",
+        "to sing",
+        "executive committee"
+      ],
+      "answer": "executive committee",
+      "explanation": "Präsidium: executive committee, presidium; police HQ.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Polizeipräsidium is…",
+      "options": [
+        "police headquarters",
+        "the police president"
+      ],
+      "answer": "police headquarters",
+      "explanation": "HQ.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Präsidien",
+        "die Präsidiums"
+      ],
+      "answer": "die Präsidien",
+      "explanation": "Latin.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Präsident is…",
+      "options": [
+        "president; head (of an authority)",
+        "presidium"
+      ],
+      "answer": "president; head (of an authority)",
+      "explanation": "Person.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Präsidium is an executive committee or presiding board: das Präsidium des Bundestages (the President and Vice-Presidents), das Präsidium einer Partei, des DFB (German Football Association). Das Polizeipräsidium is a police headquarters, headed by the Polizeipräsident. In the Soviet Union, the Presidium was a top state body. From Latin praesidium (protection, presiding). Plural: die Präsidien."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kondition",
+    "partOfSpeech": "noun, feminine (die Kondition)",
+    "pronunciation": {
+      "respelling": "kon-di-TSYOHN",
+      "ipa": "kɔndiˈt͡si̯oːn",
+      "notes": "Plural: die Konditionen."
+    },
+    "meaning": "fitness, stamina; (pl.) terms",
+    "shortDefinition": "Fitness, stamina; (pl.) terms."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kondition, plural die Konditionen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kondition"
+        },
+        {
+          "label": "More than one",
+          "value": "die Konditionen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Für den Marathon braucht man eine gute Kondition.",
+      "english": "You need good stamina for a marathon.",
+      "highlight": [
+        "Kondition."
+      ]
+    },
+    {
+      "german": "Die Bank bietet günstige Konditionen.",
+      "english": "The bank offers favourable terms.",
+      "highlight": [
+        "Konditionen."
+      ]
+    }
+  ],
+  "forms": [
+    "Konditionen",
+    "die Konditionen",
+    "die Kondition"
+  ],
+  "memoryHook": "Kondition: stamina, or the terms of a deal.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kondition",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kondition is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kondition, zwei ___",
+      "answer": "Konditionen",
+      "fullAnswer": "ein Kondition, zwei Konditionen",
+      "explanation": "The plural is Konditionen.",
+      "acceptedAnswers": [
+        "Konditionen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kondition mean?",
+      "options": [
+        "fitness",
+        "to buy",
+        "the bill"
+      ],
+      "answer": "fitness",
+      "explanation": "Kondition: fitness, stamina; (pl.) terms.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kondition (singular) usually means…",
+      "options": [
+        "fitness, stamina",
+        "condition of an object"
+      ],
+      "answer": "fitness, stamina",
+      "explanation": "Fitness.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Konditionen (plural) means…",
+      "options": [
+        "terms (of a deal)",
+        "fitness levels"
+      ],
+      "answer": "terms (of a deal)",
+      "explanation": "Terms.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "For the condition of an object, German uses…",
+      "options": [
+        "der Zustand",
+        "die Kondition"
+      ],
+      "answer": "der Zustand",
+      "explanation": "Zustand.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kondition is a false friend. In the singular, it usually means physical fitness or stamina: eine gute Kondition haben, Konditionstraining. In the plural, Konditionen are terms or conditions of a deal: Kreditkonditionen, zu günstigen Konditionen. For the condition of an object, German says der Zustand: Das Auto ist in gutem Zustand. Conditions as requirements are Bedingungen. Plural: die Konditionen."
+}

@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ansatzweise",
+    "partOfSpeech": "adverb",
+    "pronunciation": {
+      "respelling": "AN-zats-vai-ze",
+      "ipa": "ˈanzat͡sˌvaɪ̯zə",
+      "notes": ""
+    },
+    "meaning": "to some extent, in part",
+    "shortDefinition": "To some extent, in part."
+  },
+  "sampleSentences": [
+    {
+      "german": "Das ist nicht einmal ansatzweise richtig.",
+      "english": "That's not even remotely correct.",
+      "highlight": [
+        "ansatzweise"
+      ]
+    },
+    {
+      "german": "Der Plan wurde nur ansatzweise umgesetzt.",
+      "english": "The plan was only partly implemented.",
+      "highlight": [
+        "ansatzweise"
+      ]
+    }
+  ],
+  "forms": [
+    "ansatzweise"
+  ],
+  "memoryHook": "Ansatzweise: only as a beginning (Ansatz).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does ansatzweise mean?",
+      "options": [
+        "the flower",
+        "to wait",
+        "to some extent"
+      ],
+      "answer": "to some extent",
+      "explanation": "ansatzweise: to some extent, in part.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nicht einmal ansatzweise means…",
+      "options": [
+        "not even remotely",
+        "not even once"
+      ],
+      "answer": "not even remotely",
+      "explanation": "Emphatic.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ansatz is…",
+      "options": [
+        "approach; beginning, start",
+        "a sentence"
+      ],
+      "answer": "approach; beginning, start",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "-weise forms adverbs like…",
+      "options": [
+        "teilweise, möglicherweise",
+        "Weisheit"
+      ],
+      "answer": "teilweise, möglicherweise",
+      "explanation": "Suffix.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Er hat es nur ___ verstanden. (partly)",
+      "answer": "ansatzweise",
+      "fullAnswer": "Er hat es nur ansatzweise verstanden.",
+      "explanation": "ansatzweise.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Ansatzweise means partly, to some extent, or in rudimentary form: Das Problem ist ansatzweise gelöst. Very common is the emphatic negative nicht (einmal) ansatzweise (not even remotely): Das ist nicht ansatzweise genug. Der Ansatz is an approach or beginning: ein guter Ansatz. The suffix -weise makes many adverbs: teilweise, schrittweise, ausnahmsweise."
+}

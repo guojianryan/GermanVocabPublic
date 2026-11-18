@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "hinauslaufen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "hi-NAUS-lau-fen",
+      "ipa": "hɪˈnaʊ̯sˌlaʊ̯fn̩",
+      "notes": ""
+    },
+    "meaning": "to run out; to amount to, end up as",
+    "shortDefinition": "To run out; to amount to, end up as."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "lauf|e … |hinaus"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "läuf|st … |hinaus"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "läuf|t … |hinaus"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "lauf|en … |hinaus"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "lauf|t … |hinaus"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "lauf|en … |hinaus"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist hinausgelaufen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das läuft auf einen Kompromiss hinaus.",
+      "english": "It's going to end up as a compromise.",
+      "highlight": [
+        "läuft",
+        "hinaus."
+      ]
+    },
+    {
+      "german": "Worauf soll das hinauslaufen?",
+      "english": "What's that supposed to lead to?",
+      "highlight": [
+        "hinauslaufen?"
+      ]
+    }
+  ],
+  "forms": [
+    "laufe hinaus",
+    "läufst hinaus",
+    "läuft hinaus",
+    "laufen hinaus",
+    "lauft hinaus",
+    "hinausgelaufen",
+    "lief hinaus"
+  ],
+  "memoryHook": "Hinauslaufen: laufen (run) hinaus (out) towards an end.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … hinaus (hinauslaufen)",
+      "answer": "läuft",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: läuft … hinaus.",
+      "acceptedAnswers": [
+        "laeuft"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (hinauslaufen, past)",
+      "answer": "hinausgelaufen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin hinausgelaufen.",
+      "acceptedAnswers": [
+        "hinausgelaufen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does hinauslaufen mean?",
+      "options": [
+        "the family",
+        "to run out",
+        "the job"
+      ],
+      "answer": "to run out",
+      "explanation": "hinauslaufen: to run out; to amount to, end up as.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Auf etwas hinauslaufen means…",
+      "options": [
+        "to amount to, lead to",
+        "to run away from"
+      ],
+      "answer": "to amount to, lead to",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hinauslaufen takes…",
+      "options": [
+        "sein",
+        "haben"
+      ],
+      "answer": "sein",
+      "explanation": "Auxiliary.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym (amount to):",
+      "options": [
+        "hinführen, enden in",
+        "anfangen"
+      ],
+      "answer": "hinführen, enden in",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Hinauslaufen literally means to run out (of a room). More often it's used with auf: auf etwas hinauslaufen means to amount to or end up as: Es läuft darauf hinaus, dass wir zahlen müssen. Worauf läuft das hinaus? asks where it's leading. Synonyms: hinführen, enden. Irregular with sein: lief hinaus, ist hinausgelaufen."
+}

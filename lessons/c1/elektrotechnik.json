@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Elektrotechnik",
+    "partOfSpeech": "noun, feminine (die Elektrotechnik)",
+    "pronunciation": {
+      "respelling": "e-LEK-tro-tekh-nik",
+      "ipa": "eˈlɛktʁoˌtɛçnɪk",
+      "notes": "Usually no plural."
+    },
+    "meaning": "electrical engineering",
+    "shortDefinition": "Electrical engineering."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Elektrotechnik, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Elektrotechnik"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie studiert Elektrotechnik.",
+      "english": "She's studying electrical engineering.",
+      "highlight": [
+        "Elektrotechnik."
+      ]
+    },
+    {
+      "german": "Er arbeitet in der Elektrotechnikbranche.",
+      "english": "He works in the electrical engineering industry.",
+      "highlight": [
+        "Elektrotechnikbranche."
+      ]
+    }
+  ],
+  "forms": [
+    "die Elektrotechnik",
+    "Elektroingenieur",
+    "Elektriker"
+  ],
+  "memoryHook": "Elektrotechnik: Technik that runs on electricity.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Elektrotechnik",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Elektrotechnik is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Elektrotechnik mean?",
+      "options": [
+        "electrical engineering",
+        "the station",
+        "tomorrow"
+      ],
+      "answer": "electrical engineering",
+      "explanation": "Elektrotechnik: electrical engineering.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Elektriker is…",
+      "options": [
+        "an electrician",
+        "an engineer"
+      ],
+      "answer": "an electrician",
+      "explanation": "Trade.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Elektroingenieur is…",
+      "options": [
+        "an electrical engineer",
+        "an electrician"
+      ],
+      "answer": "an electrical engineer",
+      "explanation": "Engineer.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Technik is…",
+      "options": [
+        "technology, engineering; technique",
+        "a lecture"
+      ],
+      "answer": "technology, engineering; technique",
+      "explanation": "Technik.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Elektrotechnik is electrical engineering, a major field at German universities and in industry, where companies like Siemens, founded by Werner von Siemens in 1847, are giants. Werner von Siemens built an early dynamo, a key step for electrical engineering. A trained electrician is der Elektriker, an engineer der Elektroingenieur. Die Technik means technology, engineering or technique. It has no plural."
+}

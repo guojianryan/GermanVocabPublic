@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Flugplatz",
+    "partOfSpeech": "noun, masculine (der Flugplatz)",
+    "pronunciation": {
+      "respelling": "FLOOK-plats",
+      "ipa": "ˈfluːkˌplat͡s",
+      "notes": "Plural: die Flugplätze."
+    },
+    "meaning": "airfield",
+    "shortDefinition": "Airfield."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Flugplatz, plural die Flugplätze.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Flugplatz"
+        },
+        {
+          "label": "More than one",
+          "value": "die Flugplätze"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Segelflugzeug landete auf einem kleinen Flugplatz.",
+      "english": "The glider landed at a small airfield.",
+      "highlight": [
+        "Flugplatz."
+      ]
+    },
+    {
+      "german": "Der alte Flugplatz Tempelhof ist heute ein Park.",
+      "english": "The old Tempelhof airfield is now a park.",
+      "highlight": [
+        "Flugplatz"
+      ]
+    }
+  ],
+  "forms": [
+    "Flugplätze",
+    "die Flugplätze",
+    "der Flugplatz"
+  ],
+  "memoryHook": "Flugplatz: a Platz for flights.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Flugplatz",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Flugplatz is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Flugplatz, zwei ___",
+      "answer": "Flugplätze",
+      "fullAnswer": "ein Flugplatz, zwei Flugplätze",
+      "explanation": "The plural is Flugplätze.",
+      "acceptedAnswers": [
+        "Flugplaetze"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Flugplatz mean?",
+      "options": [
+        "airfield",
+        "the flower",
+        "the window"
+      ],
+      "answer": "airfield",
+      "explanation": "Flugplatz: airfield.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Flugplatz vs. Flughafen:",
+      "options": [
+        "airfield (small) vs. airport (large)",
+        "the same"
+      ],
+      "answer": "airfield (small) vs. airport (large)",
+      "explanation": "Size.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Tempelhof became…",
+      "options": [
+        "a public park (2010)",
+        "a shopping mall"
+      ],
+      "answer": "a public park (2010)",
+      "explanation": "Berlin.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Flug is…",
+      "options": [
+        "flight",
+        "fly"
+      ],
+      "answer": "flight",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Flugplatz is an airfield, usually smaller than a Flughafen (airport): ein Segelflugplatz (gliding field), ein Militärflugplatz. Berlin's Tempelhof airport, famous for the 1948–49 airlift (Luftbrücke), closed in 2008 and became the Tempelhofer Feld, a huge public park; in a 2014 referendum, Berliners voted against building on it. Plural: die Flugplätze."
+}

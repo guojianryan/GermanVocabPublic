@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Teleskop",
+    "partOfSpeech": "noun, neuter (das Teleskop)",
+    "pronunciation": {
+      "respelling": "te-le-SKOHP",
+      "ipa": "teleˈskoːp",
+      "notes": "Plural: die Teleskope."
+    },
+    "meaning": "telescope",
+    "shortDefinition": "Telescope."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Teleskop, plural die Teleskope.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Teleskop"
+        },
+        {
+          "label": "More than one",
+          "value": "die Teleskope"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Mit dem Teleskop beobachtet sie den Saturn.",
+      "english": "She observes Saturn with the telescope.",
+      "highlight": [
+        "Teleskop"
+      ]
+    },
+    {
+      "german": "Das Radioteleskop Effelsberg steht in der Eifel.",
+      "english": "The Effelsberg radio telescope is in the Eifel.",
+      "highlight": [
+        "Radioteleskop"
+      ]
+    }
+  ],
+  "forms": [
+    "Teleskope",
+    "das Teleskop"
+  ],
+  "memoryHook": "Teleskop: seeing (skopein) far (tele).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Teleskop",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Teleskop is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Teleskop, zwei ___",
+      "answer": "Teleskope",
+      "fullAnswer": "ein Teleskop, zwei Teleskope",
+      "explanation": "The plural is Teleskope.",
+      "acceptedAnswers": [
+        "Teleskope"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Teleskop mean?",
+      "options": [
+        "the shop",
+        "cheap",
+        "telescope"
+      ],
+      "answer": "telescope",
+      "explanation": "Teleskop: telescope.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Fernrohr is…",
+      "options": [
+        "telescope (native word)",
+        "a pipe"
+      ],
+      "answer": "telescope (native word)",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Sternwarte is…",
+      "options": [
+        "observatory",
+        "star guard"
+      ],
+      "answer": "observatory",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Effelsberg's radio telescope dish is…",
+      "options": [
+        "100 metres wide",
+        "10 metres wide"
+      ],
+      "answer": "100 metres wide",
+      "explanation": "Size.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Teleskop is a telescope; the native word is das Fernrohr. Germany's Effelsberg radio telescope in the Eifel, with a 100-metre dish, was the world's largest fully steerable radio telescope for decades. Die Sternwarte is an observatory, and many towns have public ones. Teleskopartig means telescopic: ein Teleskopstiel (extendable handle). Plural: die Teleskope."
+}

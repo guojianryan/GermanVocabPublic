@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Genossenschaft",
+    "partOfSpeech": "noun, feminine (die Genossenschaft)",
+    "pronunciation": {
+      "respelling": "ge-NOS-en-shaft",
+      "ipa": "ɡəˈnɔsn̩ʃaft",
+      "notes": "Plural: die Genossenschaften."
+    },
+    "meaning": "cooperative",
+    "shortDefinition": "Cooperative."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Genossenschaft, plural die Genossenschaften.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Genossenschaft"
+        },
+        {
+          "label": "More than one",
+          "value": "die Genossenschaften"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir wohnen in einer Wohnungsgenossenschaft.",
+      "english": "We live in a housing cooperative.",
+      "highlight": [
+        "Wohnungsgenossenschaft."
+      ]
+    },
+    {
+      "german": "Die Bank ist als Genossenschaft organisiert.",
+      "english": "The bank is organised as a cooperative.",
+      "highlight": [
+        "Genossenschaft"
+      ]
+    }
+  ],
+  "forms": [
+    "Genossenschaften",
+    "die Genossenschaften",
+    "die Genossenschaft"
+  ],
+  "memoryHook": "Genossenschaft: Genossen (members) sharing a business.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Genossenschaft",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Genossenschaft is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Genossenschaft, zwei ___",
+      "answer": "Genossenschaften",
+      "fullAnswer": "ein Genossenschaft, zwei Genossenschaften",
+      "explanation": "The plural is Genossenschaften.",
+      "acceptedAnswers": [
+        "Genossenschaften"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Genossenschaft mean?",
+      "options": [
+        "the door",
+        "cooperative",
+        "the evening"
+      ],
+      "answer": "cooperative",
+      "explanation": "Genossenschaft: cooperative.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Genossenschaftsbank is…",
+      "options": [
+        "a cooperative bank (e.g. Volksbank)",
+        "a central bank"
+      ],
+      "answer": "a cooperative bank (e.g. Volksbank)",
+      "explanation": "Cooperative bank.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The cooperative idea was added to UNESCO's heritage list…",
+      "options": [
+        "in 2016, nominated by Germany",
+        "never"
+      ],
+      "answer": "in 2016, nominated by Germany",
+      "explanation": "Intangible heritage.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Genosse is…",
+      "options": [
+        "comrade; member of a cooperative",
+        "a guest"
+      ],
+      "answer": "comrade; member of a cooperative",
+      "explanation": "Genosse.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Genossenschaft is a cooperative: eine Wohnungsgenossenschaft (housing co-op, offering cheaper long-term rentals), eine Energiegenossenschaft. Germany's cooperative movement goes back to Hermann Schulze-Delitzsch and Friedrich Wilhelm Raiffeisen in the 19th century; Volksbanken and Raiffeisenbanken are cooperative banks. In 2016 UNESCO added the cooperative idea, nominated by Germany, to its list of intangible cultural heritage. Members are Genossen."
+}

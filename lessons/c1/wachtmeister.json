@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wachtmeister",
+    "partOfSpeech": "noun, masculine (der Wachtmeister)",
+    "pronunciation": {
+      "respelling": "VAKHT-mai-ster",
+      "ipa": "ˈvaxtˌmaɪ̯stɐ",
+      "notes": "Plural: die Wachtmeister."
+    },
+    "meaning": "police constable (old); sergeant",
+    "shortDefinition": "Police constable (old); sergeant."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Wachtmeister, plural die Wachtmeister.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Wachtmeister"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wachtmeister"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Wachtmeister nahm die Anzeige auf.",
+      "english": "The constable took down the report.",
+      "highlight": [
+        "Wachtmeister"
+      ]
+    },
+    {
+      "german": "In der Schweiz ist Wachtmeister ein militärischer Rang.",
+      "english": "In Switzerland, Wachtmeister is a military rank.",
+      "highlight": [
+        "Wachtmeister"
+      ]
+    }
+  ],
+  "forms": [
+    "Wachtmeisterin",
+    "der Wachtmeister"
+  ],
+  "memoryHook": "Wachtmeister: Meister of the Wacht (guard).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wachtmeister",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Wachtmeister is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wachtmeister, zwei ___",
+      "answer": "Wachtmeister",
+      "fullAnswer": "ein Wachtmeister, zwei Wachtmeister",
+      "explanation": "The plural is Wachtmeister.",
+      "acceptedAnswers": [
+        "Wachtmeister"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wachtmeister mean?",
+      "options": [
+        "police constable (old)",
+        "cheap",
+        "always"
+      ],
+      "answer": "police constable (old)",
+      "explanation": "Wachtmeister: police constable (old); sergeant.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Germany today, Wachtmeister sounds…",
+      "options": [
+        "old-fashioned or folksy",
+        "modern"
+      ],
+      "answer": "old-fashioned or folksy",
+      "explanation": "Register.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Wache is…",
+      "options": [
+        "guard; police station",
+        "a wax"
+      ],
+      "answer": "guard; police station",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In German courts, Justizwachtmeister are…",
+      "options": [
+        "court security officers",
+        "judges"
+      ],
+      "answer": "court security officers",
+      "explanation": "Courts.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Wachtmeister is an old rank for a police constable or a cavalry sergeant. In Germany it now sounds folksy, as in children's stories, though Justizwachtmeister still guard courtrooms. In Switzerland and Austria, Wachtmeister remains a real military or police rank. Die Wache means guard or police station: auf die Wache gehen. The plural is the same: die Wachtmeister."
+}

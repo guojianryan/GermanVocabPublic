@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kreisstadt",
+    "partOfSpeech": "noun, feminine (die Kreisstadt)",
+    "pronunciation": {
+      "respelling": "KRAIS-shtat",
+      "ipa": "ˈkʁaɪ̯sˌʃtat",
+      "notes": "Plural: die Kreisstädte."
+    },
+    "meaning": "district town (county seat)",
+    "shortDefinition": "District town (county seat)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kreisstadt, plural die Kreisstädte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kreisstadt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kreisstädte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Kreisstadt ist der Sitz der Verwaltung.",
+      "english": "The district town is the seat of administration.",
+      "highlight": [
+        "Kreisstadt"
+      ]
+    },
+    {
+      "german": "Zum Landratsamt muss man in die Kreisstadt fahren.",
+      "english": "You have to go to the district town for the district office.",
+      "highlight": [
+        "Kreisstadt"
+      ]
+    }
+  ],
+  "forms": [
+    "Kreisstädte",
+    "die Kreisstädte",
+    "die Kreisstadt"
+  ],
+  "memoryHook": "Kreisstadt: the Stadt where the Kreis (district) is run.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kreisstadt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kreisstadt is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kreisstadt, zwei ___",
+      "answer": "Kreisstädte",
+      "fullAnswer": "ein Kreisstadt, zwei Kreisstädte",
+      "explanation": "The plural is Kreisstädte.",
+      "acceptedAnswers": [
+        "Kreisstaedte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kreisstadt mean?",
+      "options": [
+        "the bread",
+        "the key",
+        "district town (county seat)"
+      ],
+      "answer": "district town (county seat)",
+      "explanation": "Kreisstadt: district town (county seat).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Landkreis is…",
+      "options": [
+        "a rural district",
+        "a circle of land"
+      ],
+      "answer": "a rural district",
+      "explanation": "District.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Landrat is…",
+      "options": [
+        "the head of a district",
+        "a rural advisor"
+      ],
+      "answer": "the head of a district",
+      "explanation": "Head.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Number plates usually begin with…",
+      "options": [
+        "letters for the district or city",
+        "the year"
+      ],
+      "answer": "letters for the district or city",
+      "explanation": "Plates.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kreisstadt is a district town, the administrative seat of a Landkreis, where the Landratsamt (district office) is located; many official matters, like car registration, are handled there. Germany has around 300 Landkreise, plus about 100 kreisfreie Städte (independent cities). Car number plates start with district codes, often based on the Kreisstadt, like EBE for Ebersberg. Plural: die Kreisstädte."
+}

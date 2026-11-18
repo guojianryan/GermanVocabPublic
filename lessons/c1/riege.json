@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Riege",
+    "partOfSpeech": "noun, feminine (die Riege)",
+    "pronunciation": {
+      "respelling": "REE-ge",
+      "ipa": "ˈʁiːɡə",
+      "notes": "Plural: die Riegen."
+    },
+    "meaning": "squad (gymnastics); group, guard",
+    "shortDefinition": "Squad (gymnastics); group, guard."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Riege, plural die Riegen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Riege"
+        },
+        {
+          "label": "More than one",
+          "value": "die Riegen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Riege turnte am Barren.",
+      "english": "The squad performed on the parallel bars.",
+      "highlight": [
+        "Riege"
+      ]
+    },
+    {
+      "german": "Er gehört zur alten Riege der Partei.",
+      "english": "He belongs to the party's old guard.",
+      "highlight": [
+        "Riege"
+      ]
+    }
+  ],
+  "forms": [
+    "Riegen",
+    "die Riege"
+  ],
+  "memoryHook": "Riege: a row (Reihe) of gymnasts.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Riege",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Riege is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Riege, zwei ___",
+      "answer": "Riegen",
+      "fullAnswer": "ein Riege, zwei Riegen",
+      "explanation": "The plural is Riegen.",
+      "acceptedAnswers": [
+        "Riegen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Riege mean?",
+      "options": [
+        "to help",
+        "squad (gymnastics)",
+        "the bill"
+      ],
+      "answer": "squad (gymnastics)",
+      "explanation": "Riege: squad (gymnastics); group, guard.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die alte Riege means…",
+      "options": [
+        "the old guard",
+        "an old line"
+      ],
+      "answer": "the old guard",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In gymnastics, eine Riege is…",
+      "options": [
+        "a squad, team",
+        "a bar"
+      ],
+      "answer": "a squad, team",
+      "explanation": "Sport.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Gruppe, die Mannschaft",
+        "der Einzelne"
+      ],
+      "answer": "die Gruppe, die Mannschaft",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Riege is a squad, originally of gymnasts in German Turnvereine, the gymnastics clubs founded in the 19th century by Friedrich Ludwig Jahn. Figuratively, it's a group of people: die alte Riege (the old guard), eine Riege junger Politiker. Synonyms: die Gruppe, das Team, die Garde. Plural: die Riegen."
+}

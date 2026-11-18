@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "gerichtlich",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "ge-RIKHT-likh",
+      "ipa": "ɡəˈʁɪçtlɪç",
+      "notes": ""
+    },
+    "meaning": "judicial, legal, by court",
+    "shortDefinition": "Judicial, legal, by court."
+  },
+  "sampleSentences": [
+    {
+      "german": "Er will gerichtlich gegen die Kündigung vorgehen.",
+      "english": "He wants to take legal action against his dismissal.",
+      "highlight": [
+        "gerichtlich"
+      ]
+    },
+    {
+      "german": "Das ist eine gerichtliche Entscheidung.",
+      "english": "That's a court decision.",
+      "highlight": [
+        "gerichtliche"
+      ]
+    }
+  ],
+  "forms": [
+    "gerichtliche",
+    "gerichtlichen",
+    "außergerichtlich"
+  ],
+  "memoryHook": "Gerichtlich: by or through a Gericht (court).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does gerichtlich mean?",
+      "options": [
+        "to sleep",
+        "judicial",
+        "never"
+      ],
+      "answer": "judicial",
+      "explanation": "gerichtlich: judicial, legal, by court.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gerichtlich vorgehen means…",
+      "options": [
+        "to take legal action",
+        "to cook"
+      ],
+      "answer": "to take legal action",
+      "explanation": "Legal action.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gericht means…",
+      "options": [
+        "court; dish (food)",
+        "a judgement only"
+      ],
+      "answer": "court; dish (food)",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Außergerichtlich means…",
+      "options": [
+        "out of court",
+        "unlawful"
+      ],
+      "answer": "out of court",
+      "explanation": "Out of court.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Einigung (court)",
+      "answer": "gerichtliche",
+      "fullAnswer": "eine gerichtliche Einigung",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Gerichtlich means judicial or by a court: gerichtlich vorgehen (to take legal action), eine gerichtliche Verfügung (court order), gerichtlich bestätigt. Außergerichtlich means out of court: eine außergerichtliche Einigung (settlement). Das Gericht means court, and also a dish: ein leckeres Gericht. German courts include Amtsgericht, Landgericht and Bundesgerichtshof."
+}

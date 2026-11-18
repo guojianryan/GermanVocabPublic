@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "beanstanden",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-AN-shtan-den",
+      "ipa": "bəˈʔanˌʃtandn̩",
+      "notes": ""
+    },
+    "meaning": "to complain about, object to",
+    "shortDefinition": "To complain about, object to."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "beanstand|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "beanstand|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "beanstand|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "beanstand|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "beanstand|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "beanstand|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat beanstandet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Kunde beanstandete die Lieferung.",
+      "english": "The customer complained about the delivery.",
+      "highlight": [
+        "beanstandete"
+      ]
+    },
+    {
+      "german": "Die Prüfer hatten nichts zu beanstanden.",
+      "english": "The inspectors found nothing to object to.",
+      "highlight": [
+        "beanstanden."
+      ]
+    }
+  ],
+  "forms": [
+    "beanstande",
+    "beanstandest",
+    "beanstandet",
+    "beanstanden",
+    "Beanstandung"
+  ],
+  "memoryHook": "Beanstanden: raise an Anstand (objection).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (beanstanden)",
+      "answer": "beanstandet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: beanstandet.",
+      "acceptedAnswers": [
+        "beanstandet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (beanstanden, past)",
+      "answer": "beanstandet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe beanstandet.",
+      "acceptedAnswers": [
+        "beanstandet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does beanstanden mean?",
+      "options": [
+        "the evening",
+        "the bread",
+        "to complain about"
+      ],
+      "answer": "to complain about",
+      "explanation": "beanstanden: to complain about, object to.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Beanstandung is…",
+      "options": [
+        "complaint, objection",
+        "a stand"
+      ],
+      "answer": "complaint, objection",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nichts zu beanstanden means…",
+      "options": [
+        "no complaints, all fine",
+        "nothing to stand on"
+      ],
+      "answer": "no complaints, all fine",
+      "explanation": "Phrase.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "reklamieren, monieren",
+        "loben"
+      ],
+      "answer": "reklamieren, monieren",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Beanstanden means to complain about or object to, formally: eine Ware, eine Rechnung, Mängel beanstanden. Nichts zu beanstanden (no complaints) is common in inspection reports. Die Beanstandung is a complaint. Synonyms: reklamieren (return faulty goods), monieren, rügen. Note: not separable despite the an: beanstandete, hat beanstandet."
+}

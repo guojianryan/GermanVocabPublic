@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Konstrukteur",
+    "partOfSpeech": "noun, masculine (der Konstrukteur)",
+    "pronunciation": {
+      "respelling": "kon-struk-TÖR",
+      "ipa": "kɔnstʁʊkˈtøːɐ̯",
+      "notes": "Plural: die Konstrukteure."
+    },
+    "meaning": "design engineer, designer",
+    "shortDefinition": "Design engineer, designer."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Konstrukteur, plural die Konstrukteure.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Konstrukteur"
+        },
+        {
+          "label": "More than one",
+          "value": "die Konstrukteure"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ferdinand Porsche war ein genialer Konstrukteur.",
+      "english": "Ferdinand Porsche was a brilliant design engineer.",
+      "highlight": [
+        "Konstrukteur."
+      ]
+    },
+    {
+      "german": "Die Konstrukteurin entwarf eine neue Brücke.",
+      "english": "The engineer designed a new bridge.",
+      "highlight": [
+        "Konstrukteurin"
+      ]
+    }
+  ],
+  "forms": [
+    "Konstrukteure",
+    "Konstrukteurin",
+    "der Konstrukteur"
+  ],
+  "memoryHook": "Konstrukteur: someone who konstruiert (designs).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Konstrukteur",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Konstrukteur is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Konstrukteur, zwei ___",
+      "answer": "Konstrukteure",
+      "fullAnswer": "ein Konstrukteur, zwei Konstrukteure",
+      "explanation": "The plural is Konstrukteure.",
+      "acceptedAnswers": [
+        "Konstrukteure"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Konstrukteur mean?",
+      "options": [
+        "to travel",
+        "design engineer",
+        "hot"
+      ],
+      "answer": "design engineer",
+      "explanation": "Konstrukteur: design engineer, designer.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Konstruieren means…",
+      "options": [
+        "to design, construct",
+        "to build a house only"
+      ],
+      "answer": "to design, construct",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Konstrukteurswertung in Formula 1 is…",
+      "options": [
+        "the constructors' championship",
+        "the driver standings"
+      ],
+      "answer": "the constructors' championship",
+      "explanation": "F1.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ingenieur is…",
+      "options": [
+        "engineer",
+        "inventor"
+      ],
+      "answer": "engineer",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Konstrukteur (die Konstrukteurin) is a design engineer who designs machines, vehicles or structures. Famous German Konstrukteure include Ferdinand Porsche (the VW Beetle), Gottlieb Daimler and Carl Benz, and Konrad Zuse, who built the Z3, an early programmable computer, in 1941. In Formula 1, die Konstrukteurswertung is the constructors' championship. Plural: die Konstrukteure."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zeichner",
+    "partOfSpeech": "noun, masculine (der Zeichner)",
+    "pronunciation": {
+      "respelling": "TSAIKH-ner",
+      "ipa": "ˈt͡saɪ̯çnɐ",
+      "notes": "Plural: die Zeichner."
+    },
+    "meaning": "draughtsman, illustrator",
+    "shortDefinition": "Draughtsman, illustrator."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Zeichner, plural die Zeichner.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Zeichner"
+        },
+        {
+          "label": "More than one",
+          "value": "die Zeichner"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Zeichner arbeitet an einem Comic.",
+      "english": "The illustrator is working on a comic.",
+      "highlight": [
+        "Zeichner"
+      ]
+    },
+    {
+      "german": "Sie ist technische Zeichnerin in einem Ingenieurbüro.",
+      "english": "She's a technical draughtswoman at an engineering firm.",
+      "highlight": [
+        "Zeichnerin"
+      ]
+    }
+  ],
+  "forms": [
+    "die Zeichner",
+    "der Zeichner",
+    "Zeichnerin"
+  ],
+  "memoryHook": "Zeichner: someone who zeichnet (draws).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zeichner",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Zeichner is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Zeichner, zwei ___",
+      "answer": "Zeichner",
+      "fullAnswer": "ein Zeichner, zwei Zeichner",
+      "explanation": "The plural is Zeichner.",
+      "acceptedAnswers": [
+        "Zeichner"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zeichner mean?",
+      "options": [
+        "draughtsman",
+        "the car",
+        "the street"
+      ],
+      "answer": "draughtsman",
+      "explanation": "Zeichner: draughtsman, illustrator.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zeichnen means…",
+      "options": [
+        "to draw",
+        "to sign only"
+      ],
+      "answer": "to draw",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Comiczeichner is…",
+      "options": [
+        "a cartoonist",
+        "a comic reader"
+      ],
+      "answer": "a cartoonist",
+      "explanation": "Cartoonist.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Zeichnung is…",
+      "options": [
+        "drawing",
+        "sign"
+      ],
+      "answer": "drawing",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Zeichner (die Zeichnerin) is a draughtsman, illustrator or cartoonist: technischer Zeichner (a recognised training occupation), Comiczeichner, Karikaturist. Wilhelm Busch, creator of Max und Moritz (1865), is seen as a forefather of comics. Zeichnen means to draw, and die Zeichnung is a drawing. Der Zeichentrickfilm is an animated cartoon. Plural: die Zeichner."
+}

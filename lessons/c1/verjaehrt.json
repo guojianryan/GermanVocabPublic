@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verjährt",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "fer-YAIRT",
+      "ipa": "fɛɐ̯ˈjɛːɐ̯t",
+      "notes": ""
+    },
+    "meaning": "statute-barred, time-barred",
+    "shortDefinition": "Statute-barred, time-barred."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die Tat ist längst verjährt.",
+      "english": "The offence has long been statute-barred.",
+      "highlight": [
+        "verjährt."
+      ]
+    },
+    {
+      "german": "Mord verjährt in Deutschland nicht.",
+      "english": "Murder has no statute of limitations in Germany.",
+      "highlight": [
+        "verjährt"
+      ]
+    }
+  ],
+  "forms": [
+    "verjährte",
+    "verjährten",
+    "verjähren"
+  ],
+  "memoryHook": "Verjährt: expired over the Jahre (years).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does verjährt mean?",
+      "options": [
+        "statute-barred",
+        "hot",
+        "the street"
+      ],
+      "answer": "statute-barred",
+      "explanation": "verjährt: statute-barred, time-barred.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Verjährung is…",
+      "options": [
+        "statute of limitations",
+        "an anniversary"
+      ],
+      "answer": "statute of limitations",
+      "explanation": "Noun.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Germany, murder…",
+      "options": [
+        "never becomes statute-barred",
+        "is barred after 30 years"
+      ],
+      "answer": "never becomes statute-barred",
+      "explanation": "Law.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Jahr is…",
+      "options": [
+        "year",
+        "yes"
+      ],
+      "answer": "year",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Die Forderung ist ___. (time-barred)",
+      "answer": "verjährt",
+      "fullAnswer": "Die Forderung ist verjährt.",
+      "explanation": "verjährt.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Verjährt means statute-barred or time-barred: eine verjährte Straftat, eine verjährte Forderung (debt). Verjähren means to become time-barred, and die Verjährung is the statute of limitations. After long debates, the Bundestag decided in 1979 that murder, including Nazi murders, never becomes statute-barred. Ordinary debts typically expire after three years."
+}

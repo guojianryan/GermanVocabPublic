@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "vorliegend",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "FOR-lee-gent",
+      "ipa": "ˈfoːɐ̯ˌliːɡn̩t",
+      "notes": ""
+    },
+    "meaning": "present, at hand, in question",
+    "shortDefinition": "Present, at hand, in question."
+  },
+  "sampleSentences": [
+    {
+      "german": "Im vorliegenden Fall ist das Gesetz eindeutig.",
+      "english": "In the present case the law is clear.",
+      "highlight": [
+        "vorliegenden"
+      ]
+    },
+    {
+      "german": "Die vorliegende Studie untersucht drei Fragen.",
+      "english": "The present study examines three questions.",
+      "highlight": [
+        "vorliegende"
+      ]
+    }
+  ],
+  "forms": [
+    "vorliegende",
+    "vorliegenden",
+    "vorliegen"
+  ],
+  "memoryHook": "Vorliegend: lying (liegen) before (vor) us now.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does vorliegend mean?",
+      "options": [
+        "slowly",
+        "present",
+        "tomorrow"
+      ],
+      "answer": "present",
+      "explanation": "vorliegend: present, at hand, in question.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Im vorliegenden Fall means…",
+      "options": [
+        "in the case at hand",
+        "in the previous case"
+      ],
+      "answer": "in the case at hand",
+      "explanation": "Present.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vorliegen means…",
+      "options": [
+        "to be available, exist (formally)",
+        "to lie in front"
+      ],
+      "answer": "to be available, exist (formally)",
+      "explanation": "Verb.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal, academic, legal",
+        "colloquial"
+      ],
+      "answer": "formal, academic, legal",
+      "explanation": "Formal.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "die ___ Arbeit (present)",
+      "answer": "vorliegende",
+      "fullAnswer": "die vorliegende Arbeit",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Vorliegend means present, at hand or in question, a formal word in academic and legal German: die vorliegende Arbeit (this thesis), im vorliegenden Fall (in the present case). The verb vorliegen means to be available or to exist: Es liegen keine Beweise vor (there's no evidence), Der Bericht liegt mir vor (I have the report)."
+}

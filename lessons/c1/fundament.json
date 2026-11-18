@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fundament",
+    "partOfSpeech": "noun, neuter (das Fundament)",
+    "pronunciation": {
+      "respelling": "fun-da-MENT",
+      "ipa": "fʊndaˈmɛnt",
+      "notes": "Plural: die Fundamente."
+    },
+    "meaning": "foundation",
+    "shortDefinition": "Foundation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Fundament, plural die Fundamente.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Fundament"
+        },
+        {
+          "label": "More than one",
+          "value": "die Fundamente"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Fundament des Hauses ist aus Beton.",
+      "english": "The house's foundation is made of concrete.",
+      "highlight": [
+        "Fundament"
+      ]
+    },
+    {
+      "german": "Vertrauen ist das Fundament jeder Beziehung.",
+      "english": "Trust is the foundation of every relationship.",
+      "highlight": [
+        "Fundament"
+      ]
+    }
+  ],
+  "forms": [
+    "Fundamente",
+    "die Fundamente",
+    "das Fundament",
+    "fundamental"
+  ],
+  "memoryHook": "Fundament: what a house, and a relationship, stands on.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fundament",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Fundament is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Fundament, zwei ___",
+      "answer": "Fundamente",
+      "fullAnswer": "ein Fundament, zwei Fundamente",
+      "explanation": "The plural is Fundamente.",
+      "acceptedAnswers": [
+        "Fundamente"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fundament mean?",
+      "options": [
+        "slowly",
+        "foundation",
+        "the street"
+      ],
+      "answer": "foundation",
+      "explanation": "Fundament: foundation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fundamental means…",
+      "options": [
+        "fundamental",
+        "fundamentalist"
+      ],
+      "answer": "fundamental",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Fundamentalismus is…",
+      "options": [
+        "fundamentalism",
+        "foundations"
+      ],
+      "answer": "fundamentalism",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym (figurative):",
+      "options": [
+        "die Grundlage",
+        "das Dach"
+      ],
+      "answer": "die Grundlage",
+      "explanation": "Basis.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Fundament is the foundation of a building: das Fundament gießen (to pour the foundation). Figuratively, it's the basis of something: das Fundament der Demokratie, das Fundament einer Freundschaft. Die Grundlage is a common synonym. Fundamental means fundamental, and der Fundamentalismus is fundamentalism. In German politics, die Fundis and die Realos were the two wings of the Green party in the 1980s. Plural: die Fundamente."
+}

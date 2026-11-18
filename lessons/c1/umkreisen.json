@@ -1,0 +1,179 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "umkreisen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "um-KRAI-zen",
+      "ipa": "ʊmˈkʁaɪ̯zn̩",
+      "notes": ""
+    },
+    "meaning": "to circle, to orbit",
+    "shortDefinition": "To circle, to orbit."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "um",
+        "meaning": "around",
+        "emphasis": "turn"
+      },
+      {
+        "part": "kreisen",
+        "meaning": "to circle"
+      }
+    ],
+    "literalMeaning": "to circle around"
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "umkreis|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "umkreis|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "umkreis|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "umkreis|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "umkreis|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "umkreis|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat umkreist"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Mond umkreist die Erde.",
+      "english": "The moon orbits the Earth.",
+      "highlight": [
+        "umkreist"
+      ]
+    },
+    {
+      "german": "Der Hubschrauber umkreiste das Haus.",
+      "english": "The helicopter circled the house.",
+      "highlight": [
+        "umkreiste"
+      ]
+    }
+  ],
+  "forms": [
+    "umkreise",
+    "umkreisst",
+    "umkreist",
+    "umkreisen",
+    "umkreiste",
+    "Umkreis"
+  ],
+  "memoryHook": "Umkreisen: draw a Kreis around it.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (umkreisen)",
+      "answer": "umkreist",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: umkreist.",
+      "acceptedAnswers": [
+        "umkreist"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (umkreisen, past)",
+      "answer": "umkreist",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe umkreist.",
+      "acceptedAnswers": [
+        "umkreist"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does umkreisen mean?",
+      "options": [
+        "the bread",
+        "to circle",
+        "the bill"
+      ],
+      "answer": "to circle",
+      "explanation": "umkreisen: to circle, to orbit.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The stress in umkreisen is on…",
+      "options": [
+        "the Kreis (um-KREI-sen)",
+        "the um- (UM-krei-sen)"
+      ],
+      "answer": "the Kreis (um-KREI-sen)",
+      "explanation": "Inseparable: stress on the stem.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kreis means…",
+      "options": [
+        "circle",
+        "crisis"
+      ],
+      "answer": "circle",
+      "explanation": "Kreis = circle.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Is umkreisen separable?",
+      "options": [
+        "no",
+        "yes"
+      ],
+      "answer": "no",
+      "explanation": "Inseparable: er umkreist, not er kreist um.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Umkreisen is inseparable, so the stress falls on the stem and there's no ge- in the participle: Der Satellit hat die Erde umkreist. The separable twin kreisen um also exists, but umkreisen is the standard choice for orbiting. Der Kreis is the circle, and der Umkreis is the surrounding area: im Umkreis von zehn Kilometern means within a ten-kilometre radius."
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "tierisch",
+    "partOfSpeech": "adjective / adverb",
+    "pronunciation": {
+      "respelling": "TEE-rish",
+      "ipa": "ˈtiːʁɪʃ",
+      "notes": ""
+    },
+    "meaning": "animal; (colloquial) terribly, hugely",
+    "shortDefinition": "Animal; (colloquial) terribly, hugely."
+  },
+  "sampleSentences": [
+    {
+      "german": "Das Produkt enthält keine tierischen Fette.",
+      "english": "The product contains no animal fats.",
+      "highlight": [
+        "tierischen"
+      ]
+    },
+    {
+      "german": "Ich habe mich tierisch gefreut!",
+      "english": "I was incredibly happy!",
+      "highlight": [
+        "tierisch"
+      ]
+    }
+  ],
+  "forms": [
+    "tierische",
+    "tierischen",
+    "tierischer"
+  ],
+  "memoryHook": "Tierisch: from a Tier, or as big as a beast.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does tierisch mean?",
+      "options": [
+        "the evening",
+        "animal",
+        "tomorrow"
+      ],
+      "answer": "animal",
+      "explanation": "tierisch: animal; (colloquial) terribly, hugely.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Colloquially, tierisch means…",
+      "options": [
+        "really, incredibly",
+        "beastly only"
+      ],
+      "answer": "really, incredibly",
+      "explanation": "Intensifier.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Tierische Produkte are…",
+      "options": [
+        "animal products",
+        "pet toys"
+      ],
+      "answer": "animal products",
+      "explanation": "Animal.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Tier is…",
+      "options": [
+        "animal",
+        "a tear"
+      ],
+      "answer": "animal",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Das war ___ lustig! (incredibly)",
+      "answer": "tierisch",
+      "fullAnswer": "Das war tierisch lustig!",
+      "explanation": "Colloquial.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Tierisch means animal, relating to animals: tierisches Eiweiß (animal protein), tierische Produkte (relevant for vegans, a growing group in Germany). Colloquially, it's an intensifier meaning hugely or incredibly: tierisch nerven, tierisch Hunger haben, sich tierisch freuen. Das ist ja tierisch is youth slang from the 1980s. Das Tier means animal."
+}

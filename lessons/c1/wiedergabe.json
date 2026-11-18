@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wiedergabe",
+    "partOfSpeech": "noun, feminine (die Wiedergabe)",
+    "pronunciation": {
+      "respelling": "VEE-der-gaa-be",
+      "ipa": "ˈviːdɐˌɡaːbə",
+      "notes": "Plural: die Wiedergaben."
+    },
+    "meaning": "playback; reproduction, rendering",
+    "shortDefinition": "Playback; reproduction, rendering."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Wiedergabe, plural die Wiedergaben.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Wiedergabe"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wiedergaben"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Drücken Sie auf Wiedergabe.",
+      "english": "Press play.",
+      "highlight": [
+        "Wiedergabe."
+      ]
+    },
+    {
+      "german": "Die Wiedergabe des Gesprächs war ungenau.",
+      "english": "The account of the conversation was inaccurate.",
+      "highlight": [
+        "Wiedergabe"
+      ]
+    }
+  ],
+  "forms": [
+    "Wiedergaben",
+    "die Wiedergabe",
+    "wiedergeben",
+    "Wiedergabeliste"
+  ],
+  "memoryHook": "Wiedergabe: giving (geben) something again (wieder).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wiedergabe",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Wiedergabe is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wiedergabe, zwei ___",
+      "answer": "Wiedergaben",
+      "fullAnswer": "ein Wiedergabe, zwei Wiedergaben",
+      "explanation": "The plural is Wiedergaben.",
+      "acceptedAnswers": [
+        "Wiedergaben"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wiedergabe mean?",
+      "options": [
+        "the window",
+        "playback",
+        "never"
+      ],
+      "answer": "playback",
+      "explanation": "Wiedergabe: playback; reproduction, rendering.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Wiedergabeliste is…",
+      "options": [
+        "a playlist",
+        "a return list"
+      ],
+      "answer": "a playlist",
+      "explanation": "Playlist.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wiedergeben means…",
+      "options": [
+        "to reproduce, render; to give back",
+        "to repeat a year"
+      ],
+      "answer": "to reproduce, render; to give back",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die wörtliche Wiedergabe is…",
+      "options": [
+        "verbatim reproduction",
+        "a word game"
+      ],
+      "answer": "verbatim reproduction",
+      "explanation": "Verbatim.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Wiedergabe is playback (die Wiedergabe starten, the play button), reproduction (die Wiedergabe eines Bildes, Farbwiedergabe) or an account or rendering of something said: die Wiedergabe eines Zitats. Die Wiedergabeliste is a playlist. The verb wiedergeben means to reproduce or render: Die Übersetzung gibt den Sinn gut wieder. Also: to give back. Plural: die Wiedergaben."
+}

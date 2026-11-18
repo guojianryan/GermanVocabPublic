@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Abspann",
+    "partOfSpeech": "noun, masculine (der Abspann)",
+    "pronunciation": {
+      "respelling": "AP-shpan",
+      "ipa": "ˈapˌʃpan",
+      "notes": "Plural: die Abspanne."
+    },
+    "meaning": "closing credits",
+    "shortDefinition": "Closing credits."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Abspann, plural die Abspanne.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Abspann"
+        },
+        {
+          "label": "More than one",
+          "value": "die Abspanne"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nach dem Abspann gibt es noch eine Szene.",
+      "english": "There's another scene after the credits.",
+      "highlight": [
+        "Abspann"
+      ]
+    },
+    {
+      "german": "Sie blieben bis zum Ende des Abspanns sitzen.",
+      "english": "They stayed seated until the end of the credits.",
+      "highlight": [
+        "Abspanns"
+      ]
+    }
+  ],
+  "forms": [
+    "Abspanne",
+    "der Abspann"
+  ],
+  "memoryHook": "Abspann: the credits rolling at the end (ab).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Abspann",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Abspann is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Abspann, zwei ___",
+      "answer": "Abspanne",
+      "fullAnswer": "ein Abspann, zwei Abspanne",
+      "explanation": "The plural is Abspanne.",
+      "acceptedAnswers": [
+        "Abspanne"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Abspann mean?",
+      "options": [
+        "closing credits",
+        "tomorrow",
+        "the flower"
+      ],
+      "answer": "closing credits",
+      "explanation": "Abspann: closing credits.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Vorspann is…",
+      "options": [
+        "opening credits",
+        "a prelude"
+      ],
+      "answer": "opening credits",
+      "explanation": "Opposite.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Abspann lists…",
+      "options": [
+        "cast and crew",
+        "the plot"
+      ],
+      "answer": "cast and crew",
+      "explanation": "Content.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Spannen means…",
+      "options": [
+        "to stretch, tighten",
+        "to spin"
+      ],
+      "answer": "to stretch, tighten",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Abspann is the closing credits of a film or programme: im Abspann genannt werden. The opening credits are der Vorspann. Some films hide a bonus scene nach dem Abspann. In TV, the Abspann is often squeezed to make room for trailers. Plural: die Abspanne, rarely used."
+}

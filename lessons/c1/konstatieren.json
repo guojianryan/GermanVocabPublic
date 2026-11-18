@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "konstatieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "kon-shta-TEE-ren",
+      "ipa": "kɔnstaˈtiːʁən",
+      "notes": ""
+    },
+    "meaning": "to state, note (formal)",
+    "shortDefinition": "To state, note (formal)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "konstatier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "konstatier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "konstatier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "konstatier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "konstatier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "konstatier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat konstatiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Bericht konstatiert einen Rückgang der Arbeitslosigkeit.",
+      "english": "The report notes a fall in unemployment.",
+      "highlight": [
+        "konstatiert"
+      ]
+    },
+    {
+      "german": "Nüchtern konstatierte sie das Scheitern.",
+      "english": "She soberly acknowledged the failure.",
+      "highlight": [
+        "konstatierte"
+      ]
+    }
+  ],
+  "forms": [
+    "konstatiere",
+    "konstatierst",
+    "konstatiert",
+    "konstatieren"
+  ],
+  "memoryHook": "Konstatieren: establish (constare) a fact.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (konstatieren)",
+      "answer": "konstatiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: konstatiert.",
+      "acceptedAnswers": [
+        "konstatiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (konstatieren, past)",
+      "answer": "konstatiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe konstatiert.",
+      "acceptedAnswers": [
+        "konstatiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does konstatieren mean?",
+      "options": [
+        "the family",
+        "to state",
+        "the key"
+      ],
+      "answer": "to state",
+      "explanation": "konstatieren: to state, note (formal).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal, academic",
+        "colloquial"
+      ],
+      "answer": "formal, academic",
+      "explanation": "Formal.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday synonym:",
+      "options": [
+        "feststellen",
+        "vermuten"
+      ],
+      "answer": "feststellen",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Perfect:",
+      "options": [
+        "hat konstatiert",
+        "hat gekonstatiert"
+      ],
+      "answer": "hat konstatiert",
+      "explanation": "No ge-.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Konstatieren means to state or note a fact, a formal word in reports, essays and journalism: Experten konstatieren eine Zunahme der Fälle. The everyday word is feststellen. It suggests a sober, objective observation rather than an opinion. Like other -ieren verbs, it forms its perfect without ge-: hat konstatiert."
+}

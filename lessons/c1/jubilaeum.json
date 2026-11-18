@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Jubiläum",
+    "partOfSpeech": "noun, neuter (das Jubiläum)",
+    "pronunciation": {
+      "respelling": "yoo-bi-LAY-um",
+      "ipa": "jubiˈlɛːʊm",
+      "notes": "Plural: die Jubiläen."
+    },
+    "meaning": "anniversary, jubilee",
+    "shortDefinition": "Anniversary, jubilee."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Jubiläum, plural die Jubiläen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Jubiläum"
+        },
+        {
+          "label": "More than one",
+          "value": "die Jubiläen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Firma feiert ihr 50-jähriges Jubiläum.",
+      "english": "The company is celebrating its 50th anniversary.",
+      "highlight": [
+        "Jubiläum."
+      ]
+    },
+    {
+      "german": "Zum Jubiläum gab es ein großes Fest.",
+      "english": "There was a big party for the anniversary.",
+      "highlight": [
+        "Jubiläum"
+      ]
+    }
+  ],
+  "forms": [
+    "Jubiläen",
+    "die Jubiläen",
+    "das Jubiläum",
+    "Jubilar"
+  ],
+  "memoryHook": "Jubiläum: a round number worth jubeln (cheering).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Jubiläum",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Jubiläum is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Jubiläum, zwei ___",
+      "answer": "Jubiläen",
+      "fullAnswer": "ein Jubiläum, zwei Jubiläen",
+      "explanation": "The plural is Jubiläen.",
+      "acceptedAnswers": [
+        "Jubilaeen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Jubiläum mean?",
+      "options": [
+        "anniversary",
+        "cheap",
+        "the shop"
+      ],
+      "answer": "anniversary",
+      "explanation": "Jubiläum: anniversary, jubilee.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "A wedding anniversary is usually…",
+      "options": [
+        "der Hochzeitstag",
+        "das Jubiläum"
+      ],
+      "answer": "der Hochzeitstag",
+      "explanation": "Personal = Hochzeitstag.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Jubilar is…",
+      "options": [
+        "the person celebrating",
+        "the guest"
+      ],
+      "answer": "the person celebrating",
+      "explanation": "Jubilar.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress on…",
+      "options": [
+        "-LÄ-",
+        "JU-"
+      ],
+      "answer": "-LÄ-",
+      "explanation": "ju-bi-LÄ-um.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Jubiläum is an anniversary or jubilee of an institution, company or long service: das 100-jährige Jubiläum des Vereins, das Dienstjubiläum (work anniversary). For personal anniversaries Germans say der Jahrestag or der Hochzeitstag. The plural is irregular: die Jubiläen. Der Jubilar is the person being celebrated. It comes via Latin from the Hebrew yobel, the ram's horn blown in the jubilee year."
+}

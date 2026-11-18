@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Hausdurchsuchung",
+    "partOfSpeech": "noun, feminine (die Hausdurchsuchung)",
+    "pronunciation": {
+      "respelling": "HAUS-durkh-zoo-khung",
+      "ipa": "ˈhaʊ̯sdʊʁçˌzuːxʊŋ",
+      "notes": "Plural: die Hausdurchsuchungen."
+    },
+    "meaning": "house search, police raid",
+    "shortDefinition": "House search, police raid."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Hausdurchsuchung, plural die Hausdurchsuchungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Hausdurchsuchung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Hausdurchsuchungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bei der Hausdurchsuchung fand die Polizei Drogen.",
+      "english": "During the search the police found drugs.",
+      "highlight": [
+        "Hausdurchsuchung"
+      ]
+    },
+    {
+      "german": "Für eine Hausdurchsuchung braucht man einen richterlichen Beschluss.",
+      "english": "A house search requires a judge's order.",
+      "highlight": [
+        "Hausdurchsuchung"
+      ]
+    }
+  ],
+  "forms": [
+    "Hausdurchsuchungen",
+    "die Hausdurchsuchung"
+  ],
+  "memoryHook": "Hausdurchsuchung: a Durchsuchung (search) of a Haus.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Hausdurchsuchung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Hausdurchsuchung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Hausdurchsuchung, zwei ___",
+      "answer": "Hausdurchsuchungen",
+      "fullAnswer": "ein Hausdurchsuchung, zwei Hausdurchsuchungen",
+      "explanation": "The plural is Hausdurchsuchungen.",
+      "acceptedAnswers": [
+        "Hausdurchsuchungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Hausdurchsuchung mean?",
+      "options": [
+        "never",
+        "house search",
+        "the window"
+      ],
+      "answer": "house search",
+      "explanation": "Hausdurchsuchung: house search, police raid.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Normally a Hausdurchsuchung needs…",
+      "options": [
+        "a judge's warrant",
+        "only police suspicion"
+      ],
+      "answer": "a judge's warrant",
+      "explanation": "Warrant.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gefahr im Verzug means…",
+      "options": [
+        "urgent danger (allowing action without a warrant)",
+        "a delay"
+      ],
+      "answer": "urgent danger (allowing action without a warrant)",
+      "explanation": "Exception.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Article 13 GG protects…",
+      "options": [
+        "the inviolability of the home",
+        "free speech"
+      ],
+      "answer": "the inviolability of the home",
+      "explanation": "Grundgesetz.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Hausdurchsuchung is a house search or police raid, officially die Wohnungsdurchsuchung. Article 13 of the Grundgesetz declares the home inviolable, so searches generally require a richterlicher Durchsuchungsbeschluss (judge's warrant), except bei Gefahr im Verzug (in urgent danger). News reports often speak of Razzien (raids) with many simultaneous searches. Plural: die Hausdurchsuchungen."
+}

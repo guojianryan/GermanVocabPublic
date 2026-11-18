@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kläranlage",
+    "partOfSpeech": "noun, feminine (die Kläranlage)",
+    "pronunciation": {
+      "respelling": "KLAYR-an-laa-ge",
+      "ipa": "ˈklɛːɐ̯ʔanˌlaːɡə",
+      "notes": "Plural: die Kläranlagen."
+    },
+    "meaning": "sewage treatment plant",
+    "shortDefinition": "Sewage treatment plant."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kläranlage, plural die Kläranlagen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kläranlage"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kläranlagen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Abwasser fließt in die Kläranlage.",
+      "english": "The waste water flows into the sewage plant.",
+      "highlight": [
+        "Kläranlage."
+      ]
+    },
+    {
+      "german": "Im Abwasser der Kläranlagen wird nach Viren gesucht.",
+      "english": "Waste water at treatment plants is tested for viruses.",
+      "highlight": [
+        "Kläranlagen"
+      ]
+    }
+  ],
+  "forms": [
+    "Kläranlagen",
+    "die Kläranlage"
+  ],
+  "memoryHook": "Kläranlage: an Anlage (plant) that klärt (purifies) water.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kläranlage",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kläranlage is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kläranlage, zwei ___",
+      "answer": "Kläranlagen",
+      "fullAnswer": "ein Kläranlage, zwei Kläranlagen",
+      "explanation": "The plural is Kläranlagen.",
+      "acceptedAnswers": [
+        "Klaeranlagen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kläranlage mean?",
+      "options": [
+        "sewage treatment plant",
+        "to sleep",
+        "the door"
+      ],
+      "answer": "sewage treatment plant",
+      "explanation": "Kläranlage: sewage treatment plant.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Klären means…",
+      "options": [
+        "to clarify; to purify",
+        "to clear a table"
+      ],
+      "answer": "to clarify; to purify",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Abwasser is…",
+      "options": [
+        "waste water, sewage",
+        "drinking water"
+      ],
+      "answer": "waste water, sewage",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Klärschlamm is…",
+      "options": [
+        "sewage sludge",
+        "a clear mud bath"
+      ],
+      "answer": "sewage sludge",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kläranlage is a sewage treatment plant that cleans Abwasser (waste water) mechanically, biologically and chemically. Germany has around 9,000 of them. Since the pandemic, many plants are monitored for viruses (Abwassermonitoring) to detect outbreaks early. Der Klärschlamm (sewage sludge) is increasingly burned rather than spread on fields. Klären also means to clarify: eine Frage klären. Plural: die Kläranlagen."
+}

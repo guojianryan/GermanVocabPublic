@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sägewerk",
+    "partOfSpeech": "noun, neuter (das Sägewerk)",
+    "pronunciation": {
+      "respelling": "ZAY-ge-verk",
+      "ipa": "ˈzɛːɡəˌvɛʁk",
+      "notes": "Plural: die Sägewerke."
+    },
+    "meaning": "sawmill",
+    "shortDefinition": "Sawmill."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Sägewerk, plural die Sägewerke.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Sägewerk"
+        },
+        {
+          "label": "More than one",
+          "value": "die Sägewerke"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Holz wird im Sägewerk zu Brettern verarbeitet.",
+      "english": "The wood is processed into boards at the sawmill.",
+      "highlight": [
+        "Sägewerk"
+      ]
+    },
+    {
+      "german": "Das alte Sägewerk wurde mit Wasserkraft betrieben.",
+      "english": "The old sawmill was powered by water.",
+      "highlight": [
+        "Sägewerk"
+      ]
+    }
+  ],
+  "forms": [
+    "Sägewerke",
+    "das Sägewerk"
+  ],
+  "memoryHook": "Sägewerk: a Werk (plant) where wood is gesägt (sawn).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sägewerk",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Sägewerk is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Sägewerk, zwei ___",
+      "answer": "Sägewerke",
+      "fullAnswer": "ein Sägewerk, zwei Sägewerke",
+      "explanation": "The plural is Sägewerke.",
+      "acceptedAnswers": [
+        "Saegewerke"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sägewerk mean?",
+      "options": [
+        "cheap",
+        "to sleep",
+        "sawmill"
+      ],
+      "answer": "sawmill",
+      "explanation": "Sägewerk: sawmill.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Säge is…",
+      "options": [
+        "saw",
+        "a saga"
+      ],
+      "answer": "saw",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sägen means…",
+      "options": [
+        "to saw; to snore (colloquial)",
+        "to say"
+      ],
+      "answer": "to saw; to snore (colloquial)",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Werk here means…",
+      "options": [
+        "works, plant",
+        "a book"
+      ],
+      "answer": "works, plant",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Sägewerk is a sawmill, where logs (Baumstämme) are cut into boards (Bretter) and beams (Balken). Germany's forests, such as the Black Forest, have many, and historic water-powered ones are museums. Die Säge is a saw; sägen means to saw and colloquially to snore. Das Werk means works or plant. Plural: die Sägewerke."
+}

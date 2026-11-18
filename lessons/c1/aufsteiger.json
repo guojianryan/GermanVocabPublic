@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Aufsteiger",
+    "partOfSpeech": "noun, masculine (der Aufsteiger)",
+    "pronunciation": {
+      "respelling": "AUF-shtai-ger",
+      "ipa": "ˈaʊ̯fˌʃtaɪ̯ɡɐ",
+      "notes": "Plural: die Aufsteiger."
+    },
+    "meaning": "promoted team; social climber, high-flyer",
+    "shortDefinition": "Promoted team; social climber, high-flyer."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Aufsteiger, plural die Aufsteiger.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Aufsteiger"
+        },
+        {
+          "label": "More than one",
+          "value": "die Aufsteiger"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Aufsteiger gewann gegen den Meister.",
+      "english": "The newly promoted team beat the champions.",
+      "highlight": [
+        "Aufsteiger"
+      ]
+    },
+    {
+      "german": "Er gilt als sozialer Aufsteiger.",
+      "english": "He's seen as someone who has moved up in society.",
+      "highlight": [
+        "Aufsteiger."
+      ]
+    }
+  ],
+  "forms": [
+    "die Aufsteiger",
+    "der Aufsteiger",
+    "Aufsteigerin",
+    "aufsteigen",
+    "Aufstieg"
+  ],
+  "memoryHook": "Aufsteiger: someone or something that steigt auf (rises).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Aufsteiger",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Aufsteiger is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Aufsteiger, zwei ___",
+      "answer": "Aufsteiger",
+      "fullAnswer": "ein Aufsteiger, zwei Aufsteiger",
+      "explanation": "The plural is Aufsteiger.",
+      "acceptedAnswers": [
+        "Aufsteiger"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Aufsteiger mean?",
+      "options": [
+        "the key",
+        "promoted team",
+        "the door"
+      ],
+      "answer": "promoted team",
+      "explanation": "Aufsteiger: promoted team; social climber, high-flyer.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In football, der Aufsteiger is…",
+      "options": [
+        "a newly promoted team",
+        "a striker"
+      ],
+      "answer": "a newly promoted team",
+      "explanation": "Promoted.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite (relegated team):",
+      "options": [
+        "der Absteiger",
+        "der Einsteiger"
+      ],
+      "answer": "der Absteiger",
+      "explanation": "Relegated.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Einsteiger is…",
+      "options": [
+        "a beginner",
+        "a passenger"
+      ],
+      "answer": "a beginner",
+      "explanation": "Beginner.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Aufsteiger is a newly promoted team in sport: Der Aufsteiger schlägt den Rekordmeister. Its opposite is der Absteiger (relegated team). More broadly, it's someone who has moved up: ein sozialer Aufsteiger, der Aufsteiger des Jahres. German debates about Bildungsaufsteiger (people who are the first in their family to go to university) focus on how much school success depends on parents. From aufsteigen (to rise, be promoted)."
+}

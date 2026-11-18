@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Hubschrauber",
+    "partOfSpeech": "noun, masculine (der Hubschrauber)",
+    "pronunciation": {
+      "respelling": "HOOP-shrau-ber",
+      "ipa": "ˈhuːpˌʃʁaʊ̯bɐ",
+      "notes": "Plural: die Hubschrauber."
+    },
+    "meaning": "helicopter",
+    "shortDefinition": "Helicopter."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Hubschrauber, plural die Hubschrauber.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Hubschrauber"
+        },
+        {
+          "label": "More than one",
+          "value": "die Hubschrauber"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Verletzte wurde mit dem Hubschrauber ins Krankenhaus geflogen.",
+      "english": "The injured man was flown to hospital by helicopter.",
+      "highlight": [
+        "Hubschrauber"
+      ]
+    },
+    {
+      "german": "Über der Stadt kreist ein Hubschrauber.",
+      "english": "A helicopter is circling over the city.",
+      "highlight": [
+        "Hubschrauber."
+      ]
+    }
+  ],
+  "forms": [
+    "die Hubschrauber",
+    "der Hubschrauber",
+    "Rettungshubschrauber"
+  ],
+  "memoryHook": "Hubschrauber: a screw (Schraube) that lifts (heben).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Hubschrauber",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Hubschrauber is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Hubschrauber, zwei ___",
+      "answer": "Hubschrauber",
+      "fullAnswer": "ein Hubschrauber, zwei Hubschrauber",
+      "explanation": "The plural is Hubschrauber.",
+      "acceptedAnswers": [
+        "Hubschrauber"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Hubschrauber mean?",
+      "options": [
+        "helicopter",
+        "to buy",
+        "to help"
+      ],
+      "answer": "helicopter",
+      "explanation": "Hubschrauber: helicopter.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Literally:",
+      "options": [
+        "lift-screw",
+        "air-car"
+      ],
+      "answer": "lift-screw",
+      "explanation": "heben + Schraube.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Loan word synonym:",
+      "options": [
+        "der Helikopter",
+        "der Propeller"
+      ],
+      "answer": "der Helikopter",
+      "explanation": "Helikopter.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Helikoptereltern are…",
+      "options": [
+        "overprotective parents",
+        "pilots"
+      ],
+      "answer": "overprotective parents",
+      "explanation": "Helicopter parents.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Hubschrauber is a helicopter. Literally, it's a lift-screw: from der Hub (lift, from heben) and die Schraube (screw, propeller). Der Helikopter is a common synonym. Germany has a dense network of Rettungshubschrauber (air ambulances), such as the ADAC's yellow Christoph helicopters, which reach most places within 15 minutes. Helikoptereltern are over-protective parents."
+}

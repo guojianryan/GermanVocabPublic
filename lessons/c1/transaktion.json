@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Transaktion",
+    "partOfSpeech": "noun, feminine (die Transaktion)",
+    "pronunciation": {
+      "respelling": "trans-ak-TSYOHN",
+      "ipa": "tʁansʔakˈt͡si̯oːn",
+      "notes": "Plural: die Transaktionen."
+    },
+    "meaning": "transaction",
+    "shortDefinition": "Transaction."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Transaktion, plural die Transaktionen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Transaktion"
+        },
+        {
+          "label": "More than one",
+          "value": "die Transaktionen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Transaktion wurde erfolgreich abgeschlossen.",
+      "english": "The transaction was completed successfully.",
+      "highlight": [
+        "Transaktion"
+      ]
+    },
+    {
+      "german": "Die Bank prüft verdächtige Transaktionen.",
+      "english": "The bank checks suspicious transactions.",
+      "highlight": [
+        "Transaktionen."
+      ]
+    }
+  ],
+  "forms": [
+    "Transaktionen",
+    "die Transaktionen",
+    "die Transaktion"
+  ],
+  "memoryHook": "Transaktion: an action (Aktion) across (trans) parties.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Transaktion",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Transaktion is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Transaktion, zwei ___",
+      "answer": "Transaktionen",
+      "fullAnswer": "ein Transaktion, zwei Transaktionen",
+      "explanation": "The plural is Transaktionen.",
+      "acceptedAnswers": [
+        "Transaktionen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Transaktion mean?",
+      "options": [
+        "the flower",
+        "transaction",
+        "the job"
+      ],
+      "answer": "transaction",
+      "explanation": "Transaktion: transaction.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Überweisung is…",
+      "options": [
+        "bank transfer",
+        "a transaction fee"
+      ],
+      "answer": "bank transfer",
+      "explanation": "Transfer.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Transaktionsgebühr is…",
+      "options": [
+        "transaction fee",
+        "transport cost"
+      ],
+      "answer": "transaction fee",
+      "explanation": "Fee.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "-tion nouns are…",
+      "options": [
+        "feminine",
+        "masculine"
+      ],
+      "answer": "feminine",
+      "explanation": "die Transaktion.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Transaktion is a transaction, especially financial: eine Transaktion durchführen, bestätigen. Banks must report suspicious Transaktionen under money-laundering rules. Germans have traditionally loved cash (Bargeld), though card and mobile payments grew fast after the pandemic. Die Überweisung is a bank transfer, and die Lastschrift a direct debit. Plural: die Transaktionen."
+}

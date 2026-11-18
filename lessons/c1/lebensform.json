@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Lebensform",
+    "partOfSpeech": "noun, feminine (die Lebensform)",
+    "pronunciation": {
+      "respelling": "LAY-bens-form",
+      "ipa": "ˈleːbn̩sˌfɔʁm",
+      "notes": "Plural: die Lebensformen."
+    },
+    "meaning": "life form; way of life",
+    "shortDefinition": "Life form; way of life."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Lebensform, plural die Lebensformen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Lebensform"
+        },
+        {
+          "label": "More than one",
+          "value": "die Lebensformen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Gibt es auf dem Mars Lebensformen?",
+      "english": "Are there life forms on Mars?",
+      "highlight": [
+        "Lebensformen?"
+      ]
+    },
+    {
+      "german": "Die Großfamilie ist eine traditionelle Lebensform.",
+      "english": "The extended family is a traditional way of living.",
+      "highlight": [
+        "Lebensform."
+      ]
+    }
+  ],
+  "forms": [
+    "Lebensformen",
+    "die Lebensform"
+  ],
+  "memoryHook": "Lebensform: a Form of Leben (life).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Lebensform",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Lebensform is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Lebensform, zwei ___",
+      "answer": "Lebensformen",
+      "fullAnswer": "ein Lebensform, zwei Lebensformen",
+      "explanation": "The plural is Lebensformen.",
+      "acceptedAnswers": [
+        "Lebensformen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Lebensform mean?",
+      "options": [
+        "the street",
+        "the key",
+        "life form"
+      ],
+      "answer": "life form",
+      "explanation": "Lebensform: life form; way of life.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Two meanings:",
+      "options": [
+        "life form; way of living",
+        "lifestyle magazine; diet"
+      ],
+      "answer": "life form; way of living",
+      "explanation": "Both.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Lebensstil is…",
+      "options": [
+        "lifestyle",
+        "life form"
+      ],
+      "answer": "lifestyle",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Lebensgemeinschaft is…",
+      "options": [
+        "cohabitation; community",
+        "a club"
+      ],
+      "answer": "cohabitation; community",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Lebensform has two meanings: a life form (außerirdische Lebensformen, primitive Lebensformen) and a way of living (alternative Lebensformen such as Wohngemeinschaften or Patchworkfamilien). Sociologists study changing Lebensformen, such as the rise of single-person households, now about 40 percent of German households. Plural: die Lebensformen."
+}

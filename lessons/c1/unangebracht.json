@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "unangebracht",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "UN-an-ge-brakht",
+      "ipa": "ˈʊnʔanɡəˌbʁaxt",
+      "notes": ""
+    },
+    "meaning": "inappropriate, uncalled for",
+    "shortDefinition": "Inappropriate, uncalled for."
+  },
+  "sampleSentences": [
+    {
+      "german": "Diese Bemerkung war völlig unangebracht.",
+      "english": "That remark was completely uncalled for.",
+      "highlight": [
+        "unangebracht."
+      ]
+    },
+    {
+      "german": "Panik ist hier unangebracht.",
+      "english": "Panic is out of place here.",
+      "highlight": [
+        "unangebracht."
+      ]
+    }
+  ],
+  "forms": [
+    "unangebrachte",
+    "unangebrachten"
+  ],
+  "memoryHook": "Unangebracht: not (un) properly angebracht (placed).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does unangebracht mean?",
+      "options": [
+        "inappropriate",
+        "tomorrow",
+        "the weather"
+      ],
+      "answer": "inappropriate",
+      "explanation": "unangebracht: inappropriate, uncalled for.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Angebracht means…",
+      "options": [
+        "appropriate, advisable",
+        "brought in"
+      ],
+      "answer": "appropriate, advisable",
+      "explanation": "Opposite.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "unpassend, deplatziert",
+        "passend"
+      ],
+      "answer": "unpassend, deplatziert",
+      "explanation": "Synonym.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Anbringen means…",
+      "options": [
+        "to attach; to make (a remark)",
+        "to bring home"
+      ],
+      "answer": "to attach; to make (a remark)",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Frage (inappropriate)",
+      "answer": "unangebrachte",
+      "fullAnswer": "eine unangebrachte Frage",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Unangebracht means inappropriate or uncalled for: eine unangebrachte Bemerkung, Kritik ist hier unangebracht. Its opposite, angebracht, means appropriate or advisable: Vorsicht ist angebracht. Both come from anbringen (to attach, put in place). Synonyms: unpassend, deplatziert, fehl am Platz (out of place)."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Patientenverfügung",
+    "partOfSpeech": "noun, feminine (die Patientenverfügung)",
+    "pronunciation": {
+      "respelling": "pa-TSYEN-ten-fer-fü-gung",
+      "ipa": "paˈt͡si̯ɛntn̩fɛɐ̯ˌfyːɡʊŋ",
+      "notes": "Plural: die Patientenverfügungen."
+    },
+    "meaning": "living will, advance directive",
+    "shortDefinition": "Living will, advance directive."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Patientenverfügung, plural die Patientenverfügungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Patientenverfügung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Patientenverfügungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In der Patientenverfügung legt man fest, welche Behandlungen man will.",
+      "english": "In a living will you state which treatments you want.",
+      "highlight": [
+        "Patientenverfügung"
+      ]
+    },
+    {
+      "german": "Ohne Patientenverfügung müssen Angehörige entscheiden.",
+      "english": "Without a living will, relatives must decide.",
+      "highlight": [
+        "Patientenverfügung"
+      ]
+    }
+  ],
+  "forms": [
+    "Patientenverfügungen",
+    "die Patientenverfügung"
+  ],
+  "memoryHook": "Patientenverfügung: a Verfügung (directive) by the Patient.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Patientenverfügung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Patientenverfügung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Patientenverfügung, zwei ___",
+      "answer": "Patientenverfügungen",
+      "fullAnswer": "ein Patientenverfügung, zwei Patientenverfügungen",
+      "explanation": "The plural is Patientenverfügungen.",
+      "acceptedAnswers": [
+        "Patientenverfuegungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Patientenverfügung mean?",
+      "options": [
+        "living will",
+        "the child",
+        "the flower"
+      ],
+      "answer": "living will",
+      "explanation": "Patientenverfügung: living will, advance directive.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Patientenverfügungen have been legally binding since…",
+      "options": [
+        "2009",
+        "1990"
+      ],
+      "answer": "2009",
+      "explanation": "Law.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Vorsorgevollmacht is…",
+      "options": [
+        "lasting power of attorney",
+        "a pension"
+      ],
+      "answer": "lasting power of attorney",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Verfügung is…",
+      "options": [
+        "disposal; order, directive",
+        "a joint"
+      ],
+      "answer": "disposal; order, directive",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Patientenverfügung is a living will or advance directive, stating which medical treatments one wants or refuses if no longer able to decide, for example life support. Since 2009, it has been legally binding in Germany if written and specific enough. It's often combined with a Vorsorgevollmacht (lasting power of attorney) for a trusted person. Plural: die Patientenverfügungen."
+}

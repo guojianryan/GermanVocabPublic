@@ -1,0 +1,123 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "jedermann",
+    "partOfSpeech": "noun, masculine (der jedermann)",
+    "pronunciation": {
+      "respelling": "YAY-der-man",
+      "ipa": "ˈjeːdɐˌman",
+      "notes": "Usually no plural."
+    },
+    "meaning": "everyone, everybody (formal)",
+    "shortDefinition": "Everyone, everybody (formal)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der jedermann, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der jedermann"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Angebot steht jedermann offen.",
+      "english": "The offer is open to everyone.",
+      "highlight": [
+        "jedermann"
+      ]
+    },
+    {
+      "german": "Er ist nicht jedermanns Sache.",
+      "english": "He's not everybody's cup of tea.",
+      "highlight": [
+        "jedermanns"
+      ]
+    }
+  ],
+  "forms": [
+    "jedermanns"
+  ],
+  "memoryHook": "Jedermann: every man, in the old inclusive sense.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ jedermann",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "jedermann is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does jedermann mean?",
+      "options": [
+        "the child",
+        "slowly",
+        "everyone"
+      ],
+      "answer": "everyone",
+      "explanation": "jedermann: everyone, everybody (formal).",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Genitive:",
+      "options": [
+        "jedermanns",
+        "jedermanns'"
+      ],
+      "answer": "jedermanns",
+      "explanation": "Jedermanns.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das ist nicht jedermanns Sache means…",
+      "options": [
+        "it's not to everyone's taste",
+        "it isn't a thing"
+      ],
+      "answer": "it's not to everyone's taste",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jedermann is…",
+      "options": [
+        "formal and slightly dated",
+        "teen slang"
+      ],
+      "answer": "formal and slightly dated",
+      "explanation": "Register.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hofmannsthal's play Jedermann is performed…",
+      "options": [
+        "at the Salzburg Festival",
+        "in Berlin only"
+      ],
+      "answer": "at the Salzburg Festival",
+      "explanation": "Every summer.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Jedermann means everybody and sounds formal: Das Angebot steht jedermann offen. The genitive is jedermanns: Das ist nicht jedermanns Sache. It's still common in official language and in set phrases, though gender-neutral alternatives like alle are growing. Jedermann is also the title of Hugo von Hofmannsthal's play, performed in front of Salzburg Cathedral every summer since the Salzburg Festival began in 1920."
+}

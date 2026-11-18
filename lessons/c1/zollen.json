@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "zollen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "TSO-len",
+      "ipa": "ˈt͡sɔlən",
+      "notes": ""
+    },
+    "meaning": "to pay (respect, tribute)",
+    "shortDefinition": "To pay (respect, tribute)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "zoll|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "zoll|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "zoll|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "zoll|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "zoll|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "zoll|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gezollt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir zollen ihr großen Respekt.",
+      "english": "We pay her great respect.",
+      "highlight": [
+        "zollen"
+      ]
+    },
+    {
+      "german": "Er musste der Anstrengung Tribut zollen.",
+      "english": "He had to pay the price for the exertion.",
+      "highlight": [
+        "zollen."
+      ]
+    }
+  ],
+  "forms": [
+    "zolle",
+    "zollst",
+    "zollt",
+    "zollen",
+    "gezollt",
+    "zollte"
+  ],
+  "memoryHook": "Zollen: pay what is due, like a Zoll (toll).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (zollen)",
+      "answer": "zollt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: zollt.",
+      "acceptedAnswers": [
+        "zollt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (zollen, past)",
+      "answer": "gezollt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gezollt.",
+      "acceptedAnswers": [
+        "gezollt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does zollen mean?",
+      "options": [
+        "the station",
+        "to pay (respect",
+        "the car"
+      ],
+      "answer": "to pay (respect",
+      "explanation": "zollen: to pay (respect, tribute).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Tribut zollen means…",
+      "options": [
+        "to pay tribute; to pay the price for",
+        "to pay customs"
+      ],
+      "answer": "to pay tribute; to pay the price for",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Zoll is…",
+      "options": [
+        "customs; duty; inch",
+        "a troll"
+      ],
+      "answer": "customs; duty; inch",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zollen takes…",
+      "options": [
+        "dative person + accusative thing",
+        "only accusative"
+      ],
+      "answer": "dative person + accusative thing",
+      "explanation": "Grammar.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Zollen means to pay or show, almost only in fixed phrases: jemandem Respekt, Anerkennung, Beifall zollen. Tribut zollen means to pay tribute, and also to pay the price: Das Team zollte der Hitze Tribut (the heat took its toll). Der Zoll means customs, a duty, and an inch (as in 27-Zoll-Monitor). Regular: zollte, gezollt."
+}

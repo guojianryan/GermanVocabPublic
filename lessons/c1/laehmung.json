@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Lähmung",
+    "partOfSpeech": "noun, feminine (die Lähmung)",
+    "pronunciation": {
+      "respelling": "LAY-mung",
+      "ipa": "ˈlɛːmʊŋ",
+      "notes": "Plural: die Lähmungen."
+    },
+    "meaning": "paralysis",
+    "shortDefinition": "Paralysis."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Lähmung, plural die Lähmungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Lähmung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Lähmungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nach dem Unfall hat er eine Lähmung der Beine.",
+      "english": "After the accident his legs are paralysed.",
+      "highlight": [
+        "Lähmung"
+      ]
+    },
+    {
+      "german": "Die Lähmung der Wirtschaft dauerte Monate.",
+      "english": "The paralysis of the economy lasted months.",
+      "highlight": [
+        "Lähmung"
+      ]
+    }
+  ],
+  "forms": [
+    "Lähmungen",
+    "die Lähmung"
+  ],
+  "memoryHook": "Lähmung: being made lahm (lame).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Lähmung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Lähmung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Lähmung, zwei ___",
+      "answer": "Lähmungen",
+      "fullAnswer": "ein Lähmung, zwei Lähmungen",
+      "explanation": "The plural is Lähmungen.",
+      "acceptedAnswers": [
+        "Laehmungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Lähmung mean?",
+      "options": [
+        "paralysis",
+        "quiet",
+        "expensive"
+      ],
+      "answer": "paralysis",
+      "explanation": "Lähmung: paralysis.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gelähmt means…",
+      "options": [
+        "paralysed",
+        "lame (excuse)"
+      ],
+      "answer": "paralysed",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Querschnittslähmung is…",
+      "options": [
+        "paraplegia",
+        "a cross-section"
+      ],
+      "answer": "paraplegia",
+      "explanation": "Medical.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Lähmen means…",
+      "options": [
+        "to paralyse",
+        "to lame (horse) only"
+      ],
+      "answer": "to paralyse",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Lähmung is paralysis: eine halbseitige Lähmung after a stroke, die Querschnittslähmung (paraplegia). Figuratively it means paralysis of activity: die Lähmung des Verkehrs, der Politik. Lähmen means to paralyse: vor Angst wie gelähmt. From lahm (lame, slow): Das Internet ist heute lahm. Plural: die Lähmungen."
+}

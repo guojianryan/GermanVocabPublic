@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ertönen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "er-TÖ-nen",
+      "ipa": "ɛɐ̯ˈtøːnən",
+      "notes": ""
+    },
+    "meaning": "to sound, ring out",
+    "shortDefinition": "To sound, ring out."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "ertön|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "ertön|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "ertön|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "ertön|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "ertön|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "ertön|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist ertönt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Plötzlich ertönte die Sirene.",
+      "english": "Suddenly the siren sounded.",
+      "highlight": [
+        "ertönte"
+      ]
+    },
+    {
+      "german": "Aus dem Saal ertönte lauter Applaus.",
+      "english": "Loud applause rang out from the hall.",
+      "highlight": [
+        "ertönte"
+      ]
+    }
+  ],
+  "forms": [
+    "ertöne",
+    "ertönst",
+    "ertönt",
+    "ertönen"
+  ],
+  "memoryHook": "Ertönen: begin to give out a Ton (sound).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (ertönen)",
+      "answer": "ertönt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: ertönt.",
+      "acceptedAnswers": [
+        "ertoent"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (ertönen, past)",
+      "answer": "ertönt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin ertönt.",
+      "acceptedAnswers": [
+        "ertoent"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does ertönen mean?",
+      "options": [
+        "the job",
+        "to sound",
+        "to buy"
+      ],
+      "answer": "to sound",
+      "explanation": "ertönen: to sound, ring out.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ton is…",
+      "options": [
+        "sound, tone; clay",
+        "a ton"
+      ],
+      "answer": "sound, tone; clay",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Perfect with…",
+      "options": [
+        "sein",
+        "haben"
+      ],
+      "answer": "sein",
+      "explanation": "ist ertönt.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "somewhat literary",
+        "slang"
+      ],
+      "answer": "somewhat literary",
+      "explanation": "Register.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Ertönen means to sound or ring out, somewhat literary: Die Glocken ertönen, ein Schrei ertönte, die Nationalhymne ertönt. In Germany, sirens are tested on the nationwide Warntag, when they ertönen at 11 a.m. in many areas, along with cell broadcast alerts on phones. Der Ton means sound or tone, and also clay. With sein: ist ertönt."
+}

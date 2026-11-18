@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "dotiert",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "do-TEERT",
+      "ipa": "doˈtiːɐ̯t",
+      "notes": ""
+    },
+    "meaning": "endowed (with money), paid",
+    "shortDefinition": "Endowed (with money), paid."
+  },
+  "sampleSentences": [
+    {
+      "german": "Der Preis ist mit 50.000 Euro dotiert.",
+      "english": "The prize carries 50,000 euros.",
+      "highlight": [
+        "dotiert."
+      ]
+    },
+    {
+      "german": "Sie hat eine gut dotierte Stelle.",
+      "english": "She has a well-paid position.",
+      "highlight": [
+        "dotierte"
+      ]
+    }
+  ],
+  "forms": [
+    "dotierte",
+    "dotierten",
+    "dotieren"
+  ],
+  "memoryHook": "Dotiert: given a dowry (Latin dos).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does dotiert mean?",
+      "options": [
+        "the weather",
+        "endowed (with money)",
+        "to open"
+      ],
+      "answer": "endowed (with money)",
+      "explanation": "dotiert: endowed (with money), paid.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mit Geld dotiert means…",
+      "options": [
+        "carrying prize money",
+        "taxed"
+      ],
+      "answer": "carrying prize money",
+      "explanation": "Prize.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine gut dotierte Stelle is…",
+      "options": [
+        "a well-paid job",
+        "a dotted line"
+      ],
+      "answer": "a well-paid job",
+      "explanation": "Job.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Dotieren means…",
+      "options": [
+        "to endow, fund",
+        "to dot"
+      ],
+      "answer": "to endow, fund",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine hoch ___ Auszeichnung (endowed)",
+      "answer": "dotierte",
+      "fullAnswer": "eine hoch dotierte Auszeichnung",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Dotiert means endowed with money: Der Preis ist mit 10.000 Euro dotiert, a hoch dotierter Literaturpreis such as the Georg-Büchner-Preis, Germany's most important literary prize, worth 50,000 euros. Of jobs, gut dotiert means well paid. Dotieren means to endow, and die Dotierung the amount. In semiconductors, dotieren means to dope. From Latin dos (dowry)."
+}

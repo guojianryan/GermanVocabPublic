@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zustrom",
+    "partOfSpeech": "noun, masculine (der Zustrom)",
+    "pronunciation": {
+      "respelling": "TSOO-shtrohm",
+      "ipa": "ˈt͡suːˌʃtʁoːm",
+      "notes": "Usually no plural."
+    },
+    "meaning": "influx, inflow",
+    "shortDefinition": "Influx, inflow."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Zustrom, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Zustrom"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Zustrom von Touristen belastet die Altstadt.",
+      "english": "The influx of tourists puts a strain on the old town.",
+      "highlight": [
+        "Zustrom"
+      ]
+    },
+    {
+      "german": "Die Partei erhält starken Zustrom von jungen Wählern.",
+      "english": "The party is getting a strong influx of young voters.",
+      "highlight": [
+        "Zustrom"
+      ]
+    }
+  ],
+  "forms": [
+    "der Zustrom",
+    "Zustroms"
+  ],
+  "memoryHook": "Zustrom: a Strom (stream) flowing zu (towards).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zustrom",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Zustrom is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zustrom mean?",
+      "options": [
+        "influx",
+        "the bread",
+        "the station"
+      ],
+      "answer": "influx",
+      "explanation": "Zustrom: influx, inflow.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Zulauf, der Andrang",
+        "der Abfluss"
+      ],
+      "answer": "der Zulauf, der Andrang",
+      "explanation": "Synonym.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Strom is…",
+      "options": [
+        "stream; electricity",
+        "storm"
+      ],
+      "answer": "stream; electricity",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kapitalzustrom is…",
+      "options": [
+        "inflow of capital",
+        "a capital city"
+      ],
+      "answer": "inflow of capital",
+      "explanation": "Finance.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Zustrom is an influx or inflow: der Zustrom von Flüchtlingen, Touristen, Kapital, Kaltluft (in weather reports). Synonyms: der Zulauf (popularity, influx of supporters), der Andrang (rush, crowd), der Zuzug (people moving in). Der Strom means stream and electricity. It has no plural in normal use."
+}

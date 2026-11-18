@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "pumpen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "PUM-pen",
+      "ipa": "ˈpʊmpn̩",
+      "notes": ""
+    },
+    "meaning": "to pump; (colloquial) to lend, borrow",
+    "shortDefinition": "To pump; (colloquial) to lend, borrow."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "pump|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "pump|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "pump|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "pump|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "pump|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "pump|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gepumpt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er pumpt Luft in den Fahrradreifen.",
+      "english": "He's pumping air into the bike tyre.",
+      "highlight": [
+        "pumpt"
+      ]
+    },
+    {
+      "german": "Kannst du mir zehn Euro pumpen?",
+      "english": "Can you lend me ten euros?",
+      "highlight": [
+        "pumpen?"
+      ]
+    }
+  ],
+  "forms": [
+    "pumpe",
+    "pumpst",
+    "pumpt",
+    "pumpen",
+    "gepumpt",
+    "Pumpe",
+    "pumpte"
+  ],
+  "memoryHook": "Pumpen: pump air, money or iron.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (pumpen)",
+      "answer": "pumpt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: pumpt.",
+      "acceptedAnswers": [
+        "pumpt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (pumpen, past)",
+      "answer": "gepumpt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gepumpt.",
+      "acceptedAnswers": [
+        "gepumpt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does pumpen mean?",
+      "options": [
+        "to wait",
+        "to pump",
+        "quiet"
+      ],
+      "answer": "to pump",
+      "explanation": "pumpen: to pump; (colloquial) to lend, borrow.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich Geld pumpen (colloquial) means…",
+      "options": [
+        "to borrow money",
+        "to print money"
+      ],
+      "answer": "to borrow money",
+      "explanation": "Borrow.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Pumpe is…",
+      "options": [
+        "a pump",
+        "a fist"
+      ],
+      "answer": "a pump",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pumpen gehen (gym slang) means…",
+      "options": [
+        "to lift weights",
+        "to go for a run"
+      ],
+      "answer": "to lift weights",
+      "explanation": "Gym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Pumpen means to pump: Wasser pumpen, Luft in den Reifen pumpen. Colloquially, it means to lend or borrow: Kannst du mir dein Fahrrad pumpen? or Ich hab mir Geld gepumpt. Auf Pump means on credit: auf Pump leben. In gym slang, pumpen gehen means to lift weights. Die Pumpe is a pump, and slang for the heart. Regular: pumpte, gepumpt."
+}

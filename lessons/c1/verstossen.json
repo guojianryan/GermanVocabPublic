@@ -1,0 +1,190 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verstoßen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-SHTOH-sen",
+      "ipa": "fɛɐ̯ˈʃtoːsn̩",
+      "notes": ""
+    },
+    "meaning": "to violate (gegen); to disown",
+    "shortDefinition": "To violate (gegen); to disown."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "ver",
+        "meaning": "wrongly, away",
+        "note": "Here ver- gives the idea of going against something."
+      },
+      {
+        "part": "stoßen",
+        "meaning": "to push"
+      }
+    ],
+    "literalMeaning": "to push away, to push against"
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verstoß|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verstöß|t"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verstöß|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verstoß|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verstoß|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verstoß|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verstoßen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Unternehmen hat gegen das Gesetz verstoßen.",
+      "english": "The company violated the law.",
+      "highlight": [
+        "verstoßen."
+      ]
+    },
+    {
+      "german": "Er wurde von seiner Familie verstoßen.",
+      "english": "He was disowned by his family.",
+      "highlight": [
+        "verstoßen."
+      ]
+    }
+  ],
+  "forms": [
+    "verstoße",
+    "verstößt",
+    "verstoßen",
+    "verstoßt",
+    "verstieß",
+    "Verstoß"
+  ],
+  "memoryHook": "Verstoßen: break a rule, or cast out a child.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verstoßen)",
+      "answer": "verstößt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verstößt.",
+      "acceptedAnswers": [
+        "verstoesst"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verstoßen, past)",
+      "answer": "verstoßen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verstoßen.",
+      "acceptedAnswers": [
+        "verstossen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verstoßen mean?",
+      "options": [
+        "to violate (gegen)",
+        "tomorrow",
+        "to wait"
+      ],
+      "answer": "to violate (gegen)",
+      "explanation": "verstoßen: to violate (gegen); to disown.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verstoßen takes…",
+      "options": [
+        "gegen + accusative",
+        "mit + dative"
+      ],
+      "answer": "gegen + accusative",
+      "explanation": "Gegen etwas verstoßen.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Verstoß means…",
+      "options": [
+        "a violation",
+        "a push"
+      ],
+      "answer": "a violation",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Preterite (er):",
+      "options": [
+        "verstieß",
+        "verstoßte"
+      ],
+      "answer": "verstieß",
+      "explanation": "Strong: verstoßen, verstieß, verstoßen.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein verstoßener Sohn is…",
+      "options": [
+        "a disowned son",
+        "an advanced son"
+      ],
+      "answer": "a disowned son",
+      "explanation": "Old meaning.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Verstoßen has a strong conjugation (er verstößt, verstieß, hat verstoßen). The most common use is gegen etwas verstoßen, to violate a law or rule: gegen die Hausordnung verstoßen. The noun der Verstoß means violation. In its older sense, verstoßen is to cast out or disown: ein verstoßener Sohn. The first meaning needs gegen plus the accusative, so don't say mit."
+}

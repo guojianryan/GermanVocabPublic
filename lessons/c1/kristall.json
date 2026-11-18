@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kristall",
+    "partOfSpeech": "noun, masculine (der Kristall)",
+    "pronunciation": {
+      "respelling": "kris-TAL",
+      "ipa": "kʁɪsˈtal",
+      "notes": "Plural: die Kristalle."
+    },
+    "meaning": "crystal",
+    "shortDefinition": "Crystal."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kristall, plural die Kristalle.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kristall"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kristalle"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Schneeflocken sind Kristalle aus Eis.",
+      "english": "Snowflakes are ice crystals.",
+      "highlight": [
+        "Kristalle"
+      ]
+    },
+    {
+      "german": "Die Gläser sind aus Kristall.",
+      "english": "The glasses are made of crystal.",
+      "highlight": [
+        "Kristall."
+      ]
+    }
+  ],
+  "forms": [
+    "Kristalle",
+    "die Kristalle",
+    "der Kristall",
+    "das Kristall"
+  ],
+  "memoryHook": "Kristall: a solid with a regular structure.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kristall",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kristall is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kristall, zwei ___",
+      "answer": "Kristalle",
+      "fullAnswer": "ein Kristall, zwei Kristalle",
+      "explanation": "The plural is Kristalle.",
+      "acceptedAnswers": [
+        "Kristalle"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kristall mean?",
+      "options": [
+        "the station",
+        "crystal",
+        "the flower"
+      ],
+      "answer": "crystal",
+      "explanation": "Kristall: crystal.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender (mineral crystal):",
+      "options": [
+        "der Kristall",
+        "das Kristall"
+      ],
+      "answer": "der Kristall",
+      "explanation": "Masculine.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Kristall (neuter) usually means…",
+      "options": [
+        "crystal glass (material)",
+        "a mineral"
+      ],
+      "answer": "crystal glass (material)",
+      "explanation": "Glass.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kristallklar means…",
+      "options": [
+        "crystal clear",
+        "very cold"
+      ],
+      "answer": "crystal clear",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Kristall is a crystal: Eiskristalle, Salzkristalle. Das Kristall (neuter) is crystal glass: Gläser aus Kristall. Kristallklar means crystal clear. The Nazi pogrom of 9 November 1938 was long called Kristallnacht or Reichskristallnacht, a euphemism for the broken glass; today Novemberpogrome is preferred. Swarovski crystal is from Austria. Plural: die Kristalle."
+}

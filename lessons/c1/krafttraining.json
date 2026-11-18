@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Krafttraining",
+    "partOfSpeech": "noun, neuter (das Krafttraining)",
+    "pronunciation": {
+      "respelling": "KRAFT-trai-ning",
+      "ipa": "ˈkʁaftˌtʁɛːnɪŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "strength training, weight training",
+    "shortDefinition": "Strength training, weight training."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Krafttraining, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Krafttraining"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Zweimal pro Woche mache ich Krafttraining.",
+      "english": "I do strength training twice a week.",
+      "highlight": [
+        "Krafttraining."
+      ]
+    },
+    {
+      "german": "Krafttraining stärkt auch die Knochen.",
+      "english": "Strength training also strengthens the bones.",
+      "highlight": [
+        "Krafttraining"
+      ]
+    }
+  ],
+  "forms": [
+    "das Krafttraining"
+  ],
+  "memoryHook": "Krafttraining: Training for Kraft (strength).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Krafttraining",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Krafttraining is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Krafttraining mean?",
+      "options": [
+        "never",
+        "strength training",
+        "the shop"
+      ],
+      "answer": "strength training",
+      "explanation": "Krafttraining: strength training, weight training.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Fitnessstudio is…",
+      "options": [
+        "the gym",
+        "a fitness course"
+      ],
+      "answer": "the gym",
+      "explanation": "Related.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kraft is…",
+      "options": [
+        "strength, power, force",
+        "a craft"
+      ],
+      "answer": "strength, power, force",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Contrast:",
+      "options": [
+        "das Ausdauertraining (endurance training)",
+        "das Kraftwerk"
+      ],
+      "answer": "das Ausdauertraining (endurance training)",
+      "explanation": "Contrast.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Krafttraining is strength or weight training: im Fitnessstudio Krafttraining machen, mit Hanteln (dumbbells) or Geräten (machines). It contrasts with Ausdauertraining (endurance training). Die Kraft means strength or force, as in Kraftwerk (power station). Colloquially, people say pumpen gehen. Muskelkater is the soreness afterwards. It has no plural."
+}

@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mietpreisbremse",
+    "partOfSpeech": "noun, feminine (die Mietpreisbremse)",
+    "pronunciation": {
+      "respelling": "MEET-prais-brem-ze",
+      "ipa": "ˈmiːtpʁaɪ̯sˌbʁɛmzə",
+      "notes": "Usually no plural."
+    },
+    "meaning": "rent cap (rent brake)",
+    "shortDefinition": "Rent cap (rent brake)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Mietpreisbremse, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Mietpreisbremse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Mietpreisbremse gilt in vielen Großstädten.",
+      "english": "The rent cap applies in many large cities.",
+      "highlight": [
+        "Mietpreisbremse"
+      ]
+    },
+    {
+      "german": "Der Vermieter hat gegen die Mietpreisbremse verstoßen.",
+      "english": "The landlord breached the rent cap.",
+      "highlight": [
+        "Mietpreisbremse"
+      ]
+    }
+  ],
+  "forms": [
+    "die Mietpreisbremse"
+  ],
+  "memoryHook": "Mietpreisbremse: a Bremse (brake) on Mietpreise (rents).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mietpreisbremse",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Mietpreisbremse is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mietpreisbremse mean?",
+      "options": [
+        "the bed",
+        "never",
+        "rent cap (rent brake)"
+      ],
+      "answer": "rent cap (rent brake)",
+      "explanation": "Mietpreisbremse: rent cap (rent brake).",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Mietpreisbremse limits new rents to…",
+      "options": [
+        "10% above the local comparative rent",
+        "the old rent"
+      ],
+      "answer": "10% above the local comparative rent",
+      "explanation": "Rule.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Mietspiegel is…",
+      "options": [
+        "the local rent index",
+        "a mirror"
+      ],
+      "answer": "the local rent index",
+      "explanation": "Index.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Bremse is…",
+      "options": [
+        "brake",
+        "breeze"
+      ],
+      "answer": "brake",
+      "explanation": "Root.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Mietpreisbremse (rent brake) is a German law since 2015: in areas with tight housing markets, rent for a new tenancy may not exceed the ortsübliche Vergleichsmiete (local comparative rent, shown in the Mietspiegel) by more than 10 percent, with exceptions like new builds. It's been extended several times and is controversial, as many landlords ignore it. It has no plural."
+}

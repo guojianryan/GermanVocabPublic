@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wahlversprechen",
+    "partOfSpeech": "noun, neuter (das Wahlversprechen)",
+    "pronunciation": {
+      "respelling": "VAAL-fer-shpre-khen",
+      "ipa": "ˈvaːlfɛɐ̯ˌʃpʁɛçn̩",
+      "notes": "Plural: die Wahlversprechen."
+    },
+    "meaning": "election promise",
+    "shortDefinition": "Election promise."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Wahlversprechen, plural die Wahlversprechen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Wahlversprechen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wahlversprechen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Partei hat ihre Wahlversprechen nicht eingehalten.",
+      "english": "The party hasn't kept its election promises.",
+      "highlight": [
+        "Wahlversprechen"
+      ]
+    },
+    {
+      "german": "Kostenlose Kitas waren ein zentrales Wahlversprechen.",
+      "english": "Free daycare was a central election promise.",
+      "highlight": [
+        "Wahlversprechen."
+      ]
+    }
+  ],
+  "forms": [
+    "das Wahlversprechen",
+    "Wahlversprechens"
+  ],
+  "memoryHook": "Wahlversprechen: a Versprechen (promise) made for a Wahl.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wahlversprechen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Wahlversprechen is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wahlversprechen, zwei ___",
+      "answer": "Wahlversprechen",
+      "fullAnswer": "ein Wahlversprechen, zwei Wahlversprechen",
+      "explanation": "The plural is Wahlversprechen.",
+      "acceptedAnswers": [
+        "Wahlversprechen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wahlversprechen mean?",
+      "options": [
+        "the station",
+        "the bill",
+        "election promise"
+      ],
+      "answer": "election promise",
+      "explanation": "Wahlversprechen: election promise.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Wahlversprechen brechen means…",
+      "options": [
+        "to break an election promise",
+        "to vote twice"
+      ],
+      "answer": "to break an election promise",
+      "explanation": "Break.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Wahlprogramm is…",
+      "options": [
+        "party manifesto",
+        "election TV"
+      ],
+      "answer": "party manifesto",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Koalitionsvertrag is…",
+      "options": [
+        "coalition agreement",
+        "election promise"
+      ],
+      "answer": "coalition agreement",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Wahlversprechen is an election promise: Wahlversprechen einhalten or brechen. Because Germany is usually governed by coalitions, many promises are traded away in the Koalitionsvertrag (coalition agreement), and parties often say a promise fell victim to coalition talks. Parties set out their promises in a Wahlprogramm. The plural is the same: die Wahlversprechen."
+}

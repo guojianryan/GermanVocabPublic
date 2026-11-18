@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Staatsbürger",
+    "partOfSpeech": "noun, masculine (der Staatsbürger)",
+    "pronunciation": {
+      "respelling": "SHTAATS-bür-ger",
+      "ipa": "ˈʃtaːt͡sˌbʏʁɡɐ",
+      "notes": "Plural: die Staatsbürger."
+    },
+    "meaning": "citizen",
+    "shortDefinition": "Citizen."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Staatsbürger, plural die Staatsbürger.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Staatsbürger"
+        },
+        {
+          "label": "More than one",
+          "value": "die Staatsbürger"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er ist deutscher Staatsbürger.",
+      "english": "He's a German citizen.",
+      "highlight": [
+        "Staatsbürger."
+      ]
+    },
+    {
+      "german": "Alle Staatsbürger ab 18 dürfen wählen.",
+      "english": "All citizens aged 18 and over can vote.",
+      "highlight": [
+        "Staatsbürger"
+      ]
+    }
+  ],
+  "forms": [
+    "die Staatsbürger",
+    "der Staatsbürger",
+    "Staatsbürgerin",
+    "Staatsbürgerschaft"
+  ],
+  "memoryHook": "Staatsbürger: a Bürger of the Staat.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Staatsbürger",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Staatsbürger is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Staatsbürger, zwei ___",
+      "answer": "Staatsbürger",
+      "fullAnswer": "ein Staatsbürger, zwei Staatsbürger",
+      "explanation": "The plural is Staatsbürger.",
+      "acceptedAnswers": [
+        "Staatsbuerger"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Staatsbürger mean?",
+      "options": [
+        "the weather",
+        "the evening",
+        "citizen"
+      ],
+      "answer": "citizen",
+      "explanation": "Staatsbürger: citizen.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Bürger alone means…",
+      "options": [
+        "citizen; townsperson",
+        "burger"
+      ],
+      "answer": "citizen; townsperson",
+      "explanation": "Bürger.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Staatsbürger in Uniform is…",
+      "options": [
+        "the Bundeswehr's ideal of the soldier",
+        "a police officer"
+      ],
+      "answer": "the Bundeswehr's ideal of the soldier",
+      "explanation": "Innere Führung.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Staatsbürgerin",
+        "die Staatsbürgin"
+      ],
+      "answer": "die Staatsbürgerin",
+      "explanation": "-in.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Staatsbürger (die Staatsbürgerin) is a citizen of a country: deutscher Staatsbürger. Der Bürger on its own means citizen or townsperson, as in Bürgerinitiative (citizens' action group) and Bürgeramt (citizens' office). The Bundeswehr describes its ideal soldier as der Staatsbürger in Uniform, a citizen with rights and conscience, a lesson from the Wehrmacht. Die Staatsbürgerschaft is citizenship. Plural: die Staatsbürger."
+}

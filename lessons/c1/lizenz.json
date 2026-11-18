@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Lizenz",
+    "partOfSpeech": "noun, feminine (die Lizenz)",
+    "pronunciation": {
+      "respelling": "li-TSENTS",
+      "ipa": "liˈt͡sɛnt͡s",
+      "notes": "Plural: die Lizenzen."
+    },
+    "meaning": "licence",
+    "shortDefinition": "Licence."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Lizenz, plural die Lizenzen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Lizenz"
+        },
+        {
+          "label": "More than one",
+          "value": "die Lizenzen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Für die Software braucht man eine Lizenz.",
+      "english": "You need a licence for the software.",
+      "highlight": [
+        "Lizenz."
+      ]
+    },
+    {
+      "german": "Er hat seine Lizenz verloren.",
+      "english": "He lost his licence.",
+      "highlight": [
+        "Lizenz"
+      ]
+    }
+  ],
+  "forms": [
+    "Lizenzen",
+    "die Lizenzen",
+    "die Lizenz",
+    "lizenzieren"
+  ],
+  "memoryHook": "Lizenz: licence with a z (twice).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Lizenz",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Lizenz is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Lizenz, zwei ___",
+      "answer": "Lizenzen",
+      "fullAnswer": "ein Lizenz, zwei Lizenzen",
+      "explanation": "The plural is Lizenzen.",
+      "acceptedAnswers": [
+        "Lizenzen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Lizenz mean?",
+      "options": [
+        "hot",
+        "to help",
+        "licence"
+      ],
+      "answer": "licence",
+      "explanation": "Lizenz: licence.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "A driving licence in German is…",
+      "options": [
+        "der Führerschein",
+        "die Fahrlizenz"
+      ],
+      "answer": "der Führerschein",
+      "explanation": "Führerschein!",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Lizenzieren means…",
+      "options": [
+        "to license",
+        "to delete"
+      ],
+      "answer": "to license",
+      "explanation": "lizenzieren.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress on…",
+      "options": [
+        "-ZENZ",
+        "LI-"
+      ],
+      "answer": "-ZENZ",
+      "explanation": "li-TSENTS.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Lizenz is a licence: eine Softwarelizenz, die Trainerlizenz, in Lizenz hergestellt (made under licence). Note the spelling with z twice and the stress on the second syllable. A driving licence is not a Lizenz but der Führerschein, and a fishing licence is der Angelschein. In German football, clubs need a Lizenz from the DFL to play in the Bundesliga. Lizenzfrei means licence-free."
+}

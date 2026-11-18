@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ungeziefer",
+    "partOfSpeech": "noun, neuter (das Ungeziefer)",
+    "pronunciation": {
+      "respelling": "UN-ge-tsee-fer",
+      "ipa": "ˈʊnɡəˌt͡siːfɐ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "vermin, pests",
+    "shortDefinition": "Vermin, pests."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Ungeziefer, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Ungeziefer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Keller ist voller Ungeziefer.",
+      "english": "The cellar is full of vermin.",
+      "highlight": [
+        "Ungeziefer."
+      ]
+    },
+    {
+      "german": "Ein Kammerjäger bekämpft das Ungeziefer.",
+      "english": "An exterminator gets rid of the vermin.",
+      "highlight": [
+        "Ungeziefer."
+      ]
+    }
+  ],
+  "forms": [
+    "das Ungeziefer",
+    "Ungeziefers"
+  ],
+  "memoryHook": "Ungeziefer: once an unclean (un-) animal unfit for sacrifice (Zebar).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ungeziefer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Ungeziefer is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ungeziefer mean?",
+      "options": [
+        "the family",
+        "vermin",
+        "to wait"
+      ],
+      "answer": "vermin",
+      "explanation": "Ungeziefer: vermin, pests.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ungeziefer includes…",
+      "options": [
+        "Läuse, Wanzen, Kakerlaken",
+        "Hunde"
+      ],
+      "answer": "Läuse, Wanzen, Kakerlaken",
+      "explanation": "Examples.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kafka's Gregor Samsa wakes up as…",
+      "options": [
+        "ein ungeheures Ungeziefer",
+        "a beetle named Ungeziefer"
+      ],
+      "answer": "ein ungeheures Ungeziefer",
+      "explanation": "Kafka.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Number:",
+      "options": [
+        "collective, no plural",
+        "plural Ungezieferer"
+      ],
+      "answer": "collective, no plural",
+      "explanation": "Collective.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Ungeziefer is vermin or pests, a collective noun for lice, bedbugs, cockroaches and similar creatures. It originally meant an unclean animal unfit for sacrifice. In Kafka's Die Verwandlung (1915), Gregor Samsa wakes up transformed into ein ungeheures Ungeziefer, a monstrous vermin. Nazi propaganda used the word to dehumanise people, so it's avoided for humans. It has no plural."
+}

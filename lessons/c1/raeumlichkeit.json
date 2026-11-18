@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Räumlichkeit",
+    "partOfSpeech": "noun, feminine (die Räumlichkeit)",
+    "pronunciation": {
+      "respelling": "ROYM-likh-kait",
+      "ipa": "ˈʁɔɪ̯mlɪçkaɪ̯t",
+      "notes": "Plural: die Räumlichkeiten."
+    },
+    "meaning": "premises, rooms (usually plural)",
+    "shortDefinition": "Premises, rooms (usually plural)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Räumlichkeit, plural die Räumlichkeiten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Räumlichkeit"
+        },
+        {
+          "label": "More than one",
+          "value": "die Räumlichkeiten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Feier findet in unseren Räumlichkeiten statt.",
+      "english": "The celebration takes place on our premises.",
+      "highlight": [
+        "Räumlichkeiten"
+      ]
+    },
+    {
+      "german": "Die Räumlichkeiten sind barrierefrei.",
+      "english": "The premises are wheelchair-accessible.",
+      "highlight": [
+        "Räumlichkeiten"
+      ]
+    }
+  ],
+  "forms": [
+    "Räumlichkeiten",
+    "die Räumlichkeiten",
+    "die Räumlichkeit"
+  ],
+  "memoryHook": "Räumlichkeiten: a formal way to say Räume.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Räumlichkeit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Räumlichkeit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Räumlichkeit, zwei ___",
+      "answer": "Räumlichkeiten",
+      "fullAnswer": "ein Räumlichkeit, zwei Räumlichkeiten",
+      "explanation": "The plural is Räumlichkeiten.",
+      "acceptedAnswers": [
+        "Raeumlichkeiten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Räumlichkeit mean?",
+      "options": [
+        "quiet",
+        "premises",
+        "tomorrow"
+      ],
+      "answer": "premises",
+      "explanation": "Räumlichkeit: premises, rooms (usually plural).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mostly used in the…",
+      "options": [
+        "plural (Räumlichkeiten)",
+        "singular"
+      ],
+      "answer": "plural (Räumlichkeiten)",
+      "explanation": "Plural.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Simpler word:",
+      "options": [
+        "die Räume",
+        "die Zimmer only"
+      ],
+      "answer": "die Räume",
+      "explanation": "Rooms.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Barrierefrei means…",
+      "options": [
+        "accessible (no barriers)",
+        "free of charge"
+      ],
+      "answer": "accessible (no barriers)",
+      "explanation": "Accessible.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Räumlichkeiten are premises or rooms, almost always in the plural: die Räumlichkeiten des Vereins, Räumlichkeiten für Feiern mieten. It's a slightly formal word, typical of businesses, event venues and official notices; in everyday speech, Germans just say die Räume. In the singular, Räumlichkeit can also mean spatial quality, like the sense of depth in a painting or sound. From der Raum (room, space)."
+}

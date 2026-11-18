@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sauerstoff",
+    "partOfSpeech": "noun, masculine (der Sauerstoff)",
+    "pronunciation": {
+      "respelling": "ZAU-er-shtof",
+      "ipa": "ˈzaʊ̯ɐˌʃtɔf",
+      "notes": "Usually no plural."
+    },
+    "meaning": "oxygen",
+    "shortDefinition": "Oxygen."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Sauerstoff, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Sauerstoff"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Pflanzen produzieren Sauerstoff.",
+      "english": "Plants produce oxygen.",
+      "highlight": [
+        "Sauerstoff."
+      ]
+    },
+    {
+      "german": "Der Patient bekommt Sauerstoff.",
+      "english": "The patient is getting oxygen.",
+      "highlight": [
+        "Sauerstoff."
+      ]
+    }
+  ],
+  "forms": [
+    "der Sauerstoff",
+    "Sauerstoffmangel"
+  ],
+  "memoryHook": "Sauerstoff: the 'sour stuff' you breathe.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sauerstoff",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Sauerstoff is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sauerstoff mean?",
+      "options": [
+        "to sing",
+        "slowly",
+        "oxygen"
+      ],
+      "answer": "oxygen",
+      "explanation": "Sauerstoff: oxygen.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Literally:",
+      "options": [
+        "sour substance",
+        "air substance"
+      ],
+      "answer": "sour substance",
+      "explanation": "sauer + Stoff.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hydrogen is…",
+      "options": [
+        "der Wasserstoff",
+        "der Luftstoff"
+      ],
+      "answer": "der Wasserstoff",
+      "explanation": "Water substance.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Chemical symbol:",
+      "options": [
+        "O",
+        "S"
+      ],
+      "answer": "O",
+      "explanation": "Oxygen.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Carbon is…",
+      "options": [
+        "der Kohlenstoff",
+        "der Kohlestoff"
+      ],
+      "answer": "der Kohlenstoff",
+      "explanation": "Kohlenstoff.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Sauerstoff is oxygen. German translates many element names: Wasserstoff (hydrogen, water substance), Stickstoff (nitrogen, suffocating substance), Kohlenstoff (carbon). Sauerstoff literally means sour substance, a loan translation of the Greek-based oxygen (acid-maker), since Lavoisier wrongly believed all acids contain it. Der Sauerstoffmangel is lack of oxygen. Der Stoff means substance or fabric."
+}

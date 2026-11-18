@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Steuerberater",
+    "partOfSpeech": "noun, masculine (der Steuerberater)",
+    "pronunciation": {
+      "respelling": "SHTOI-er-be-raa-ter",
+      "ipa": "ˈʃtɔɪ̯ɐbəˌʁaːtɐ",
+      "notes": "Plural: die Steuerberater."
+    },
+    "meaning": "tax adviser",
+    "shortDefinition": "Tax adviser."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Steuerberater, plural die Steuerberater.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Steuerberater"
+        },
+        {
+          "label": "More than one",
+          "value": "die Steuerberater"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Mein Steuerberater macht die Steuererklärung.",
+      "english": "My tax adviser does the tax return.",
+      "highlight": [
+        "Steuerberater"
+      ]
+    },
+    {
+      "german": "Selbstständige brauchen oft eine Steuerberaterin.",
+      "english": "Self-employed people often need a tax adviser.",
+      "highlight": [
+        "Steuerberaterin."
+      ]
+    }
+  ],
+  "forms": [
+    "die Steuerberater",
+    "der Steuerberater",
+    "Steuerberaterin"
+  ],
+  "memoryHook": "Steuerberater: a Berater (adviser) on Steuern (taxes).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Steuerberater",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Steuerberater is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Steuerberater, zwei ___",
+      "answer": "Steuerberater",
+      "fullAnswer": "ein Steuerberater, zwei Steuerberater",
+      "explanation": "The plural is Steuerberater.",
+      "acceptedAnswers": [
+        "Steuerberater"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Steuerberater mean?",
+      "options": [
+        "to learn",
+        "the key",
+        "tax adviser"
+      ],
+      "answer": "tax adviser",
+      "explanation": "Steuerberater: tax adviser.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Steuererklärung is…",
+      "options": [
+        "tax return",
+        "tax explanation"
+      ],
+      "answer": "tax return",
+      "explanation": "Return.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "German tax law is known for being…",
+      "options": [
+        "very complex",
+        "very simple"
+      ],
+      "answer": "very complex",
+      "explanation": "Complex.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Lohnsteuerhilfeverein is…",
+      "options": [
+        "an association that helps employees with tax returns",
+        "a tax office"
+      ],
+      "answer": "an association that helps employees with tax returns",
+      "explanation": "Help.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Steuerberater (die Steuerberaterin) is a tax adviser, a regulated profession in Germany requiring a demanding state exam. German tax law is notoriously complex, and many self-employed people and businesses can't manage without one. Employees often use tax software or a Lohnsteuerhilfeverein. The tax return (Steuererklärung) is filed online via ELSTER. Plural: die Steuerberater."
+}

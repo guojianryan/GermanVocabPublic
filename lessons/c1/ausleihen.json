@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ausleihen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AUS-lai-en",
+      "ipa": "ˈaʊ̯sˌlaɪ̯ən",
+      "notes": ""
+    },
+    "meaning": "to borrow; to lend",
+    "shortDefinition": "To borrow; to lend."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "leih|e … |aus"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "leih|st … |aus"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "leih|t … |aus"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "leih|en … |aus"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "leih|t … |aus"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "leih|en … |aus"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat ausgeliehen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich habe mir ein Buch aus der Bibliothek ausgeliehen.",
+      "english": "I borrowed a book from the library.",
+      "highlight": [
+        "ausgeliehen."
+      ]
+    },
+    {
+      "german": "Kannst du mir dein Fahrrad ausleihen?",
+      "english": "Can you lend me your bike?",
+      "highlight": [
+        "ausleihen?"
+      ]
+    }
+  ],
+  "forms": [
+    "leihe aus",
+    "leihst aus",
+    "leiht aus",
+    "leihen aus",
+    "ausgeliehen",
+    "lieh aus",
+    "Ausleihe"
+  ],
+  "memoryHook": "Ausleihen: lend (leihen) out (aus), or borrow with sich.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … aus (ausleihen)",
+      "answer": "leiht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: leiht … aus.",
+      "acceptedAnswers": [
+        "leiht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (ausleihen, past)",
+      "answer": "ausgeliehen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe ausgeliehen.",
+      "acceptedAnswers": [
+        "ausgeliehen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does ausleihen mean?",
+      "options": [
+        "to borrow",
+        "never",
+        "the bed"
+      ],
+      "answer": "to borrow",
+      "explanation": "ausleihen: to borrow; to lend.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich (Dat.) etwas ausleihen means…",
+      "options": [
+        "to borrow something",
+        "to lend something"
+      ],
+      "answer": "to borrow something",
+      "explanation": "Borrow.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandem etwas ausleihen means…",
+      "options": [
+        "to lend someone something",
+        "to borrow from someone"
+      ],
+      "answer": "to lend someone something",
+      "explanation": "Lend.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "lieh aus, ausgeliehen",
+        "leihte aus"
+      ],
+      "answer": "lieh aus, ausgeliehen",
+      "explanation": "Irregular.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Ausleihen works both ways: jemandem etwas ausleihen means to lend, and sich etwas ausleihen means to borrow: Ich leihe mir ein Buch aus. The dative sich makes the difference. Die Ausleihe is the loan desk at a library. Germany has many Leihläden and Bibliotheken der Dinge (libraries of things) for lending tools. Separable and irregular: lieh aus, ausgeliehen. Leihen alone works the same way."
+}

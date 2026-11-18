@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Industrialisierung",
+    "partOfSpeech": "noun, feminine (die Industrialisierung)",
+    "pronunciation": {
+      "respelling": "in-dus-tri-a-li-ZEE-rung",
+      "ipa": "ɪndʊstʁi̯aliˈziːʁʊŋ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "industrialisation",
+    "shortDefinition": "Industrialisation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Industrialisierung, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Industrialisierung"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Industrialisierung veränderte die Gesellschaft.",
+      "english": "Industrialisation changed society.",
+      "highlight": [
+        "Industrialisierung"
+      ]
+    },
+    {
+      "german": "In Deutschland begann die Industrialisierung später als in England.",
+      "english": "In Germany industrialisation began later than in England.",
+      "highlight": [
+        "Industrialisierung"
+      ]
+    }
+  ],
+  "forms": [
+    "die Industrialisierung",
+    "industrialisieren"
+  ],
+  "memoryHook": "Industrialisierung: becoming an Industrie society.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Industrialisierung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Industrialisierung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Industrialisierung mean?",
+      "options": [
+        "slowly",
+        "expensive",
+        "industrialisation"
+      ],
+      "answer": "industrialisation",
+      "explanation": "Industrialisierung: industrialisation.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's first railway (1835) ran between…",
+      "options": [
+        "Nuremberg and Fürth",
+        "Berlin and Potsdam"
+      ],
+      "answer": "Nuremberg and Fürth",
+      "explanation": "Railway.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Industrie is…",
+      "options": [
+        "industry",
+        "industriousness"
+      ],
+      "answer": "industry",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Soziale Frage arose from…",
+      "options": [
+        "poverty of industrial workers",
+        "taxes"
+      ],
+      "answer": "poverty of industrial workers",
+      "explanation": "History.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Industrialisierung is industrialisation. In Germany it took off around 1835, when the first railway ran from Nuremberg to Fürth, and accelerated after 1871 with coal and steel in the Ruhr and chemicals and electrical engineering. Poverty among workers created the soziale Frage, which led to Bismarck's social insurance laws in the 1880s. It has no plural."
+}

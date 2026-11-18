@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Umland",
+    "partOfSpeech": "noun, neuter (das Umland)",
+    "pronunciation": {
+      "respelling": "UM-lant",
+      "ipa": "ˈʊmˌlant",
+      "notes": "Usually no plural."
+    },
+    "meaning": "surrounding area (of a city)",
+    "shortDefinition": "Surrounding area (of a city)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Umland, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Umland"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Viele Familien ziehen ins Umland.",
+      "english": "Many families are moving out to the surrounding area.",
+      "highlight": [
+        "Umland."
+      ]
+    },
+    {
+      "german": "Berlin und sein Umland wachsen zusammen.",
+      "english": "Berlin and its surrounding area are growing together.",
+      "highlight": [
+        "Umland"
+      ]
+    }
+  ],
+  "forms": [
+    "das Umland",
+    "Speckgürtel"
+  ],
+  "memoryHook": "Umland: the Land around (um) a city.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Umland",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Umland is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Umland mean?",
+      "options": [
+        "surrounding area (of a city)",
+        "the flower",
+        "the station"
+      ],
+      "answer": "surrounding area (of a city)",
+      "explanation": "Umland: surrounding area (of a city).",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Umland is…",
+      "options": [
+        "the area around a city",
+        "a foreign country"
+      ],
+      "answer": "the area around a city",
+      "explanation": "Surroundings.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Speckgürtel (casual) is…",
+      "options": [
+        "the affluent commuter belt",
+        "a belt of fat"
+      ],
+      "answer": "the affluent commuter belt",
+      "explanation": "Commuter belt.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pendler from the Umland are…",
+      "options": [
+        "commuters",
+        "tourists"
+      ],
+      "answer": "commuters",
+      "explanation": "Pendler.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Umland is the area surrounding a city: das Münchner Umland, Hamburg und Umland. As rents in big cities rise, many families move ins Umland and become Pendler (commuters). The affluent suburbs and commuter towns are jokingly called der Speckgürtel (bacon belt), especially around Berlin. Public transport in a city and its Umland is usually run by one Verkehrsverbund with shared tickets. It has no plural."
+}

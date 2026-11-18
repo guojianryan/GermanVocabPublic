@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Krieger",
+    "partOfSpeech": "noun, masculine (der Krieger)",
+    "pronunciation": {
+      "respelling": "KREE-ger",
+      "ipa": "ˈkʁiːɡɐ",
+      "notes": "Plural: die Krieger."
+    },
+    "meaning": "warrior",
+    "shortDefinition": "Warrior."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Krieger, plural die Krieger.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Krieger"
+        },
+        {
+          "label": "More than one",
+          "value": "die Krieger"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Krieger kehrten siegreich zurück.",
+      "english": "The warriors returned victorious.",
+      "highlight": [
+        "Krieger"
+      ]
+    },
+    {
+      "german": "Das Kriegerdenkmal steht vor der Kirche.",
+      "english": "The war memorial stands in front of the church.",
+      "highlight": [
+        "Kriegerdenkmal"
+      ]
+    }
+  ],
+  "forms": [
+    "die Krieger",
+    "der Krieger",
+    "Kriegerin",
+    "kriegerisch"
+  ],
+  "memoryHook": "Der Krieger fights the Krieg.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Krieger",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Krieger is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Krieger, zwei ___",
+      "answer": "Krieger",
+      "fullAnswer": "ein Krieger, zwei Krieger",
+      "explanation": "The plural is Krieger.",
+      "acceptedAnswers": [
+        "Krieger"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Krieger mean?",
+      "options": [
+        "tomorrow",
+        "warrior",
+        "the job"
+      ],
+      "answer": "warrior",
+      "explanation": "Krieger: warrior.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Krieg is…",
+      "options": [
+        "the war",
+        "the warrior"
+      ],
+      "answer": "the war",
+      "explanation": "Krieg.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Kriegerdenkmal is…",
+      "options": [
+        "a war memorial",
+        "a battlefield"
+      ],
+      "answer": "a war memorial",
+      "explanation": "Found in many villages.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kriegerisch means…",
+      "options": [
+        "warlike",
+        "victorious"
+      ],
+      "answer": "warlike",
+      "explanation": "kriegerisch.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Krieger (die Kriegerin) is a warrior, a somewhat old-fashioned or epic word: die Krieger der Wikinger. A modern soldier is der Soldat. Almost every German village has a Kriegerdenkmal, a memorial to the soldiers who fell in the world wars. Kriegerisch means warlike: kriegerische Auseinandersetzungen (armed conflicts). From der Krieg (war). Plural: die Krieger."
+}

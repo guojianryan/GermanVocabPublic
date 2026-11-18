@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Epidemie",
+    "partOfSpeech": "noun, feminine (die Epidemie)",
+    "pronunciation": {
+      "respelling": "e-pi-de-MEE",
+      "ipa": "epideˈmiː",
+      "notes": "Plural: die Epidemien."
+    },
+    "meaning": "epidemic",
+    "shortDefinition": "Epidemic."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Epidemie, plural die Epidemien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Epidemie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Epidemien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Epidemie breitete sich schnell aus.",
+      "english": "The epidemic spread quickly.",
+      "highlight": [
+        "Epidemie"
+      ]
+    },
+    {
+      "german": "Die Pandemie ist eine weltweite Epidemie.",
+      "english": "A pandemic is a worldwide epidemic.",
+      "highlight": [
+        "Epidemie."
+      ]
+    }
+  ],
+  "forms": [
+    "Epidemien",
+    "die Epidemien",
+    "die Epidemie",
+    "epidemisch"
+  ],
+  "memoryHook": "Epidemie: a disease upon (epi) the people (demos).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Epidemie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Epidemie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Epidemie, zwei ___",
+      "answer": "Epidemien",
+      "fullAnswer": "ein Epidemie, zwei Epidemien",
+      "explanation": "The plural is Epidemien.",
+      "acceptedAnswers": [
+        "Epidemien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Epidemie mean?",
+      "options": [
+        "to help",
+        "to buy",
+        "epidemic"
+      ],
+      "answer": "epidemic",
+      "explanation": "Epidemie: epidemic.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Pandemie is…",
+      "options": [
+        "a worldwide epidemic",
+        "a local outbreak"
+      ],
+      "answer": "a worldwide epidemic",
+      "explanation": "Pandemic.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's public health institute is…",
+      "options": [
+        "the Robert Koch Institute (RKI)",
+        "the Charité"
+      ],
+      "answer": "the Robert Koch Institute (RKI)",
+      "explanation": "RKI.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress:",
+      "options": [
+        "e-pi-de-MIE",
+        "e-PI-de-mie"
+      ],
+      "answer": "e-pi-de-MIE",
+      "explanation": "Last syllable.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Epidemie is an epidemic; a worldwide one is die Pandemie. Germany's Robert Koch Institute (RKI), named after the scientist who identified the tuberculosis bacterium in 1882, monitors infectious diseases. During the Covid-19 pandemic, the Bundestag declared an epidemische Lage von nationaler Tragweite (an epidemic situation of national significance), allowing special measures. Stressed on the last syllable. Plural: die Epidemien."
+}

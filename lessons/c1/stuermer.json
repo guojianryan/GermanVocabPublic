@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Stürmer",
+    "partOfSpeech": "noun, masculine (der Stürmer)",
+    "pronunciation": {
+      "respelling": "SHTÜR-mer",
+      "ipa": "ˈʃtʏʁmɐ",
+      "notes": "Plural: die Stürmer."
+    },
+    "meaning": "striker, forward",
+    "shortDefinition": "Striker, forward."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Stürmer, plural die Stürmer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Stürmer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Stürmer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Stürmer schoss zwei Tore.",
+      "english": "The striker scored two goals.",
+      "highlight": [
+        "Stürmer"
+      ]
+    },
+    {
+      "german": "Wir brauchen einen neuen Stürmer.",
+      "english": "We need a new striker.",
+      "highlight": [
+        "Stürmer."
+      ]
+    }
+  ],
+  "forms": [
+    "die Stürmer",
+    "der Stürmer",
+    "Stürmerin",
+    "stürmen"
+  ],
+  "memoryHook": "Stürmer: the one who storms (stürmt) the goal.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Stürmer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Stürmer is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Stürmer, zwei ___",
+      "answer": "Stürmer",
+      "fullAnswer": "ein Stürmer, zwei Stürmer",
+      "explanation": "The plural is Stürmer.",
+      "acceptedAnswers": [
+        "Stuermer"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Stürmer mean?",
+      "options": [
+        "striker",
+        "tomorrow",
+        "expensive"
+      ],
+      "answer": "striker",
+      "explanation": "Stürmer: striker, forward.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stürmen means…",
+      "options": [
+        "to storm; to attack",
+        "to be stormy only"
+      ],
+      "answer": "to storm; to attack",
+      "explanation": "stürmen.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Sturm in football is…",
+      "options": [
+        "the attack, forwards",
+        "bad weather"
+      ],
+      "answer": "the attack, forwards",
+      "explanation": "Attack.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sturm und Drang was…",
+      "options": [
+        "a literary movement",
+        "a football tactic"
+      ],
+      "answer": "a literary movement",
+      "explanation": "18th century.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Stürmer (die Stürmerin) is a striker or forward in football: der Mittelstürmer (centre forward). Gerd Müller, der Bomber der Nation, is Germany's most legendary Stürmer. Stürmen means to storm or attack, and der Sturm is both a storm and the attacking line. Sturm und Drang (storm and stress) was a German literary movement of the 1770s, with the young Goethe and Schiller."
+}

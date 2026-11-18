@@ -1,0 +1,142 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mandat",
+    "partOfSpeech": "noun, neuter (das Mandat)",
+    "pronunciation": {
+      "respelling": "man-DAAT",
+      "ipa": "manˈdaːt",
+      "notes": "Plural: die Mandate."
+    },
+    "meaning": "mandate; seat (in parliament); brief (client)",
+    "shortDefinition": "Mandate; seat (in parliament); brief (client)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Mandat, plural die Mandate.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Mandat"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mandate"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er legte sein Mandat im Bundestag nieder.",
+      "english": "He gave up his seat in the Bundestag.",
+      "highlight": [
+        "Mandat"
+      ]
+    },
+    {
+      "german": "Der Anwalt übernahm das Mandat.",
+      "english": "The lawyer took on the case.",
+      "highlight": [
+        "Mandat."
+      ]
+    }
+  ],
+  "forms": [
+    "Mandate",
+    "die Mandate",
+    "das Mandat",
+    "Mandant",
+    "Mandantin"
+  ],
+  "memoryHook": "Mandat: authority handed to you.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mandat",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Mandat is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mandat, zwei ___",
+      "answer": "Mandate",
+      "fullAnswer": "ein Mandat, zwei Mandate",
+      "explanation": "The plural is Mandate.",
+      "acceptedAnswers": [
+        "Mandate"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mandat mean?",
+      "options": [
+        "mandate",
+        "the bill",
+        "the child"
+      ],
+      "answer": "mandate",
+      "explanation": "Mandat: mandate; seat (in parliament); brief (client).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Mandate",
+        "Mandaten"
+      ],
+      "answer": "Mandate",
+      "explanation": "-e.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein Mandat im Landtag means…",
+      "options": [
+        "a seat in the state parliament",
+        "a state law"
+      ],
+      "answer": "a seat in the state parliament",
+      "explanation": "Parliament seat.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Mandant is…",
+      "options": [
+        "a lawyer's client",
+        "a lawyer"
+      ],
+      "answer": "a lawyer's client",
+      "explanation": "Client.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Direktmandat means…",
+      "options": [
+        "a seat won directly in a constituency",
+        "a mandatory seat"
+      ],
+      "answer": "a seat won directly in a constituency",
+      "explanation": "Bundestag.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Das Mandat has three main uses: a parliamentary seat (ein Mandat im Bundestag, Direktmandat, Überhangmandat), a political mandate (ein Mandat der UNO), and a lawyer's brief, where the client is der Mandant. In the Bundestag, a Direktmandat is won in an electoral constituency by the most first votes. Er gab sein Mandat zurück means he gave up his seat."
+}

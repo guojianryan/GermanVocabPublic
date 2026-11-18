@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Laufzeit",
+    "partOfSpeech": "noun, feminine (die Laufzeit)",
+    "pronunciation": {
+      "respelling": "LAUF-tsait",
+      "ipa": "ˈlaʊ̯fˌt͡saɪ̯t",
+      "notes": "Plural: die Laufzeiten."
+    },
+    "meaning": "term, duration; running time",
+    "shortDefinition": "Term, duration; running time."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Laufzeit, plural die Laufzeiten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Laufzeit"
+        },
+        {
+          "label": "More than one",
+          "value": "die Laufzeiten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Vertrag hat eine Laufzeit von zwei Jahren.",
+      "english": "The contract runs for two years.",
+      "highlight": [
+        "Laufzeit"
+      ]
+    },
+    {
+      "german": "Der Film hat eine Laufzeit von 120 Minuten.",
+      "english": "The film has a running time of 120 minutes.",
+      "highlight": [
+        "Laufzeit"
+      ]
+    }
+  ],
+  "forms": [
+    "Laufzeiten",
+    "die Laufzeiten",
+    "die Laufzeit"
+  ],
+  "memoryHook": "Laufzeit: how long something runs (läuft).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Laufzeit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Laufzeit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Laufzeit, zwei ___",
+      "answer": "Laufzeiten",
+      "fullAnswer": "ein Laufzeit, zwei Laufzeiten",
+      "explanation": "The plural is Laufzeiten.",
+      "acceptedAnswers": [
+        "Laufzeiten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Laufzeit mean?",
+      "options": [
+        "the evening",
+        "term",
+        "the car"
+      ],
+      "answer": "term",
+      "explanation": "Laufzeit: term, duration; running time.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Laufzeit eines Kredits is…",
+      "options": [
+        "the term of a loan",
+        "the interest rate"
+      ],
+      "answer": "the term of a loan",
+      "explanation": "Term.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Laufzeitverlängerung was a debate about…",
+      "options": [
+        "extending nuclear power plants' operation",
+        "longer marathons"
+      ],
+      "answer": "extending nuclear power plants' operation",
+      "explanation": "Atomausstieg.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "From…",
+      "options": [
+        "laufen + Zeit",
+        "Lauf + Zeitung"
+      ],
+      "answer": "laufen + Zeit",
+      "explanation": "Running time.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Laufzeit is the term or duration of something that runs: die Laufzeit eines Vertrags, eines Kredits, eines Handyvertrags (often 24 months in Germany). A film's running time is also its Laufzeit. In German energy politics, die Laufzeitverlängerung, extending the operating life of nuclear power plants, was a fierce debate; the last three plants were shut down in April 2023. In computing, die Laufzeit means runtime."
+}

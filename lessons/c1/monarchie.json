@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Monarchie",
+    "partOfSpeech": "noun, feminine (die Monarchie)",
+    "pronunciation": {
+      "respelling": "mo-nar-KHEE",
+      "ipa": "monaʁˈçiː",
+      "notes": "Plural: die Monarchien."
+    },
+    "meaning": "monarchy",
+    "shortDefinition": "Monarchy."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Monarchie, plural die Monarchien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Monarchie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Monarchien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Großbritannien ist eine konstitutionelle Monarchie.",
+      "english": "Britain is a constitutional monarchy.",
+      "highlight": [
+        "Monarchie."
+      ]
+    },
+    {
+      "german": "Deutschland schaffte die Monarchie 1918 ab.",
+      "english": "Germany abolished the monarchy in 1918.",
+      "highlight": [
+        "Monarchie"
+      ]
+    }
+  ],
+  "forms": [
+    "Monarchien",
+    "die Monarchien",
+    "die Monarchie",
+    "Monarch"
+  ],
+  "memoryHook": "Monarchie: rule by one (mono) person.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Monarchie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Monarchie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Monarchie, zwei ___",
+      "answer": "Monarchien",
+      "fullAnswer": "ein Monarchie, zwei Monarchien",
+      "explanation": "The plural is Monarchien.",
+      "acceptedAnswers": [
+        "Monarchien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Monarchie mean?",
+      "options": [
+        "monarchy",
+        "the car",
+        "the bread"
+      ],
+      "answer": "monarchy",
+      "explanation": "Monarchie: monarchy.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's monarchy ended in…",
+      "options": [
+        "1918",
+        "1945"
+      ],
+      "answer": "1918",
+      "explanation": "November Revolution.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Monarch is…",
+      "options": [
+        "the monarch",
+        "the monarchist"
+      ],
+      "answer": "the monarch",
+      "explanation": "Monarch.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress on…",
+      "options": [
+        "-CHIE",
+        "MO-"
+      ],
+      "answer": "-CHIE",
+      "explanation": "mo-nar-KHEE.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Monarchie is a monarchy: eine konstitutionelle Monarchie, die Abschaffung der Monarchie. Germany's monarchies ended in November 1918, when Kaiser Wilhelm II abdicated and the republic was proclaimed; noble titles became part of surnames. European monarchies today include the UK, Spain, the Netherlands, Belgium, Sweden, Denmark, Norway and Liechtenstein. Der Monarch is the monarch. Stressed on the last syllable: mo-nar-KHEE."
+}

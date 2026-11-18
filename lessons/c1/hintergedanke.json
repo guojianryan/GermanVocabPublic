@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Hintergedanke",
+    "partOfSpeech": "noun, masculine (der Hintergedanke)",
+    "pronunciation": {
+      "respelling": "HIN-ter-ge-dan-ke",
+      "ipa": "ˈhɪntɐɡəˌdaŋkə",
+      "notes": "Plural: die Hintergedanken."
+    },
+    "meaning": "ulterior motive",
+    "shortDefinition": "Ulterior motive."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Hintergedanke, plural die Hintergedanken.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Hintergedanke"
+        },
+        {
+          "label": "More than one",
+          "value": "die Hintergedanken"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hat das ohne Hintergedanken gesagt.",
+      "english": "He said it without any ulterior motive.",
+      "highlight": [
+        "Hintergedanken"
+      ]
+    },
+    {
+      "german": "Hinter dem Geschenk steckte ein Hintergedanke.",
+      "english": "There was an ulterior motive behind the gift.",
+      "highlight": [
+        "Hintergedanke."
+      ]
+    }
+  ],
+  "forms": [
+    "Hintergedanken",
+    "der Hintergedanke"
+  ],
+  "memoryHook": "Hintergedanke: a Gedanke (thought) kept hinter (behind).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Hintergedanke",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Hintergedanke is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Hintergedanke, zwei ___",
+      "answer": "Hintergedanken",
+      "fullAnswer": "ein Hintergedanke, zwei Hintergedanken",
+      "explanation": "The plural is Hintergedanken.",
+      "acceptedAnswers": [
+        "Hintergedanken"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Hintergedanke mean?",
+      "options": [
+        "ulterior motive",
+        "the weather",
+        "the child"
+      ],
+      "answer": "ulterior motive",
+      "explanation": "Hintergedanke: ulterior motive.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ohne Hintergedanken means…",
+      "options": [
+        "with no ulterior motive",
+        "without thinking"
+      ],
+      "answer": "with no ulterior motive",
+      "explanation": "Phrase.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Declension:",
+      "options": [
+        "den Hintergedanken, des Hintergedankens",
+        "den Hintergedanke"
+      ],
+      "answer": "den Hintergedanken, des Hintergedankens",
+      "explanation": "Grammar.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Absicht, das Kalkül",
+        "die Spontaneität"
+      ],
+      "answer": "die Absicht, das Kalkül",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Hintergedanke is an ulterior motive or hidden intention: ohne Hintergedanken, einen Hintergedanken haben. Like Gedanke, it's declined with -n and genitive -ns. Synonyms: die versteckte Absicht, das Kalkül. A similar idiom is etwas im Schilde führen (to be up to something). Plural: die Hintergedanken."
+}

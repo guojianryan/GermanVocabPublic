@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verfehlen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-FAY-len",
+      "ipa": "fɛɐ̯ˈfeːlən",
+      "notes": ""
+    },
+    "meaning": "to miss (a target, aim)",
+    "shortDefinition": "To miss (a target, aim)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verfehl|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verfehl|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verfehl|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verfehl|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verfehl|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verfehl|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verfehlt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Schuss verfehlte das Tor knapp.",
+      "english": "The shot narrowly missed the goal.",
+      "highlight": [
+        "verfehlte"
+      ]
+    },
+    {
+      "german": "Die Regierung hat ihr Klimaziel verfehlt.",
+      "english": "The government missed its climate target.",
+      "highlight": [
+        "verfehlt."
+      ]
+    }
+  ],
+  "forms": [
+    "verfehle",
+    "verfehlst",
+    "verfehlt",
+    "verfehlen",
+    "Verfehlung"
+  ],
+  "memoryHook": "Verfehlen: miss a target; for trains, verpassen.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verfehlen)",
+      "answer": "verfehlt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verfehlt.",
+      "acceptedAnswers": [
+        "verfehlt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verfehlen, past)",
+      "answer": "verfehlt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verfehlt.",
+      "acceptedAnswers": [
+        "verfehlt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verfehlen mean?",
+      "options": [
+        "the family",
+        "to miss (a target",
+        "to learn"
+      ],
+      "answer": "to miss (a target",
+      "explanation": "verfehlen: to miss (a target, aim).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Thema verfehlen (school) means…",
+      "options": [
+        "to go off topic",
+        "to miss class"
+      ],
+      "answer": "to go off topic",
+      "explanation": "Off-topic essay.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verfehlt (adjective) means…",
+      "options": [
+        "misguided, wrong",
+        "missed"
+      ],
+      "answer": "misguided, wrong",
+      "explanation": "Misguided.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "To miss a train is usually…",
+      "options": [
+        "den Zug verpassen",
+        "den Zug verfehlen"
+      ],
+      "answer": "den Zug verpassen",
+      "explanation": "verpassen.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verfehlen means to miss a target or aim: das Ziel verfehlen, knapp verfehlen, seine Wirkung verfehlen (to fail to have its effect). For trains, buses or appointments, Germans say verpassen: Ich habe den Zug verpasst. In school, Thema verfehlt is the dreaded comment on an essay that misses the topic. Verfehlt as an adjective means misguided: eine verfehlte Politik. Die Verfehlung is a misdeed."
+}

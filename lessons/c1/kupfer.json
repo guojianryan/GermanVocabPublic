@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kupfer",
+    "partOfSpeech": "noun, neuter (das Kupfer)",
+    "pronunciation": {
+      "respelling": "KUP-fer",
+      "ipa": "ˈkʊp͡fɐ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "copper",
+    "shortDefinition": "Copper."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Kupfer, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Kupfer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Kupfer leitet Strom sehr gut.",
+      "english": "Copper conducts electricity very well.",
+      "highlight": [
+        "Kupfer"
+      ]
+    },
+    {
+      "german": "Das Dach ist mit Kupfer gedeckt.",
+      "english": "The roof is covered with copper.",
+      "highlight": [
+        "Kupfer"
+      ]
+    }
+  ],
+  "forms": [
+    "das Kupfer",
+    "kupfern",
+    "Kupferstich",
+    "Kupferkabel"
+  ],
+  "memoryHook": "Kupfer: the metal of old roofs and wires.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kupfer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Kupfer is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kupfer mean?",
+      "options": [
+        "to wait",
+        "the bread",
+        "copper"
+      ],
+      "answer": "copper",
+      "explanation": "Kupfer: copper.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Chemical symbol:",
+      "options": [
+        "Cu",
+        "Ku"
+      ],
+      "answer": "Cu",
+      "explanation": "From Latin cuprum.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kupfer is…",
+      "options": [
+        "neuter",
+        "masculine"
+      ],
+      "answer": "neuter",
+      "explanation": "Das Kupfer.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kupferstich is…",
+      "options": [
+        "a copper engraving",
+        "a copper mine"
+      ],
+      "answer": "a copper engraving",
+      "explanation": "Print.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kupfern as an adjective means…",
+      "options": [
+        "made of copper",
+        "like a pipe"
+      ],
+      "answer": "made of copper",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Kupfer is copper, with the chemical symbol Cu from Latin cuprum. The German and English words both go back to the same Latin source. Copper roofs turn green over time, which you can see on many church towers. Der Kupferstich is a copper engraving, and kupfern means made of copper (a kupferner Kessel)."
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "beschlagnahmen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-SHLAAK-naa-men",
+      "ipa": "bəˈʃlaːkˌnaːmən",
+      "notes": ""
+    },
+    "meaning": "to confiscate, seize",
+    "shortDefinition": "To confiscate, seize."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "beschlagnahm|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "beschlagnahm|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "beschlagnahm|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "beschlagnahm|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "beschlagnahm|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "beschlagnahm|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat beschlagnahmt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Polizei hat die Drogen beschlagnahmt.",
+      "english": "The police seized the drugs.",
+      "highlight": [
+        "beschlagnahmt."
+      ]
+    },
+    {
+      "german": "Der Lehrer beschlagnahmte das Handy.",
+      "english": "The teacher confiscated the phone.",
+      "highlight": [
+        "beschlagnahmte"
+      ]
+    }
+  ],
+  "forms": [
+    "beschlagnahme",
+    "beschlagnahmst",
+    "beschlagnahmt",
+    "beschlagnahmen",
+    "Beschlagnahme"
+  ],
+  "memoryHook": "Beschlagnahmen: take (nehmen) into Beschlag (custody).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (beschlagnahmen)",
+      "answer": "beschlagnahmt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: beschlagnahmt.",
+      "acceptedAnswers": [
+        "beschlagnahmt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (beschlagnahmen, past)",
+      "answer": "beschlagnahmt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe beschlagnahmt.",
+      "acceptedAnswers": [
+        "beschlagnahmt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does beschlagnahmen mean?",
+      "options": [
+        "tomorrow",
+        "to confiscate",
+        "the weather"
+      ],
+      "answer": "to confiscate",
+      "explanation": "beschlagnahmen: to confiscate, seize.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Beschlagnahme is…",
+      "options": [
+        "confiscation, seizure",
+        "a fitting"
+      ],
+      "answer": "confiscation, seizure",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Beschlagnahmen is…",
+      "options": [
+        "not separable",
+        "separable"
+      ],
+      "answer": "not separable",
+      "explanation": "hat beschlagnahmt.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Beschlag nehmen means…",
+      "options": [
+        "to take over, monopolise",
+        "to shoe a horse"
+      ],
+      "answer": "to take over, monopolise",
+      "explanation": "Idiom.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Beschlagnahmen means to confiscate or seize: Waffen beschlagnahmen, Vermögen beschlagnahmen (to seize assets, as with sanctioned oligarchs' yachts after 2022). Die Beschlagnahme or Beschlagnahmung is the seizure. Note it's not separable, despite its look: beschlagnahmte, hat beschlagnahmt. The idiom jemanden in Beschlag nehmen means to monopolise someone: Die Kinder nehmen Oma völlig in Beschlag."
+}

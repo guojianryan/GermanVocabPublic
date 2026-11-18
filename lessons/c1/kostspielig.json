@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "kostspielig",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "KOST-shpee-likh",
+      "ipa": "ˈkɔstˌʃpiːlɪç",
+      "notes": ""
+    },
+    "meaning": "costly, expensive",
+    "shortDefinition": "Costly, expensive."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die Reparatur war sehr kostspielig.",
+      "english": "The repair was very costly.",
+      "highlight": [
+        "kostspielig."
+      ]
+    },
+    {
+      "german": "Das ist ein kostspieliges Hobby.",
+      "english": "That's an expensive hobby.",
+      "highlight": [
+        "kostspieliges"
+      ]
+    }
+  ],
+  "forms": [
+    "kostspielige",
+    "kostspieligen",
+    "kostspieliger"
+  ],
+  "memoryHook": "Kostspielig: costing (kosten) a lot.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does kostspielig mean?",
+      "options": [
+        "expensive",
+        "the evening",
+        "costly"
+      ],
+      "answer": "costly",
+      "explanation": "kostspielig: costly, expensive.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "teuer, aufwendig",
+        "billig"
+      ],
+      "answer": "teuer, aufwendig",
+      "explanation": "Synonym.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "slightly formal",
+        "slang"
+      ],
+      "answer": "slightly formal",
+      "explanation": "Register.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kosten are…",
+      "options": [
+        "costs",
+        "coasts"
+      ],
+      "answer": "costs",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein ___ Fehler (costly)",
+      "answer": "kostspieliger",
+      "fullAnswer": "ein kostspieliger Fehler",
+      "explanation": "Masculine -er.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Kostspielig means costly or expensive, a slightly more formal word than teuer: ein kostspieliges Vergnügen, ein kostspieliger Rechtsstreit. Despite the look, it's not related to spielen; the second part comes from an old word for using up. Synonyms: teuer, aufwendig, kostenintensiv. Opposite: günstig, billig."
+}

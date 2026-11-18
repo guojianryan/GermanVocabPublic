@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Elfenbein",
+    "partOfSpeech": "noun, neuter (das Elfenbein)",
+    "pronunciation": {
+      "respelling": "EL-fen-bain",
+      "ipa": "ˈɛlfn̩ˌbaɪ̯n",
+      "notes": "Usually no plural."
+    },
+    "meaning": "ivory",
+    "shortDefinition": "Ivory."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Elfenbein, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Elfenbein"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Handel mit Elfenbein ist international verboten.",
+      "english": "The ivory trade is banned internationally.",
+      "highlight": [
+        "Elfenbein"
+      ]
+    },
+    {
+      "german": "Die Figur ist aus Elfenbein geschnitzt.",
+      "english": "The figure is carved from ivory.",
+      "highlight": [
+        "Elfenbein"
+      ]
+    }
+  ],
+  "forms": [
+    "das Elfenbein",
+    "Elfenbeins"
+  ],
+  "memoryHook": "Elfenbein: elephant (Old German elfent) bone (Bein).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Elfenbein",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Elfenbein is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Elfenbein mean?",
+      "options": [
+        "the shop",
+        "ivory",
+        "the bed"
+      ],
+      "answer": "ivory",
+      "explanation": "Elfenbein: ivory.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Elfenbeinturm is…",
+      "options": [
+        "ivory tower",
+        "an elf's tower"
+      ],
+      "answer": "ivory tower",
+      "explanation": "Idiom.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Elfenbeinküste is…",
+      "options": [
+        "Ivory Coast (Côte d'Ivoire)",
+        "a beach"
+      ],
+      "answer": "Ivory Coast (Côte d'Ivoire)",
+      "explanation": "Country.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Elfenbein comes from…",
+      "options": [
+        "elephant tusks",
+        "elves"
+      ],
+      "answer": "elephant tusks",
+      "explanation": "Source.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Elfenbein is ivory. Despite appearances, it has nothing to do with elves: it comes from an old word for elephant (elfent) and Bein, which once meant bone. The international ivory trade was banned in 1989 under CITES to protect elephants. Im Elfenbeinturm sitzen means to live in an ivory tower, and die Elfenbeinküste is Ivory Coast. The oldest known figurative art, carved from mammoth ivory, was found in caves of the Swabian Jura."
+}

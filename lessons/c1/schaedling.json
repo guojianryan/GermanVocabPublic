@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schädling",
+    "partOfSpeech": "noun, masculine (der Schädling)",
+    "pronunciation": {
+      "respelling": "SHAYT-ling",
+      "ipa": "ˈʃɛːtlɪŋ",
+      "notes": "Plural: die Schädlinge."
+    },
+    "meaning": "pest",
+    "shortDefinition": "Pest."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schädling, plural die Schädlinge.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schädling"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schädlinge"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Borkenkäfer ist ein gefährlicher Schädling.",
+      "english": "The bark beetle is a dangerous pest.",
+      "highlight": [
+        "Schädling."
+      ]
+    },
+    {
+      "german": "Bauern bekämpfen Schädlinge mit Pestiziden.",
+      "english": "Farmers fight pests with pesticides.",
+      "highlight": [
+        "Schädlinge"
+      ]
+    }
+  ],
+  "forms": [
+    "Schädlinge",
+    "der Schädling"
+  ],
+  "memoryHook": "Schädling: something that schadet (does harm).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schädling",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schädling is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schädling, zwei ___",
+      "answer": "Schädlinge",
+      "fullAnswer": "ein Schädling, zwei Schädlinge",
+      "explanation": "The plural is Schädlinge.",
+      "acceptedAnswers": [
+        "Schaedlinge"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schädling mean?",
+      "options": [
+        "pest",
+        "slowly",
+        "the weather"
+      ],
+      "answer": "pest",
+      "explanation": "Schädling: pest.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schädlingsbekämpfung is…",
+      "options": [
+        "pest control",
+        "damage repair"
+      ],
+      "answer": "pest control",
+      "explanation": "Control.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Nützling is…",
+      "options": [
+        "beneficial insect/animal",
+        "a tool"
+      ],
+      "answer": "beneficial insect/animal",
+      "explanation": "Opposite.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schaden is…",
+      "options": [
+        "damage, harm",
+        "shadow"
+      ],
+      "answer": "damage, harm",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Schädling is a pest, insects, rodents or fungi that harm crops, forests or homes. After the dry summers from 2018, der Borkenkäfer (bark beetle) destroyed huge areas of spruce forest, especially in the Harz. Die Schädlingsbekämpfung is pest control, and der Kammerjäger an exterminator. The opposite is der Nützling (beneficial creature like ladybirds). Plural: die Schädlinge."
+}

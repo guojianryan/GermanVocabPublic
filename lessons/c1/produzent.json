@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Produzent",
+    "partOfSpeech": "noun, masculine (der Produzent)",
+    "pronunciation": {
+      "respelling": "pro-du-TSENT",
+      "ipa": "pʁoduˈt͡sɛnt",
+      "notes": "Plural: die Produzenten."
+    },
+    "meaning": "producer",
+    "shortDefinition": "Producer."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Produzent, plural die Produzenten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Produzent"
+        },
+        {
+          "label": "More than one",
+          "value": "die Produzenten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Produzent finanziert den Film.",
+      "english": "The producer is financing the film.",
+      "highlight": [
+        "Produzent"
+      ]
+    },
+    {
+      "german": "Deutschland ist ein großer Produzent von Autos.",
+      "english": "Germany is a major producer of cars.",
+      "highlight": [
+        "Produzent"
+      ]
+    }
+  ],
+  "forms": [
+    "Produzenten",
+    "die Produzenten",
+    "der Produzent",
+    "Produzentin",
+    "produzieren"
+  ],
+  "memoryHook": "Produzent: the one who produziert.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Produzent",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Produzent is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Produzent, zwei ___",
+      "answer": "Produzenten",
+      "fullAnswer": "ein Produzent, zwei Produzenten",
+      "explanation": "The plural is Produzenten.",
+      "acceptedAnswers": [
+        "Produzenten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Produzent mean?",
+      "options": [
+        "the bill",
+        "producer",
+        "to learn"
+      ],
+      "answer": "producer",
+      "explanation": "Produzent: producer.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Weak noun, accusative:",
+      "options": [
+        "den Produzenten",
+        "den Produzent"
+      ],
+      "answer": "den Produzenten",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Produktion is…",
+      "options": [
+        "production",
+        "the product"
+      ],
+      "answer": "production",
+      "explanation": "Production.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Opposite (economics):",
+      "options": [
+        "der Konsument / Verbraucher",
+        "der Händler"
+      ],
+      "answer": "der Konsument / Verbraucher",
+      "explanation": "Consumer.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Produzent (die Produzentin) is a producer, of films, music or goods: der Filmproduzent, der Musikproduzent, regionale Produzenten (local producers). It's a weak noun: den Produzenten. Produzieren means to produce, and die Produktion is production. In economics, the opposite is der Verbraucher or Konsument. For manufacturers of products, German often uses der Hersteller."
+}

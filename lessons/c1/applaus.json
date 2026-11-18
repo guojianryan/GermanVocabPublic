@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Applaus",
+    "partOfSpeech": "noun, masculine (der Applaus)",
+    "pronunciation": {
+      "respelling": "a-PLAUS",
+      "ipa": "aˈplaʊ̯s",
+      "notes": "Usually no plural."
+    },
+    "meaning": "applause",
+    "shortDefinition": "Applause."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Applaus, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Applaus"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Es gab großen Applaus.",
+      "english": "There was loud applause.",
+      "highlight": [
+        "Applaus."
+      ]
+    },
+    {
+      "german": "Einen Applaus für die Köchin!",
+      "english": "A round of applause for the cook!",
+      "highlight": [
+        "Applaus"
+      ]
+    }
+  ],
+  "forms": [
+    "der Applaus",
+    "applaudieren"
+  ],
+  "memoryHook": "Applaus: or knock on the table at a German uni.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Applaus",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Applaus is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Applaus mean?",
+      "options": [
+        "applause",
+        "the weather",
+        "tomorrow"
+      ],
+      "answer": "applause",
+      "explanation": "Applaus: applause.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Native German synonym:",
+      "options": [
+        "der Beifall",
+        "der Jubel only"
+      ],
+      "answer": "der Beifall",
+      "explanation": "Beifall.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Applaudieren means…",
+      "options": [
+        "to applaud",
+        "to apologise"
+      ],
+      "answer": "to applaud",
+      "explanation": "applaudieren.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germans at lectures often knock on the table instead of clapping. True?",
+      "options": [
+        "yes, at universities",
+        "no"
+      ],
+      "answer": "yes, at universities",
+      "explanation": "Klopfen.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Applaus is applause: tosender Applaus (thunderous applause), Applaus bekommen. The native German word is der Beifall: Beifall klatschen. A curious German custom: at the end of a university lecture, students often knock on their desks (klopfen) instead of clapping. Applaudieren means to applaud. At concerts, ending applause too early between movements is frowned upon."
+}

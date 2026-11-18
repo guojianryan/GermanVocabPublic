@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Missstand",
+    "partOfSpeech": "noun, masculine (der Missstand)",
+    "pronunciation": {
+      "respelling": "MIS-shtant",
+      "ipa": "ˈmɪsˌʃtant",
+      "notes": "Plural: die Missstände."
+    },
+    "meaning": "abuse, grievance, deplorable state",
+    "shortDefinition": "Abuse, grievance, deplorable state."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Missstand, plural die Missstände.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Missstand"
+        },
+        {
+          "label": "More than one",
+          "value": "die Missstände"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Journalisten deckten Missstände in Pflegeheimen auf.",
+      "english": "The journalists uncovered abuses in care homes.",
+      "highlight": [
+        "Missstände"
+      ]
+    },
+    {
+      "german": "Wir müssen diesen Missstand beseitigen.",
+      "english": "We have to remedy this deplorable situation.",
+      "highlight": [
+        "Missstand"
+      ]
+    }
+  ],
+  "forms": [
+    "Missstände",
+    "die Missstände",
+    "der Missstand"
+  ],
+  "memoryHook": "Missstand: a state (Stand) that's gone wrong (miss-).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Missstand",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Missstand is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Missstand, zwei ___",
+      "answer": "Missstände",
+      "fullAnswer": "ein Missstand, zwei Missstände",
+      "explanation": "The plural is Missstände.",
+      "acceptedAnswers": [
+        "Missstaende"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Missstand mean?",
+      "options": [
+        "the job",
+        "the door",
+        "abuse"
+      ],
+      "answer": "abuse",
+      "explanation": "Missstand: abuse, grievance, deplorable state.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Missstände aufdecken means…",
+      "options": [
+        "to expose abuses",
+        "to cover misunderstandings"
+      ],
+      "answer": "to expose abuses",
+      "explanation": "Expose.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Spelling since 1996:",
+      "options": [
+        "Missstand (three s)",
+        "Mißstand only"
+      ],
+      "answer": "Missstand (three s)",
+      "explanation": "Spelling.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Miss- as a prefix means…",
+      "options": [
+        "wrong, bad",
+        "lady"
+      ],
+      "answer": "wrong, bad",
+      "explanation": "Prefix.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Missstand is an abuse, grievance or deplorable state of affairs: Missstände aufdecken, anprangern, beseitigen. It's typical of investigative reporting and politics: Missstände in der Fleischindustrie led to new labour laws in 2021. Since the spelling reform, it's written with three s (Missstand), one of several triple-letter words like Schifffahrt. The prefix miss- means wrong: missverstehen, Misserfolg. Plural: die Missstände."
+}

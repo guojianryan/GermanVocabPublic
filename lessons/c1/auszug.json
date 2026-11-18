@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Auszug",
+    "partOfSpeech": "noun, masculine (der Auszug)",
+    "pronunciation": {
+      "respelling": "AUS-tsook",
+      "ipa": "ˈaʊ̯st͡suːk",
+      "notes": "Plural: die Auszüge."
+    },
+    "meaning": "moving out; excerpt; bank statement",
+    "shortDefinition": "Moving out; excerpt; bank statement."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Auszug, plural die Auszüge.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Auszug"
+        },
+        {
+          "label": "More than one",
+          "value": "die Auszüge"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nach dem Auszug der Mieter wird renoviert.",
+      "english": "After the tenants move out, it will be renovated.",
+      "highlight": [
+        "Auszug"
+      ]
+    },
+    {
+      "german": "Hier ist ein Auszug aus dem Roman.",
+      "english": "Here's an excerpt from the novel.",
+      "highlight": [
+        "Auszug"
+      ]
+    }
+  ],
+  "forms": [
+    "Auszüge",
+    "die Auszüge",
+    "der Auszug",
+    "Kontoauszug",
+    "ausziehen"
+  ],
+  "memoryHook": "Auszug: you move out, or you pull out a passage.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Auszug",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Auszug is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Auszug, zwei ___",
+      "answer": "Auszüge",
+      "fullAnswer": "ein Auszug, zwei Auszüge",
+      "explanation": "The plural is Auszüge.",
+      "acceptedAnswers": [
+        "Auszuege"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Auszug mean?",
+      "options": [
+        "moving out",
+        "never",
+        "the bill"
+      ],
+      "answer": "moving out",
+      "explanation": "Auszug: moving out; excerpt; bank statement.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kontoauszug is…",
+      "options": [
+        "a bank statement",
+        "an account closure"
+      ],
+      "answer": "a bank statement",
+      "explanation": "Bank statement.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Opposite of Auszug (moving):",
+      "options": [
+        "der Einzug",
+        "der Umzug"
+      ],
+      "answer": "der Einzug",
+      "explanation": "Moving in.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Auszugsweise means…",
+      "options": [
+        "in extracts",
+        "outside"
+      ],
+      "answer": "in extracts",
+      "explanation": "In extracts.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Auszug means moving out (beim Auszug die Wohnung renovieren, which German tenancy contracts often require), an excerpt (ein Auszug aus einem Buch), and an official extract: der Kontoauszug (bank statement), der Grundbuchauszug. From ausziehen (to move out, also to undress). Der Auszug aus Ägypten is the Exodus. The opposites are der Einzug and der Umzug (move)."
+}

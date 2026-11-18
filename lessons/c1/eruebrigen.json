@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "erübrigen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "er-Ü-bri-gen",
+      "ipa": "ɛɐ̯ˈʔyːbʁɪɡn̩",
+      "notes": ""
+    },
+    "meaning": "to spare (time, money); (sich) to be unnecessary",
+    "shortDefinition": "To spare (time, money); (sich) to be unnecessary."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "erübrig|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "erübrig|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "erübrig|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "erübrig|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "erübrig|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "erübrig|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat erübrigt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Kannst du eine Stunde für mich erübrigen?",
+      "english": "Can you spare an hour for me?",
+      "highlight": [
+        "erübrigen?"
+      ]
+    },
+    {
+      "german": "Damit erübrigt sich jede weitere Diskussion.",
+      "english": "That makes any further discussion unnecessary.",
+      "highlight": [
+        "erübrigt"
+      ]
+    }
+  ],
+  "forms": [
+    "erübrige",
+    "erübrigst",
+    "erübrigt",
+    "erübrigen"
+  ],
+  "memoryHook": "Erübrigen: have something übrig (left over).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (erübrigen)",
+      "answer": "erübrigt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: erübrigt.",
+      "acceptedAnswers": [
+        "eruebrigt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (erübrigen, past)",
+      "answer": "erübrigt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe erübrigt.",
+      "acceptedAnswers": [
+        "eruebrigt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does erübrigen mean?",
+      "options": [
+        "quiet",
+        "the bill",
+        "to spare (time"
+      ],
+      "answer": "to spare (time",
+      "explanation": "erübrigen: to spare (time, money); (sich) to be unnecessary.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das erübrigt sich means…",
+      "options": [
+        "that's unnecessary now",
+        "that's left over"
+      ],
+      "answer": "that's unnecessary now",
+      "explanation": "Reflexive.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Übrig means…",
+      "options": [
+        "left over, remaining",
+        "above"
+      ],
+      "answer": "left over, remaining",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zeit erübrigen means…",
+      "options": [
+        "to spare time",
+        "to waste time"
+      ],
+      "answer": "to spare time",
+      "explanation": "Spare.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Erübrigen means to spare: Zeit, Geld, ein paar Minuten erübrigen. Reflexively, sich erübrigen means to become unnecessary: Die Frage erübrigt sich (that question answers itself), Weitere Erklärungen erübrigen sich. Jede Antwort erübrigt sich is a pointed way to say it's obvious. From übrig (left over). Not separable: hat erübrigt."
+}

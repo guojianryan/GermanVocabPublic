@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Küken",
+    "partOfSpeech": "noun, neuter (das Küken)",
+    "pronunciation": {
+      "respelling": "KÜ-ken",
+      "ipa": "ˈkyːkn̩",
+      "notes": "Plural: die Küken."
+    },
+    "meaning": "chick",
+    "shortDefinition": "Chick."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Küken, plural die Küken.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Küken"
+        },
+        {
+          "label": "More than one",
+          "value": "die Küken"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Henne sitzt mit ihren Küken im Stroh.",
+      "english": "The hen is sitting with her chicks in the straw.",
+      "highlight": [
+        "Küken"
+      ]
+    },
+    {
+      "german": "Sie ist das Küken im Team.",
+      "english": "She's the baby of the team.",
+      "highlight": [
+        "Küken"
+      ]
+    }
+  ],
+  "forms": [
+    "die Küken",
+    "das Küken"
+  ],
+  "memoryHook": "Küken: a fluffy baby chicken.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Küken",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Küken is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Küken, zwei ___",
+      "answer": "Küken",
+      "fullAnswer": "ein Küken, zwei Küken",
+      "explanation": "The plural is Küken.",
+      "acceptedAnswers": [
+        "Kueken"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Küken mean?",
+      "options": [
+        "slowly",
+        "chick",
+        "the window"
+      ],
+      "answer": "chick",
+      "explanation": "Küken: chick.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Küken (figurative) means…",
+      "options": [
+        "the youngest in a group",
+        "a coward"
+      ],
+      "answer": "the youngest in a group",
+      "explanation": "Youngest.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Kükentöten (killing of male chicks) was banned in Germany in…",
+      "options": [
+        "2022",
+        "1990"
+      ],
+      "answer": "2022",
+      "explanation": "Ban.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Küken",
+        "die Kükens"
+      ],
+      "answer": "die Küken",
+      "explanation": "Unchanged.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Küken is a chick, and figuratively the youngest in a group: das Küken der Mannschaft. In 2022, Germany became one of the first countries to ban Kükentöten, the killing of male chicks in egg production, now avoided by sexing eggs in the shell. At Easter, yellow Küken are a popular decoration. Plural: die Küken."
+}

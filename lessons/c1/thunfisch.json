@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Thunfisch",
+    "partOfSpeech": "noun, masculine (der Thunfisch)",
+    "pronunciation": {
+      "respelling": "TOON-fish",
+      "ipa": "ˈtuːnˌfɪʃ",
+      "notes": "Plural: die Thunfische."
+    },
+    "meaning": "tuna",
+    "shortDefinition": "Tuna."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Thunfisch, plural die Thunfische.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Thunfisch"
+        },
+        {
+          "label": "More than one",
+          "value": "die Thunfische"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich nehme eine Pizza mit Thunfisch.",
+      "english": "I'll have a tuna pizza.",
+      "highlight": [
+        "Thunfisch."
+      ]
+    },
+    {
+      "german": "Der Rote Thunfisch ist stark überfischt.",
+      "english": "The bluefin tuna is heavily overfished.",
+      "highlight": [
+        "Thunfisch"
+      ]
+    }
+  ],
+  "forms": [
+    "Thunfische",
+    "der Thunfisch"
+  ],
+  "memoryHook": "Thunfisch: the tunny fish (Latin thunnus).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Thunfisch",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Thunfisch is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Thunfisch, zwei ___",
+      "answer": "Thunfische",
+      "fullAnswer": "ein Thunfisch, zwei Thunfische",
+      "explanation": "The plural is Thunfische.",
+      "acceptedAnswers": [
+        "Thunfische"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Thunfisch mean?",
+      "options": [
+        "to buy",
+        "the flower",
+        "tuna"
+      ],
+      "answer": "tuna",
+      "explanation": "Thunfisch: tuna.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Spelling:",
+      "options": [
+        "Thunfisch (also Tunfisch)",
+        "Tunafisch"
+      ],
+      "answer": "Thunfisch (also Tunfisch)",
+      "explanation": "Spelling.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Rote Thunfisch is…",
+      "options": [
+        "bluefin tuna",
+        "red snapper"
+      ],
+      "answer": "bluefin tuna",
+      "explanation": "Species.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das MSC-Siegel indicates…",
+      "options": [
+        "sustainable fishing",
+        "organic farming"
+      ],
+      "answer": "sustainable fishing",
+      "explanation": "Label.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Thunfisch (also spelled Tunfisch) is tuna, very popular on pizza and in salads, usually from a can (Thunfisch in der Dose). Der Rote Thunfisch (bluefin tuna) was heavily overfished; quotas since 2007 have helped stocks recover. Labels like MSC mark sustainable fishing. Silent h: say TOON-fish. Plural: die Thunfische."
+}

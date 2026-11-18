@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mündung",
+    "partOfSpeech": "noun, feminine (die Mündung)",
+    "pronunciation": {
+      "respelling": "MÜN-dung",
+      "ipa": "ˈmʏndʊŋ",
+      "notes": "Plural: die Mündungen."
+    },
+    "meaning": "mouth (of a river); muzzle",
+    "shortDefinition": "Mouth (of a river); muzzle."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Mündung, plural die Mündungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Mündung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mündungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Hamburg liegt nahe der Mündung der Elbe.",
+      "english": "Hamburg lies near the mouth of the Elbe.",
+      "highlight": [
+        "Mündung"
+      ]
+    },
+    {
+      "german": "Die Mündung der Waffe zeigte auf ihn.",
+      "english": "The muzzle of the gun was pointing at him.",
+      "highlight": [
+        "Mündung"
+      ]
+    }
+  ],
+  "forms": [
+    "Mündungen",
+    "die Mündungen",
+    "die Mündung",
+    "münden"
+  ],
+  "memoryHook": "Mündung: where a river opens its Mund (mouth).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mündung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Mündung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mündung, zwei ___",
+      "answer": "Mündungen",
+      "fullAnswer": "ein Mündung, zwei Mündungen",
+      "explanation": "The plural is Mündungen.",
+      "acceptedAnswers": [
+        "Muendungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mündung mean?",
+      "options": [
+        "hot",
+        "to wait",
+        "mouth (of a river)"
+      ],
+      "answer": "mouth (of a river)",
+      "explanation": "Mündung: mouth (of a river); muzzle.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Münden in means…",
+      "options": [
+        "to flow into; to lead to",
+        "to speak"
+      ],
+      "answer": "to flow into; to lead to",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Deutsches Eck in Koblenz is where…",
+      "options": [
+        "the Mosel flows into the Rhine",
+        "the Elbe begins"
+      ],
+      "answer": "the Mosel flows into the Rhine",
+      "explanation": "Koblenz.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Mund is…",
+      "options": [
+        "mouth",
+        "moon"
+      ],
+      "answer": "mouth",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Mündung is the mouth of a river, where it flows into another river or the sea: die Elbmündung, die Rheinmündung (in the Netherlands). At the Deutsches Eck in Koblenz, the Mosel flows into the Rhine. It also means the muzzle of a gun. The verb münden in means to flow into, and figuratively to lead to: Die Debatte mündete in einen Streit. From der Mund (mouth). Plural: die Mündungen."
+}

@@ -1,0 +1,177 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ahnen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "AA-nen",
+      "ipa": "ˈaːnən",
+      "notes": ""
+    },
+    "meaning": "to suspect, to have a foreboding",
+    "shortDefinition": "To suspect, to have a foreboding."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "ahn|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "ahn|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "ahn|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "ahn|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "ahn|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "ahn|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geahnt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich habe es schon geahnt.",
+      "english": "I suspected as much.",
+      "highlight": [
+        "geahnt."
+      ]
+    },
+    {
+      "german": "Er ahnte nicht, was auf ihn zukam.",
+      "english": "He had no idea what was coming.",
+      "highlight": [
+        "ahnte"
+      ]
+    }
+  ],
+  "forms": [
+    "ahne",
+    "ahnst",
+    "ahnt",
+    "ahnen",
+    "geahnt",
+    "ahnte",
+    "Ahnung",
+    "ahnungslos"
+  ],
+  "memoryHook": "Ahnen: you feel it before you know it.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (ahnen)",
+      "answer": "ahnt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: ahnt.",
+      "acceptedAnswers": [
+        "ahnt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (ahnen, past)",
+      "answer": "geahnt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geahnt.",
+      "acceptedAnswers": [
+        "geahnt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does ahnen mean?",
+      "options": [
+        "to wait",
+        "to suspect",
+        "the window"
+      ],
+      "answer": "to suspect",
+      "explanation": "ahnen: to suspect, to have a foreboding.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Keine Ahnung! means…",
+      "options": [
+        "No idea!",
+        "No ancestors!"
+      ],
+      "answer": "No idea!",
+      "explanation": "Eine Ahnung = a notion.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ahn (or Ahne) is…",
+      "options": [
+        "an ancestor (old/poetic)",
+        "a bad omen"
+      ],
+      "answer": "an ancestor (old/poetic)",
+      "explanation": "Related word, but old.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ahnen is…",
+      "options": [
+        "regular (geahnt)",
+        "irregular"
+      ],
+      "answer": "regular (geahnt)",
+      "explanation": "Weak.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ahnungslos means…",
+      "options": [
+        "clueless",
+        "dangerous"
+      ],
+      "answer": "clueless",
+      "explanation": "Without a notion.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Ahnen means to suspect or sense: Ich ahne Schlimmes. The noun die Ahnung is a hunch or an idea, and Keine Ahnung! is the everyday way to say I've no idea. Ahnungslos means clueless. Careful: die Ahnen (plural) are ancestors, an elevated word from der Ahn, and Ahnenforschung is genealogy. Whether the two words are related historically is debated, so remember them as two words."
+}

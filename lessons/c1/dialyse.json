@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Dialyse",
+    "partOfSpeech": "noun, feminine (die Dialyse)",
+    "pronunciation": {
+      "respelling": "di-a-LÜ-ze",
+      "ipa": "di̯aˈlyːzə",
+      "notes": "Plural: die Dialysen."
+    },
+    "meaning": "dialysis",
+    "shortDefinition": "Dialysis."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Dialyse, plural die Dialysen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Dialyse"
+        },
+        {
+          "label": "More than one",
+          "value": "die Dialysen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er muss dreimal pro Woche zur Dialyse.",
+      "english": "He has to go for dialysis three times a week.",
+      "highlight": [
+        "Dialyse."
+      ]
+    },
+    {
+      "german": "Die Dialyse ersetzt die Funktion der Nieren.",
+      "english": "Dialysis replaces the function of the kidneys.",
+      "highlight": [
+        "Dialyse"
+      ]
+    }
+  ],
+  "forms": [
+    "Dialysen",
+    "die Dialyse"
+  ],
+  "memoryHook": "Dialyse: Greek dialysis, separation.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Dialyse",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Dialyse is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Dialyse, zwei ___",
+      "answer": "Dialysen",
+      "fullAnswer": "ein Dialyse, zwei Dialysen",
+      "explanation": "The plural is Dialysen.",
+      "acceptedAnswers": [
+        "Dialysen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Dialyse mean?",
+      "options": [
+        "dialysis",
+        "the key",
+        "the flower"
+      ],
+      "answer": "dialysis",
+      "explanation": "Dialyse: dialysis.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Dialysis replaces the function of…",
+      "options": [
+        "the kidneys",
+        "the liver"
+      ],
+      "answer": "the kidneys",
+      "explanation": "Medicine.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Niere is…",
+      "options": [
+        "kidney",
+        "nerve"
+      ],
+      "answer": "kidney",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Dialysepatient is…",
+      "options": [
+        "dialysis patient",
+        "a doctor"
+      ],
+      "answer": "dialysis patient",
+      "explanation": "Compound.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Dialyse is dialysis, blood purification for people whose kidneys (Nieren) have failed: zur Dialyse gehen, an der Dialyse hängen. Germany has many tens of thousands of dialysis patients, and many wait years for a donor kidney, partly because organ donation requires explicit consent. From Greek dialysis (separation). Plural: die Dialysen."
+}

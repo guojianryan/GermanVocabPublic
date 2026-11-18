@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Regelfall",
+    "partOfSpeech": "noun, masculine (der Regelfall)",
+    "pronunciation": {
+      "respelling": "RAY-gel-fal",
+      "ipa": "ˈʁeːɡl̩ˌfal",
+      "notes": "Plural: die Regelfälle."
+    },
+    "meaning": "norm, usual case",
+    "shortDefinition": "Norm, usual case."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Regelfall, plural die Regelfälle.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Regelfall"
+        },
+        {
+          "label": "More than one",
+          "value": "die Regelfälle"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Regelfall dauert die Bearbeitung zwei Wochen.",
+      "english": "As a rule, processing takes two weeks.",
+      "highlight": [
+        "Regelfall"
+      ]
+    },
+    {
+      "german": "Das ist leider der Regelfall.",
+      "english": "That's unfortunately the norm.",
+      "highlight": [
+        "Regelfall."
+      ]
+    }
+  ],
+  "forms": [
+    "Regelfälle",
+    "der Regelfall"
+  ],
+  "memoryHook": "Regelfall: the Fall (case) that follows the Regel (rule).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Regelfall",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Regelfall is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Regelfall, zwei ___",
+      "answer": "Regelfälle",
+      "fullAnswer": "ein Regelfall, zwei Regelfälle",
+      "explanation": "The plural is Regelfälle.",
+      "acceptedAnswers": [
+        "Regelfaelle"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Regelfall mean?",
+      "options": [
+        "the weather",
+        "the window",
+        "norm"
+      ],
+      "answer": "norm",
+      "explanation": "Regelfall: norm, usual case.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Im Regelfall means…",
+      "options": [
+        "as a rule, normally",
+        "in the rule book"
+      ],
+      "answer": "as a rule, normally",
+      "explanation": "Normally.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite:",
+      "options": [
+        "der Ausnahmefall",
+        "der Unfall"
+      ],
+      "answer": "der Ausnahmefall",
+      "explanation": "Exception.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In der Regel means…",
+      "options": [
+        "as a rule, usually",
+        "in the ruler"
+      ],
+      "answer": "as a rule, usually",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Regelfall is the norm or usual case: im Regelfall (as a rule, normally), Das ist der Regelfall. The opposite is der Ausnahmefall (exceptional case). It's typical of official and legal German. Everyday synonyms: in der Regel, normalerweise, meistens. Die Regel means rule: Ausnahmen bestätigen die Regel (the exception proves the rule). Plural: die Regelfälle."
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "fremdgehen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "FREMT-gay-en",
+      "ipa": "ˈfʁɛmtˌɡeːən",
+      "notes": ""
+    },
+    "meaning": "to cheat (on a partner)",
+    "shortDefinition": "To cheat (on a partner)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "geh|e … |fremd"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "geh|st … |fremd"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "geh|t … |fremd"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "geh|en … |fremd"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "geh|t … |fremd"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "geh|en … |fremd"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist fremdgegangen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er ist seiner Frau fremdgegangen.",
+      "english": "He cheated on his wife.",
+      "highlight": [
+        "fremdgegangen."
+      ]
+    },
+    {
+      "german": "Sie hat herausgefunden, dass ihr Freund fremdgeht.",
+      "english": "She found out that her boyfriend is cheating.",
+      "highlight": [
+        "fremdgeht."
+      ]
+    }
+  ],
+  "forms": [
+    "gehe fremd",
+    "gehst fremd",
+    "geht fremd",
+    "gehen fremd",
+    "fremdgegangen",
+    "ging fremd"
+  ],
+  "memoryHook": "Fremdgehen: gehen (go) to someone fremd (other).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … fremd (fremdgehen)",
+      "answer": "geht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: geht … fremd.",
+      "acceptedAnswers": [
+        "geht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (fremdgehen, past)",
+      "answer": "fremdgegangen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin fremdgegangen.",
+      "acceptedAnswers": [
+        "fremdgegangen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does fremdgehen mean?",
+      "options": [
+        "the job",
+        "the car",
+        "to cheat (on a partner)"
+      ],
+      "answer": "to cheat (on a partner)",
+      "explanation": "fremdgehen: to cheat (on a partner).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fremdgehen takes…",
+      "options": [
+        "sein",
+        "haben"
+      ],
+      "answer": "sein",
+      "explanation": "Auxiliary.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Formal synonym:",
+      "options": [
+        "untreu sein",
+        "treu sein"
+      ],
+      "answer": "untreu sein",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Affäre is…",
+      "options": [
+        "affair",
+        "an offer"
+      ],
+      "answer": "affair",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Fremdgehen means to cheat on a partner, colloquial but neutral: Er geht fremd, Sie ist ihm fremdgegangen (with the dative of the partner). Formal synonyms: untreu sein, einen Seitensprung machen (to have a fling). Die Untreue is infidelity. Jokingly, people also fremdgehen with another brand or shop. Separable with sein: ging fremd, ist fremdgegangen."
+}

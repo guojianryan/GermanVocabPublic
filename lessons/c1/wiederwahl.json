@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wiederwahl",
+    "partOfSpeech": "noun, feminine (die Wiederwahl)",
+    "pronunciation": {
+      "respelling": "VEE-der-vaal",
+      "ipa": "ˈviːdɐˌvaːl",
+      "notes": "Plural: die Wiederwahlen."
+    },
+    "meaning": "re-election",
+    "shortDefinition": "Re-election."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Wiederwahl, plural die Wiederwahlen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Wiederwahl"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wiederwahlen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Bürgermeisterin stellt sich zur Wiederwahl.",
+      "english": "The mayor is standing for re-election.",
+      "highlight": [
+        "Wiederwahl."
+      ]
+    },
+    {
+      "german": "Seine Wiederwahl gilt als sicher.",
+      "english": "His re-election is considered certain.",
+      "highlight": [
+        "Wiederwahl"
+      ]
+    }
+  ],
+  "forms": [
+    "Wiederwahlen",
+    "die Wiederwahl",
+    "wiederwählen"
+  ],
+  "memoryHook": "Wiederwahl: being gewählt (elected) wieder (again).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wiederwahl",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Wiederwahl is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wiederwahl, zwei ___",
+      "answer": "Wiederwahlen",
+      "fullAnswer": "ein Wiederwahl, zwei Wiederwahlen",
+      "explanation": "The plural is Wiederwahlen.",
+      "acceptedAnswers": [
+        "Wiederwahlen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wiederwahl mean?",
+      "options": [
+        "to sing",
+        "re-election",
+        "the family"
+      ],
+      "answer": "re-election",
+      "explanation": "Wiederwahl: re-election.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich zur Wiederwahl stellen means…",
+      "options": [
+        "to stand for re-election",
+        "to vote again"
+      ],
+      "answer": "to stand for re-election",
+      "explanation": "Stand.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wiederwählen means…",
+      "options": [
+        "to re-elect",
+        "to dial again"
+      ],
+      "answer": "to re-elect",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Federal President can be re-elected…",
+      "options": [
+        "once",
+        "any number of times"
+      ],
+      "answer": "once",
+      "explanation": "President.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Wiederwahl is re-election: sich zur Wiederwahl stellen, die Wiederwahl verpassen. The German Federal President can be re-elected only once (two five-year terms), while the chancellor has no term limit; Kohl and Merkel each served 16 years. Wiederwählen means to re-elect, while wiederholen means to repeat. Plural: die Wiederwahlen."
+}

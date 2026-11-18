@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "vergiften",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-GIF-ten",
+      "ipa": "fɛɐ̯ˈɡɪftn̩",
+      "notes": ""
+    },
+    "meaning": "to poison",
+    "shortDefinition": "To poison."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "vergift|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "vergift|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "vergift|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "vergift|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "vergift|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "vergift|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat vergiftet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Fluss wurde mit Chemikalien vergiftet.",
+      "english": "The river was poisoned with chemicals.",
+      "highlight": [
+        "vergiftet."
+      ]
+    },
+    {
+      "german": "Der Streit vergiftete die Atmosphäre.",
+      "english": "The dispute poisoned the atmosphere.",
+      "highlight": [
+        "vergiftete"
+      ]
+    }
+  ],
+  "forms": [
+    "vergifte",
+    "vergiftest",
+    "vergiftet",
+    "vergiften",
+    "Vergiftung"
+  ],
+  "memoryHook": "Vergiften: put Gift (poison) into something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (vergiften)",
+      "answer": "vergiftet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: vergiftet.",
+      "acceptedAnswers": [
+        "vergiftet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (vergiften, past)",
+      "answer": "vergiftet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe vergiftet.",
+      "acceptedAnswers": [
+        "vergiftet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does vergiften mean?",
+      "options": [
+        "to travel",
+        "to poison",
+        "tomorrow"
+      ],
+      "answer": "to poison",
+      "explanation": "vergiften: to poison.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Vergiftung is…",
+      "options": [
+        "poisoning",
+        "a gift"
+      ],
+      "answer": "poisoning",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Gift is…",
+      "options": [
+        "poison",
+        "present"
+      ],
+      "answer": "poison",
+      "explanation": "False friend.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Lebensmittelvergiftung is…",
+      "options": [
+        "food poisoning",
+        "a recipe"
+      ],
+      "answer": "food poisoning",
+      "explanation": "Compound.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Vergiften means to poison: jemanden vergiften, das Grundwasser vergiften, and figuratively das Klima, die Atmosphäre vergiften. Die Vergiftung is poisoning: Lebensmittelvergiftung, Pilzvergiftung. Careful: das Gift means poison, not gift (das Geschenk). In an emergency, Germany has regional Giftnotrufzentralen (poison control centres). Not separable: hat vergiftet."
+}

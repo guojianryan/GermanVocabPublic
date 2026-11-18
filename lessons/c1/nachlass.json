@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Nachlass",
+    "partOfSpeech": "noun, masculine (der Nachlass)",
+    "pronunciation": {
+      "respelling": "NAAKH-las",
+      "ipa": "ˈnaːxˌlas",
+      "notes": "Plural: die Nachlässe."
+    },
+    "meaning": "estate (of a deceased person); discount",
+    "shortDefinition": "Estate (of a deceased person); discount."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Nachlass, plural die Nachlässe.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Nachlass"
+        },
+        {
+          "label": "More than one",
+          "value": "die Nachlässe"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Nachlass wird unter den Kindern aufgeteilt.",
+      "english": "The estate is being divided among the children.",
+      "highlight": [
+        "Nachlass"
+      ]
+    },
+    {
+      "german": "Bei Barzahlung gibt es zwei Prozent Nachlass.",
+      "english": "There's a two percent discount for cash payment.",
+      "highlight": [
+        "Nachlass."
+      ]
+    }
+  ],
+  "forms": [
+    "Nachlässe",
+    "die Nachlässe",
+    "der Nachlass",
+    "nachlassen"
+  ],
+  "memoryHook": "Nachlass: what's left behind (nachgelassen), or what's knocked off.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Nachlass",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Nachlass is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Nachlass, zwei ___",
+      "answer": "Nachlässe",
+      "fullAnswer": "ein Nachlass, zwei Nachlässe",
+      "explanation": "The plural is Nachlässe.",
+      "acceptedAnswers": [
+        "Nachlaesse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Nachlass mean?",
+      "options": [
+        "to sleep",
+        "estate (of a deceased person)",
+        "to learn"
+      ],
+      "answer": "estate (of a deceased person)",
+      "explanation": "Nachlass: estate (of a deceased person); discount.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Two meanings:",
+      "options": [
+        "estate; discount",
+        "inheritance tax; refund"
+      ],
+      "answer": "estate; discount",
+      "explanation": "Both.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Nachlassgericht is…",
+      "options": [
+        "the probate court",
+        "a discount store"
+      ],
+      "answer": "the probate court",
+      "explanation": "Probate.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nachlassen (verb) means…",
+      "options": [
+        "to decrease, ease off",
+        "to inherit"
+      ],
+      "answer": "to decrease, ease off",
+      "explanation": "Diminish.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Nachlass is the estate of someone who has died: der Nachlass eines Schriftstellers (a writer's papers), das Nachlassgericht (probate court). It also means a discount: einen Nachlass gewähren, Skonto being the usual term for early-payment discounts. The verb nachlassen means to ease off or weaken: Der Regen lässt nach, Die Schmerzen lassen nach. Nachlässig means careless. Plural: die Nachlässe."
+}

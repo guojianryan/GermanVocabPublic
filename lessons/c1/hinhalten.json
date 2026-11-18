@@ -1,0 +1,168 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "hinhalten",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "HIN-hal-ten",
+      "ipa": "ˈhɪnˌhaltn̩",
+      "notes": ""
+    },
+    "meaning": "to hold out; to keep (someone) waiting, stall",
+    "shortDefinition": "To hold out; to keep (someone) waiting, stall."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "halt|e … |hin"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "häl|tst … |hin"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "häl|t … |hin"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "halt|en … |hin"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "halt|et … |hin"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "halt|en … |hin"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat hingehalten"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie hielt ihm die Hand hin.",
+      "english": "She held out her hand to him.",
+      "highlight": [
+        "hielt",
+        "hin."
+      ]
+    },
+    {
+      "german": "Die Firma hält uns seit Wochen hin.",
+      "english": "The company has been stringing us along for weeks.",
+      "highlight": [
+        "hält",
+        "hin."
+      ]
+    }
+  ],
+  "forms": [
+    "halte hin",
+    "hältst hin",
+    "hält hin",
+    "halten hin",
+    "haltet hin",
+    "hingehalten",
+    "hielt hin",
+    "Hinhaltetaktik"
+  ],
+  "memoryHook": "Hinhalten: halten (hold) something out (hin).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … hin (hinhalten)",
+      "answer": "hält",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: hält … hin.",
+      "acceptedAnswers": [
+        "haelt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (hinhalten, past)",
+      "answer": "hingehalten",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe hingehalten.",
+      "acceptedAnswers": [
+        "hingehalten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does hinhalten mean?",
+      "options": [
+        "never",
+        "to hold out",
+        "to sing"
+      ],
+      "answer": "to hold out",
+      "explanation": "hinhalten: to hold out; to keep (someone) waiting, stall.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden hinhalten means…",
+      "options": [
+        "to keep someone waiting, string them along",
+        "to hold someone"
+      ],
+      "answer": "to keep someone waiting, string them along",
+      "explanation": "Stall.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Kopf hinhalten müssen means…",
+      "options": [
+        "to take the blame",
+        "to nod"
+      ],
+      "answer": "to take the blame",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "hielt hin, hingehalten",
+        "haltete hin"
+      ],
+      "answer": "hielt hin, hingehalten",
+      "explanation": "Irregular.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Hinhalten means to hold out: jemandem die Hand, den Teller hinhalten. Jemanden hinhalten means to keep someone waiting with promises, to string them along, and die Hinhaltetaktik is a stalling tactic. Den Kopf hinhalten (müssen) means to take the blame for others. Separable and irregular: hält hin, hielt hin, hingehalten."
+}

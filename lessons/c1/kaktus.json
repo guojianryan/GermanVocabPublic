@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kaktus",
+    "partOfSpeech": "noun, masculine (der Kaktus)",
+    "pronunciation": {
+      "respelling": "KAK-tus",
+      "ipa": "ˈkaktʊs",
+      "notes": "Plural: die Kakteen."
+    },
+    "meaning": "cactus",
+    "shortDefinition": "Cactus."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kaktus, plural die Kakteen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kaktus"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kakteen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Kaktus auf dem Fensterbrett blüht.",
+      "english": "The cactus on the windowsill is flowering.",
+      "highlight": [
+        "Kaktus"
+      ]
+    },
+    {
+      "german": "Kakteen brauchen wenig Wasser.",
+      "english": "Cacti need little water.",
+      "highlight": [
+        "Kakteen"
+      ]
+    }
+  ],
+  "forms": [
+    "Kakteen",
+    "der Kaktus",
+    "Kaktusse"
+  ],
+  "memoryHook": "Kaktus: a prickly plant (Greek kaktos).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kaktus",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kaktus is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kaktus, zwei ___",
+      "answer": "Kakteen",
+      "fullAnswer": "ein Kaktus, zwei Kakteen",
+      "explanation": "The plural is Kakteen.",
+      "acceptedAnswers": [
+        "Kakteen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kaktus mean?",
+      "options": [
+        "the bill",
+        "hot",
+        "cactus"
+      ],
+      "answer": "cactus",
+      "explanation": "Kaktus: cactus.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Kakteen (also Kaktusse)",
+        "die Kaktuses"
+      ],
+      "answer": "die Kakteen (also Kaktusse)",
+      "explanation": "Plural.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Sukkulente is…",
+      "options": [
+        "succulent plant",
+        "a fruit"
+      ],
+      "answer": "succulent plant",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Stachel is…",
+      "options": [
+        "spine, thorn, sting",
+        "a stable"
+      ],
+      "answer": "spine, thorn, sting",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Kaktus is a cactus. Its standard plural is die Kakteen, with die Kaktusse also accepted colloquially. Cacti are classic Zimmerpflanzen (houseplants) on German windowsills. Their spines are Stacheln, and other water-storing plants are Sukkulenten. A Kaktus is a symbol of a prickly person: stachelig wie ein Kaktus."
+}

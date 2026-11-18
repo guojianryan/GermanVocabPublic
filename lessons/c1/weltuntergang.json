@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Weltuntergang",
+    "partOfSpeech": "noun, masculine (der Weltuntergang)",
+    "pronunciation": {
+      "respelling": "VELT-un-ter-gang",
+      "ipa": "ˈvɛltˌʔʊntɐɡaŋ",
+      "notes": "Plural: die Weltuntergänge."
+    },
+    "meaning": "end of the world",
+    "shortDefinition": "End of the world."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Weltuntergang, plural die Weltuntergänge.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Weltuntergang"
+        },
+        {
+          "label": "More than one",
+          "value": "die Weltuntergänge"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Manche sagten für 2012 den Weltuntergang voraus.",
+      "english": "Some predicted the end of the world for 2012.",
+      "highlight": [
+        "Weltuntergang"
+      ]
+    },
+    {
+      "german": "Das ist doch kein Weltuntergang!",
+      "english": "It's not the end of the world!",
+      "highlight": [
+        "Weltuntergang!"
+      ]
+    }
+  ],
+  "forms": [
+    "Weltuntergänge",
+    "der Weltuntergang"
+  ],
+  "memoryHook": "Weltuntergang: the Welt (world) going under.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Weltuntergang",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Weltuntergang is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Weltuntergang, zwei ___",
+      "answer": "Weltuntergänge",
+      "fullAnswer": "ein Weltuntergang, zwei Weltuntergänge",
+      "explanation": "The plural is Weltuntergänge.",
+      "acceptedAnswers": [
+        "Weltuntergaenge"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Weltuntergang mean?",
+      "options": [
+        "end of the world",
+        "the evening",
+        "the bed"
+      ],
+      "answer": "end of the world",
+      "explanation": "Weltuntergang: end of the world.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das ist kein Weltuntergang means…",
+      "options": [
+        "it's not the end of the world",
+        "the world is fine"
+      ],
+      "answer": "it's not the end of the world",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Weltuntergangsstimmung is…",
+      "options": [
+        "doom-laden mood",
+        "a party"
+      ],
+      "answer": "doom-laden mood",
+      "explanation": "Mood.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Apokalypse is…",
+      "options": [
+        "apocalypse",
+        "a calendar"
+      ],
+      "answer": "apocalypse",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Weltuntergang is the end of the world: den Weltuntergang prophezeien. Many expected it on 21 December 2012, the end of a Maya calendar cycle. Das ist (doch) kein Weltuntergang means it's not the end of the world. Die Weltuntergangsstimmung is a mood of doom. From untergehen (to go down, sink). Plural: die Weltuntergänge."
+}

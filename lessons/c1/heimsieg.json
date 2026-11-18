@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Heimsieg",
+    "partOfSpeech": "noun, masculine (der Heimsieg)",
+    "pronunciation": {
+      "respelling": "HAIM-zeek",
+      "ipa": "ˈhaɪ̯mˌziːk",
+      "notes": "Plural: die Heimsiege."
+    },
+    "meaning": "home win",
+    "shortDefinition": "Home win."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Heimsieg, plural die Heimsiege.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Heimsieg"
+        },
+        {
+          "label": "More than one",
+          "value": "die Heimsiege"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Verein feierte einen wichtigen Heimsieg.",
+      "english": "The club celebrated an important home win.",
+      "highlight": [
+        "Heimsieg."
+      ]
+    },
+    {
+      "german": "Nach drei Heimsiegen in Folge ist die Stimmung gut.",
+      "english": "After three home wins in a row, the mood is good.",
+      "highlight": [
+        "Heimsiegen"
+      ]
+    }
+  ],
+  "forms": [
+    "Heimsiege",
+    "die Heimsiege",
+    "der Heimsieg"
+  ],
+  "memoryHook": "Heimsieg: a Sieg (win) at Heim (home).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Heimsieg",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Heimsieg is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Heimsieg, zwei ___",
+      "answer": "Heimsiege",
+      "fullAnswer": "ein Heimsieg, zwei Heimsiege",
+      "explanation": "The plural is Heimsiege.",
+      "acceptedAnswers": [
+        "Heimsiege"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Heimsieg mean?",
+      "options": [
+        "the evening",
+        "home win",
+        "the bread"
+      ],
+      "answer": "home win",
+      "explanation": "Heimsieg: home win.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite:",
+      "options": [
+        "die Heimniederlage",
+        "der Auswärtssieg only"
+      ],
+      "answer": "die Heimniederlage",
+      "explanation": "Home defeat.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Heimspiel is…",
+      "options": [
+        "a home game",
+        "a board game"
+      ],
+      "answer": "a home game",
+      "explanation": "Home game.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Auswärts means…",
+      "options": [
+        "away",
+        "outwards only"
+      ],
+      "answer": "away",
+      "explanation": "Away.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Heimsieg is a home win; a win away is der Auswärtssieg, and a home defeat die Heimniederlage. Das Heimspiel is a home game, and figuratively, ein Heimspiel haben means to be on familiar ground. Borussia Dortmund's stadium, with its Gelbe Wand (yellow wall) stand of about 25,000 standing fans, is famous for creating home advantage. Plural: die Heimsiege."
+}

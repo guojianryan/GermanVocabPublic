@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kameramann",
+    "partOfSpeech": "noun, masculine (der Kameramann)",
+    "pronunciation": {
+      "respelling": "KA-me-ra-man",
+      "ipa": "ˈkaməʁaˌman",
+      "notes": "Plural: die Kameraleute."
+    },
+    "meaning": "cameraman",
+    "shortDefinition": "Cameraman."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kameramann, plural die Kameraleute.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kameramann"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kameraleute"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Kameramann filmte die Szene.",
+      "english": "The cameraman filmed the scene.",
+      "highlight": [
+        "Kameramann"
+      ]
+    },
+    {
+      "german": "Die Kamerafrau gewann einen Preis.",
+      "english": "The camerawoman won an award.",
+      "highlight": [
+        "Kamerafrau"
+      ]
+    }
+  ],
+  "forms": [
+    "Kameraleute",
+    "die Kameraleute",
+    "der Kameramann",
+    "Kamerafrau"
+  ],
+  "memoryHook": "Kameramann: the Mann behind the Kamera.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kameramann",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kameramann is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kameramann, zwei ___",
+      "answer": "Kameraleute",
+      "fullAnswer": "ein Kameramann, zwei Kameraleute",
+      "explanation": "The plural is Kameraleute.",
+      "acceptedAnswers": [
+        "Kameraleute"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kameramann mean?",
+      "options": [
+        "the car",
+        "cameraman",
+        "the shop"
+      ],
+      "answer": "cameraman",
+      "explanation": "Kameramann: cameraman.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Kameraleute",
+        "die Kameramänner (also used)"
+      ],
+      "answer": "die Kameraleute",
+      "explanation": "Plural.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Kamerafrau",
+        "die Kameramännin"
+      ],
+      "answer": "die Kamerafrau",
+      "explanation": "Female.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Director of photography (film) is…",
+      "options": [
+        "der Kameramann / Bildgestalter",
+        "der Regisseur"
+      ],
+      "answer": "der Kameramann / Bildgestalter",
+      "explanation": "DoP.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Kameramann (die Kamerafrau) is a camera operator or cinematographer; the plural is usually die Kameraleute, as with Kaufleute and Fachleute. German cinematographers like Michael Ballhaus, who worked with Fassbinder and Scorsese, became world-famous. Die Kamera is a camera, pronounced KA-me-ra. A more gender-neutral term is Bildgestalter. Plural: die Kameraleute."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wahlergebnis",
+    "partOfSpeech": "noun, neuter (das Wahlergebnis)",
+    "pronunciation": {
+      "respelling": "VAAL-er-gep-nis",
+      "ipa": "ˈvaːlʔɛɐ̯ˌɡeːpnɪs",
+      "notes": "Plural: die Wahlergebnisse."
+    },
+    "meaning": "election result",
+    "shortDefinition": "Election result."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Wahlergebnis, plural die Wahlergebnisse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Wahlergebnis"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wahlergebnisse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das vorläufige Wahlergebnis wird am Abend bekannt gegeben.",
+      "english": "The provisional election result will be announced in the evening.",
+      "highlight": [
+        "Wahlergebnis"
+      ]
+    },
+    {
+      "german": "Die Partei ist mit dem Wahlergebnis zufrieden.",
+      "english": "The party is satisfied with the election result.",
+      "highlight": [
+        "Wahlergebnis"
+      ]
+    }
+  ],
+  "forms": [
+    "Wahlergebnisse",
+    "die Wahlergebnisse",
+    "das Wahlergebnis"
+  ],
+  "memoryHook": "Wahlergebnis: the Ergebnis (result) of the Wahl.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wahlergebnis",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Wahlergebnis is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wahlergebnis, zwei ___",
+      "answer": "Wahlergebnisse",
+      "fullAnswer": "ein Wahlergebnis, zwei Wahlergebnisse",
+      "explanation": "The plural is Wahlergebnisse.",
+      "acceptedAnswers": [
+        "Wahlergebnisse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wahlergebnis mean?",
+      "options": [
+        "tomorrow",
+        "expensive",
+        "election result"
+      ],
+      "answer": "election result",
+      "explanation": "Wahlergebnis: election result.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Hochrechnung is…",
+      "options": [
+        "a projection on election night",
+        "a high calculation"
+      ],
+      "answer": "a projection on election night",
+      "explanation": "Projection.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "At 6 p.m. on election day, German TV shows…",
+      "options": [
+        "the exit poll (Prognose)",
+        "the final result"
+      ],
+      "answer": "the exit poll (Prognose)",
+      "explanation": "Prognose.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das amtliche Endergebnis is…",
+      "options": [
+        "the official final result",
+        "an official error"
+      ],
+      "answer": "the official final result",
+      "explanation": "Final.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Wahlergebnis is an election result. On German election nights, at 18:00 sharp ARD and ZDF publish the Prognose (exit poll), followed by Hochrechnungen (projections) through the evening, then the vorläufiges Endergebnis (provisional result) overnight, and later the amtliches Endergebnis. The Bundeswahlleiterin oversees federal elections. Parties need at least 5 percent (Fünfprozenthürde) to enter the Bundestag. Plural: die Wahlergebnisse."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Seuche",
+    "partOfSpeech": "noun, feminine (die Seuche)",
+    "pronunciation": {
+      "respelling": "ZOI-khe",
+      "ipa": "ˈzɔɪ̯çə",
+      "notes": "Plural: die Seuchen."
+    },
+    "meaning": "epidemic, plague",
+    "shortDefinition": "Epidemic, plague."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Seuche, plural die Seuchen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Seuche"
+        },
+        {
+          "label": "More than one",
+          "value": "die Seuchen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Mittelalter wüteten viele Seuchen.",
+      "english": "Many plagues raged in the Middle Ages.",
+      "highlight": [
+        "Seuchen."
+      ]
+    },
+    {
+      "german": "Die Afrikanische Schweinepest ist eine gefährliche Tierseuche.",
+      "english": "African swine fever is a dangerous animal disease.",
+      "highlight": [
+        "Tierseuche."
+      ]
+    }
+  ],
+  "forms": [
+    "Seuchen",
+    "die Seuchen",
+    "die Seuche",
+    "Tierseuche"
+  ],
+  "memoryHook": "Seuche: a disease that spreads through a population.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Seuche",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Seuche is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Seuche, zwei ___",
+      "answer": "Seuchen",
+      "fullAnswer": "ein Seuche, zwei Seuchen",
+      "explanation": "The plural is Seuchen.",
+      "acceptedAnswers": [
+        "Seuchen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Seuche mean?",
+      "options": [
+        "the station",
+        "the job",
+        "epidemic"
+      ],
+      "answer": "epidemic",
+      "explanation": "Seuche: epidemic, plague.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Tierseuche is…",
+      "options": [
+        "an animal epidemic",
+        "a pet"
+      ],
+      "answer": "an animal epidemic",
+      "explanation": "Animal.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Seuchen is a synonym for…",
+      "options": [
+        "Epidemien",
+        "Medikamente"
+      ],
+      "answer": "Epidemien",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Pest is…",
+      "options": [
+        "the plague",
+        "a pest only"
+      ],
+      "answer": "the plague",
+      "explanation": "Plague.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Seuche is an epidemic or plague: die Pest war die schlimmste Seuche des Mittelalters, the Black Death killed perhaps a third of Europe's population in the 14th century. Today, Tierseuchen (animal epidemics) like Afrikanische Schweinepest and Vogelgrippe are a big issue in German farming. Figuratively, eine Seuche is a scourge: Fake News sind eine Seuche. Plural: die Seuchen."
+}

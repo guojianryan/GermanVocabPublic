@@ -1,0 +1,152 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "nominieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "no-mi-NEE-ren",
+      "ipa": "nomiˈniːʁən",
+      "notes": ""
+    },
+    "meaning": "to nominate",
+    "shortDefinition": "To nominate."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "nominier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "nominier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "nominier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "nominier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "nominier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "nominier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat nominiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Film wurde für den Oscar nominiert.",
+      "english": "The film was nominated for an Oscar.",
+      "highlight": [
+        "nominiert."
+      ]
+    },
+    {
+      "german": "Der Trainer hat ihn für die Nationalmannschaft nominiert.",
+      "english": "The coach selected him for the national team.",
+      "highlight": [
+        "nominiert."
+      ]
+    }
+  ],
+  "forms": [
+    "nominiere",
+    "nominierst",
+    "nominiert",
+    "nominieren",
+    "Nominierung"
+  ],
+  "memoryHook": "Nominieren: put someone's name (nomen) forward.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (nominieren)",
+      "answer": "nominiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: nominiert.",
+      "acceptedAnswers": [
+        "nominiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (nominieren, past)",
+      "answer": "nominiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe nominiert.",
+      "acceptedAnswers": [
+        "nominiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does nominieren mean?",
+      "options": [
+        "the child",
+        "to nominate",
+        "to learn"
+      ],
+      "answer": "to nominate",
+      "explanation": "nominieren: to nominate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Nominierung is…",
+      "options": [
+        "the nomination",
+        "the naming of a child"
+      ],
+      "answer": "the nomination",
+      "explanation": "Nominierung.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In football, nominieren means…",
+      "options": [
+        "to pick for the squad",
+        "to score"
+      ],
+      "answer": "to pick for the squad",
+      "explanation": "Selection.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Nominieren means to nominate: für einen Preis nominiert werden. In sport, it means to select a player for a squad: Der Bundestrainer nominiert 26 Spieler für die WM. Parties nominieren their candidates for elections. Die Nominierung is the nomination, and der/die Nominierte the nominee. From Latin nomen (name). Like all -ieren verbs, it has no ge- in the past participle: nominiert."
+}

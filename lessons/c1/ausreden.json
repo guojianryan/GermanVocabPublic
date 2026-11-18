@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "ausreden",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AUS-ray-den",
+      "ipa": "ˈaʊ̯sˌʁeːdn̩",
+      "notes": ""
+    },
+    "meaning": "to finish speaking; to talk someone out of",
+    "shortDefinition": "To finish speaking; to talk someone out of."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "red|e … |aus"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "red|est … |aus"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "red|et … |aus"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "red|en … |aus"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "red|et … |aus"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "red|en … |aus"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat ausgeredet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Lass mich bitte ausreden!",
+      "english": "Please let me finish!",
+      "highlight": [
+        "ausreden!"
+      ]
+    },
+    {
+      "german": "Sie hat mir die Reise ausgeredet.",
+      "english": "She talked me out of the trip.",
+      "highlight": [
+        "ausgeredet."
+      ]
+    }
+  ],
+  "forms": [
+    "rede aus",
+    "redest aus",
+    "redet aus",
+    "reden aus",
+    "ausgeredet",
+    "redete aus",
+    "Ausrede"
+  ],
+  "memoryHook": "Ausreden: talk (reden) until the end (aus).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … aus (ausreden)",
+      "answer": "redet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: redet … aus.",
+      "acceptedAnswers": [
+        "redet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (ausreden, past)",
+      "answer": "ausgeredet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe ausgeredet.",
+      "acceptedAnswers": [
+        "ausgeredet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does ausreden mean?",
+      "options": [
+        "to learn",
+        "to finish speaking",
+        "hot"
+      ],
+      "answer": "to finish speaking",
+      "explanation": "ausreden: to finish speaking; to talk someone out of.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Lass mich ausreden! means…",
+      "options": [
+        "Let me finish speaking!",
+        "Let me go out!"
+      ],
+      "answer": "Let me finish speaking!",
+      "explanation": "Don't interrupt.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandem etwas ausreden means…",
+      "options": [
+        "to talk someone out of something",
+        "to explain something"
+      ],
+      "answer": "to talk someone out of something",
+      "explanation": "Dissuade.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Ausrede is…",
+      "options": [
+        "an excuse",
+        "a speech"
+      ],
+      "answer": "an excuse",
+      "explanation": "Excuse.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Ausreden means to finish speaking: Lass mich ausreden! (let me finish!), a phrase heard in every German TV debate. Jemanden ausreden lassen is basic politeness. It also means to talk someone out of something: Ich habe ihm den Plan ausgeredet. Die Ausrede is an excuse: Das ist doch nur eine Ausrede! The opposite of ausreden is einreden: jemandem etwas einreden (to talk someone into believing something)."
+}

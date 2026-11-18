@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "lückenlos",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "LÜ-ken-lohs",
+      "ipa": "ˈlʏkn̩ˌloːs",
+      "notes": ""
+    },
+    "meaning": "complete, without gaps",
+    "shortDefinition": "Complete, without gaps."
+  },
+  "sampleSentences": [
+    {
+      "german": "Die Regierung versprach lückenlose Aufklärung.",
+      "english": "The government promised a complete investigation.",
+      "highlight": [
+        "lückenlose"
+      ]
+    },
+    {
+      "german": "Ich brauche einen lückenlosen Lebenslauf.",
+      "english": "I need a CV without gaps.",
+      "highlight": [
+        "lückenlosen"
+      ]
+    }
+  ],
+  "forms": [
+    "lückenlose",
+    "lückenlosen",
+    "lückenloser"
+  ],
+  "memoryHook": "Lückenlos: without (los) Lücken (gaps).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does lückenlos mean?",
+      "options": [
+        "to travel",
+        "complete",
+        "to sing"
+      ],
+      "answer": "complete",
+      "explanation": "lückenlos: complete, without gaps.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Lückenlose Aufklärung means…",
+      "options": [
+        "full clarification of a scandal",
+        "a gapless window"
+      ],
+      "answer": "full clarification of a scandal",
+      "explanation": "Phrase.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Lücke is…",
+      "options": [
+        "gap",
+        "luck"
+      ],
+      "answer": "gap",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "vollständig, lückenfrei",
+        "lückenhaft"
+      ],
+      "answer": "vollständig, lückenfrei",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Dokumentation (complete)",
+      "answer": "lückenlose",
+      "fullAnswer": "eine lückenlose Dokumentation",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Lückenlos means complete or without gaps: ein lückenloser Lebenslauf, eine lückenlose Überwachung. Politicians facing a scandal routinely promise lückenlose Aufklärung (full clarification), a phrase so common it's become a cliché. Die Lücke is a gap. The opposite is lückenhaft (incomplete, patchy): lückenhafte Kenntnisse."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Befehlshaber",
+    "partOfSpeech": "noun, masculine (der Befehlshaber)",
+    "pronunciation": {
+      "respelling": "be-FAYLS-haa-ber",
+      "ipa": "bəˈfeːlsˌhaːbɐ",
+      "notes": "Plural: die Befehlshaber."
+    },
+    "meaning": "commander",
+    "shortDefinition": "Commander."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Befehlshaber, plural die Befehlshaber.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Befehlshaber"
+        },
+        {
+          "label": "More than one",
+          "value": "die Befehlshaber"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Befehlshaber der Truppen gab den Rückzug bekannt.",
+      "english": "The commander of the troops announced the retreat.",
+      "highlight": [
+        "Befehlshaber"
+      ]
+    },
+    {
+      "german": "Im Frieden ist der Verteidigungsminister Oberbefehlshaber.",
+      "english": "In peacetime the defence minister is commander-in-chief.",
+      "highlight": [
+        "Oberbefehlshaber."
+      ]
+    }
+  ],
+  "forms": [
+    "Befehlshaberin",
+    "der Befehlshaber"
+  ],
+  "memoryHook": "Befehlshaber: someone who hat (holds) the Befehl (command).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Befehlshaber",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Befehlshaber is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Befehlshaber, zwei ___",
+      "answer": "Befehlshaber",
+      "fullAnswer": "ein Befehlshaber, zwei Befehlshaber",
+      "explanation": "The plural is Befehlshaber.",
+      "acceptedAnswers": [
+        "Befehlshaber"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Befehlshaber mean?",
+      "options": [
+        "commander",
+        "to help",
+        "the bill"
+      ],
+      "answer": "commander",
+      "explanation": "Befehlshaber: commander.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In a state of defence, command passes to…",
+      "options": [
+        "the Federal Chancellor",
+        "the Federal President"
+      ],
+      "answer": "the Federal Chancellor",
+      "explanation": "Grundgesetz.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Befehl is…",
+      "options": [
+        "order, command",
+        "a request"
+      ],
+      "answer": "order, command",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Befehlen means…",
+      "options": [
+        "to order, command",
+        "to fail"
+      ],
+      "answer": "to order, command",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Befehlshaber is a commander: der Befehlshaber der Streitkräfte. Under the Grundgesetz, the Federal Minister of Defence holds command over the Bundeswehr in peacetime (Article 65a), and it passes to the Chancellor in a state of defence (Article 115b); the President has no command role. Der Befehl is an order, and befehlen (befahl, befohlen) to command. The plural is the same: die Befehlshaber."
+}

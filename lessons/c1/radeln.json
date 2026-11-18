@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "radeln",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "RAA-deln",
+      "ipa": "ˈʁaːdl̩n",
+      "notes": ""
+    },
+    "meaning": "to cycle (colloquial)",
+    "shortDefinition": "To cycle (colloquial)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "radl|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "radel|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "radel|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "radel|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "radel|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "radel|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist geradelt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Am Wochenende radeln wir an der Donau entlang.",
+      "english": "At the weekend we're cycling along the Danube.",
+      "highlight": [
+        "radeln"
+      ]
+    },
+    {
+      "german": "Sie ist zur Arbeit geradelt.",
+      "english": "She cycled to work.",
+      "highlight": [
+        "geradelt."
+      ]
+    }
+  ],
+  "forms": [
+    "radle",
+    "radelst",
+    "radelt",
+    "radeln",
+    "geradelt",
+    "radelte"
+  ],
+  "memoryHook": "Radeln: going by Rad (bike).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (radeln)",
+      "answer": "radelt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: radelt.",
+      "acceptedAnswers": [
+        "radelt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (radeln, past)",
+      "answer": "geradelt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin geradelt.",
+      "acceptedAnswers": [
+        "geradelt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does radeln mean?",
+      "options": [
+        "the bread",
+        "the car",
+        "to cycle (colloquial)"
+      ],
+      "answer": "to cycle (colloquial)",
+      "explanation": "radeln: to cycle (colloquial).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Radeln takes the auxiliary…",
+      "options": [
+        "sein",
+        "haben"
+      ],
+      "answer": "sein",
+      "explanation": "Movement.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "Rad fahren",
+        "rodeln"
+      ],
+      "answer": "Rad fahren",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stadtradeln is…",
+      "options": [
+        "a cycling campaign for climate",
+        "a city tour"
+      ],
+      "answer": "a cycling campaign for climate",
+      "explanation": "Campaign.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Radeln is a colloquial, especially southern German word for cycling: Rad fahren. It takes sein: Wir sind geradelt. Each year thousands of municipalities take part in Stadtradeln, a campaign where people log kilometres cycled for the climate. Der Radler is a cyclist and also, in Bavaria, a shandy (beer with lemonade). Don't confuse it with rodeln (to sledge)."
+}

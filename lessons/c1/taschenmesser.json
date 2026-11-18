@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Taschenmesser",
+    "partOfSpeech": "noun, neuter (das Taschenmesser)",
+    "pronunciation": {
+      "respelling": "TA-shen-me-ser",
+      "ipa": "ˈtaʃn̩ˌmɛsɐ",
+      "notes": "Plural: die Taschenmesser."
+    },
+    "meaning": "penknife, pocket knife",
+    "shortDefinition": "Penknife, pocket knife."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Taschenmesser, plural die Taschenmesser.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Taschenmesser"
+        },
+        {
+          "label": "More than one",
+          "value": "die Taschenmesser"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hat immer ein Taschenmesser dabei.",
+      "english": "He always carries a penknife.",
+      "highlight": [
+        "Taschenmesser"
+      ]
+    },
+    {
+      "german": "Das Schweizer Taschenmesser ist weltberühmt.",
+      "english": "The Swiss Army knife is world-famous.",
+      "highlight": [
+        "Taschenmesser"
+      ]
+    }
+  ],
+  "forms": [
+    "das Taschenmesser",
+    "Taschenmessers"
+  ],
+  "memoryHook": "Taschenmesser: a Messer (knife) for the Tasche (pocket).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Taschenmesser",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Taschenmesser is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Taschenmesser, zwei ___",
+      "answer": "Taschenmesser",
+      "fullAnswer": "ein Taschenmesser, zwei Taschenmesser",
+      "explanation": "The plural is Taschenmesser.",
+      "acceptedAnswers": [
+        "Taschenmesser"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Taschenmesser mean?",
+      "options": [
+        "to help",
+        "to sleep",
+        "penknife"
+      ],
+      "answer": "penknife",
+      "explanation": "Taschenmesser: penknife, pocket knife.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Schweizer Taschenmesser is…",
+      "options": [
+        "the Swiss Army knife",
+        "a Swiss bag"
+      ],
+      "answer": "the Swiss Army knife",
+      "explanation": "Culture.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, das Schweizer Taschenmesser unter... means…",
+      "options": [
+        "the all-rounder among…",
+        "the sharpest of…"
+      ],
+      "answer": "the all-rounder among…",
+      "explanation": "Figurative.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Tasche is…",
+      "options": [
+        "pocket; bag",
+        "a cup"
+      ],
+      "answer": "pocket; bag",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Taschenmesser is a penknife or pocket knife. The Schweizer Taschenmesser (Swiss Army knife), made since the 1890s, is a national symbol; figuratively a versatile tool is das Schweizer Taschenmesser unter den Apps. In Germany, carrying certain knives in public is restricted. Die Tasche means pocket or bag. The plural is the same."
+}

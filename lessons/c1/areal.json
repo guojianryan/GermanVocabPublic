@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Areal",
+    "partOfSpeech": "noun, neuter (das Areal)",
+    "pronunciation": {
+      "respelling": "a-re-AAL",
+      "ipa": "aʁeˈaːl",
+      "notes": "Plural: die Areale."
+    },
+    "meaning": "site, area, grounds",
+    "shortDefinition": "Site, area, grounds."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Areal, plural die Areale.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Areal"
+        },
+        {
+          "label": "More than one",
+          "value": "die Areale"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Auf dem alten Fabrikareal entstehen Wohnungen.",
+      "english": "Flats are being built on the old factory site.",
+      "highlight": [
+        "Fabrikareal"
+      ]
+    },
+    {
+      "german": "Das Areal ist für Besucher gesperrt.",
+      "english": "The site is closed to visitors.",
+      "highlight": [
+        "Areal"
+      ]
+    }
+  ],
+  "forms": [
+    "Areale",
+    "die Areale",
+    "das Areal"
+  ],
+  "memoryHook": "Areal: a defined area of land, like a campus.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Areal",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Areal is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Areal, zwei ___",
+      "answer": "Areale",
+      "fullAnswer": "ein Areal, zwei Areale",
+      "explanation": "The plural is Areale.",
+      "acceptedAnswers": [
+        "Areale"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Areal mean?",
+      "options": [
+        "cheap",
+        "site",
+        "the key"
+      ],
+      "answer": "site",
+      "explanation": "Areal: site, area, grounds.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress on…",
+      "options": [
+        "-AL",
+        "A-"
+      ],
+      "answer": "-AL",
+      "explanation": "a-re-AAL.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "das Gelände",
+        "die Ecke"
+      ],
+      "answer": "das Gelände",
+      "explanation": "Gelände = grounds, site.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Firmenareal is…",
+      "options": [
+        "a company's premises",
+        "a company's profits"
+      ],
+      "answer": "a company's premises",
+      "explanation": "Premises.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Areal is a site or area of land, usually one with clear boundaries: das Firmenareal, das Messeareal, ein ehemaliges Kasernenareal (former barracks site). It's common in planning and news reports about redevelopment, as when old industrial Areale become new housing quarters. The everyday synonym is das Gelände. It's stressed on the last syllable, a-re-AAL, and comes from Latin area. Plural: die Areale."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Möwe",
+    "partOfSpeech": "noun, feminine (die Möwe)",
+    "pronunciation": {
+      "respelling": "MÖ-ve",
+      "ipa": "ˈmøːvə",
+      "notes": "Plural: die Möwen."
+    },
+    "meaning": "seagull",
+    "shortDefinition": "Seagull."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Möwe, plural die Möwen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Möwe"
+        },
+        {
+          "label": "More than one",
+          "value": "die Möwen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Möwen kreisen über dem Hafen.",
+      "english": "The gulls are circling over the harbour.",
+      "highlight": [
+        "Möwen"
+      ]
+    },
+    {
+      "german": "Eine Möwe hat mir das Fischbrötchen geklaut.",
+      "english": "A seagull stole my fish roll.",
+      "highlight": [
+        "Möwe"
+      ]
+    }
+  ],
+  "forms": [
+    "Möwen",
+    "die Möwe"
+  ],
+  "memoryHook": "Möwe: the crying sea bird.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Möwe",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Möwe is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Möwe, zwei ___",
+      "answer": "Möwen",
+      "fullAnswer": "ein Möwe, zwei Möwen",
+      "explanation": "The plural is Möwen.",
+      "acceptedAnswers": [
+        "Moewen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Möwe mean?",
+      "options": [
+        "to sing",
+        "seagull",
+        "to sleep"
+      ],
+      "answer": "seagull",
+      "explanation": "Möwe: seagull.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Möwen at the North Sea are known for…",
+      "options": [
+        "stealing food from tourists",
+        "singing"
+      ],
+      "answer": "stealing food from tourists",
+      "explanation": "Behaviour.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Fischbrötchen is…",
+      "options": [
+        "fish roll",
+        "fish soup"
+      ],
+      "answer": "fish roll",
+      "explanation": "Food.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Chekhov's play Die Möwe is…",
+      "options": [
+        "The Seagull",
+        "The Swan"
+      ],
+      "answer": "The Seagull",
+      "explanation": "Literature.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Möwe is a seagull, a symbol of the North Sea and Baltic coast. At resorts, Möwen are notorious for snatching Fischbrötchen and ice cream from tourists, and feeding them is banned in many places. Christian Morgenstern's humorous poem Möwenlied plays with the name. Chekhov's play The Seagull is Die Möwe in German. Plural: die Möwen."
+}

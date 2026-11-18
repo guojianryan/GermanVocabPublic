@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Grenzgebiet",
+    "partOfSpeech": "noun, neuter (das Grenzgebiet)",
+    "pronunciation": {
+      "respelling": "GRENTS-ge-beet",
+      "ipa": "ˈɡʁɛnt͡sɡəˌbiːt",
+      "notes": "Plural: die Grenzgebiete."
+    },
+    "meaning": "border area, borderland",
+    "shortDefinition": "Border area, borderland."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Grenzgebiet, plural die Grenzgebiete.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Grenzgebiet"
+        },
+        {
+          "label": "More than one",
+          "value": "die Grenzgebiete"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Grenzgebiet zu Polen arbeiten viele Pendler.",
+      "english": "Many commuters work in the border area with Poland.",
+      "highlight": [
+        "Grenzgebiet"
+      ]
+    },
+    {
+      "german": "Das ist ein Grenzgebiet zwischen Medizin und Psychologie.",
+      "english": "That's a borderline field between medicine and psychology.",
+      "highlight": [
+        "Grenzgebiet"
+      ]
+    }
+  ],
+  "forms": [
+    "Grenzgebiete",
+    "das Grenzgebiet"
+  ],
+  "memoryHook": "Grenzgebiet: the Gebiet (area) along a Grenze (border).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Grenzgebiet",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Grenzgebiet is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Grenzgebiet, zwei ___",
+      "answer": "Grenzgebiete",
+      "fullAnswer": "ein Grenzgebiet, zwei Grenzgebiete",
+      "explanation": "The plural is Grenzgebiete.",
+      "acceptedAnswers": [
+        "Grenzgebiete"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Grenzgebiet mean?",
+      "options": [
+        "border area",
+        "the bread",
+        "the flower"
+      ],
+      "answer": "border area",
+      "explanation": "Grenzgebiet: border area, borderland.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, Grenzgebiet means…",
+      "options": [
+        "an interdisciplinary borderline field",
+        "a no-go area"
+      ],
+      "answer": "an interdisciplinary borderline field",
+      "explanation": "Field.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Grenzgänger is…",
+      "options": [
+        "cross-border commuter",
+        "border guard"
+      ],
+      "answer": "cross-border commuter",
+      "explanation": "Commuter.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany has how many neighbouring countries?",
+      "options": [
+        "nine",
+        "six"
+      ],
+      "answer": "nine",
+      "explanation": "Neighbours.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Grenzgebiet is a border area: im deutsch-französischen Grenzgebiet, im Grenzgebiet zu Tschechien. Germany has nine neighbouring countries, more than any other in Europe. Der Grenzgänger is a cross-border commuter, common around Basel, Luxembourg and Strasbourg. Figuratively, it's a borderline field between disciplines. During the Cold War, the inner-German Grenzgebiet was a heavily guarded zone. Plural: die Grenzgebiete."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Hexerei",
+    "partOfSpeech": "noun, feminine (die Hexerei)",
+    "pronunciation": {
+      "respelling": "hek-se-RAI",
+      "ipa": "hɛksəˈʁaɪ̯",
+      "notes": "Plural: die Hexereien."
+    },
+    "meaning": "witchcraft, sorcery",
+    "shortDefinition": "Witchcraft, sorcery."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Hexerei, plural die Hexereien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Hexerei"
+        },
+        {
+          "label": "More than one",
+          "value": "die Hexereien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In der Frühen Neuzeit wurden Frauen wegen Hexerei verfolgt.",
+      "english": "In the early modern period women were persecuted for witchcraft.",
+      "highlight": [
+        "Hexerei"
+      ]
+    },
+    {
+      "german": "Das ist doch keine Hexerei!",
+      "english": "It's not rocket science!",
+      "highlight": [
+        "Hexerei!"
+      ]
+    }
+  ],
+  "forms": [
+    "Hexereien",
+    "die Hexerei"
+  ],
+  "memoryHook": "Hexerei: what a Hexe (witch) does.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Hexerei",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Hexerei is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Hexerei, zwei ___",
+      "answer": "Hexereien",
+      "fullAnswer": "ein Hexerei, zwei Hexereien",
+      "explanation": "The plural is Hexereien.",
+      "acceptedAnswers": [
+        "Hexereien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Hexerei mean?",
+      "options": [
+        "quiet",
+        "the child",
+        "witchcraft"
+      ],
+      "answer": "witchcraft",
+      "explanation": "Hexerei: witchcraft, sorcery.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das ist keine Hexerei means…",
+      "options": [
+        "it's not difficult, not magic",
+        "it's not evil"
+      ],
+      "answer": "it's not difficult, not magic",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Hexe is…",
+      "options": [
+        "witch",
+        "a hex key"
+      ],
+      "answer": "witch",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hexen means…",
+      "options": [
+        "to do magic, work wonders",
+        "to curse only"
+      ],
+      "answer": "to do magic, work wonders",
+      "explanation": "Verb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Hexerei is witchcraft or sorcery. In the Holy Roman Empire, tens of thousands were executed for supposed Hexerei, mainly between about 1560 and 1650, making German lands a centre of the witch hunts. Today Das ist keine Hexerei means it's not difficult. Die Hexe is a witch; Ich kann doch nicht hexen means I can't work miracles. Plural: die Hexereien."
+}

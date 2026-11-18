@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Fehlentscheidung",
+    "partOfSpeech": "noun, feminine (die Fehlentscheidung)",
+    "pronunciation": {
+      "respelling": "FAYL-ent-shai-dung",
+      "ipa": "ˈfeːlʔɛntˌʃaɪ̯dʊŋ",
+      "notes": "Plural: die Fehlentscheidungen."
+    },
+    "meaning": "wrong decision; bad call",
+    "shortDefinition": "Wrong decision; bad call."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Fehlentscheidung, plural die Fehlentscheidungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Fehlentscheidung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Fehlentscheidungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Schiedsrichter traf eine klare Fehlentscheidung.",
+      "english": "The referee made a clear bad call.",
+      "highlight": [
+        "Fehlentscheidung."
+      ]
+    },
+    {
+      "german": "Die Investition erwies sich als Fehlentscheidung.",
+      "english": "The investment turned out to be a wrong decision.",
+      "highlight": [
+        "Fehlentscheidung."
+      ]
+    }
+  ],
+  "forms": [
+    "Fehlentscheidungen",
+    "die Fehlentscheidung"
+  ],
+  "memoryHook": "Fehlentscheidung: a fehl (wrong) Entscheidung.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Fehlentscheidung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Fehlentscheidung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Fehlentscheidung, zwei ___",
+      "answer": "Fehlentscheidungen",
+      "fullAnswer": "ein Fehlentscheidung, zwei Fehlentscheidungen",
+      "explanation": "The plural is Fehlentscheidungen.",
+      "acceptedAnswers": [
+        "Fehlentscheidungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Fehlentscheidung mean?",
+      "options": [
+        "wrong decision",
+        "to travel",
+        "to learn"
+      ],
+      "answer": "wrong decision",
+      "explanation": "Fehlentscheidung: wrong decision; bad call.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fehl- as a prefix means…",
+      "options": [
+        "wrong, mis-",
+        "missing only"
+      ],
+      "answer": "wrong, mis-",
+      "explanation": "Prefix.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der VAR (Videobeweis) aims to reduce…",
+      "options": [
+        "Fehlentscheidungen",
+        "Elfmeter"
+      ],
+      "answer": "Fehlentscheidungen",
+      "explanation": "Football.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Fehlgriff, der Missgriff",
+        "der Glücksgriff"
+      ],
+      "answer": "der Fehlgriff, der Missgriff",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Fehlentscheidung is a wrong decision, and in sport a bad call by the referee. The Bundesliga introduced the Videobeweis (VAR) in 2017 to reduce Fehlentscheidungen, though it remains controversial. The prefix Fehl- means mis- or wrong: Fehlstart, Fehlkauf, Fehlschlag, Fehlgeburt. Synonyms: der Fehlgriff, der Missgriff. Plural: die Fehlentscheidungen."
+}

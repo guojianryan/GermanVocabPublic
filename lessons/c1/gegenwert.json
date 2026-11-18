@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gegenwert",
+    "partOfSpeech": "noun, masculine (der Gegenwert)",
+    "pronunciation": {
+      "respelling": "GAY-gen-vert",
+      "ipa": "ˈɡeːɡn̩ˌveːɐ̯t",
+      "notes": "Plural: die Gegenwerte."
+    },
+    "meaning": "equivalent value, value for money",
+    "shortDefinition": "Equivalent value, value for money."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Gegenwert, plural die Gegenwerte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Gegenwert"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gegenwerte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er erhielt Waren im Gegenwert von 500 Euro.",
+      "english": "He received goods worth 500 euros.",
+      "highlight": [
+        "Gegenwert"
+      ]
+    },
+    {
+      "german": "Für das Geld bekommt man keinen angemessenen Gegenwert.",
+      "english": "You don't get good value for the money.",
+      "highlight": [
+        "Gegenwert."
+      ]
+    }
+  ],
+  "forms": [
+    "Gegenwerte",
+    "der Gegenwert"
+  ],
+  "memoryHook": "Gegenwert: the Wert given gegen (in exchange for) something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gegenwert",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Gegenwert is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gegenwert, zwei ___",
+      "answer": "Gegenwerte",
+      "fullAnswer": "ein Gegenwert, zwei Gegenwerte",
+      "explanation": "The plural is Gegenwerte.",
+      "acceptedAnswers": [
+        "Gegenwerte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gegenwert mean?",
+      "options": [
+        "equivalent value",
+        "the child",
+        "never"
+      ],
+      "answer": "equivalent value",
+      "explanation": "Gegenwert: equivalent value, value for money.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Im Gegenwert von means…",
+      "options": [
+        "to the value of",
+        "against the value of"
+      ],
+      "answer": "to the value of",
+      "explanation": "Phrase.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Wert is…",
+      "options": [
+        "value, worth",
+        "a word"
+      ],
+      "answer": "value, worth",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "das Äquivalent, die Entsprechung",
+        "die Gegenwart"
+      ],
+      "answer": "das Äquivalent, die Entsprechung",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Gegenwert is the equivalent value or what one gets in return: Sachpreise im Gegenwert von 1.000 Euro, einen guten Gegenwert für sein Geld bekommen (value for money). Der Wert means value. Synonyms: das Äquivalent, die Entsprechung. Not to be confused with die Gegenwart (the present). Plural: die Gegenwerte."
+}

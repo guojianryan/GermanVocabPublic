@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bohrung",
+    "partOfSpeech": "noun, feminine (die Bohrung)",
+    "pronunciation": {
+      "respelling": "BOH-rung",
+      "ipa": "ˈboːʁʊŋ",
+      "notes": "Plural: die Bohrungen."
+    },
+    "meaning": "drilling, borehole",
+    "shortDefinition": "Drilling, borehole."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Bohrung, plural die Bohrungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Bohrung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bohrungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Bohrung erreichte eine Tiefe von 3.000 Metern.",
+      "english": "The borehole reached a depth of 3,000 metres.",
+      "highlight": [
+        "Bohrung"
+      ]
+    },
+    {
+      "german": "Für die Erdwärme sind Bohrungen nötig.",
+      "english": "Drilling is needed for geothermal heat.",
+      "highlight": [
+        "Bohrungen"
+      ]
+    }
+  ],
+  "forms": [
+    "Bohrungen",
+    "die Bohrungen",
+    "die Bohrung"
+  ],
+  "memoryHook": "Bohrung: a hole made by bohren (drilling).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bohrung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Bohrung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bohrung, zwei ___",
+      "answer": "Bohrungen",
+      "fullAnswer": "ein Bohrung, zwei Bohrungen",
+      "explanation": "The plural is Bohrungen.",
+      "acceptedAnswers": [
+        "Bohrungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bohrung mean?",
+      "options": [
+        "the bread",
+        "the job",
+        "drilling"
+      ],
+      "answer": "drilling",
+      "explanation": "Bohrung: drilling, borehole.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bohren means…",
+      "options": [
+        "to drill, bore",
+        "to bother"
+      ],
+      "answer": "to drill, bore",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Bohrmaschine is…",
+      "options": [
+        "electric drill",
+        "boring machine (film)"
+      ],
+      "answer": "electric drill",
+      "explanation": "Drill.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bohrend means (figuratively)…",
+      "options": [
+        "persistent, probing (questions)",
+        "boring"
+      ],
+      "answer": "persistent, probing (questions)",
+      "explanation": "Figurative.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Bohrung is drilling or a borehole: eine Bohrung nach Öl, eine Probebohrung (test drilling), Geothermiebohrungen for heat pumps. The Kontinentale Tiefbohrung in Bavaria (KTB, 1987–1994) reached over 9,100 metres, one of the deepest boreholes in the world. Bohren means to drill, and figuratively bohrende Fragen are probing questions. Plural: die Bohrungen."
+}

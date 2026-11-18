@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Saat",
+    "partOfSpeech": "noun, feminine (die Saat)",
+    "pronunciation": {
+      "respelling": "ZAAT",
+      "ipa": "zaːt",
+      "notes": "Plural: die Saaten."
+    },
+    "meaning": "seed; sowing",
+    "shortDefinition": "Seed; sowing."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Saat, plural die Saaten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Saat"
+        },
+        {
+          "label": "More than one",
+          "value": "die Saaten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Bauern bringen die Saat aus.",
+      "english": "The farmers sow the seed.",
+      "highlight": [
+        "Saat"
+      ]
+    },
+    {
+      "german": "Die Saat des Hasses ist aufgegangen.",
+      "english": "The seeds of hatred have sprouted.",
+      "highlight": [
+        "Saat"
+      ]
+    }
+  ],
+  "forms": [
+    "Saaten",
+    "die Saat"
+  ],
+  "memoryHook": "Saat: what you säen (sow).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Saat",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Saat is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Saat, zwei ___",
+      "answer": "Saaten",
+      "fullAnswer": "ein Saat, zwei Saaten",
+      "explanation": "The plural is Saaten.",
+      "acceptedAnswers": [
+        "Saaten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Saat mean?",
+      "options": [
+        "to sleep",
+        "seed",
+        "to travel"
+      ],
+      "answer": "seed",
+      "explanation": "Saat: seed; sowing.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Säen means…",
+      "options": [
+        "to sow",
+        "to see"
+      ],
+      "answer": "to sow",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Saatgut is…",
+      "options": [
+        "seed stock (for planting)",
+        "a good harvest"
+      ],
+      "answer": "seed stock (for planting)",
+      "explanation": "Compound.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Samen is…",
+      "options": [
+        "seed (single); semen",
+        "a sermon"
+      ],
+      "answer": "seed (single); semen",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Saat is seed for sowing or the act of sowing: die Saat ausbringen, die Wintersaat. Figuratively: die Saat des Misstrauens säen (to sow the seeds of mistrust). Das Saatgut is seed stock, and der Samen is a single seed. The proverb Was der Mensch sät, das wird er ernten (you reap what you sow) is from the Bible. Säen means to sow. Plural: die Saaten."
+}

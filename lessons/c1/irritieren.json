@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "irritieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "i-ri-TEE-ren",
+      "ipa": "ɪʁiˈtiːʁən",
+      "notes": ""
+    },
+    "meaning": "to confuse, unsettle; to irritate",
+    "shortDefinition": "To confuse, unsettle; to irritate."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "irritier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "irritier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "irritier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "irritier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "irritier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "irritier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat irritiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Seine Frage hat mich irritiert.",
+      "english": "His question threw me.",
+      "highlight": [
+        "irritiert."
+      ]
+    },
+    {
+      "german": "Das Licht irritiert die Augen.",
+      "english": "The light irritates the eyes.",
+      "highlight": [
+        "irritiert"
+      ]
+    }
+  ],
+  "forms": [
+    "irritiere",
+    "irritierst",
+    "irritiert",
+    "irritieren",
+    "Irritation"
+  ],
+  "memoryHook": "Irritieren: in German, mostly to puzzle or unsettle.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (irritieren)",
+      "answer": "irritiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: irritiert.",
+      "acceptedAnswers": [
+        "irritiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (irritieren, past)",
+      "answer": "irritiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe irritiert.",
+      "acceptedAnswers": [
+        "irritiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does irritieren mean?",
+      "options": [
+        "to confuse",
+        "slowly",
+        "the job"
+      ],
+      "answer": "to confuse",
+      "explanation": "irritieren: to confuse, unsettle; to irritate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In German, irritiert usually means…",
+      "options": [
+        "confused, puzzled",
+        "angry"
+      ],
+      "answer": "confused, puzzled",
+      "explanation": "False friend.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Irritation is…",
+      "options": [
+        "confusion; irritation (skin)",
+        "irrigation"
+      ],
+      "answer": "confusion; irritation (skin)",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "-ieren verbs form the perfect…",
+      "options": [
+        "without ge-",
+        "with ge-"
+      ],
+      "answer": "without ge-",
+      "explanation": "hat irritiert.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Irritieren is a partial false friend. In German, it usually means to confuse or unsettle: Ich war irritiert means I was puzzled or taken aback, not necessarily annoyed. Lass dich nicht irritieren means don't let it put you off. It does mean to irritate physically: Das Mittel kann die Haut irritieren. For annoyance, Germans say ärgern or nerven. Die Irritation is confusion. Perfect without ge-: hat irritiert."
+}

@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Diagnostik",
+    "partOfSpeech": "noun, feminine (die Diagnostik)",
+    "pronunciation": {
+      "respelling": "di-a-GNOS-tik",
+      "ipa": "diaˈɡnɔstɪk",
+      "notes": "Usually no plural."
+    },
+    "meaning": "diagnostics",
+    "shortDefinition": "Diagnostics."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Diagnostik, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Diagnostik"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Klinik ist auf Diagnostik spezialisiert.",
+      "english": "The clinic specialises in diagnostics.",
+      "highlight": [
+        "Diagnostik"
+      ]
+    },
+    {
+      "german": "Moderne Diagnostik nutzt künstliche Intelligenz.",
+      "english": "Modern diagnostics uses artificial intelligence.",
+      "highlight": [
+        "Diagnostik"
+      ]
+    }
+  ],
+  "forms": [
+    "die Diagnostik",
+    "Diagnose",
+    "diagnostizieren"
+  ],
+  "memoryHook": "Diagnostik: the art of making a Diagnose.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Diagnostik",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Diagnostik is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Diagnostik mean?",
+      "options": [
+        "to open",
+        "the station",
+        "diagnostics"
+      ],
+      "answer": "diagnostics",
+      "explanation": "Diagnostik: diagnostics.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Diagnose is…",
+      "options": [
+        "a diagnosis",
+        "diagnostics"
+      ],
+      "answer": "a diagnosis",
+      "explanation": "Single diagnosis.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Diagnostizieren means…",
+      "options": [
+        "to diagnose",
+        "to treat"
+      ],
+      "answer": "to diagnose",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Diagnostik refers to…",
+      "options": [
+        "the methods and field of diagnosis",
+        "a disease"
+      ],
+      "answer": "the methods and field of diagnosis",
+      "explanation": "Field.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Diagnostik is diagnostics, the field and methods of diagnosis: Labordiagnostik, bildgebende Diagnostik (imaging). One single diagnosis is die Diagnose, and the verb is diagnostizieren. German contributions include Wilhelm Röntgen's discovery of X-rays in Würzburg in 1895, which won the first Nobel Prize in physics; X-rays are still called Röntgenstrahlen in German. It has no plural."
+}

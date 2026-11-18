@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "zwecks",
+    "partOfSpeech": "preposition (+ genitive)",
+    "pronunciation": {
+      "respelling": "tsveks",
+      "ipa": "t͡svɛks",
+      "notes": ""
+    },
+    "meaning": "for the purpose of",
+    "shortDefinition": "For the purpose of."
+  },
+  "sampleSentences": [
+    {
+      "german": "Zwecks Terminvereinbarung rufen Sie bitte an.",
+      "english": "Please call to arrange an appointment.",
+      "highlight": [
+        "Zwecks"
+      ]
+    },
+    {
+      "german": "Wir benötigen Ihre Daten zwecks Überprüfung.",
+      "english": "We need your details for verification purposes.",
+      "highlight": [
+        "zwecks"
+      ]
+    }
+  ],
+  "forms": [
+    "Zweck"
+  ],
+  "memoryHook": "Zwecks: officialese for 'for the Zweck of'.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does zwecks mean?",
+      "options": [
+        "the bed",
+        "for the purpose of",
+        "expensive"
+      ],
+      "answer": "for the purpose of",
+      "explanation": "zwecks: for the purpose of.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "bureaucratic",
+        "casual"
+      ],
+      "answer": "bureaucratic",
+      "explanation": "Official German.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday alternative:",
+      "options": [
+        "um … zu / für",
+        "wegen"
+      ],
+      "answer": "um … zu / für",
+      "explanation": "Simpler.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "From…",
+      "options": [
+        "der Zweck (purpose)",
+        "zwei"
+      ],
+      "answer": "der Zweck (purpose)",
+      "explanation": "Zweck.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "___ Klärung des Sachverhalts (for the purpose of)",
+      "answer": "Zwecks",
+      "fullAnswer": "Zwecks Klärung des Sachverhalts",
+      "explanation": "zwecks + genitive.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Zwecks means for the purpose of, a stiff preposition typical of letters from authorities and companies: zwecks Überprüfung, zwecks Terminabsprache. It takes the genitive, though the noun often appears without an article. In normal speech you'd say für or um … zu: Ruf an, um einen Termin zu machen. It comes from der Zweck (purpose): Das hat keinen Zweck (there's no point). Der Zweck heiligt die Mittel means the end justifies the means."
+}

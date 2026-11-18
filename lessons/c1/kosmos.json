@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kosmos",
+    "partOfSpeech": "noun, masculine (der Kosmos)",
+    "pronunciation": {
+      "respelling": "KOS-mos",
+      "ipa": "ˈkɔsmɔs",
+      "notes": "Usually no plural."
+    },
+    "meaning": "cosmos, universe",
+    "shortDefinition": "Cosmos, universe."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Kosmos, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Kosmos"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Kosmos ist unendlich groß.",
+      "english": "The cosmos is infinitely large.",
+      "highlight": [
+        "Kosmos"
+      ]
+    },
+    {
+      "german": "Er lebt in seinem eigenen kleinen Kosmos.",
+      "english": "He lives in his own little world.",
+      "highlight": [
+        "Kosmos."
+      ]
+    }
+  ],
+  "forms": [
+    "der Kosmos",
+    "kosmisch"
+  ],
+  "memoryHook": "Kosmos: the ordered (Greek kosmos) universe.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kosmos",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Kosmos is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kosmos mean?",
+      "options": [
+        "the evening",
+        "the child",
+        "cosmos"
+      ],
+      "answer": "cosmos",
+      "explanation": "Kosmos: cosmos, universe.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Alexander von Humboldt wrote…",
+      "options": [
+        "Kosmos",
+        "Faust"
+      ],
+      "answer": "Kosmos",
+      "explanation": "Humboldt.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kosmisch means…",
+      "options": [
+        "cosmic",
+        "cosmetic"
+      ],
+      "answer": "cosmic",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kosmonaut is…",
+      "options": [
+        "a (Soviet/Russian) cosmonaut",
+        "a cosmetician"
+      ],
+      "answer": "a (Soviet/Russian) cosmonaut",
+      "explanation": "Cosmonaut.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Kosmos is the cosmos or universe: die Entstehung des Kosmos. Figuratively, it's a self-contained world: der Kosmos einer Kleinstadt. Alexander von Humboldt's five-volume Kosmos (1845–1862) tried to describe the entire physical world and was a bestseller. Kosmisch means cosmic, and der Kosmonaut a Soviet or Russian astronaut. From Greek kosmos (order, world). It has no plural in normal use."
+}

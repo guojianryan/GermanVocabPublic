@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Interessent",
+    "partOfSpeech": "noun, masculine (der Interessent)",
+    "pronunciation": {
+      "respelling": "in-te-re-SENT",
+      "ipa": "ɪntəʁɛˈsɛnt",
+      "notes": "Plural: die Interessenten."
+    },
+    "meaning": "interested party, prospective buyer/applicant",
+    "shortDefinition": "Interested party, prospective buyer/applicant."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Interessent, plural die Interessenten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Interessent"
+        },
+        {
+          "label": "More than one",
+          "value": "die Interessenten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Für die Wohnung gibt es viele Interessenten.",
+      "english": "There are many interested parties for the flat.",
+      "highlight": [
+        "Interessenten."
+      ]
+    },
+    {
+      "german": "Die Interessentin besichtigte das Haus.",
+      "english": "The prospective buyer viewed the house.",
+      "highlight": [
+        "Interessentin"
+      ]
+    }
+  ],
+  "forms": [
+    "Interessenten",
+    "die Interessenten",
+    "der Interessent",
+    "Interessentin"
+  ],
+  "memoryHook": "Interessent: not just interested, but ready to act.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Interessent",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Interessent is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Interessent, zwei ___",
+      "answer": "Interessenten",
+      "fullAnswer": "ein Interessent, zwei Interessenten",
+      "explanation": "The plural is Interessenten.",
+      "acceptedAnswers": [
+        "Interessenten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Interessent mean?",
+      "options": [
+        "never",
+        "the door",
+        "interested party"
+      ],
+      "answer": "interested party",
+      "explanation": "Interessent: interested party, prospective buyer/applicant.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Interessent is a…",
+      "options": [
+        "weak noun (den Interessenten)",
+        "strong noun"
+      ],
+      "answer": "weak noun (den Interessenten)",
+      "explanation": "-en in all cases but nominative.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Feminine form:",
+      "options": [
+        "die Interessentin",
+        "die Interessente"
+      ],
+      "answer": "die Interessentin",
+      "explanation": "-in.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "An Interessent for a flat is…",
+      "options": [
+        "someone who wants to rent or buy it",
+        "the landlord"
+      ],
+      "answer": "someone who wants to rent or buy it",
+      "explanation": "Prospect.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Interesse is…",
+      "options": [
+        "interest",
+        "intersection"
+      ],
+      "answer": "interest",
+      "explanation": "Base noun.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Der Interessent is not just anyone who is interested, it's a prospective customer or applicant: Es gibt zehn Interessenten für das Auto. It's a weak noun (den Interessenten, dem Interessenten), and the female form is die Interessentin. Wohnungsanzeigen end with Interessenten melden sich bitte unter … Don't confuse it with das Interesse (interest), which is a neuter noun, and die Interessengemeinschaft (a community of shared interests)."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zeitumstellung",
+    "partOfSpeech": "noun, feminine (die Zeitumstellung)",
+    "pronunciation": {
+      "respelling": "TSAIT-um-shte-lung",
+      "ipa": "ˈt͡saɪ̯tʔʊmˌʃtɛlʊŋ",
+      "notes": "Plural: die Zeitumstellungen."
+    },
+    "meaning": "clock change (daylight saving)",
+    "shortDefinition": "Clock change (daylight saving)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Zeitumstellung, plural die Zeitumstellungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Zeitumstellung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Zeitumstellungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In der Nacht der Zeitumstellung wird die Uhr eine Stunde vorgestellt.",
+      "english": "On the night of the clock change, clocks go forward an hour.",
+      "highlight": [
+        "Zeitumstellung"
+      ]
+    },
+    {
+      "german": "Viele leiden unter der Zeitumstellung.",
+      "english": "Many people suffer from the clock change.",
+      "highlight": [
+        "Zeitumstellung."
+      ]
+    }
+  ],
+  "forms": [
+    "Zeitumstellungen",
+    "die Zeitumstellung"
+  ],
+  "memoryHook": "Zeitumstellung: umstellen (resetting) the Zeit.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zeitumstellung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Zeitumstellung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Zeitumstellung, zwei ___",
+      "answer": "Zeitumstellungen",
+      "fullAnswer": "ein Zeitumstellung, zwei Zeitumstellungen",
+      "explanation": "The plural is Zeitumstellungen.",
+      "acceptedAnswers": [
+        "Zeitumstellungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zeitumstellung mean?",
+      "options": [
+        "the key",
+        "clock change (daylight saving)",
+        "the child"
+      ],
+      "answer": "clock change (daylight saving)",
+      "explanation": "Zeitumstellung: clock change (daylight saving).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Summer time starts on…",
+      "options": [
+        "the last Sunday in March",
+        "1 April"
+      ],
+      "answer": "the last Sunday in March",
+      "explanation": "March.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Sommerzeit is…",
+      "options": [
+        "daylight saving time",
+        "summer holidays"
+      ],
+      "answer": "daylight saving time",
+      "explanation": "Summer time.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In 2019 the European Parliament voted to…",
+      "options": [
+        "abolish the clock change (not yet implemented)",
+        "keep it forever"
+      ],
+      "answer": "abolish the clock change (not yet implemented)",
+      "explanation": "EU.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Zeitumstellung is the clock change: on the last Sunday in March, clocks go forward to Sommerzeit, and on the last Sunday in October back to Winterzeit (officially Normalzeit). West Germany reintroduced summer time in 1980. In 2019 the European Parliament voted to end the clock changes, but member states have not agreed, so it continues. A memory aid: im Frühling stellt man die Gartenmöbel vor das Haus, im Herbst zurück. Plural: die Zeitumstellungen."
+}

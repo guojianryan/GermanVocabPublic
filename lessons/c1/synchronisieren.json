@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "synchronisieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "zün-kro-ni-ZEE-ren",
+      "ipa": "zʏnkʁoniˈziːʁən",
+      "notes": ""
+    },
+    "meaning": "to synchronise; to dub (films)",
+    "shortDefinition": "To synchronise; to dub (films)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "synchronisier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "synchronisier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "synchronisier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "synchronisier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "synchronisier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "synchronisier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat synchronisiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die meisten Filme werden in Deutschland synchronisiert.",
+      "english": "Most films are dubbed in Germany.",
+      "highlight": [
+        "synchronisiert."
+      ]
+    },
+    {
+      "german": "Das Handy synchronisiert die Kontakte automatisch.",
+      "english": "The phone syncs the contacts automatically.",
+      "highlight": [
+        "synchronisiert"
+      ]
+    }
+  ],
+  "forms": [
+    "synchronisiere",
+    "synchronisierst",
+    "synchronisiert",
+    "synchronisieren",
+    "Synchronisation"
+  ],
+  "memoryHook": "Synchronisieren: make things happen at the same (syn) time (chronos).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (synchronisieren)",
+      "answer": "synchronisiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: synchronisiert.",
+      "acceptedAnswers": [
+        "synchronisiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (synchronisieren, past)",
+      "answer": "synchronisiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe synchronisiert.",
+      "acceptedAnswers": [
+        "synchronisiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does synchronisieren mean?",
+      "options": [
+        "the flower",
+        "the bread",
+        "to synchronise"
+      ],
+      "answer": "to synchronise",
+      "explanation": "synchronisieren: to synchronise; to dub (films).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Synchronfassung is…",
+      "options": [
+        "the dubbed version",
+        "the original"
+      ],
+      "answer": "the dubbed version",
+      "explanation": "Dubbed.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "OmU means…",
+      "options": [
+        "original with subtitles",
+        "dubbed"
+      ],
+      "answer": "original with subtitles",
+      "explanation": "OmU.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Synchronsprecher is…",
+      "options": [
+        "dubbing actor",
+        "a translator"
+      ],
+      "answer": "dubbing actor",
+      "explanation": "Voice.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Synchronisieren means to synchronise (Daten, Uhren synchronisieren) and to dub films: Fast alle ausländischen Filme werden in Deutschland synchronisiert. Germany has a huge dubbing industry; famous Hollywood stars have fixed German voices (Synchronsprecher). Cinemas showing originals label them OV (Originalversion) or OmU (Original mit Untertiteln). Perfect without ge-: hat synchronisiert."
+}

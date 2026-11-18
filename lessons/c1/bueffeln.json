@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "büffeln",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "BÜ-feln",
+      "ipa": "ˈbʏfl̩n",
+      "notes": ""
+    },
+    "meaning": "to cram, swot (colloquial)",
+    "shortDefinition": "To cram, swot (colloquial)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "büffl|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "büffel|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "büffel|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "büffel|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "büffel|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "büffel|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gebüffelt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie büffelt für das Abitur.",
+      "english": "She's cramming for her A-levels.",
+      "highlight": [
+        "büffelt"
+      ]
+    },
+    {
+      "german": "Wir haben die ganze Nacht Vokabeln gebüffelt.",
+      "english": "We swotted vocabulary all night.",
+      "highlight": [
+        "gebüffelt."
+      ]
+    }
+  ],
+  "forms": [
+    "büffle",
+    "büffelst",
+    "büffelt",
+    "büffeln",
+    "gebüffelt",
+    "büffelte"
+  ],
+  "memoryHook": "Büffeln: work as hard as a Büffel (buffalo).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (büffeln)",
+      "answer": "büffelt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: büffelt.",
+      "acceptedAnswers": [
+        "bueffelt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (büffeln, past)",
+      "answer": "gebüffelt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gebüffelt.",
+      "acceptedAnswers": [
+        "gebueffelt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does büffeln mean?",
+      "options": [
+        "the job",
+        "to cram",
+        "the family"
+      ],
+      "answer": "to cram",
+      "explanation": "büffeln: to cram, swot (colloquial).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Büffeln means…",
+      "options": [
+        "to study hard, cram",
+        "to buffet"
+      ],
+      "answer": "to study hard, cram",
+      "explanation": "Cram.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Büffel is…",
+      "options": [
+        "buffalo",
+        "a buffet"
+      ],
+      "answer": "buffalo",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "pauken, lernen",
+        "faulenzen"
+      ],
+      "answer": "pauken, lernen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Büffeln (colloquial) means to cram or swot: für eine Prüfung büffeln, Vokabeln büffeln. It's a synonym of pauken. The image is of working as hard as a Büffel (buffalo). Students often büffeln before the Abitur, the final school exams. Regular: büffelte, gebüffelt. The plural of der Büffel is die Büffel."
+}

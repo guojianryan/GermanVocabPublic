@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schnitzer",
+    "partOfSpeech": "noun, masculine (der Schnitzer)",
+    "pronunciation": {
+      "respelling": "SHNIT-ser",
+      "ipa": "ˈʃnɪt͡sɐ",
+      "notes": "Plural: die Schnitzer."
+    },
+    "meaning": "blunder, howler; woodcarver",
+    "shortDefinition": "Blunder, howler; woodcarver."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schnitzer, plural die Schnitzer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schnitzer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schnitzer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Test hat er ein paar grobe Schnitzer gemacht.",
+      "english": "He made a few bad blunders in the test.",
+      "highlight": [
+        "Schnitzer"
+      ]
+    },
+    {
+      "german": "Der Schnitzer verkauft Holzfiguren.",
+      "english": "The woodcarver sells wooden figures.",
+      "highlight": [
+        "Schnitzer"
+      ]
+    }
+  ],
+  "forms": [
+    "der Schnitzer",
+    "Schnitzers"
+  ],
+  "memoryHook": "Schnitzer: a slip of the carving knife (schnitzen).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schnitzer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schnitzer is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schnitzer, zwei ___",
+      "answer": "Schnitzer",
+      "fullAnswer": "ein Schnitzer, zwei Schnitzer",
+      "explanation": "The plural is Schnitzer.",
+      "acceptedAnswers": [
+        "Schnitzer"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schnitzer mean?",
+      "options": [
+        "to sleep",
+        "blunder",
+        "to wait"
+      ],
+      "answer": "blunder",
+      "explanation": "Schnitzer: blunder, howler; woodcarver.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einen Schnitzer machen means…",
+      "options": [
+        "to make a blunder",
+        "to carve wood"
+      ],
+      "answer": "to make a blunder",
+      "explanation": "Blunder.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schnitzen means…",
+      "options": [
+        "to carve (wood)",
+        "to snatch"
+      ],
+      "answer": "to carve (wood)",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym (mistake):",
+      "options": [
+        "der Patzer, der Fehler",
+        "der Erfolg"
+      ],
+      "answer": "der Patzer, der Fehler",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Schnitzer is a blunder or howler: ein grober Schnitzer, ein grammatischer Schnitzer. It also means a woodcarver, from schnitzen (to carve): Oberammergau and the Erzgebirge are famous for their Holzschnitzer and carved nativity figures and nutcrackers. Synonyms for mistake: der Patzer, der Fauxpas, der Lapsus. The plural is the same: die Schnitzer."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zuschuss",
+    "partOfSpeech": "noun, masculine (der Zuschuss)",
+    "pronunciation": {
+      "respelling": "TSOO-shus",
+      "ipa": "ˈt͡suːˌʃʊs",
+      "notes": "Plural: die Zuschüsse."
+    },
+    "meaning": "subsidy, grant, allowance",
+    "shortDefinition": "Subsidy, grant, allowance."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Zuschuss, plural die Zuschüsse.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Zuschuss"
+        },
+        {
+          "label": "More than one",
+          "value": "die Zuschüsse"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Firma zahlt einen Zuschuss zum Deutschlandticket.",
+      "english": "The company pays a subsidy towards the Deutschlandticket.",
+      "highlight": [
+        "Zuschuss"
+      ]
+    },
+    {
+      "german": "Für die Wärmepumpe gibt es staatliche Zuschüsse.",
+      "english": "There are state grants for heat pumps.",
+      "highlight": [
+        "Zuschüsse."
+      ]
+    }
+  ],
+  "forms": [
+    "Zuschüsse",
+    "die Zuschüsse",
+    "der Zuschuss",
+    "bezuschussen"
+  ],
+  "memoryHook": "Zuschuss: money shot (schießen) in to help (zu).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zuschuss",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Zuschuss is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Zuschuss, zwei ___",
+      "answer": "Zuschüsse",
+      "fullAnswer": "ein Zuschuss, zwei Zuschüsse",
+      "explanation": "The plural is Zuschüsse.",
+      "acceptedAnswers": [
+        "Zuschuesse"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zuschuss mean?",
+      "options": [
+        "to open",
+        "to learn",
+        "subsidy"
+      ],
+      "answer": "subsidy",
+      "explanation": "Zuschuss: subsidy, grant, allowance.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Zuschuss is…",
+      "options": [
+        "a contribution of money",
+        "a shot"
+      ],
+      "answer": "a contribution of money",
+      "explanation": "Subsidy.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Bezuschussen means…",
+      "options": [
+        "to subsidise",
+        "to shoot at"
+      ],
+      "answer": "to subsidise",
+      "explanation": "Verb.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Förderung, die Subvention",
+        "der Kredit"
+      ],
+      "answer": "die Förderung, die Subvention",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Zuschuss is a subsidy, grant or allowance: ein staatlicher Zuschuss, der Arbeitgeberzuschuss. German employers often give a Zuschuss for public transport, lunch or childcare, and the state offers Zuschüsse for energy-efficient renovation, such as heat pumps. Unlike a Kredit, it doesn't have to be repaid. Zuschießen means to contribute money, and bezuschussen to subsidise. Plural: die Zuschüsse."
+}

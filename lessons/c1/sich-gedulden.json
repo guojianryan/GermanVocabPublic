@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "(sich) gedulden",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ge-DUL-den",
+      "ipa": "ɡəˈdʊldn̩",
+      "notes": ""
+    },
+    "meaning": "to be patient, wait patiently",
+    "shortDefinition": "To be patient, wait patiently."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "geduld|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "geduld|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "geduld|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "geduld|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "geduld|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "geduld|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geduldet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bitte gedulden Sie sich einen Moment.",
+      "english": "Please bear with us for a moment.",
+      "highlight": [
+        "gedulden"
+      ]
+    },
+    {
+      "german": "Wir müssen uns noch etwas gedulden.",
+      "english": "We have to be patient a little longer.",
+      "highlight": [
+        "gedulden."
+      ]
+    }
+  ],
+  "forms": [
+    "gedulde",
+    "geduldest",
+    "geduldet",
+    "gedulden"
+  ],
+  "memoryHook": "Sich gedulden: have Geduld (patience).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ ((sich) gedulden)",
+      "answer": "geduldet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: geduldet.",
+      "acceptedAnswers": [
+        "geduldet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe mich schon ___. ((sich) gedulden, past)",
+      "answer": "geduldet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe mich geduldet.",
+      "acceptedAnswers": [
+        "geduldet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does (sich) gedulden mean?",
+      "options": [
+        "to travel",
+        "to be patient",
+        "to wait"
+      ],
+      "answer": "to be patient",
+      "explanation": "(sich) gedulden: to be patient, wait patiently.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich gedulden means…",
+      "options": [
+        "to be patient",
+        "to tolerate"
+      ],
+      "answer": "to be patient",
+      "explanation": "Patient.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Dulden means…",
+      "options": [
+        "to tolerate",
+        "to wait"
+      ],
+      "answer": "to tolerate",
+      "explanation": "Contrast.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Geduld is…",
+      "options": [
+        "patience",
+        "guilt"
+      ],
+      "answer": "patience",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Sich gedulden means to be patient or wait: Bitte gedulden Sie sich, typical in phone queues and on official letters. It's formal; colloquially people say warten or Geduld haben. Die Geduld is patience: Meine Geduld ist am Ende. Don't confuse it with dulden (to tolerate): Kritik wird nicht geduldet. Perfect: hat sich geduldet."
+}

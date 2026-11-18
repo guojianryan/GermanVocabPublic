@@ -1,0 +1,158 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Ortsteil",
+    "partOfSpeech": "noun, masculine (der Ortsteil)",
+    "pronunciation": {
+      "respelling": "ORTS-tail",
+      "ipa": "ˈɔʁt͡sˌtaɪ̯l",
+      "notes": "Plural: die Ortsteile."
+    },
+    "meaning": "district, part of a town or village",
+    "shortDefinition": "District, part of a town or village."
+  },
+  "etymology": {
+    "title": "Where it comes from",
+    "parts": [
+      {
+        "part": "Ort",
+        "meaning": "place"
+      },
+      {
+        "part": "s",
+        "meaning": "linking letter"
+      },
+      {
+        "part": "Teil",
+        "meaning": "part"
+      }
+    ],
+    "literalMeaning": "place part"
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Ortsteil, plural die Ortsteile.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Ortsteil"
+        },
+        {
+          "label": "More than one",
+          "value": "die Ortsteile"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie wohnt in einem Ortsteil von Heidelberg.",
+      "english": "She lives in a district of Heidelberg.",
+      "highlight": [
+        "Ortsteil"
+      ]
+    },
+    {
+      "german": "Der Ortsteil wurde 1974 eingemeindet.",
+      "english": "The district was incorporated in 1974.",
+      "highlight": [
+        "Ortsteil"
+      ]
+    }
+  ],
+  "forms": [
+    "Ortsteile",
+    "die Ortsteile",
+    "der Ortsteil"
+  ],
+  "memoryHook": "Ortsteil: a piece of the place.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Ortsteil",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Ortsteil is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Ortsteil, zwei ___",
+      "answer": "Ortsteile",
+      "fullAnswer": "ein Ortsteil, zwei Ortsteile",
+      "explanation": "The plural is Ortsteile.",
+      "acceptedAnswers": [
+        "Ortsteile"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Ortsteil mean?",
+      "options": [
+        "the street",
+        "quiet",
+        "district"
+      ],
+      "answer": "district",
+      "explanation": "Ortsteil: district, part of a town or village.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eingemeindet werden means…",
+      "options": [
+        "to be incorporated into a larger municipality",
+        "to be demolished"
+      ],
+      "answer": "to be incorporated into a larger municipality",
+      "explanation": "Municipal merger.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ortsteil is bigger than…",
+      "options": [
+        "a street",
+        "a federal state"
+      ],
+      "answer": "a street",
+      "explanation": "Part of a town.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Ortsteile",
+        "Ortsteilen"
+      ],
+      "answer": "Ortsteile",
+      "explanation": "-e.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ortsteil is a…",
+      "options": [
+        "part of a Gemeinde",
+        "region"
+      ],
+      "answer": "part of a Gemeinde",
+      "explanation": "Subdivision.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Der Ortsteil is a district or part of a municipality, often a formerly independent village that has been incorporated (eingemeindet) into a larger town or city. Many German municipal reforms in the 1970s merged small villages into larger Gemeinden, so addresses often read like Stadt X, Ortsteil Y. In big cities, people say Stadtteil or Viertel for the equivalent; Ortsteil sounds more rural or administrative."
+}

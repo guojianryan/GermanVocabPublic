@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "bannen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "BAN-en",
+      "ipa": "ˈbanən",
+      "notes": ""
+    },
+    "meaning": "to banish; to captivate; to ward off",
+    "shortDefinition": "To banish; to captivate; to ward off."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "bann|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "bann|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "bann|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "bann|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "bann|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "bann|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gebannt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Zuschauer verfolgten das Spiel wie gebannt.",
+      "english": "The spectators watched the match spellbound.",
+      "highlight": [
+        "gebannt."
+      ]
+    },
+    {
+      "german": "Die Gefahr ist gebannt.",
+      "english": "The danger has been averted.",
+      "highlight": [
+        "gebannt."
+      ]
+    }
+  ],
+  "forms": [
+    "banne",
+    "bannst",
+    "bannt",
+    "bannen",
+    "gebannt",
+    "Bann",
+    "verbannen"
+  ],
+  "memoryHook": "Bannen: put under a spell, or keep danger away.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (bannen)",
+      "answer": "bannt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: bannt.",
+      "acceptedAnswers": [
+        "bannt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (bannen, past)",
+      "answer": "gebannt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gebannt.",
+      "acceptedAnswers": [
+        "gebannt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does bannen mean?",
+      "options": [
+        "to banish",
+        "the flower",
+        "to help"
+      ],
+      "answer": "to banish",
+      "explanation": "bannen: to banish; to captivate; to ward off.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wie gebannt means…",
+      "options": [
+        "spellbound",
+        "banned"
+      ],
+      "answer": "spellbound",
+      "explanation": "Spellbound.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gefahr ist gebannt means…",
+      "options": [
+        "the danger is averted",
+        "the danger is forbidden"
+      ],
+      "answer": "the danger is averted",
+      "explanation": "Averted.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Bann is…",
+      "options": [
+        "spell; ban, excommunication",
+        "a train"
+      ],
+      "answer": "spell; ban, excommunication",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Bannen means to captivate or hold spellbound: Der Film bannte das Publikum; wie gebannt zuhören (to listen spellbound). It also means to avert or ward off: eine Gefahr bannen. Something can also be auf Film gebannt (captured on film). Historically, der Bann was excommunication: Luther was put under the Kirchenbann in 1521. To ban something is usually verbieten, and to exile someone verbannen."
+}

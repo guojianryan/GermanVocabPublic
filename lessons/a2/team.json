@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "A2",
+  "levelSource": "Goethe-Zertifikat A2 Wortliste",
+  "lessonType": "card",
+  "word": {
+    "headword": "Team",
+    "partOfSpeech": "noun, neuter (das Team)",
+    "pronunciation": {
+      "respelling": "TEEM",
+      "ipa": "tiːm",
+      "notes": "Plural: die Teams."
+    },
+    "meaning": "team",
+    "shortDefinition": "Team."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Team, plural die Teams.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Team"
+        },
+        {
+          "label": "More than one",
+          "value": "die Teams"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Unser Team trifft sich montags.",
+      "english": "Our team meets on Mondays.",
+      "highlight": [
+        "Team"
+      ]
+    },
+    {
+      "german": "Ich arbeite gern im Team.",
+      "english": "I like working in a team.",
+      "highlight": [
+        "Team."
+      ]
+    },
+    {
+      "german": "Das Team hat gewonnen.",
+      "english": "The team won.",
+      "highlight": [
+        "Team"
+      ]
+    }
+  ],
+  "forms": [
+    "Teams",
+    "die Teams",
+    "das Team"
+  ],
+  "memoryHook": "Das Team (English). Sport: die Mannschaft.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Team",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Team is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Team, zwei ___",
+      "answer": "Teams",
+      "fullAnswer": "ein Team, zwei Teams",
+      "explanation": "The plural is Teams.",
+      "acceptedAnswers": [
+        "Teams"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Team mean?",
+      "options": [
+        "the station",
+        "tomorrow",
+        "team"
+      ],
+      "answer": "team",
+      "explanation": "Team: team.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "das",
+        "die"
+      ],
+      "answer": "das",
+      "explanation": "Das Team.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A German synonym (sport):",
+      "options": [
+        "die Mannschaft",
+        "die Gruppe only"
+      ],
+      "answer": "die Mannschaft",
+      "explanation": "Mannschaft.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Das Team is a team, borrowed from English and pronounced the English way. It's neuter in German. Teamarbeit is teamwork, and teamfähig (able to work in a team) appears in nearly every job ad. Toll, ein anderer macht's (TEAM) is an ironic German acronym joke: 'Great, someone else does it'. The native word is die Mannschaft."
+}

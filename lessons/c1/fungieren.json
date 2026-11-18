@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "fungieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fun-GEE-ren",
+      "ipa": "fʊŋˈɡiːʁən",
+      "notes": ""
+    },
+    "meaning": "to act, serve (as)",
+    "shortDefinition": "To act, serve (as)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "fungier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "fungier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "fungier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "fungier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "fungier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "fungier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat fungiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er fungiert als Sprecher der Gruppe.",
+      "english": "He acts as the group's spokesperson.",
+      "highlight": [
+        "fungiert"
+      ]
+    },
+    {
+      "german": "Das alte Gebäude fungiert heute als Museum.",
+      "english": "The old building now serves as a museum.",
+      "highlight": [
+        "fungiert"
+      ]
+    }
+  ],
+  "forms": [
+    "fungiere",
+    "fungierst",
+    "fungiert",
+    "fungieren"
+  ],
+  "memoryHook": "Fungieren: perform a function as (als) something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (fungieren)",
+      "answer": "fungiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: fungiert.",
+      "acceptedAnswers": [
+        "fungiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (fungieren, past)",
+      "answer": "fungiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe fungiert.",
+      "acceptedAnswers": [
+        "fungiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does fungieren mean?",
+      "options": [
+        "to act",
+        "the bread",
+        "the window"
+      ],
+      "answer": "to act",
+      "explanation": "fungieren: to act, serve (as).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Fungieren is always used with…",
+      "options": [
+        "als",
+        "für"
+      ],
+      "answer": "als",
+      "explanation": "als.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "dienen als, tätig sein als",
+        "funktionieren"
+      ],
+      "answer": "dienen als, tätig sein als",
+      "explanation": "Serve.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Funktionieren means…",
+      "options": [
+        "to work, function",
+        "to act as"
+      ],
+      "answer": "to work, function",
+      "explanation": "Different.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Fungieren als means to act or serve as: als Vermittler fungieren (to act as mediator), Die Turnhalle fungiert als Notunterkunft (the gym serves as an emergency shelter). It's somewhat formal; in speech, people say dienen als or sein. Don't mix it up with funktionieren (to work, function): Die Maschine funktioniert nicht. From Latin fungi (to perform). Perfect without ge-: hat fungiert."
+}

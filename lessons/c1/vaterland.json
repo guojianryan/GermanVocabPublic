@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vaterland",
+    "partOfSpeech": "noun, neuter (das Vaterland)",
+    "pronunciation": {
+      "respelling": "FAA-ter-lant",
+      "ipa": "ˈfaːtɐˌlant",
+      "notes": "Plural: die Vaterländer."
+    },
+    "meaning": "fatherland, native country",
+    "shortDefinition": "Fatherland, native country."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Vaterland, plural die Vaterländer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Vaterland"
+        },
+        {
+          "label": "More than one",
+          "value": "die Vaterländer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Lied besingt das Vaterland.",
+      "english": "The song praises the fatherland.",
+      "highlight": [
+        "Vaterland."
+      ]
+    },
+    {
+      "german": "Viele Deutsche benutzen das Wort Vaterland nur ungern.",
+      "english": "Many Germans use the word Vaterland reluctantly.",
+      "highlight": [
+        "Vaterland"
+      ]
+    }
+  ],
+  "forms": [
+    "Vaterländer",
+    "die Vaterländer",
+    "das Vaterland",
+    "vaterländisch"
+  ],
+  "memoryHook": "Vaterland: a word with a heavy history.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vaterland",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Vaterland is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Vaterland, zwei ___",
+      "answer": "Vaterländer",
+      "fullAnswer": "ein Vaterland, zwei Vaterländer",
+      "explanation": "The plural is Vaterländer.",
+      "acceptedAnswers": [
+        "Vaterlaender"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vaterland mean?",
+      "options": [
+        "the door",
+        "fatherland",
+        "to open"
+      ],
+      "answer": "fatherland",
+      "explanation": "Vaterland: fatherland, native country.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The German anthem mentions…",
+      "options": [
+        "das deutsche Vaterland",
+        "die deutsche Heimat"
+      ],
+      "answer": "das deutsche Vaterland",
+      "explanation": "Third verse.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Today, Vaterland sounds…",
+      "options": [
+        "old-fashioned, nationalistic",
+        "trendy"
+      ],
+      "answer": "old-fashioned, nationalistic",
+      "explanation": "Connotation.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "A more neutral word:",
+      "options": [
+        "die Heimat / das Heimatland",
+        "das Ausland"
+      ],
+      "answer": "die Heimat / das Heimatland",
+      "explanation": "Neutral.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Vaterland means fatherland, one's native country. The third verse of the Deutschlandlied, the only one sung as the national anthem, begins Einigkeit und Recht und Freiheit für das deutsche Vaterland. Because of its heavy use in nationalist and Nazi propaganda, many Germans today avoid the word and prefer Heimat or simply Deutschland. Speakers of other languages often use the matching word with fewer qualms. Plural: die Vaterländer."
+}

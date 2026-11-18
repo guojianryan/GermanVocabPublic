@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verwehren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-VAY-ren",
+      "ipa": "fɛɐ̯ˈveːʁən",
+      "notes": ""
+    },
+    "meaning": "to deny, refuse (access, a right)",
+    "shortDefinition": "To deny, refuse (access, a right)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verwehr|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verwehr|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verwehr|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verwehr|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verwehr|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verwehr|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verwehrt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Man verwehrte ihm den Zutritt.",
+      "english": "He was denied entry.",
+      "highlight": [
+        "verwehrte"
+      ]
+    },
+    {
+      "german": "Der Sieg blieb ihr verwehrt.",
+      "english": "Victory was denied to her.",
+      "highlight": [
+        "verwehrt."
+      ]
+    }
+  ],
+  "forms": [
+    "verwehre",
+    "verwehrst",
+    "verwehrt",
+    "verwehren"
+  ],
+  "memoryHook": "Verwehren: block (wehren) someone's way to something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verwehren)",
+      "answer": "verwehrt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verwehrt.",
+      "acceptedAnswers": [
+        "verwehrt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verwehren, past)",
+      "answer": "verwehrt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verwehrt.",
+      "acceptedAnswers": [
+        "verwehrt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verwehren mean?",
+      "options": [
+        "to deny",
+        "tomorrow",
+        "the key"
+      ],
+      "answer": "to deny",
+      "explanation": "verwehren: to deny, refuse (access, a right).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemandem etwas verwehren takes…",
+      "options": [
+        "dative person + accusative thing",
+        "two accusatives"
+      ],
+      "answer": "dative person + accusative thing",
+      "explanation": "Dative.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Etwas bleibt jemandem verwehrt means…",
+      "options": [
+        "someone is denied something",
+        "someone keeps something"
+      ],
+      "answer": "someone is denied something",
+      "explanation": "Denied.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich wehren means…",
+      "options": [
+        "to defend oneself, resist",
+        "to marry"
+      ],
+      "answer": "to defend oneself, resist",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verwehren means to deny or refuse someone something, formal: jemandem den Zutritt verwehren, jemandem ein Recht verwehren. Very common is bleiben + verwehrt: Der Erfolg blieb ihm verwehrt (success eluded him). The root is wehren: sich wehren means to defend oneself, and die Wehr is defence, as in Bundeswehr and Feuerwehr. Not separable: hat verwehrt. Synonyms: verweigern, versagen."
+}

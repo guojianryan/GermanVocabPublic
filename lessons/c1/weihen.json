@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "weihen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "VAI-en",
+      "ipa": "ˈvaɪ̯ən",
+      "notes": ""
+    },
+    "meaning": "to consecrate; to dedicate",
+    "shortDefinition": "To consecrate; to dedicate."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "weih|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "weih|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "weih|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "weih|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "weih|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "weih|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geweiht"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Kirche wurde 1250 geweiht.",
+      "english": "The church was consecrated in 1250.",
+      "highlight": [
+        "geweiht."
+      ]
+    },
+    {
+      "german": "Er wurde zum Priester geweiht.",
+      "english": "He was ordained a priest.",
+      "highlight": [
+        "geweiht."
+      ]
+    }
+  ],
+  "forms": [
+    "weihe",
+    "weihst",
+    "weiht",
+    "weihen",
+    "geweiht",
+    "Weihe",
+    "Weihwasser"
+  ],
+  "memoryHook": "Weihen: make something holy (old weih = holy).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (weihen)",
+      "answer": "weiht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: weiht.",
+      "acceptedAnswers": [
+        "weiht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (weihen, past)",
+      "answer": "geweiht",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geweiht.",
+      "acceptedAnswers": [
+        "geweiht"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does weihen mean?",
+      "options": [
+        "the bread",
+        "to consecrate",
+        "the weather"
+      ],
+      "answer": "to consecrate",
+      "explanation": "weihen: to consecrate; to dedicate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Dem Untergang geweiht means…",
+      "options": [
+        "doomed",
+        "consecrated"
+      ],
+      "answer": "doomed",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Weihnachten comes from…",
+      "options": [
+        "ze den wîhen nahten (in the holy nights)",
+        "weight nights"
+      ],
+      "answer": "ze den wîhen nahten (in the holy nights)",
+      "explanation": "Christmas.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Weihwasser is…",
+      "options": [
+        "holy water",
+        "wine water"
+      ],
+      "answer": "holy water",
+      "explanation": "Holy water.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Weihen means to consecrate (eine Kirche weihen) or ordain (zum Priester weihen), and to dedicate: sein Leben der Wissenschaft weihen. Dem Untergang geweiht means doomed. The old root weih (holy) lives on in Weihnachten (from Middle High German ze den wîhen nahten, in the holy nights), Weihwasser (holy water) and Weihrauch (incense). Regular: weihte, geweiht."
+}

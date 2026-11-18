@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "vermerken",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-MER-ken",
+      "ipa": "fɛɐ̯ˈmɛʁkn̩",
+      "notes": ""
+    },
+    "meaning": "to note, make a note of",
+    "shortDefinition": "To note, make a note of."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "vermerk|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "vermerk|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "vermerk|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "vermerk|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "vermerk|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "vermerk|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat vermerkt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bitte vermerken Sie die Kundennummer auf der Überweisung.",
+      "english": "Please note the customer number on the transfer.",
+      "highlight": [
+        "vermerken"
+      ]
+    },
+    {
+      "german": "Das wurde in den Akten vermerkt.",
+      "english": "That was noted in the files.",
+      "highlight": [
+        "vermerkt."
+      ]
+    }
+  ],
+  "forms": [
+    "vermerke",
+    "vermerkst",
+    "vermerkt",
+    "vermerken",
+    "Vermerk"
+  ],
+  "memoryHook": "Vermerken: put a Vermerk (note) on record.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (vermerken)",
+      "answer": "vermerkt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: vermerkt.",
+      "acceptedAnswers": [
+        "vermerkt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (vermerken, past)",
+      "answer": "vermerkt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe vermerkt.",
+      "acceptedAnswers": [
+        "vermerkt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does vermerken mean?",
+      "options": [
+        "to note",
+        "the key",
+        "the evening"
+      ],
+      "answer": "to note",
+      "explanation": "vermerken: to note, make a note of.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Vermerk is…",
+      "options": [
+        "a note, annotation",
+        "a remark at a party"
+      ],
+      "answer": "a note, annotation",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Etwas positiv vermerken means…",
+      "options": [
+        "to note something approvingly",
+        "to mark it in green"
+      ],
+      "answer": "to note something approvingly",
+      "explanation": "Approve.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich etwas merken means…",
+      "options": [
+        "to remember something",
+        "to mark something"
+      ],
+      "answer": "to remember something",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Vermerken means to note or record in writing: im Kalender vermerken, auf dem Formular vermerken. Der Vermerk is a note or annotation: ein Vermerk in der Akte, the official memo of German bureaucracy, or a stamp such as Vermerk: erledigt. Etwas positiv vermerken means to note something approvingly. Related: sich etwas merken (to remember). Not separable: hat vermerkt."
+}

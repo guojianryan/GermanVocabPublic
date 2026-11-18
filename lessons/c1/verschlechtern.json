@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verschlechtern",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-SHLEKH-tern",
+      "ipa": "fɛɐ̯ˈʃlɛçtɐn",
+      "notes": ""
+    },
+    "meaning": "to worsen, make worse",
+    "shortDefinition": "To worsen, make worse."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verschlechtere"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verschlechter|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verschlechter|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verschlechter|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verschlechter|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verschlechter|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verschlechtert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sein Zustand hat sich verschlechtert.",
+      "english": "His condition has worsened.",
+      "highlight": [
+        "verschlechtert."
+      ]
+    },
+    {
+      "german": "Die neuen Regeln verschlechtern die Lage.",
+      "english": "The new rules make the situation worse.",
+      "highlight": [
+        "verschlechtern"
+      ]
+    }
+  ],
+  "forms": [
+    "verschlechtere",
+    "verschlechterst",
+    "verschlechtert",
+    "verschlechtern",
+    "Verschlechterung"
+  ],
+  "memoryHook": "Verschlechtern: make schlechter (worse).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verschlechtern)",
+      "answer": "verschlechtert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verschlechtert.",
+      "acceptedAnswers": [
+        "verschlechtert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verschlechtern, past)",
+      "answer": "verschlechtert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verschlechtert.",
+      "acceptedAnswers": [
+        "verschlechtert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verschlechtern mean?",
+      "options": [
+        "to worsen",
+        "to open",
+        "to help"
+      ],
+      "answer": "to worsen",
+      "explanation": "verschlechtern: to worsen, make worse.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich verschlechtern means…",
+      "options": [
+        "to get worse",
+        "to worsen something"
+      ],
+      "answer": "to get worse",
+      "explanation": "Reflexive.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite:",
+      "options": [
+        "verbessern",
+        "verschönern"
+      ],
+      "answer": "verbessern",
+      "explanation": "Improve.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Verschlechterung is…",
+      "options": [
+        "deterioration",
+        "an insult"
+      ],
+      "answer": "deterioration",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verschlechtern means to make worse (die Lage verschlechtern) and, reflexively, to get worse: Das Wetter verschlechtert sich, Seine Noten haben sich verschlechtert. Die Verschlechterung is deterioration. The opposite is verbessern (to improve). From schlecht (bad), comparative schlechter. Not separable: hat verschlechtert."
+}

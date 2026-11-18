@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "theologisch",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "te-o-LOH-gish",
+      "ipa": "teoˈloːɡɪʃ",
+      "notes": ""
+    },
+    "meaning": "theological",
+    "shortDefinition": "Theological."
+  },
+  "sampleSentences": [
+    {
+      "german": "Sie hat eine theologische Ausbildung.",
+      "english": "She has a theological training.",
+      "highlight": [
+        "theologische"
+      ]
+    },
+    {
+      "german": "Das ist eine theologische Frage.",
+      "english": "That's a theological question.",
+      "highlight": [
+        "theologische"
+      ]
+    }
+  ],
+  "forms": [
+    "theologische",
+    "theologischen",
+    "Theologie",
+    "Theologe"
+  ],
+  "memoryHook": "Theologisch: to do with theology (theos = god).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does theologisch mean?",
+      "options": [
+        "to sing",
+        "theological",
+        "the family"
+      ],
+      "answer": "theological",
+      "explanation": "theologisch: theological.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Theologie is…",
+      "options": [
+        "theology",
+        "theory"
+      ],
+      "answer": "theology",
+      "explanation": "Noun.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Theologe is…",
+      "options": [
+        "the theologian",
+        "the theory"
+      ],
+      "answer": "the theologian",
+      "explanation": "Weak noun.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "German universities have…",
+      "options": [
+        "Catholic and Protestant theology faculties",
+        "no theology"
+      ],
+      "answer": "Catholic and Protestant theology faculties",
+      "explanation": "Faculties.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Debatte (theological)",
+      "answer": "theologische",
+      "fullAnswer": "eine theologische Debatte",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Theologisch means theological: eine theologische Fakultät, theologische Fragen. Die Theologie is theology, and der Theologe (die Theologin) a theologian, a weak noun: den Theologen. Many German state universities have both katholische and evangelische Theologie faculties, funded through agreements with the churches. Germany's theological tradition includes Luther, Dietrich Bonhoeffer and Joseph Ratzinger (Pope Benedict XVI). From Greek theos (god)."
+}

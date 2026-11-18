@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Taschenbuch",
+    "partOfSpeech": "noun, neuter (das Taschenbuch)",
+    "pronunciation": {
+      "respelling": "TA-shen-bookh",
+      "ipa": "ˈtaʃn̩ˌbuːx",
+      "notes": "Plural: die Taschenbücher."
+    },
+    "meaning": "paperback",
+    "shortDefinition": "Paperback."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Taschenbuch, plural die Taschenbücher.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Taschenbuch"
+        },
+        {
+          "label": "More than one",
+          "value": "die Taschenbücher"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Buch erscheint nächstes Jahr als Taschenbuch.",
+      "english": "The book comes out in paperback next year.",
+      "highlight": [
+        "Taschenbuch."
+      ]
+    },
+    {
+      "german": "Taschenbücher sind billiger als gebundene Ausgaben.",
+      "english": "Paperbacks are cheaper than hardbacks.",
+      "highlight": [
+        "Taschenbücher"
+      ]
+    }
+  ],
+  "forms": [
+    "Taschenbücher",
+    "die Taschenbücher",
+    "das Taschenbuch"
+  ],
+  "memoryHook": "Taschenbuch: a Buch that fits in a Tasche (pocket).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Taschenbuch",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Taschenbuch is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Taschenbuch, zwei ___",
+      "answer": "Taschenbücher",
+      "fullAnswer": "ein Taschenbuch, zwei Taschenbücher",
+      "explanation": "The plural is Taschenbücher.",
+      "acceptedAnswers": [
+        "Taschenbuecher"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Taschenbuch mean?",
+      "options": [
+        "paperback",
+        "to wait",
+        "the weather"
+      ],
+      "answer": "paperback",
+      "explanation": "Taschenbuch: paperback.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Literally, Taschenbuch means…",
+      "options": [
+        "pocket book",
+        "bag book"
+      ],
+      "answer": "pocket book",
+      "explanation": "Pocket.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A hardback is…",
+      "options": [
+        "die gebundene Ausgabe / das Hardcover",
+        "das Festbuch"
+      ],
+      "answer": "die gebundene Ausgabe / das Hardcover",
+      "explanation": "Hardback.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Book prices in Germany are…",
+      "options": [
+        "fixed by law (Buchpreisbindung)",
+        "free"
+      ],
+      "answer": "fixed by law (Buchpreisbindung)",
+      "explanation": "Fixed.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Taschenbuch is a paperback, literally a pocket book; the hardback is die gebundene Ausgabe or das Hardcover. Germany has fixed book prices by law (die Buchpreisbindung), so a book costs the same everywhere, online or in a shop, which helps keep small bookshops alive. The small yellow Reclam booklets are a famous school classic. Plural: die Taschenbücher."
+}

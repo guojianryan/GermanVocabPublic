@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Anwesen",
+    "partOfSpeech": "noun, neuter (das Anwesen)",
+    "pronunciation": {
+      "respelling": "AN-vay-zen",
+      "ipa": "ˈanˌveːzn̩",
+      "notes": "Plural: die Anwesen."
+    },
+    "meaning": "estate, property (large house with grounds)",
+    "shortDefinition": "Estate, property (large house with grounds)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Anwesen, plural die Anwesen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Anwesen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Anwesen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie kaufte ein Anwesen in der Toskana.",
+      "english": "She bought an estate in Tuscany.",
+      "highlight": [
+        "Anwesen"
+      ]
+    },
+    {
+      "german": "Das Anwesen ist von hohen Mauern umgeben.",
+      "english": "The property is surrounded by high walls.",
+      "highlight": [
+        "Anwesen"
+      ]
+    }
+  ],
+  "forms": [
+    "das Anwesen",
+    "die Anwesen",
+    "Anwesenheit",
+    "anwesend"
+  ],
+  "memoryHook": "Anwesen: where you are very much present.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Anwesen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Anwesen is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Anwesen, zwei ___",
+      "answer": "Anwesen",
+      "fullAnswer": "ein Anwesen, zwei Anwesen",
+      "explanation": "The plural is Anwesen.",
+      "acceptedAnswers": [
+        "Anwesen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Anwesen mean?",
+      "options": [
+        "estate",
+        "never",
+        "the station"
+      ],
+      "answer": "estate",
+      "explanation": "Anwesen: estate, property (large house with grounds).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Anwesen is…",
+      "options": [
+        "a house with land",
+        "a presence"
+      ],
+      "answer": "a house with land",
+      "explanation": "Estate.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Anwesenheit means…",
+      "options": [
+        "presence, attendance",
+        "estate"
+      ],
+      "answer": "presence, attendance",
+      "explanation": "Different noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Anwesend sein means…",
+      "options": [
+        "to be present",
+        "to own an estate"
+      ],
+      "answer": "to be present",
+      "explanation": "Adjective.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Anwesen",
+        "Anwesens"
+      ],
+      "answer": "Anwesen",
+      "explanation": "Unchanged.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Das Anwesen is a property: a large house with grounds, such as a farm or a country estate. The plural is die Anwesen, with no ending. It's related to anwesend (present) and die Anwesenheit (presence), but those are different words. Don't use it for an ordinary flat: that's die Wohnung, while ein Haus is a house. It sounds slightly grand."
+}

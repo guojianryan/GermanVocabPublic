@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Startseite",
+    "partOfSpeech": "noun, feminine (die Startseite)",
+    "pronunciation": {
+      "respelling": "SHTART-zai-te",
+      "ipa": "ˈʃtaʁtˌzaɪ̯tə",
+      "notes": "Plural: die Startseiten."
+    },
+    "meaning": "home page",
+    "shortDefinition": "Home page."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Startseite, plural die Startseiten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Startseite"
+        },
+        {
+          "label": "More than one",
+          "value": "die Startseiten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Klicken Sie auf das Logo, um zur Startseite zu gelangen.",
+      "english": "Click the logo to go to the home page.",
+      "highlight": [
+        "Startseite"
+      ]
+    },
+    {
+      "german": "Die Nachricht stand auf der Startseite der Zeitung.",
+      "english": "The story was on the paper's home page.",
+      "highlight": [
+        "Startseite"
+      ]
+    }
+  ],
+  "forms": [
+    "Startseiten",
+    "die Startseiten",
+    "die Startseite"
+  ],
+  "memoryHook": "Startseite: the Seite (page) where you start.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Startseite",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Startseite is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Startseite, zwei ___",
+      "answer": "Startseiten",
+      "fullAnswer": "ein Startseite, zwei Startseiten",
+      "explanation": "The plural is Startseiten.",
+      "acceptedAnswers": [
+        "Startseiten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Startseite mean?",
+      "options": [
+        "expensive",
+        "the key",
+        "home page"
+      ],
+      "answer": "home page",
+      "explanation": "Startseite: home page.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Homepage",
+        "die Endseite"
+      ],
+      "answer": "die Homepage",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Seite is…",
+      "options": [
+        "page; side",
+        "a lake"
+      ],
+      "answer": "page; side",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Impressum is…",
+      "options": [
+        "the legal notice required on German websites",
+        "a print shop"
+      ],
+      "answer": "the legal notice required on German websites",
+      "explanation": "Legal.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Startseite is a website's home page; die Homepage is also used. German websites must have an Impressum (legal notice with the operator's name and address), usually linked from the Startseite, plus a Datenschutzerklärung (privacy policy). Die Seite means page and side: auf der anderen Seite. Zurück zur Startseite means back to home. Plural: die Startseiten."
+}

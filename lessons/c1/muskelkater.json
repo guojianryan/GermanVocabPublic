@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Muskelkater",
+    "partOfSpeech": "noun, masculine (der Muskelkater)",
+    "pronunciation": {
+      "respelling": "MUS-kel-kaa-ter",
+      "ipa": "ˈmʊskl̩ˌkaːtɐ",
+      "notes": "Usually no plural."
+    },
+    "meaning": "muscle soreness, aching muscles",
+    "shortDefinition": "Muscle soreness, aching muscles."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Muskelkater, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Muskelkater"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nach dem Training habe ich starken Muskelkater.",
+      "english": "After training my muscles are really sore.",
+      "highlight": [
+        "Muskelkater."
+      ]
+    },
+    {
+      "german": "Muskelkater kommt oft erst am zweiten Tag.",
+      "english": "Muscle soreness often only comes on the second day.",
+      "highlight": [
+        "Muskelkater"
+      ]
+    }
+  ],
+  "forms": [
+    "der Muskelkater"
+  ],
+  "memoryHook": "Muskelkater: a Kater (tomcat, hangover) in your Muskeln.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Muskelkater",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Muskelkater is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Muskelkater mean?",
+      "options": [
+        "the job",
+        "muscle soreness",
+        "to help"
+      ],
+      "answer": "muscle soreness",
+      "explanation": "Muskelkater: muscle soreness, aching muscles.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Muskelkater literally means…",
+      "options": [
+        "muscle tomcat",
+        "muscle cramp"
+      ],
+      "answer": "muscle tomcat",
+      "explanation": "Literal.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kater (after drinking) is…",
+      "options": [
+        "hangover",
+        "a cat only"
+      ],
+      "answer": "hangover",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Krampf is…",
+      "options": [
+        "cramp",
+        "a battle"
+      ],
+      "answer": "cramp",
+      "explanation": "Contrast.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Muskelkater is muscle soreness after unusual exercise, often worst a day or two later. Literally it means muscle tomcat; the Kater may come from Katarrh, like der Kater for a hangover: einen Kater haben. A cramp is der Krampf. Muskelkater usually goes away without treatment within a few days. It has no plural."
+}

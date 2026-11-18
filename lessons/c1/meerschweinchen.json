@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Meerschweinchen",
+    "partOfSpeech": "noun, neuter (das Meerschweinchen)",
+    "pronunciation": {
+      "respelling": "MAIR-shvain-khen",
+      "ipa": "ˈmeːɐ̯ˌʃvaɪ̯nçən",
+      "notes": "Plural: die Meerschweinchen."
+    },
+    "meaning": "guinea pig",
+    "shortDefinition": "Guinea pig."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Meerschweinchen, plural die Meerschweinchen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Meerschweinchen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Meerschweinchen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Kinder wünschen sich zwei Meerschweinchen.",
+      "english": "The children want two guinea pigs.",
+      "highlight": [
+        "Meerschweinchen."
+      ]
+    },
+    {
+      "german": "Ich will nicht dein Meerschweinchen sein!",
+      "english": "I don't want to be your guinea pig!",
+      "highlight": [
+        "Meerschweinchen"
+      ]
+    }
+  ],
+  "forms": [
+    "die Meerschweinchen",
+    "das Meerschweinchen"
+  ],
+  "memoryHook": "Meerschweinchen: a little pig (Schwein) from over the sea (Meer).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Meerschweinchen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Meerschweinchen is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Meerschweinchen, zwei ___",
+      "answer": "Meerschweinchen",
+      "fullAnswer": "ein Meerschweinchen, zwei Meerschweinchen",
+      "explanation": "The plural is Meerschweinchen.",
+      "acceptedAnswers": [
+        "Meerschweinchen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Meerschweinchen mean?",
+      "options": [
+        "to learn",
+        "the evening",
+        "guinea pig"
+      ],
+      "answer": "guinea pig",
+      "explanation": "Meerschweinchen: guinea pig.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Literally, Meerschweinchen means…",
+      "options": [
+        "little sea pig",
+        "sea bird"
+      ],
+      "answer": "little sea pig",
+      "explanation": "Literal.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The figurative guinea pig (test subject) in German is…",
+      "options": [
+        "das Versuchskaninchen",
+        "das Meerschweinchen"
+      ],
+      "answer": "das Versuchskaninchen",
+      "explanation": "Test.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Guinea pigs should be kept…",
+      "options": [
+        "in pairs or groups",
+        "alone"
+      ],
+      "answer": "in pairs or groups",
+      "explanation": "Welfare.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Meerschweinchen is a guinea pig, literally little sea pig, because it came to Europe by sea from South America. They're among Germany's most popular pets for children; animal welfare groups stress they must be kept at least in pairs. The figurative guinea pig, a test subject, is das Versuchskaninchen (test rabbit) in German: Ich bin doch nicht dein Versuchskaninchen! Plural: die Meerschweinchen."
+}

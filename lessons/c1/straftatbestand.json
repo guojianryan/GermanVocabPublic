@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Straftatbestand",
+    "partOfSpeech": "noun, masculine (der Straftatbestand)",
+    "pronunciation": {
+      "respelling": "SHTRAAF-taat-be-shtant",
+      "ipa": "ˈʃtʁaːftaːtbəˌʃtant",
+      "notes": "Plural: die Straftatbestände."
+    },
+    "meaning": "criminal offence (legal definition)",
+    "shortDefinition": "Criminal offence (legal definition)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Straftatbestand, plural die Straftatbestände.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Straftatbestand"
+        },
+        {
+          "label": "More than one",
+          "value": "die Straftatbestände"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Stalking ist seit 2007 ein eigener Straftatbestand.",
+      "english": "Stalking has been a separate criminal offence since 2007.",
+      "highlight": [
+        "Straftatbestand."
+      ]
+    },
+    {
+      "german": "Das erfüllt keinen Straftatbestand.",
+      "english": "That doesn't constitute a criminal offence.",
+      "highlight": [
+        "Straftatbestand."
+      ]
+    }
+  ],
+  "forms": [
+    "Straftatbestände",
+    "der Straftatbestand"
+  ],
+  "memoryHook": "Straftatbestand: the Tatbestand (elements) of a Straftat.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Straftatbestand",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Straftatbestand is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Straftatbestand, zwei ___",
+      "answer": "Straftatbestände",
+      "fullAnswer": "ein Straftatbestand, zwei Straftatbestände",
+      "explanation": "The plural is Straftatbestände.",
+      "acceptedAnswers": [
+        "Straftatbestaende"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Straftatbestand mean?",
+      "options": [
+        "criminal offence (legal definition)",
+        "the station",
+        "to sing"
+      ],
+      "answer": "criminal offence (legal definition)",
+      "explanation": "Straftatbestand: criminal offence (legal definition).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Tatbestand is…",
+      "options": [
+        "the facts constituting an offence",
+        "a stockpile"
+      ],
+      "answer": "the facts constituting an offence",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einen Straftatbestand erfüllen means…",
+      "options": [
+        "to constitute a criminal offence",
+        "to fulfil a sentence"
+      ],
+      "answer": "to constitute a criminal offence",
+      "explanation": "Phrase.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Strafgesetzbuch (StGB) is…",
+      "options": [
+        "the criminal code",
+        "a fine book"
+      ],
+      "answer": "the criminal code",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Straftatbestand is the legal definition of a criminal offence in the Strafgesetzbuch (StGB): einen Straftatbestand erfüllen, einen neuen Straftatbestand schaffen. Stalking (Nachstellung) became one in 2007. Der Tatbestand means the facts or elements of an offence; die Straftat is a crime. Plural: die Straftatbestände."
+}

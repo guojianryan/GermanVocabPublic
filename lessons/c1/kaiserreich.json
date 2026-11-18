@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kaiserreich",
+    "partOfSpeech": "noun, neuter (das Kaiserreich)",
+    "pronunciation": {
+      "respelling": "KAI-zer-raikh",
+      "ipa": "ˈkaɪ̯zɐˌʁaɪ̯ç",
+      "notes": "Plural: die Kaiserreiche."
+    },
+    "meaning": "empire",
+    "shortDefinition": "Empire."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Kaiserreich, plural die Kaiserreiche.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Kaiserreich"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kaiserreiche"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Deutsche Kaiserreich wurde 1871 gegründet.",
+      "english": "The German Empire was founded in 1871.",
+      "highlight": [
+        "Kaiserreich"
+      ]
+    },
+    {
+      "german": "Das Kaiserreich endete mit der Revolution 1918.",
+      "english": "The empire ended with the 1918 revolution.",
+      "highlight": [
+        "Kaiserreich"
+      ]
+    }
+  ],
+  "forms": [
+    "Kaiserreiche",
+    "das Kaiserreich"
+  ],
+  "memoryHook": "Kaiserreich: the Reich of a Kaiser (from Caesar).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kaiserreich",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Kaiserreich is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kaiserreich, zwei ___",
+      "answer": "Kaiserreiche",
+      "fullAnswer": "ein Kaiserreich, zwei Kaiserreiche",
+      "explanation": "The plural is Kaiserreiche.",
+      "acceptedAnswers": [
+        "Kaiserreiche"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kaiserreich mean?",
+      "options": [
+        "quiet",
+        "empire",
+        "the bread"
+      ],
+      "answer": "empire",
+      "explanation": "Kaiserreich: empire.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The German Kaiserreich was proclaimed in…",
+      "options": [
+        "Versailles (1871)",
+        "Berlin (1871)"
+      ],
+      "answer": "Versailles (1871)",
+      "explanation": "1871.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Kaiser is…",
+      "options": [
+        "emperor",
+        "a bread roll"
+      ],
+      "answer": "emperor",
+      "explanation": "Emperor.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The last German emperor was…",
+      "options": [
+        "Wilhelm II",
+        "Friedrich III"
+      ],
+      "answer": "Wilhelm II",
+      "explanation": "Last.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Kaiserreich is an empire, and in German history it usually means das Deutsche Kaiserreich (1871–1918), founded under Prussian leadership when Wilhelm I was proclaimed Kaiser in the Hall of Mirrors at Versailles. It ended when Wilhelm II abdicated in November 1918. Der Kaiser comes from Caesar. A Kaisersemmel is an Austrian bread roll. Plural: die Kaiserreiche."
+}

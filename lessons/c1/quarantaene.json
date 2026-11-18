@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Quarantäne",
+    "partOfSpeech": "noun, feminine (die Quarantäne)",
+    "pronunciation": {
+      "respelling": "ka-ran-TAI-ne",
+      "ipa": "kaʁanˈtɛːnə",
+      "notes": "Plural: die Quarantänen."
+    },
+    "meaning": "quarantine",
+    "shortDefinition": "Quarantine."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Quarantäne, plural die Quarantänen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Quarantäne"
+        },
+        {
+          "label": "More than one",
+          "value": "die Quarantänen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er musste zwei Wochen in Quarantäne.",
+      "english": "He had to go into quarantine for two weeks.",
+      "highlight": [
+        "Quarantäne."
+      ]
+    },
+    {
+      "german": "Die Quarantäne wurde aufgehoben.",
+      "english": "The quarantine was lifted.",
+      "highlight": [
+        "Quarantäne"
+      ]
+    }
+  ],
+  "forms": [
+    "Quarantänen",
+    "die Quarantäne"
+  ],
+  "memoryHook": "Quarantäne: forty (quaranta) days of isolation.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Quarantäne",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Quarantäne is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Quarantäne, zwei ___",
+      "answer": "Quarantänen",
+      "fullAnswer": "ein Quarantäne, zwei Quarantänen",
+      "explanation": "The plural is Quarantänen.",
+      "acceptedAnswers": [
+        "Quarantaenen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Quarantäne mean?",
+      "options": [
+        "quarantine",
+        "cheap",
+        "never"
+      ],
+      "answer": "quarantine",
+      "explanation": "Quarantäne: quarantine.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pronunciation of Qu here:",
+      "options": [
+        "k (ka-ran-TAI-ne)",
+        "kv"
+      ],
+      "answer": "k (ka-ran-TAI-ne)",
+      "explanation": "Exception.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Quarantäne comes from Italian quaranta, meaning…",
+      "options": [
+        "forty (days)",
+        "quarter"
+      ],
+      "answer": "forty (days)",
+      "explanation": "Origin.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Quarantäne müssen means…",
+      "options": [
+        "to have to quarantine",
+        "to have a fever"
+      ],
+      "answer": "to have to quarantine",
+      "explanation": "Phrase.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Quarantäne is quarantine: in Quarantäne müssen, sich in Quarantäne begeben, die Quarantäne aufheben. During the Covid pandemic, German health offices (Gesundheitsämter) ordered millions of quarantines. The word comes from Italian quaranta giorni (forty days), the isolation imposed on ships in Venice during plague times. Unusually, the Qu is pronounced k: ka-ran-TAI-ne. Plural: die Quarantänen."
+}

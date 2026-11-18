@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Rechtsgrundlage",
+    "partOfSpeech": "noun, feminine (die Rechtsgrundlage)",
+    "pronunciation": {
+      "respelling": "REKHTS-grunt-laa-ge",
+      "ipa": "ˈʁɛçt͡sˌɡʁʊntlaːɡə",
+      "notes": "Plural: die Rechtsgrundlagen."
+    },
+    "meaning": "legal basis",
+    "shortDefinition": "Legal basis."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Rechtsgrundlage, plural die Rechtsgrundlagen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Rechtsgrundlage"
+        },
+        {
+          "label": "More than one",
+          "value": "die Rechtsgrundlagen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Für die Maßnahme fehlt eine Rechtsgrundlage.",
+      "english": "There's no legal basis for the measure.",
+      "highlight": [
+        "Rechtsgrundlage."
+      ]
+    },
+    {
+      "german": "Die Rechtsgrundlage ist das Bürgerliche Gesetzbuch.",
+      "english": "The legal basis is the Civil Code.",
+      "highlight": [
+        "Rechtsgrundlage"
+      ]
+    }
+  ],
+  "forms": [
+    "Rechtsgrundlagen",
+    "die Rechtsgrundlage"
+  ],
+  "memoryHook": "Rechtsgrundlage: the Grundlage (basis) in Recht (law).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Rechtsgrundlage",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Rechtsgrundlage is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Rechtsgrundlage, zwei ___",
+      "answer": "Rechtsgrundlagen",
+      "fullAnswer": "ein Rechtsgrundlage, zwei Rechtsgrundlagen",
+      "explanation": "The plural is Rechtsgrundlagen.",
+      "acceptedAnswers": [
+        "Rechtsgrundlagen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Rechtsgrundlage mean?",
+      "options": [
+        "to learn",
+        "quiet",
+        "legal basis"
+      ],
+      "answer": "legal basis",
+      "explanation": "Rechtsgrundlage: legal basis.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Grundlage is…",
+      "options": [
+        "basis, foundation",
+        "a ground floor"
+      ],
+      "answer": "basis, foundation",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Under GDPR, processing data needs…",
+      "options": [
+        "a Rechtsgrundlage (e.g. consent)",
+        "nothing"
+      ],
+      "answer": "a Rechtsgrundlage (e.g. consent)",
+      "explanation": "GDPR.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das BGB is…",
+      "options": [
+        "the German Civil Code",
+        "a bank"
+      ],
+      "answer": "the German Civil Code",
+      "explanation": "BGB.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Rechtsgrundlage is the legal basis for an action: Auf welcher Rechtsgrundlage? (on what legal basis?), eine gesetzliche Rechtsgrundlage schaffen. German administrative law requires every state intervention to have a Rechtsgrundlage (the principle of Vorbehalt des Gesetzes). Under the GDPR, every processing of personal data needs one, such as consent or a contract. Plural: die Rechtsgrundlagen."
+}

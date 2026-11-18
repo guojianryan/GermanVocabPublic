@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Bundesministerium",
+    "partOfSpeech": "noun, neuter (das Bundesministerium)",
+    "pronunciation": {
+      "respelling": "BUN-des-mi-nis-tay-ri-um",
+      "ipa": "ˈbʊndəsminɪsˌteːʁiʊm",
+      "notes": "Plural: die Bundesministerien."
+    },
+    "meaning": "federal ministry",
+    "shortDefinition": "Federal ministry."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Bundesministerium, plural die Bundesministerien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Bundesministerium"
+        },
+        {
+          "label": "More than one",
+          "value": "die Bundesministerien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Bundesministerium der Finanzen sitzt in Berlin.",
+      "english": "The Federal Ministry of Finance is in Berlin.",
+      "highlight": [
+        "Bundesministerium"
+      ]
+    },
+    {
+      "german": "Mehrere Bundesministerien haben noch einen Sitz in Bonn.",
+      "english": "Several federal ministries still have a seat in Bonn.",
+      "highlight": [
+        "Bundesministerien"
+      ]
+    }
+  ],
+  "forms": [
+    "Bundesministerien",
+    "die Bundesministerien",
+    "das Bundesministerium"
+  ],
+  "memoryHook": "Bundesministerium: a ministry of the Bund.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Bundesministerium",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Bundesministerium is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Bundesministerium, zwei ___",
+      "answer": "Bundesministerien",
+      "fullAnswer": "ein Bundesministerium, zwei Bundesministerien",
+      "explanation": "The plural is Bundesministerien.",
+      "acceptedAnswers": [
+        "Bundesministerien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Bundesministerium mean?",
+      "options": [
+        "the flower",
+        "federal ministry",
+        "to travel"
+      ],
+      "answer": "federal ministry",
+      "explanation": "Bundesministerium: federal ministry.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Bundesministerien",
+        "die Bundesministeriums"
+      ],
+      "answer": "die Bundesministerien",
+      "explanation": "-ien.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Why are some ministries in Bonn?",
+      "options": [
+        "Bonn was the capital until 1990/1999",
+        "Bonn is bigger"
+      ],
+      "answer": "Bonn was the capital until 1990/1999",
+      "explanation": "Former capital.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Abbreviation pattern:",
+      "options": [
+        "BM + area (e.g. BMF)",
+        "MB"
+      ],
+      "answer": "BM + area (e.g. BMF)",
+      "explanation": "BMF, BMI...",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Bundesministerium is a federal ministry, usually abbreviated BM plus a letter: das BMF (Finanzen), das BMI (Innern), das BMBF (Bildung und Forschung). Because Bonn was West Germany's capital, the 1994 Berlin/Bonn Act left six ministries with their main seat in Bonn, so there's a lot of travel between the two cities. Ministries are led by a Bundesminister, with Staatssekretäre below. Plural: die Bundesministerien."
+}

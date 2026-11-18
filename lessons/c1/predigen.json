@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "predigen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "PRAY-di-gen",
+      "ipa": "ˈpʁeːdɪɡn̩",
+      "notes": ""
+    },
+    "meaning": "to preach",
+    "shortDefinition": "To preach."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "predig|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "predig|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "predig|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "predig|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "predig|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "predig|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gepredigt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Pfarrer predigt jeden Sonntag.",
+      "english": "The pastor preaches every Sunday.",
+      "highlight": [
+        "predigt"
+      ]
+    },
+    {
+      "german": "Er predigt Wasser und trinkt Wein.",
+      "english": "He preaches one thing and does another.",
+      "highlight": [
+        "predigt"
+      ]
+    }
+  ],
+  "forms": [
+    "predige",
+    "predigst",
+    "predigt",
+    "predigen",
+    "gepredigt",
+    "Predigt",
+    "Prediger"
+  ],
+  "memoryHook": "Predigen: deliver a Predigt, or lecture everyone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (predigen)",
+      "answer": "predigt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: predigt.",
+      "acceptedAnswers": [
+        "predigt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (predigen, past)",
+      "answer": "gepredigt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gepredigt.",
+      "acceptedAnswers": [
+        "gepredigt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does predigen mean?",
+      "options": [
+        "the child",
+        "to travel",
+        "to preach"
+      ],
+      "answer": "to preach",
+      "explanation": "predigen: to preach.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wasser predigen und Wein trinken means…",
+      "options": [
+        "to be a hypocrite",
+        "to be generous"
+      ],
+      "answer": "to be a hypocrite",
+      "explanation": "Idiom (Heine).",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Predigt is…",
+      "options": [
+        "the sermon",
+        "the preacher"
+      ],
+      "answer": "the sermon",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Prediger is…",
+      "options": [
+        "the preacher",
+        "the prediction"
+      ],
+      "answer": "the preacher",
+      "explanation": "Preacher.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Predigen means to preach: in der Kirche predigen. Figuratively, it means to lecture people: Hör auf zu predigen! Die Predigt is a sermon, and der Prediger the preacher. Wasser predigen und Wein trinken means to preach water and drink wine, to be a hypocrite; it goes back to Heinrich Heine's poem Deutschland. Ein Wintermärchen (1844). Luther, the most famous German Prediger, translated the Bible into German."
+}

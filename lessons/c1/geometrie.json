@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Geometrie",
+    "partOfSpeech": "noun, feminine (die Geometrie)",
+    "pronunciation": {
+      "respelling": "ge-o-me-TREE",
+      "ipa": "ɡeomeˈtʁiː",
+      "notes": "Usually no plural."
+    },
+    "meaning": "geometry",
+    "shortDefinition": "Geometry."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Geometrie, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Geometrie"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "In Geometrie bin ich nicht gut.",
+      "english": "I'm not good at geometry.",
+      "highlight": [
+        "Geometrie"
+      ]
+    },
+    {
+      "german": "Das Gebäude hat eine ungewöhnliche Geometrie.",
+      "english": "The building has an unusual geometry.",
+      "highlight": [
+        "Geometrie."
+      ]
+    }
+  ],
+  "forms": [
+    "die Geometrie",
+    "geometrisch"
+  ],
+  "memoryHook": "Geometrie: measuring (metron) the earth (ge).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Geometrie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Geometrie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Geometrie mean?",
+      "options": [
+        "geometry",
+        "to help",
+        "expensive"
+      ],
+      "answer": "geometry",
+      "explanation": "Geometrie: geometry.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Geometrisch means…",
+      "options": [
+        "geometric",
+        "geographic"
+      ],
+      "answer": "geometric",
+      "explanation": "Adjective.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Dreieck is…",
+      "options": [
+        "triangle",
+        "three corners in a room"
+      ],
+      "answer": "triangle",
+      "explanation": "Shape.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress:",
+      "options": [
+        "ge-o-me-TRIE",
+        "ge-O-me-trie"
+      ],
+      "answer": "ge-o-me-TRIE",
+      "explanation": "Last syllable.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Geometrie is geometry. Basic German shapes: das Dreieck (triangle), das Viereck or Quadrat (square), der Kreis (circle), der Würfel (cube), die Kugel (sphere). Carl Friedrich Gauss and Bernhard Riemann made major contributions to non-Euclidean geometry, which later underpinned Einstein's theory of relativity. Geometrisch means geometric. Stressed on the last syllable. It has no plural."
+}

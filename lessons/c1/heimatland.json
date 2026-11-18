@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Heimatland",
+    "partOfSpeech": "noun, neuter (das Heimatland)",
+    "pronunciation": {
+      "respelling": "HAI-maat-lant",
+      "ipa": "ˈhaɪ̯maːtˌlant",
+      "notes": "Plural: die Heimatländer."
+    },
+    "meaning": "home country, homeland",
+    "shortDefinition": "Home country, homeland."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Heimatland, plural die Heimatländer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Heimatland"
+        },
+        {
+          "label": "More than one",
+          "value": "die Heimatländer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie kehrte in ihr Heimatland zurück.",
+      "english": "She returned to her home country.",
+      "highlight": [
+        "Heimatland"
+      ]
+    },
+    {
+      "german": "Viele Flüchtlinge vermissen ihr Heimatland.",
+      "english": "Many refugees miss their homeland.",
+      "highlight": [
+        "Heimatland."
+      ]
+    }
+  ],
+  "forms": [
+    "Heimatländer",
+    "die Heimatländer",
+    "das Heimatland"
+  ],
+  "memoryHook": "Heimatland: the Land you call Heimat.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Heimatland",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Heimatland is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Heimatland, zwei ___",
+      "answer": "Heimatländer",
+      "fullAnswer": "ein Heimatland, zwei Heimatländer",
+      "explanation": "The plural is Heimatländer.",
+      "acceptedAnswers": [
+        "Heimatlaender"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Heimatland mean?",
+      "options": [
+        "the flower",
+        "home country",
+        "always"
+      ],
+      "answer": "home country",
+      "explanation": "Heimatland: home country, homeland.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Heimat is…",
+      "options": [
+        "home, homeland (emotional)",
+        "household"
+      ],
+      "answer": "home, homeland (emotional)",
+      "explanation": "Heimat.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Herkunftsland is…",
+      "options": [
+        "country of origin (more neutral)",
+        "a travel destination"
+      ],
+      "answer": "country of origin (more neutral)",
+      "explanation": "Origin.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Heimatländer",
+        "die Heimatlande"
+      ],
+      "answer": "die Heimatländer",
+      "explanation": "Umlaut + er.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Heimatland is one's home country or homeland: in sein Heimatland zurückkehren. It's warmer and more personal than das Herkunftsland (country of origin), the neutral official term. Die Heimat carries strong emotion in German: belonging, landscape, childhood; Heimweh is homesickness. Many Germans with migrant roots describe having two Heimaten. Plural: die Heimatländer."
+}

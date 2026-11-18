@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Alkoholkonsum",
+    "partOfSpeech": "noun, masculine (der Alkoholkonsum)",
+    "pronunciation": {
+      "respelling": "al-ko-HOHL-kon-zoom",
+      "ipa": "alkoˈhoːlkɔnˌzuːm",
+      "notes": "Usually no plural."
+    },
+    "meaning": "alcohol consumption",
+    "shortDefinition": "Alcohol consumption."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Alkoholkonsum, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Alkoholkonsum"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Alkoholkonsum in Deutschland sinkt langsam.",
+      "english": "Alcohol consumption in Germany is slowly falling.",
+      "highlight": [
+        "Alkoholkonsum"
+      ]
+    },
+    {
+      "german": "Übermäßiger Alkoholkonsum schadet der Gesundheit.",
+      "english": "Excessive alcohol consumption damages health.",
+      "highlight": [
+        "Alkoholkonsum"
+      ]
+    }
+  ],
+  "forms": [
+    "der Alkoholkonsum"
+  ],
+  "memoryHook": "Alkoholkonsum: the Konsum (consumption) of Alkohol.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Alkoholkonsum",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Alkoholkonsum is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Alkoholkonsum mean?",
+      "options": [
+        "the weather",
+        "alcohol consumption",
+        "expensive"
+      ],
+      "answer": "alcohol consumption",
+      "explanation": "Alkoholkonsum: alcohol consumption.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Konsum is…",
+      "options": [
+        "consumption",
+        "a council"
+      ],
+      "answer": "consumption",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germans drink per year on average about… litres of pure alcohol.",
+      "options": [
+        "10",
+        "2"
+      ],
+      "answer": "10",
+      "explanation": "Statistics.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Komasaufen is…",
+      "options": [
+        "binge drinking",
+        "sleeping"
+      ],
+      "answer": "binge drinking",
+      "explanation": "Binge.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Alkoholkonsum is alcohol consumption. Germans drink on average around 10 litres of pure alcohol per person per year, high by international standards, though falling; beer consumption has declined for decades. Teenagers can drink beer and wine from 16. Binge drinking is Komasaufen or Rauschtrinken. Der Konsum means consumption. It has no plural."
+}

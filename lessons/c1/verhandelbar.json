@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verhandelbar",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "fer-HAN-del-baar",
+      "ipa": "fɛɐ̯ˈhandl̩baːɐ̯",
+      "notes": ""
+    },
+    "meaning": "negotiable",
+    "shortDefinition": "Negotiable."
+  },
+  "sampleSentences": [
+    {
+      "german": "Der Preis ist verhandelbar.",
+      "english": "The price is negotiable.",
+      "highlight": [
+        "verhandelbar."
+      ]
+    },
+    {
+      "german": "Diese Werte sind nicht verhandelbar.",
+      "english": "These values are non-negotiable.",
+      "highlight": [
+        "verhandelbar."
+      ]
+    }
+  ],
+  "forms": [
+    "verhandelbare",
+    "verhandelbaren"
+  ],
+  "memoryHook": "Verhandelbar: able (-bar) to be verhandelt (negotiated).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does verhandelbar mean?",
+      "options": [
+        "always",
+        "quiet",
+        "negotiable"
+      ],
+      "answer": "negotiable",
+      "explanation": "verhandelbar: negotiable.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "VB in classified ads means…",
+      "options": [
+        "Verhandlungsbasis (or nearest offer)",
+        "verboten"
+      ],
+      "answer": "Verhandlungsbasis (or nearest offer)",
+      "explanation": "Ads.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verhandeln means…",
+      "options": [
+        "to negotiate; to try (a case)",
+        "to trade goods"
+      ],
+      "answer": "to negotiate; to try (a case)",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Nicht verhandelbar means…",
+      "options": [
+        "non-negotiable",
+        "not for sale"
+      ],
+      "answer": "non-negotiable",
+      "explanation": "Phrase.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Das Gehalt ist ___. (negotiable)",
+      "answer": "verhandelbar",
+      "fullAnswer": "Das Gehalt ist verhandelbar.",
+      "explanation": "verhandelbar.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Verhandelbar means negotiable: Der Preis ist verhandelbar, nicht verhandelbar (non-negotiable). German classified ads use VB for Verhandlungsbasis (or nearest offer): 500 Euro VB. Verhandeln means to negotiate, and in court to hear a case. Die Verhandlung is a negotiation or trial. Synonyms: offen, diskutierbar."
+}

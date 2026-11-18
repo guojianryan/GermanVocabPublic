@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verpennen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-PE-nen",
+      "ipa": "fɛɐ̯ˈpɛnən",
+      "notes": ""
+    },
+    "meaning": "to oversleep; to forget (colloquial)",
+    "shortDefinition": "To oversleep; to forget (colloquial)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verpenn|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verpenn|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verpenn|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verpenn|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verpenn|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verpenn|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verpennt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sorry, ich habe verpennt!",
+      "english": "Sorry, I overslept!",
+      "highlight": [
+        "verpennt!"
+      ]
+    },
+    {
+      "german": "Ich habe den Termin total verpennt.",
+      "english": "I completely forgot about the appointment.",
+      "highlight": [
+        "verpennt."
+      ]
+    }
+  ],
+  "forms": [
+    "verpenne",
+    "verpennst",
+    "verpennt",
+    "verpennen"
+  ],
+  "memoryHook": "Verpennen: pennen (sleep) through something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verpennen)",
+      "answer": "verpennt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verpennt.",
+      "acceptedAnswers": [
+        "verpennt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verpennen, past)",
+      "answer": "verpennt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verpennt.",
+      "acceptedAnswers": [
+        "verpennt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verpennen mean?",
+      "options": [
+        "the flower",
+        "to oversleep",
+        "to help"
+      ],
+      "answer": "to oversleep",
+      "explanation": "verpennen: to oversleep; to forget (colloquial).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pennen (slang) means…",
+      "options": [
+        "to sleep",
+        "to write"
+      ],
+      "answer": "to sleep",
+      "explanation": "Root.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Standard synonym (oversleep):",
+      "options": [
+        "verschlafen",
+        "aufwachen"
+      ],
+      "answer": "verschlafen",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Verpennt (adjective) means…",
+      "options": [
+        "sleepy, dozy",
+        "punished"
+      ],
+      "answer": "sleepy, dozy",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verpennen (colloquial) means to oversleep or to forget, miss: Ich hab verpennt!, einen Termin, den Trend verpennen. The standard word is verschlafen. Pennen is slang for sleeping, and die Penne is slang for school; der Penner, an insulting word for a homeless person, should be avoided. Verpennt also means dozy: Du bist heute so verpennt. Regular: verpennte, verpennt."
+}

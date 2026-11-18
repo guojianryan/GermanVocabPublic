@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "pilgern",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "PIL-gern",
+      "ipa": "ˈpɪlɡɐn",
+      "notes": ""
+    },
+    "meaning": "to make a pilgrimage; to flock",
+    "shortDefinition": "To make a pilgrimage; to flock."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "pilgere"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "pilger|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "pilger|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "pilger|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "pilger|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "pilger|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist gepilgert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er pilgert auf dem Jakobsweg nach Santiago.",
+      "english": "He's walking the Camino to Santiago.",
+      "highlight": [
+        "pilgert"
+      ]
+    },
+    {
+      "german": "Tausende pilgern jedes Jahr zum Konzert.",
+      "english": "Thousands flock to the concert every year.",
+      "highlight": [
+        "pilgern"
+      ]
+    }
+  ],
+  "forms": [
+    "pilgere",
+    "pilgerst",
+    "pilgert",
+    "pilgern",
+    "gepilgert",
+    "Pilger",
+    "Pilgerfahrt"
+  ],
+  "memoryHook": "Pilgern: travel as a Pilger (pilgrim).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (pilgern)",
+      "answer": "pilgert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: pilgert.",
+      "acceptedAnswers": [
+        "pilgert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (pilgern, past)",
+      "answer": "gepilgert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin gepilgert.",
+      "acceptedAnswers": [
+        "gepilgert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does pilgern mean?",
+      "options": [
+        "the flower",
+        "to wait",
+        "to make a pilgrimage"
+      ],
+      "answer": "to make a pilgrimage",
+      "explanation": "pilgern: to make a pilgrimage; to flock.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Pilger is…",
+      "options": [
+        "pilgrim",
+        "a pill"
+      ],
+      "answer": "pilgrim",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hape Kerkeling's bestseller Ich bin dann mal weg is about…",
+      "options": [
+        "walking the Camino de Santiago",
+        "emigrating"
+      ],
+      "answer": "walking the Camino de Santiago",
+      "explanation": "Book.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Perfect with…",
+      "options": [
+        "sein",
+        "haben"
+      ],
+      "answer": "sein",
+      "explanation": "ist gepilgert.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Pilgern means to make a pilgrimage: nach Rom, nach Santiago de Compostela pilgern. Figuratively, it means to flock somewhere: Fans pilgern zum Stadion. Comedian Hape Kerkeling's 2006 book Ich bin dann mal weg, about walking the Jakobsweg, sold millions and inspired many Germans to go pilgern. Der Pilger is a pilgrim and die Pilgerfahrt a pilgrimage. With sein: ist gepilgert."
+}

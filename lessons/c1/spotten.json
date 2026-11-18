@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "spotten",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHPO-ten",
+      "ipa": "ˈʃpɔtn̩",
+      "notes": ""
+    },
+    "meaning": "to mock",
+    "shortDefinition": "To mock."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "spott|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "spott|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "spott|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "spott|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "spott|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "spott|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gespottet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie spotteten über seinen Akzent.",
+      "english": "They mocked his accent.",
+      "highlight": [
+        "spotteten"
+      ]
+    },
+    {
+      "german": "Das spottet jeder Beschreibung.",
+      "english": "That beggars description.",
+      "highlight": [
+        "spottet"
+      ]
+    }
+  ],
+  "forms": [
+    "spotte",
+    "spottest",
+    "spottet",
+    "spotten",
+    "gespottet",
+    "Spott",
+    "spöttisch"
+  ],
+  "memoryHook": "Spotten: pour Spott (mockery) on someone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (spotten)",
+      "answer": "spottet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: spottet.",
+      "acceptedAnswers": [
+        "spottet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (spotten, past)",
+      "answer": "gespottet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gespottet.",
+      "acceptedAnswers": [
+        "gespottet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does spotten mean?",
+      "options": [
+        "the evening",
+        "to mock",
+        "to sing"
+      ],
+      "answer": "to mock",
+      "explanation": "spotten: to mock.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Spotten über + acc. means…",
+      "options": [
+        "to mock, make fun of",
+        "to spot"
+      ],
+      "answer": "to mock, make fun of",
+      "explanation": "Mock.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das spottet jeder Beschreibung means…",
+      "options": [
+        "it beggars description",
+        "it mocks description"
+      ],
+      "answer": "it beggars description",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Spott is…",
+      "options": [
+        "mockery, ridicule",
+        "a spot"
+      ],
+      "answer": "mockery, ridicule",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Spotten means to mock: über jemanden spotten. Der Spott is mockery, and spöttisch means mocking: ein spöttisches Lächeln. Das spottet jeder Beschreibung means it beggars belief, usually of something bad. Der Spottpreis is a ridiculously low price: zum Spottpreis. Wer den Schaden hat, braucht für den Spott nicht zu sorgen means mockery follows misfortune. Regular: spottete, gespottet."
+}

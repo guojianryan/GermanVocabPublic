@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Lichtgeschwindigkeit",
+    "partOfSpeech": "noun, feminine (die Lichtgeschwindigkeit)",
+    "pronunciation": {
+      "respelling": "LIKHT-ge-shvin-dikh-kait",
+      "ipa": "ˈlɪçtɡəˌʃvɪndɪçkaɪ̯t",
+      "notes": "Usually no plural."
+    },
+    "meaning": "speed of light",
+    "shortDefinition": "Speed of light."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Lichtgeschwindigkeit, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Lichtgeschwindigkeit"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nichts ist schneller als die Lichtgeschwindigkeit.",
+      "english": "Nothing is faster than the speed of light.",
+      "highlight": [
+        "Lichtgeschwindigkeit."
+      ]
+    },
+    {
+      "german": "Die Lichtgeschwindigkeit beträgt fast 300.000 Kilometer pro Sekunde.",
+      "english": "The speed of light is almost 300,000 kilometres per second.",
+      "highlight": [
+        "Lichtgeschwindigkeit"
+      ]
+    }
+  ],
+  "forms": [
+    "die Lichtgeschwindigkeit"
+  ],
+  "memoryHook": "Lichtgeschwindigkeit: the Geschwindigkeit (speed) of Licht.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Lichtgeschwindigkeit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Lichtgeschwindigkeit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Lichtgeschwindigkeit mean?",
+      "options": [
+        "the bed",
+        "always",
+        "speed of light"
+      ],
+      "answer": "speed of light",
+      "explanation": "Lichtgeschwindigkeit: speed of light.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einstein published special relativity in…",
+      "options": [
+        "1905",
+        "1925"
+      ],
+      "answer": "1905",
+      "explanation": "1905.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Lichtjahr is…",
+      "options": [
+        "a distance",
+        "a time span"
+      ],
+      "answer": "a distance",
+      "explanation": "Light year.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Geschwindigkeit is…",
+      "options": [
+        "speed",
+        "skill"
+      ],
+      "answer": "speed",
+      "explanation": "Root.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Lichtgeschwindigkeit is the speed of light, almost 300,000 kilometres per second in a vacuum. Albert Einstein, born in Ulm, made it the cosmic speed limit in his special theory of relativity of 1905. Das Lichtjahr (light year) is a distance, not a time. Mit Lichtgeschwindigkeit is used jokingly for very fast. It has no plural."
+}

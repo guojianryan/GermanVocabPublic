@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Wappen",
+    "partOfSpeech": "noun, neuter (das Wappen)",
+    "pronunciation": {
+      "respelling": "VAP-en",
+      "ipa": "ˈvapn̩",
+      "notes": "Plural: die Wappen."
+    },
+    "meaning": "coat of arms",
+    "shortDefinition": "Coat of arms."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Wappen, plural die Wappen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Wappen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Wappen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Wappen der Stadt zeigt einen Bären.",
+      "english": "The city's coat of arms shows a bear.",
+      "highlight": [
+        "Wappen"
+      ]
+    },
+    {
+      "german": "Der Adler ist das Wappentier Deutschlands.",
+      "english": "The eagle is Germany's heraldic animal.",
+      "highlight": [
+        "Wappentier"
+      ]
+    }
+  ],
+  "forms": [
+    "die Wappen",
+    "das Wappen",
+    "Wappentier"
+  ],
+  "memoryHook": "Wappen: once painted on weapons (Waffen) and shields.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Wappen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Wappen is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Wappen, zwei ___",
+      "answer": "Wappen",
+      "fullAnswer": "ein Wappen, zwei Wappen",
+      "explanation": "The plural is Wappen.",
+      "acceptedAnswers": [
+        "Wappen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Wappen mean?",
+      "options": [
+        "coat of arms",
+        "to help",
+        "the window"
+      ],
+      "answer": "coat of arms",
+      "explanation": "Wappen: coat of arms.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Wappentier of Berlin is…",
+      "options": [
+        "a bear",
+        "an eagle"
+      ],
+      "answer": "a bear",
+      "explanation": "Berlin bear.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's federal coat of arms shows…",
+      "options": [
+        "the Bundesadler (eagle)",
+        "a lion"
+      ],
+      "answer": "the Bundesadler (eagle)",
+      "explanation": "Eagle.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Related English word:",
+      "options": [
+        "weapon",
+        "wrap"
+      ],
+      "answer": "weapon",
+      "explanation": "Same root as Waffe.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Wappen is a coat of arms: das Stadtwappen, das Familienwappen. Germany's federal Wappen shows the black Bundesadler (eagle) on gold, and Berlin's shows a bear, Munich's a monk (the Münchner Kindl). Das Wappentier is the heraldic animal. Wappen comes from a Low German form of Waffe (weapon), because coats of arms were painted on shields to recognise knights in armour. The plural is the same."
+}

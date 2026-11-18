@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "hinzuziehen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "hin-TSOO-tsee-en",
+      "ipa": "hɪnˈt͡suːˌt͡siːən",
+      "notes": ""
+    },
+    "meaning": "to call in, consult (an expert)",
+    "shortDefinition": "To call in, consult (an expert)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "zieh|e … |hinzu"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "zieh|st … |hinzu"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "zieh|t … |hinzu"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "zieh|en … |hinzu"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "zieh|t … |hinzu"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "zieh|en … |hinzu"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat hinzugezogen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir sollten einen Anwalt hinzuziehen.",
+      "english": "We should consult a lawyer.",
+      "highlight": [
+        "hinzuziehen."
+      ]
+    },
+    {
+      "german": "Der Arzt zog einen Spezialisten hinzu.",
+      "english": "The doctor called in a specialist.",
+      "highlight": [
+        "zog",
+        "hinzu."
+      ]
+    }
+  ],
+  "forms": [
+    "ziehe hinzu",
+    "ziehst hinzu",
+    "zieht hinzu",
+    "ziehen hinzu",
+    "hinzugezogen",
+    "zog hinzu"
+  ],
+  "memoryHook": "Hinzuziehen: ziehen (draw) someone hinzu (in addition).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … hinzu (hinzuziehen)",
+      "answer": "zieht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: zieht … hinzu.",
+      "acceptedAnswers": [
+        "zieht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (hinzuziehen, past)",
+      "answer": "hinzugezogen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe hinzugezogen.",
+      "acceptedAnswers": [
+        "hinzugezogen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does hinzuziehen mean?",
+      "options": [
+        "to call in",
+        "the key",
+        "the window"
+      ],
+      "answer": "to call in",
+      "explanation": "hinzuziehen: to call in, consult (an expert).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einen Experten hinzuziehen means…",
+      "options": [
+        "to call in an expert",
+        "to pull an expert along"
+      ],
+      "answer": "to call in an expert",
+      "explanation": "Phrase.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "zog hinzu, hinzugezogen",
+        "ziehte hinzu"
+      ],
+      "answer": "zog hinzu, hinzugezogen",
+      "explanation": "Irregular.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "konsultieren, einschalten",
+        "entlassen"
+      ],
+      "answer": "konsultieren, einschalten",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Hinzuziehen means to call in or consult someone: einen Arzt, Gutachter, Dolmetscher, die Polizei hinzuziehen. It's formal; in speech people say einschalten or holen. Hinzu means in addition: hinzufügen (to add), hinzukommen (to be added). Separable and irregular like ziehen: zog hinzu, hinzugezogen."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vererbung",
+    "partOfSpeech": "noun, feminine (die Vererbung)",
+    "pronunciation": {
+      "respelling": "fer-ER-bung",
+      "ipa": "fɛɐ̯ˈʔɛʁbʊŋ",
+      "notes": "Plural: die Vererbungen."
+    },
+    "meaning": "heredity, inheritance (genetic)",
+    "shortDefinition": "Heredity, inheritance (genetic)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Vererbung, plural die Vererbungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Vererbung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Vererbungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Mendel entdeckte die Gesetze der Vererbung.",
+      "english": "Mendel discovered the laws of heredity.",
+      "highlight": [
+        "Vererbung."
+      ]
+    },
+    {
+      "german": "Bei dieser Krankheit spielt Vererbung eine Rolle.",
+      "english": "Heredity plays a role in this disease.",
+      "highlight": [
+        "Vererbung"
+      ]
+    }
+  ],
+  "forms": [
+    "Vererbungen",
+    "die Vererbung"
+  ],
+  "memoryHook": "Vererbung: passing on (vererben) an Erbe (inheritance).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vererbung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Vererbung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Vererbung, zwei ___",
+      "answer": "Vererbungen",
+      "fullAnswer": "ein Vererbung, zwei Vererbungen",
+      "explanation": "The plural is Vererbungen.",
+      "acceptedAnswers": [
+        "Vererbungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vererbung mean?",
+      "options": [
+        "the family",
+        "heredity",
+        "the door"
+      ],
+      "answer": "heredity",
+      "explanation": "Vererbung: heredity, inheritance (genetic).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vererben means…",
+      "options": [
+        "to bequeath; to pass on genetically",
+        "to inherit"
+      ],
+      "answer": "to bequeath; to pass on genetically",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Erben means…",
+      "options": [
+        "to inherit",
+        "to pass on"
+      ],
+      "answer": "to inherit",
+      "explanation": "Contrast.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Erblich means…",
+      "options": [
+        "hereditary",
+        "honest"
+      ],
+      "answer": "hereditary",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Vererbung is heredity, the passing on of traits: die Mendelschen Regeln der Vererbung, worked out by Gregor Mendel with pea plants in the 1860s. It can also mean bequeathing property. Vererben means to pass on or bequeath; erben means to inherit, and das Erbe is an inheritance. Erblich means hereditary. Plural: die Vererbungen."
+}

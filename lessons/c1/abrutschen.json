@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "abrutschen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AP-ru-chen",
+      "ipa": "ˈapˌʁʊt͡ʃn̩",
+      "notes": ""
+    },
+    "meaning": "to slip off; to slide, drop",
+    "shortDefinition": "To slip off; to slide, drop."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "rutsch|e … |ab"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "rutsch|st … |ab"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "rutsch|t … |ab"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "rutsch|en … |ab"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "rutsch|t … |ab"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "rutsch|en … |ab"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist abgerutscht"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er rutschte mit dem Fuß ab und fiel.",
+      "english": "His foot slipped and he fell.",
+      "highlight": [
+        "rutschte",
+        "ab"
+      ]
+    },
+    {
+      "german": "Der Verein ist auf Platz 15 abgerutscht.",
+      "english": "The club has slipped to 15th place.",
+      "highlight": [
+        "abgerutscht."
+      ]
+    }
+  ],
+  "forms": [
+    "rutsche ab",
+    "rutschst ab",
+    "rutscht ab",
+    "rutschen ab",
+    "abgerutscht",
+    "rutschte ab"
+  ],
+  "memoryHook": "Abrutschen: rutschen (slide) off (ab).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ab (abrutschen)",
+      "answer": "rutscht",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: rutscht … ab.",
+      "acceptedAnswers": [
+        "rutscht"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (abrutschen, past)",
+      "answer": "abgerutscht",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin abgerutscht.",
+      "acceptedAnswers": [
+        "abgerutscht"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does abrutschen mean?",
+      "options": [
+        "slowly",
+        "the car",
+        "to slip off"
+      ],
+      "answer": "to slip off",
+      "explanation": "abrutschen: to slip off; to slide, drop.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Figuratively, abrutschen means…",
+      "options": [
+        "to drop, slip down (rankings, grades)",
+        "to celebrate"
+      ],
+      "answer": "to drop, slip down (rankings, grades)",
+      "explanation": "Figurative.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Abrutschen takes…",
+      "options": [
+        "sein",
+        "haben"
+      ],
+      "answer": "sein",
+      "explanation": "Auxiliary.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rutschen means…",
+      "options": [
+        "to slide, slip",
+        "to rush"
+      ],
+      "answer": "to slide, slip",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Abrutschen means to slip off: mit dem Messer abrutschen. Figuratively, it means to slide or drop: in die Armut, in die Kriminalität abrutschen, in der Tabelle abrutschen, in Mathe auf eine Vier abrutschen. Rutschen means to slide; die Rutsche is a slide. Guten Rutsch! means Happy New Year. Regular with sein: rutschte ab, ist abgerutscht."
+}

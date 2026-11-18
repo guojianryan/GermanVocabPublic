@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "taugen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "TAU-gen",
+      "ipa": "ˈtaʊ̯ɡn̩",
+      "notes": ""
+    },
+    "meaning": "to be good for, be of use",
+    "shortDefinition": "To be good for, be of use."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "taug|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "taug|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "taug|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "taug|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "taug|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "taug|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat getaugt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das neue Handy taugt nichts.",
+      "english": "The new phone is useless.",
+      "highlight": [
+        "taugt"
+      ]
+    },
+    {
+      "german": "Er taugt nicht zum Lehrer.",
+      "english": "He's not cut out to be a teacher.",
+      "highlight": [
+        "taugt"
+      ]
+    }
+  ],
+  "forms": [
+    "tauge",
+    "taugst",
+    "taugt",
+    "taugen",
+    "getaugt",
+    "tauglich",
+    "untauglich",
+    "Taugenichts"
+  ],
+  "memoryHook": "Taugen: is it any good? Taugt es was?",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (taugen)",
+      "answer": "taugt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: taugt.",
+      "acceptedAnswers": [
+        "taugt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (taugen, past)",
+      "answer": "getaugt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe getaugt.",
+      "acceptedAnswers": [
+        "getaugt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does taugen mean?",
+      "options": [
+        "slowly",
+        "the job",
+        "to be good for"
+      ],
+      "answer": "to be good for",
+      "explanation": "taugen: to be good for, be of use.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das taugt nichts means…",
+      "options": [
+        "it's no good",
+        "it's not tough"
+      ],
+      "answer": "it's no good",
+      "explanation": "Useless.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Taugen zu / für means…",
+      "options": [
+        "to be suited for",
+        "to fight for"
+      ],
+      "answer": "to be suited for",
+      "explanation": "Suited.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Taugenichts is…",
+      "options": [
+        "a good-for-nothing",
+        "a useful tool"
+      ],
+      "answer": "a good-for-nothing",
+      "explanation": "Eichendorff.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Taugen means to be good for something or of use: Das taugt nichts (that's useless), Taugt der Film was? (is the film any good?). In southern Germany and Austria, Das taugt mir means I like it. Tauglich means fit or suitable: tauglich for military service, alltagstauglich (suitable for everyday use). Der Taugenichts is a good-for-nothing, as in Eichendorff's 1826 novella Aus dem Leben eines Taugenichts."
+}

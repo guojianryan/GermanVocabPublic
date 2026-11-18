@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kundgebung",
+    "partOfSpeech": "noun, feminine (die Kundgebung)",
+    "pronunciation": {
+      "respelling": "KUNT-gay-bung",
+      "ipa": "ˈkʊntˌɡeːbʊŋ",
+      "notes": "Plural: die Kundgebungen."
+    },
+    "meaning": "rally, demonstration",
+    "shortDefinition": "Rally, demonstration."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kundgebung, plural die Kundgebungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kundgebung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kundgebungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Tausende nahmen an der Kundgebung teil.",
+      "english": "Thousands took part in the rally.",
+      "highlight": [
+        "Kundgebung"
+      ]
+    },
+    {
+      "german": "Die Kundgebung fand vor dem Rathaus statt.",
+      "english": "The rally took place in front of the town hall.",
+      "highlight": [
+        "Kundgebung"
+      ]
+    }
+  ],
+  "forms": [
+    "Kundgebungen",
+    "die Kundgebungen",
+    "die Kundgebung"
+  ],
+  "memoryHook": "Kundgebung: making your views known (kund geben) in public.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kundgebung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kundgebung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kundgebung, zwei ___",
+      "answer": "Kundgebungen",
+      "fullAnswer": "ein Kundgebung, zwei Kundgebungen",
+      "explanation": "The plural is Kundgebungen.",
+      "acceptedAnswers": [
+        "Kundgebungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kundgebung mean?",
+      "options": [
+        "the weather",
+        "rally",
+        "the bill"
+      ],
+      "answer": "rally",
+      "explanation": "Kundgebung: rally, demonstration.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kundgebung vs Demonstration:",
+      "options": [
+        "a Kundgebung is usually stationary",
+        "a Kundgebung always marches"
+      ],
+      "answer": "a Kundgebung is usually stationary",
+      "explanation": "Stationary.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kund means…",
+      "options": [
+        "known (old word)",
+        "customer"
+      ],
+      "answer": "known (old word)",
+      "explanation": "kundtun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Freedom of assembly is in…",
+      "options": [
+        "Article 8 of the Grundgesetz",
+        "Article 1"
+      ],
+      "answer": "Article 8 of the Grundgesetz",
+      "explanation": "Versammlungsfreiheit.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kundgebung is a rally, usually a stationary gathering with speeches, while a Demonstration or Demo often marches through the streets. Freedom of assembly is guaranteed by Article 8 of the Grundgesetz; rallies must normally be registered with the authorities beforehand. In early 2024, huge Kundgebungen against right-wing extremism drew over a million people across Germany. The word comes from kundgeben (to make known), from the old word kund (known)."
+}

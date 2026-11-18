@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Obduktion",
+    "partOfSpeech": "noun, feminine (die Obduktion)",
+    "pronunciation": {
+      "respelling": "op-duk-TSYOHN",
+      "ipa": "ɔpdʊkˈt͡si̯oːn",
+      "notes": "Plural: die Obduktionen."
+    },
+    "meaning": "autopsy, post-mortem",
+    "shortDefinition": "Autopsy, post-mortem."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Obduktion, plural die Obduktionen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Obduktion"
+        },
+        {
+          "label": "More than one",
+          "value": "die Obduktionen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Obduktion soll die Todesursache klären.",
+      "english": "The autopsy is to establish the cause of death.",
+      "highlight": [
+        "Obduktion"
+      ]
+    },
+    {
+      "german": "Die Staatsanwaltschaft ordnete eine Obduktion an.",
+      "english": "The public prosecutor ordered an autopsy.",
+      "highlight": [
+        "Obduktion"
+      ]
+    }
+  ],
+  "forms": [
+    "Obduktionen",
+    "die Obduktion"
+  ],
+  "memoryHook": "Obduktion: an examination after death.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Obduktion",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Obduktion is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Obduktion, zwei ___",
+      "answer": "Obduktionen",
+      "fullAnswer": "ein Obduktion, zwei Obduktionen",
+      "explanation": "The plural is Obduktionen.",
+      "acceptedAnswers": [
+        "Obduktionen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Obduktion mean?",
+      "options": [
+        "autopsy",
+        "the car",
+        "to help"
+      ],
+      "answer": "autopsy",
+      "explanation": "Obduktion: autopsy, post-mortem.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Obduzieren means…",
+      "options": [
+        "to carry out an autopsy",
+        "to abduct"
+      ],
+      "answer": "to carry out an autopsy",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Rechtsmedizin is…",
+      "options": [
+        "forensic medicine",
+        "legal advice"
+      ],
+      "answer": "forensic medicine",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Autopsie, die Leichenöffnung",
+        "die Operation"
+      ],
+      "answer": "die Autopsie, die Leichenöffnung",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Obduktion is an autopsy or post-mortem: eine Obduktion anordnen, das Ergebnis der Obduktion. In criminal cases, the Staatsanwaltschaft orders it and specialists in Rechtsmedizin (forensic medicine) carry it out. Synonyms: die Autopsie, die Leichenöffnung. Obduzieren means to perform one. Plural: die Obduktionen."
+}

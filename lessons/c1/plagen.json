@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "plagen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "PLAA-gen",
+      "ipa": "ˈplaːɡn̩",
+      "notes": ""
+    },
+    "meaning": "to torment, trouble; (sich) to toil",
+    "shortDefinition": "To torment, trouble; (sich) to toil."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "plag|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "plag|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "plag|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "plag|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "plag|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "plag|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geplagt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ihn plagen Zweifel.",
+      "english": "He is plagued by doubts.",
+      "highlight": [
+        "plagen"
+      ]
+    },
+    {
+      "german": "Sie hat sich ihr Leben lang geplagt.",
+      "english": "She toiled all her life.",
+      "highlight": [
+        "geplagt."
+      ]
+    }
+  ],
+  "forms": [
+    "plage",
+    "plagst",
+    "plagt",
+    "plagen",
+    "geplagt",
+    "plagte",
+    "Plage"
+  ],
+  "memoryHook": "Plagen: strike with a Plage (plague).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (plagen)",
+      "answer": "plagt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: plagt.",
+      "acceptedAnswers": [
+        "plagt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (plagen, past)",
+      "answer": "geplagt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geplagt.",
+      "acceptedAnswers": [
+        "geplagt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does plagen mean?",
+      "options": [
+        "the evening",
+        "to wait",
+        "to torment"
+      ],
+      "answer": "to torment",
+      "explanation": "plagen: to torment, trouble; (sich) to toil.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Plage is…",
+      "options": [
+        "plague, nuisance",
+        "a plate"
+      ],
+      "answer": "plague, nuisance",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich plagen means…",
+      "options": [
+        "to toil, struggle",
+        "to complain"
+      ],
+      "answer": "to toil, struggle",
+      "explanation": "Reflexive.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die zehn Plagen are…",
+      "options": [
+        "the ten plagues of Egypt",
+        "ten complaints"
+      ],
+      "answer": "the ten plagues of Egypt",
+      "explanation": "Bible.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Plagen means to torment or trouble: Mich plagen Kopfschmerzen, von Sorgen geplagt. Sich plagen means to toil or struggle: sich mit den Hausaufgaben plagen. Die Plage is a plague or nuisance: eine Mückenplage, die zehn Plagen Ägyptens. A grumbling joke: Wer die Wahl hat, hat die Qual (choice is torture). Regular: plagte, geplagt."
+}

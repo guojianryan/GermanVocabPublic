@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "jedweder",
+    "partOfSpeech": "pronoun / determiner",
+    "pronunciation": {
+      "respelling": "YAYT-vay-der",
+      "ipa": "ˈjeːtˌveːdɐ",
+      "notes": ""
+    },
+    "meaning": "any (at all), every (formal)",
+    "shortDefinition": "Any (at all), every (formal)."
+  },
+  "sampleSentences": [
+    {
+      "german": "Er lehnte jedwede Verantwortung ab.",
+      "english": "He rejected any responsibility whatsoever.",
+      "highlight": [
+        "jedwede"
+      ]
+    },
+    {
+      "german": "Jedweder Versuch scheiterte.",
+      "english": "Every single attempt failed.",
+      "highlight": [
+        "Jedweder"
+      ]
+    }
+  ],
+  "forms": [
+    "jedwede",
+    "jedweden",
+    "jedwedes"
+  ],
+  "memoryHook": "Jedweder: jeder (each) and weder (either), emphatic every.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does jedweder mean?",
+      "options": [
+        "the bed",
+        "any (at all)",
+        "the car"
+      ],
+      "answer": "any (at all)",
+      "explanation": "jedweder: any (at all), every (formal).",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "formal, emphatic",
+        "colloquial"
+      ],
+      "answer": "formal, emphatic",
+      "explanation": "Register.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "jeglicher, jeder",
+        "keiner"
+      ],
+      "answer": "jeglicher, jeder",
+      "explanation": "Synonym.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "It declines like…",
+      "options": [
+        "dieser (jedweder, jedwede, jedwedes)",
+        "an adverb"
+      ],
+      "answer": "dieser (jedweder, jedwede, jedwedes)",
+      "explanation": "Declension.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ohne ___ Grund (any)",
+      "answer": "jedweden",
+      "fullAnswer": "ohne jedweden Grund",
+      "explanation": "Accusative -en.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Jedweder means any at all or every, a formal, emphatic version of jeder or jeglicher, mostly in negative contexts: ohne jedwede Hilfe, jedweder Kritik entzogen. It declines like dieser: jedwede Frau, jedwedes Kind. It's common in legal and official texts and sounds old-fashioned in speech, where jeder or irgendein are normal."
+}

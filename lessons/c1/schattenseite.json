@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schattenseite",
+    "partOfSpeech": "noun, feminine (die Schattenseite)",
+    "pronunciation": {
+      "respelling": "SHA-ten-zai-te",
+      "ipa": "ˈʃatn̩ˌzaɪ̯tə",
+      "notes": "Plural: die Schattenseiten."
+    },
+    "meaning": "dark side, downside",
+    "shortDefinition": "Dark side, downside."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Schattenseite, plural die Schattenseiten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Schattenseite"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schattenseiten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Ruhm hat auch seine Schattenseiten.",
+      "english": "Fame has its downsides too.",
+      "highlight": [
+        "Schattenseiten."
+      ]
+    },
+    {
+      "german": "Er zeigt die Schattenseiten der Globalisierung.",
+      "english": "He shows the dark side of globalisation.",
+      "highlight": [
+        "Schattenseiten"
+      ]
+    }
+  ],
+  "forms": [
+    "Schattenseiten",
+    "die Schattenseite"
+  ],
+  "memoryHook": "Schattenseite: the Seite (side) in the Schatten (shade).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schattenseite",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Schattenseite is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schattenseite, zwei ___",
+      "answer": "Schattenseiten",
+      "fullAnswer": "ein Schattenseite, zwei Schattenseiten",
+      "explanation": "The plural is Schattenseiten.",
+      "acceptedAnswers": [
+        "Schattenseiten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schattenseite mean?",
+      "options": [
+        "to wait",
+        "dark side",
+        "the car"
+      ],
+      "answer": "dark side",
+      "explanation": "Schattenseite: dark side, downside.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schattenseiten are…",
+      "options": [
+        "the downsides",
+        "shady places only"
+      ],
+      "answer": "the downsides",
+      "explanation": "Downsides.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Sonnenseite is…",
+      "options": [
+        "the bright side; the sunny side",
+        "a sunbed"
+      ],
+      "answer": "the bright side; the sunny side",
+      "explanation": "Opposite.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schatten is…",
+      "options": [
+        "shadow, shade",
+        "a scatter"
+      ],
+      "answer": "shadow, shade",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Schattenseite is the shady side of a street or valley, and figuratively the dark side or downside, usually plural: die Schattenseiten des Erfolgs, des Tourismus. The opposite is die Sonnenseite: auf der Sonnenseite des Lebens stehen (to be one of life's lucky ones). Der Schatten means shadow: über seinen Schatten springen (to overcome one's reluctance). Plural: die Schattenseiten."
+}

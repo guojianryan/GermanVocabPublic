@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Einschüchterung",
+    "partOfSpeech": "noun, feminine (die Einschüchterung)",
+    "pronunciation": {
+      "respelling": "AIN-shükh-te-rung",
+      "ipa": "ˈaɪ̯nʃʏçtəʁʊŋ",
+      "notes": "Plural: die Einschüchterungen."
+    },
+    "meaning": "intimidation",
+    "shortDefinition": "Intimidation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Einschüchterung, plural die Einschüchterungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Einschüchterung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Einschüchterungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Drohungen dienten der Einschüchterung der Zeugen.",
+      "english": "The threats were meant to intimidate the witnesses.",
+      "highlight": [
+        "Einschüchterung"
+      ]
+    },
+    {
+      "german": "Journalisten berichten von Einschüchterungsversuchen.",
+      "english": "Journalists report attempts at intimidation.",
+      "highlight": [
+        "Einschüchterungsversuchen."
+      ]
+    }
+  ],
+  "forms": [
+    "Einschüchterungen",
+    "die Einschüchterung"
+  ],
+  "memoryHook": "Einschüchterung: making someone schüchtern (shy, timid).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Einschüchterung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Einschüchterung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Einschüchterung, zwei ___",
+      "answer": "Einschüchterungen",
+      "fullAnswer": "ein Einschüchterung, zwei Einschüchterungen",
+      "explanation": "The plural is Einschüchterungen.",
+      "acceptedAnswers": [
+        "Einschuechterungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Einschüchterung mean?",
+      "options": [
+        "to sing",
+        "the shop",
+        "intimidation"
+      ],
+      "answer": "intimidation",
+      "explanation": "Einschüchterung: intimidation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einschüchtern means…",
+      "options": [
+        "to intimidate",
+        "to shoot"
+      ],
+      "answer": "to intimidate",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schüchtern means…",
+      "options": [
+        "shy",
+        "shaky"
+      ],
+      "answer": "shy",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Drohung, die Nötigung",
+        "die Ermutigung"
+      ],
+      "answer": "die Drohung, die Nötigung",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Einschüchterung is intimidation: Einschüchterung von Zeugen, Journalisten, Wählern. Einschüchtern means to intimidate: Lass dich nicht einschüchtern! (don't let them scare you). It comes from schüchtern (shy, timid). Lawsuits meant to silence critics are called Einschüchterungsklagen or SLAPPs, which a 2024 EU directive targets. Plural: die Einschüchterungen."
+}

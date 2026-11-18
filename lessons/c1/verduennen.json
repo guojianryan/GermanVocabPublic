@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verdünnen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-DÜ-nen",
+      "ipa": "fɛɐ̯ˈdʏnən",
+      "notes": ""
+    },
+    "meaning": "to dilute, thin",
+    "shortDefinition": "To dilute, thin."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verdünn|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verdünn|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verdünn|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verdünn|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verdünn|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verdünn|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verdünnt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Den Saft mit Wasser verdünnen.",
+      "english": "Dilute the juice with water.",
+      "highlight": [
+        "verdünnen."
+      ]
+    },
+    {
+      "german": "Die Farbe muss verdünnt werden.",
+      "english": "The paint must be thinned.",
+      "highlight": [
+        "verdünnt"
+      ]
+    }
+  ],
+  "forms": [
+    "verdünne",
+    "verdünnst",
+    "verdünnt",
+    "verdünnen",
+    "Verdünnung"
+  ],
+  "memoryHook": "Verdünnen: make dünn (thin).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verdünnen)",
+      "answer": "verdünnt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verdünnt.",
+      "acceptedAnswers": [
+        "verduennt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verdünnen, past)",
+      "answer": "verdünnt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verdünnt.",
+      "acceptedAnswers": [
+        "verduennt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verdünnen mean?",
+      "options": [
+        "to dilute",
+        "the window",
+        "to learn"
+      ],
+      "answer": "to dilute",
+      "explanation": "verdünnen: to dilute, thin.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Verdünnung is…",
+      "options": [
+        "dilution; thinner",
+        "a slimming"
+      ],
+      "answer": "dilution; thinner",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Dünn means…",
+      "options": [
+        "thin; weak (coffee)",
+        "done"
+      ],
+      "answer": "thin; weak (coffee)",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich verdünnisieren (slang) means…",
+      "options": [
+        "to slip away, make oneself scarce",
+        "to get thin"
+      ],
+      "answer": "to slip away, make oneself scarce",
+      "explanation": "Slang.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verdünnen means to dilute or thin: Saft, Sirup, Farbe, Alkohol verdünnen. Die Verdünnung is dilution, and der Verdünner is paint thinner. Homeopathy relies on extreme Verdünnungen (Potenzen), whose effect scientists dispute. Dünn means thin: dünner Kaffee (weak coffee). The jokey slang sich verdünnisieren means to slip away. Regular: verdünnte, verdünnt."
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Vorgeschichte",
+    "partOfSpeech": "noun, feminine (die Vorgeschichte)",
+    "pronunciation": {
+      "respelling": "FOHR-ge-shikh-te",
+      "ipa": "ˈfoːɐ̯ɡəˌʃɪçtə",
+      "notes": "Plural: die Vorgeschichten."
+    },
+    "meaning": "background, prior history; prehistory",
+    "shortDefinition": "Background, prior history; prehistory."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Vorgeschichte, plural die Vorgeschichten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Vorgeschichte"
+        },
+        {
+          "label": "More than one",
+          "value": "die Vorgeschichten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Konflikt hat eine lange Vorgeschichte.",
+      "english": "The conflict has a long history behind it.",
+      "highlight": [
+        "Vorgeschichte."
+      ]
+    },
+    {
+      "german": "Der Arzt fragt nach der Vorgeschichte.",
+      "english": "The doctor asks about the medical history.",
+      "highlight": [
+        "Vorgeschichte."
+      ]
+    }
+  ],
+  "forms": [
+    "Vorgeschichten",
+    "die Vorgeschichten",
+    "die Vorgeschichte"
+  ],
+  "memoryHook": "Vorgeschichte: the Geschichte that came before (vor).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Vorgeschichte",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Vorgeschichte is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Vorgeschichte, zwei ___",
+      "answer": "Vorgeschichten",
+      "fullAnswer": "ein Vorgeschichte, zwei Vorgeschichten",
+      "explanation": "The plural is Vorgeschichten.",
+      "acceptedAnswers": [
+        "Vorgeschichten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Vorgeschichte mean?",
+      "options": [
+        "to sleep",
+        "background",
+        "the key"
+      ],
+      "answer": "background",
+      "explanation": "Vorgeschichte: background, prior history; prehistory.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In medicine, die Vorgeschichte is…",
+      "options": [
+        "the medical history",
+        "a past illness only"
+      ],
+      "answer": "the medical history",
+      "explanation": "Medical history.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In archaeology, die Vorgeschichte is…",
+      "options": [
+        "prehistory",
+        "the future"
+      ],
+      "answer": "prehistory",
+      "explanation": "Prehistory.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Literally:",
+      "options": [
+        "the story before",
+        "the front story"
+      ],
+      "answer": "the story before",
+      "explanation": "vor + Geschichte.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Vorgeschichte is the background or prior history of something: die Vorgeschichte des Streits, eine lange Vorgeschichte haben. In medicine, it's a patient's history: die Krankengeschichte or Anamnese. In archaeology, it's prehistory, the time before written records. A film's Vorgeschichte is its prequel story. From vor (before) and die Geschichte (history, story). Plural: die Vorgeschichten."
+}

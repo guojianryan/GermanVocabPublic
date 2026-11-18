@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Besatzer",
+    "partOfSpeech": "noun, masculine (der Besatzer)",
+    "pronunciation": {
+      "respelling": "be-ZA-tser",
+      "ipa": "bəˈzat͡sɐ",
+      "notes": "Plural: die Besatzer."
+    },
+    "meaning": "occupier",
+    "shortDefinition": "Occupier."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Besatzer, plural die Besatzer.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Besatzer"
+        },
+        {
+          "label": "More than one",
+          "value": "die Besatzer"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Bevölkerung leistete Widerstand gegen die Besatzer.",
+      "english": "The population resisted the occupiers.",
+      "highlight": [
+        "Besatzer."
+      ]
+    },
+    {
+      "german": "Nach 1945 teilten die Besatzer Deutschland in vier Zonen.",
+      "english": "After 1945 the occupiers divided Germany into four zones.",
+      "highlight": [
+        "Besatzer"
+      ]
+    }
+  ],
+  "forms": [
+    "Besatzerin",
+    "der Besatzer"
+  ],
+  "memoryHook": "Besatzer: someone who besetzt (occupies) a country.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Besatzer",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Besatzer is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Besatzer, zwei ___",
+      "answer": "Besatzer",
+      "fullAnswer": "ein Besatzer, zwei Besatzer",
+      "explanation": "The plural is Besatzer.",
+      "acceptedAnswers": [
+        "Besatzer"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Besatzer mean?",
+      "options": [
+        "to help",
+        "occupier",
+        "the bread"
+      ],
+      "answer": "occupier",
+      "explanation": "Besatzer: occupier.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Besatzung is…",
+      "options": [
+        "occupation; crew",
+        "a seating"
+      ],
+      "answer": "occupation; crew",
+      "explanation": "Related.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's four occupation zones were…",
+      "options": [
+        "US, British, French, Soviet",
+        "US, British, Italian, Soviet"
+      ],
+      "answer": "US, British, French, Soviet",
+      "explanation": "History.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Besetzen means…",
+      "options": [
+        "to occupy",
+        "to set aside"
+      ],
+      "answer": "to occupy",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Besatzer is an occupier, often with a negative tone; the neutral term is die Besatzungsmacht (occupying power). After 1945, Germany was divided into American, British, French and Soviet Besatzungszonen. Die Besatzung also means a ship's or plane's crew. Besetzen means to occupy, and besetzt means taken or engaged. The plural is the same."
+}

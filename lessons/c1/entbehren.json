@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "entbehren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ent-BAY-ren",
+      "ipa": "ɛntˈbeːʁən",
+      "notes": ""
+    },
+    "meaning": "to do without; to lack",
+    "shortDefinition": "To do without; to lack."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "entbehr|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "entbehr|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "entbehr|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "entbehr|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "entbehr|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "entbehr|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat entbehrt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Auf Reisen musste sie vieles entbehren.",
+      "english": "On her travels she had to do without many things.",
+      "highlight": [
+        "entbehren."
+      ]
+    },
+    {
+      "german": "Die Vorwürfe entbehren jeder Grundlage.",
+      "english": "The accusations are completely unfounded.",
+      "highlight": [
+        "entbehren"
+      ]
+    }
+  ],
+  "forms": [
+    "entbehre",
+    "entbehrst",
+    "entbehrt",
+    "entbehren",
+    "Entbehrung",
+    "entbehrlich"
+  ],
+  "memoryHook": "Entbehren: be without something you'd like.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (entbehren)",
+      "answer": "entbehrt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: entbehrt.",
+      "acceptedAnswers": [
+        "entbehrt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (entbehren, past)",
+      "answer": "entbehrt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe entbehrt.",
+      "acceptedAnswers": [
+        "entbehrt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does entbehren mean?",
+      "options": [
+        "the bread",
+        "to do without",
+        "to buy"
+      ],
+      "answer": "to do without",
+      "explanation": "entbehren: to do without; to lack.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jeder Grundlage entbehren means…",
+      "options": [
+        "to be completely unfounded",
+        "to need a base"
+      ],
+      "answer": "to be completely unfounded",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Entbehrlich means…",
+      "options": [
+        "dispensable",
+        "indispensable"
+      ],
+      "answer": "dispensable",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Entbehrung is…",
+      "options": [
+        "privation, hardship",
+        "a reward"
+      ],
+      "answer": "privation, hardship",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Entbehren means to do without or lack: Wir mussten vieles entbehren (after the war), and with the genitive, to lack something: Das entbehrt jeder Grundlage (that's baseless), nicht einer gewissen Komik entbehren (not without a certain comedy). Die Entbehrung is privation. Entbehrlich means dispensable, and unentbehrlich indispensable. Regular: entbehrte, entbehrt."
+}

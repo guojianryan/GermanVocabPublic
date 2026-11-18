@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "erniedrigen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "er-NEE-dri-gen",
+      "ipa": "ɛɐ̯ˈniːdʁɪɡn̩",
+      "notes": ""
+    },
+    "meaning": "to humiliate, degrade; to lower",
+    "shortDefinition": "To humiliate, degrade; to lower."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "erniedrig|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "erniedrig|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "erniedrig|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "erniedrig|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "erniedrig|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "erniedrig|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat erniedrigt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er wurde vor allen erniedrigt.",
+      "english": "He was humiliated in front of everyone.",
+      "highlight": [
+        "erniedrigt."
+      ]
+    },
+    {
+      "german": "Man darf Menschen nicht erniedrigen.",
+      "english": "One must not degrade people.",
+      "highlight": [
+        "erniedrigen."
+      ]
+    }
+  ],
+  "forms": [
+    "erniedrige",
+    "erniedrigst",
+    "erniedrigt",
+    "erniedrigen",
+    "Erniedrigung"
+  ],
+  "memoryHook": "Erniedrigen: make someone niedrig (low).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (erniedrigen)",
+      "answer": "erniedrigt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: erniedrigt.",
+      "acceptedAnswers": [
+        "erniedrigt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (erniedrigen, past)",
+      "answer": "erniedrigt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe erniedrigt.",
+      "acceptedAnswers": [
+        "erniedrigt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does erniedrigen mean?",
+      "options": [
+        "expensive",
+        "the family",
+        "to humiliate"
+      ],
+      "answer": "to humiliate",
+      "explanation": "erniedrigen: to humiliate, degrade; to lower.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Erniedrigung is…",
+      "options": [
+        "humiliation, degradation",
+        "lowering only"
+      ],
+      "answer": "humiliation, degradation",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Niedrig means…",
+      "options": [
+        "low",
+        "nice"
+      ],
+      "answer": "low",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "demütigen, herabwürdigen",
+        "ehren"
+      ],
+      "answer": "demütigen, herabwürdigen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Erniedrigen means to humiliate or degrade: jemanden öffentlich erniedrigen, erniedrigende Behandlung (degrading treatment, banned by human rights law). In music, it means to flatten a note, and in maths to lower a value. Synonyms: demütigen, herabwürdigen. From niedrig (low). Not separable: erniedrigte, hat erniedrigt."
+}

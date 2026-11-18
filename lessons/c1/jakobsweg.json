@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Jakobsweg",
+    "partOfSpeech": "noun, masculine (der Jakobsweg)",
+    "pronunciation": {
+      "respelling": "YAA-kops-vayk",
+      "ipa": "ˈjaːkɔpsˌveːk",
+      "notes": "Plural: die Jakobswege."
+    },
+    "meaning": "Way of St James (Camino)",
+    "shortDefinition": "Way of St James (Camino)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Jakobsweg, plural die Jakobswege.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Jakobsweg"
+        },
+        {
+          "label": "More than one",
+          "value": "die Jakobswege"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie ist den Jakobsweg nach Santiago gepilgert.",
+      "english": "She walked the Way of St James to Santiago as a pilgrim.",
+      "highlight": [
+        "Jakobsweg"
+      ]
+    },
+    {
+      "german": "Die Muschel ist das Zeichen des Jakobswegs.",
+      "english": "The scallop shell is the symbol of the Camino.",
+      "highlight": [
+        "Jakobswegs."
+      ]
+    }
+  ],
+  "forms": [
+    "Jakobswege",
+    "der Jakobsweg"
+  ],
+  "memoryHook": "Jakobsweg: the Weg to St Jakob (James).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Jakobsweg",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Jakobsweg is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Jakobsweg, zwei ___",
+      "answer": "Jakobswege",
+      "fullAnswer": "ein Jakobsweg, zwei Jakobswege",
+      "explanation": "The plural is Jakobswege.",
+      "acceptedAnswers": [
+        "Jakobswege"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Jakobsweg mean?",
+      "options": [
+        "the bill",
+        "slowly",
+        "Way of St James (Camino)"
+      ],
+      "answer": "Way of St James (Camino)",
+      "explanation": "Jakobsweg: Way of St James (Camino).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Jakobsweg leads to…",
+      "options": [
+        "Santiago de Compostela",
+        "Rome"
+      ],
+      "answer": "Santiago de Compostela",
+      "explanation": "Geography.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Its symbol is…",
+      "options": [
+        "the scallop shell",
+        "the cross only"
+      ],
+      "answer": "the scallop shell",
+      "explanation": "Symbol.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hape Kerkeling's bestseller is…",
+      "options": [
+        "Ich bin dann mal weg",
+        "Der Weg ist das Ziel"
+      ],
+      "answer": "Ich bin dann mal weg",
+      "explanation": "Culture.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Jakobsweg is the Way of St James, the pilgrimage route to Santiago de Compostela in Spain, marked by a scallop shell (Jakobsmuschel). Many Jakobswege also cross Germany. Comedian Hape Kerkeling's 2006 book Ich bin dann mal weg, about his walk, became a huge bestseller and sent many Germans on the Camino. Plural: die Jakobswege."
+}

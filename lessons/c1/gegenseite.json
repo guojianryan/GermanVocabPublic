@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gegenseite",
+    "partOfSpeech": "noun, feminine (die Gegenseite)",
+    "pronunciation": {
+      "respelling": "GAY-gen-zai-te",
+      "ipa": "ˈɡeːɡn̩ˌzaɪ̯tə",
+      "notes": "Plural: die Gegenseiten."
+    },
+    "meaning": "opposite side, other party",
+    "shortDefinition": "Opposite side, other party."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Gegenseite, plural die Gegenseiten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Gegenseite"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gegenseiten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir müssen auch die Gegenseite anhören.",
+      "english": "We also need to hear the other side.",
+      "highlight": [
+        "Gegenseite"
+      ]
+    },
+    {
+      "german": "Der Anwalt der Gegenseite widersprach.",
+      "english": "The lawyer for the other party objected.",
+      "highlight": [
+        "Gegenseite"
+      ]
+    }
+  ],
+  "forms": [
+    "Gegenseiten",
+    "die Gegenseite"
+  ],
+  "memoryHook": "Gegenseite: the Seite (side) against (gegen) you.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gegenseite",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Gegenseite is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gegenseite, zwei ___",
+      "answer": "Gegenseiten",
+      "fullAnswer": "ein Gegenseite, zwei Gegenseiten",
+      "explanation": "The plural is Gegenseiten.",
+      "acceptedAnswers": [
+        "Gegenseiten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gegenseite mean?",
+      "options": [
+        "opposite side",
+        "the family",
+        "slowly"
+      ],
+      "answer": "opposite side",
+      "explanation": "Gegenseite: opposite side, other party.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In law, die Gegenseite is…",
+      "options": [
+        "the opposing party",
+        "the back of a page"
+      ],
+      "answer": "the opposing party",
+      "explanation": "Opposing.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gegenseitig means…",
+      "options": [
+        "mutual",
+        "opposite"
+      ],
+      "answer": "mutual",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Auf der gegenüberliegenden Seite means…",
+      "options": [
+        "on the opposite side",
+        "on the back side"
+      ],
+      "answer": "on the opposite side",
+      "explanation": "Location.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Gegenseite is the other side or opposing party, in a dispute, negotiation or court case: die Gegenseite anhören (to hear the other side), der Anwalt der Gegenseite. The legal principle audiatur et altera pars means let the other side be heard too. Gegenseitig means mutual: gegenseitiger Respekt. Plural: die Gegenseiten."
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "bestärken",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-SHTER-ken",
+      "ipa": "bəˈʃtɛʁkn̩",
+      "notes": ""
+    },
+    "meaning": "to encourage, strengthen, confirm",
+    "shortDefinition": "To encourage, strengthen, confirm."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "bestärk|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "bestärk|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "bestärk|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "bestärk|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "bestärk|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "bestärk|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat bestärkt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Seine Eltern bestärkten ihn in seinem Wunsch, Musik zu studieren.",
+      "english": "His parents encouraged him in his wish to study music.",
+      "highlight": [
+        "bestärkten"
+      ]
+    },
+    {
+      "german": "Das Ergebnis bestärkt uns in unserer Meinung.",
+      "english": "The result confirms us in our opinion.",
+      "highlight": [
+        "bestärkt"
+      ]
+    }
+  ],
+  "forms": [
+    "bestärke",
+    "bestärkst",
+    "bestärkt",
+    "bestärken",
+    "bestärkte"
+  ],
+  "memoryHook": "Bestärken: make stärker (stronger) in a belief.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (bestärken)",
+      "answer": "bestärkt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: bestärkt.",
+      "acceptedAnswers": [
+        "bestaerkt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (bestärken, past)",
+      "answer": "bestärkt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe bestärkt.",
+      "acceptedAnswers": [
+        "bestaerkt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does bestärken mean?",
+      "options": [
+        "always",
+        "to encourage",
+        "to travel"
+      ],
+      "answer": "to encourage",
+      "explanation": "bestärken: to encourage, strengthen, confirm.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Jemanden in etwas bestärken means…",
+      "options": [
+        "to encourage, back someone in something",
+        "to make someone strong"
+      ],
+      "answer": "to encourage, back someone in something",
+      "explanation": "Meaning.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stärken vs. bestärken:",
+      "options": [
+        "bestärken = encourage in a view/plan",
+        "same meaning"
+      ],
+      "answer": "bestärken = encourage in a view/plan",
+      "explanation": "Contrast.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "ermutigen, unterstützen, bekräftigen",
+        "entmutigen"
+      ],
+      "answer": "ermutigen, unterstützen, bekräftigen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Bestärken means to encourage or strengthen someone in a view, plan or feeling: jemanden in seinem Vorhaben, seiner Meinung bestärken. It differs from stärken (to strengthen physically or generally). Die Bestärkung is encouragement. Synonyms: ermutigen, bekräftigen, unterstützen. The opposite is entmutigen. Regular: bestärkte, bestärkt."
+}

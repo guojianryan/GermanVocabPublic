@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schwarzmarkt",
+    "partOfSpeech": "noun, masculine (der Schwarzmarkt)",
+    "pronunciation": {
+      "respelling": "SHVARTS-markt",
+      "ipa": "ˈʃvaʁt͡sˌmaʁkt",
+      "notes": "Plural: die Schwarzmärkte."
+    },
+    "meaning": "black market",
+    "shortDefinition": "Black market."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schwarzmarkt, plural die Schwarzmärkte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schwarzmarkt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schwarzmärkte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Nach dem Krieg blühte der Schwarzmarkt.",
+      "english": "After the war the black market flourished.",
+      "highlight": [
+        "Schwarzmarkt."
+      ]
+    },
+    {
+      "german": "Die Tickets werden auf dem Schwarzmarkt teuer verkauft.",
+      "english": "The tickets are sold at high prices on the black market.",
+      "highlight": [
+        "Schwarzmarkt"
+      ]
+    }
+  ],
+  "forms": [
+    "Schwarzmärkte",
+    "der Schwarzmarkt"
+  ],
+  "memoryHook": "Schwarzmarkt: an illegal 'black' (schwarz) Markt.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schwarzmarkt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schwarzmarkt is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schwarzmarkt, zwei ___",
+      "answer": "Schwarzmärkte",
+      "fullAnswer": "ein Schwarzmarkt, zwei Schwarzmärkte",
+      "explanation": "The plural is Schwarzmärkte.",
+      "acceptedAnswers": [
+        "Schwarzmaerkte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schwarzmarkt mean?",
+      "options": [
+        "black market",
+        "the family",
+        "quiet"
+      ],
+      "answer": "black market",
+      "explanation": "Schwarzmarkt: black market.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "After 1945, the main black-market currency was…",
+      "options": [
+        "cigarettes",
+        "gold bars"
+      ],
+      "answer": "cigarettes",
+      "explanation": "History.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schwarzarbeit is…",
+      "options": [
+        "undeclared work",
+        "night shift"
+      ],
+      "answer": "undeclared work",
+      "explanation": "Related.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schwarzfahren means…",
+      "options": [
+        "to ride without a ticket",
+        "to drive at night"
+      ],
+      "answer": "to ride without a ticket",
+      "explanation": "Related.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Schwarzmarkt is a black market: auf dem Schwarzmarkt kaufen. In post-war Germany (1945–48), before the currency reform, cigarettes served as the main black-market currency. Schwarz often means illegal or undeclared: Schwarzarbeit (undeclared work), schwarzfahren (to ride without a ticket), Schwarzgeld (undeclared money). Plural: die Schwarzmärkte."
+}

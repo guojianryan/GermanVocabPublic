@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kreuzigung",
+    "partOfSpeech": "noun, feminine (die Kreuzigung)",
+    "pronunciation": {
+      "respelling": "KROY-tsi-gung",
+      "ipa": "ˈkʁɔɪ̯t͡sɪɡʊŋ",
+      "notes": "Plural: die Kreuzigungen."
+    },
+    "meaning": "crucifixion",
+    "shortDefinition": "Crucifixion."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kreuzigung, plural die Kreuzigungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kreuzigung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kreuzigungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Gemälde zeigt die Kreuzigung Christi.",
+      "english": "The painting shows the crucifixion of Christ.",
+      "highlight": [
+        "Kreuzigung"
+      ]
+    },
+    {
+      "german": "Die Passionsspiele stellen die Kreuzigung dar.",
+      "english": "The passion plays depict the crucifixion.",
+      "highlight": [
+        "Kreuzigung"
+      ]
+    }
+  ],
+  "forms": [
+    "Kreuzigungen",
+    "die Kreuzigung"
+  ],
+  "memoryHook": "Kreuzigung: nailing to a Kreuz (cross).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kreuzigung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kreuzigung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kreuzigung, zwei ___",
+      "answer": "Kreuzigungen",
+      "fullAnswer": "ein Kreuzigung, zwei Kreuzigungen",
+      "explanation": "The plural is Kreuzigungen.",
+      "acceptedAnswers": [
+        "Kreuzigungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kreuzigung mean?",
+      "options": [
+        "the street",
+        "to wait",
+        "crucifixion"
+      ],
+      "answer": "crucifixion",
+      "explanation": "Kreuzigung: crucifixion.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kreuzigen means…",
+      "options": [
+        "to crucify",
+        "to cross"
+      ],
+      "answer": "to crucify",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Oberammergau's passion play takes place…",
+      "options": [
+        "every ten years",
+        "every year"
+      ],
+      "answer": "every ten years",
+      "explanation": "Tradition.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Karfreitag commemorates…",
+      "options": [
+        "the crucifixion",
+        "the resurrection"
+      ],
+      "answer": "the crucifixion",
+      "explanation": "Holiday.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kreuzigung is crucifixion, especially die Kreuzigung Jesu, remembered on Karfreitag (Good Friday), a public holiday when dancing is restricted in many states (Tanzverbot). The village of Oberammergau has performed its Passionsspiele, including the crucifixion, about every ten years since 1634, after a vow during the plague. Grünewald's Isenheim Altarpiece shows a famous Kreuzigung. Plural: die Kreuzigungen."
+}

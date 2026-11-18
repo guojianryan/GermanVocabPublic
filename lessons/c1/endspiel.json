@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Endspiel",
+    "partOfSpeech": "noun, neuter (das Endspiel)",
+    "pronunciation": {
+      "respelling": "ENT-shpeel",
+      "ipa": "ˈɛntˌʃpiːl",
+      "notes": "Plural: die Endspiele."
+    },
+    "meaning": "final (match); endgame",
+    "shortDefinition": "Final (match); endgame."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Endspiel, plural die Endspiele.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Endspiel"
+        },
+        {
+          "label": "More than one",
+          "value": "die Endspiele"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Endspiel findet in Berlin statt.",
+      "english": "The final takes place in Berlin.",
+      "highlight": [
+        "Endspiel"
+      ]
+    },
+    {
+      "german": "Im Endspiel hat er seinen Vorteil verspielt.",
+      "english": "In the endgame he threw away his advantage.",
+      "highlight": [
+        "Endspiel"
+      ]
+    }
+  ],
+  "forms": [
+    "Endspiele",
+    "die Endspiele",
+    "das Endspiel"
+  ],
+  "memoryHook": "Endspiel: the last Spiel at the Ende of a tournament.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Endspiel",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Endspiel is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Endspiel, zwei ___",
+      "answer": "Endspiele",
+      "fullAnswer": "ein Endspiel, zwei Endspiele",
+      "explanation": "The plural is Endspiele.",
+      "acceptedAnswers": [
+        "Endspiele"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Endspiel mean?",
+      "options": [
+        "to buy",
+        "the bread",
+        "final (match)"
+      ],
+      "answer": "final (match)",
+      "explanation": "Endspiel: final (match); endgame.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "das Finale",
+        "das Anspiel"
+      ],
+      "answer": "das Finale",
+      "explanation": "Final.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The DFB-Pokal final is played in…",
+      "options": [
+        "Berlin's Olympiastadion",
+        "Munich"
+      ],
+      "answer": "Berlin's Olympiastadion",
+      "explanation": "Every year since 1985.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "In chess, das Endspiel is…",
+      "options": [
+        "the endgame",
+        "checkmate"
+      ],
+      "answer": "the endgame",
+      "explanation": "Endgame.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Endspiel is the final match of a tournament: ins Endspiel kommen (to reach the final). Das Finale is a common synonym. Since 1985, the German cup final (DFB-Pokal-Endspiel) has been played every year in Berlin's Olympiastadion, and fans chant Berlin, Berlin, wir fahren nach Berlin! In chess, das Endspiel is the endgame, and figuratively it's the final phase of something. Plural: die Endspiele."
+}

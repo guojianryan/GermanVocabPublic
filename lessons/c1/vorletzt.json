@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "vorletzt",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "FOR-letst",
+      "ipa": "ˈfoːɐ̯ˌlɛt͡st",
+      "notes": ""
+    },
+    "meaning": "penultimate, second to last",
+    "shortDefinition": "Penultimate, second to last."
+  },
+  "sampleSentences": [
+    {
+      "german": "Wir waren vorletzte Woche in Rom.",
+      "english": "We were in Rome the week before last.",
+      "highlight": [
+        "vorletzte"
+      ]
+    },
+    {
+      "german": "Das ist das vorletzte Kapitel.",
+      "english": "That's the penultimate chapter.",
+      "highlight": [
+        "vorletzte"
+      ]
+    }
+  ],
+  "forms": [
+    "vorletzte",
+    "vorletzten",
+    "vorletzter",
+    "vorletztes"
+  ],
+  "memoryHook": "Vorletzt: the one before (vor) the last (letzt).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does vorletzt mean?",
+      "options": [
+        "always",
+        "expensive",
+        "penultimate"
+      ],
+      "answer": "penultimate",
+      "explanation": "vorletzt: penultimate, second to last.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vorletzte Woche means…",
+      "options": [
+        "the week before last",
+        "last week"
+      ],
+      "answer": "the week before last",
+      "explanation": "Time.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vorgestern means…",
+      "options": [
+        "the day before yesterday",
+        "last week"
+      ],
+      "answer": "the day before yesterday",
+      "explanation": "Day.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Vorletzt always has…",
+      "options": [
+        "an adjective ending (vorletzte, vorletzten)",
+        "no ending"
+      ],
+      "answer": "an adjective ending (vorletzte, vorletzten)",
+      "explanation": "Endings.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "im ___ Jahr (year before last)",
+      "answer": "vorletzten",
+      "fullAnswer": "im vorletzten Jahr",
+      "explanation": "Dative -en.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Vorletzt means penultimate or second to last: die vorletzte Seite, der vorletzte Platz, and for time, the one before last: vorletzte Woche, vorletztes Jahr. Similar: vorgestern (the day before yesterday) and übermorgen (the day after tomorrow), handy words English lacks. It always takes adjective endings. The opposite direction is übernächst: übernächste Woche (the week after next)."
+}

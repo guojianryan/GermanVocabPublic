@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Chemiker",
+    "partOfSpeech": "noun, masculine (der Chemiker)",
+    "pronunciation": {
+      "respelling": "KHAY-mi-ker",
+      "ipa": "ˈçeːmikɐ",
+      "notes": "Plural: die Chemiker."
+    },
+    "meaning": "chemist (scientist)",
+    "shortDefinition": "Chemist (scientist)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Chemiker, plural die Chemiker.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Chemiker"
+        },
+        {
+          "label": "More than one",
+          "value": "die Chemiker"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie arbeitet als Chemikerin in der Forschung.",
+      "english": "She works as a chemist in research.",
+      "highlight": [
+        "Chemikerin"
+      ]
+    },
+    {
+      "german": "Der Chemiker analysiert die Probe.",
+      "english": "The chemist analyses the sample.",
+      "highlight": [
+        "Chemiker"
+      ]
+    }
+  ],
+  "forms": [
+    "die Chemiker",
+    "der Chemiker",
+    "Chemikerin"
+  ],
+  "memoryHook": "Chemiker: a scientist of Chemie.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Chemiker",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Chemiker is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Chemiker, zwei ___",
+      "answer": "Chemiker",
+      "fullAnswer": "ein Chemiker, zwei Chemiker",
+      "explanation": "The plural is Chemiker.",
+      "acceptedAnswers": [
+        "Chemiker"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Chemiker mean?",
+      "options": [
+        "the bread",
+        "chemist (scientist)",
+        "the job"
+      ],
+      "answer": "chemist (scientist)",
+      "explanation": "Chemiker: chemist (scientist).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "A pharmacist (UK chemist's) is…",
+      "options": [
+        "der Apotheker",
+        "der Chemiker"
+      ],
+      "answer": "der Apotheker",
+      "explanation": "False friend.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Chemikerin",
+        "die Chemikin"
+      ],
+      "answer": "die Chemikerin",
+      "explanation": "-in.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Angela Merkel trained as…",
+      "options": [
+        "a physicist / quantum chemist",
+        "a lawyer"
+      ],
+      "answer": "a physicist / quantum chemist",
+      "explanation": "Merkel.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Chemiker (die Chemikerin) is a chemist, the scientist. A British chemist's shop is die Apotheke, and the pharmacist der Apotheker. German chemists include Justus von Liebig, Fritz Haber (ammonia synthesis) and Otto Hahn (nuclear fission, 1938). Angela Merkel earned a doctorate in quantum chemistry. Ch is pronounced as in ich in the north and as k in the south. Plural: die Chemiker."
+}

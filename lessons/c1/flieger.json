@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Flieger",
+    "partOfSpeech": "noun, masculine (der Flieger)",
+    "pronunciation": {
+      "respelling": "FLEE-ger",
+      "ipa": "ˈfliːɡɐ",
+      "notes": "Plural: die Flieger."
+    },
+    "meaning": "plane (informal); aviator, pilot",
+    "shortDefinition": "Plane (informal); aviator, pilot."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Flieger, plural die Flieger.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Flieger"
+        },
+        {
+          "label": "More than one",
+          "value": "die Flieger"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ich nehme den Flieger nach Berlin.",
+      "english": "I'm taking the plane to Berlin.",
+      "highlight": [
+        "Flieger"
+      ]
+    },
+    {
+      "german": "Der Flieger landet um acht.",
+      "english": "The plane lands at eight.",
+      "highlight": [
+        "Flieger"
+      ]
+    }
+  ],
+  "forms": [
+    "die Flieger",
+    "der Flieger",
+    "Fliegerin"
+  ],
+  "memoryHook": "Flieger: the casual way to say plane.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Flieger",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Flieger is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Flieger, zwei ___",
+      "answer": "Flieger",
+      "fullAnswer": "ein Flieger, zwei Flieger",
+      "explanation": "The plural is Flieger.",
+      "acceptedAnswers": [
+        "Flieger"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Flieger mean?",
+      "options": [
+        "to buy",
+        "the child",
+        "plane (informal)"
+      ],
+      "answer": "plane (informal)",
+      "explanation": "Flieger: plane (informal); aviator, pilot.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Formal word for plane:",
+      "options": [
+        "das Flugzeug",
+        "der Flieger"
+      ],
+      "answer": "das Flugzeug",
+      "explanation": "Flugzeug.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Ferienflieger is…",
+      "options": [
+        "a holiday charter airline/plane",
+        "a kite"
+      ],
+      "answer": "a holiday charter airline/plane",
+      "explanation": "Charter.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "From…",
+      "options": [
+        "fliegen",
+        "fliehen"
+      ],
+      "answer": "fliegen",
+      "explanation": "fliegen.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Flieger is a casual word for a plane: Ich nehme den Flieger. The standard word is das Flugzeug. Der Flieger also means an aviator or pilot (die Fliegerin), and der Ferienflieger is a holiday airline. Historically, die Flieger were air force pilots, as in the Red Baron, der Rote Baron Manfred von Richthofen. From fliegen (to fly). Plural: die Flieger."
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "währen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "VAY-ren",
+      "ipa": "ˈvɛːʁən",
+      "notes": ""
+    },
+    "meaning": "to last (literary)",
+    "shortDefinition": "To last (literary)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "währ|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "währ|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "währ|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "währ|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "währ|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "währ|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gewährt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Was lange währt, wird endlich gut.",
+      "english": "Good things come to those who wait.",
+      "highlight": [
+        "währt,"
+      ]
+    },
+    {
+      "german": "Die Freude währte nicht lange.",
+      "english": "The joy did not last long.",
+      "highlight": [
+        "währte"
+      ]
+    }
+  ],
+  "forms": [
+    "währe",
+    "währst",
+    "währt",
+    "währen",
+    "gewährt",
+    "währte"
+  ],
+  "memoryHook": "Währen: to last; während (while) is its participle.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (währen)",
+      "answer": "währt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: währt.",
+      "acceptedAnswers": [
+        "waehrt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (währen, past)",
+      "answer": "gewährt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gewährt.",
+      "acceptedAnswers": [
+        "gewaehrt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does währen mean?",
+      "options": [
+        "to last (literary)",
+        "never",
+        "the bread"
+      ],
+      "answer": "to last (literary)",
+      "explanation": "währen: to last (literary).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Register:",
+      "options": [
+        "literary, proverbs",
+        "everyday"
+      ],
+      "answer": "literary, proverbs",
+      "explanation": "Literary.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday synonym:",
+      "options": [
+        "dauern",
+        "wahren"
+      ],
+      "answer": "dauern",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ehrlich währt am längsten means…",
+      "options": [
+        "honesty is the best policy",
+        "honesty lasts too long"
+      ],
+      "answer": "honesty is the best policy",
+      "explanation": "Proverb.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Währen means to last and is literary or found in proverbs: Was lange währt, wird endlich gut (good things take time), Ehrlich währt am längsten (honesty is the best policy). Everyday German says dauern. The preposition während (during, while) comes from its present participle. Don't confuse it with wahren (to preserve: den Schein wahren) or gewähren (to grant)."
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Magistrat",
+    "partOfSpeech": "noun, masculine (der Magistrat)",
+    "pronunciation": {
+      "respelling": "ma-gis-TRAAT",
+      "ipa": "maɡɪsˈtʁaːt",
+      "notes": "Plural: die Magistrate."
+    },
+    "meaning": "municipal council (executive)",
+    "shortDefinition": "Municipal council (executive)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Magistrat, plural die Magistrate.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Magistrat"
+        },
+        {
+          "label": "More than one",
+          "value": "die Magistrate"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Magistrat der Stadt hat den Plan beschlossen.",
+      "english": "The city's executive council approved the plan.",
+      "highlight": [
+        "Magistrat"
+      ]
+    },
+    {
+      "german": "In Wien heißt die Stadtverwaltung Magistrat.",
+      "english": "In Vienna, the city administration is called Magistrat.",
+      "highlight": [
+        "Magistrat."
+      ]
+    }
+  ],
+  "forms": [
+    "Magistrate",
+    "der Magistrat"
+  ],
+  "memoryHook": "Magistrat: the city's governing board (Latin magistratus).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Magistrat",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Magistrat is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Magistrat, zwei ___",
+      "answer": "Magistrate",
+      "fullAnswer": "ein Magistrat, zwei Magistrate",
+      "explanation": "The plural is Magistrate.",
+      "acceptedAnswers": [
+        "Magistrate"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Magistrat mean?",
+      "options": [
+        "the flower",
+        "slowly",
+        "municipal council (executive)"
+      ],
+      "answer": "municipal council (executive)",
+      "explanation": "Magistrat: municipal council (executive).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "In Hessian cities, der Magistrat is…",
+      "options": [
+        "the city executive board",
+        "a judge"
+      ],
+      "answer": "the city executive board",
+      "explanation": "Hesse.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "A magistrate (judge) in German is…",
+      "options": [
+        "ein Richter / Friedensrichter",
+        "der Magistrat"
+      ],
+      "answer": "ein Richter / Friedensrichter",
+      "explanation": "False friend.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gender:",
+      "options": [
+        "der Magistrat",
+        "das Magistrat"
+      ],
+      "answer": "der Magistrat",
+      "explanation": "Masculine.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Magistrat is a city's executive body, in Hesse (Frankfurt's Magistrat, led by the Oberbürgermeister) and in Austria, where Vienna's city administration is the Magistrat. The GDR's East Berlin also had one. It's a false friend: an English magistrate (lower judge) is ein Richter or Friedensrichter. From Latin magistratus (public office). Plural: die Magistrate."
+}

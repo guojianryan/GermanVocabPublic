@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "anreisen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AN-rai-zen",
+      "ipa": "ˈanˌʁaɪ̯zn̩",
+      "notes": ""
+    },
+    "meaning": "to arrive, travel there",
+    "shortDefinition": "To arrive, travel there."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "reis|e … |an"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "reis|t … |an"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "reis|t … |an"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "reis|en … |an"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "reis|t … |an"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "reis|en … |an"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): ist angereist"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir reisen am Freitag mit dem Zug an.",
+      "english": "We're arriving by train on Friday.",
+      "highlight": [
+        "reisen",
+        "an."
+      ]
+    },
+    {
+      "german": "Viele Fans sind von weit her angereist.",
+      "english": "Many fans travelled from far away.",
+      "highlight": [
+        "angereist."
+      ]
+    }
+  ],
+  "forms": [
+    "reise an",
+    "reist an",
+    "reisen an",
+    "angereist",
+    "reiste an",
+    "Anreise"
+  ],
+  "memoryHook": "Anreisen: travel (reisen) to (an) a place.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … an (anreisen)",
+      "answer": "reist",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: reist … an.",
+      "acceptedAnswers": [
+        "reist"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich bin schon ___. (anreisen, past)",
+      "answer": "angereist",
+      "fullAnswer": "",
+      "explanation": "Perfekt: bin angereist.",
+      "acceptedAnswers": [
+        "angereist"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does anreisen mean?",
+      "options": [
+        "hot",
+        "the bed",
+        "to arrive"
+      ],
+      "answer": "to arrive",
+      "explanation": "anreisen: to arrive, travel there.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Anreise is…",
+      "options": [
+        "the journey there; arrival",
+        "departure"
+      ],
+      "answer": "the journey there; arrival",
+      "explanation": "Noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The opposite:",
+      "options": [
+        "abreisen",
+        "einreisen"
+      ],
+      "answer": "abreisen",
+      "explanation": "Depart.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Perfect with…",
+      "options": [
+        "sein",
+        "haben"
+      ],
+      "answer": "sein",
+      "explanation": "ist angereist.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Anreisen means to travel to a place or to arrive: Die Gäste reisen morgen an. Die Anreise is the journey there or arrival: Anreise mit dem Auto, der Anreisetag. Hotel websites show Anreise and Abreise dates instead of check-in and check-out. The opposite is abreisen. Einreisen means to enter a country. Separable, with sein: ist angereist."
+}

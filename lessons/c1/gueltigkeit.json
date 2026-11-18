@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gültigkeit",
+    "partOfSpeech": "noun, feminine (die Gültigkeit)",
+    "pronunciation": {
+      "respelling": "GÜL-tikh-kait",
+      "ipa": "ˈɡʏltɪçkaɪ̯t",
+      "notes": "Usually no plural."
+    },
+    "meaning": "validity",
+    "shortDefinition": "Validity."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Gültigkeit, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Gültigkeit"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Prüfen Sie die Gültigkeit Ihres Passes.",
+      "english": "Check the validity of your passport.",
+      "highlight": [
+        "Gültigkeit"
+      ]
+    },
+    {
+      "german": "Das Gesetz hat noch Gültigkeit.",
+      "english": "The law is still valid.",
+      "highlight": [
+        "Gültigkeit."
+      ]
+    }
+  ],
+  "forms": [
+    "die Gültigkeit",
+    "gültig",
+    "ungültig"
+  ],
+  "memoryHook": "Gültigkeit: how long something gilt (is valid).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gültigkeit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Gültigkeit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gültigkeit mean?",
+      "options": [
+        "to travel",
+        "the weather",
+        "validity"
+      ],
+      "answer": "validity",
+      "explanation": "Gültigkeit: validity.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gültig means…",
+      "options": [
+        "valid",
+        "golden"
+      ],
+      "answer": "valid",
+      "explanation": "gültig.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ungültig means…",
+      "options": [
+        "invalid",
+        "unkind"
+      ],
+      "answer": "invalid",
+      "explanation": "un-.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "From…",
+      "options": [
+        "gelten (to be valid)",
+        "Gold"
+      ],
+      "answer": "gelten (to be valid)",
+      "explanation": "gelten.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Die Gültigkeit is validity: die Gültigkeit eines Tickets, eines Vertrags, eines Ausweises. Gültig means valid: Der Pass ist bis 2030 gültig, and ungültig invalid: eine ungültige Stimme (a spoiled ballot). It comes from gelten (to be valid, to count): Das gilt nicht! The German Personalausweis (ID card) has a Gültigkeit of ten years for adults. It has no plural."
+}

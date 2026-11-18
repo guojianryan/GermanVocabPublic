@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gottheit",
+    "partOfSpeech": "noun, feminine (die Gottheit)",
+    "pronunciation": {
+      "respelling": "GOT-hait",
+      "ipa": "ˈɡɔthaɪ̯t",
+      "notes": "Plural: die Gottheiten."
+    },
+    "meaning": "deity, divinity",
+    "shortDefinition": "Deity, divinity."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Gottheit, plural die Gottheiten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Gottheit"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gottheiten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Römer verehrten viele Gottheiten.",
+      "english": "The Romans worshipped many deities.",
+      "highlight": [
+        "Gottheiten."
+      ]
+    },
+    {
+      "german": "Thor ist eine germanische Gottheit.",
+      "english": "Thor is a Germanic deity.",
+      "highlight": [
+        "Gottheit."
+      ]
+    }
+  ],
+  "forms": [
+    "Gottheiten",
+    "die Gottheiten",
+    "die Gottheit"
+  ],
+  "memoryHook": "Gottheit: a being of divine nature (Gott).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gottheit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Gottheit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gottheit, zwei ___",
+      "answer": "Gottheiten",
+      "fullAnswer": "ein Gottheit, zwei Gottheiten",
+      "explanation": "The plural is Gottheiten.",
+      "acceptedAnswers": [
+        "Gottheiten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gottheit mean?",
+      "options": [
+        "deity",
+        "the car",
+        "slowly"
+      ],
+      "answer": "deity",
+      "explanation": "Gottheit: deity, divinity.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Göttin is…",
+      "options": [
+        "goddess",
+        "garden"
+      ],
+      "answer": "goddess",
+      "explanation": "Female.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Göttlich means…",
+      "options": [
+        "divine",
+        "godless"
+      ],
+      "answer": "divine",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Donnerstag is named after…",
+      "options": [
+        "Donar (Thor)",
+        "thunderstorms only"
+      ],
+      "answer": "Donar (Thor)",
+      "explanation": "Thursday.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Gottheit is a deity or divinity: heidnische Gottheiten, eine weibliche Gottheit. Germanic gods live on in weekday names: Donnerstag from Donar (Thor), Freitag from Frija or Freya, and English Wednesday from Wodan (German uses Mittwoch, midweek). Der Gott is god, die Göttin goddess, and göttlich divine. Plural: die Gottheiten."
+}

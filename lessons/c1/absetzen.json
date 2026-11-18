@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "absetzen",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AP-zet-sen",
+      "ipa": "ˈapˌzɛt͡sn̩",
+      "notes": ""
+    },
+    "meaning": "to take off; to drop off; to remove from office; to deduct",
+    "shortDefinition": "To take off; to drop off; to remove from office; to deduct."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "setz|e … |ab"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "setz|t … |ab"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "setz|t … |ab"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "setz|en … |ab"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "setz|t … |ab"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "setz|en … |ab"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat abgesetzt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Kannst du mich am Bahnhof absetzen?",
+      "english": "Can you drop me off at the station?",
+      "highlight": [
+        "absetzen?"
+      ]
+    },
+    {
+      "german": "Die Kosten kann man von der Steuer absetzen.",
+      "english": "You can deduct the costs from your taxes.",
+      "highlight": [
+        "absetzen."
+      ]
+    }
+  ],
+  "forms": [
+    "setze ab",
+    "setzt ab",
+    "setzen ab",
+    "abgesetzt",
+    "setzte ab",
+    "Absatz",
+    "absetzbar"
+  ],
+  "memoryHook": "Absetzen: put down whatever was up (hat, glasses, a king).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … ab (absetzen)",
+      "answer": "setzt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: setzt … ab.",
+      "acceptedAnswers": [
+        "setzt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (absetzen, past)",
+      "answer": "abgesetzt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe abgesetzt.",
+      "acceptedAnswers": [
+        "abgesetzt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does absetzen mean?",
+      "options": [
+        "to take off",
+        "to wait",
+        "the window"
+      ],
+      "answer": "to take off",
+      "explanation": "absetzen: to take off; to drop off; to remove from office; to deduct.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Von der Steuer absetzen means…",
+      "options": [
+        "to deduct from tax",
+        "to pay tax"
+      ],
+      "answer": "to deduct from tax",
+      "explanation": "Tax-deductible.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Brille absetzen means…",
+      "options": [
+        "to take off glasses",
+        "to put on glasses"
+      ],
+      "answer": "to take off glasses",
+      "explanation": "Take off.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich absetzen means…",
+      "options": [
+        "to get away; to stand out",
+        "to sit down"
+      ],
+      "answer": "to get away; to stand out",
+      "explanation": "Escape / stand out.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Absetzen has many meanings: to take off (den Hut absetzen), to drop someone off (Ich setze dich am Bahnhof ab), to remove from office (den König absetzen), to cancel (eine Sendung absetzen), to stop a medicine, and to deduct from tax (steuerlich absetzen, every German's favourite). Sich absetzen means to get away or to stand out from others. Der Absatz (paragraph, heel, sales) shares the root."
+}

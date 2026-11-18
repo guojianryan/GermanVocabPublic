@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Silbe",
+    "partOfSpeech": "noun, feminine (die Silbe)",
+    "pronunciation": {
+      "respelling": "ZIL-be",
+      "ipa": "ˈzɪlbə",
+      "notes": "Plural: die Silben."
+    },
+    "meaning": "syllable",
+    "shortDefinition": "Syllable."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Silbe, plural die Silben.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Silbe"
+        },
+        {
+          "label": "More than one",
+          "value": "die Silben"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Wort hat drei Silben.",
+      "english": "The word has three syllables.",
+      "highlight": [
+        "Silben."
+      ]
+    },
+    {
+      "german": "Die Betonung liegt auf der zweiten Silbe.",
+      "english": "The stress is on the second syllable.",
+      "highlight": [
+        "Silbe."
+      ]
+    }
+  ],
+  "forms": [
+    "Silben",
+    "die Silbe"
+  ],
+  "memoryHook": "Silbe: a sound unit taken together (Greek syllabe).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Silbe",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Silbe is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Silbe, zwei ___",
+      "answer": "Silben",
+      "fullAnswer": "ein Silbe, zwei Silben",
+      "explanation": "The plural is Silben.",
+      "acceptedAnswers": [
+        "Silben"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Silbe mean?",
+      "options": [
+        "the bread",
+        "slowly",
+        "syllable"
+      ],
+      "answer": "syllable",
+      "explanation": "Silbe: syllable.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Silbentrennung is…",
+      "options": [
+        "hyphenation",
+        "syllable stress"
+      ],
+      "answer": "hyphenation",
+      "explanation": "Hyphenation.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Keine Silbe sagen means…",
+      "options": [
+        "to say not a word",
+        "to whisper"
+      ],
+      "answer": "to say not a word",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Most German words are stressed on…",
+      "options": [
+        "the first (stem) syllable",
+        "the last syllable"
+      ],
+      "answer": "the first (stem) syllable",
+      "explanation": "Stress.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Silbe is a syllable: eine betonte Silbe (stressed syllable). Most native German words stress the first or stem syllable, while foreign words often stress the last: Universität, Präsident. Die Silbentrennung is hyphenation at line ends. Keine Silbe means not a single word: Er hat keine Silbe davon gesagt. Plural: die Silben."
+}

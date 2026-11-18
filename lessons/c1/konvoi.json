@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Konvoi",
+    "partOfSpeech": "noun, masculine (der Konvoi)",
+    "pronunciation": {
+      "respelling": "KON-voy",
+      "ipa": "ˈkɔnvɔɪ̯",
+      "notes": "Plural: die Konvois."
+    },
+    "meaning": "convoy",
+    "shortDefinition": "Convoy."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Konvoi, plural die Konvois.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Konvoi"
+        },
+        {
+          "label": "More than one",
+          "value": "die Konvois"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Ein Konvoi mit Hilfsgütern erreichte die Stadt.",
+      "english": "A convoy with aid supplies reached the city.",
+      "highlight": [
+        "Konvoi"
+      ]
+    },
+    {
+      "german": "Die Lastwagen fahren im Konvoi.",
+      "english": "The lorries are driving in convoy.",
+      "highlight": [
+        "Konvoi."
+      ]
+    }
+  ],
+  "forms": [
+    "Konvois",
+    "die Konvois",
+    "der Konvoi"
+  ],
+  "memoryHook": "Konvoi: vehicles travelling together for protection.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Konvoi",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Konvoi is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Konvoi, zwei ___",
+      "answer": "Konvois",
+      "fullAnswer": "ein Konvoi, zwei Konvois",
+      "explanation": "The plural is Konvois.",
+      "acceptedAnswers": [
+        "Konvois"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Konvoi mean?",
+      "options": [
+        "convoy",
+        "the window",
+        "the bread"
+      ],
+      "answer": "convoy",
+      "explanation": "Konvoi: convoy.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Konvois",
+        "die Konvoie"
+      ],
+      "answer": "die Konvois",
+      "explanation": "-s.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym (vehicles):",
+      "options": [
+        "die Kolonne",
+        "der Konvent"
+      ],
+      "answer": "die Kolonne",
+      "explanation": "Synonym.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Hilfskonvoi is…",
+      "options": [
+        "an aid convoy",
+        "a help desk"
+      ],
+      "answer": "an aid convoy",
+      "explanation": "Aid.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Konvoi is a convoy: ein Hilfskonvoi (aid convoy), ein Militärkonvoi, im Konvoi fahren. Originally, it meant escorted ships, such as WWII Atlantic convoys attacked by German U-boats. A close synonym for vehicles is die Kolonne. Pronounced KON-voy or kon-VOY. From French convoi. Plural: die Konvois."
+}

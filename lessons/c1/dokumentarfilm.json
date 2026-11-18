@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Dokumentarfilm",
+    "partOfSpeech": "noun, masculine (der Dokumentarfilm)",
+    "pronunciation": {
+      "respelling": "do-ku-men-TAAR-film",
+      "ipa": "dokumɛnˈtaːɐ̯ˌfɪlm",
+      "notes": "Plural: die Dokumentarfilme."
+    },
+    "meaning": "documentary film",
+    "shortDefinition": "Documentary film."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Dokumentarfilm, plural die Dokumentarfilme.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Dokumentarfilm"
+        },
+        {
+          "label": "More than one",
+          "value": "die Dokumentarfilme"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Wir haben einen Dokumentarfilm über Wale gesehen.",
+      "english": "We watched a documentary about whales.",
+      "highlight": [
+        "Dokumentarfilm"
+      ]
+    },
+    {
+      "german": "Der Dokumentarfilm gewann einen Preis auf der Berlinale.",
+      "english": "The documentary won an award at the Berlinale.",
+      "highlight": [
+        "Dokumentarfilm"
+      ]
+    }
+  ],
+  "forms": [
+    "Dokumentarfilme",
+    "die Dokumentarfilme",
+    "der Dokumentarfilm",
+    "Doku"
+  ],
+  "memoryHook": "Dokumentarfilm: a Film that documents reality.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Dokumentarfilm",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Dokumentarfilm is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Dokumentarfilm, zwei ___",
+      "answer": "Dokumentarfilme",
+      "fullAnswer": "ein Dokumentarfilm, zwei Dokumentarfilme",
+      "explanation": "The plural is Dokumentarfilme.",
+      "acceptedAnswers": [
+        "Dokumentarfilme"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Dokumentarfilm mean?",
+      "options": [
+        "documentary film",
+        "the bill",
+        "quiet"
+      ],
+      "answer": "documentary film",
+      "explanation": "Dokumentarfilm: documentary film.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Short form:",
+      "options": [
+        "die Doku",
+        "die Dokumente"
+      ],
+      "answer": "die Doku",
+      "explanation": "Short.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Spielfilm is…",
+      "options": [
+        "a feature film",
+        "a game film"
+      ],
+      "answer": "a feature film",
+      "explanation": "Feature.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The Berlinale is…",
+      "options": [
+        "Berlin's international film festival",
+        "a Berlin TV channel"
+      ],
+      "answer": "Berlin's international film festival",
+      "explanation": "Festival.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Dokumentarfilm is a documentary film, often shortened to die Doku: eine Doku über den Klimawandel. A feature film is ein Spielfilm. German public broadcasters like ARD, ZDF and arte air many documentaries, and Leipzig hosts DOK Leipzig, one of the oldest documentary festivals. Werner Herzog is also famous for his documentaries. Plural: die Dokumentarfilme."
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Brauerei",
+    "partOfSpeech": "noun, feminine (die Brauerei)",
+    "pronunciation": {
+      "respelling": "brau-e-RAI",
+      "ipa": "bʁaʊ̯əˈʁaɪ̯",
+      "notes": "Plural: die Brauereien."
+    },
+    "meaning": "brewery",
+    "shortDefinition": "Brewery."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Brauerei, plural die Brauereien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Brauerei"
+        },
+        {
+          "label": "More than one",
+          "value": "die Brauereien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Brauerei braut seit 1516 Bier.",
+      "english": "The brewery has been brewing beer since 1516.",
+      "highlight": [
+        "Brauerei"
+      ]
+    },
+    {
+      "german": "Wir haben eine Brauereiführung gemacht.",
+      "english": "We did a brewery tour.",
+      "highlight": [
+        "Brauereiführung"
+      ]
+    }
+  ],
+  "forms": [
+    "Brauereien",
+    "die Brauereien",
+    "die Brauerei",
+    "brauen"
+  ],
+  "memoryHook": "Brauerei: where Bier is gebraut.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Brauerei",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Brauerei is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Brauerei, zwei ___",
+      "answer": "Brauereien",
+      "fullAnswer": "ein Brauerei, zwei Brauereien",
+      "explanation": "The plural is Brauereien.",
+      "acceptedAnswers": [
+        "Brauereien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Brauerei mean?",
+      "options": [
+        "hot",
+        "the shop",
+        "brewery"
+      ],
+      "answer": "brewery",
+      "explanation": "Brauerei: brewery.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Brauen means…",
+      "options": [
+        "to brew",
+        "to brown"
+      ],
+      "answer": "to brew",
+      "explanation": "brauen.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Reinheitsgebot (1516) allows only…",
+      "options": [
+        "water, malt, hops (and yeast)",
+        "any ingredients"
+      ],
+      "answer": "water, malt, hops (and yeast)",
+      "explanation": "Purity law.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany has roughly…",
+      "options": [
+        "1,500 breweries",
+        "150 breweries"
+      ],
+      "answer": "1,500 breweries",
+      "explanation": "About 1,500.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Brauerei is a brewery. Germany has around 1,500, more than half of them in Bavaria, many tiny and family-run. The Bavarian Reinheitsgebot (purity law) of 1516 famously allowed beer to contain only water, barley and hops; yeast was added later once it was understood. Weihenstephan, near Munich, claims to be the world's oldest brewery still operating, dating to 1040. Brauen means to brew, and der Brauer is the brewer."
+}

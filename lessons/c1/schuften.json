@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "schuften",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "SHUF-ten",
+      "ipa": "ˈʃʊftn̩",
+      "notes": ""
+    },
+    "meaning": "to slave away, toil (colloquial)",
+    "shortDefinition": "To slave away, toil (colloquial)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "schuft|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "schuft|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "schuft|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "schuft|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "schuft|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "schuft|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat geschuftet"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er schuftet zwölf Stunden am Tag.",
+      "english": "He slaves away twelve hours a day.",
+      "highlight": [
+        "schuftet"
+      ]
+    },
+    {
+      "german": "Wir haben das ganze Wochenende im Garten geschuftet.",
+      "english": "We toiled in the garden all weekend.",
+      "highlight": [
+        "geschuftet."
+      ]
+    }
+  ],
+  "forms": [
+    "schufte",
+    "schuftest",
+    "schuftet",
+    "schuften",
+    "geschuftet",
+    "schuftete"
+  ],
+  "memoryHook": "Schuften: work until you drop.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (schuften)",
+      "answer": "schuftet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: schuftet.",
+      "acceptedAnswers": [
+        "schuftet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (schuften, past)",
+      "answer": "geschuftet",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe geschuftet.",
+      "acceptedAnswers": [
+        "geschuftet"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does schuften mean?",
+      "options": [
+        "the family",
+        "to slave away",
+        "quiet"
+      ],
+      "answer": "to slave away",
+      "explanation": "schuften: to slave away, toil (colloquial).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schuften means…",
+      "options": [
+        "to work very hard",
+        "to shove"
+      ],
+      "answer": "to work very hard",
+      "explanation": "Toil.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schuft is…",
+      "options": [
+        "a scoundrel (unrelated)",
+        "a hard worker"
+      ],
+      "answer": "a scoundrel (unrelated)",
+      "explanation": "Contrast.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "sich abrackern, malochen",
+        "faulenzen"
+      ],
+      "answer": "sich abrackern, malochen",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Schuften (colloquial) means to slave away or toil: auf dem Bau schuften, für einen Hungerlohn schuften (for a pittance). Synonyms: sich abrackern, sich abplagen, and malochen, a word from the Ruhr's mining culture, from Yiddish. Despite the look, der Schuft (scoundrel) is unrelated. The opposite is faulenzen (to laze). Regular: schuftete, geschuftet."
+}

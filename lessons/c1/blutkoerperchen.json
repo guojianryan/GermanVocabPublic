@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Blutkörperchen",
+    "partOfSpeech": "noun, neuter (das Blutkörperchen)",
+    "pronunciation": {
+      "respelling": "BLOOT-kör-per-khen",
+      "ipa": "ˈbluːtˌkœʁpɐçən",
+      "notes": "Plural: die Blutkörperchen."
+    },
+    "meaning": "blood cell, corpuscle",
+    "shortDefinition": "Blood cell, corpuscle."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Blutkörperchen, plural die Blutkörperchen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Blutkörperchen"
+        },
+        {
+          "label": "More than one",
+          "value": "die Blutkörperchen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Rote Blutkörperchen transportieren Sauerstoff.",
+      "english": "Red blood cells carry oxygen.",
+      "highlight": [
+        "Blutkörperchen"
+      ]
+    },
+    {
+      "german": "Weiße Blutkörperchen bekämpfen Infektionen.",
+      "english": "White blood cells fight infections.",
+      "highlight": [
+        "Blutkörperchen"
+      ]
+    }
+  ],
+  "forms": [
+    "das Blutkörperchen",
+    "Blutkörperchens"
+  ],
+  "memoryHook": "Blutkörperchen: a little (-chen) Körper (body) in the Blut.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Blutkörperchen",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Blutkörperchen is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Blutkörperchen, zwei ___",
+      "answer": "Blutkörperchen",
+      "fullAnswer": "ein Blutkörperchen, zwei Blutkörperchen",
+      "explanation": "The plural is Blutkörperchen.",
+      "acceptedAnswers": [
+        "Blutkoerperchen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Blutkörperchen mean?",
+      "options": [
+        "blood cell",
+        "the bill",
+        "to learn"
+      ],
+      "answer": "blood cell",
+      "explanation": "Blutkörperchen: blood cell, corpuscle.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rote Blutkörperchen are also called…",
+      "options": [
+        "Erythrozyten",
+        "Leukozyten"
+      ],
+      "answer": "Erythrozyten",
+      "explanation": "Red.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Weiße Blutkörperchen are…",
+      "options": [
+        "Leukozyten",
+        "Thrombozyten"
+      ],
+      "answer": "Leukozyten",
+      "explanation": "White.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "-chen nouns are…",
+      "options": [
+        "neuter",
+        "feminine"
+      ],
+      "answer": "neuter",
+      "explanation": "Gender.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Blutkörperchen is a blood cell: rote Blutkörperchen (Erythrozyten) carry oxygen, weiße Blutkörperchen (Leukozyten) fight infections, and Blutplättchen (Thrombozyten) help clotting. A Blutbild (blood count) measures them. The -chen ending makes it neuter, like all diminutives: das Mädchen, das Brötchen. The plural is the same: die Blutkörperchen."
+}

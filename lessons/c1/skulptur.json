@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Skulptur",
+    "partOfSpeech": "noun, feminine (die Skulptur)",
+    "pronunciation": {
+      "respelling": "skulp-TOOR",
+      "ipa": "skʊlpˈtuːɐ̯",
+      "notes": "Plural: die Skulpturen."
+    },
+    "meaning": "sculpture",
+    "shortDefinition": "Sculpture."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Skulptur, plural die Skulpturen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Skulptur"
+        },
+        {
+          "label": "More than one",
+          "value": "die Skulpturen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Park stehen moderne Skulpturen.",
+      "english": "There are modern sculptures in the park.",
+      "highlight": [
+        "Skulpturen."
+      ]
+    },
+    {
+      "german": "Die Skulptur ist aus Bronze.",
+      "english": "The sculpture is made of bronze.",
+      "highlight": [
+        "Skulptur"
+      ]
+    }
+  ],
+  "forms": [
+    "Skulpturen",
+    "die Skulpturen",
+    "die Skulptur",
+    "Bildhauer"
+  ],
+  "memoryHook": "Skulptur: carved (Latin sculpere) art.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Skulptur",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Skulptur is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Skulptur, zwei ___",
+      "answer": "Skulpturen",
+      "fullAnswer": "ein Skulptur, zwei Skulpturen",
+      "explanation": "The plural is Skulpturen.",
+      "acceptedAnswers": [
+        "Skulpturen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Skulptur mean?",
+      "options": [
+        "sculpture",
+        "the job",
+        "hot"
+      ],
+      "answer": "sculpture",
+      "explanation": "Skulptur: sculpture.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Bildhauer is…",
+      "options": [
+        "a sculptor",
+        "a photographer"
+      ],
+      "answer": "a sculptor",
+      "explanation": "Sculptor.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Skulptur Projekte take place in Münster…",
+      "options": [
+        "every ten years",
+        "every year"
+      ],
+      "answer": "every ten years",
+      "explanation": "Münster.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "die Plastik",
+        "die Malerei"
+      ],
+      "answer": "die Plastik",
+      "explanation": "Plastik.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Skulptur is a sculpture; a synonym is die Plastik, which also means plastic. The artist is der Bildhauer (die Bildhauerin), literally image-hewer. Münster hosts the Skulptur Projekte every ten years (most recently 2017), placing works across the city, and Kassel's documenta has left sculptures in its parks too. German sculptors include Tilman Riemenschneider, Käthe Kollwitz and Ernst Barlach. Plural: die Skulpturen."
+}

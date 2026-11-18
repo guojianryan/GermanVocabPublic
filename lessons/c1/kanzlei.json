@@ -1,0 +1,142 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kanzlei",
+    "partOfSpeech": "noun, feminine (die Kanzlei)",
+    "pronunciation": {
+      "respelling": "kants-LAI",
+      "ipa": "kant͡sˈlaɪ̯",
+      "notes": "Plural: die Kanzleien."
+    },
+    "meaning": "law firm; chancery",
+    "shortDefinition": "Law firm; chancery."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kanzlei, plural die Kanzleien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kanzlei"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kanzleien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie arbeitet in einer großen Kanzlei in Frankfurt.",
+      "english": "She works at a large law firm in Frankfurt.",
+      "highlight": [
+        "Kanzlei"
+      ]
+    },
+    {
+      "german": "Die Kanzlei hat ihren Sitz in der Innenstadt.",
+      "english": "The law firm is based in the city centre.",
+      "highlight": [
+        "Kanzlei"
+      ]
+    }
+  ],
+  "forms": [
+    "Kanzleien",
+    "die Kanzleien",
+    "die Kanzlei",
+    "Anwaltskanzlei",
+    "Steuerkanzlei"
+  ],
+  "memoryHook": "Kanzlei: where lawyers (and chancellors) have their desks.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kanzlei",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kanzlei is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kanzlei, zwei ___",
+      "answer": "Kanzleien",
+      "fullAnswer": "ein Kanzlei, zwei Kanzleien",
+      "explanation": "The plural is Kanzleien.",
+      "acceptedAnswers": [
+        "Kanzleien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kanzlei mean?",
+      "options": [
+        "law firm",
+        "the evening",
+        "tomorrow"
+      ],
+      "answer": "law firm",
+      "explanation": "Kanzlei: law firm; chancery.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "Kanzleien",
+        "Kanzlei"
+      ],
+      "answer": "Kanzleien",
+      "explanation": "-en.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine Kanzlei is typically…",
+      "options": [
+        "a firm of lawyers, tax advisers or notaries",
+        "a school"
+      ],
+      "answer": "a firm of lawyers, tax advisers or notaries",
+      "explanation": "Professionals.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kanzler is…",
+      "options": [
+        "chancellor",
+        "clerk"
+      ],
+      "answer": "chancellor",
+      "explanation": "Related.",
+      "id": "q6"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Bundeskanzleramt is…",
+      "options": [
+        "the Federal Chancellery",
+        "a law school"
+      ],
+      "answer": "the Federal Chancellery",
+      "explanation": "Berlin.",
+      "id": "q7"
+    }
+  ],
+  "goodToKnow": "Die Kanzlei is the office of a lawyer, notary or tax adviser: eine Anwaltskanzlei, eine Steuerkanzlei. Originally, it was a chancery, the office of the Kanzler, which is why the head of the German government is called Bundeskanzler and his or her office das Bundeskanzleramt. Mind the stress: kants-LAI, on the final syllable."
+}

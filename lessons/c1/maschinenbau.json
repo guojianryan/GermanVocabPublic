@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Maschinenbau",
+    "partOfSpeech": "noun, masculine (der Maschinenbau)",
+    "pronunciation": {
+      "respelling": "ma-SHEE-nen-bau",
+      "ipa": "maˈʃiːnənˌbaʊ̯",
+      "notes": "Usually no plural."
+    },
+    "meaning": "mechanical engineering",
+    "shortDefinition": "Mechanical engineering."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Maschinenbau, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Maschinenbau"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er studiert Maschinenbau in Aachen.",
+      "english": "He's studying mechanical engineering in Aachen.",
+      "highlight": [
+        "Maschinenbau"
+      ]
+    },
+    {
+      "german": "Der deutsche Maschinenbau ist weltweit bekannt.",
+      "english": "German mechanical engineering is known worldwide.",
+      "highlight": [
+        "Maschinenbau"
+      ]
+    }
+  ],
+  "forms": [
+    "der Maschinenbau",
+    "Maschinenbauer"
+  ],
+  "memoryHook": "Maschinenbau: building (Bau) machines (Maschinen).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Maschinenbau",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Maschinenbau is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Maschinenbau mean?",
+      "options": [
+        "to travel",
+        "mechanical engineering",
+        "the weather"
+      ],
+      "answer": "mechanical engineering",
+      "explanation": "Maschinenbau: mechanical engineering.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Maschinenbauingenieur is…",
+      "options": [
+        "a mechanical engineer",
+        "a machine operator"
+      ],
+      "answer": "a mechanical engineer",
+      "explanation": "Engineer.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Germany's Maschinenbau sector is often called…",
+      "options": [
+        "the backbone of German industry",
+        "a dying industry"
+      ],
+      "answer": "the backbone of German industry",
+      "explanation": "Mittelstand.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Literally:",
+      "options": [
+        "machine building",
+        "machine construction site"
+      ],
+      "answer": "machine building",
+      "explanation": "Maschinen + Bau.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Maschinenbau is mechanical engineering, as an industry and a degree: Maschinenbau studieren. It's one of Germany's largest industries and a pillar of its export economy, made up of many family-owned, medium-sized firms of the Mittelstand, some of them hidden champions that lead world markets in niche machines. RWTH Aachen, TU Munich and KIT Karlsruhe are known for it. Der Maschinenbauer is a mechanical engineer or machine-building firm."
+}

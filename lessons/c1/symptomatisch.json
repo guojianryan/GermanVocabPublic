@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "symptomatisch",
+    "partOfSpeech": "adjective",
+    "pronunciation": {
+      "respelling": "züm-pto-MAA-tish",
+      "ipa": "zʏmptoˈmaːtɪʃ",
+      "notes": ""
+    },
+    "meaning": "symptomatic, typical",
+    "shortDefinition": "Symptomatic, typical."
+  },
+  "sampleSentences": [
+    {
+      "german": "Der Fall ist symptomatisch für das ganze System.",
+      "english": "The case is symptomatic of the whole system.",
+      "highlight": [
+        "symptomatisch"
+      ]
+    },
+    {
+      "german": "Die Ärzte behandeln nur symptomatisch.",
+      "english": "The doctors only treat the symptoms.",
+      "highlight": [
+        "symptomatisch."
+      ]
+    }
+  ],
+  "forms": [
+    "symptomatische",
+    "symptomatischen"
+  ],
+  "memoryHook": "Symptomatisch: like a Symptom of something bigger.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "What does symptomatisch mean?",
+      "options": [
+        "expensive",
+        "symptomatic",
+        "always"
+      ],
+      "answer": "symptomatic",
+      "explanation": "symptomatisch: symptomatic, typical.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "Symptomatisch für takes…",
+      "options": [
+        "für + accusative",
+        "von + dative"
+      ],
+      "answer": "für + accusative",
+      "explanation": "Preposition.",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Symptom is…",
+      "options": [
+        "symptom",
+        "a symbol"
+      ],
+      "answer": "symptom",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "bezeichnend, typisch, kennzeichnend",
+        "untypisch"
+      ],
+      "answer": "bezeichnend, typisch, kennzeichnend",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "eine ___ Entwicklung (symptomatic)",
+      "answer": "symptomatische",
+      "fullAnswer": "eine symptomatische Entwicklung",
+      "explanation": "Ending -e.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Symptomatisch means symptomatic: in medicine, treating symptoms (symptomatisch behandeln), and figuratively typical of a deeper problem: Das ist symptomatisch für unsere Zeit. Synonyms: bezeichnend, kennzeichnend, typisch. Das Symptom is a symptom; asymptomatisch means without symptoms, a word everyone learned in the pandemic."
+}

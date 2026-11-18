@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Gurt",
+    "partOfSpeech": "noun, masculine (der Gurt)",
+    "pronunciation": {
+      "respelling": "GURT",
+      "ipa": "ɡʊʁt",
+      "notes": "Plural: die Gurte."
+    },
+    "meaning": "belt, strap; seat belt",
+    "shortDefinition": "Belt, strap; seat belt."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Gurt, plural die Gurte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Gurt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Gurte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bitte legen Sie den Gurt an.",
+      "english": "Please fasten your seat belt.",
+      "highlight": [
+        "Gurt"
+      ]
+    },
+    {
+      "german": "Der Gurt des Rucksacks ist gerissen.",
+      "english": "The backpack strap has torn.",
+      "highlight": [
+        "Gurt"
+      ]
+    }
+  ],
+  "forms": [
+    "Gurte",
+    "der Gurt"
+  ],
+  "memoryHook": "Gurt: a strong strap that girds (gürten).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Gurt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Gurt is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Gurt, zwei ___",
+      "answer": "Gurte",
+      "fullAnswer": "ein Gurt, zwei Gurte",
+      "explanation": "The plural is Gurte.",
+      "acceptedAnswers": [
+        "Gurte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Gurt mean?",
+      "options": [
+        "to open",
+        "belt",
+        "to buy"
+      ],
+      "answer": "belt",
+      "explanation": "Gurt: belt, strap; seat belt.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Sicherheitsgurt is…",
+      "options": [
+        "seat belt",
+        "safety vest"
+      ],
+      "answer": "seat belt",
+      "explanation": "Seat belt.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Gürtel enger schnallen means…",
+      "options": [
+        "to tighten one's belt (save)",
+        "to get dressed"
+      ],
+      "answer": "to tighten one's belt (save)",
+      "explanation": "Idiom.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Gurtpflicht is…",
+      "options": [
+        "the legal duty to wear a seat belt",
+        "a dress code"
+      ],
+      "answer": "the legal duty to wear a seat belt",
+      "explanation": "Law.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Gurt is a strap or belt, especially der Sicherheitsgurt (seat belt): sich anschnallen, den Gurt anlegen. West Germany introduced die Gurtpflicht for front seats in 1976 and fines for not wearing one in 1984. Der Gürtel is the belt for trousers: den Gürtel enger schnallen (to tighten one's belt). In karate, der schwarze Gürtel is the black belt. Plural: die Gurte."
+}

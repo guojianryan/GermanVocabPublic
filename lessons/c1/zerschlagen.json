@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "zerschlagen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "tser-SHLAA-gen",
+      "ipa": "t͡sɛɐ̯ˈʃlaːɡn̩",
+      "notes": ""
+    },
+    "meaning": "to smash; to break up (a network)",
+    "shortDefinition": "To smash; to break up (a network)."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "zerschlag|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "zerschläg|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "zerschläg|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "zerschlag|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "zerschlag|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "zerschlag|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat zerschlagen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Polizei hat einen Drogenring zerschlagen.",
+      "english": "The police broke up a drug ring.",
+      "highlight": [
+        "zerschlagen."
+      ]
+    },
+    {
+      "german": "Er zerschlug die Fensterscheibe.",
+      "english": "He smashed the window pane.",
+      "highlight": [
+        "zerschlug"
+      ]
+    }
+  ],
+  "forms": [
+    "zerschlage",
+    "zerschlägst",
+    "zerschlägt",
+    "zerschlagen",
+    "zerschlagt",
+    "zerschlug",
+    "Zerschlagung"
+  ],
+  "memoryHook": "Zerschlagen: schlagen (hit) to pieces (zer-).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (zerschlagen)",
+      "answer": "zerschlägt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: zerschlägt.",
+      "acceptedAnswers": [
+        "zerschlaegt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (zerschlagen, past)",
+      "answer": "zerschlagen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe zerschlagen.",
+      "acceptedAnswers": [
+        "zerschlagen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does zerschlagen mean?",
+      "options": [
+        "to smash",
+        "to buy",
+        "to learn"
+      ],
+      "answer": "to smash",
+      "explanation": "zerschlagen: to smash; to break up (a network).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Einen Ring zerschlagen means…",
+      "options": [
+        "to break up a (criminal) ring",
+        "to smash a ring"
+      ],
+      "answer": "to break up a (criminal) ring",
+      "explanation": "Break up.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich zerschlagen (plans) means…",
+      "options": [
+        "to fall through",
+        "to fight"
+      ],
+      "answer": "to fall through",
+      "explanation": "Fall through.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zerschlagen sein means…",
+      "options": [
+        "to be exhausted",
+        "to be beaten"
+      ],
+      "answer": "to be exhausted",
+      "explanation": "Exhausted.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Zerschlagen means to smash to pieces (Geschirr zerschlagen), and figuratively to break up: einen Drogenring zerschlagen, ein Kartell zerschlagen, die Zerschlagung eines Konzerns (breaking up a company). Plans that fall through sich zerschlagen: Die Hoffnungen haben sich zerschlagen. Ich bin wie zerschlagen means I'm exhausted. Irregular: zerschlug, zerschlagen."
+}

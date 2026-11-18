@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "anreichern",
+    "partOfSpeech": "separable verb",
+    "pronunciation": {
+      "respelling": "AN-rai-khern",
+      "ipa": "ˈanˌʁaɪ̯çɐn",
+      "notes": ""
+    },
+    "meaning": "to enrich; to accumulate",
+    "shortDefinition": "To enrich; to accumulate."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "reicher|e … |an"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "reicher|st … |an"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "reicher|t … |an"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "reicher|n … |an"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "reicher|t … |an"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "reicher|n … |an"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat angereichert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Iran reichert Uran an.",
+      "english": "Iran is enriching uranium.",
+      "highlight": [
+        "reichert",
+        "an."
+      ]
+    },
+    {
+      "german": "Das Brot ist mit Vitaminen angereichert.",
+      "english": "The bread is fortified with vitamins.",
+      "highlight": [
+        "angereichert."
+      ]
+    }
+  ],
+  "forms": [
+    "reichere an",
+    "reicherst an",
+    "reichert an",
+    "reichern an",
+    "angereichert",
+    "reicherte an"
+  ],
+  "memoryHook": "Anreichern: make something reicher (richer) in a substance.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ … an (anreichern)",
+      "answer": "reichert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: reichert … an.",
+      "acceptedAnswers": [
+        "reichert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (anreichern, past)",
+      "answer": "angereichert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe angereichert.",
+      "acceptedAnswers": [
+        "angereichert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does anreichern mean?",
+      "options": [
+        "the car",
+        "the bed",
+        "to enrich"
+      ],
+      "answer": "to enrich",
+      "explanation": "anreichern: to enrich; to accumulate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Uran anreichern means…",
+      "options": [
+        "to enrich uranium",
+        "to mine uranium"
+      ],
+      "answer": "to enrich uranium",
+      "explanation": "Nuclear.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich anreichern means…",
+      "options": [
+        "to accumulate (substances)",
+        "to get rich"
+      ],
+      "answer": "to accumulate (substances)",
+      "explanation": "Reflexive.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Anreicherung is…",
+      "options": [
+        "enrichment, accumulation",
+        "a reward"
+      ],
+      "answer": "enrichment, accumulation",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Anreichern means to enrich or fortify: Uran anreichern, Lebensmittel mit Vitaminen anreichern, a speech with examples. Sich anreichern means to accumulate: Schadstoffe reichern sich in der Nahrungskette an. Die Anreicherung is enrichment or accumulation. From reich (rich). Separable: reicherte an, angereichert."
+}

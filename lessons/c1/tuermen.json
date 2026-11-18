@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "türmen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "TÜR-men",
+      "ipa": "ˈtʏʁmən",
+      "notes": ""
+    },
+    "meaning": "to pile up; (colloquial) to run off",
+    "shortDefinition": "To pile up; (colloquial) to run off."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "türm|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "türm|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "türm|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "türm|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "türm|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "türm|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat getürmt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Auf dem Schreibtisch türmen sich die Akten.",
+      "english": "Files are piling up on the desk.",
+      "highlight": [
+        "türmen"
+      ]
+    },
+    {
+      "german": "Der Dieb ist durchs Fenster getürmt.",
+      "english": "The thief made off through the window.",
+      "highlight": [
+        "getürmt."
+      ]
+    }
+  ],
+  "forms": [
+    "türme",
+    "türmst",
+    "türmt",
+    "türmen",
+    "getürmt",
+    "auftürmen"
+  ],
+  "memoryHook": "Türmen: pile things up like a Turm (tower), or flee.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (türmen)",
+      "answer": "türmt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: türmt.",
+      "acceptedAnswers": [
+        "tuermt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (türmen, past)",
+      "answer": "getürmt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe getürmt.",
+      "acceptedAnswers": [
+        "getuermt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does türmen mean?",
+      "options": [
+        "to pile up",
+        "the car",
+        "the family"
+      ],
+      "answer": "to pile up",
+      "explanation": "türmen: to pile up; (colloquial) to run off.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich türmen means…",
+      "options": [
+        "to pile up",
+        "to turn"
+      ],
+      "answer": "to pile up",
+      "explanation": "Pile.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Türmen (colloquial, with sein) means…",
+      "options": [
+        "to scarper, run off",
+        "to climb a tower"
+      ],
+      "answer": "to scarper, run off",
+      "explanation": "Escape.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Turm is…",
+      "options": [
+        "tower",
+        "storm"
+      ],
+      "answer": "tower",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Türmen means to pile up: Bücher türmen, and reflexively, sich türmen: Die Wolken türmen sich, Die Probleme türmen sich (problems are piling up). Colloquially, with sein, türmen means to run off or escape: Der Häftling ist getürmt. Auftürmen means to pile up high. From der Turm (tower). Regular: türmte, getürmt."
+}

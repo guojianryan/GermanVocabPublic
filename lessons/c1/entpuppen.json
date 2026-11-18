@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "entpuppen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ent-PU-pen",
+      "ipa": "ɛntˈpʊpn̩",
+      "notes": ""
+    },
+    "meaning": "(sich) to turn out to be",
+    "shortDefinition": "(sich) to turn out to be."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "entpupp|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "entpupp|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "entpupp|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "entpupp|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "entpupp|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "entpupp|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat entpuppt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der neue Kollege entpuppte sich als Genie.",
+      "english": "The new colleague turned out to be a genius.",
+      "highlight": [
+        "entpuppte"
+      ]
+    },
+    {
+      "german": "Das Angebot hat sich als Betrug entpuppt.",
+      "english": "The offer turned out to be a scam.",
+      "highlight": [
+        "entpuppt."
+      ]
+    }
+  ],
+  "forms": [
+    "entpuppe",
+    "entpuppst",
+    "entpuppt",
+    "entpuppen"
+  ],
+  "memoryHook": "Sich entpuppen: emerge from the Puppe (pupa) as something else.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (entpuppen)",
+      "answer": "entpuppt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: entpuppt.",
+      "acceptedAnswers": [
+        "entpuppt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (entpuppen, past)",
+      "answer": "entpuppt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe entpuppt.",
+      "acceptedAnswers": [
+        "entpuppt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does entpuppen mean?",
+      "options": [
+        "tomorrow",
+        "the car",
+        "(sich) to turn out to be"
+      ],
+      "answer": "(sich) to turn out to be",
+      "explanation": "entpuppen: (sich) to turn out to be.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich entpuppen als means…",
+      "options": [
+        "to turn out to be",
+        "to hatch"
+      ],
+      "answer": "to turn out to be",
+      "explanation": "Turn out.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Puppe is…",
+      "options": [
+        "doll; pupa",
+        "puppy"
+      ],
+      "answer": "doll; pupa",
+      "explanation": "Root.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Literally, entpuppen refers to…",
+      "options": [
+        "a butterfly emerging from the pupa",
+        "unpacking a doll"
+      ],
+      "answer": "a butterfly emerging from the pupa",
+      "explanation": "Literal.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Sich entpuppen als means to turn out to be, often surprisingly: Der Nachbar entpuppte sich als Spion, Die Idee entpuppte sich als Erfolg. Literally, it describes a butterfly emerging from its pupa (die Puppe, also doll). Synonyms: sich herausstellen als, sich erweisen als. Always reflexive and with als. Not separable: hat sich entpuppt."
+}

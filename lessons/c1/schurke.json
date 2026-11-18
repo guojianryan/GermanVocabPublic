@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schurke",
+    "partOfSpeech": "noun, masculine (der Schurke)",
+    "pronunciation": {
+      "respelling": "SHUR-ke",
+      "ipa": "ˈʃʊʁkə",
+      "notes": "Plural: die Schurken."
+    },
+    "meaning": "villain, scoundrel",
+    "shortDefinition": "Villain, scoundrel."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Schurke, plural die Schurken.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Schurke"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schurken"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Film ist er der Schurke.",
+      "english": "In the film he's the villain.",
+      "highlight": [
+        "Schurke."
+      ]
+    },
+    {
+      "german": "Diese Schurken haben uns betrogen.",
+      "english": "These scoundrels cheated us.",
+      "highlight": [
+        "Schurken"
+      ]
+    }
+  ],
+  "forms": [
+    "Schurken",
+    "der Schurke"
+  ],
+  "memoryHook": "Schurke: a wicked rogue.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schurke",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Schurke is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schurke, zwei ___",
+      "answer": "Schurken",
+      "fullAnswer": "ein Schurke, zwei Schurken",
+      "explanation": "The plural is Schurken.",
+      "acceptedAnswers": [
+        "Schurken"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schurke mean?",
+      "options": [
+        "the family",
+        "villain",
+        "the street"
+      ],
+      "answer": "villain",
+      "explanation": "Schurke: villain, scoundrel.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Schurke is a weak noun, so…",
+      "options": [
+        "den Schurken (accusative)",
+        "den Schurke"
+      ],
+      "answer": "den Schurken (accusative)",
+      "explanation": "Weak noun.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Schurkenstaat is…",
+      "options": [
+        "rogue state",
+        "a villain's castle"
+      ],
+      "answer": "rogue state",
+      "explanation": "Politics.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "der Bösewicht",
+        "der Held"
+      ],
+      "answer": "der Bösewicht",
+      "explanation": "Synonym.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Schurke is a villain or scoundrel: der Schurke im Film, ein gemeiner Schurke. It's a weak noun: den, dem, des Schurken. Der Schurkenstaat translates rogue state. Synonyms: der Bösewicht (villain in stories), der Halunke, der Lump. The opposite is der Held (hero). Plural: die Schurken."
+}

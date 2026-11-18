@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "beschneiden",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "be-SHNAI-den",
+      "ipa": "bəˈʃnaɪ̯dn̩",
+      "notes": ""
+    },
+    "meaning": "to trim, prune; to curtail; to circumcise",
+    "shortDefinition": "To trim, prune; to curtail; to circumcise."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "beschneid|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "beschneid|est"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "beschneid|et"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "beschneid|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "beschneid|et"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "beschneid|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat beschnitten"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im Frühjahr beschneidet er die Obstbäume.",
+      "english": "In spring he prunes the fruit trees.",
+      "highlight": [
+        "beschneidet"
+      ]
+    },
+    {
+      "german": "Das Gesetz beschneidet die Rechte der Bürger.",
+      "english": "The law curtails citizens' rights.",
+      "highlight": [
+        "beschneidet"
+      ]
+    }
+  ],
+  "forms": [
+    "beschneide",
+    "beschneidest",
+    "beschneidet",
+    "beschneiden",
+    "beschnitten",
+    "beschnitt",
+    "Beschneidung"
+  ],
+  "memoryHook": "Beschneiden: cut (schneiden) back around the edges.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (beschneiden)",
+      "answer": "beschneidet",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: beschneidet.",
+      "acceptedAnswers": [
+        "beschneidet"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (beschneiden, past)",
+      "answer": "beschnitten",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe beschnitten.",
+      "acceptedAnswers": [
+        "beschnitten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does beschneiden mean?",
+      "options": [
+        "to trim",
+        "the street",
+        "to buy"
+      ],
+      "answer": "to trim",
+      "explanation": "beschneiden: to trim, prune; to curtail; to circumcise.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Rechte beschneiden means…",
+      "options": [
+        "to curtail rights",
+        "to cut ribbons"
+      ],
+      "answer": "to curtail rights",
+      "explanation": "Curtail.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "beschnitt, beschnitten",
+        "beschneidete"
+      ],
+      "answer": "beschnitt, beschnitten",
+      "explanation": "Irregular.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Beschneidung is…",
+      "options": [
+        "pruning; circumcision",
+        "a cut price"
+      ],
+      "answer": "pruning; circumcision",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Beschneiden means to trim or prune (Hecken, Bäume beschneiden), to curtail (Rechte, Budgets, Freiheiten beschneiden) and to circumcise. After a 2012 Cologne court ruling questioned religious circumcision of boys, the Bundestag passed a law the same year explicitly permitting it under conditions. Die Beschneidung is pruning or circumcision. Irregular like schneiden: beschnitt, beschnitten."
+}

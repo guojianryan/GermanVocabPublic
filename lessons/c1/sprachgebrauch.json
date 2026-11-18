@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Sprachgebrauch",
+    "partOfSpeech": "noun, masculine (der Sprachgebrauch)",
+    "pronunciation": {
+      "respelling": "SHPRAAKH-ge-browkh",
+      "ipa": "ˈʃpʁaːxɡəˌbʁaʊ̯x",
+      "notes": "Usually no plural."
+    },
+    "meaning": "usage (of language)",
+    "shortDefinition": "Usage (of language)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Sprachgebrauch, usually no plural.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Sprachgebrauch"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Im allgemeinen Sprachgebrauch sagt man das anders.",
+      "english": "In general usage, people say it differently.",
+      "highlight": [
+        "Sprachgebrauch"
+      ]
+    },
+    {
+      "german": "Der Sprachgebrauch ändert sich ständig.",
+      "english": "Usage is constantly changing.",
+      "highlight": [
+        "Sprachgebrauch"
+      ]
+    }
+  ],
+  "forms": [
+    "der Sprachgebrauch",
+    "Gebrauch"
+  ],
+  "memoryHook": "Sprachgebrauch: how a language is gebraucht (used).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Sprachgebrauch",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Sprachgebrauch is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Sprachgebrauch mean?",
+      "options": [
+        "the family",
+        "usage (of language)",
+        "the bed"
+      ],
+      "answer": "usage (of language)",
+      "explanation": "Sprachgebrauch: usage (of language).",
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Gebrauch is…",
+      "options": [
+        "use, usage",
+        "custom only"
+      ],
+      "answer": "use, usage",
+      "explanation": "Root.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Im allgemeinen Sprachgebrauch means…",
+      "options": [
+        "in common parlance",
+        "in grammar books"
+      ],
+      "answer": "in common parlance",
+      "explanation": "Common parlance.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Gendergerechter Sprachgebrauch refers to…",
+      "options": [
+        "gender-inclusive language",
+        "polite forms"
+      ],
+      "answer": "gender-inclusive language",
+      "explanation": "Gendern.",
+      "id": "q5"
+    }
+  ],
+  "goodToKnow": "Der Sprachgebrauch is how language is actually used: im allgemeinen Sprachgebrauch (in common parlance), im juristischen Sprachgebrauch (in legal terms). Debates about gendergerechter Sprachgebrauch, such as the Gendersternchen (Lehrer*innen), are heated in Germany, and some states have banned it in schools and offices. Der Gebrauch is use: die Gebrauchsanweisung (instructions for use). It has no plural."
+}

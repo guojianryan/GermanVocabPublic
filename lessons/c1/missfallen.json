@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "missfallen",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "mis-FA-len",
+      "ipa": "mɪsˈfalən",
+      "notes": ""
+    },
+    "meaning": "to displease",
+    "shortDefinition": "To displease."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "missfall|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "missfäll|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "missfäll|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "missfall|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "missfall|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "missfall|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat missfallen"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sein Verhalten missfiel mir.",
+      "english": "His behaviour displeased me.",
+      "highlight": [
+        "missfiel"
+      ]
+    },
+    {
+      "german": "Es missfällt der Regierung, dass ...",
+      "english": "It displeases the government that ...",
+      "highlight": [
+        "missfällt"
+      ]
+    }
+  ],
+  "forms": [
+    "missfalle",
+    "missfällst",
+    "missfällt",
+    "missfallen",
+    "missfallt",
+    "missfiel",
+    "Missfallen"
+  ],
+  "memoryHook": "Missfallen: the opposite of gefallen (to please).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (missfallen)",
+      "answer": "missfällt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: missfällt.",
+      "acceptedAnswers": [
+        "missfaellt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (missfallen, past)",
+      "answer": "missfallen",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe missfallen.",
+      "acceptedAnswers": [
+        "missfallen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does missfallen mean?",
+      "options": [
+        "the car",
+        "hot",
+        "to displease"
+      ],
+      "answer": "to displease",
+      "explanation": "missfallen: to displease.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Missfallen takes…",
+      "options": [
+        "the dative (mir missfällt)",
+        "the accusative"
+      ],
+      "answer": "the dative (mir missfällt)",
+      "explanation": "Dative.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Missfallen is…",
+      "options": [
+        "displeasure",
+        "a mistake"
+      ],
+      "answer": "displeasure",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Past forms:",
+      "options": [
+        "missfiel, missfallen",
+        "missfallte"
+      ],
+      "answer": "missfiel, missfallen",
+      "explanation": "Irregular.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Missfallen means to displease and takes the dative, like gefallen: Das missfällt mir. It's formal; in speech people say Das gefällt mir nicht. Das Missfallen is displeasure: sein Missfallen äußern, Missfallen erregen. Social media dislikes are rarely called Missfallen. Inseparable and irregular: missfällt, missfiel, hat missfallen."
+}

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Spaltung",
+    "partOfSpeech": "noun, feminine (die Spaltung)",
+    "pronunciation": {
+      "respelling": "SHPAL-tung",
+      "ipa": "ˈʃpaltʊŋ",
+      "notes": "Plural: die Spaltungen."
+    },
+    "meaning": "split, division; fission",
+    "shortDefinition": "Split, division; fission."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Spaltung, plural die Spaltungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Spaltung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Spaltungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Debatte führte zur Spaltung der Partei.",
+      "english": "The debate led to a split in the party.",
+      "highlight": [
+        "Spaltung"
+      ]
+    },
+    {
+      "german": "Bei der Kernspaltung wird Energie frei.",
+      "english": "Nuclear fission releases energy.",
+      "highlight": [
+        "Kernspaltung"
+      ]
+    }
+  ],
+  "forms": [
+    "Spaltungen",
+    "die Spaltungen",
+    "die Spaltung",
+    "spalten",
+    "Kernspaltung"
+  ],
+  "memoryHook": "Spaltung: what spalten does, from wood to atoms.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Spaltung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Spaltung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Spaltung, zwei ___",
+      "answer": "Spaltungen",
+      "fullAnswer": "ein Spaltung, zwei Spaltungen",
+      "explanation": "The plural is Spaltungen.",
+      "acceptedAnswers": [
+        "Spaltungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Spaltung mean?",
+      "options": [
+        "to sing",
+        "split",
+        "the bill"
+      ],
+      "answer": "split",
+      "explanation": "Spaltung: split, division; fission.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Kernspaltung is…",
+      "options": [
+        "nuclear fission",
+        "a split in the core team"
+      ],
+      "answer": "nuclear fission",
+      "explanation": "Discovered in Berlin, 1938.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Spalten means…",
+      "options": [
+        "to split",
+        "to spill"
+      ],
+      "answer": "to split",
+      "explanation": "spalten.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die gesellschaftliche Spaltung is…",
+      "options": [
+        "division in society",
+        "social science"
+      ],
+      "answer": "division in society",
+      "explanation": "Polarisation.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Spaltung is a split or division: die Spaltung der Gesellschaft (a much-debated topic), die Spaltung einer Partei. In physics, die Kernspaltung is nuclear fission, discovered in Berlin in 1938 by Otto Hahn and Fritz Strassmann, and explained by Lise Meitner. The verb spalten means to split: Holz spalten, die Gemüter spalten (to divide opinion). Die Spalte is a crack or a column."
+}

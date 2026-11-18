@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Territorium",
+    "partOfSpeech": "noun, neuter (das Territorium)",
+    "pronunciation": {
+      "respelling": "te-ri-TOH-ri-um",
+      "ipa": "tɛʁiˈtoːʁiʊm",
+      "notes": "Plural: die Territorien."
+    },
+    "meaning": "territory",
+    "shortDefinition": "Territory."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Territorium, plural die Territorien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Territorium"
+        },
+        {
+          "label": "More than one",
+          "value": "die Territorien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Truppen drangen in feindliches Territorium vor.",
+      "english": "The troops advanced into enemy territory.",
+      "highlight": [
+        "Territorium"
+      ]
+    },
+    {
+      "german": "Die Katze verteidigt ihr Territorium.",
+      "english": "The cat defends its territory.",
+      "highlight": [
+        "Territorium."
+      ]
+    }
+  ],
+  "forms": [
+    "Territorien",
+    "die Territorien",
+    "das Territorium",
+    "territorial"
+  ],
+  "memoryHook": "Territorium: a defended piece of terra (land).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Territorium",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Territorium is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Territorium, zwei ___",
+      "answer": "Territorien",
+      "fullAnswer": "ein Territorium, zwei Territorien",
+      "explanation": "The plural is Territorien.",
+      "acceptedAnswers": [
+        "Territorien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Territorium mean?",
+      "options": [
+        "the window",
+        "the car",
+        "territory"
+      ],
+      "answer": "territory",
+      "explanation": "Territorium: territory.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Territorien",
+        "die Territoriums"
+      ],
+      "answer": "die Territorien",
+      "explanation": "-ien.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Territorial means…",
+      "options": [
+        "territorial",
+        "terrible"
+      ],
+      "answer": "territorial",
+      "explanation": "Adjective.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyday synonym:",
+      "options": [
+        "das Gebiet",
+        "das Gelände only"
+      ],
+      "answer": "das Gebiet",
+      "explanation": "Area.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Territorium is a territory, of a state or an animal: das Staatsgebiet and Territorium are synonyms, and das Revier is used for animals. Territorial means territorial: territoriale Ansprüche. The plural is die Territorien. In German history, the Holy Roman Empire was a patchwork of hundreds of small Territorien, which helps explain Germany's federal structure today. From Latin terra (land)."
+}

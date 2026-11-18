@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Schlucht",
+    "partOfSpeech": "noun, feminine (die Schlucht)",
+    "pronunciation": {
+      "respelling": "shlukht",
+      "ipa": "ʃlʊxt",
+      "notes": "Plural: die Schluchten."
+    },
+    "meaning": "gorge, ravine",
+    "shortDefinition": "Gorge, ravine."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Schlucht, plural die Schluchten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Schlucht"
+        },
+        {
+          "label": "More than one",
+          "value": "die Schluchten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Weg führt durch eine tiefe Schlucht.",
+      "english": "The path leads through a deep gorge.",
+      "highlight": [
+        "Schlucht."
+      ]
+    },
+    {
+      "german": "Die Partnachklamm ist eine beeindruckende Schlucht.",
+      "english": "The Partnach Gorge is an impressive ravine.",
+      "highlight": [
+        "Schlucht."
+      ]
+    }
+  ],
+  "forms": [
+    "Schluchten",
+    "die Schluchten",
+    "die Schlucht"
+  ],
+  "memoryHook": "Schlucht: a deep cut swallowing (schlucken) the path.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Schlucht",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Schlucht is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Schlucht, zwei ___",
+      "answer": "Schluchten",
+      "fullAnswer": "ein Schlucht, zwei Schluchten",
+      "explanation": "The plural is Schluchten.",
+      "acceptedAnswers": [
+        "Schluchten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Schlucht mean?",
+      "options": [
+        "quiet",
+        "gorge",
+        "the weather"
+      ],
+      "answer": "gorge",
+      "explanation": "Schlucht: gorge, ravine.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Klamm is…",
+      "options": [
+        "a narrow gorge (Alps)",
+        "a clamp"
+      ],
+      "answer": "a narrow gorge (Alps)",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Schluchten",
+        "die Schlüchte"
+      ],
+      "answer": "die Schluchten",
+      "explanation": "-en.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Tal is…",
+      "options": [
+        "valley",
+        "a tale"
+      ],
+      "answer": "valley",
+      "explanation": "Valley.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Schlucht is a gorge or ravine: eine tiefe Schlucht. In the Alps, a narrow gorge is often called eine Klamm, like the Partnachklamm near Garmisch-Partenkirchen or the Breitachklamm. Das Tal is a valley. The Wutachschlucht in the Black Forest is a well-known hiking gorge. Related to schlucken (to swallow). Plural: die Schluchten."
+}

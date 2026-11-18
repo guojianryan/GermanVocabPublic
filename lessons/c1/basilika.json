@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Basilika",
+    "partOfSpeech": "noun, feminine (die Basilika)",
+    "pronunciation": {
+      "respelling": "ba-ZEE-li-ka",
+      "ipa": "baˈziːlika",
+      "notes": "Plural: die Basiliken."
+    },
+    "meaning": "basilica",
+    "shortDefinition": "Basilica."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Basilika, plural die Basiliken.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Basilika"
+        },
+        {
+          "label": "More than one",
+          "value": "die Basiliken"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Basilika in Trier stammt aus der Römerzeit.",
+      "english": "The basilica in Trier dates from Roman times.",
+      "highlight": [
+        "Basilika"
+      ]
+    },
+    {
+      "german": "Der Papst ernannte die Kirche zur Basilika.",
+      "english": "The Pope made the church a basilica.",
+      "highlight": [
+        "Basilika."
+      ]
+    }
+  ],
+  "forms": [
+    "Basiliken",
+    "die Basiliken",
+    "die Basilika"
+  ],
+  "memoryHook": "Basilika: a royal (Greek basilikos) hall, later a church.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Basilika",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Basilika is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Basilika, zwei ___",
+      "answer": "Basiliken",
+      "fullAnswer": "ein Basilika, zwei Basiliken",
+      "explanation": "The plural is Basiliken.",
+      "acceptedAnswers": [
+        "Basiliken"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Basilika mean?",
+      "options": [
+        "to sing",
+        "to open",
+        "basilica"
+      ],
+      "answer": "basilica",
+      "explanation": "Basilika: basilica.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Basiliken",
+        "die Basilikas"
+      ],
+      "answer": "die Basiliken",
+      "explanation": "Latin.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress:",
+      "options": [
+        "ba-SI-li-ka",
+        "ba-si-LI-ka"
+      ],
+      "answer": "ba-SI-li-ka",
+      "explanation": "Second syllable.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Basilikum is…",
+      "options": [
+        "basil (herb)",
+        "basilica"
+      ],
+      "answer": "basil (herb)",
+      "explanation": "Different.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Basilika is a basilica, originally a Roman hall and later a church with a high central nave, or an honorary title granted by the Pope. Trier's Konstantinbasilika, Emperor Constantine's throne hall from around 310 AD, is the largest surviving Roman single-room building and now a Protestant church. Stressed on the second syllable. Don't confuse it with das Basilikum (basil). Plural: die Basiliken."
+}

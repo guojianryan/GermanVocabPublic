@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Anomalie",
+    "partOfSpeech": "noun, feminine (die Anomalie)",
+    "pronunciation": {
+      "respelling": "a-no-ma-LEE",
+      "ipa": "anomaˈliː",
+      "notes": "Plural: die Anomalien."
+    },
+    "meaning": "anomaly",
+    "shortDefinition": "Anomaly."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Anomalie, plural die Anomalien.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Anomalie"
+        },
+        {
+          "label": "More than one",
+          "value": "die Anomalien"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Ärzte entdeckten eine Anomalie im Herz.",
+      "english": "The doctors discovered an anomaly in the heart.",
+      "highlight": [
+        "Anomalie"
+      ]
+    },
+    {
+      "german": "Das warme Wetter im Januar ist eine Anomalie.",
+      "english": "The warm January weather is an anomaly.",
+      "highlight": [
+        "Anomalie."
+      ]
+    }
+  ],
+  "forms": [
+    "Anomalien",
+    "die Anomalien",
+    "die Anomalie"
+  ],
+  "memoryHook": "Anomalie: something not (a-) following the rule (nomos).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Anomalie",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Anomalie is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Anomalie, zwei ___",
+      "answer": "Anomalien",
+      "fullAnswer": "ein Anomalie, zwei Anomalien",
+      "explanation": "The plural is Anomalien.",
+      "acceptedAnswers": [
+        "Anomalien"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Anomalie mean?",
+      "options": [
+        "expensive",
+        "slowly",
+        "anomaly"
+      ],
+      "answer": "anomaly",
+      "explanation": "Anomalie: anomaly.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Anomal means…",
+      "options": [
+        "abnormal, anomalous",
+        "anonymous"
+      ],
+      "answer": "abnormal, anomalous",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress:",
+      "options": [
+        "a-no-ma-LIE",
+        "a-NO-ma-lie"
+      ],
+      "answer": "a-no-ma-LIE",
+      "explanation": "Last syllable.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Plural:",
+      "options": [
+        "die Anomalien",
+        "die Anomalies"
+      ],
+      "answer": "die Anomalien",
+      "explanation": "-n.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Anomalie is an anomaly: eine genetische Anomalie, eine Temperaturanomalie (temperature deviation from the average, common in climate reports). Anomal means abnormal or anomalous. From Greek anomalia (irregularity). Stressed on the last syllable: a-no-ma-LEE. Plural: die Anomalien."
+}

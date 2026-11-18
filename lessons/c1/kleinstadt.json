@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kleinstadt",
+    "partOfSpeech": "noun, feminine (die Kleinstadt)",
+    "pronunciation": {
+      "respelling": "KLAIN-shtat",
+      "ipa": "ˈklaɪ̯nˌʃtat",
+      "notes": "Plural: die Kleinstädte."
+    },
+    "meaning": "small town",
+    "shortDefinition": "Small town."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kleinstadt, plural die Kleinstädte.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kleinstadt"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kleinstädte"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie ist in einer Kleinstadt aufgewachsen.",
+      "english": "She grew up in a small town.",
+      "highlight": [
+        "Kleinstadt"
+      ]
+    },
+    {
+      "german": "In der Kleinstadt kennt jeder jeden.",
+      "english": "In a small town everyone knows everyone.",
+      "highlight": [
+        "Kleinstadt"
+      ]
+    }
+  ],
+  "forms": [
+    "Kleinstädte",
+    "die Kleinstädte",
+    "die Kleinstadt",
+    "kleinstädtisch"
+  ],
+  "memoryHook": "Kleinstadt: klein (small) Stadt, where everyone knows everyone.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kleinstadt",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kleinstadt is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kleinstadt, zwei ___",
+      "answer": "Kleinstädte",
+      "fullAnswer": "ein Kleinstadt, zwei Kleinstädte",
+      "explanation": "The plural is Kleinstädte.",
+      "acceptedAnswers": [
+        "Kleinstaedte"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kleinstadt mean?",
+      "options": [
+        "expensive",
+        "quiet",
+        "small town"
+      ],
+      "answer": "small town",
+      "explanation": "Kleinstadt: small town.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Officially, a Kleinstadt has…",
+      "options": [
+        "5,000–20,000 inhabitants",
+        "under 500"
+      ],
+      "answer": "5,000–20,000 inhabitants",
+      "explanation": "Statistics.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Kleinstädtisch means…",
+      "options": [
+        "small-town, provincial",
+        "tiny"
+      ],
+      "answer": "small-town, provincial",
+      "explanation": "Provincial.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "A city over 100,000 is…",
+      "options": [
+        "eine Großstadt",
+        "eine Mittelstadt"
+      ],
+      "answer": "eine Großstadt",
+      "explanation": "Großstadt.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kleinstadt is a small town; officially, one with 5,000 to 20,000 inhabitants. Larger ones are a Mittelstadt (20,000–100,000) and a Großstadt (over 100,000). Germany is a country of Kleinstädte, many with a medieval centre, a Marktplatz and a church. Kleinstädtisch can mean provincial or narrow-minded. Das Kleinstadtleben is small-town life. Plural: die Kleinstädte."
+}

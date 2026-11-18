@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Entzündung",
+    "partOfSpeech": "noun, feminine (die Entzündung)",
+    "pronunciation": {
+      "respelling": "ent-TSÜN-dung",
+      "ipa": "ɛntˈt͡sʏndʊŋ",
+      "notes": "Plural: die Entzündungen."
+    },
+    "meaning": "inflammation",
+    "shortDefinition": "Inflammation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Entzündung, plural die Entzündungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Entzündung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Entzündungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Er hat eine Entzündung am Knie.",
+      "english": "He has an inflammation in his knee.",
+      "highlight": [
+        "Entzündung"
+      ]
+    },
+    {
+      "german": "Die Mittelohrentzündung ist bei Kindern häufig.",
+      "english": "Middle ear infection is common in children.",
+      "highlight": [
+        "Mittelohrentzündung"
+      ]
+    }
+  ],
+  "forms": [
+    "Entzündungen",
+    "die Entzündung",
+    "entzündet",
+    "entzünden"
+  ],
+  "memoryHook": "Entzündung: when tissue catches fire (entzünden), inflammation.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Entzündung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Entzündung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Entzündung, zwei ___",
+      "answer": "Entzündungen",
+      "fullAnswer": "ein Entzündung, zwei Entzündungen",
+      "explanation": "The plural is Entzündungen.",
+      "acceptedAnswers": [
+        "Entzuendungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Entzündung mean?",
+      "options": [
+        "to wait",
+        "to open",
+        "inflammation"
+      ],
+      "answer": "inflammation",
+      "explanation": "Entzündung: inflammation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Entzündet means…",
+      "options": [
+        "inflamed; ignited",
+        "lit only"
+      ],
+      "answer": "inflamed; ignited",
+      "explanation": "Adjective.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Entzündungshemmend means…",
+      "options": [
+        "anti-inflammatory",
+        "inflammable"
+      ],
+      "answer": "anti-inflammatory",
+      "explanation": "Anti.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Medical words ending in -itis are often…",
+      "options": [
+        "…entzündung in German",
+        "…krankheit"
+      ],
+      "answer": "…entzündung in German",
+      "explanation": "Pattern.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Entzündung is inflammation: eine Entzündung im Hals, an entzündete Wunde. German uses -entzündung where English uses -itis: Blinddarmentzündung (appendicitis), Lungenentzündung (pneumonia), Mandelentzündung (tonsillitis), Bindehautentzündung (conjunctivitis). Entzünden also means to ignite: ein Feuer entzünden. Entzündungshemmend means anti-inflammatory. Plural: die Entzündungen."
+}

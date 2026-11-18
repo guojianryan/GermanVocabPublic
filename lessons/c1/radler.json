@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Radler",
+    "partOfSpeech": "noun, masculine (der Radler)",
+    "pronunciation": {
+      "respelling": "RAAT-ler",
+      "ipa": "ˈʁaːtlɐ",
+      "notes": "Plural: die Radler."
+    },
+    "meaning": "cyclist; shandy (beer with lemonade)",
+    "shortDefinition": "Cyclist; shandy (beer with lemonade)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Radler, plural die Radler.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Radler"
+        },
+        {
+          "label": "More than one",
+          "value": "die Radler"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Am Wochenende sind viele Radler unterwegs.",
+      "english": "Lots of cyclists are out at the weekend.",
+      "highlight": [
+        "Radler"
+      ]
+    },
+    {
+      "german": "Ich nehme ein Radler, bitte.",
+      "english": "I'll have a shandy, please.",
+      "highlight": [
+        "Radler,"
+      ]
+    }
+  ],
+  "forms": [
+    "die Radler",
+    "der Radler",
+    "das Radler",
+    "Radlerin"
+  ],
+  "memoryHook": "Radler: a cyclist, and the drink invented for cyclists.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Radler",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Radler is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Radler, zwei ___",
+      "answer": "Radler",
+      "fullAnswer": "ein Radler, zwei Radler",
+      "explanation": "The plural is Radler.",
+      "acceptedAnswers": [
+        "Radler"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Radler mean?",
+      "options": [
+        "cyclist",
+        "expensive",
+        "the flower"
+      ],
+      "answer": "cyclist",
+      "explanation": "Radler: cyclist; shandy (beer with lemonade).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Radler (drink) is…",
+      "options": [
+        "beer mixed with lemonade",
+        "apple juice"
+      ],
+      "answer": "beer mixed with lemonade",
+      "explanation": "Drink.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In northern Germany, the drink is called…",
+      "options": [
+        "Alsterwasser",
+        "Weißbier"
+      ],
+      "answer": "Alsterwasser",
+      "explanation": "North.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Radler (person) is…",
+      "options": [
+        "a cyclist",
+        "a racer"
+      ],
+      "answer": "a cyclist",
+      "explanation": "Cyclist.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Radler (die Radlerin) is a cyclist, especially in southern Germany; the standard word is der Radfahrer. Das Radler is a shandy, beer mixed with lemonade, popular in summer. Legend says a Bavarian innkeeper invented it in 1922 for crowds of cyclists, when he ran short of beer; in northern Germany it's called Alsterwasser. Plural: die Radler."
+}

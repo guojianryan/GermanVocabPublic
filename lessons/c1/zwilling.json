@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Zwilling",
+    "partOfSpeech": "noun, masculine (der Zwilling)",
+    "pronunciation": {
+      "respelling": "TSVIL-ing",
+      "ipa": "ˈt͡svɪlɪŋ",
+      "notes": "Plural: die Zwillinge."
+    },
+    "meaning": "twin; (pl.) Gemini",
+    "shortDefinition": "Twin; (pl.) Gemini."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Zwilling, plural die Zwillinge.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Zwilling"
+        },
+        {
+          "label": "More than one",
+          "value": "die Zwillinge"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die beiden sind eineiige Zwillinge.",
+      "english": "The two are identical twins.",
+      "highlight": [
+        "Zwillinge."
+      ]
+    },
+    {
+      "german": "Ich bin Zwilling, im Juni geboren.",
+      "english": "I'm a Gemini, born in June.",
+      "highlight": [
+        "Zwilling,"
+      ]
+    }
+  ],
+  "forms": [
+    "Zwillinge",
+    "die Zwillinge",
+    "der Zwilling",
+    "Zwillingsbruder"
+  ],
+  "memoryHook": "Zwilling: from zwei (two).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Zwilling",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Zwilling is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Zwilling, zwei ___",
+      "answer": "Zwillinge",
+      "fullAnswer": "ein Zwilling, zwei Zwillinge",
+      "explanation": "The plural is Zwillinge.",
+      "acceptedAnswers": [
+        "Zwillinge"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Zwilling mean?",
+      "options": [
+        "quiet",
+        "to help",
+        "twin"
+      ],
+      "answer": "twin",
+      "explanation": "Zwilling: twin; (pl.) Gemini.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eineiige Zwillinge are…",
+      "options": [
+        "identical twins",
+        "fraternal twins"
+      ],
+      "answer": "identical twins",
+      "explanation": "One egg.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Zweieiige Zwillinge are…",
+      "options": [
+        "fraternal twins",
+        "triplets"
+      ],
+      "answer": "fraternal twins",
+      "explanation": "Two eggs.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "The star sign Gemini:",
+      "options": [
+        "Zwillinge",
+        "Zwei"
+      ],
+      "answer": "Zwillinge",
+      "explanation": "Gemini.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Zwilling is a twin: eineiige Zwillinge (identical, literally one-egg twins) and zweieiige Zwillinge (fraternal, two-egg twins). Triplets are Drillinge. Der Zwillingsbruder and die Zwillingsschwester are twin brother and sister. The star sign Gemini is die Zwillinge: Ich bin Zwilling. The word comes from zwei (two). Note: der Zwilling is masculine even for girls: Sie ist ein Zwilling."
+}

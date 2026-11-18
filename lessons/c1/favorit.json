@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Favorit",
+    "partOfSpeech": "noun, masculine (der Favorit)",
+    "pronunciation": {
+      "respelling": "fa-vo-REET",
+      "ipa": "favoˈʁiːt",
+      "notes": "Plural: die Favoriten."
+    },
+    "meaning": "favourite (to win)",
+    "shortDefinition": "Favourite (to win)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Favorit, plural die Favoriten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Favorit"
+        },
+        {
+          "label": "More than one",
+          "value": "die Favoriten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bayern ist der klare Favorit.",
+      "english": "Bayern is the clear favourite.",
+      "highlight": [
+        "Favorit."
+      ]
+    },
+    {
+      "german": "Welcher Film ist dein Favorit?",
+      "english": "Which film is your favourite?",
+      "highlight": [
+        "Favorit?"
+      ]
+    }
+  ],
+  "forms": [
+    "Favoriten",
+    "die Favoriten",
+    "der Favorit",
+    "Favoritin",
+    "favorisieren"
+  ],
+  "memoryHook": "Favorit: the one everyone bets on.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Favorit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Favorit is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Favorit, zwei ___",
+      "answer": "Favoriten",
+      "fullAnswer": "ein Favorit, zwei Favoriten",
+      "explanation": "The plural is Favoriten.",
+      "acceptedAnswers": [
+        "Favoriten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Favorit mean?",
+      "options": [
+        "favourite (to win)",
+        "to help",
+        "the weather"
+      ],
+      "answer": "favourite (to win)",
+      "explanation": "Favorit: favourite (to win).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Favorit is a weak noun, so: den…",
+      "options": [
+        "Favoriten",
+        "Favorit"
+      ],
+      "answer": "Favoriten",
+      "explanation": "Weak.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Browser bookmarks are often called…",
+      "options": [
+        "Favoriten",
+        "Lieblinge"
+      ],
+      "answer": "Favoriten",
+      "explanation": "Favourites.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Außenseiter is…",
+      "options": [
+        "the outsider, underdog",
+        "the favourite"
+      ],
+      "answer": "the outsider, underdog",
+      "explanation": "Opposite.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Favorit (die Favoritin) is the favourite to win: Wer ist Favorit auf den Titel? It's a weak noun: den Favoriten. In everyday speech, a personal favourite is usually expressed with Lieblings-: mein Lieblingsfilm, though mein Favorit is also common. Der Außenseiter is the underdog. Die Favoritenrolle is the role of favourite, which German teams often play down."
+}

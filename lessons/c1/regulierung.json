@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Regulierung",
+    "partOfSpeech": "noun, feminine (die Regulierung)",
+    "pronunciation": {
+      "respelling": "re-gu-LEE-rung",
+      "ipa": "ʁeɡuˈliːʁʊŋ",
+      "notes": "Plural: die Regulierungen."
+    },
+    "meaning": "regulation",
+    "shortDefinition": "Regulation."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Regulierung, plural die Regulierungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Regulierung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Regulierungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die EU plant eine strengere Regulierung von KI.",
+      "english": "The EU is planning stricter regulation of AI.",
+      "highlight": [
+        "Regulierung"
+      ]
+    },
+    {
+      "german": "Zu viel Regulierung bremst die Wirtschaft.",
+      "english": "Too much regulation slows the economy.",
+      "highlight": [
+        "Regulierung"
+      ]
+    }
+  ],
+  "forms": [
+    "Regulierungen",
+    "die Regulierungen",
+    "die Regulierung",
+    "regulieren"
+  ],
+  "memoryHook": "Regulierung: setting rules (Regeln) for a market.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Regulierung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Regulierung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Regulierung, zwei ___",
+      "answer": "Regulierungen",
+      "fullAnswer": "ein Regulierung, zwei Regulierungen",
+      "explanation": "The plural is Regulierungen.",
+      "acceptedAnswers": [
+        "Regulierungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Regulierung mean?",
+      "options": [
+        "regulation",
+        "the bed",
+        "always"
+      ],
+      "answer": "regulation",
+      "explanation": "Regulierung: regulation.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Regulieren means…",
+      "options": [
+        "to regulate",
+        "to regularise"
+      ],
+      "answer": "to regulate",
+      "explanation": "regulieren.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Deregulierung is…",
+      "options": [
+        "deregulation",
+        "a rule"
+      ],
+      "answer": "deregulation",
+      "explanation": "Opposite.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Bundesnetzagentur…",
+      "options": [
+        "regulates telecoms, energy and rail markets",
+        "builds roads"
+      ],
+      "answer": "regulates telecoms, energy and rail markets",
+      "explanation": "Regulator.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Regulierung is regulation: die Regulierung der Finanzmärkte, die Regulierung von künstlicher Intelligenz (the EU's AI Act). Germany's main market regulator is the Bundesnetzagentur, which covers electricity, gas, telecoms, post and rail. Business groups often complain about Überregulierung (over-regulation) and Bürokratie. Regulieren also means to adjust: die Temperatur regulieren. Plural: die Regulierungen."
+}

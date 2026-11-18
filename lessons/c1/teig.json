@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Teig",
+    "partOfSpeech": "noun, masculine (der Teig)",
+    "pronunciation": {
+      "respelling": "taik",
+      "ipa": "taɪ̯k",
+      "notes": "Plural: die Teige."
+    },
+    "meaning": "dough, batter",
+    "shortDefinition": "Dough, batter."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Teig, plural die Teige.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Teig"
+        },
+        {
+          "label": "More than one",
+          "value": "die Teige"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Teig muss eine Stunde ruhen.",
+      "english": "The dough has to rest for an hour.",
+      "highlight": [
+        "Teig"
+      ]
+    },
+    {
+      "german": "Sie knetet den Teig für das Brot.",
+      "english": "She's kneading the dough for the bread.",
+      "highlight": [
+        "Teig"
+      ]
+    }
+  ],
+  "forms": [
+    "Teige",
+    "die Teige",
+    "der Teig",
+    "Teigwaren"
+  ],
+  "memoryHook": "Teig: dough, before it's bread or cake.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Teig",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Teig is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Teig, zwei ___",
+      "answer": "Teige",
+      "fullAnswer": "ein Teig, zwei Teige",
+      "explanation": "The plural is Teige.",
+      "acceptedAnswers": [
+        "Teige"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Teig mean?",
+      "options": [
+        "to open",
+        "dough",
+        "the door"
+      ],
+      "answer": "dough",
+      "explanation": "Teig: dough, batter.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Den Teig kneten means…",
+      "options": [
+        "to knead the dough",
+        "to roll out the dough"
+      ],
+      "answer": "to knead the dough",
+      "explanation": "Knead.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Teigwaren are…",
+      "options": [
+        "pasta, noodles",
+        "pastries"
+      ],
+      "answer": "pasta, noodles",
+      "explanation": "Pasta.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Hefeteig is…",
+      "options": [
+        "yeast dough",
+        "puff pastry"
+      ],
+      "answer": "yeast dough",
+      "explanation": "Yeast.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Teig is dough or batter: Hefeteig (yeast dough), Mürbeteig (shortcrust), Blätterteig (puff pastry), Rührteig (cake batter). Den Teig kneten, ausrollen, gehen lassen (to let it rise). Germany has more than 3,000 registered bread varieties, and German bread culture was added to the national list of intangible cultural heritage in 2014. Teigwaren is the official term for pasta. Plural: die Teige."
+}

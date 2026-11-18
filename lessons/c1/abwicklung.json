@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Abwicklung",
+    "partOfSpeech": "noun, feminine (die Abwicklung)",
+    "pronunciation": {
+      "respelling": "AP-vik-lung",
+      "ipa": "ˈapˌvɪklʊŋ",
+      "notes": "Plural: die Abwicklungen."
+    },
+    "meaning": "processing, handling; winding up",
+    "shortDefinition": "Processing, handling; winding up."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Abwicklung, plural die Abwicklungen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Abwicklung"
+        },
+        {
+          "label": "More than one",
+          "value": "die Abwicklungen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Abwicklung der Bestellung dauert zwei Tage.",
+      "english": "Processing the order takes two days.",
+      "highlight": [
+        "Abwicklung"
+      ]
+    },
+    {
+      "german": "Nach der Insolvenz begann die Abwicklung der Firma.",
+      "english": "After the insolvency, the winding up of the company began.",
+      "highlight": [
+        "Abwicklung"
+      ]
+    }
+  ],
+  "forms": [
+    "Abwicklungen",
+    "die Abwicklungen",
+    "die Abwicklung",
+    "abwickeln"
+  ],
+  "memoryHook": "Abwicklung: unwinding (abwickeln) a process step by step.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Abwicklung",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Abwicklung is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Abwicklung, zwei ___",
+      "answer": "Abwicklungen",
+      "fullAnswer": "ein Abwicklung, zwei Abwicklungen",
+      "explanation": "The plural is Abwicklungen.",
+      "acceptedAnswers": [
+        "Abwicklungen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Abwicklung mean?",
+      "options": [
+        "processing",
+        "the job",
+        "the car"
+      ],
+      "answer": "processing",
+      "explanation": "Abwicklung: processing, handling; winding up.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Abwickeln means…",
+      "options": [
+        "to process, handle; to wind up",
+        "to wrap"
+      ],
+      "answer": "to process, handle; to wind up",
+      "explanation": "Verb.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "After 1990, many GDR institutions were…",
+      "options": [
+        "abgewickelt (wound up)",
+        "expanded"
+      ],
+      "answer": "abgewickelt (wound up)",
+      "explanation": "History.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Eine reibungslose Abwicklung means…",
+      "options": [
+        "a smooth process",
+        "a rough unwrapping"
+      ],
+      "answer": "a smooth process",
+      "explanation": "Smooth.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Abwicklung is the processing or handling of something (die Abwicklung von Zahlungen, eine reibungslose Abwicklung) and the winding up of a business: die Abwicklung einer Bank. After reunification, many GDR institutions, factories and university departments were abgewickelt (wound up) by the Treuhand, a word that still carries bitter memories in eastern Germany. The verb is abwickeln. Plural: die Abwicklungen."
+}

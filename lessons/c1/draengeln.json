@@ -1,0 +1,165 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "drängeln",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "DRENG-eln",
+      "ipa": "ˈdʁɛŋl̩n",
+      "notes": ""
+    },
+    "meaning": "to push, jostle; to pester; to tailgate",
+    "shortDefinition": "To push, jostle; to pester; to tailgate."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "drängl|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "drängel|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "drängel|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "drängel|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "drängel|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "drängel|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gedrängelt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Bitte nicht drängeln!",
+      "english": "Please don't push!",
+      "highlight": [
+        "drängeln!"
+      ]
+    },
+    {
+      "german": "Er hat sich an der Kasse vorgedrängelt.",
+      "english": "He pushed in at the till.",
+      "highlight": [
+        "vorgedrängelt."
+      ]
+    }
+  ],
+  "forms": [
+    "drängle",
+    "drängelst",
+    "drängelt",
+    "drängeln",
+    "gedrängelt",
+    "drängelte",
+    "Drängler"
+  ],
+  "memoryHook": "Drängeln: keep drängen (pushing) in small, annoying ways.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (drängeln)",
+      "answer": "drängelt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: drängelt.",
+      "acceptedAnswers": [
+        "draengelt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (drängeln, past)",
+      "answer": "gedrängelt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gedrängelt.",
+      "acceptedAnswers": [
+        "gedraengelt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does drängeln mean?",
+      "options": [
+        "never",
+        "to push",
+        "to wait"
+      ],
+      "answer": "to push",
+      "explanation": "drängeln: to push, jostle; to pester; to tailgate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Sich vordrängeln means…",
+      "options": [
+        "to jump the queue",
+        "to step back"
+      ],
+      "answer": "to jump the queue",
+      "explanation": "Queue.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Drängler (traffic) is…",
+      "options": [
+        "a tailgater",
+        "a pedestrian"
+      ],
+      "answer": "a tailgater",
+      "explanation": "Traffic.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Drängen means…",
+      "options": [
+        "to push; to urge",
+        "to drink"
+      ],
+      "answer": "to push; to urge",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Drängeln means to push or jostle: im Bus drängeln, sich vordrängeln (to jump the queue). Children drängeln when they pester: Die Kinder drängeln, dass wir losfahren. On the Autobahn, a Drängler is a tailgater, and Drängeln (too little distance) can bring heavy fines. Drängen means to push or urge. Regular: drängelte, gedrängelt."
+}

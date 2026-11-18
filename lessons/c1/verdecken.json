@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verdecken",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "fer-DEK-en",
+      "ipa": "fɛɐ̯ˈdɛkn̩",
+      "notes": ""
+    },
+    "meaning": "to cover, conceal, hide",
+    "shortDefinition": "To cover, conceal, hide."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verdeck|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verdeck|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verdeck|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verdeck|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verdeck|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verdeck|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verdeckt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Eine Wolke verdeckte die Sonne.",
+      "english": "A cloud covered the sun.",
+      "highlight": [
+        "verdeckte"
+      ]
+    },
+    {
+      "german": "Die Polizei ermittelte verdeckt.",
+      "english": "The police investigated undercover.",
+      "highlight": [
+        "verdeckt."
+      ]
+    }
+  ],
+  "forms": [
+    "verdecke",
+    "verdeckst",
+    "verdeckt",
+    "verdecken",
+    "Verdeck"
+  ],
+  "memoryHook": "Verdecken: put a Decke (cover) over something.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verdecken)",
+      "answer": "verdeckt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verdeckt.",
+      "acceptedAnswers": [
+        "verdeckt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verdecken, past)",
+      "answer": "verdeckt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verdeckt.",
+      "acceptedAnswers": [
+        "verdeckt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verdecken mean?",
+      "options": [
+        "to learn",
+        "to cover",
+        "the evening"
+      ],
+      "answer": "to cover",
+      "explanation": "verdecken: to cover, conceal, hide.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Ein verdeckter Ermittler is…",
+      "options": [
+        "an undercover agent",
+        "a hidden camera"
+      ],
+      "answer": "an undercover agent",
+      "explanation": "Undercover.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Verdeck is…",
+      "options": [
+        "the convertible top (car)",
+        "a lid"
+      ],
+      "answer": "the convertible top (car)",
+      "explanation": "Car.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Decke is…",
+      "options": [
+        "blanket; ceiling",
+        "deck"
+      ],
+      "answer": "blanket; ceiling",
+      "explanation": "Root.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verdecken means to cover or conceal, so something is no longer visible: Der Baum verdeckt die Aussicht, die Augen mit den Händen verdecken. Verdeckt means hidden or covert: ein verdeckter Ermittler (undercover investigator), verdeckte Kosten (hidden costs). Das Verdeck is the folding top of a convertible or pram. Compare aufdecken (to uncover, expose a scandal) and entdecken (to discover). Not separable: hat verdeckt."
+}

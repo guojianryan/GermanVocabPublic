@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kulisse",
+    "partOfSpeech": "noun, feminine (die Kulisse)",
+    "pronunciation": {
+      "respelling": "ku-LIS-e",
+      "ipa": "kuˈlɪsə",
+      "notes": "Plural: die Kulissen."
+    },
+    "meaning": "scenery, backdrop; wings (theatre)",
+    "shortDefinition": "Scenery, backdrop; wings (theatre)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kulisse, plural die Kulissen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kulisse"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kulissen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Alpen bilden eine herrliche Kulisse.",
+      "english": "The Alps form a wonderful backdrop.",
+      "highlight": [
+        "Kulisse."
+      ]
+    },
+    {
+      "german": "Hinter den Kulissen wird verhandelt.",
+      "english": "Negotiations are going on behind the scenes.",
+      "highlight": [
+        "Kulissen"
+      ]
+    }
+  ],
+  "forms": [
+    "Kulissen",
+    "die Kulissen",
+    "die Kulisse"
+  ],
+  "memoryHook": "Kulisse: the painted backdrop, and what goes on behind it.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kulisse",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kulisse is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kulisse, zwei ___",
+      "answer": "Kulissen",
+      "fullAnswer": "ein Kulisse, zwei Kulissen",
+      "explanation": "The plural is Kulissen.",
+      "acceptedAnswers": [
+        "Kulissen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kulisse mean?",
+      "options": [
+        "scenery",
+        "to sleep",
+        "the street"
+      ],
+      "answer": "scenery",
+      "explanation": "Kulisse: scenery, backdrop; wings (theatre).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Hinter den Kulissen means…",
+      "options": [
+        "behind the scenes",
+        "in the cinema"
+      ],
+      "answer": "behind the scenes",
+      "explanation": "Idiom.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "In football, die Kulisse is…",
+      "options": [
+        "the crowd, atmosphere",
+        "the goal"
+      ],
+      "answer": "the crowd, atmosphere",
+      "explanation": "Stadium crowd.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Stress on…",
+      "options": [
+        "-LIS-",
+        "KU-"
+      ],
+      "answer": "-LIS-",
+      "explanation": "ku-LIS-e.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kulisse is a backdrop or stage scenery: vor der Kulisse der Alpen (against the backdrop of the Alps). Hinter den Kulissen means behind the scenes, in theatre and politics. In sports reporting, die Kulisse is the crowd and atmosphere: eine tolle Kulisse von 80.000 Zuschauern. Something that's nur Kulisse is just a façade. It came from French coulisse, the sliding panels used as theatre scenery."
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "verifizieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "ve-ri-fi-TSEE-ren",
+      "ipa": "veʁifiˈt͡siːʁən",
+      "notes": ""
+    },
+    "meaning": "to verify",
+    "shortDefinition": "To verify."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "verifizier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "verifizier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "verifizier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "verifizier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "verifizier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "verifizier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat verifiziert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Angaben müssen noch verifiziert werden.",
+      "english": "The information still has to be verified.",
+      "highlight": [
+        "verifiziert"
+      ]
+    },
+    {
+      "german": "Bitte verifizieren Sie Ihre E-Mail-Adresse.",
+      "english": "Please verify your email address.",
+      "highlight": [
+        "verifizieren"
+      ]
+    }
+  ],
+  "forms": [
+    "verifiziere",
+    "verifizierst",
+    "verifiziert",
+    "verifizieren",
+    "Verifizierung"
+  ],
+  "memoryHook": "Verifizieren: make verus (true).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (verifizieren)",
+      "answer": "verifiziert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: verifiziert.",
+      "acceptedAnswers": [
+        "verifiziert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (verifizieren, past)",
+      "answer": "verifiziert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe verifiziert.",
+      "acceptedAnswers": [
+        "verifiziert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does verifizieren mean?",
+      "options": [
+        "never",
+        "to verify",
+        "to wait"
+      ],
+      "answer": "to verify",
+      "explanation": "verifizieren: to verify.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Synonym:",
+      "options": [
+        "überprüfen, bestätigen",
+        "fälschen"
+      ],
+      "answer": "überprüfen, bestätigen",
+      "explanation": "Synonym.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Falsifizieren means…",
+      "options": [
+        "to disprove, falsify",
+        "to forge"
+      ],
+      "answer": "to disprove, falsify",
+      "explanation": "Opposite.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Verifizierung is…",
+      "options": [
+        "verification",
+        "a version"
+      ],
+      "answer": "verification",
+      "explanation": "Noun.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Verifizieren means to verify: Daten, eine Identität, eine Quelle verifizieren. It's common online: Konto verifizieren. Journalists' fact-checking teams verifizieren images and videos. The opposite in philosophy of science is falsifizieren (to disprove), central to Karl Popper's thinking. Native synonyms: überprüfen, bestätigen, nachweisen. Perfect without ge-: hat verifiziert."
+}

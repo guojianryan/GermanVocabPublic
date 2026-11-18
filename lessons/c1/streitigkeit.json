@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Streitigkeit",
+    "partOfSpeech": "noun, feminine (die Streitigkeit)",
+    "pronunciation": {
+      "respelling": "SHTRAI-tikh-kait",
+      "ipa": "ˈʃtʁaɪ̯tɪçkaɪ̯t",
+      "notes": "Plural: die Streitigkeiten."
+    },
+    "meaning": "dispute, quarrel (usually plural)",
+    "shortDefinition": "Dispute, quarrel (usually plural)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Streitigkeit, plural die Streitigkeiten.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Streitigkeit"
+        },
+        {
+          "label": "More than one",
+          "value": "die Streitigkeiten"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Es gab Streitigkeiten um das Erbe.",
+      "english": "There were disputes over the inheritance.",
+      "highlight": [
+        "Streitigkeiten"
+      ]
+    },
+    {
+      "german": "Rechtliche Streitigkeiten können teuer werden.",
+      "english": "Legal disputes can get expensive.",
+      "highlight": [
+        "Streitigkeiten"
+      ]
+    }
+  ],
+  "forms": [
+    "Streitigkeiten",
+    "die Streitigkeiten",
+    "die Streitigkeit"
+  ],
+  "memoryHook": "Streitigkeiten: the formal plural of Streit.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Streitigkeit",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Streitigkeit is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Streitigkeit, zwei ___",
+      "answer": "Streitigkeiten",
+      "fullAnswer": "ein Streitigkeit, zwei Streitigkeiten",
+      "explanation": "The plural is Streitigkeiten.",
+      "acceptedAnswers": [
+        "Streitigkeiten"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Streitigkeit mean?",
+      "options": [
+        "to sing",
+        "dispute",
+        "the car"
+      ],
+      "answer": "dispute",
+      "explanation": "Streitigkeit: dispute, quarrel (usually plural).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mostly used in the…",
+      "options": [
+        "plural",
+        "singular"
+      ],
+      "answer": "plural",
+      "explanation": "Streitigkeiten.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Simpler word:",
+      "options": [
+        "der Streit",
+        "die Streitkraft"
+      ],
+      "answer": "der Streit",
+      "explanation": "Streit.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Rechtsstreitigkeit is…",
+      "options": [
+        "a legal dispute",
+        "a fair trial"
+      ],
+      "answer": "a legal dispute",
+      "explanation": "Legal dispute.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Streitigkeit is a dispute or quarrel, almost always in the plural: Streitigkeiten unter Nachbarn, rechtliche Streitigkeiten. It's more formal than der Streit, which is the everyday word and has no common plural of its own; Streitigkeiten fills that gap. Neighbour disputes are a German classic, from hedges to noise during the Ruhezeiten, and many end at the Schiedsamt (local mediator) or in court."
+}

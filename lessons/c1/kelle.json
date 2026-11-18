@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Kelle",
+    "partOfSpeech": "noun, feminine (die Kelle)",
+    "pronunciation": {
+      "respelling": "KE-le",
+      "ipa": "ˈkɛlə",
+      "notes": "Plural: die Kellen."
+    },
+    "meaning": "ladle; trowel; signalling disc",
+    "shortDefinition": "Ladle; trowel; signalling disc."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Kelle, plural die Kellen.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Kelle"
+        },
+        {
+          "label": "More than one",
+          "value": "die Kellen"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Sie schöpfte die Suppe mit der Kelle.",
+      "english": "She served the soup with a ladle.",
+      "highlight": [
+        "Kelle."
+      ]
+    },
+    {
+      "german": "Der Polizist hob die Kelle und stoppte das Auto.",
+      "english": "The police officer raised the signalling disc and stopped the car.",
+      "highlight": [
+        "Kelle"
+      ]
+    }
+  ],
+  "forms": [
+    "Kellen",
+    "die Kelle"
+  ],
+  "memoryHook": "Kelle: a scoop with a handle.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Kelle",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Kelle is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Kelle, zwei ___",
+      "answer": "Kellen",
+      "fullAnswer": "ein Kelle, zwei Kellen",
+      "explanation": "The plural is Kellen.",
+      "acceptedAnswers": [
+        "Kellen"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Kelle mean?",
+      "options": [
+        "ladle",
+        "always",
+        "hot"
+      ],
+      "answer": "ladle",
+      "explanation": "Kelle: ladle; trowel; signalling disc.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Polizeikelle is…",
+      "options": [
+        "a stop sign held by police",
+        "a police kitchen"
+      ],
+      "answer": "a stop sign held by police",
+      "explanation": "Police.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Maurerkelle is…",
+      "options": [
+        "a bricklayer's trowel",
+        "a soup bowl"
+      ],
+      "answer": "a bricklayer's trowel",
+      "explanation": "Tool.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Schöpfkelle is…",
+      "options": [
+        "ladle",
+        "a creation"
+      ],
+      "answer": "ladle",
+      "explanation": "Kitchen.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Kelle has several meanings: a ladle (die Schöpfkelle, die Suppenkelle), a bricklayer's trowel (die Maurerkelle), and the round red-and-white signalling disc that police and railway staff raise to stop traffic or signal departure (die Polizeikelle, die Signalkelle). Jemanden mit der Kelle rauswinken means a police officer waving you over. Plural: die Kellen."
+}

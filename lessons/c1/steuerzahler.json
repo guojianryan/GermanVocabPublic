@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Steuerzahler",
+    "partOfSpeech": "noun, masculine (der Steuerzahler)",
+    "pronunciation": {
+      "respelling": "SHTOY-er-tsaa-ler",
+      "ipa": "ˈʃtɔɪ̯ɐˌt͡saːlɐ",
+      "notes": "Plural: die Steuerzahler."
+    },
+    "meaning": "taxpayer",
+    "shortDefinition": "Taxpayer."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Der Steuerzahler, plural die Steuerzahler.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "der Steuerzahler"
+        },
+        {
+          "label": "More than one",
+          "value": "die Steuerzahler"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das kostet den Steuerzahler Millionen.",
+      "english": "That costs the taxpayer millions.",
+      "highlight": [
+        "Steuerzahler"
+      ]
+    },
+    {
+      "german": "Der Bund der Steuerzahler kritisiert Verschwendung.",
+      "english": "The Taxpayers' Association criticises waste.",
+      "highlight": [
+        "Steuerzahler"
+      ]
+    }
+  ],
+  "forms": [
+    "die Steuerzahler",
+    "der Steuerzahler",
+    "Steuerzahlerin"
+  ],
+  "memoryHook": "Steuerzahler: who pays (zahlt) the Steuer.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Steuerzahler",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "der",
+      "explanation": "Steuerzahler is masculine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Steuerzahler, zwei ___",
+      "answer": "Steuerzahler",
+      "fullAnswer": "ein Steuerzahler, zwei Steuerzahler",
+      "explanation": "The plural is Steuerzahler.",
+      "acceptedAnswers": [
+        "Steuerzahler"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Steuerzahler mean?",
+      "options": [
+        "taxpayer",
+        "the child",
+        "always"
+      ],
+      "answer": "taxpayer",
+      "explanation": "Steuerzahler: taxpayer.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Das Schwarzbuch is…",
+      "options": [
+        "the yearly list of wasted tax money",
+        "a crime novel"
+      ],
+      "answer": "the yearly list of wasted tax money",
+      "explanation": "Schwarzbuch.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Steuer (fem.) means…",
+      "options": [
+        "tax",
+        "steering wheel"
+      ],
+      "answer": "tax",
+      "explanation": "Das Steuer = steering wheel.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Female form:",
+      "options": [
+        "die Steuerzahlerin",
+        "die Steuerzahlin"
+      ],
+      "answer": "die Steuerzahlerin",
+      "explanation": "-in.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Der Steuerzahler (die Steuerzahlerin) is a taxpayer: auf Kosten der Steuerzahler (at the taxpayers' expense). Every year, the Bund der Steuerzahler (Taxpayers' Association) publishes its Schwarzbuch listing wasted public money, such as bridges to nowhere. Note: die Steuer is tax, but das Steuer is a steering wheel. Germans file a Steuererklärung (tax return), often with the help of a Steuerberater."
+}

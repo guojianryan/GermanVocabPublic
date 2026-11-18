@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "wackeln",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "VA-keln",
+      "ipa": "ˈvakl̩n",
+      "notes": ""
+    },
+    "meaning": "to wobble, shake; to be shaky",
+    "shortDefinition": "To wobble, shake; to be shaky."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "wackl|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "wackel|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "wackel|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "wackel|n"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "wackel|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "wackel|n"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat gewackelt"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Tisch wackelt.",
+      "english": "The table wobbles.",
+      "highlight": [
+        "wackelt."
+      ]
+    },
+    {
+      "german": "Sein Job wackelt.",
+      "english": "His job is on shaky ground.",
+      "highlight": [
+        "wackelt."
+      ]
+    }
+  ],
+  "forms": [
+    "wackle",
+    "wackelst",
+    "wackelt",
+    "wackeln",
+    "gewackelt",
+    "wackelig"
+  ],
+  "memoryHook": "Wackeln: wobble like a loose tooth (Wackelzahn).",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (wackeln)",
+      "answer": "wackelt",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: wackelt.",
+      "acceptedAnswers": [
+        "wackelt"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (wackeln, past)",
+      "answer": "gewackelt",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe gewackelt.",
+      "acceptedAnswers": [
+        "gewackelt"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does wackeln mean?",
+      "options": [
+        "the weather",
+        "always",
+        "to wobble"
+      ],
+      "answer": "to wobble",
+      "explanation": "wackeln: to wobble, shake; to be shaky.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Wackelkandidat is…",
+      "options": [
+        "someone whose position is uncertain",
+        "a jelly"
+      ],
+      "answer": "someone whose position is uncertain",
+      "explanation": "Uncertain.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Der Wackelpudding is…",
+      "options": [
+        "jelly (dessert)",
+        "pudding"
+      ],
+      "answer": "jelly (dessert)",
+      "explanation": "Dessert.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Wackelig means…",
+      "options": [
+        "wobbly, shaky",
+        "awake"
+      ],
+      "answer": "wobbly, shaky",
+      "explanation": "Adjective.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Wackeln means to wobble or shake: Der Stuhl wackelt, mit dem Kopf wackeln. A loose child's tooth is ein Wackelzahn. Figuratively, Sein Job wackelt means it's uncertain, and der Wackelkandidat is someone whose place is in doubt, from a team player to a coalition partner. Der Wackelpudding is jelly (Jell-O), and wackelig means wobbly. Regular: wackelte, gewackelt."
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "degradieren",
+    "partOfSpeech": "verb",
+    "pronunciation": {
+      "respelling": "de-gra-DEE-ren",
+      "ipa": "deɡʁaˈdiːʁən",
+      "notes": ""
+    },
+    "meaning": "to demote; to degrade",
+    "shortDefinition": "To demote; to degrade."
+  },
+  "tables": [
+    {
+      "title": "Present tense",
+      "columns": [
+        "present"
+      ],
+      "rows": [
+        {
+          "label": "ich",
+          "cells": [
+            "degradier|e"
+          ]
+        },
+        {
+          "label": "du",
+          "cells": [
+            "degradier|st"
+          ]
+        },
+        {
+          "label": "er, sie, es",
+          "cells": [
+            "degradier|t"
+          ]
+        },
+        {
+          "label": "wir",
+          "cells": [
+            "degradier|en"
+          ]
+        },
+        {
+          "label": "ihr",
+          "cells": [
+            "degradier|t"
+          ]
+        },
+        {
+          "label": "sie, Sie",
+          "cells": [
+            "degradier|en"
+          ]
+        }
+      ],
+      "notes": [
+        "Past (Perfekt): hat degradiert"
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Der Offizier wurde zum einfachen Soldaten degradiert.",
+      "english": "The officer was demoted to private.",
+      "highlight": [
+        "degradiert."
+      ]
+    },
+    {
+      "german": "Ich fühle mich zum Zuschauer degradiert.",
+      "english": "I feel reduced to a mere spectator.",
+      "highlight": [
+        "degradiert."
+      ]
+    }
+  ],
+  "forms": [
+    "degradiere",
+    "degradierst",
+    "degradiert",
+    "degradieren",
+    "Degradierung"
+  ],
+  "memoryHook": "Degradieren: step down (de-gradus) a rank.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "er ___ (degradieren)",
+      "answer": "degradiert",
+      "fullAnswer": "",
+      "explanation": "For er, sie, es: degradiert.",
+      "acceptedAnswers": [
+        "degradiert"
+      ],
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ich habe schon ___. (degradieren, past)",
+      "answer": "degradiert",
+      "fullAnswer": "",
+      "explanation": "Perfekt: habe degradiert.",
+      "acceptedAnswers": [
+        "degradiert"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does degradieren mean?",
+      "options": [
+        "the shop",
+        "to demote",
+        "to open"
+      ],
+      "answer": "to demote",
+      "explanation": "degradieren: to demote; to degrade.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Degradieren zu means…",
+      "options": [
+        "to reduce to, demote to",
+        "to graduate"
+      ],
+      "answer": "to reduce to, demote to",
+      "explanation": "Demote.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Die Degradierung is…",
+      "options": [
+        "demotion; degradation",
+        "a degree"
+      ],
+      "answer": "demotion; degradation",
+      "explanation": "Noun.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Befördern means…",
+      "options": [
+        "to promote; to transport",
+        "to demote"
+      ],
+      "answer": "to promote; to transport",
+      "explanation": "Opposite.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Degradieren means to demote: einen Offizier degradieren, and figuratively to reduce someone to a lesser role: jemanden zum Statisten degradieren (to a mere extra). In science it also means to degrade: Kunststoffe degradieren. The opposite of demoting is befördern (to promote). Perfect without ge-: hat degradiert."
+}

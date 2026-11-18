@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Mediathek",
+    "partOfSpeech": "noun, feminine (die Mediathek)",
+    "pronunciation": {
+      "respelling": "me-dya-TAYK",
+      "ipa": "medi̯aˈteːk",
+      "notes": "Plural: die Mediatheken."
+    },
+    "meaning": "media library (online/TV)",
+    "shortDefinition": "Media library (online/TV)."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Die Mediathek, plural die Mediatheken.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "die Mediathek"
+        },
+        {
+          "label": "More than one",
+          "value": "die Mediatheken"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Die Sendung kann man in der Mediathek nachschauen.",
+      "english": "You can watch the programme later in the media library.",
+      "highlight": [
+        "Mediathek"
+      ]
+    },
+    {
+      "german": "Die Mediathek der Stadtbibliothek verleiht DVDs.",
+      "english": "The city library's media centre lends out DVDs.",
+      "highlight": [
+        "Mediathek"
+      ]
+    }
+  ],
+  "forms": [
+    "Mediatheken",
+    "die Mediatheken",
+    "die Mediathek"
+  ],
+  "memoryHook": "Mediathek: a -thek (collection) of media.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Mediathek",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "die",
+      "explanation": "Mediathek is feminine.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Mediathek, zwei ___",
+      "answer": "Mediatheken",
+      "fullAnswer": "ein Mediathek, zwei Mediatheken",
+      "explanation": "The plural is Mediatheken.",
+      "acceptedAnswers": [
+        "Mediatheken"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Mediathek mean?",
+      "options": [
+        "media library (online/TV)",
+        "expensive",
+        "to sing"
+      ],
+      "answer": "media library (online/TV)",
+      "explanation": "Mediathek: media library (online/TV).",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "ARD and ZDF Mediatheken offer…",
+      "options": [
+        "free on-demand public TV",
+        "paid films only"
+      ],
+      "answer": "free on-demand public TV",
+      "explanation": "On demand.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "Public broadcasting is funded by…",
+      "options": [
+        "the Rundfunkbeitrag (licence fee)",
+        "advertising only"
+      ],
+      "answer": "the Rundfunkbeitrag (licence fee)",
+      "explanation": "Licence fee.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "Pattern: Bibliothek, Mediathek, Videothek, Diskothek share…",
+      "options": [
+        "-thek (collection)",
+        "-tech"
+      ],
+      "answer": "-thek (collection)",
+      "explanation": "Suffix.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Die Mediathek is a media library: in libraries, a section lending DVDs and audiobooks, and online, the on-demand service of broadcasters: die ARD-Mediathek, die ZDF-Mediathek, where public TV can be watched free. Public broadcasting is funded by the Rundfunkbeitrag, a monthly fee paid by every household. The suffix -thek (collection) also appears in Bibliothek, Videothek and Diskothek. Plural: die Mediatheken."
+}

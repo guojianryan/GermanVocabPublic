@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "1.4",
+  "language": "de",
+  "explanationLanguage": "en",
+  "level": "C1",
+  "levelSource": "wordfreq frequency ranking (German corpus); level estimated",
+  "lessonType": "card",
+  "word": {
+    "headword": "Nummernschild",
+    "partOfSpeech": "noun, neuter (das Nummernschild)",
+    "pronunciation": {
+      "respelling": "NU-mern-shilt",
+      "ipa": "ˈnʊmɐnˌʃɪlt",
+      "notes": "Plural: die Nummernschilder."
+    },
+    "meaning": "number plate, licence plate",
+    "shortDefinition": "Number plate, licence plate."
+  },
+  "commonMistakes": [
+    {
+      "title": "Gender and plural",
+      "explanation": "Das Nummernschild, plural die Nummernschilder.",
+      "forms": [
+        {
+          "label": "One",
+          "value": "das Nummernschild"
+        },
+        {
+          "label": "More than one",
+          "value": "die Nummernschilder"
+        }
+      ]
+    }
+  ],
+  "sampleSentences": [
+    {
+      "german": "Das Auto hat ein Münchner Nummernschild.",
+      "english": "The car has a Munich number plate.",
+      "highlight": [
+        "Nummernschild."
+      ]
+    },
+    {
+      "german": "Er notierte sich das Nummernschild des Täters.",
+      "english": "He noted down the offender's licence plate.",
+      "highlight": [
+        "Nummernschild"
+      ]
+    }
+  ],
+  "forms": [
+    "Nummernschilder",
+    "das Nummernschild"
+  ],
+  "memoryHook": "Nummernschild: a Schild (sign) with Nummern.",
+  "signOff": "Gut gemacht!",
+  "quiz": [
+    {
+      "type": "choice",
+      "prompt": "___ Nummernschild",
+      "options": [
+        "der",
+        "die",
+        "das"
+      ],
+      "answer": "das",
+      "explanation": "Nummernschild is neuter.",
+      "id": "q1"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "ein Nummernschild, zwei ___",
+      "answer": "Nummernschilder",
+      "fullAnswer": "ein Nummernschild, zwei Nummernschilder",
+      "explanation": "The plural is Nummernschilder.",
+      "acceptedAnswers": [
+        "Nummernschilder"
+      ],
+      "id": "q2"
+    },
+    {
+      "type": "choice",
+      "prompt": "What does Nummernschild mean?",
+      "options": [
+        "to help",
+        "number plate",
+        "the station"
+      ],
+      "answer": "number plate",
+      "explanation": "Nummernschild: number plate, licence plate.",
+      "id": "q3"
+    },
+    {
+      "type": "choice",
+      "prompt": "Official term:",
+      "options": [
+        "das Kennzeichen",
+        "die Nummerntafel"
+      ],
+      "answer": "das Kennzeichen",
+      "explanation": "Official.",
+      "id": "q4"
+    },
+    {
+      "type": "choice",
+      "prompt": "The first letters show…",
+      "options": [
+        "the registration district (e.g. M = München)",
+        "the year"
+      ],
+      "answer": "the registration district (e.g. M = München)",
+      "explanation": "Letters.",
+      "id": "q5"
+    },
+    {
+      "type": "choice",
+      "prompt": "B on a number plate stands for…",
+      "options": [
+        "Berlin",
+        "Bonn"
+      ],
+      "answer": "Berlin",
+      "explanation": "Berlin.",
+      "id": "q6"
+    }
+  ],
+  "goodToKnow": "Das Nummernschild is a number plate; the official term is das Kfz-Kennzeichen. The first one to three letters show the district: B for Berlin, M for Munich, HH for Hansestadt Hamburg, K for Cologne. Since 2012, many old district codes have been reintroduced (Kennzeichenliberalisierung), and people pick Wunschkennzeichen with their initials. Plural: die Nummernschilder."
+}
